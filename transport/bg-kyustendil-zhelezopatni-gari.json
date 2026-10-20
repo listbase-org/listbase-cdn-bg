@@ -1,0 +1,246 @@
+{
+  "id": "bg-kyustendil-zhelezopatni-gari",
+  "name": "Железопътни гари — област Кюстендил",
+  "title": "Железопътни гари — област Кюстендил",
+  "description": "Железопътни гари и спирки в област Кюстендил (Kyustendil, код KNL) от trainline-eu/stations. 5 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_latin",
+      "label": "Oblast Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_bg",
+      "label": "Nearest Settlement Bg",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_km",
+      "label": "Nearest Settlement Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 37788,
+      "name": "Dupnitsa",
+      "slug": "dupnitsa",
+      "uic": "",
+      "latitude": 42.260404,
+      "longitude": 23.103719,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Кюстендил",
+      "oblast_latin": "Kyustendil",
+      "oblast_slug": "kyustendil",
+      "oblast_code": "KNL",
+      "nearest_settlement_bg": "Дупница",
+      "nearest_settlement_km": 0.725,
+      "country": "BG"
+    },
+    {
+      "id": 2,
+      "station_id": 37799,
+      "name": "Konyavo",
+      "slug": "konyavo",
+      "uic": "",
+      "latitude": 42.324163,
+      "longitude": 22.781934,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Кюстендил",
+      "oblast_latin": "Kyustendil",
+      "oblast_slug": "kyustendil",
+      "oblast_code": "KNL",
+      "nearest_settlement_bg": "Коняво",
+      "nearest_settlement_km": 0.051,
+      "country": "BG"
+    },
+    {
+      "id": 3,
+      "station_id": 37804,
+      "name": "Kyustendil",
+      "slug": "kyustendil",
+      "uic": "",
+      "latitude": 42.289203,
+      "longitude": 22.683591,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Кюстендил",
+      "oblast_latin": "Kyustendil",
+      "oblast_slug": "kyustendil",
+      "oblast_code": "KNL",
+      "nearest_settlement_bg": "Кюстендил",
+      "nearest_settlement_km": 0.889,
+      "country": "BG"
+    },
+    {
+      "id": 4,
+      "station_id": 37830,
+      "name": "Tsarvendol",
+      "slug": "tsarvendol",
+      "uic": "",
+      "latitude": 42.346242,
+      "longitude": 22.796257,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Кюстендил",
+      "oblast_latin": "Kyustendil",
+      "oblast_slug": "kyustendil",
+      "oblast_code": "KNL",
+      "nearest_settlement_bg": "Цървеняно",
+      "nearest_settlement_km": 1.147,
+      "country": "BG"
+    },
+    {
+      "id": 5,
+      "station_id": 68006,
+      "name": "Yabalkovo",
+      "slug": "yabalkovo",
+      "uic": "",
+      "latitude": 42.306492,
+      "longitude": 22.737432,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Кюстендил",
+      "oblast_latin": "Kyustendil",
+      "oblast_slug": "kyustendil",
+      "oblast_code": "KNL",
+      "nearest_settlement_bg": "Ябълково",
+      "nearest_settlement_km": 0.121,
+      "country": "BG"
+    }
+  ],
+  "meta": {
+    "title": "Железопътни гари — област Кюстендил - Безплатно изтегляне",
+    "description": "Железопътни гари и спирки в област Кюстендил (Kyustendil, код KNL) от trainline-eu/stations. 5 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations. Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железопътни гари — област Кюстендил | ListBase",
+    "seo_description": "Изтеглете Железопътни гари — област Кюстендил — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

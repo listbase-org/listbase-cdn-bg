@@ -1,0 +1,146 @@
+{
+  "id": "bg-merni-edinitsi-graphics",
+  "name": "Мерни единици: graphics (8)",
+  "title": "Мерни единици: graphics (8)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'graphics'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "kategoriya": "graphics",
+      "nazvanie": "точки",
+      "shablon_edinstveno": "{0} точка",
+      "shablon_mnozhestveno": "{0} точки",
+      "kratak_shablon": "{0} точки",
+      "tesen_shablon": "{0} точки"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategoriya": "graphics",
+      "nazvanie": "точки на сантиметър",
+      "shablon_edinstveno": "{0} точка на сантиметър",
+      "shablon_mnozhestveno": "{0} точки на сантиметър",
+      "kratak_shablon": "{0} dpcm",
+      "tesen_shablon": "{0} dpcm"
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "kategoriya": "graphics",
+      "nazvanie": "точки на инч",
+      "shablon_edinstveno": "{0} точка на инч",
+      "shablon_mnozhestveno": "{0} точки на инч",
+      "kratak_shablon": "{0} dpi",
+      "tesen_shablon": "{0} dpi"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "kategoriya": "graphics",
+      "nazvanie": "типографски ем",
+      "shablon_edinstveno": "{0} ем",
+      "shablon_mnozhestveno": "{0} ем",
+      "kratak_shablon": "{0} ем",
+      "tesen_shablon": "{0} ем"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "kategoriya": "graphics",
+      "nazvanie": "мегапиксели",
+      "shablon_edinstveno": "{0} мегапиксел",
+      "shablon_mnozhestveno": "{0} мегапиксела",
+      "kratak_shablon": "{0} MP",
+      "tesen_shablon": "{0} MP"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "kategoriya": "graphics",
+      "nazvanie": "пиксели",
+      "shablon_edinstveno": "{0} пиксел",
+      "shablon_mnozhestveno": "{0} пиксела",
+      "kratak_shablon": "{0} px",
+      "tesen_shablon": "{0} px"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategoriya": "graphics",
+      "nazvanie": "пиксели на сантиметър",
+      "shablon_edinstveno": "{0} пиксел на сантиметър",
+      "shablon_mnozhestveno": "{0} пиксела на сантиметър",
+      "kratak_shablon": "{0} ppcm",
+      "tesen_shablon": "{0} ppcm"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategoriya": "graphics",
+      "nazvanie": "пиксели на инч",
+      "shablon_edinstveno": "{0} пиксел на инч",
+      "shablon_mnozhestveno": "{0} пиксела на инч",
+      "kratak_shablon": "{0} ppi",
+      "tesen_shablon": "{0} ppi"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: graphics (8) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'graphics'. Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: graphics (8) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: graphics (8) — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

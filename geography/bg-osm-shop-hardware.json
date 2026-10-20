@@ -1,0 +1,2923 @@
+{
+  "id": "bg-osm-shop-hardware",
+  "name": "Железарски магазини в България (OpenStreetMap)",
+  "title": "Железарски магазини в България (OpenStreetMap)",
+  "description": "Железарски магазини в България — 318 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=hardware`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 318,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Ангел Стоилов 96\" АД",
+      "shirina": 42.160538,
+      "dalzhina": 24.76742,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 2,
+      "ime": "\"Снабстрой\" ООД",
+      "shirina": 42.616214,
+      "dalzhina": 23.042157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 3,
+      "ime": "1001 стоки",
+      "shirina": 42.704156,
+      "dalzhina": 23.321512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 4,
+      "ime": "1001 стоки",
+      "shirina": 43.700344,
+      "dalzhina": 28.040112,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 5,
+      "ime": "2001 стоки... и още нещо",
+      "shirina": 42.147487,
+      "dalzhina": 24.778261,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 6,
+      "ime": "Alati",
+      "shirina": 43.241355,
+      "dalzhina": 27.866653,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 7,
+      "ime": "Arfi",
+      "shirina": 41.484825,
+      "dalzhina": 24.848097,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 8,
+      "ime": "Boni",
+      "shirina": 42.690151,
+      "dalzhina": 23.34104,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 9,
+      "ime": "Caparol",
+      "shirina": 42.648703,
+      "dalzhina": 23.373158,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 10,
+      "ime": "ClimaSystems",
+      "shirina": 42.464983,
+      "dalzhina": 27.418585,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 11,
+      "ime": "Colorificio Veneziano",
+      "shirina": 42.709718,
+      "dalzhina": 23.293408,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 12,
+      "ime": "DS Home",
+      "shirina": 43.569297,
+      "dalzhina": 27.847394,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 13,
+      "ime": "DomMix",
+      "shirina": 42.147207,
+      "dalzhina": 24.767798,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 14,
+      "ime": "Donald",
+      "shirina": 42.129082,
+      "dalzhina": 24.785258,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 15,
+      "ime": "EKOM",
+      "shirina": 43.223027,
+      "dalzhina": 27.929438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 16,
+      "ime": "EL",
+      "shirina": 42.618745,
+      "dalzhina": 25.398219,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 17,
+      "ime": "Euromarket",
+      "shirina": 42.18487,
+      "dalzhina": 24.737984,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 18,
+      "ime": "Focus",
+      "shirina": 42.691569,
+      "dalzhina": 23.311586,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 19,
+      "ime": "GEMARK, GU обков, М ФОКС",
+      "shirina": 42.513321,
+      "dalzhina": 27.449539,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 20,
+      "ime": "GS Stroimarket",
+      "shirina": 43.587418,
+      "dalzhina": 27.827883,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 21,
+      "ime": "GS Строймаркет Варна",
+      "shirina": 43.216145,
+      "dalzhina": 27.870604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 22,
+      "ime": "Garden max",
+      "shirina": 43.082842,
+      "dalzhina": 25.583472,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 23,
+      "ime": "Gardenia Antana",
+      "shirina": 42.185492,
+      "dalzhina": 24.738023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 24,
+      "ime": "Garvan",
+      "shirina": 43.234535,
+      "dalzhina": 27.87467,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 25,
+      "ime": "HYDPOWER SERVICE",
+      "shirina": 42.510582,
+      "dalzhina": 27.440006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 26,
+      "ime": "Hendi",
+      "shirina": 42.707911,
+      "dalzhina": 23.334188,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 27,
+      "ime": "Husqvarna",
+      "shirina": 42.668786,
+      "dalzhina": 23.290741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 28,
+      "ime": "Husqvarna",
+      "shirina": 42.698537,
+      "dalzhina": 23.297023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 29,
+      "ime": "Husqvarna",
+      "shirina": 42.72408,
+      "dalzhina": 23.311296,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 30,
+      "ime": "Husqvarna",
+      "shirina": 43.082891,
+      "dalzhina": 25.583455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 31,
+      "ime": "Husqwarna",
+      "shirina": 42.726365,
+      "dalzhina": 23.263149,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 32,
+      "ime": "ITT",
+      "shirina": 42.517016,
+      "dalzhina": 27.428985,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 33,
+      "ime": "Kolor Ltd Sofia 2",
+      "shirina": 42.669933,
+      "dalzhina": 23.286312,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 34,
+      "ime": "Kubota",
+      "shirina": 42.705152,
+      "dalzhina": 23.394711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 35,
+      "ime": "Magnum-Fs",
+      "shirina": 42.174479,
+      "dalzhina": 24.741505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 36,
+      "ime": "Maxim",
+      "shirina": 42.179609,
+      "dalzhina": 24.741254,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 37,
+      "ime": "Maxxmart",
+      "shirina": 42.17437,
+      "dalzhina": 24.741511,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 38,
+      "ime": "Maxxmart",
+      "shirina": 42.266928,
+      "dalzhina": 27.74182,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 39,
+      "ime": "Maxxmart",
+      "shirina": 42.609477,
+      "dalzhina": 23.400053,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 40,
+      "ime": "Maxxmart",
+      "shirina": 42.641376,
+      "dalzhina": 23.315274,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 41,
+      "ime": "Maxxmart",
+      "shirina": 42.643467,
+      "dalzhina": 23.307236,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 42,
+      "ime": "Maxxmart",
+      "shirina": 42.64845,
+      "dalzhina": 23.297017,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 43,
+      "ime": "Maxxmart",
+      "shirina": 42.68728,
+      "dalzhina": 23.232961,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 44,
+      "ime": "Maxxmart",
+      "shirina": 42.730705,
+      "dalzhina": 23.2547,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 45,
+      "ime": "Mish Mash",
+      "shirina": 41.636066,
+      "dalzhina": 25.356047,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 46,
+      "ime": "Mish mash",
+      "shirina": 41.641642,
+      "dalzhina": 25.372961,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 47,
+      "ime": "Premium Detailing Varna",
+      "shirina": 43.239416,
+      "dalzhina": 27.903142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 48,
+      "ime": "Romstal",
+      "shirina": 42.519326,
+      "dalzhina": 27.422331,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 49,
+      "ime": "Rothenberger",
+      "shirina": 42.687412,
+      "dalzhina": 23.352704,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 50,
+      "ime": "Sakis",
+      "shirina": 42.63172,
+      "dalzhina": 25.193109,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 51,
+      "ime": "Stihl",
+      "shirina": 42.011913,
+      "dalzhina": 24.870606,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 52,
+      "ime": "Stihl",
+      "shirina": 42.154178,
+      "dalzhina": 24.761514,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 53,
+      "ime": "Stihl",
+      "shirina": 42.671187,
+      "dalzhina": 23.598326,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 54,
+      "ime": "Stihl",
+      "shirina": 42.68944,
+      "dalzhina": 23.304339,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 55,
+      "ime": "Stihl",
+      "shirina": 42.710285,
+      "dalzhina": 23.425876,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 56,
+      "ime": "Stihl",
+      "shirina": 42.723185,
+      "dalzhina": 23.257941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 57,
+      "ime": "Syngenta",
+      "shirina": 42.264909,
+      "dalzhina": 24.727385,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 58,
+      "ime": "Tankushev",
+      "shirina": 42.701577,
+      "dalzhina": 23.340708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 59,
+      "ime": "Tip- Top Market",
+      "shirina": 41.880346,
+      "dalzhina": 23.52205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 60,
+      "ime": "Toplo Plus",
+      "shirina": 42.644123,
+      "dalzhina": 23.414706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 61,
+      "ime": "Unicem",
+      "shirina": 42.666778,
+      "dalzhina": 23.339339,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 62,
+      "ime": "Valerii S&M Group",
+      "shirina": 42.699216,
+      "dalzhina": 23.368029,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 63,
+      "ime": "Vasmar",
+      "shirina": 41.632298,
+      "dalzhina": 25.378956,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 64,
+      "ime": "Warehouse for metals",
+      "shirina": 43.197229,
+      "dalzhina": 23.573607,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 65,
+      "ime": "local store for construction and hardware",
+      "shirina": 43.04921,
+      "dalzhina": 25.879407,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 66,
+      "ime": "maxxmart",
+      "shirina": 42.666836,
+      "dalzhina": 23.341401,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 67,
+      "ime": "maxxmart",
+      "shirina": 42.666864,
+      "dalzhina": 23.337838,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 68,
+      "ime": "maxxmart",
+      "shirina": 42.676819,
+      "dalzhina": 23.289634,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 69,
+      "ime": "maxxmart",
+      "shirina": 43.199096,
+      "dalzhina": 23.57348,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 70,
+      "ime": "small store",
+      "shirina": 43.044952,
+      "dalzhina": 25.890548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 71,
+      "ime": "tirbushona.bg",
+      "shirina": 42.685933,
+      "dalzhina": 23.296003,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 72,
+      "ime": "Авлон",
+      "shirina": 42.671045,
+      "dalzhina": 23.258766,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 73,
+      "ime": "Агромаркет",
+      "shirina": 42.708223,
+      "dalzhina": 23.398937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 74,
+      "ime": "Агротехники",
+      "shirina": 42.493512,
+      "dalzhina": 27.461218,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 75,
+      "ime": "Айзентраум",
+      "shirina": 42.504387,
+      "dalzhina": 27.460013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 76,
+      "ime": "Акаб",
+      "shirina": 43.201714,
+      "dalzhina": 27.919538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 77,
+      "ime": "Алфа Болт",
+      "shirina": 43.218661,
+      "dalzhina": 27.862492,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 78,
+      "ime": "Андреев",
+      "shirina": 43.573904,
+      "dalzhina": 27.833977,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 79,
+      "ime": "Андреев",
+      "shirina": 43.575198,
+      "dalzhina": 27.833131,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 80,
+      "ime": "Анел",
+      "shirina": 42.417183,
+      "dalzhina": 27.695937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 81,
+      "ime": "Анжел",
+      "shirina": 43.218528,
+      "dalzhina": 27.928061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 82,
+      "ime": "Антас",
+      "shirina": 43.161667,
+      "dalzhina": 26.81642,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 83,
+      "ime": "Апогей 99",
+      "shirina": 42.492176,
+      "dalzhina": 27.466221,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 84,
+      "ime": "Арабела Глас",
+      "shirina": 42.469322,
+      "dalzhina": 27.432174,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 85,
+      "ime": "Арес-2002 ООД",
+      "shirina": 41.93247,
+      "dalzhina": 25.587899,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 86,
+      "ime": "Арматурен цех Чаталбашев",
+      "shirina": 43.218117,
+      "dalzhina": 27.875886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 87,
+      "ime": "Астарго",
+      "shirina": 42.13858,
+      "dalzhina": 24.797016,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 88,
+      "ime": "Астери 78",
+      "shirina": 42.129329,
+      "dalzhina": 24.741734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 89,
+      "ime": "Астеф",
+      "shirina": 42.701337,
+      "dalzhina": 23.341379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 90,
+      "ime": "БГ Машини",
+      "shirina": 42.637484,
+      "dalzhina": 23.386594,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 91,
+      "ime": "Ба Бо",
+      "shirina": 42.145475,
+      "dalzhina": 24.765314,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 92,
+      "ime": "Багира 1",
+      "shirina": 42.430311,
+      "dalzhina": 25.633332,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 93,
+      "ime": "Багира 2",
+      "shirina": 42.413961,
+      "dalzhina": 25.637828,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 94,
+      "ime": "Баш майстора",
+      "shirina": 43.218075,
+      "dalzhina": 27.905165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 95,
+      "ime": "Беласица",
+      "shirina": 42.677607,
+      "dalzhina": 23.289755,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 96,
+      "ime": "Берлинер - Аксесоари за дограма",
+      "shirina": 42.480252,
+      "dalzhina": 27.439759,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 97,
+      "ime": "Бигор-ИН",
+      "shirina": 42.161392,
+      "dalzhina": 24.766484,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 98,
+      "ime": "Болид - строителни материали",
+      "shirina": 42.00699,
+      "dalzhina": 24.879819,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 99,
+      "ime": "Бончев",
+      "shirina": 42.701624,
+      "dalzhina": 23.340596,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 100,
+      "ime": "Боро",
+      "shirina": 42.713978,
+      "dalzhina": 23.255015,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 101,
+      "ime": "Борово",
+      "shirina": 42.668805,
+      "dalzhina": 23.278118,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 102,
+      "ime": "Борса Ален Мак",
+      "shirina": 43.258311,
+      "dalzhina": 28.020721,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 103,
+      "ime": "Боруй",
+      "shirina": 42.427096,
+      "dalzhina": 25.641789,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 104,
+      "ime": "Братя Неделеви Направи си сам",
+      "shirina": 42.132402,
+      "dalzhina": 24.532412,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 105,
+      "ime": "Брилянт",
+      "shirina": 42.691547,
+      "dalzhina": 23.322045,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 106,
+      "ime": "Булгара Трейд 17",
+      "shirina": 42.511106,
+      "dalzhina": 27.438959,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 107,
+      "ime": "Бурлаков",
+      "shirina": 43.435998,
+      "dalzhina": 28.337661,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 108,
+      "ime": "Велдмакс",
+      "shirina": 42.66025,
+      "dalzhina": 23.266998,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 109,
+      "ime": "Веник",
+      "shirina": 43.550345,
+      "dalzhina": 27.834073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 110,
+      "ime": "ВиК маркет Бори-М",
+      "shirina": 42.480935,
+      "dalzhina": 26.502895,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 111,
+      "ime": "ВиК системи",
+      "shirina": 41.587194,
+      "dalzhina": 24.032674,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 112,
+      "ime": "Вимар БГ",
+      "shirina": 42.239009,
+      "dalzhina": 24.723707,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 113,
+      "ime": "Вираж Трейд",
+      "shirina": 42.678204,
+      "dalzhina": 23.293754,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 114,
+      "ime": "Вихрен",
+      "shirina": 42.665832,
+      "dalzhina": 23.270858,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 115,
+      "ime": "Вулкан 3",
+      "shirina": 43.208961,
+      "dalzhina": 27.904624,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 116,
+      "ime": "Вулкан 3",
+      "shirina": 43.214778,
+      "dalzhina": 27.940804,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 117,
+      "ime": "Вулкан 3",
+      "shirina": 43.215021,
+      "dalzhina": 27.920441,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 118,
+      "ime": "Вулкан 3",
+      "shirina": 43.234925,
+      "dalzhina": 27.88733,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 119,
+      "ime": "Галфи ООД крепежни елементи",
+      "shirina": 42.709282,
+      "dalzhina": 23.31322,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 120,
+      "ime": "Гаматех ЕООД",
+      "shirina": 43.227709,
+      "dalzhina": 27.917138,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 121,
+      "ime": "Градинска техника",
+      "shirina": 42.660128,
+      "dalzhina": 23.246613,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 122,
+      "ime": "Да, имаме!",
+      "shirina": 42.689918,
+      "dalzhina": 23.321978,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 123,
+      "ime": "Декор димотика",
+      "shirina": 42.6744,
+      "dalzhina": 23.278522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 124,
+      "ime": "Деплан",
+      "shirina": 42.476168,
+      "dalzhina": 27.438476,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 125,
+      "ime": "Джорди-22",
+      "shirina": 43.218577,
+      "dalzhina": 27.87654,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 126,
+      "ime": "Ди Ем Мартина Макс",
+      "shirina": 42.632572,
+      "dalzhina": 23.33293,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 127,
+      "ime": "Ди Ес Хоум",
+      "shirina": 42.504177,
+      "dalzhina": 27.458847,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 128,
+      "ime": "Дирада ЕООД",
+      "shirina": 43.817278,
+      "dalzhina": 27.14284,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 129,
+      "ime": "Добрев строй",
+      "shirina": 43.168125,
+      "dalzhina": 27.442444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 130,
+      "ime": "Дома",
+      "shirina": 42.703855,
+      "dalzhina": 27.711522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 131,
+      "ime": "Домашни потреби",
+      "shirina": 41.586947,
+      "dalzhina": 24.03194,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 132,
+      "ime": "Доналд",
+      "shirina": 42.140064,
+      "dalzhina": 24.768211,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 133,
+      "ime": "ЕН ТИ ЕН - БЪЛГАРИЯ ЕООД /Складова база/",
+      "shirina": 42.268986,
+      "dalzhina": 23.148033,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 134,
+      "ime": "ЕТ Търговска Къща Пушкаров",
+      "shirina": 41.934475,
+      "dalzhina": 25.572985,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 135,
+      "ime": "Евроболт",
+      "shirina": 42.704922,
+      "dalzhina": 23.328508,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 136,
+      "ime": "Евротулс - Радослав Буров",
+      "shirina": 42.773652,
+      "dalzhina": 23.315979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 137,
+      "ime": "Екси-ти",
+      "shirina": 42.694448,
+      "dalzhina": 23.360636,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 138,
+      "ime": "Ел-Машини",
+      "shirina": 42.737057,
+      "dalzhina": 23.301876,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 139,
+      "ime": "Елба",
+      "shirina": 43.211289,
+      "dalzhina": 27.901564,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 140,
+      "ime": "Елба",
+      "shirina": 43.217552,
+      "dalzhina": 27.905051,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 141,
+      "ime": "Железария",
+      "shirina": 41.383834,
+      "dalzhina": 25.09085,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 142,
+      "ime": "Железария",
+      "shirina": 42.084389,
+      "dalzhina": 24.427333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 143,
+      "ime": "Железария",
+      "shirina": 42.167452,
+      "dalzhina": 27.844744,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 144,
+      "ime": "Железария",
+      "shirina": 42.290705,
+      "dalzhina": 24.128998,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 145,
+      "ime": "Железария",
+      "shirina": 42.293067,
+      "dalzhina": 24.131222,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 146,
+      "ime": "Железария",
+      "shirina": 42.50397,
+      "dalzhina": 27.47603,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 147,
+      "ime": "Железария",
+      "shirina": 42.637757,
+      "dalzhina": 23.368794,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 148,
+      "ime": "Железария",
+      "shirina": 42.640456,
+      "dalzhina": 23.647177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 149,
+      "ime": "Железария",
+      "shirina": 42.704973,
+      "dalzhina": 23.352286,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 150,
+      "ime": "Железария",
+      "shirina": 43.218835,
+      "dalzhina": 27.926877,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 151,
+      "ime": "Железария",
+      "shirina": 43.426309,
+      "dalzhina": 23.753227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 152,
+      "ime": "Железария",
+      "shirina": 43.426569,
+      "dalzhina": 23.755067,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 153,
+      "ime": "Железария",
+      "shirina": 43.818867,
+      "dalzhina": 27.140532,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 154,
+      "ime": "Железария Би Стил",
+      "shirina": 42.583793,
+      "dalzhina": 23.165431,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 155,
+      "ime": "Железария Тонак",
+      "shirina": 42.016581,
+      "dalzhina": 23.088543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 156,
+      "ime": "Железник М ООД",
+      "shirina": 42.411324,
+      "dalzhina": 25.653809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 157,
+      "ime": "Жоан",
+      "shirina": 44.109346,
+      "dalzhina": 27.243233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 158,
+      "ime": "ЗАИ",
+      "shirina": 43.242558,
+      "dalzhina": 23.142809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 159,
+      "ime": "Зани 11",
+      "shirina": 42.711489,
+      "dalzhina": 23.311516,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 160,
+      "ime": "Здравец 08 ЕООД",
+      "shirina": 42.28574,
+      "dalzhina": 22.682965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 161,
+      "ime": "Зит - строителни материали",
+      "shirina": 42.00426,
+      "dalzhina": 24.873294,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 162,
+      "ime": "ИТТ",
+      "shirina": 42.484609,
+      "dalzhina": 26.516084,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 163,
+      "ime": "ИТТ",
+      "shirina": 42.678645,
+      "dalzhina": 23.268865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 164,
+      "ime": "ИТТ България ЕООД: Крепежни елементи",
+      "shirina": 42.024446,
+      "dalzhina": 24.901351,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 165,
+      "ime": "Идва Гео",
+      "shirina": 42.654469,
+      "dalzhina": 23.397016,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 166,
+      "ime": "Кärcher",
+      "shirina": 42.699025,
+      "dalzhina": 23.366981,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 167,
+      "ime": "Кадемлия",
+      "shirina": 42.678379,
+      "dalzhina": 23.290664,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 168,
+      "ime": "Кадемлия",
+      "shirina": 42.690645,
+      "dalzhina": 23.362605,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 169,
+      "ime": "Каи Тех ООД",
+      "shirina": 42.669917,
+      "dalzhina": 23.289523,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 170,
+      "ime": "КамТехКом",
+      "shirina": 42.700604,
+      "dalzhina": 23.359613,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 171,
+      "ime": "Качика Керамика",
+      "shirina": 42.509018,
+      "dalzhina": 27.466148,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 172,
+      "ime": "Квартална Железария",
+      "shirina": 42.679371,
+      "dalzhina": 23.324569,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 173,
+      "ime": "Квартална железария",
+      "shirina": 42.699127,
+      "dalzhina": 23.33769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 174,
+      "ime": "Кварталната железария",
+      "shirina": 42.688744,
+      "dalzhina": 23.312679,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 175,
+      "ime": "Кварталната железария",
+      "shirina": 42.696432,
+      "dalzhina": 23.317459,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 176,
+      "ime": "Кварталната железария",
+      "shirina": 42.696952,
+      "dalzhina": 23.286945,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 177,
+      "ime": "Кварталната железария",
+      "shirina": 42.712995,
+      "dalzhina": 23.270616,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 178,
+      "ime": "Кива",
+      "shirina": 42.715722,
+      "dalzhina": 23.236339,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 179,
+      "ime": "Кива",
+      "shirina": 42.726104,
+      "dalzhina": 23.253409,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 180,
+      "ime": "Ключар",
+      "shirina": 42.491146,
+      "dalzhina": 27.464642,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 181,
+      "ime": "Ковано желязо",
+      "shirina": 42.140997,
+      "dalzhina": 24.737468,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 182,
+      "ime": "Комо",
+      "shirina": 42.696128,
+      "dalzhina": 23.345486,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 183,
+      "ime": "Краско ООД София",
+      "shirina": 42.718041,
+      "dalzhina": 23.254867,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 184,
+      "ime": "Крез",
+      "shirina": 42.181845,
+      "dalzhina": 24.316419,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 185,
+      "ime": "Крез",
+      "shirina": 42.203984,
+      "dalzhina": 24.321052,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 186,
+      "ime": "Крепежи България",
+      "shirina": 43.218684,
+      "dalzhina": 27.86308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 187,
+      "ime": "Крепежни елементи",
+      "shirina": 42.491044,
+      "dalzhina": 27.464574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 188,
+      "ime": "Крос",
+      "shirina": 42.662241,
+      "dalzhina": 23.353724,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 189,
+      "ime": "Лагери Ekoal",
+      "shirina": 43.535504,
+      "dalzhina": 26.528537,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 190,
+      "ime": "Лагуна Лукс",
+      "shirina": 42.514928,
+      "dalzhina": 27.439573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 191,
+      "ime": "Латинка БГ",
+      "shirina": 42.702939,
+      "dalzhina": 23.299416,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 192,
+      "ime": "МИП ТС",
+      "shirina": 42.667675,
+      "dalzhina": 23.265869,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 193,
+      "ime": "МОНО МОНОЛИТ-С.ДИМИТРОВ",
+      "shirina": 43.571598,
+      "dalzhina": 27.831401,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 194,
+      "ime": "МОНО-МОНОЛИТ",
+      "shirina": 43.562585,
+      "dalzhina": 27.81377,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 195,
+      "ime": "Магазин АссА Маркет",
+      "shirina": 43.273611,
+      "dalzhina": 26.945538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 196,
+      "ime": "Магазин за промишлени стоки",
+      "shirina": 42.685303,
+      "dalzhina": 25.319763,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 197,
+      "ime": "Магазин за строителни материали",
+      "shirina": 42.601578,
+      "dalzhina": 25.20512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 198,
+      "ime": "Маке",
+      "shirina": 42.703717,
+      "dalzhina": 23.323062,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 199,
+      "ime": "Максим - строителни материали",
+      "shirina": 42.892359,
+      "dalzhina": 25.324951,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 200,
+      "ime": "Маркита",
+      "shirina": 42.126745,
+      "dalzhina": 24.750473,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 201,
+      "ime": "Мебелен обков",
+      "shirina": 42.723311,
+      "dalzhina": 23.247282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 202,
+      "ime": "Микс 25",
+      "shirina": 42.16726,
+      "dalzhina": 24.740741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 203,
+      "ime": "Модератор",
+      "shirina": 41.83699,
+      "dalzhina": 23.496773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 204,
+      "ime": "Мони Монолит",
+      "shirina": 43.570754,
+      "dalzhina": 27.826001,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 205,
+      "ime": "Муси 2008",
+      "shirina": 43.53457,
+      "dalzhina": 26.513593,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 206,
+      "ime": "НКСФ-Трейд",
+      "shirina": 42.427911,
+      "dalzhina": 25.64001,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 207,
+      "ime": "Недев",
+      "shirina": 41.92875,
+      "dalzhina": 25.557772,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 208,
+      "ime": "Недев Маркет",
+      "shirina": 41.929697,
+      "dalzhina": 25.575456,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 209,
+      "ime": "Никра",
+      "shirina": 42.01862,
+      "dalzhina": 24.863636,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 210,
+      "ime": "Нортоп",
+      "shirina": 42.66981,
+      "dalzhina": 23.317299,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 211,
+      "ime": "ОК Маркет",
+      "shirina": 42.148669,
+      "dalzhina": 24.414042,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 212,
+      "ime": "ОСОТ Арматурен цех",
+      "shirina": 42.51643,
+      "dalzhina": 27.4315,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 213,
+      "ime": "Обков MACO",
+      "shirina": 42.479413,
+      "dalzhina": 27.446091,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 214,
+      "ime": "Орекс",
+      "shirina": 43.219837,
+      "dalzhina": 27.909448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 215,
+      "ime": "Орекс",
+      "shirina": 43.235465,
+      "dalzhina": 27.904909,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 216,
+      "ime": "Орси",
+      "shirina": 42.664157,
+      "dalzhina": 23.284003,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 217,
+      "ime": "Офис EVN - электрокомпания",
+      "shirina": 42.491431,
+      "dalzhina": 27.473658,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 218,
+      "ime": "Парапети",
+      "shirina": 42.141141,
+      "dalzhina": 24.737886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 219,
+      "ime": "Пегас 2002",
+      "shirina": 42.708503,
+      "dalzhina": 23.309899,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 220,
+      "ime": "Первази",
+      "shirina": 43.214363,
+      "dalzhina": 27.921574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 221,
+      "ime": "Петра Декор",
+      "shirina": 43.238904,
+      "dalzhina": 27.904362,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 222,
+      "ime": "Пожарна Техника",
+      "shirina": 43.530741,
+      "dalzhina": 26.526336,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 223,
+      "ime": "Практико",
+      "shirina": 42.474261,
+      "dalzhina": 26.528657,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 224,
+      "ime": "Промишлени стоки",
+      "shirina": 42.929971,
+      "dalzhina": 25.882794,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 225,
+      "ime": "Пункт за изкупуване на метали",
+      "shirina": 42.503789,
+      "dalzhina": 27.457192,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 226,
+      "ime": "Пушкаров",
+      "shirina": 41.937531,
+      "dalzhina": 25.546553,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 227,
+      "ime": "РУВИТЕРМ",
+      "shirina": 42.16925,
+      "dalzhina": 24.742327,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 228,
+      "ime": "Рай за майстора",
+      "shirina": 42.658937,
+      "dalzhina": 23.281245,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 229,
+      "ime": "Реликс Вибро",
+      "shirina": 42.66613,
+      "dalzhina": 23.249184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 230,
+      "ime": "Рем Инженеринг 08 ООД",
+      "shirina": 42.690644,
+      "dalzhina": 23.256387,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 231,
+      "ime": "Рила 21",
+      "shirina": 42.412469,
+      "dalzhina": 27.698544,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 232,
+      "ime": "Ринк",
+      "shirina": 43.808066,
+      "dalzhina": 26.104989,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 233,
+      "ime": "Ролинг",
+      "shirina": 41.928662,
+      "dalzhina": 25.561596,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 234,
+      "ime": "Ролинг",
+      "shirina": 41.937139,
+      "dalzhina": 25.56283,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 235,
+      "ime": "Ролинг-Л",
+      "shirina": 41.930767,
+      "dalzhina": 25.569505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 236,
+      "ime": "Росен Цветков Сървиз",
+      "shirina": 42.665314,
+      "dalzhina": 23.273125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 237,
+      "ime": "Роси",
+      "shirina": 42.159447,
+      "dalzhina": 24.74793,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 238,
+      "ime": "Румас",
+      "shirina": 43.56959,
+      "dalzhina": 27.82391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 239,
+      "ime": "Румик",
+      "shirina": 42.720247,
+      "dalzhina": 23.340556,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 240,
+      "ime": "СПС",
+      "shirina": 42.635062,
+      "dalzhina": 24.81992,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 241,
+      "ime": "СТРОЙ-ДИ",
+      "shirina": 42.058887,
+      "dalzhina": 25.262712,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 242,
+      "ime": "Селта",
+      "shirina": 42.708957,
+      "dalzhina": 23.300445,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 243,
+      "ime": "Сенс",
+      "shirina": 43.536945,
+      "dalzhina": 26.52878,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 244,
+      "ime": "Симакс",
+      "shirina": 42.907748,
+      "dalzhina": 23.794387,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 245,
+      "ime": "Сириус",
+      "shirina": 42.427454,
+      "dalzhina": 25.637267,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 246,
+      "ime": "Сита пласт части за пръскачки",
+      "shirina": 42.488204,
+      "dalzhina": 26.008168,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 247,
+      "ime": "Склад за строителни материали",
+      "shirina": 42.49691,
+      "dalzhina": 25.617374,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 248,
+      "ime": "Склад строителни материали",
+      "shirina": 42.778915,
+      "dalzhina": 23.27435,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 249,
+      "ime": "Спектър",
+      "shirina": 42.498649,
+      "dalzhina": 26.525321,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 250,
+      "ime": "Спирал",
+      "shirina": 42.698066,
+      "dalzhina": 23.309837,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 251,
+      "ime": "Стабил-Ди",
+      "shirina": 42.154293,
+      "dalzhina": 24.769835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 252,
+      "ime": "Станеви Метални конструкции",
+      "shirina": 42.518956,
+      "dalzhina": 27.418098,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 253,
+      "ime": "Станкови",
+      "shirina": 42.684911,
+      "dalzhina": 23.313288,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 254,
+      "ime": "Стас 30",
+      "shirina": 42.74451,
+      "dalzhina": 23.278509,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 255,
+      "ime": "Стоичков и Синове",
+      "shirina": 42.668696,
+      "dalzhina": 23.319717,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 256,
+      "ime": "Стоичков и Синове",
+      "shirina": 42.675105,
+      "dalzhina": 23.356721,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 257,
+      "ime": "Стоичков и Синове",
+      "shirina": 42.682024,
+      "dalzhina": 23.30104,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 258,
+      "ime": "Стоичков и Синове",
+      "shirina": 42.689137,
+      "dalzhina": 23.313226,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 259,
+      "ime": "Стоичков и Синове",
+      "shirina": 42.689319,
+      "dalzhina": 23.343916,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 260,
+      "ime": "Стоичков и Синове",
+      "shirina": 42.690843,
+      "dalzhina": 23.314126,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 261,
+      "ime": "Стоичков и синове",
+      "shirina": 42.68114,
+      "dalzhina": 23.33239,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 262,
+      "ime": "Стоичков и синове",
+      "shirina": 42.706472,
+      "dalzhina": 23.351506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 263,
+      "ime": "Строителен магазин",
+      "shirina": 41.644295,
+      "dalzhina": 24.174899,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 264,
+      "ime": "Строителен магазин",
+      "shirina": 42.921882,
+      "dalzhina": 22.933005,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 265,
+      "ime": "Строителен магазин \"Киното\"",
+      "shirina": 43.471609,
+      "dalzhina": 23.945705,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 266,
+      "ime": "Строителен мини-маркет",
+      "shirina": 42.738317,
+      "dalzhina": 22.90832,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 267,
+      "ime": "Строителен хипермаркет \"Рила\"",
+      "shirina": 42.118081,
+      "dalzhina": 24.750977,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 268,
+      "ime": "Строителен център Красно село",
+      "shirina": 42.676366,
+      "dalzhina": 23.285563,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 269,
+      "ime": "Строителна борса \"Валентино\"",
+      "shirina": 43.550209,
+      "dalzhina": 27.835111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 270,
+      "ime": "Строителни Борси Крипс 5",
+      "shirina": 42.630503,
+      "dalzhina": 23.408171,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 271,
+      "ime": "Строителни материали",
+      "shirina": 41.585232,
+      "dalzhina": 24.028538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 272,
+      "ime": "Строителни материали",
+      "shirina": 42.081598,
+      "dalzhina": 24.591659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 273,
+      "ime": "Строителни материали",
+      "shirina": 42.140293,
+      "dalzhina": 24.759904,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 274,
+      "ime": "СтройКомплектКонсултинг СКК",
+      "shirina": 43.255782,
+      "dalzhina": 28.015551,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 275,
+      "ime": "Стройко",
+      "shirina": 42.674344,
+      "dalzhina": 26.346572,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 276,
+      "ime": "Строймакс 1",
+      "shirina": 41.929556,
+      "dalzhina": 25.570627,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 277,
+      "ime": "Строймаркет",
+      "shirina": 42.625967,
+      "dalzhina": 23.446,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 278,
+      "ime": "Строймаркет",
+      "shirina": 42.674152,
+      "dalzhina": 23.256911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 279,
+      "ime": "Стром 21",
+      "shirina": 42.691217,
+      "dalzhina": 27.699667,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 280,
+      "ime": "ТЕРМОЛУКС",
+      "shirina": 42.480691,
+      "dalzhina": 27.445835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 281,
+      "ime": "ТОПКЕР-1 ЕООД",
+      "shirina": 42.707441,
+      "dalzhina": 23.412316,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 282,
+      "ime": "ТЦ \"Мал Мук\"",
+      "shirina": 42.601364,
+      "dalzhina": 23.10834,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 283,
+      "ime": "Тавико",
+      "shirina": 43.537224,
+      "dalzhina": 26.52894,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 284,
+      "ime": "Тагемал",
+      "shirina": 42.426937,
+      "dalzhina": 25.643711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 285,
+      "ime": "Тапети",
+      "shirina": 42.696267,
+      "dalzhina": 23.286928,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 286,
+      "ime": "Ташев-Галвинг",
+      "shirina": 42.493553,
+      "dalzhina": 26.498099,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 287,
+      "ime": "Тека",
+      "shirina": 42.666383,
+      "dalzhina": 23.416647,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 288,
+      "ime": "Термо-клима",
+      "shirina": 43.214845,
+      "dalzhina": 27.916179,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 289,
+      "ime": "Тиликум",
+      "shirina": 42.499355,
+      "dalzhina": 27.475054,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 290,
+      "ime": "Томика",
+      "shirina": 42.140544,
+      "dalzhina": 24.731301,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 291,
+      "ime": "Топ Тандем 5",
+      "shirina": 42.494239,
+      "dalzhina": 27.463517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 292,
+      "ime": "Топливо",
+      "shirina": 42.571269,
+      "dalzhina": 27.617515,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 293,
+      "ime": "Топливо",
+      "shirina": 42.920481,
+      "dalzhina": 22.923854,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 294,
+      "ime": "Топливо",
+      "shirina": 43.538213,
+      "dalzhina": 26.520611,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 295,
+      "ime": "Топливо - инертни материали",
+      "shirina": 42.898599,
+      "dalzhina": 25.326332,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 296,
+      "ime": "Топломаркет",
+      "shirina": 42.925504,
+      "dalzhina": 22.934519,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 297,
+      "ime": "Тосини",
+      "shirina": 42.525882,
+      "dalzhina": 27.445391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 298,
+      "ime": "Тренчев",
+      "shirina": 42.33901,
+      "dalzhina": 23.559477,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 299,
+      "ime": "Търговски център Ела",
+      "shirina": 42.502325,
+      "dalzhina": 26.525088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 300,
+      "ime": "ФАТУМ ЕООД",
+      "shirina": 42.409153,
+      "dalzhina": 25.63561,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 301,
+      "ime": "Филбо",
+      "shirina": 43.210513,
+      "dalzhina": 27.863735,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 302,
+      "ime": "Филкаб",
+      "shirina": 43.215744,
+      "dalzhina": 27.882829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 303,
+      "ime": "Фирмен магазин на завод \"Метал\"",
+      "shirina": 43.219201,
+      "dalzhina": 27.865449,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 304,
+      "ime": "Харивест",
+      "shirina": 42.664207,
+      "dalzhina": 23.285102,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 305,
+      "ime": "Хипермаркет ОНЬОР",
+      "shirina": 42.669926,
+      "dalzhina": 26.326005,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 306,
+      "ime": "Хривас",
+      "shirina": 42.131224,
+      "dalzhina": 24.785494,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 307,
+      "ime": "ЦЕМ Комерс",
+      "shirina": 43.201777,
+      "dalzhina": 27.899216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 308,
+      "ime": "ЦЕМ Комерс",
+      "shirina": 43.994609,
+      "dalzhina": 22.867217,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 309,
+      "ime": "Цеко-Строй Груп",
+      "shirina": 43.540258,
+      "dalzhina": 26.514223,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 310,
+      "ime": "Цех за алуминиева и PVC дограма",
+      "shirina": 42.68013,
+      "dalzhina": 23.378184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 311,
+      "ime": "Чечосан",
+      "shirina": 41.7359,
+      "dalzhina": 24.415835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 312,
+      "ime": "Юбис",
+      "shirina": 42.701148,
+      "dalzhina": 23.359741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 313,
+      "ime": "Юнакъ",
+      "shirina": 42.708053,
+      "dalzhina": 23.313388,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 314,
+      "ime": "Язон",
+      "shirina": 43.203317,
+      "dalzhina": 27.911949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 315,
+      "ime": "магазин за строителни материали",
+      "shirina": 42.649912,
+      "dalzhina": 23.633289,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 316,
+      "ime": "пожарогасители Хера",
+      "shirina": 43.153328,
+      "dalzhina": 25.637043,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 317,
+      "ime": "стаев",
+      "shirina": 42.141584,
+      "dalzhina": 24.739073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    },
+    {
+      "id": 318,
+      "ime": "“ГАЛДИ” ООД",
+      "shirina": 42.481575,
+      "dalzhina": 27.446693,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "hardware",
+      "osm_klas": "shop=hardware"
+    }
+  ],
+  "meta": {
+    "title": "Железарски магазини в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Железарски магазини в България — 318 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=hardware`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 318 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железарски магазини в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Железарски магазини в България (OpenStreetMap) — 318 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 318 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

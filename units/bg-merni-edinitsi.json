@@ -1,0 +1,2376 @@
+{
+  "id": "bg-merni-edinitsi",
+  "name": "Мерни единици (CLDR, 231)",
+  "title": "Мерни единици (CLDR, 231)",
+  "description": "Мерни единици и техните български наименования и шаблони от CLDR bg-локала units.json (long/short/narrow).",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategoriya": "acceleration",
+      "nazvanie": "G",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} G",
+      "kratak_shablon": "{0} G",
+      "tesen_shablon": "{0} G"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategoriya": "acceleration",
+      "nazvanie": "метри за секунда на квадрат",
+      "shablon_edinstveno": "{0} метър за секунда на квадрат",
+      "shablon_mnozhestveno": "{0} метра за секунда на квадрат",
+      "kratak_shablon": "{0} m/s²",
+      "tesen_shablon": "{0} m/s²"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "kategoriya": "angle",
+      "nazvanie": "дъгови минути",
+      "shablon_edinstveno": "{0} дъгова минута",
+      "shablon_mnozhestveno": "{0} дъгови минути",
+      "kratak_shablon": "{0}′",
+      "tesen_shablon": "{0}′"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "kategoriya": "angle",
+      "nazvanie": "дъгови секунди",
+      "shablon_edinstveno": "{0} дъгова секунда",
+      "shablon_mnozhestveno": "{0} дъгови секунди",
+      "kratak_shablon": "{0}″",
+      "tesen_shablon": "{0}″"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "kategoriya": "angle",
+      "nazvanie": "градуси",
+      "shablon_edinstveno": "{0} градус",
+      "shablon_mnozhestveno": "{0} градуса",
+      "kratak_shablon": "{0}°",
+      "tesen_shablon": "{0}°"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "kategoriya": "angle",
+      "nazvanie": "радиани",
+      "shablon_edinstveno": "{0} радиан",
+      "shablon_mnozhestveno": "{0} радиана",
+      "kratak_shablon": "{0} rad",
+      "tesen_shablon": "{0} rad"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "kategoriya": "angle",
+      "nazvanie": "обороти",
+      "shablon_edinstveno": "{0} оборот",
+      "shablon_mnozhestveno": "{0} оборота",
+      "kratak_shablon": "{0} об.",
+      "tesen_shablon": "{0} об."
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "kategoriya": "angle",
+      "nazvanie": "стерадиани",
+      "shablon_edinstveno": "{0} стерадиан",
+      "shablon_mnozhestveno": "{0} стерадиана",
+      "kratak_shablon": "{0} sr",
+      "tesen_shablon": "{0} sr"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "kategoriya": "area",
+      "nazvanie": "акри",
+      "shablon_edinstveno": "{0} акър",
+      "shablon_mnozhestveno": "{0} акра",
+      "kratak_shablon": "{0} акра",
+      "tesen_shablon": "{0} акра"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "kategoriya": "area",
+      "nazvanie": "bu [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} bu [JP]",
+      "kratak_shablon": "{0} bu [JP]",
+      "tesen_shablon": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "kategoriya": "area",
+      "nazvanie": "cho [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} cho [JP]",
+      "kratak_shablon": "{0} cho [JP]",
+      "tesen_shablon": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "kategoriya": "area",
+      "nazvanie": "дюнюми",
+      "shablon_edinstveno": "{0} дюнюм",
+      "shablon_mnozhestveno": "{0} дюнюма",
+      "kratak_shablon": "{0} дюнюма",
+      "tesen_shablon": "{0} дюнюма"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "kategoriya": "area",
+      "nazvanie": "хектари",
+      "shablon_edinstveno": "{0} хектар",
+      "shablon_mnozhestveno": "{0} хектара",
+      "kratak_shablon": "{0} ha",
+      "tesen_shablon": "{0} ha"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "kategoriya": "area",
+      "nazvanie": "se [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} se [JP]",
+      "kratak_shablon": "{0} se [JP]",
+      "tesen_shablon": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "kategoriya": "area",
+      "nazvanie": "квадратни сантиметри",
+      "shablon_edinstveno": "{0} квадратен сантиметър",
+      "shablon_mnozhestveno": "{0} квадратни сантиметра",
+      "kratak_shablon": "{0} cm²",
+      "tesen_shablon": "{0} cm²"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "kategoriya": "area",
+      "nazvanie": "квадратни футове",
+      "shablon_edinstveno": "{0} квадратен фут",
+      "shablon_mnozhestveno": "{0} квадратни фута",
+      "kratak_shablon": "{0} ft²",
+      "tesen_shablon": "{0} ft²"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "kategoriya": "area",
+      "nazvanie": "квадратни инчове",
+      "shablon_edinstveno": "{0} квадратен инч",
+      "shablon_mnozhestveno": "{0} квадратни инча",
+      "kratak_shablon": "{0} in²",
+      "tesen_shablon": "{0} in²"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "kategoriya": "area",
+      "nazvanie": "квадратни километри",
+      "shablon_edinstveno": "{0} квадратен километър",
+      "shablon_mnozhestveno": "{0} квадратни километра",
+      "kratak_shablon": "{0} km²",
+      "tesen_shablon": "{0} km²"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "kategoriya": "area",
+      "nazvanie": "квадратни метри",
+      "shablon_edinstveno": "{0} квадратен метър",
+      "shablon_mnozhestveno": "{0} квадратни метра",
+      "kratak_shablon": "{0} m²",
+      "tesen_shablon": "{0} m²"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "kategoriya": "area",
+      "nazvanie": "квадратни мили",
+      "shablon_edinstveno": "{0} квадратна миля",
+      "shablon_mnozhestveno": "{0} квадратни мили",
+      "kratak_shablon": "{0} mi²",
+      "tesen_shablon": "{0} кв. мили"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "kategoriya": "area",
+      "nazvanie": "квадратни ярдове",
+      "shablon_edinstveno": "{0} квадратен ярд",
+      "shablon_mnozhestveno": "{0} квадратни ярда",
+      "kratak_shablon": "{0} yd²",
+      "tesen_shablon": "{0} yd²"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "kategoriya": "concentr",
+      "nazvanie": "единици",
+      "shablon_edinstveno": "{0} единица",
+      "shablon_mnozhestveno": "{0} единици",
+      "kratak_shablon": "{0} ед.",
+      "tesen_shablon": "{0} ед."
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "kategoriya": "concentr",
+      "nazvanie": "карати",
+      "shablon_edinstveno": "{0} карат",
+      "shablon_mnozhestveno": "{0} карата",
+      "kratak_shablon": "{0} kt",
+      "tesen_shablon": "{0} kt"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "kategoriya": "concentr",
+      "nazvanie": "катали",
+      "shablon_edinstveno": "{0} катал",
+      "shablon_mnozhestveno": "{0} катала",
+      "kratak_shablon": "{0} kat",
+      "tesen_shablon": "{0} kat"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategoriya": "concentr",
+      "nazvanie": "милиграми на децилитър",
+      "shablon_edinstveno": "{0} милиграм на децилитър",
+      "shablon_mnozhestveno": "{0} милиграма на децилитър",
+      "kratak_shablon": "{0} mg/dl",
+      "tesen_shablon": "{0} mg/dl"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategoriya": "concentr",
+      "nazvanie": "милимоли на литър",
+      "shablon_edinstveno": "{0} милимол на литър",
+      "shablon_mnozhestveno": "{0} милимола на литър",
+      "kratak_shablon": "{0} mmol/L",
+      "tesen_shablon": "{0} mmol/L"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "kategoriya": "concentr",
+      "nazvanie": "молове",
+      "shablon_edinstveno": "{0} mol",
+      "shablon_mnozhestveno": "{0} мола",
+      "kratak_shablon": "{0} mol",
+      "tesen_shablon": "{0} mol"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "kategoriya": "concentr",
+      "nazvanie": "глюкоза",
+      "shablon_edinstveno": "{0} глюкоза",
+      "shablon_mnozhestveno": "{0} глюкоза",
+      "kratak_shablon": "{0} Glc",
+      "tesen_shablon": "{0} Glc"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "kategoriya": "concentr",
+      "nazvanie": "части",
+      "shablon_edinstveno": "{0} част",
+      "shablon_mnozhestveno": "{0} части",
+      "kratak_shablon": "{0} част",
+      "tesen_shablon": "{0} част"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "kategoriya": "concentr",
+      "nazvanie": "части на милион",
+      "shablon_edinstveno": "{0} част на милион",
+      "shablon_mnozhestveno": "{0} части на милион",
+      "kratak_shablon": "{0} ppm",
+      "tesen_shablon": "{0} ppm"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "kategoriya": "concentr",
+      "nazvanie": "части на милиард",
+      "shablon_edinstveno": "{0} част на милиард",
+      "shablon_mnozhestveno": "{0} части на милиард",
+      "kratak_shablon": "{0} ppb",
+      "tesen_shablon": "{0} ppb"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "kategoriya": "concentr",
+      "nazvanie": "процент",
+      "shablon_edinstveno": "{0} процент",
+      "shablon_mnozhestveno": "{0} процента",
+      "kratak_shablon": "{0}%",
+      "tesen_shablon": "{0}%"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "kategoriya": "concentr",
+      "nazvanie": "промил",
+      "shablon_edinstveno": "{0} промил",
+      "shablon_mnozhestveno": "{0} промила",
+      "kratak_shablon": "{0}‰",
+      "tesen_shablon": "{0}‰"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "kategoriya": "concentr",
+      "nazvanie": "базисен пункт",
+      "shablon_edinstveno": "{0} базисен пункт",
+      "shablon_mnozhestveno": "{0} базисни пункта",
+      "kratak_shablon": "{0}‱",
+      "tesen_shablon": "{0}‱"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategoriya": "consumption",
+      "nazvanie": "литри на 100 километра",
+      "shablon_edinstveno": "{0} литър на 100 километра",
+      "shablon_mnozhestveno": "{0} литра на 100 километра",
+      "kratak_shablon": "{0} l/100 km",
+      "tesen_shablon": "{0} l/100 km"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategoriya": "consumption",
+      "nazvanie": "литри на километър",
+      "shablon_edinstveno": "{0} литър на километър",
+      "shablon_mnozhestveno": "{0} литра на километър",
+      "kratak_shablon": "{0} l/km",
+      "tesen_shablon": "{0} l/km"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategoriya": "consumption",
+      "nazvanie": "мили на галон",
+      "shablon_edinstveno": "{0} миля на галон",
+      "shablon_mnozhestveno": "{0} мили на галон",
+      "kratak_shablon": "{0} mpg",
+      "tesen_shablon": "{0} mpg"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategoriya": "consumption",
+      "nazvanie": "мили на имперски галон",
+      "shablon_edinstveno": "{0} миля на имперски галон",
+      "shablon_mnozhestveno": "{0} мили на имперски галон",
+      "kratak_shablon": "{0} mpg Imp.",
+      "tesen_shablon": "{0} mpg Imp."
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "kategoriya": "digital",
+      "nazvanie": "битове",
+      "shablon_edinstveno": "{0} бит",
+      "shablon_mnozhestveno": "{0} бита",
+      "kratak_shablon": "{0} b",
+      "tesen_shablon": "{0} b"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "kategoriya": "digital",
+      "nazvanie": "байтове",
+      "shablon_edinstveno": "{0} байт",
+      "shablon_mnozhestveno": "{0} байта",
+      "kratak_shablon": "{0} B",
+      "tesen_shablon": "{0} B"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "kategoriya": "digital",
+      "nazvanie": "гигабити",
+      "shablon_edinstveno": "{0} гигабит",
+      "shablon_mnozhestveno": "{0} гигабита",
+      "kratak_shablon": "{0} Gb",
+      "tesen_shablon": "{0} Gb"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "kategoriya": "digital",
+      "nazvanie": "гигабайти",
+      "shablon_edinstveno": "{0} гигабайт",
+      "shablon_mnozhestveno": "{0} гигабайта",
+      "kratak_shablon": "{0} GB",
+      "tesen_shablon": "{0} GB"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "kategoriya": "digital",
+      "nazvanie": "килобитове",
+      "shablon_edinstveno": "{0} килобит",
+      "shablon_mnozhestveno": "{0} килобита",
+      "kratak_shablon": "{0} kb",
+      "tesen_shablon": "{0} kb"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "kategoriya": "digital",
+      "nazvanie": "килобайтове",
+      "shablon_edinstveno": "{0} килобайт",
+      "shablon_mnozhestveno": "{0} килобайта",
+      "kratak_shablon": "{0} kB",
+      "tesen_shablon": "{0} kB"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "kategoriya": "digital",
+      "nazvanie": "мегабитове",
+      "shablon_edinstveno": "{0} мегабит",
+      "shablon_mnozhestveno": "{0} мегабита",
+      "kratak_shablon": "{0} Mb",
+      "tesen_shablon": "{0} Mb"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "kategoriya": "digital",
+      "nazvanie": "мегабайти",
+      "shablon_edinstveno": "{0} мегабайт",
+      "shablon_mnozhestveno": "{0} мегабайта",
+      "kratak_shablon": "{0} MB",
+      "tesen_shablon": "{0} MB"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "kategoriya": "digital",
+      "nazvanie": "петабайти",
+      "shablon_edinstveno": "{0} петабайт",
+      "shablon_mnozhestveno": "{0} петабайта",
+      "kratak_shablon": "{0} PB",
+      "tesen_shablon": "{0} PB"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "kategoriya": "digital",
+      "nazvanie": "терабитове",
+      "shablon_edinstveno": "{0} терабит",
+      "shablon_mnozhestveno": "{0} терабита",
+      "kratak_shablon": "{0} Tb",
+      "tesen_shablon": "{0} Tb"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "kategoriya": "digital",
+      "nazvanie": "терабайтове",
+      "shablon_edinstveno": "{0} терабайт",
+      "shablon_mnozhestveno": "{0} терабайта",
+      "kratak_shablon": "{0} TB",
+      "tesen_shablon": "{0} TB"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "kategoriya": "duration",
+      "nazvanie": "векове",
+      "shablon_edinstveno": "{0} век",
+      "shablon_mnozhestveno": "{0} века",
+      "kratak_shablon": "{0} в.",
+      "tesen_shablon": "{0} в."
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "kategoriya": "duration",
+      "nazvanie": "дни",
+      "shablon_edinstveno": "{0} ден",
+      "shablon_mnozhestveno": "{0} дни",
+      "kratak_shablon": "{0} д",
+      "tesen_shablon": "{0} д"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "kategoriya": "duration",
+      "nazvanie": "десетилетия",
+      "shablon_edinstveno": "{0} десетилетие",
+      "shablon_mnozhestveno": "{0} десетилетия",
+      "kratak_shablon": "{0} декади",
+      "tesen_shablon": "{0} декади"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "kategoriya": "duration",
+      "nazvanie": "fortnight",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} fw",
+      "kratak_shablon": "{0} fw",
+      "tesen_shablon": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "kategoriya": "duration",
+      "nazvanie": "часове",
+      "shablon_edinstveno": "{0} час",
+      "shablon_mnozhestveno": "{0} часа",
+      "kratak_shablon": "{0} ч",
+      "tesen_shablon": "{0} ч"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "kategoriya": "duration",
+      "nazvanie": "микросекунди",
+      "shablon_edinstveno": "{0} микросекунда",
+      "shablon_mnozhestveno": "{0} микросекунди",
+      "kratak_shablon": "{0} μs",
+      "tesen_shablon": "{0} μs"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "kategoriya": "duration",
+      "nazvanie": "милисекунди",
+      "shablon_edinstveno": "{0} милисекунда",
+      "shablon_mnozhestveno": "{0} милисекунди",
+      "kratak_shablon": "{0} мсек",
+      "tesen_shablon": "{0} мсек"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "kategoriya": "duration",
+      "nazvanie": "минути",
+      "shablon_edinstveno": "{0} минута",
+      "shablon_mnozhestveno": "{0} минути",
+      "kratak_shablon": "{0} мин",
+      "tesen_shablon": "{0} мин"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "kategoriya": "duration",
+      "nazvanie": "месеци",
+      "shablon_edinstveno": "{0} месец",
+      "shablon_mnozhestveno": "{0} месеца",
+      "kratak_shablon": "{0} мес.",
+      "tesen_shablon": "{0} мес."
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "kategoriya": "duration",
+      "nazvanie": "наносекунди",
+      "shablon_edinstveno": "{0} наносекунда",
+      "shablon_mnozhestveno": "{0} наносекунди",
+      "kratak_shablon": "{0} ns",
+      "tesen_shablon": "{0} ns"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "kategoriya": "duration",
+      "nazvanie": "нощи",
+      "shablon_edinstveno": "{0} нощ",
+      "shablon_mnozhestveno": "{0} нощи",
+      "kratak_shablon": "{0} нощи",
+      "tesen_shablon": "{0} нощи"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "kategoriya": "duration",
+      "nazvanie": "тримесечия",
+      "shablon_edinstveno": "{0} тримесечие",
+      "shablon_mnozhestveno": "{0} тримесечия",
+      "kratak_shablon": "{0} тримес.",
+      "tesen_shablon": "{0} трим."
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "kategoriya": "duration",
+      "nazvanie": "секунди",
+      "shablon_edinstveno": "{0} секунда",
+      "shablon_mnozhestveno": "{0} секунди",
+      "kratak_shablon": "{0} сек",
+      "tesen_shablon": "{0} с"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "kategoriya": "duration",
+      "nazvanie": "седмици",
+      "shablon_edinstveno": "{0} седмица",
+      "shablon_mnozhestveno": "{0} седмици",
+      "kratak_shablon": "{0} седм.",
+      "tesen_shablon": "{0} седм."
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "kategoriya": "duration",
+      "nazvanie": "години",
+      "shablon_edinstveno": "{0} година",
+      "shablon_mnozhestveno": "{0} години",
+      "kratak_shablon": "{0} год.",
+      "tesen_shablon": "{0} г."
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "kategoriya": "electric",
+      "nazvanie": "ампери",
+      "shablon_edinstveno": "{0} ампер",
+      "shablon_mnozhestveno": "{0} ампера",
+      "kratak_shablon": "{0} A",
+      "tesen_shablon": "{0} A"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "kategoriya": "electric",
+      "nazvanie": "кулони",
+      "shablon_edinstveno": "{0} кулон",
+      "shablon_mnozhestveno": "{0} кулона",
+      "kratak_shablon": "{0} C",
+      "tesen_shablon": "{0} C"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "kategoriya": "electric",
+      "nazvanie": "фаради",
+      "shablon_edinstveno": "{0} фарад",
+      "shablon_mnozhestveno": "{0} фарада",
+      "kratak_shablon": "{0} F",
+      "tesen_shablon": "{0} F"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "kategoriya": "electric",
+      "nazvanie": "хенри",
+      "shablon_edinstveno": "{0} хенри",
+      "shablon_mnozhestveno": "{0} хенри",
+      "kratak_shablon": "{0} H",
+      "tesen_shablon": "{0} H"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "kategoriya": "electric",
+      "nazvanie": "милиампери",
+      "shablon_edinstveno": "{0} милиампер",
+      "shablon_mnozhestveno": "{0} милиампера",
+      "kratak_shablon": "{0} mA",
+      "tesen_shablon": "{0} mA"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "kategoriya": "electric",
+      "nazvanie": "омове",
+      "shablon_edinstveno": "{0} ом",
+      "shablon_mnozhestveno": "{0} ома",
+      "kratak_shablon": "{0} Ω",
+      "tesen_shablon": "{0} Ω"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "kategoriya": "electric",
+      "nazvanie": "сименс",
+      "shablon_edinstveno": "{0} сименс",
+      "shablon_mnozhestveno": "{0} сименса",
+      "kratak_shablon": "{0} S",
+      "tesen_shablon": "{0} S"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "kategoriya": "electric",
+      "nazvanie": "волтове",
+      "shablon_edinstveno": "{0} волт",
+      "shablon_mnozhestveno": "{0} волта",
+      "kratak_shablon": "{0} V",
+      "tesen_shablon": "{0} V"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "kategoriya": "energy",
+      "nazvanie": "бекерели",
+      "shablon_edinstveno": "{0} бекерел",
+      "shablon_mnozhestveno": "{0} бекерела",
+      "kratak_shablon": "{0} Bq",
+      "tesen_shablon": "{0} Bq"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "kategoriya": "energy",
+      "nazvanie": "британски термални единици",
+      "shablon_edinstveno": "{0} британска термална единица",
+      "shablon_mnozhestveno": "{0} британски термални единици",
+      "kratak_shablon": "{0} BTU",
+      "tesen_shablon": "{0} BTU"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategoriya": "energy",
+      "nazvanie": "BTU-IT",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} BTU-IT",
+      "kratak_shablon": "{0} BTU-IT",
+      "tesen_shablon": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "kategoriya": "energy",
+      "nazvanie": "калории",
+      "shablon_edinstveno": "{0} калория",
+      "shablon_mnozhestveno": "{0} калории",
+      "kratak_shablon": "{0} cal",
+      "tesen_shablon": "{0} cal"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "kategoriya": "energy",
+      "nazvanie": "калории [IT]",
+      "shablon_edinstveno": "{0} калория [IT]",
+      "shablon_mnozhestveno": "{0} калории [IT]",
+      "kratak_shablon": "{0} cal-IT",
+      "tesen_shablon": "{0} cal-IT"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "kategoriya": "energy",
+      "nazvanie": "електронволтове",
+      "shablon_edinstveno": "{0} електронволт",
+      "shablon_mnozhestveno": "{0} електронволта",
+      "kratak_shablon": "{0} eV",
+      "tesen_shablon": "{0} eV"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "kategoriya": "energy",
+      "nazvanie": "калории",
+      "shablon_edinstveno": "{0} калория",
+      "shablon_mnozhestveno": "{0} калории",
+      "kratak_shablon": "{0} cal",
+      "tesen_shablon": "{0} cal"
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "kategoriya": "energy",
+      "nazvanie": "грей",
+      "shablon_edinstveno": "{0} грей",
+      "shablon_mnozhestveno": "{0} грея",
+      "kratak_shablon": "{0} Gy",
+      "tesen_shablon": "{0} Gy"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "kategoriya": "energy",
+      "nazvanie": "джаули",
+      "shablon_edinstveno": "{0} джаул",
+      "shablon_mnozhestveno": "{0} джаула",
+      "kratak_shablon": "{0} J",
+      "tesen_shablon": "{0} J"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "kategoriya": "energy",
+      "nazvanie": "килокалории",
+      "shablon_edinstveno": "{0} килокалория",
+      "shablon_mnozhestveno": "{0} килокалории",
+      "kratak_shablon": "{0} kcal",
+      "tesen_shablon": "{0} kcal"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "kategoriya": "energy",
+      "nazvanie": "килоджаули",
+      "shablon_edinstveno": "{0} килоджаул",
+      "shablon_mnozhestveno": "{0} килоджаула",
+      "kratak_shablon": "{0} kJ",
+      "tesen_shablon": "{0} kJ"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "kategoriya": "energy",
+      "nazvanie": "киловатчасове",
+      "shablon_edinstveno": "{0} киловатчас",
+      "shablon_mnozhestveno": "{0} киловатчаса",
+      "kratak_shablon": "{0} kWh",
+      "tesen_shablon": "{0} kWh"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "kategoriya": "energy",
+      "nazvanie": "сиверти",
+      "shablon_edinstveno": "{0} сиверт",
+      "shablon_mnozhestveno": "{0} сиверта",
+      "kratak_shablon": "{0} Sv",
+      "tesen_shablon": "{0} Sv"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "kategoriya": "energy",
+      "nazvanie": "американски термални единици",
+      "shablon_edinstveno": "{0} американска термална единица",
+      "shablon_mnozhestveno": "{0} американски термални единици",
+      "kratak_shablon": "{0} амер. терм. ед.",
+      "tesen_shablon": "{0} амер. терм. ед."
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "kategoriya": "force",
+      "nazvanie": "килограм-сила",
+      "shablon_edinstveno": "{0} килограм-сила",
+      "shablon_mnozhestveno": "{0} килограма-сила",
+      "kratak_shablon": "{0} kgf",
+      "tesen_shablon": "{0} kgf"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategoriya": "force",
+      "nazvanie": "киловатчас на 100 километра",
+      "shablon_edinstveno": "{0} киловатчас на 100 километра",
+      "shablon_mnozhestveno": "{0} киловатчаса на 100 километра",
+      "kratak_shablon": "{0} kWh/100 km",
+      "tesen_shablon": "{0} kWh/100 km"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "kategoriya": "force",
+      "nazvanie": "нютони",
+      "shablon_edinstveno": "{0} нютон",
+      "shablon_mnozhestveno": "{0} нютона",
+      "kratak_shablon": "{0} N",
+      "tesen_shablon": "{0} N"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "kategoriya": "force",
+      "nazvanie": "фунтове сила",
+      "shablon_edinstveno": "{0} фунт сила",
+      "shablon_mnozhestveno": "{0} фунта сила",
+      "kratak_shablon": "{0} lbf",
+      "tesen_shablon": "{0} lbf"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "kategoriya": "frequency",
+      "nazvanie": "гигахерци",
+      "shablon_edinstveno": "{0} гигахерц",
+      "shablon_mnozhestveno": "{0} гигахерца",
+      "kratak_shablon": "{0} GHz",
+      "tesen_shablon": "{0} GHz"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "kategoriya": "frequency",
+      "nazvanie": "херцове",
+      "shablon_edinstveno": "{0} херц",
+      "shablon_mnozhestveno": "{0} херца",
+      "kratak_shablon": "{0} Hz",
+      "tesen_shablon": "{0} Hz"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "kategoriya": "frequency",
+      "nazvanie": "килохерци",
+      "shablon_edinstveno": "{0} килохерц",
+      "shablon_mnozhestveno": "{0} килохерца",
+      "kratak_shablon": "{0} kHz",
+      "tesen_shablon": "{0} kHz"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "kategoriya": "frequency",
+      "nazvanie": "мегахерци",
+      "shablon_edinstveno": "{0} мегахерц",
+      "shablon_mnozhestveno": "{0} мегахерца",
+      "kratak_shablon": "{0} MHz",
+      "tesen_shablon": "{0} MHz"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot",
+      "kategoriya": "graphics",
+      "nazvanie": "точки",
+      "shablon_edinstveno": "{0} точка",
+      "shablon_mnozhestveno": "{0} точки",
+      "kratak_shablon": "{0} точки",
+      "tesen_shablon": "{0} точки"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategoriya": "graphics",
+      "nazvanie": "точки на сантиметър",
+      "shablon_edinstveno": "{0} точка на сантиметър",
+      "shablon_mnozhestveno": "{0} точки на сантиметър",
+      "kratak_shablon": "{0} dpcm",
+      "tesen_shablon": "{0} dpcm"
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-inch",
+      "kategoriya": "graphics",
+      "nazvanie": "точки на инч",
+      "shablon_edinstveno": "{0} точка на инч",
+      "shablon_mnozhestveno": "{0} точки на инч",
+      "kratak_shablon": "{0} dpi",
+      "tesen_shablon": "{0} dpi"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-em",
+      "kategoriya": "graphics",
+      "nazvanie": "типографски ем",
+      "shablon_edinstveno": "{0} ем",
+      "shablon_mnozhestveno": "{0} ем",
+      "kratak_shablon": "{0} ем",
+      "tesen_shablon": "{0} ем"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-megapixel",
+      "kategoriya": "graphics",
+      "nazvanie": "мегапиксели",
+      "shablon_edinstveno": "{0} мегапиксел",
+      "shablon_mnozhestveno": "{0} мегапиксела",
+      "kratak_shablon": "{0} MP",
+      "tesen_shablon": "{0} MP"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel",
+      "kategoriya": "graphics",
+      "nazvanie": "пиксели",
+      "shablon_edinstveno": "{0} пиксел",
+      "shablon_mnozhestveno": "{0} пиксела",
+      "kratak_shablon": "{0} px",
+      "tesen_shablon": "{0} px"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategoriya": "graphics",
+      "nazvanie": "пиксели на сантиметър",
+      "shablon_edinstveno": "{0} пиксел на сантиметър",
+      "shablon_mnozhestveno": "{0} пиксела на сантиметър",
+      "kratak_shablon": "{0} ppcm",
+      "tesen_shablon": "{0} ppcm"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategoriya": "graphics",
+      "nazvanie": "пиксели на инч",
+      "shablon_edinstveno": "{0} пиксел на инч",
+      "shablon_mnozhestveno": "{0} пиксела на инч",
+      "kratak_shablon": "{0} ppi",
+      "tesen_shablon": "{0} ppi"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-astronomical-unit",
+      "kategoriya": "length",
+      "nazvanie": "астрономически единици",
+      "shablon_edinstveno": "{0} астрономическа единица",
+      "shablon_mnozhestveno": "{0} астрономически единици",
+      "kratak_shablon": "{0} AU",
+      "tesen_shablon": "{0} AU"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-centimeter",
+      "kategoriya": "length",
+      "nazvanie": "сантиметри",
+      "shablon_edinstveno": "{0} сантиметър",
+      "shablon_mnozhestveno": "{0} сантиметра",
+      "kratak_shablon": "{0} cm",
+      "tesen_shablon": "{0} cm"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-chain",
+      "kategoriya": "length",
+      "nazvanie": "chain",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} chain",
+      "kratak_shablon": "{0} chain",
+      "tesen_shablon": "{0} chain"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-decimeter",
+      "kategoriya": "length",
+      "nazvanie": "дециметри",
+      "shablon_edinstveno": "{0} дециметър",
+      "shablon_mnozhestveno": "{0} дециметра",
+      "kratak_shablon": "{0} dm",
+      "tesen_shablon": "{0} dm"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-earth-radius",
+      "kategoriya": "length",
+      "nazvanie": "земен радиус",
+      "shablon_edinstveno": "{0} земен радиус",
+      "shablon_mnozhestveno": "{0} земни радиуса",
+      "kratak_shablon": "{0} R⊕",
+      "tesen_shablon": "{0} R⊕"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-fathom",
+      "kategoriya": "length",
+      "nazvanie": "фатоми",
+      "shablon_edinstveno": "{0} фатом",
+      "shablon_mnozhestveno": "{0} фатома",
+      "kratak_shablon": "{0} fth",
+      "tesen_shablon": "{0} fth"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-foot",
+      "kategoriya": "length",
+      "nazvanie": "футове",
+      "shablon_edinstveno": "{0} фут",
+      "shablon_mnozhestveno": "{0} фута",
+      "kratak_shablon": "{0} ft",
+      "tesen_shablon": "{0} ft"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-furlong",
+      "kategoriya": "length",
+      "nazvanie": "фърлонги",
+      "shablon_edinstveno": "{0} фърлонг",
+      "shablon_mnozhestveno": "{0} фърлонга",
+      "kratak_shablon": "{0} fur",
+      "tesen_shablon": "{0} fur"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-inch",
+      "kategoriya": "length",
+      "nazvanie": "инчове",
+      "shablon_edinstveno": "{0} инч",
+      "shablon_mnozhestveno": "{0} инча",
+      "kratak_shablon": "{0} in",
+      "tesen_shablon": "{0}\""
+    },
+    {
+      "id": 112,
+      "unit_code": "length-jo-jp",
+      "kategoriya": "length",
+      "nazvanie": "jo [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} jo [JP]",
+      "kratak_shablon": "{0} jo [JP]",
+      "tesen_shablon": "{0} jo [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-ken",
+      "kategoriya": "length",
+      "nazvanie": "ken [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} ken [JP]",
+      "kratak_shablon": "{0} ken [JP]",
+      "tesen_shablon": "{0} ken [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-kilometer",
+      "kategoriya": "length",
+      "nazvanie": "километри",
+      "shablon_edinstveno": "{0} километър",
+      "shablon_mnozhestveno": "{0} километра",
+      "kratak_shablon": "{0} km",
+      "tesen_shablon": "{0} km"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-light-year",
+      "kategoriya": "length",
+      "nazvanie": "светлинни години",
+      "shablon_edinstveno": "{0} светлинна година",
+      "shablon_mnozhestveno": "{0} светлинни години",
+      "kratak_shablon": "{0} св.г.",
+      "tesen_shablon": "{0} св.г."
+    },
+    {
+      "id": 116,
+      "unit_code": "length-meter",
+      "kategoriya": "length",
+      "nazvanie": "метри",
+      "shablon_edinstveno": "{0} метър",
+      "shablon_mnozhestveno": "{0} метра",
+      "kratak_shablon": "{0} m",
+      "tesen_shablon": "{0} m"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-micrometer",
+      "kategoriya": "length",
+      "nazvanie": "микрометри",
+      "shablon_edinstveno": "{0} микрометър",
+      "shablon_mnozhestveno": "{0} микрометра",
+      "kratak_shablon": "{0} μm",
+      "tesen_shablon": "{0} μm"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile",
+      "kategoriya": "length",
+      "nazvanie": "мили",
+      "shablon_edinstveno": "{0} миля",
+      "shablon_mnozhestveno": "{0} мили",
+      "kratak_shablon": "{0} mi",
+      "tesen_shablon": "{0} mi"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile-scandinavian",
+      "kategoriya": "length",
+      "nazvanie": "шведска миля",
+      "shablon_edinstveno": "{0} шведска миля",
+      "shablon_mnozhestveno": "{0} шведски мили",
+      "kratak_shablon": "{0} smi",
+      "tesen_shablon": "{0} smi"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-millimeter",
+      "kategoriya": "length",
+      "nazvanie": "милиметри",
+      "shablon_edinstveno": "{0} милиметър",
+      "shablon_mnozhestveno": "{0} милиметра",
+      "kratak_shablon": "{0} mm",
+      "tesen_shablon": "{0} mm"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nanometer",
+      "kategoriya": "length",
+      "nazvanie": "нанометри",
+      "shablon_edinstveno": "{0} нанометър",
+      "shablon_mnozhestveno": "{0} нанометра",
+      "kratak_shablon": "{0} nm",
+      "tesen_shablon": "{0} nm"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nautical-mile",
+      "kategoriya": "length",
+      "nazvanie": "морски мили",
+      "shablon_edinstveno": "{0} морска миля",
+      "shablon_mnozhestveno": "{0} морски мили",
+      "kratak_shablon": "{0} nmi",
+      "tesen_shablon": "{0} nmi"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-parsec",
+      "kategoriya": "length",
+      "nazvanie": "парсеци",
+      "shablon_edinstveno": "{0} парсек",
+      "shablon_mnozhestveno": "{0} парсека",
+      "kratak_shablon": "{0} pc",
+      "tesen_shablon": "{0} pc"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-picometer",
+      "kategoriya": "length",
+      "nazvanie": "пикометри",
+      "shablon_edinstveno": "{0} пикометър",
+      "shablon_mnozhestveno": "{0} пикометра",
+      "kratak_shablon": "{0} pm",
+      "tesen_shablon": "{0} pm"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-point",
+      "kategoriya": "length",
+      "nazvanie": "пунктове",
+      "shablon_edinstveno": "{0} пункт",
+      "shablon_mnozhestveno": "{0} пункта",
+      "kratak_shablon": "{0} pt",
+      "tesen_shablon": "{0} pt"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-ri-jp",
+      "kategoriya": "length",
+      "nazvanie": "ri [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} ri [JP]",
+      "kratak_shablon": "{0} ri [JP]",
+      "tesen_shablon": "{0} ri [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rin",
+      "kategoriya": "length",
+      "nazvanie": "rin [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} rin [JP]",
+      "kratak_shablon": "{0} rin [JP]",
+      "tesen_shablon": "{0} rin [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rod",
+      "kategoriya": "length",
+      "nazvanie": "rod",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} rod",
+      "kratak_shablon": "{0} rod",
+      "tesen_shablon": "{0} rod"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-cloth",
+      "kategoriya": "length",
+      "nazvanie": "shaku [cloth, JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} shaku [cloth, JP]",
+      "kratak_shablon": "{0} shaku [cloth, JP]",
+      "tesen_shablon": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-length",
+      "kategoriya": "length",
+      "nazvanie": "shaku [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} shaku [JP]",
+      "kratak_shablon": "{0} shaku [JP]",
+      "tesen_shablon": "{0} shaku [JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-solar-radius",
+      "kategoriya": "length",
+      "nazvanie": "слънчеви радиуси",
+      "shablon_edinstveno": "{0} слънчев радиус",
+      "shablon_mnozhestveno": "{0} слънчеви радиуси",
+      "kratak_shablon": "{0} R☉",
+      "tesen_shablon": "{0} R☉"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-sun",
+      "kategoriya": "length",
+      "nazvanie": "sun [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} sun [JP]",
+      "kratak_shablon": "{0} sun [JP]",
+      "tesen_shablon": "{0} sun [JP]"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-yard",
+      "kategoriya": "length",
+      "nazvanie": "ярдове",
+      "shablon_edinstveno": "{0} ярд",
+      "shablon_mnozhestveno": "{0} ярда",
+      "kratak_shablon": "{0} yd",
+      "tesen_shablon": "{0} yd"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-candela",
+      "kategoriya": "light",
+      "nazvanie": "кандела",
+      "shablon_edinstveno": "{0} кандела",
+      "shablon_mnozhestveno": "{0} кандели",
+      "kratak_shablon": "{0} cd",
+      "tesen_shablon": "{0} cd"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lumen",
+      "kategoriya": "light",
+      "nazvanie": "лумен",
+      "shablon_edinstveno": "{0} лумен",
+      "shablon_mnozhestveno": "{0} лумена",
+      "kratak_shablon": "{0} lm",
+      "tesen_shablon": "{0} lm"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lux",
+      "kategoriya": "light",
+      "nazvanie": "луксове",
+      "shablon_edinstveno": "{0} лукс",
+      "shablon_mnozhestveno": "{0} лукса",
+      "kratak_shablon": "{0} lx",
+      "tesen_shablon": "{0} lx"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-solar-luminosity",
+      "kategoriya": "light",
+      "nazvanie": "слънчеви светимости",
+      "shablon_edinstveno": "{0} слънчева светимост",
+      "shablon_mnozhestveno": "{0} слънчеви светимости",
+      "kratak_shablon": "{0} L☉",
+      "tesen_shablon": "{0} L☉"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-tesla",
+      "kategoriya": "magnetic",
+      "nazvanie": "тесла",
+      "shablon_edinstveno": "{0} тесла",
+      "shablon_mnozhestveno": "{0} тесла",
+      "kratak_shablon": "{0} T",
+      "tesen_shablon": "{0} T"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-weber",
+      "kategoriya": "magnetic",
+      "nazvanie": "вебери",
+      "shablon_edinstveno": "{0} вебер",
+      "shablon_mnozhestveno": "{0} вебера",
+      "kratak_shablon": "{0} Wb",
+      "tesen_shablon": "{0} Wb"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-carat",
+      "kategoriya": "mass",
+      "nazvanie": "карати",
+      "shablon_edinstveno": "{0} карат",
+      "shablon_mnozhestveno": "{0} карата",
+      "kratak_shablon": "{0} CD",
+      "tesen_shablon": "{0} CD"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-dalton",
+      "kategoriya": "mass",
+      "nazvanie": "далтони",
+      "shablon_edinstveno": "{0} далтон",
+      "shablon_mnozhestveno": "{0} далтона",
+      "kratak_shablon": "{0} Da",
+      "tesen_shablon": "{0} Da"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-earth-mass",
+      "kategoriya": "mass",
+      "nazvanie": "маси на Земята",
+      "shablon_edinstveno": "{0} маса на Земята",
+      "shablon_mnozhestveno": "{0} маси на Земята",
+      "kratak_shablon": "{0} M⊕",
+      "tesen_shablon": "{0} M⊕"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-fun",
+      "kategoriya": "mass",
+      "nazvanie": "fun [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} fun [JP]",
+      "kratak_shablon": "{0} fun [JP]",
+      "tesen_shablon": "{0} fun [JP]"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-grain",
+      "kategoriya": "mass",
+      "nazvanie": "гран",
+      "shablon_edinstveno": "{0} гран",
+      "shablon_mnozhestveno": "{0} грана",
+      "kratak_shablon": "{0} грана",
+      "tesen_shablon": "{0} грана"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-gram",
+      "kategoriya": "mass",
+      "nazvanie": "грамове",
+      "shablon_edinstveno": "{0} грам",
+      "shablon_mnozhestveno": "{0} грама",
+      "kratak_shablon": "{0} g",
+      "tesen_shablon": "{0} g"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-kilogram",
+      "kategoriya": "mass",
+      "nazvanie": "килограми",
+      "shablon_edinstveno": "{0} килограм",
+      "shablon_mnozhestveno": "{0} килограма",
+      "kratak_shablon": "{0} kg",
+      "tesen_shablon": "{0} kg"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-microgram",
+      "kategoriya": "mass",
+      "nazvanie": "микрограмове",
+      "shablon_edinstveno": "{0} микрограм",
+      "shablon_mnozhestveno": "{0} микрограма",
+      "kratak_shablon": "{0} μg",
+      "tesen_shablon": "{0} μg"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-milligram",
+      "kategoriya": "mass",
+      "nazvanie": "милиграмове",
+      "shablon_edinstveno": "{0} милиграм",
+      "shablon_mnozhestveno": "{0} милиграма",
+      "kratak_shablon": "{0} mg",
+      "tesen_shablon": "{0} mg"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce",
+      "kategoriya": "mass",
+      "nazvanie": "унции",
+      "shablon_edinstveno": "{0} унция",
+      "shablon_mnozhestveno": "{0} унции",
+      "kratak_shablon": "{0} oz",
+      "tesen_shablon": "{0} oz"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce-troy",
+      "kategoriya": "mass",
+      "nazvanie": "тройунции",
+      "shablon_edinstveno": "{0} тройунция",
+      "shablon_mnozhestveno": "{0} тройунции",
+      "kratak_shablon": "{0} тр. унц.",
+      "tesen_shablon": "{0} тр. унц."
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-pound",
+      "kategoriya": "mass",
+      "nazvanie": "фунтове",
+      "shablon_edinstveno": "{0} фунт",
+      "shablon_mnozhestveno": "{0} фунта",
+      "kratak_shablon": "{0} lb",
+      "tesen_shablon": "{0} lb"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-slug",
+      "kategoriya": "mass",
+      "nazvanie": "slug",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} slug",
+      "kratak_shablon": "{0} slug",
+      "tesen_shablon": "{0} slug"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-solar-mass",
+      "kategoriya": "mass",
+      "nazvanie": "слънчеви маси",
+      "shablon_edinstveno": "{0} слънчева маса",
+      "shablon_mnozhestveno": "{0} слънчеви маси",
+      "kratak_shablon": "{0} M☉",
+      "tesen_shablon": "{0} M☉"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-stone",
+      "kategoriya": "mass",
+      "nazvanie": "стоунове",
+      "shablon_edinstveno": "{0} стоун",
+      "shablon_mnozhestveno": "{0} стоуна",
+      "kratak_shablon": "{0} st",
+      "tesen_shablon": "{0} st"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-ton",
+      "kategoriya": "mass",
+      "nazvanie": "къси тонове",
+      "shablon_edinstveno": "{0} къс тон",
+      "shablon_mnozhestveno": "{0} къси тона",
+      "kratak_shablon": "{0} tn",
+      "tesen_shablon": "{0} tn"
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-tonne",
+      "kategoriya": "mass",
+      "nazvanie": "метрични тонове",
+      "shablon_edinstveno": "{0} метричен тон",
+      "shablon_mnozhestveno": "{0} метрични тона",
+      "kratak_shablon": "{0} t",
+      "tesen_shablon": "{0} t"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-gigawatt",
+      "kategoriya": "power",
+      "nazvanie": "гигавати",
+      "shablon_edinstveno": "{0} гигават",
+      "shablon_mnozhestveno": "{0} гигавата",
+      "kratak_shablon": "{0} GW",
+      "tesen_shablon": "{0} GW"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-horsepower",
+      "kategoriya": "power",
+      "nazvanie": "конски сили",
+      "shablon_edinstveno": "{0} конска сила",
+      "shablon_mnozhestveno": "{0} конски сили",
+      "kratak_shablon": "{0} к. с.",
+      "tesen_shablon": "{0} к.с."
+    },
+    {
+      "id": 159,
+      "unit_code": "power-kilowatt",
+      "kategoriya": "power",
+      "nazvanie": "киловати",
+      "shablon_edinstveno": "{0} киловат",
+      "shablon_mnozhestveno": "{0} киловата",
+      "kratak_shablon": "{0} kW",
+      "tesen_shablon": "{0} kW"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-megawatt",
+      "kategoriya": "power",
+      "nazvanie": "мегавати",
+      "shablon_edinstveno": "{0} мегават",
+      "shablon_mnozhestveno": "{0} мегавата",
+      "kratak_shablon": "{0} MW",
+      "tesen_shablon": "{0} MW"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-milliwatt",
+      "kategoriya": "power",
+      "nazvanie": "миливати",
+      "shablon_edinstveno": "{0} миливат",
+      "shablon_mnozhestveno": "{0} миливата",
+      "kratak_shablon": "{0} mW",
+      "tesen_shablon": "{0} mW"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-watt",
+      "kategoriya": "power",
+      "nazvanie": "ватове",
+      "shablon_edinstveno": "{0} ват",
+      "shablon_mnozhestveno": "{0} вата",
+      "kratak_shablon": "{0} W",
+      "tesen_shablon": "{0} W"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-atmosphere",
+      "kategoriya": "pressure",
+      "nazvanie": "атмосфери",
+      "shablon_edinstveno": "{0} атмосфера",
+      "shablon_mnozhestveno": "{0} атмосфери",
+      "kratak_shablon": "{0} atm",
+      "tesen_shablon": "{0} atm"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-bar",
+      "kategoriya": "pressure",
+      "nazvanie": "барове",
+      "shablon_edinstveno": "{0} бар",
+      "shablon_mnozhestveno": "{0} бара",
+      "kratak_shablon": "{0} bar",
+      "tesen_shablon": "{0} bar"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategoriya": "pressure",
+      "nazvanie": "gas E",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} gas E",
+      "kratak_shablon": "{0} gas E",
+      "tesen_shablon": "{0} gas E"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-hectopascal",
+      "kategoriya": "pressure",
+      "nazvanie": "хектопаскали",
+      "shablon_edinstveno": "{0} хектопаскал",
+      "shablon_mnozhestveno": "{0} хектопаскала",
+      "kratak_shablon": "{0} hPa",
+      "tesen_shablon": "{0} hPa"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-inch-ofhg",
+      "kategoriya": "pressure",
+      "nazvanie": "инчове живачен стълб",
+      "shablon_edinstveno": "{0} инч живачен стълб",
+      "shablon_mnozhestveno": "{0} инча живачен стълб",
+      "kratak_shablon": "{0} inHg",
+      "tesen_shablon": "{0} inHg"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-kilopascal",
+      "kategoriya": "pressure",
+      "nazvanie": "килопаскали",
+      "shablon_edinstveno": "{0} килопаскал",
+      "shablon_mnozhestveno": "{0} килопаскала",
+      "kratak_shablon": "{0} kPa",
+      "tesen_shablon": "{0} kPa"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-megapascal",
+      "kategoriya": "pressure",
+      "nazvanie": "мегапаскали",
+      "shablon_edinstveno": "{0} мегапаскал",
+      "shablon_mnozhestveno": "{0} мегапаскала",
+      "kratak_shablon": "{0} MPa",
+      "tesen_shablon": "{0} MPa"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millibar",
+      "kategoriya": "pressure",
+      "nazvanie": "милибари",
+      "shablon_edinstveno": "{0} милибар",
+      "shablon_mnozhestveno": "{0} милибара",
+      "kratak_shablon": "{0} mbar",
+      "tesen_shablon": "{0} mbar"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategoriya": "pressure",
+      "nazvanie": "милиметри живачен стълб",
+      "shablon_edinstveno": "{0} милиметър живачен стълб",
+      "shablon_mnozhestveno": "{0} милиметра живачен стълб",
+      "kratak_shablon": "{0} mmHg",
+      "tesen_shablon": "{0} mmHg"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-ofhg",
+      "kategoriya": "pressure",
+      "nazvanie": "живачен стълб",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} Hg",
+      "kratak_shablon": "{0} Hg",
+      "tesen_shablon": "{0} Hg"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pascal",
+      "kategoriya": "pressure",
+      "nazvanie": "паскали",
+      "shablon_edinstveno": "{0} паскал",
+      "shablon_mnozhestveno": "{0} паскала",
+      "kratak_shablon": "{0} Pa",
+      "tesen_shablon": "{0} Pa"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategoriya": "pressure",
+      "nazvanie": "фунтове на квадратен инч",
+      "shablon_edinstveno": "{0} фунт на квадратен инч",
+      "shablon_mnozhestveno": "{0} фунта на квадратен инч",
+      "kratak_shablon": "{0} psi",
+      "tesen_shablon": "{0} psi"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-beaufort",
+      "kategoriya": "speed",
+      "nazvanie": "Бофорт",
+      "shablon_edinstveno": "{0} по Бофорт",
+      "shablon_mnozhestveno": "{0} по Бофорт",
+      "kratak_shablon": "{0} по Bft",
+      "tesen_shablon": "{0} по Б"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategoriya": "speed",
+      "nazvanie": "километри в час",
+      "shablon_edinstveno": "{0} километър в час",
+      "shablon_mnozhestveno": "{0} километра в час",
+      "kratak_shablon": "{0} km/h",
+      "tesen_shablon": "{0} km/h"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-knot",
+      "kategoriya": "speed",
+      "nazvanie": "възел",
+      "shablon_edinstveno": "{0} възел",
+      "shablon_mnozhestveno": "{0} възла",
+      "kratak_shablon": "{0} kn",
+      "tesen_shablon": "{0} kn"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-light-speed",
+      "kategoriya": "speed",
+      "nazvanie": "светлина",
+      "shablon_edinstveno": "{0} светлина",
+      "shablon_mnozhestveno": "{0} светлина",
+      "kratak_shablon": "{0} светлина",
+      "tesen_shablon": "{0} светлина"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-meter-per-second",
+      "kategoriya": "speed",
+      "nazvanie": "метри за секунда",
+      "shablon_edinstveno": "{0} метър за секунда",
+      "shablon_mnozhestveno": "{0} метра за секунда",
+      "kratak_shablon": "{0} m/s",
+      "tesen_shablon": "{0} m/s"
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-mile-per-hour",
+      "kategoriya": "speed",
+      "nazvanie": "мили в час",
+      "shablon_edinstveno": "{0} миля в час",
+      "shablon_mnozhestveno": "{0} мили в час",
+      "kratak_shablon": "{0} mph",
+      "tesen_shablon": "{0} мили/ч"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-celsius",
+      "kategoriya": "temperature",
+      "nazvanie": "градуси Целзий",
+      "shablon_edinstveno": "{0} градус Целзий",
+      "shablon_mnozhestveno": "{0} градуса Целзий",
+      "kratak_shablon": "{0}°C",
+      "tesen_shablon": "{0}°C"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-fahrenheit",
+      "kategoriya": "temperature",
+      "nazvanie": "градуси по Фаренхайт",
+      "shablon_edinstveno": "{0} градус по Фаренхайт",
+      "shablon_mnozhestveno": "{0} градуса по Фаренхайт",
+      "kratak_shablon": "{0}°F",
+      "tesen_shablon": "{0}°F"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-generic",
+      "kategoriya": "temperature",
+      "nazvanie": "°",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0}°",
+      "kratak_shablon": "{0}°",
+      "tesen_shablon": "{0}°"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-kelvin",
+      "kategoriya": "temperature",
+      "nazvanie": "келвини",
+      "shablon_edinstveno": "{0} келвин",
+      "shablon_mnozhestveno": "{0} келвина",
+      "kratak_shablon": "{0} K",
+      "tesen_shablon": "{0} K"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-rankine",
+      "kategoriya": "temperature",
+      "nazvanie": "°R",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} °R",
+      "kratak_shablon": "{0} °R",
+      "tesen_shablon": "{0} °R"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-newton-meter",
+      "kategoriya": "torque",
+      "nazvanie": "нютон-метър",
+      "shablon_edinstveno": "{0} нютон-метър",
+      "shablon_mnozhestveno": "{0} нютон-метра",
+      "kratak_shablon": "{0} N⋅m",
+      "tesen_shablon": "{0} N⋅m"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-pound-force-foot",
+      "kategoriya": "torque",
+      "nazvanie": "паунд-футове сила",
+      "shablon_edinstveno": "{0} паунд-фут сила",
+      "shablon_mnozhestveno": "{0} паунд-фута сила",
+      "kratak_shablon": "{0} lbf⋅ft",
+      "tesen_shablon": "{0} lbf⋅ft"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-acre-foot",
+      "kategoriya": "volume",
+      "nazvanie": "акър-футове",
+      "shablon_edinstveno": "{0} акър-фут",
+      "shablon_mnozhestveno": "{0} акър-фута",
+      "kratak_shablon": "{0} ac ft",
+      "tesen_shablon": "{0} ac ft"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-barrel",
+      "kategoriya": "volume",
+      "nazvanie": "барели",
+      "shablon_edinstveno": "{0} барел",
+      "shablon_mnozhestveno": "{0} барела",
+      "kratak_shablon": "{0} bbl",
+      "tesen_shablon": "{0} bbl"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-bushel",
+      "kategoriya": "volume",
+      "nazvanie": "бушели",
+      "shablon_edinstveno": "{0} бушел",
+      "shablon_mnozhestveno": "{0} бушела",
+      "kratak_shablon": "{0} bu",
+      "tesen_shablon": "{0} bu"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-centiliter",
+      "kategoriya": "volume",
+      "nazvanie": "сентилитри",
+      "shablon_edinstveno": "{0} сентилитър",
+      "shablon_mnozhestveno": "{0} сентилитра",
+      "kratak_shablon": "{0} cl",
+      "tesen_shablon": "{0} cl"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-centimeter",
+      "kategoriya": "volume",
+      "nazvanie": "кубически сантиметри",
+      "shablon_edinstveno": "{0} кубически сантиметър",
+      "shablon_mnozhestveno": "{0} кубически сантиметра",
+      "kratak_shablon": "{0} cm³",
+      "tesen_shablon": "{0} cm³"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-foot",
+      "kategoriya": "volume",
+      "nazvanie": "кубически футове",
+      "shablon_edinstveno": "{0} кубически фут",
+      "shablon_mnozhestveno": "{0} кубически фута",
+      "kratak_shablon": "{0} ft³",
+      "tesen_shablon": "{0} ft³"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-inch",
+      "kategoriya": "volume",
+      "nazvanie": "кубически инчове",
+      "shablon_edinstveno": "{0} кубически инч",
+      "shablon_mnozhestveno": "{0} кубически инча",
+      "kratak_shablon": "{0} in³",
+      "tesen_shablon": "{0} in³"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-kilometer",
+      "kategoriya": "volume",
+      "nazvanie": "кубически километри",
+      "shablon_edinstveno": "{0} кубически километър",
+      "shablon_mnozhestveno": "{0} кубически километра",
+      "kratak_shablon": "{0} km³",
+      "tesen_shablon": "{0} km³"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-meter",
+      "kategoriya": "volume",
+      "nazvanie": "кубически метри",
+      "shablon_edinstveno": "{0} кубически метър",
+      "shablon_mnozhestveno": "{0} кубически метра",
+      "kratak_shablon": "{0} m³",
+      "tesen_shablon": "{0} m³"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-mile",
+      "kategoriya": "volume",
+      "nazvanie": "кубически мили",
+      "shablon_edinstveno": "{0} кубическа миля",
+      "shablon_mnozhestveno": "{0} кубически мили",
+      "kratak_shablon": "{0} mi³",
+      "tesen_shablon": "{0} mi³"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-yard",
+      "kategoriya": "volume",
+      "nazvanie": "кубически ярдове",
+      "shablon_edinstveno": "{0} кубически ярд",
+      "shablon_mnozhestveno": "{0} кубически ярда",
+      "kratak_shablon": "{0} yd³",
+      "tesen_shablon": "{0} yd³"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup",
+      "kategoriya": "volume",
+      "nazvanie": "чаши",
+      "shablon_edinstveno": "{0} чаша",
+      "shablon_mnozhestveno": "{0} чаши",
+      "kratak_shablon": "{0} ч.",
+      "tesen_shablon": "{0} ч."
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "cup Imp.",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} cup Imp.",
+      "kratak_shablon": "{0} cup Imp.",
+      "tesen_shablon": "{0} cup Imp."
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-jp",
+      "kategoriya": "volume",
+      "nazvanie": "cup [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} cup [JP]",
+      "kratak_shablon": "{0} cup [JP]",
+      "tesen_shablon": "{0} cup [JP]"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-metric",
+      "kategoriya": "volume",
+      "nazvanie": "метрични чаши",
+      "shablon_edinstveno": "{0} метрична чаша",
+      "shablon_mnozhestveno": "{0} метрични чаши",
+      "kratak_shablon": "{0} mc",
+      "tesen_shablon": "{0} mc"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-deciliter",
+      "kategoriya": "volume",
+      "nazvanie": "децилитри",
+      "shablon_edinstveno": "{0} децилитър",
+      "shablon_mnozhestveno": "{0} децилитра",
+      "kratak_shablon": "{0} dl",
+      "tesen_shablon": "{0} dl"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon",
+      "kategoriya": "volume",
+      "nazvanie": "десертна лъжица",
+      "shablon_edinstveno": "{0} десертна лъжица",
+      "shablon_mnozhestveno": "{0} десертни лъжици",
+      "kratak_shablon": "{0} дес. лъжици",
+      "tesen_shablon": "{0} дес. лъж."
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "брит. дес. лъжици",
+      "shablon_edinstveno": "{0} брит. дес. лъжица",
+      "shablon_mnozhestveno": "{0} брит. дес. лъжици",
+      "kratak_shablon": "{0} брит. дес. лъжици",
+      "tesen_shablon": "{0} брит. дес. лъж."
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dram",
+      "kategoriya": "volume",
+      "nazvanie": "драм",
+      "shablon_edinstveno": "{0} драм",
+      "shablon_mnozhestveno": "{0} драма",
+      "kratak_shablon": "{0} теч. драма",
+      "tesen_shablon": "{0} теч. драма"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-drop",
+      "kategoriya": "volume",
+      "nazvanie": "капки",
+      "shablon_edinstveno": "{0} капка",
+      "shablon_mnozhestveno": "{0} капки",
+      "kratak_shablon": "{0} капки",
+      "tesen_shablon": "{0} капки"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce",
+      "kategoriya": "volume",
+      "nazvanie": "течни унции",
+      "shablon_edinstveno": "{0} течна унция",
+      "shablon_mnozhestveno": "{0} течни унции",
+      "kratak_shablon": "{0} fl oz US",
+      "tesen_shablon": "{0} fl oz US"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "имперски течни унции",
+      "shablon_edinstveno": "{0} имперска течна унция",
+      "shablon_mnozhestveno": "{0} имперски течни унции",
+      "kratak_shablon": "{0} fl oz Imp.",
+      "tesen_shablon": "{0} fl oz Imp."
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategoriya": "volume",
+      "nazvanie": "метрични течни унции",
+      "shablon_edinstveno": "{0} метрична течна унция",
+      "shablon_mnozhestveno": "{0} метрични течни унции",
+      "kratak_shablon": "{0} fl oz m.",
+      "tesen_shablon": "{0} fl oz m."
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon",
+      "kategoriya": "volume",
+      "nazvanie": "галони",
+      "shablon_edinstveno": "{0} галон",
+      "shablon_mnozhestveno": "{0} галона",
+      "kratak_shablon": "{0} gal US",
+      "tesen_shablon": "{0} gal US"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "имперски галони",
+      "shablon_edinstveno": "{0} имперски галон",
+      "shablon_mnozhestveno": "{0} имперски галона",
+      "kratak_shablon": "{0} имп. галона",
+      "tesen_shablon": "{0} имп. галона"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-hectoliter",
+      "kategoriya": "volume",
+      "nazvanie": "хектолитри",
+      "shablon_edinstveno": "{0} хектолитър",
+      "shablon_mnozhestveno": "{0} хектолитра",
+      "kratak_shablon": "{0} hl",
+      "tesen_shablon": "{0} hl"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-jigger",
+      "kategoriya": "volume",
+      "nazvanie": "джигър",
+      "shablon_edinstveno": "{0} джигър",
+      "shablon_mnozhestveno": "{0} джигъра",
+      "kratak_shablon": "{0} джигъра",
+      "tesen_shablon": "{0} джигъра"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-koku",
+      "kategoriya": "volume",
+      "nazvanie": "koku [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} koku [JP]",
+      "kratak_shablon": "{0} koku [JP]",
+      "tesen_shablon": "{0} koku [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-kosaji",
+      "kategoriya": "volume",
+      "nazvanie": "kosaji [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} kosaji [JP]",
+      "kratak_shablon": "{0} kosaji [JP]",
+      "tesen_shablon": "{0} kosaji [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-liter",
+      "kategoriya": "volume",
+      "nazvanie": "литри",
+      "shablon_edinstveno": "{0} литър",
+      "shablon_mnozhestveno": "{0} литра",
+      "kratak_shablon": "{0} l",
+      "tesen_shablon": "{0} l"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-megaliter",
+      "kategoriya": "volume",
+      "nazvanie": "мегалитри",
+      "shablon_edinstveno": "{0} мегалитър",
+      "shablon_mnozhestveno": "{0} мегалитра",
+      "kratak_shablon": "{0} Ml",
+      "tesen_shablon": "{0} Ml"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-milliliter",
+      "kategoriya": "volume",
+      "nazvanie": "милилитри",
+      "shablon_edinstveno": "{0} милилитър",
+      "shablon_mnozhestveno": "{0} милилитра",
+      "kratak_shablon": "{0} ml",
+      "tesen_shablon": "{0} ml"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-osaji",
+      "kategoriya": "volume",
+      "nazvanie": "osaji [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} osaji [JP]",
+      "kratak_shablon": "{0} osaji [JP]",
+      "tesen_shablon": "{0} osaji [JP]"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pinch",
+      "kategoriya": "volume",
+      "nazvanie": "щипка",
+      "shablon_edinstveno": "{0} щипка",
+      "shablon_mnozhestveno": "{0} щипки",
+      "kratak_shablon": "{0} щипки",
+      "tesen_shablon": "{0} щипки"
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint",
+      "kategoriya": "volume",
+      "nazvanie": "пинти",
+      "shablon_edinstveno": "{0} пинта",
+      "shablon_mnozhestveno": "{0} пинти",
+      "kratak_shablon": "{0} pt",
+      "tesen_shablon": "{0} pt"
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "pint Imp.",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} pt Imp.",
+      "kratak_shablon": "{0} pt Imp.",
+      "tesen_shablon": "{0} pt Imp."
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-metric",
+      "kategoriya": "volume",
+      "nazvanie": "метрични пинти",
+      "shablon_edinstveno": "{0} метрична пинта",
+      "shablon_mnozhestveno": "{0} метрични пинти",
+      "kratak_shablon": "{0} mpt",
+      "tesen_shablon": "{0} mpt"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart",
+      "kategoriya": "volume",
+      "nazvanie": "кварти",
+      "shablon_edinstveno": "{0} кварта",
+      "shablon_mnozhestveno": "{0} кварти",
+      "kratak_shablon": "{0} qt",
+      "tesen_shablon": "{0} qt"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "имперски кварти",
+      "shablon_edinstveno": "{0} имперска кварта",
+      "shablon_mnozhestveno": "{0} имперски кварти",
+      "kratak_shablon": "{0} имп. кварти",
+      "tesen_shablon": "{0} имп. кварти"
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-sai",
+      "kategoriya": "volume",
+      "nazvanie": "sai [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} sai [JP]",
+      "kratak_shablon": "{0} sai [JP]",
+      "tesen_shablon": "{0} sai [JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-shaku",
+      "kategoriya": "volume",
+      "nazvanie": "shaku [vol, JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} shaku [vol, JP]",
+      "kratak_shablon": "{0} shaku [vol, JP]",
+      "tesen_shablon": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-tablespoon",
+      "kategoriya": "volume",
+      "nazvanie": "супени лъжици",
+      "shablon_edinstveno": "{0} супена лъжица",
+      "shablon_mnozhestveno": "{0} супени лъжици",
+      "kratak_shablon": "{0} с. л.",
+      "tesen_shablon": "{0} с. л."
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-teaspoon",
+      "kategoriya": "volume",
+      "nazvanie": "чаени лъжици",
+      "shablon_edinstveno": "{0} чаена лъжица",
+      "shablon_mnozhestveno": "{0} чаени лъжици",
+      "kratak_shablon": "{0} ч. л.",
+      "tesen_shablon": "{0} ч. л."
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-to-jp",
+      "kategoriya": "volume",
+      "nazvanie": "to [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} to [JP]",
+      "kratak_shablon": "{0} to [JP]",
+      "tesen_shablon": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици (CLDR, 231) - Безплатно изтегляне",
+    "description": "Мерни единици и техните български наименования и шаблони от CLDR bg-локала units.json (long/short/narrow). Съдържа 231 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици (CLDR, 231) | ListBase",
+    "seo_description": "Изтеглете Мерни единици (CLDR, 231) — 231 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 231 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

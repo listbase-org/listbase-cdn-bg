@@ -1,0 +1,1411 @@
+{
+  "id": "bg-osm-shop-houseware",
+  "name": "Магазини за домакински стоки в България (OpenStreetMap)",
+  "title": "Магазини за домакински стоки в България (OpenStreetMap)",
+  "description": "Магазини за домакински стоки в България — 150 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=houseware`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 150,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"При Роси\"",
+      "shirina": 42.779118,
+      "dalzhina": 23.145343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 2,
+      "ime": "1001 стоки",
+      "shirina": 42.712058,
+      "dalzhina": 23.311951,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 3,
+      "ime": "1001 стоки",
+      "shirina": 43.080036,
+      "dalzhina": 25.614541,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 4,
+      "ime": "666 стоки",
+      "shirina": 43.823167,
+      "dalzhina": 27.139478,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 5,
+      "ime": "Amigos",
+      "shirina": 42.665053,
+      "dalzhina": 23.272612,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 6,
+      "ime": "Andika",
+      "shirina": 42.494086,
+      "dalzhina": 27.465316,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 7,
+      "ime": "Andika",
+      "shirina": 42.496636,
+      "dalzhina": 27.477111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 8,
+      "ime": "Angel",
+      "shirina": 42.710461,
+      "dalzhina": 23.314453,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 9,
+      "ime": "Aquaphor",
+      "shirina": 42.672767,
+      "dalzhina": 23.285483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 10,
+      "ime": "Aquaphor",
+      "shirina": 42.692946,
+      "dalzhina": 23.317951,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 11,
+      "ime": "BBQ Arena",
+      "shirina": 42.64654,
+      "dalzhina": 23.314345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 12,
+      "ime": "Bandung",
+      "shirina": 42.68922,
+      "dalzhina": 23.318603,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 13,
+      "ime": "Bed Bath & Table",
+      "shirina": 42.6574,
+      "dalzhina": 23.315506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 14,
+      "ime": "Bed Bath & Table",
+      "shirina": 42.664186,
+      "dalzhina": 23.284635,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 15,
+      "ime": "Bergner",
+      "shirina": 42.658211,
+      "dalzhina": 23.315585,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 16,
+      "ime": "Bergner",
+      "shirina": 42.660813,
+      "dalzhina": 23.383513,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 17,
+      "ime": "Bergner",
+      "shirina": 42.686828,
+      "dalzhina": 23.330699,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 18,
+      "ime": "Big shop",
+      "shirina": 42.617998,
+      "dalzhina": 25.386325,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 19,
+      "ime": "Bohemia",
+      "shirina": 42.658006,
+      "dalzhina": 23.315581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 20,
+      "ime": "Bohemia",
+      "shirina": 43.207972,
+      "dalzhina": 27.918746,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 21,
+      "ime": "Comptoir de famille",
+      "shirina": 42.689511,
+      "dalzhina": 23.319816,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 22,
+      "ime": "Convoy World",
+      "shirina": 42.698341,
+      "dalzhina": 23.321092,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 23,
+      "ime": "Cook & Home",
+      "shirina": 42.660552,
+      "dalzhina": 23.382972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 24,
+      "ime": "DOLCE CASA",
+      "shirina": 42.147586,
+      "dalzhina": 24.748924,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 25,
+      "ime": "Dalavera Shop",
+      "shirina": 42.428866,
+      "dalzhina": 25.631125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 26,
+      "ime": "Detersfuso италиански наливни препарати",
+      "shirina": 42.262552,
+      "dalzhina": 23.108662,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 27,
+      "ime": "Dormeo / Top Shop",
+      "shirina": 42.660824,
+      "dalzhina": 23.382865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 28,
+      "ime": "Elizza",
+      "shirina": 42.651193,
+      "dalzhina": 23.405096,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 29,
+      "ime": "Enjoy cooking Home detail",
+      "shirina": 42.657817,
+      "dalzhina": 23.315295,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 30,
+      "ime": "Enjoy cooking Home detail",
+      "shirina": 42.691338,
+      "dalzhina": 23.319519,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 31,
+      "ime": "Euro Shop",
+      "shirina": 42.696685,
+      "dalzhina": 23.350541,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 32,
+      "ime": "Euro home",
+      "shirina": 42.66697,
+      "dalzhina": 23.300131,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 33,
+      "ime": "Focus Discount",
+      "shirina": 42.693949,
+      "dalzhina": 23.313136,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 34,
+      "ime": "Fokus market",
+      "shirina": 42.694715,
+      "dalzhina": 23.316083,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 35,
+      "ime": "FreshMarket",
+      "shirina": 42.65599,
+      "dalzhina": 23.334217,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 36,
+      "ime": "Full House Decor",
+      "shirina": 42.652635,
+      "dalzhina": 27.672524,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 37,
+      "ime": "Hit 3001 Articles",
+      "shirina": 42.120577,
+      "dalzhina": 24.73231,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 38,
+      "ime": "Home Detail",
+      "shirina": 42.68751,
+      "dalzhina": 23.329512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 39,
+      "ime": "Home Home",
+      "shirina": 42.669186,
+      "dalzhina": 23.352879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 40,
+      "ime": "Home Sweet Home",
+      "shirina": 42.69247,
+      "dalzhina": 23.312728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 41,
+      "ime": "Homestino",
+      "shirina": 42.673792,
+      "dalzhina": 23.355323,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 42,
+      "ime": "Hometex",
+      "shirina": 42.663623,
+      "dalzhina": 27.716512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 43,
+      "ime": "InHouse",
+      "shirina": 42.501972,
+      "dalzhina": 27.459309,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 44,
+      "ime": "Inhouse",
+      "shirina": 42.675365,
+      "dalzhina": 23.264659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 45,
+      "ime": "Laura Ashley",
+      "shirina": 42.686536,
+      "dalzhina": 23.351265,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 46,
+      "ime": "Levko",
+      "shirina": 42.909086,
+      "dalzhina": 23.802461,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 47,
+      "ime": "Manolo",
+      "shirina": 42.698292,
+      "dalzhina": 23.329243,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 48,
+      "ime": "Manolo",
+      "shirina": 42.698397,
+      "dalzhina": 23.315724,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 49,
+      "ime": "Max Market",
+      "shirina": 42.711661,
+      "dalzhina": 23.314244,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 50,
+      "ime": "Mini Mall",
+      "shirina": 42.679412,
+      "dalzhina": 23.32463,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 51,
+      "ime": "My brocante dream",
+      "shirina": 42.677651,
+      "dalzhina": 23.301237,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 52,
+      "ime": "Onparts.bg",
+      "shirina": 42.661546,
+      "dalzhina": 23.317603,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 53,
+      "ime": "PNG",
+      "shirina": 42.660741,
+      "dalzhina": 23.383295,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 54,
+      "ime": "Pepco",
+      "shirina": 42.718184,
+      "dalzhina": 23.314888,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 55,
+      "ime": "Quartz",
+      "shirina": 42.685059,
+      "dalzhina": 23.321296,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 56,
+      "ime": "Rosenthal",
+      "shirina": 42.689533,
+      "dalzhina": 23.319626,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 57,
+      "ime": "Seven",
+      "shirina": 43.196883,
+      "dalzhina": 23.569653,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 58,
+      "ime": "Status Techno",
+      "shirina": 42.700388,
+      "dalzhina": 23.308617,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 59,
+      "ime": "Stop Shop",
+      "shirina": 42.694038,
+      "dalzhina": 23.315291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 60,
+      "ime": "Sweet home",
+      "shirina": 43.221282,
+      "dalzhina": 27.9253,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 61,
+      "ime": "T-mart Bulgaria",
+      "shirina": 42.69879,
+      "dalzhina": 23.334179,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 62,
+      "ime": "Telestar",
+      "shirina": 42.691867,
+      "dalzhina": 23.314365,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 63,
+      "ime": "Top Home",
+      "shirina": 42.694777,
+      "dalzhina": 23.318164,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 64,
+      "ime": "Top Shop",
+      "shirina": 42.148283,
+      "dalzhina": 24.74775,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 65,
+      "ime": "Top Shop",
+      "shirina": 42.495499,
+      "dalzhina": 27.470762,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 66,
+      "ime": "Top Shop",
+      "shirina": 43.571465,
+      "dalzhina": 27.8277,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 67,
+      "ime": "Top home",
+      "shirina": 42.694002,
+      "dalzhina": 23.313212,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 68,
+      "ime": "Vertex",
+      "shirina": 42.734397,
+      "dalzhina": 23.313847,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 69,
+      "ime": "Villeroy & Boch",
+      "shirina": 42.686412,
+      "dalzhina": 23.301211,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 70,
+      "ime": "Vincid Design",
+      "shirina": 42.691587,
+      "dalzhina": 23.319091,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 71,
+      "ime": "WMF",
+      "shirina": 42.147539,
+      "dalzhina": 24.747886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 72,
+      "ime": "WMF",
+      "shirina": 42.657955,
+      "dalzhina": 23.315385,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 73,
+      "ime": "WMF",
+      "shirina": 42.687118,
+      "dalzhina": 23.318119,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 74,
+      "ime": "Zepter",
+      "shirina": 43.568653,
+      "dalzhina": 27.831269,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 75,
+      "ime": "caffè d'Italia",
+      "shirina": 42.689244,
+      "dalzhina": 23.318279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 76,
+      "ime": "pochehli.com",
+      "shirina": 42.676206,
+      "dalzhina": 23.285403,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 77,
+      "ime": "Артистик",
+      "shirina": 42.69359,
+      "dalzhina": 23.32242,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 78,
+      "ime": "Берман",
+      "shirina": 42.526895,
+      "dalzhina": 27.442678,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 79,
+      "ime": "Близнаци",
+      "shirina": 43.568503,
+      "dalzhina": 27.831396,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 80,
+      "ime": "Бохемия",
+      "shirina": 42.694386,
+      "dalzhina": 23.330534,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 81,
+      "ime": "Булстан - перилни и почистващи препарати",
+      "shirina": 42.634563,
+      "dalzhina": 23.374804,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 82,
+      "ime": "Валерия",
+      "shirina": 42.907964,
+      "dalzhina": 23.7888,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 83,
+      "ime": "Ванед 59",
+      "shirina": 43.570807,
+      "dalzhina": 27.828916,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 84,
+      "ime": "Вашите мебели",
+      "shirina": 42.689471,
+      "dalzhina": 23.3303,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 85,
+      "ime": "Всичко за 1 лев",
+      "shirina": 42.697089,
+      "dalzhina": 27.260728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 86,
+      "ime": "Всичко за дома",
+      "shirina": 42.712833,
+      "dalzhina": 23.270682,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 87,
+      "ime": "Всичко за дома от А до Я",
+      "shirina": 42.669544,
+      "dalzhina": 23.275927,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 88,
+      "ime": "Във вашия дом от Турция",
+      "shirina": 42.695366,
+      "dalzhina": 23.287133,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 89,
+      "ime": "Гама Елит",
+      "shirina": 42.65735,
+      "dalzhina": 23.314088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 90,
+      "ime": "Гама Елит",
+      "shirina": 42.660438,
+      "dalzhina": 23.38312,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 91,
+      "ime": "Двата щъркела",
+      "shirina": 42.69962,
+      "dalzhina": 23.319077,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 92,
+      "ime": "Двата щъркела",
+      "shirina": 42.702038,
+      "dalzhina": 23.320345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 93,
+      "ime": "Добрите цени",
+      "shirina": 42.547925,
+      "dalzhina": 22.966102,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 94,
+      "ime": "Дом. потреби",
+      "shirina": 42.493415,
+      "dalzhina": 27.463687,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 95,
+      "ime": "Домашен Рай",
+      "shirina": 43.524135,
+      "dalzhina": 26.529105,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 96,
+      "ime": "Домашни Потреби",
+      "shirina": 42.416436,
+      "dalzhina": 27.696794,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 97,
+      "ime": "Домашни потреби",
+      "shirina": 42.493269,
+      "dalzhina": 27.465518,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 98,
+      "ime": "Домашни потреби",
+      "shirina": 42.497151,
+      "dalzhina": 27.462668,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 99,
+      "ime": "Домашни потреби",
+      "shirina": 42.8977,
+      "dalzhina": 25.311982,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 100,
+      "ime": "Домашни потреби",
+      "shirina": 43.20395,
+      "dalzhina": 27.920225,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 101,
+      "ime": "Домашни потреби",
+      "shirina": 43.222794,
+      "dalzhina": 27.929331,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 102,
+      "ime": "Домикс",
+      "shirina": 42.183517,
+      "dalzhina": 24.31728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 103,
+      "ime": "Дръзки",
+      "shirina": 43.200592,
+      "dalzhina": 27.92103,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 104,
+      "ime": "За всеки вкус за всяка кесия",
+      "shirina": 42.67604,
+      "dalzhina": 23.2996,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 105,
+      "ime": "За-дома",
+      "shirina": 42.704711,
+      "dalzhina": 23.322299,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 106,
+      "ime": "Ибис",
+      "shirina": 42.700989,
+      "dalzhina": 23.310626,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 107,
+      "ime": "Именна лъжичка",
+      "shirina": 42.701993,
+      "dalzhina": 23.322766,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 108,
+      "ime": "Импресия",
+      "shirina": 43.342495,
+      "dalzhina": 27.197706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 109,
+      "ime": "Кокет декор",
+      "shirina": 42.68649,
+      "dalzhina": 23.323165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 110,
+      "ime": "Кооп",
+      "shirina": 43.207351,
+      "dalzhina": 24.163501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 111,
+      "ime": "Красив дом",
+      "shirina": 42.692692,
+      "dalzhina": 23.325304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 112,
+      "ime": "Красив дом",
+      "shirina": 42.693623,
+      "dalzhina": 23.315178,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 113,
+      "ime": "Крео",
+      "shirina": 42.660496,
+      "dalzhina": 23.383043,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 114,
+      "ime": "Крео",
+      "shirina": 42.691785,
+      "dalzhina": 23.318931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 115,
+      "ime": "Купи и спести",
+      "shirina": 42.676012,
+      "dalzhina": 23.283764,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 116,
+      "ime": "Лаки к&k",
+      "shirina": 42.126072,
+      "dalzhina": 23.132591,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 117,
+      "ime": "Линда 2022 ЕООД",
+      "shirina": 42.698625,
+      "dalzhina": 23.304048,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 118,
+      "ime": "МИТ",
+      "shirina": 42.615747,
+      "dalzhina": 25.39063,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 119,
+      "ime": "Магазин Руди",
+      "shirina": 42.618764,
+      "dalzhina": 25.398302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 120,
+      "ime": "Малибо",
+      "shirina": 43.527341,
+      "dalzhina": 26.513859,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 121,
+      "ime": "Малък ЦУМ",
+      "shirina": 42.699429,
+      "dalzhina": 23.320345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 122,
+      "ime": "Маринела",
+      "shirina": 42.89865,
+      "dalzhina": 25.307628,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 123,
+      "ime": "Марколи-99",
+      "shirina": 42.780718,
+      "dalzhina": 23.378825,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 124,
+      "ime": "Мики",
+      "shirina": 42.689003,
+      "dalzhina": 23.305682,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 125,
+      "ime": "Милион и едно неща",
+      "shirina": 42.67093,
+      "dalzhina": 23.274005,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 126,
+      "ime": "Наркооп",
+      "shirina": 43.570348,
+      "dalzhina": 27.830579,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 127,
+      "ime": "Немски стил",
+      "shirina": 42.689981,
+      "dalzhina": 23.340891,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 128,
+      "ime": "Немски център",
+      "shirina": 42.66866,
+      "dalzhina": 23.279294,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 129,
+      "ime": "Немски център",
+      "shirina": 42.671319,
+      "dalzhina": 23.295018,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 130,
+      "ime": "Немски център",
+      "shirina": 42.672384,
+      "dalzhina": 23.284903,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 131,
+      "ime": "Немски център",
+      "shirina": 42.67519,
+      "dalzhina": 23.358779,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 132,
+      "ime": "Немски център",
+      "shirina": 42.698962,
+      "dalzhina": 23.306029,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 133,
+      "ime": "Немски център",
+      "shirina": 43.079537,
+      "dalzhina": 25.629295,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 134,
+      "ime": "Нишава",
+      "shirina": 42.669429,
+      "dalzhina": 23.302515,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 135,
+      "ime": "Образцов дом",
+      "shirina": 42.706851,
+      "dalzhina": 23.324286,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 136,
+      "ime": "Петра",
+      "shirina": 42.686771,
+      "dalzhina": 23.317129,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 137,
+      "ime": "Премаман Пловдив",
+      "shirina": 42.148923,
+      "dalzhina": 24.749622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 138,
+      "ime": "Спас и Иванка",
+      "shirina": 42.500771,
+      "dalzhina": 24.705528,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 139,
+      "ime": "Стоки за дома",
+      "shirina": 42.674832,
+      "dalzhina": 23.290143,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 140,
+      "ime": "Стъклени буркани",
+      "shirina": 42.701269,
+      "dalzhina": 23.323255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 141,
+      "ime": "Тип топ",
+      "shirina": 43.211776,
+      "dalzhina": 27.922941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 142,
+      "ime": "Тип-Топ",
+      "shirina": 43.571742,
+      "dalzhina": 27.828241,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 143,
+      "ime": "Титиз",
+      "shirina": 42.137766,
+      "dalzhina": 24.741197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 144,
+      "ime": "Търговски комплекс Скорпион",
+      "shirina": 43.570264,
+      "dalzhina": 27.831913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 145,
+      "ime": "Хан-Стайл",
+      "shirina": 42.689211,
+      "dalzhina": 23.364735,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 146,
+      "ime": "Хубави неща",
+      "shirina": 42.668871,
+      "dalzhina": 23.27931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 147,
+      "ime": "Хубави неща",
+      "shirina": 42.700179,
+      "dalzhina": 23.325652,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 148,
+      "ime": "Хубави неща 1,2,3",
+      "shirina": 42.651476,
+      "dalzhina": 23.381476,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 149,
+      "ime": "Царството на наргилетата",
+      "shirina": 42.70237,
+      "dalzhina": 23.316532,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    },
+    {
+      "id": 150,
+      "ime": "от А до Я",
+      "shirina": 42.686116,
+      "dalzhina": 23.307012,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "houseware",
+      "osm_klas": "shop=houseware"
+    }
+  ],
+  "meta": {
+    "title": "Магазини за домакински стоки в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Магазини за домакински стоки в България — 150 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=houseware`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 150 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Магазини за домакински стоки в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Магазини за домакински стоки в България (OpenStreetMap) — 150 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 150 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

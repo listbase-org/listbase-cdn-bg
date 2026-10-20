@@ -1,0 +1,146 @@
+{
+  "id": "bg-merni-edinitsi-electric",
+  "name": "Мерни единици: electric (8)",
+  "title": "Мерни единици: electric (8)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'electric'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "kategoriya": "electric",
+      "nazvanie": "ампери",
+      "shablon_edinstveno": "{0} ампер",
+      "shablon_mnozhestveno": "{0} ампера",
+      "kratak_shablon": "{0} A",
+      "tesen_shablon": "{0} A"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "kategoriya": "electric",
+      "nazvanie": "кулони",
+      "shablon_edinstveno": "{0} кулон",
+      "shablon_mnozhestveno": "{0} кулона",
+      "kratak_shablon": "{0} C",
+      "tesen_shablon": "{0} C"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "kategoriya": "electric",
+      "nazvanie": "фаради",
+      "shablon_edinstveno": "{0} фарад",
+      "shablon_mnozhestveno": "{0} фарада",
+      "kratak_shablon": "{0} F",
+      "tesen_shablon": "{0} F"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "kategoriya": "electric",
+      "nazvanie": "хенри",
+      "shablon_edinstveno": "{0} хенри",
+      "shablon_mnozhestveno": "{0} хенри",
+      "kratak_shablon": "{0} H",
+      "tesen_shablon": "{0} H"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "kategoriya": "electric",
+      "nazvanie": "милиампери",
+      "shablon_edinstveno": "{0} милиампер",
+      "shablon_mnozhestveno": "{0} милиампера",
+      "kratak_shablon": "{0} mA",
+      "tesen_shablon": "{0} mA"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "kategoriya": "electric",
+      "nazvanie": "омове",
+      "shablon_edinstveno": "{0} ом",
+      "shablon_mnozhestveno": "{0} ома",
+      "kratak_shablon": "{0} Ω",
+      "tesen_shablon": "{0} Ω"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "kategoriya": "electric",
+      "nazvanie": "сименс",
+      "shablon_edinstveno": "{0} сименс",
+      "shablon_mnozhestveno": "{0} сименса",
+      "kratak_shablon": "{0} S",
+      "tesen_shablon": "{0} S"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "kategoriya": "electric",
+      "nazvanie": "волтове",
+      "shablon_edinstveno": "{0} волт",
+      "shablon_mnozhestveno": "{0} волта",
+      "kratak_shablon": "{0} V",
+      "tesen_shablon": "{0} V"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: electric (8) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'electric'. Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: electric (8) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: electric (8) — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

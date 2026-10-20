@@ -1,0 +1,186 @@
+{
+  "id": "bg-jambol-obshtini",
+  "name": "Общини — област Ямбол (Municipalities of Yambol)",
+  "title": "Общини — област Ямбол (Municipalities of Yambol)",
+  "description": "Списък на общините в област Ямбол (Yambol oblast). 5 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс JAM. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 149,
+      "gisco_id": "BG_JAM03",
+      "oblast_code": "JAM",
+      "oblast_slug": "jambol",
+      "oblast_bg": "Ямбол",
+      "oblast_en": "Yambol",
+      "name_bg": "Болярово",
+      "name_en": "",
+      "slug": "bolyarovo",
+      "population_2024": 2986,
+      "population_density_2024_per_km2": 4.47041184,
+      "area_km2": 667.94740804,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://bolyarovo.bg/bg/page/359",
+      "comment": ""
+    },
+    {
+      "id": 157,
+      "gisco_id": "BG_JAM07",
+      "oblast_code": "JAM",
+      "oblast_slug": "jambol",
+      "oblast_bg": "Ямбол",
+      "oblast_en": "Yambol",
+      "name_bg": "Елхово",
+      "name_en": "",
+      "slug": "elhovo",
+      "population_2024": 12795,
+      "population_density_2024_per_km2": 18.22201224,
+      "area_km2": 702.17272574,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://elhovo.bg/wp-content/uploads/2021/12/%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B0-%D0%BF",
+      "comment": ""
+    },
+    {
+      "id": 158,
+      "gisco_id": "BG_JAM22",
+      "oblast_code": "JAM",
+      "oblast_slug": "jambol",
+      "oblast_bg": "Ямбол",
+      "oblast_en": "Yambol",
+      "name_bg": "Стралджа",
+      "name_en": "",
+      "slug": "straldzha",
+      "population_2024": 10112,
+      "population_density_2024_per_km2": 14.95239476,
+      "area_km2": 676.27963019,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://straldzha.bg/doc/planove/1.%D0%9F%D0%9B%D0%90%D0%9D%20%D0%97%D0%90%20%D0%97%D0%90%D0%A9%D0%9",
+      "comment": ""
+    },
+    {
+      "id": 159,
+      "gisco_id": "BG_JAM25",
+      "oblast_code": "JAM",
+      "oblast_slug": "jambol",
+      "oblast_bg": "Ямбол",
+      "oblast_en": "Yambol",
+      "name_bg": "Тунджа",
+      "name_en": "",
+      "slug": "tundzha",
+      "population_2024": 20672,
+      "population_density_2024_per_km2": 16.95954939,
+      "area_km2": 1218.90030954,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://tundzha.bg/services/planove/",
+      "comment": ""
+    },
+    {
+      "id": 160,
+      "gisco_id": "BG_JAM26",
+      "oblast_code": "JAM",
+      "oblast_slug": "jambol",
+      "oblast_bg": "Ямбол",
+      "oblast_en": "Yambol",
+      "name_bg": "Ямбол",
+      "name_en": "",
+      "slug": "yambol",
+      "population_2024": 59755,
+      "population_density_2024_per_km2": 659.0043997,
+      "area_km2": 90.67466018,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://yambol.bg/uploads/3854D841EC184DEF421453D6BDD9D86D",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Ямбол (Municipalities of Yambol) - Безплатно изтегляне",
+    "description": "Списък на общините в област Ямбол (Yambol oblast). 5 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс JAM. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Ямбол (Municipalities of Yambol) | ListBase",
+    "seo_description": "Изтеглете Общини — област Ямбол (Municipalities of Yambol) — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "id": "bg-obekti-na-svetovnoto-nasledstvo-unesco",
+  "name": "Обекти на световното наследство на ЮНЕСКО в България",
+  "title": "Обекти на световното наследство на ЮНЕСКО в България",
+  "description": "Списък на обектите на световното наследство на ЮНЕСКО, разположени в България",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Boyana Church",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(ii)(iii)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 42.65,
+      "longitude": 23.266667,
+      "short_description": "Located on the outskirts of Sofia, Boyana Church consists of three buildings. The eastern church was built in the 10th century, then enlarged at the beginning of the 13th century by Sebastocrator Kaloyan, who ordered a second two storey building to be erected next to it. The frescoes in this second church, painted in 1259, make it one of the most important collections of medieval paintings. The ensemble is completed by a third church, built at the beginning of the 19th century. This site is one of the most complete and perfectly preserved monuments of east European medieval art.",
+      "id_number": 42,
+      "url": "https://whc.unesco.org/en/list/42"
+    },
+    {
+      "name": "Madara Rider",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(i)(iii)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 43.3,
+      "longitude": 27.15,
+      "short_description": "The Madara Rider, representing the figure of a knight triumphing over a lion, is carved into a 100-m-high cliff near the village of Madara in north-east Bulgaria. Madara was the principal sacred place of the First Bulgarian Empire before Bulgaria’s conversion to Christianity in the 9th century. The inscriptions beside the sculpture tell of events that occurred between AD 705 and 801.",
+      "id_number": 43,
+      "url": "https://whc.unesco.org/en/list/43"
+    },
+    {
+      "name": "Rock-Hewn Churches of Ivanovo",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(ii)(iii)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 43.716667,
+      "longitude": 25.966667,
+      "short_description": "In the valley of the Roussenski Lom River, in north east Bulgaria, a complex of rock-hewn churches, chapels, monasteries and cells developed in the vicinity of the village of Ivanovo. This is where the first hermits had dug out their cells and churches during the 12th century. The 14th-century murals testify to the exceptional skill of the artists belonging to the Tarnovo School of painting.",
+      "id_number": 45,
+      "url": "https://whc.unesco.org/en/list/45"
+    },
+    {
+      "name": "Thracian Tomb of Kazanlak",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(i)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 42.616667,
+      "longitude": 25.4,
+      "short_description": "Discovered in 1944, this tomb dates from the Hellenistic period, around the end of the 4th century BC. It is located near Seutopolis, the capital city of the Thracian king Seutes III, and is part of a large Thracian necropolis. The tholos has a narrow corridor and a round burial chamber, both decorated with murals representing Thracian burial rituals and culture. These paintings are Bulgaria’s best-preserved artistic masterpieces from the Hellenistic period.",
+      "id_number": 44,
+      "url": "https://whc.unesco.org/en/list/44"
+    },
+    {
+      "name": "Ancient City of Nessebar",
+      "category": "Cultural",
+      "date_inscribed": 1983,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 42.65611,
+      "longitude": 27.73,
+      "short_description": "Situated on a rocky peninsula on the Black Sea, the more than 3,000-year-old site of Nessebar was originally a Thracian settlement (Menebria). At the beginning of the 6th century BC, the city became a Greek colony. The city’s remains, which date mostly from the Hellenistic period, include the acropolis, a temple of Apollo, an agora and a wall from the Thracian fortifications. Among other monuments, the Stara Mitropolia Basilica and the fortress date from the Middle Ages, when this was one of the most important Byzantine towns on the west coast of the Black Sea. Wooden houses built in the 19th century are typical of the Black Sea architecture of the period.",
+      "id_number": 217,
+      "url": "https://whc.unesco.org/en/list/217"
+    },
+    {
+      "name": "Pirin National Park",
+      "category": "Natural",
+      "date_inscribed": 1983,
+      "criteria": "(vii)(viii)(ix)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 41.742722,
+      "longitude": 23.430472,
+      "short_description": "Spread over an area of over 27,000 ha, at an altitude between 1008 and 2914 m in the Pirin Mountains, southwest Bulgaria, the site comprises diverse limestone mountain landscapes with glacial lakes, waterfalls, caves and predominantly coniferous forests. It was added to the World Heritage List in 1983. The extension now covers an area of around 40,000 ha in the Pirin Mountains, and overlaps with the Pirin National Park, except for two areas developed for tourism (skiing). The dominant part of the extension is high mountain territory over 2000m in altitude, and covered mostly by alpine meadows, rocky screes and summits.",
+      "id_number": 225,
+      "url": "https://whc.unesco.org/en/list/225"
+    },
+    {
+      "name": "Rila Monastery",
+      "category": "Cultural",
+      "date_inscribed": 1983,
+      "criteria": "(vi)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 42.116667,
+      "longitude": 23.4,
+      "short_description": "Rila Monastery was founded in the 10th century by St John of Rila, a hermit canonized by the Orthodox Church. His ascetic dwelling and tomb became a holy site and were transformed into a monastic complex which played an important role in the spiritual and social life of medieval Bulgaria. Destroyed by fire at the beginning of the 19th century, the complex was rebuilt between 1834 and 1862. A characteristic example of the Bulgarian Renaissance (18th–19th centuries), the monument symbolizes the awareness of a Slavic cultural identity following centuries of occupation.",
+      "id_number": 216,
+      "url": "https://whc.unesco.org/en/list/216"
+    },
+    {
+      "name": "Srebarna Nature Reserve",
+      "category": "Natural",
+      "date_inscribed": 1983,
+      "criteria": "(x)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": true,
+      "latitude": 44.11444,
+      "longitude": 27.07806,
+      "short_description": "The Srebarna Nature Reserve is a freshwater lake adjacent to the Danube and extending over 600 ha. It is the breeding ground of almost 100 species of birds, many of which are rare or endangered. Some 80 other bird species migrate and seek refuge there every winter. Among the most interesting bird species are the Dalmatian pelican, great egret, night heron, purple heron, glossy ibis and white spoonbill.",
+      "id_number": 219,
+      "url": "https://whc.unesco.org/en/list/219"
+    },
+    {
+      "name": "Thracian Tomb of Sveshtari",
+      "category": "Cultural",
+      "date_inscribed": 1985,
+      "criteria": "(i)(iii)",
+      "region": "Europe and North America",
+      "states": "Bulgaria",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 43.66667,
+      "longitude": 26.66667,
+      "short_description": "Discovered in 1982 near the village of Sveshtari, this 3rd-century BC Thracian tomb reflects the fundamental structural principles of Thracian cult buildings. The tomb has a unique architectural decor, with polychrome half-human, half-plant caryatids and painted murals. The 10 female figures carved in high relief on the walls of the central chamber and the decoration of the lunette in its vault are the only examples of this type found so far in the Thracian lands. It is a remarkable reminder of the culture of the Getes, a Thracian people who were in contact with the Hellenistic and Hyperborean worlds, according to ancient geographers.",
+      "id_number": 359,
+      "url": "https://whc.unesco.org/en/list/359"
+    },
+    {
+      "name": "Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+      "category": "Natural",
+      "date_inscribed": 2007,
+      "criteria": "(ix)",
+      "region": "Europe and North America",
+      "states": "Albania, Austria, Belgium, Bulgaria, Croatia, Germany, Italy, Romania, Slovakia, Slovenia, Spain, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 49.009722,
+      "longitude": 22.338889,
+      "short_description": "This transboundary property stretches over 12 countries. Since the end of the last Ice Age, European Beech spread from a few isolated refuge areas in the Alps, Carpathians , Dinarides , Mediterranean and Pyrenees over a short period of a few thousand years in a process that is still ongoing. The successful expansion across a whole continent is related to the tree’s adaptability and tolerance of different climatic, geographical and physical conditions.",
+      "id_number": 1133,
+      "url": "https://whc.unesco.org/en/list/1133"
+    }
+  ],
+  "meta": {
+    "title": "Обекти на световното наследство на ЮНЕСКО в България - Безплатно изтегляне",
+    "description": "Списък на обектите на световното наследство на ЮНЕСКО, разположени в България Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Обекти на световното наследство на ЮНЕСКО в България | ListBase",
+    "seo_description": "Изтеглете Обекти на световното наследство на ЮНЕСКО в България — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 13 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

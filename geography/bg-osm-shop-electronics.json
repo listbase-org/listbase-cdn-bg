@@ -1,0 +1,2626 @@
+{
+  "id": "bg-osm-shop-electronics",
+  "name": "Магазини за електроника в България (OpenStreetMap)",
+  "title": "Магазини за електроника в България (OpenStreetMap)",
+  "description": "Магазини за електроника в България — 285 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=electronics`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Денси\"",
+      "shirina": 42.929861,
+      "dalzhina": 25.878415,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 2,
+      "ime": "2Р България ЕООД",
+      "shirina": 42.706318,
+      "dalzhina": 23.309938,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 3,
+      "ime": "AEG",
+      "shirina": 42.69892,
+      "dalzhina": 23.308673,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 4,
+      "ime": "Apple BG",
+      "shirina": 42.134462,
+      "dalzhina": 24.742046,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 5,
+      "ime": "BGcomp",
+      "shirina": 43.840192,
+      "dalzhina": 25.955061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 6,
+      "ime": "Dekom",
+      "shirina": 42.143499,
+      "dalzhina": 24.763406,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 7,
+      "ime": "E-commerce group ltd",
+      "shirina": 42.131059,
+      "dalzhina": 24.768954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 8,
+      "ime": "EGLO",
+      "shirina": 42.711943,
+      "dalzhina": 23.359342,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 9,
+      "ime": "Easy9",
+      "shirina": 42.67816,
+      "dalzhina": 23.29167,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 10,
+      "ime": "Elimex",
+      "shirina": 42.639273,
+      "dalzhina": 24.800454,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 11,
+      "ime": "Elimex",
+      "shirina": 42.674488,
+      "dalzhina": 23.291133,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 12,
+      "ime": "Elinvent Ltd.",
+      "shirina": 42.675171,
+      "dalzhina": 23.384414,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 13,
+      "ime": "Expo2000",
+      "shirina": 42.676786,
+      "dalzhina": 23.317954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 14,
+      "ime": "Fenix Light",
+      "shirina": 42.641366,
+      "dalzhina": 23.373711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 15,
+      "ime": "FreshClima - климатици",
+      "shirina": 42.711761,
+      "dalzhina": 23.311444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 16,
+      "ime": "GPS tracking services",
+      "shirina": 42.649995,
+      "dalzhina": 23.37113,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 17,
+      "ime": "GSM",
+      "shirina": 42.14028,
+      "dalzhina": 24.742233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 18,
+      "ime": "GSM Service",
+      "shirina": 43.071752,
+      "dalzhina": 25.607647,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 19,
+      "ime": "GSM Алоало",
+      "shirina": 43.211058,
+      "dalzhina": 27.908068,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 20,
+      "ime": "GSM хамър",
+      "shirina": 42.140506,
+      "dalzhina": 24.741935,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 21,
+      "ime": "ION Computers",
+      "shirina": 42.647899,
+      "dalzhina": 23.401834,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 22,
+      "ime": "Infotel",
+      "shirina": 42.708952,
+      "dalzhina": 23.313066,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 23,
+      "ime": "Kasovaparat",
+      "shirina": 42.645748,
+      "dalzhina": 23.376484,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 24,
+      "ime": "Kirov Highend фенери",
+      "shirina": 42.660701,
+      "dalzhina": 23.316507,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 25,
+      "ime": "Krushki.com",
+      "shirina": 42.703419,
+      "dalzhina": 23.309826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 26,
+      "ime": "Kuvings",
+      "shirina": 42.666037,
+      "dalzhina": 23.352487,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 27,
+      "ime": "Lancom",
+      "shirina": 42.691312,
+      "dalzhina": 23.294313,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 28,
+      "ime": "Leds4Economy",
+      "shirina": 42.729111,
+      "dalzhina": 23.299962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 29,
+      "ime": "MCI",
+      "shirina": 42.02424,
+      "dalzhina": 23.099061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 30,
+      "ime": "Miele",
+      "shirina": 42.657857,
+      "dalzhina": 23.315387,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 31,
+      "ime": "Miele",
+      "shirina": 42.660598,
+      "dalzhina": 23.383773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 32,
+      "ime": "Miele",
+      "shirina": 42.661422,
+      "dalzhina": 23.28642,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 33,
+      "ime": "Miele",
+      "shirina": 42.67007,
+      "dalzhina": 23.319933,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 34,
+      "ime": "Miele",
+      "shirina": 42.673092,
+      "dalzhina": 23.35427,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 35,
+      "ime": "Miele",
+      "shirina": 42.674998,
+      "dalzhina": 23.304188,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 36,
+      "ime": "Miele",
+      "shirina": 42.68543,
+      "dalzhina": 23.316702,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 37,
+      "ime": "Nostrolux",
+      "shirina": 42.697273,
+      "dalzhina": 23.315438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 38,
+      "ime": "PCLIMA",
+      "shirina": 42.653114,
+      "dalzhina": 27.671707,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 39,
+      "ime": "Pravetz service",
+      "shirina": 42.635604,
+      "dalzhina": 23.376041,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 40,
+      "ime": "REstore.bg",
+      "shirina": 42.681414,
+      "dalzhina": 23.355603,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 41,
+      "ime": "Robicam",
+      "shirina": 42.664317,
+      "dalzhina": 23.28653,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 42,
+      "ime": "SJ Service",
+      "shirina": 43.207874,
+      "dalzhina": 27.904111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 43,
+      "ime": "Samsung",
+      "shirina": 42.660512,
+      "dalzhina": 23.382353,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 44,
+      "ime": "Shahin",
+      "shirina": 42.702516,
+      "dalzhina": 23.315247,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 45,
+      "ime": "Smart Deal",
+      "shirina": 42.691682,
+      "dalzhina": 23.316257,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 46,
+      "ime": "Sofia Audio Centre",
+      "shirina": 42.69034,
+      "dalzhina": 23.312507,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 47,
+      "ime": "Solar House",
+      "shirina": 42.659487,
+      "dalzhina": 23.325909,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 48,
+      "ime": "Sony Centre",
+      "shirina": 42.692585,
+      "dalzhina": 23.322995,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 49,
+      "ime": "Steinberger",
+      "shirina": 42.502088,
+      "dalzhina": 27.467689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 50,
+      "ime": "Steinberger",
+      "shirina": 42.688229,
+      "dalzhina": 23.311932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 51,
+      "ime": "Steinberger",
+      "shirina": 42.700153,
+      "dalzhina": 23.315847,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 52,
+      "ime": "Stereo Shop",
+      "shirina": 42.695073,
+      "dalzhina": 27.712026,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 53,
+      "ime": "Stiebel Eltron",
+      "shirina": 42.668322,
+      "dalzhina": 23.313883,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 54,
+      "ime": "TanSys",
+      "shirina": 42.708517,
+      "dalzhina": 23.306949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 55,
+      "ime": "Technics hifi",
+      "shirina": 42.703604,
+      "dalzhina": 23.323903,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 56,
+      "ime": "Technika",
+      "shirina": 42.666392,
+      "dalzhina": 23.363698,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 57,
+      "ime": "TechnoGermany",
+      "shirina": 43.85422,
+      "dalzhina": 25.96444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 58,
+      "ime": "TechnoWelt",
+      "shirina": 42.706325,
+      "dalzhina": 23.309808,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 59,
+      "ime": "Technocenter",
+      "shirina": 42.643583,
+      "dalzhina": 23.334348,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 60,
+      "ime": "Technoline",
+      "shirina": 42.210073,
+      "dalzhina": 24.131014,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 61,
+      "ime": "Technostar",
+      "shirina": 42.154235,
+      "dalzhina": 24.699174,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 62,
+      "ime": "UltraNet",
+      "shirina": 41.561279,
+      "dalzhina": 23.277324,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 63,
+      "ime": "Vikiwat",
+      "shirina": 42.151975,
+      "dalzhina": 24.738018,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 64,
+      "ime": "Vimax",
+      "shirina": 42.647459,
+      "dalzhina": 23.373853,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 65,
+      "ime": "Vimax",
+      "shirina": 42.677873,
+      "dalzhina": 23.320204,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 66,
+      "ime": "Zornitsa",
+      "shirina": 41.631555,
+      "dalzhina": 25.359155,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 67,
+      "ime": "copter.bg",
+      "shirina": 42.101309,
+      "dalzhina": 24.760174,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 68,
+      "ime": "iCorner",
+      "shirina": 42.664323,
+      "dalzhina": 23.288194,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 69,
+      "ime": "iStation",
+      "shirina": 42.698286,
+      "dalzhina": 23.309008,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 70,
+      "ime": "iStyle",
+      "shirina": 42.65752,
+      "dalzhina": 23.315034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 71,
+      "ime": "iStyle",
+      "shirina": 42.660301,
+      "dalzhina": 23.383276,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 72,
+      "ime": "iStyle",
+      "shirina": 42.693448,
+      "dalzhina": 23.320597,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 73,
+      "ime": "karta.bg",
+      "shirina": 42.690838,
+      "dalzhina": 23.330202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 74,
+      "ime": "pro-bg",
+      "shirina": 42.645933,
+      "dalzhina": 23.376674,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 75,
+      "ime": "Аллл груп",
+      "shirina": 42.678031,
+      "dalzhina": 23.302125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 76,
+      "ime": "Атлантис Център",
+      "shirina": 42.906316,
+      "dalzhina": 23.791279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 77,
+      "ime": "Боми",
+      "shirina": 41.931884,
+      "dalzhina": 25.553359,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 78,
+      "ime": "Боми",
+      "shirina": 41.983837,
+      "dalzhina": 25.564788,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 79,
+      "ime": "Бяла техника - Иркони",
+      "shirina": 42.13025,
+      "dalzhina": 24.777279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 80,
+      "ime": "Вами Електроникс",
+      "shirina": 43.209168,
+      "dalzhina": 27.901978,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 81,
+      "ime": "Венди 101 ООД",
+      "shirina": 42.622261,
+      "dalzhina": 25.395137,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 82,
+      "ime": "Виктор Електрик",
+      "shirina": 43.848707,
+      "dalzhina": 25.949447,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 83,
+      "ime": "Гемамекс",
+      "shirina": 43.237405,
+      "dalzhina": 27.873326,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 84,
+      "ime": "Геотрейд",
+      "shirina": 42.674516,
+      "dalzhina": 23.377612,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 85,
+      "ime": "Деком",
+      "shirina": 42.144959,
+      "dalzhina": 24.756416,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 86,
+      "ime": "Денси, Борса за техника",
+      "shirina": 43.075601,
+      "dalzhina": 25.601596,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 87,
+      "ime": "Доброденствие",
+      "shirina": 42.673145,
+      "dalzhina": 23.296626,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 88,
+      "ime": "ЕГЛО България Стара Загора",
+      "shirina": 42.422348,
+      "dalzhina": 25.642287,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 89,
+      "ime": "ЕЛМАРКЕТ-Офис център",
+      "shirina": 42.481388,
+      "dalzhina": 27.439146,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 90,
+      "ime": "ЕТ РАБА - Преносими електроинструменти",
+      "shirina": 43.991064,
+      "dalzhina": 22.8769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 91,
+      "ime": "Ел. материали",
+      "shirina": 42.501331,
+      "dalzhina": 27.460304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 92,
+      "ime": "Елдоминвест",
+      "shirina": 42.689504,
+      "dalzhina": 23.360213,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 93,
+      "ime": "Електроинвест",
+      "shirina": 42.701295,
+      "dalzhina": 23.320381,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 94,
+      "ime": "Електрон",
+      "shirina": 42.14506,
+      "dalzhina": 24.757417,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 95,
+      "ime": "Електростил",
+      "shirina": 42.712337,
+      "dalzhina": 23.31455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 96,
+      "ime": "Елимекс",
+      "shirina": 42.126892,
+      "dalzhina": 24.741968,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 97,
+      "ime": "Елимекс",
+      "shirina": 42.139896,
+      "dalzhina": 24.750013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 98,
+      "ime": "Елимекс",
+      "shirina": 42.49493,
+      "dalzhina": 27.469807,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 99,
+      "ime": "Елимекс",
+      "shirina": 42.621209,
+      "dalzhina": 25.389984,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 100,
+      "ime": "Елимекс",
+      "shirina": 42.730206,
+      "dalzhina": 23.298775,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 101,
+      "ime": "Елимекс",
+      "shirina": 43.209865,
+      "dalzhina": 27.907187,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 102,
+      "ime": "Елимекс",
+      "shirina": 43.223209,
+      "dalzhina": 27.929541,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 103,
+      "ime": "Елимекс",
+      "shirina": 43.273336,
+      "dalzhina": 26.93147,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 104,
+      "ime": "Елкабел - Фирмен Магазин",
+      "shirina": 42.506146,
+      "dalzhina": 27.460011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 105,
+      "ime": "Елма",
+      "shirina": 42.525872,
+      "dalzhina": 27.445935,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 106,
+      "ime": "Елтрейд",
+      "shirina": 42.666092,
+      "dalzhina": 23.301136,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 107,
+      "ime": "Елуси",
+      "shirina": 43.531058,
+      "dalzhina": 26.525966,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 108,
+      "ime": "Етика Сервиз",
+      "shirina": 42.134479,
+      "dalzhina": 24.756465,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 109,
+      "ime": "Зора",
+      "shirina": 41.645218,
+      "dalzhina": 25.373962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 110,
+      "ime": "Зора",
+      "shirina": 41.759681,
+      "dalzhina": 26.212009,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 111,
+      "ime": "Зора",
+      "shirina": 41.930591,
+      "dalzhina": 25.602904,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 112,
+      "ime": "Зора",
+      "shirina": 42.143198,
+      "dalzhina": 24.78121,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 113,
+      "ime": "Зора",
+      "shirina": 42.146374,
+      "dalzhina": 24.779829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 114,
+      "ime": "Зора",
+      "shirina": 42.157018,
+      "dalzhina": 24.728596,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 115,
+      "ime": "Зора",
+      "shirina": 42.412881,
+      "dalzhina": 25.639794,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 116,
+      "ime": "Зора",
+      "shirina": 42.413823,
+      "dalzhina": 25.599684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 117,
+      "ime": "Зора",
+      "shirina": 42.513726,
+      "dalzhina": 27.452868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 118,
+      "ime": "Зора",
+      "shirina": 42.529783,
+      "dalzhina": 27.456741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 119,
+      "ime": "Зора",
+      "shirina": 42.640182,
+      "dalzhina": 23.311459,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 120,
+      "ime": "Зора",
+      "shirina": 42.654626,
+      "dalzhina": 23.371781,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 121,
+      "ime": "Зора",
+      "shirina": 42.679797,
+      "dalzhina": 23.367906,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 122,
+      "ime": "Зора",
+      "shirina": 42.702187,
+      "dalzhina": 23.323267,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 123,
+      "ime": "Зора",
+      "shirina": 42.707692,
+      "dalzhina": 23.36567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 124,
+      "ime": "Зора",
+      "shirina": 42.709524,
+      "dalzhina": 23.45761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 125,
+      "ime": "Зора",
+      "shirina": 42.715279,
+      "dalzhina": 23.262311,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 126,
+      "ime": "Зора",
+      "shirina": 42.726947,
+      "dalzhina": 23.301332,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 127,
+      "ime": "Зора",
+      "shirina": 42.746691,
+      "dalzhina": 23.230238,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 128,
+      "ime": "Зора",
+      "shirina": 42.911225,
+      "dalzhina": 23.808177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 129,
+      "ime": "Зора",
+      "shirina": 43.223514,
+      "dalzhina": 27.873224,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 130,
+      "ime": "Зора",
+      "shirina": 43.233216,
+      "dalzhina": 27.867157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 131,
+      "ime": "Зора",
+      "shirina": 43.247858,
+      "dalzhina": 26.55709,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 132,
+      "ime": "Зора",
+      "shirina": 43.40785,
+      "dalzhina": 24.636702,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 133,
+      "ime": "Зора",
+      "shirina": 43.421807,
+      "dalzhina": 23.225182,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 134,
+      "ime": "Зора",
+      "shirina": 43.851885,
+      "dalzhina": 25.987412,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 135,
+      "ime": "Зора",
+      "shirina": 44.001459,
+      "dalzhina": 22.869936,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 136,
+      "ime": "ИСЛ",
+      "shirina": 42.655041,
+      "dalzhina": 23.389488,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 137,
+      "ime": "Капитани Електроникс",
+      "shirina": 42.596893,
+      "dalzhina": 25.209102,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 138,
+      "ime": "Касови апарати",
+      "shirina": 44.119011,
+      "dalzhina": 27.26344,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 139,
+      "ime": "Клима сервиз",
+      "shirina": 42.169747,
+      "dalzhina": 24.755712,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 140,
+      "ime": "Кузмов електроникс",
+      "shirina": 42.146744,
+      "dalzhina": 24.754897,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 141,
+      "ime": "М & М компютри",
+      "shirina": 42.906002,
+      "dalzhina": 23.791436,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 142,
+      "ime": "М Тех",
+      "shirina": 42.906475,
+      "dalzhina": 23.794617,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 143,
+      "ime": "МК ЛАЙТИНГ ДИЗАЙН ЕООД",
+      "shirina": 43.220683,
+      "dalzhina": 27.935924,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 144,
+      "ime": "Магазин за LED осветление",
+      "shirina": 42.703398,
+      "dalzhina": 23.309956,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 145,
+      "ime": "Магазин за Електроника - Щайнбергер",
+      "shirina": 43.409094,
+      "dalzhina": 24.620265,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 146,
+      "ime": "Магазин за електроника",
+      "shirina": 42.723383,
+      "dalzhina": 23.327617,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 147,
+      "ime": "Мебели Зона-Б5",
+      "shirina": 42.698075,
+      "dalzhina": 23.30647,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 148,
+      "ime": "Мелпомена",
+      "shirina": 43.340078,
+      "dalzhina": 27.190653,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 149,
+      "ime": "Млад техник",
+      "shirina": 42.67789,
+      "dalzhina": 26.313478,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 150,
+      "ime": "Недстар",
+      "shirina": 41.576264,
+      "dalzhina": 24.704271,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 151,
+      "ime": "Ник електрик",
+      "shirina": 42.696447,
+      "dalzhina": 23.351134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 152,
+      "ime": "Новатех ЕООД - BestPC.BG",
+      "shirina": 42.648554,
+      "dalzhina": 23.408749,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 153,
+      "ime": "ПАН Сервиз",
+      "shirina": 42.152207,
+      "dalzhina": 24.757805,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 154,
+      "ime": "Пан сервиз",
+      "shirina": 42.501356,
+      "dalzhina": 27.460453,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 155,
+      "ime": "Панда",
+      "shirina": 41.634324,
+      "dalzhina": 25.380468,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 156,
+      "ime": "Панда",
+      "shirina": 42.502294,
+      "dalzhina": 27.470799,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 157,
+      "ime": "Петров сервиз",
+      "shirina": 42.423217,
+      "dalzhina": 25.622045,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 158,
+      "ime": "Профайлд ООД",
+      "shirina": 42.667141,
+      "dalzhina": 23.290885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 159,
+      "ime": "Радиус",
+      "shirina": 43.212731,
+      "dalzhina": 27.918382,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 160,
+      "ime": "Рениво ЕООД",
+      "shirina": 42.677026,
+      "dalzhina": 23.301941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 161,
+      "ime": "СБУ",
+      "shirina": 42.524985,
+      "dalzhina": 27.44606,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 162,
+      "ime": "СДА",
+      "shirina": 42.267802,
+      "dalzhina": 27.755359,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 163,
+      "ime": "СИЛВЪР ТЕРМ ЕООД",
+      "shirina": 42.476529,
+      "dalzhina": 26.498205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 164,
+      "ime": "СИС Електро",
+      "shirina": 42.662564,
+      "dalzhina": 23.316851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 165,
+      "ime": "Сервиз",
+      "shirina": 42.145686,
+      "dalzhina": 24.754504,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 166,
+      "ime": "Сервиз Димси",
+      "shirina": 43.209481,
+      "dalzhina": 27.898266,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 167,
+      "ime": "Софтелектроник 1",
+      "shirina": 42.707106,
+      "dalzhina": 23.313052,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 168,
+      "ime": "Стемо",
+      "shirina": 42.159433,
+      "dalzhina": 24.747483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 169,
+      "ime": "ТВ сервиз",
+      "shirina": 42.498325,
+      "dalzhina": 27.462153,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 170,
+      "ime": "Техмарт",
+      "shirina": 42.143508,
+      "dalzhina": 24.781234,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 171,
+      "ime": "Техмарт",
+      "shirina": 42.418621,
+      "dalzhina": 25.605861,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 172,
+      "ime": "Техмарт",
+      "shirina": 42.530727,
+      "dalzhina": 27.456549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 173,
+      "ime": "Техмарт",
+      "shirina": 42.633435,
+      "dalzhina": 23.333448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 174,
+      "ime": "Техмарт",
+      "shirina": 42.665922,
+      "dalzhina": 23.302373,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 175,
+      "ime": "Техмарт",
+      "shirina": 42.669035,
+      "dalzhina": 23.276421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 176,
+      "ime": "Техмарт",
+      "shirina": 42.710206,
+      "dalzhina": 23.394521,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 177,
+      "ime": "Техмарт",
+      "shirina": 42.71207,
+      "dalzhina": 23.302471,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 178,
+      "ime": "Техмарт",
+      "shirina": 42.742553,
+      "dalzhina": 23.231857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 179,
+      "ime": "Техмарт",
+      "shirina": 43.219821,
+      "dalzhina": 23.542426,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 180,
+      "ime": "Техмарт",
+      "shirina": 43.242551,
+      "dalzhina": 26.560094,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 181,
+      "ime": "Техмарт",
+      "shirina": 43.408362,
+      "dalzhina": 24.636941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 182,
+      "ime": "Техмарт",
+      "shirina": 43.551548,
+      "dalzhina": 27.837763,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 183,
+      "ime": "Техно Дом",
+      "shirina": 43.570177,
+      "dalzhina": 27.829517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 184,
+      "ime": "ТехноРай",
+      "shirina": 43.256441,
+      "dalzhina": 26.949737,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 185,
+      "ime": "Технодемаркт",
+      "shirina": 42.56567,
+      "dalzhina": 27.622339,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 186,
+      "ime": "Технодом Брос",
+      "shirina": 42.487295,
+      "dalzhina": 26.503405,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 187,
+      "ime": "Технокомерс",
+      "shirina": 42.610934,
+      "dalzhina": 23.04006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 188,
+      "ime": "Техномаркет",
+      "shirina": 41.555382,
+      "dalzhina": 23.276826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 189,
+      "ime": "Техномаркет",
+      "shirina": 41.572103,
+      "dalzhina": 24.715723,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 190,
+      "ime": "Техномаркет",
+      "shirina": 41.575567,
+      "dalzhina": 23.742672,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 191,
+      "ime": "Техномаркет",
+      "shirina": 41.631992,
+      "dalzhina": 25.378727,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 192,
+      "ime": "Техномаркет",
+      "shirina": 41.770932,
+      "dalzhina": 26.199256,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 193,
+      "ime": "Техномаркет",
+      "shirina": 41.845773,
+      "dalzhina": 23.483305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 194,
+      "ime": "Техномаркет",
+      "shirina": 41.931583,
+      "dalzhina": 25.604357,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 195,
+      "ime": "Техномаркет",
+      "shirina": 41.997502,
+      "dalzhina": 23.088206,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 196,
+      "ime": "Техномаркет",
+      "shirina": 42.018922,
+      "dalzhina": 24.86354,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 197,
+      "ime": "Техномаркет",
+      "shirina": 42.029058,
+      "dalzhina": 24.007412,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 198,
+      "ime": "Техномаркет",
+      "shirina": 42.030741,
+      "dalzhina": 24.002651,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 199,
+      "ime": "Техномаркет",
+      "shirina": 42.058158,
+      "dalzhina": 25.586905,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 200,
+      "ime": "Техномаркет",
+      "shirina": 42.058219,
+      "dalzhina": 25.587589,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 201,
+      "ime": "Техномаркет",
+      "shirina": 42.090243,
+      "dalzhina": 25.211337,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 202,
+      "ime": "Техномаркет",
+      "shirina": 42.122018,
+      "dalzhina": 24.7574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 203,
+      "ime": "Техномаркет",
+      "shirina": 42.141071,
+      "dalzhina": 24.740814,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 204,
+      "ime": "Техномаркет",
+      "shirina": 42.145074,
+      "dalzhina": 24.780061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 205,
+      "ime": "Техномаркет",
+      "shirina": 42.155645,
+      "dalzhina": 24.707058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 206,
+      "ime": "Техномаркет",
+      "shirina": 42.183466,
+      "dalzhina": 24.316597,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 207,
+      "ime": "Техномаркет",
+      "shirina": 42.267236,
+      "dalzhina": 23.113964,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 208,
+      "ime": "Техномаркет",
+      "shirina": 42.344951,
+      "dalzhina": 23.552,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 209,
+      "ime": "Техномаркет",
+      "shirina": 42.419658,
+      "dalzhina": 25.608346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 210,
+      "ime": "Техномаркет",
+      "shirina": 42.472109,
+      "dalzhina": 27.432501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 211,
+      "ime": "Техномаркет",
+      "shirina": 42.477688,
+      "dalzhina": 26.513599,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 212,
+      "ime": "Техномаркет",
+      "shirina": 42.530482,
+      "dalzhina": 27.460087,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 213,
+      "ime": "Техномаркет",
+      "shirina": 42.606204,
+      "dalzhina": 23.055704,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 214,
+      "ime": "Техномаркет",
+      "shirina": 42.616733,
+      "dalzhina": 25.368373,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 215,
+      "ime": "Техномаркет",
+      "shirina": 42.624532,
+      "dalzhina": 23.353323,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 216,
+      "ime": "Техномаркет",
+      "shirina": 42.645002,
+      "dalzhina": 23.394284,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 217,
+      "ime": "Техномаркет",
+      "shirina": 42.652759,
+      "dalzhina": 27.672484,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 218,
+      "ime": "Техномаркет",
+      "shirina": 42.655391,
+      "dalzhina": 23.590082,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 219,
+      "ime": "Техномаркет",
+      "shirina": 42.660094,
+      "dalzhina": 23.244664,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 220,
+      "ime": "Техномаркет",
+      "shirina": 42.678368,
+      "dalzhina": 23.319878,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 221,
+      "ime": "Техномаркет",
+      "shirina": 42.68231,
+      "dalzhina": 26.339347,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 222,
+      "ime": "Техномаркет",
+      "shirina": 42.698247,
+      "dalzhina": 23.308165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 223,
+      "ime": "Техномаркет",
+      "shirina": 42.703558,
+      "dalzhina": 24.162622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 224,
+      "ime": "Техномаркет",
+      "shirina": 42.709964,
+      "dalzhina": 23.452257,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 225,
+      "ime": "Техномаркет",
+      "shirina": 42.72413,
+      "dalzhina": 23.30627,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 226,
+      "ime": "Техномаркет",
+      "shirina": 42.733633,
+      "dalzhina": 23.247829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 227,
+      "ime": "Техномаркет",
+      "shirina": 42.799004,
+      "dalzhina": 23.230146,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 228,
+      "ime": "Техномаркет",
+      "shirina": 42.867247,
+      "dalzhina": 25.317014,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 229,
+      "ime": "Техномаркет",
+      "shirina": 42.891603,
+      "dalzhina": 24.71655,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 230,
+      "ime": "Техномаркет",
+      "shirina": 42.908862,
+      "dalzhina": 23.802438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 231,
+      "ime": "Техномаркет",
+      "shirina": 43.029683,
+      "dalzhina": 25.092475,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 232,
+      "ime": "Техномаркет",
+      "shirina": 43.073012,
+      "dalzhina": 25.614874,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 233,
+      "ime": "Техномаркет",
+      "shirina": 43.184924,
+      "dalzhina": 23.586863,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 234,
+      "ime": "Техномаркет",
+      "shirina": 43.232457,
+      "dalzhina": 27.866098,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 235,
+      "ime": "Техномаркет",
+      "shirina": 43.247838,
+      "dalzhina": 26.557233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 236,
+      "ime": "Техномаркет",
+      "shirina": 43.279423,
+      "dalzhina": 26.927383,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 237,
+      "ime": "Техномаркет",
+      "shirina": 43.404935,
+      "dalzhina": 23.24155,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 238,
+      "ime": "Техномаркет",
+      "shirina": 43.408081,
+      "dalzhina": 24.636675,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 239,
+      "ime": "Техномаркет",
+      "shirina": 43.565492,
+      "dalzhina": 27.83939,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 240,
+      "ime": "Техномикс",
+      "shirina": 42.648949,
+      "dalzhina": 23.335305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 241,
+      "ime": "Техномикс",
+      "shirina": 42.736893,
+      "dalzhina": 23.244929,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 242,
+      "ime": "Технопланет",
+      "shirina": 42.521963,
+      "dalzhina": 27.454965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 243,
+      "ime": "Технополис",
+      "shirina": 41.507576,
+      "dalzhina": 23.275544,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 244,
+      "ime": "Технополис",
+      "shirina": 41.630373,
+      "dalzhina": 25.376932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 245,
+      "ime": "Технополис",
+      "shirina": 41.931508,
+      "dalzhina": 25.605819,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 246,
+      "ime": "Технополис",
+      "shirina": 42.009449,
+      "dalzhina": 23.093396,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 247,
+      "ime": "Технополис",
+      "shirina": 42.127629,
+      "dalzhina": 24.720429,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 248,
+      "ime": "Технополис",
+      "shirina": 42.142442,
+      "dalzhina": 24.781264,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 249,
+      "ime": "Технополис",
+      "shirina": 42.182299,
+      "dalzhina": 24.34661,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 250,
+      "ime": "Технополис",
+      "shirina": 42.274256,
+      "dalzhina": 22.668315,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 251,
+      "ime": "Технополис",
+      "shirina": 42.42812,
+      "dalzhina": 25.662608,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 252,
+      "ime": "Технополис",
+      "shirina": 42.468231,
+      "dalzhina": 26.525705,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 253,
+      "ime": "Технополис",
+      "shirina": 42.521368,
+      "dalzhina": 27.455497,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 254,
+      "ime": "Технополис",
+      "shirina": 42.528554,
+      "dalzhina": 27.453211,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 255,
+      "ime": "Технополис",
+      "shirina": 42.61059,
+      "dalzhina": 23.038801,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 256,
+      "ime": "Технополис",
+      "shirina": 42.624302,
+      "dalzhina": 23.379213,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 257,
+      "ime": "Технополис",
+      "shirina": 42.657563,
+      "dalzhina": 23.313356,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 258,
+      "ime": "Технополис",
+      "shirina": 42.660714,
+      "dalzhina": 23.383905,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 259,
+      "ime": "Технополис",
+      "shirina": 42.663936,
+      "dalzhina": 23.28938,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 260,
+      "ime": "Технополис",
+      "shirina": 42.664073,
+      "dalzhina": 26.325184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 261,
+      "ime": "Технополис",
+      "shirina": 42.689062,
+      "dalzhina": 23.278226,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 262,
+      "ime": "Технополис",
+      "shirina": 42.691322,
+      "dalzhina": 23.353155,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 263,
+      "ime": "Технополис",
+      "shirina": 42.717044,
+      "dalzhina": 23.317732,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 264,
+      "ime": "Технополис",
+      "shirina": 42.719548,
+      "dalzhina": 23.257324,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 265,
+      "ime": "Технополис",
+      "shirina": 42.899083,
+      "dalzhina": 25.326714,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 266,
+      "ime": "Технополис",
+      "shirina": 43.071985,
+      "dalzhina": 25.639012,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 267,
+      "ime": "Технополис",
+      "shirina": 43.186855,
+      "dalzhina": 23.580461,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 268,
+      "ime": "Технополис",
+      "shirina": 43.221257,
+      "dalzhina": 27.873622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 269,
+      "ime": "Технополис",
+      "shirina": 43.232543,
+      "dalzhina": 27.864833,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 270,
+      "ime": "Технополис",
+      "shirina": 43.277239,
+      "dalzhina": 26.950684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 271,
+      "ime": "Технополис",
+      "shirina": 43.41436,
+      "dalzhina": 24.63297,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 272,
+      "ime": "Технополис",
+      "shirina": 43.422038,
+      "dalzhina": 23.229023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 273,
+      "ime": "Технополис",
+      "shirina": 43.521181,
+      "dalzhina": 26.539199,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 274,
+      "ime": "Технополис",
+      "shirina": 43.550733,
+      "dalzhina": 27.835954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 275,
+      "ime": "Технополис",
+      "shirina": 43.831546,
+      "dalzhina": 25.969925,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 276,
+      "ime": "Технополис",
+      "shirina": 44.007251,
+      "dalzhina": 22.88142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 277,
+      "ime": "Технополис",
+      "shirina": 44.114378,
+      "dalzhina": 27.273541,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 278,
+      "ime": "Тремол касови апарати",
+      "shirina": 43.209476,
+      "dalzhina": 27.910808,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 279,
+      "ime": "Тръпкови",
+      "shirina": 42.671221,
+      "dalzhina": 23.273629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 280,
+      "ime": "Филкаб",
+      "shirina": 42.506545,
+      "dalzhina": 27.457972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 281,
+      "ime": "Щайнбергер",
+      "shirina": 43.07353,
+      "dalzhina": 25.626476,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 282,
+      "ime": "ЮМЕНА",
+      "shirina": 43.213349,
+      "dalzhina": 27.913504,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 283,
+      "ime": "ЮМЕНА",
+      "shirina": 43.214657,
+      "dalzhina": 27.91983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 284,
+      "ime": "електро плюс",
+      "shirina": 42.665996,
+      "dalzhina": 23.352116,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    },
+    {
+      "id": 285,
+      "ime": "климатици",
+      "shirina": 43.209355,
+      "dalzhina": 27.910546,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "electronics",
+      "osm_klas": "shop=electronics"
+    }
+  ],
+  "meta": {
+    "title": "Магазини за електроника в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Магазини за електроника в България — 285 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=electronics`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 285 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Магазини за електроника в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Магазини за електроника в България (OpenStreetMap) — 285 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 285 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

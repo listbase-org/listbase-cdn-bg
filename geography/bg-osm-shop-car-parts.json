@@ -1,0 +1,2752 @@
+{
+  "id": "bg-osm-shop-car-parts",
+  "name": "Магазини за авточасти в България (OpenStreetMap)",
+  "title": "Магазини за авточасти в България (OpenStreetMap)",
+  "description": "Магазини за авточасти в България — 299 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=car_parts`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 299,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Ай С. Н. Корект\"ЕООД",
+      "shirina": 42.455107,
+      "dalzhina": 27.419328,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 2,
+      "ime": "AS-Metal",
+      "shirina": 43.267101,
+      "dalzhina": 26.945659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 3,
+      "ime": "AUTO HELP",
+      "shirina": 43.400973,
+      "dalzhina": 24.620398,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 4,
+      "ime": "AUTOCOM",
+      "shirina": 42.493419,
+      "dalzhina": 27.461247,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 5,
+      "ime": "Abar Auto",
+      "shirina": 42.676095,
+      "dalzhina": 23.310202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 6,
+      "ime": "Ags parts",
+      "shirina": 42.710694,
+      "dalzhina": 23.314566,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 7,
+      "ime": "Alarmsyst",
+      "shirina": 42.675779,
+      "dalzhina": 23.295307,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 8,
+      "ime": "Alfa Romeo",
+      "shirina": 42.699522,
+      "dalzhina": 23.302509,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 9,
+      "ime": "Asmetal",
+      "shirina": 42.712595,
+      "dalzhina": 23.314512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 10,
+      "ime": "Auto 1",
+      "shirina": 42.016289,
+      "dalzhina": 23.081436,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 11,
+      "ime": "Auto Box",
+      "shirina": 42.688852,
+      "dalzhina": 27.699305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 12,
+      "ime": "Auto Help",
+      "shirina": 42.508463,
+      "dalzhina": 27.470088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 13,
+      "ime": "Auto Mania",
+      "shirina": 42.70469,
+      "dalzhina": 23.302053,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 14,
+      "ime": "Auto Motor Parts",
+      "shirina": 42.701779,
+      "dalzhina": 23.31432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 15,
+      "ime": "Auto Parts VD",
+      "shirina": 42.648702,
+      "dalzhina": 23.294443,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 16,
+      "ime": "Auto Pioneer",
+      "shirina": 42.704262,
+      "dalzhina": 23.304655,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 17,
+      "ime": "Auto Rado",
+      "shirina": 42.668075,
+      "dalzhina": 23.284584,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 18,
+      "ime": "Auto Welt",
+      "shirina": 42.725772,
+      "dalzhina": 23.326279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 19,
+      "ime": "Auto help",
+      "shirina": 42.663389,
+      "dalzhina": 23.271057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 20,
+      "ime": "AutoBox",
+      "shirina": 42.741897,
+      "dalzhina": 23.234065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 21,
+      "ime": "AutoKelly",
+      "shirina": 42.51925,
+      "dalzhina": 27.422776,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 22,
+      "ime": "AutoPower.bg",
+      "shirina": 42.701889,
+      "dalzhina": 23.354548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 23,
+      "ime": "AutoPro",
+      "shirina": 42.701774,
+      "dalzhina": 23.382112,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 24,
+      "ime": "AutoVip",
+      "shirina": 41.939619,
+      "dalzhina": 25.562895,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 25,
+      "ime": "AutoZone",
+      "shirina": 41.939522,
+      "dalzhina": 25.555884,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 26,
+      "ime": "Autobul",
+      "shirina": 42.702535,
+      "dalzhina": 23.314008,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 27,
+      "ime": "Autocasto",
+      "shirina": 42.680568,
+      "dalzhina": 23.282335,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 28,
+      "ime": "Autoemotion.bg",
+      "shirina": 42.692764,
+      "dalzhina": 23.367282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 29,
+      "ime": "Automax",
+      "shirina": 42.702316,
+      "dalzhina": 23.315233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 30,
+      "ime": "Automega.bg",
+      "shirina": 42.702545,
+      "dalzhina": 23.313944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 31,
+      "ime": "Autopartner",
+      "shirina": 42.702951,
+      "dalzhina": 23.312606,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 32,
+      "ime": "Autoparts Connect",
+      "shirina": 42.702713,
+      "dalzhina": 23.313965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 33,
+      "ime": "Autopro",
+      "shirina": 42.126424,
+      "dalzhina": 24.721024,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 34,
+      "ime": "Autopro",
+      "shirina": 42.660379,
+      "dalzhina": 23.298158,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 35,
+      "ime": "Autostar",
+      "shirina": 42.690023,
+      "dalzhina": 23.259636,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 36,
+      "ime": "Autostar",
+      "shirina": 42.728859,
+      "dalzhina": 23.257761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 37,
+      "ime": "Avtobim",
+      "shirina": 42.69355,
+      "dalzhina": 23.359759,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 38,
+      "ime": "Avtokomers Ltd",
+      "shirina": 43.130806,
+      "dalzhina": 25.674529,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 39,
+      "ime": "Aвтоморга НИН",
+      "shirina": 43.614357,
+      "dalzhina": 27.786082,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 40,
+      "ime": "BGAUTO.EU",
+      "shirina": 42.145741,
+      "dalzhina": 24.729579,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 41,
+      "ime": "Balkan Parts",
+      "shirina": 42.703094,
+      "dalzhina": 23.311771,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 42,
+      "ime": "Bparts",
+      "shirina": 42.128904,
+      "dalzhina": 24.743535,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 43,
+      "ime": "Bub'z MotoShop",
+      "shirina": 42.689589,
+      "dalzhina": 27.699193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 44,
+      "ime": "Bulgarian Truck Service",
+      "shirina": 42.746465,
+      "dalzhina": 23.228995,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 45,
+      "ime": "Busparts Trade",
+      "shirina": 42.709913,
+      "dalzhina": 23.318671,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 46,
+      "ime": "Cars bg 11",
+      "shirina": 42.732619,
+      "dalzhina": 23.251067,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 47,
+      "ime": "Cars4U",
+      "shirina": 42.722124,
+      "dalzhina": 23.238962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 48,
+      "ime": "DM Auto",
+      "shirina": 42.702664,
+      "dalzhina": 23.314298,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 49,
+      "ime": "Dark Wheel",
+      "shirina": 42.14609,
+      "dalzhina": 24.780382,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 50,
+      "ime": "Dubhe",
+      "shirina": 42.147281,
+      "dalzhina": 24.766788,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 51,
+      "ime": "ET Silvi",
+      "shirina": 43.191588,
+      "dalzhina": 23.573026,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 52,
+      "ime": "EUROPART",
+      "shirina": 42.520639,
+      "dalzhina": 27.438357,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 53,
+      "ime": "Eldi",
+      "shirina": 42.670592,
+      "dalzhina": 23.333377,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 54,
+      "ime": "Euro 07",
+      "shirina": 42.708047,
+      "dalzhina": 23.417398,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 55,
+      "ime": "Euro07",
+      "shirina": 42.729729,
+      "dalzhina": 23.257088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 56,
+      "ime": "Fertan",
+      "shirina": 42.675492,
+      "dalzhina": 23.291891,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 57,
+      "ime": "Fugo",
+      "shirina": 42.152395,
+      "dalzhina": 24.752636,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 58,
+      "ime": "GS-Auto",
+      "shirina": 42.702687,
+      "dalzhina": 23.314136,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 59,
+      "ime": "Gardena",
+      "shirina": 42.186165,
+      "dalzhina": 24.738117,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 60,
+      "ime": "Garvan",
+      "shirina": 43.219297,
+      "dalzhina": 27.927281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 61,
+      "ime": "HeliosAUTO",
+      "shirina": 42.081862,
+      "dalzhina": 24.713427,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 62,
+      "ime": "Hydac",
+      "shirina": 42.429809,
+      "dalzhina": 25.628072,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 63,
+      "ime": "IOW Bulgaria Ltd.",
+      "shirina": 42.61769,
+      "dalzhina": 23.420631,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 64,
+      "ime": "IVECO",
+      "shirina": 42.70338,
+      "dalzhina": 23.356165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 65,
+      "ime": "Inter Cars",
+      "shirina": 42.734524,
+      "dalzhina": 23.255976,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 66,
+      "ime": "Japanparts",
+      "shirina": 42.702937,
+      "dalzhina": 23.311367,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 67,
+      "ime": "Jiconi",
+      "shirina": 42.724065,
+      "dalzhina": 23.259598,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 68,
+      "ime": "King Start - Акумулатори",
+      "shirina": 42.159084,
+      "dalzhina": 24.736134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 69,
+      "ime": "Korparts.bg",
+      "shirina": 42.658687,
+      "dalzhina": 23.306251,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 70,
+      "ime": "LTT",
+      "shirina": 42.677806,
+      "dalzhina": 23.366581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 71,
+      "ime": "M-speed",
+      "shirina": 42.14075,
+      "dalzhina": 24.734952,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 72,
+      "ime": "MEC Diesel",
+      "shirina": 42.729047,
+      "dalzhina": 23.257486,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 73,
+      "ime": "Margel",
+      "shirina": 42.705461,
+      "dalzhina": 23.310858,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 74,
+      "ime": "Maxcar",
+      "shirina": 42.656043,
+      "dalzhina": 23.37502,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 75,
+      "ime": "Maxcar",
+      "shirina": 42.704953,
+      "dalzhina": 23.328006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 76,
+      "ime": "Maxcar",
+      "shirina": 42.723415,
+      "dalzhina": 23.248678,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 77,
+      "ime": "Maxcar.bg",
+      "shirina": 42.663982,
+      "dalzhina": 23.285009,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 78,
+      "ime": "Mid Auto",
+      "shirina": 42.655955,
+      "dalzhina": 23.288476,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 79,
+      "ime": "Moto Expert",
+      "shirina": 42.682995,
+      "dalzhina": 23.271428,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 80,
+      "ime": "Motomall",
+      "shirina": 42.133996,
+      "dalzhina": 24.707901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 81,
+      "ime": "Mototechnica.bg",
+      "shirina": 42.68771,
+      "dalzhina": 23.304521,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 82,
+      "ime": "NASI TRANS 84",
+      "shirina": 42.851037,
+      "dalzhina": 23.046933,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 83,
+      "ime": "NSP Auto",
+      "shirina": 42.68937,
+      "dalzhina": 23.245395,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 84,
+      "ime": "NSP auto",
+      "shirina": 42.689678,
+      "dalzhina": 23.250135,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 85,
+      "ime": "NasAutoBG",
+      "shirina": 42.709542,
+      "dalzhina": 23.31011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 86,
+      "ime": "Nastauto",
+      "shirina": 43.848367,
+      "dalzhina": 25.958344,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 87,
+      "ime": "No. 112",
+      "shirina": 42.704458,
+      "dalzhina": 23.31758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 88,
+      "ime": "Oil Zone",
+      "shirina": 42.155596,
+      "dalzhina": 24.747885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 89,
+      "ime": "Olympia",
+      "shirina": 42.70273,
+      "dalzhina": 23.313859,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 90,
+      "ime": "Opel",
+      "shirina": 42.428246,
+      "dalzhina": 25.648876,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 91,
+      "ime": "Overdrive",
+      "shirina": 42.630041,
+      "dalzhina": 23.467213,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 92,
+      "ime": "Pit stop",
+      "shirina": 42.126924,
+      "dalzhina": 24.721345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 93,
+      "ime": "Profel",
+      "shirina": 42.740528,
+      "dalzhina": 23.311388,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 94,
+      "ime": "SB Auto Авточасти",
+      "shirina": 42.289187,
+      "dalzhina": 23.263729,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 95,
+      "ime": "Scania",
+      "shirina": 43.214647,
+      "dalzhina": 27.920361,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 96,
+      "ime": "Sonico-L",
+      "shirina": 42.676186,
+      "dalzhina": 23.266048,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 97,
+      "ime": "SprintAuto Автоклиматици",
+      "shirina": 42.637491,
+      "dalzhina": 23.410889,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 98,
+      "ime": "Starter LM",
+      "shirina": 42.707433,
+      "dalzhina": 23.326285,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 99,
+      "ime": "TIR авточасти",
+      "shirina": 42.729654,
+      "dalzhina": 23.257224,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 100,
+      "ime": "TIR морга",
+      "shirina": 42.625186,
+      "dalzhina": 23.504766,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 101,
+      "ime": "TNcar",
+      "shirina": 42.676649,
+      "dalzhina": 23.288438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 102,
+      "ime": "Tander",
+      "shirina": 42.167282,
+      "dalzhina": 24.750833,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 103,
+      "ime": "Tesla shop",
+      "shirina": 42.665596,
+      "dalzhina": 23.285081,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 104,
+      "ime": "Tir Market Авточасти",
+      "shirina": 43.540132,
+      "dalzhina": 27.821432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 105,
+      "ime": "Tonex 1",
+      "shirina": 42.632774,
+      "dalzhina": 23.409439,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 106,
+      "ime": "Toska",
+      "shirina": 41.625623,
+      "dalzhina": 25.364393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 107,
+      "ime": "Trims Oil",
+      "shirina": 42.676867,
+      "dalzhina": 23.293554,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 108,
+      "ime": "Tsiklovski",
+      "shirina": 41.841984,
+      "dalzhina": 23.486541,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 109,
+      "ime": "VIP Auto",
+      "shirina": 42.661429,
+      "dalzhina": 23.283049,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 110,
+      "ime": "Varta",
+      "shirina": 42.487337,
+      "dalzhina": 27.449732,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 111,
+      "ime": "Vest Auto",
+      "shirina": 42.701839,
+      "dalzhina": 23.323605,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 112,
+      "ime": "Vimax",
+      "shirina": 42.731953,
+      "dalzhina": 23.253176,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 113,
+      "ime": "Voith",
+      "shirina": 42.729577,
+      "dalzhina": 23.257365,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 114,
+      "ime": "Wailer-Car",
+      "shirina": 43.567575,
+      "dalzhina": 27.833141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 115,
+      "ime": "Xado",
+      "shirina": 42.18013,
+      "dalzhina": 24.740319,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 116,
+      "ime": "Xado",
+      "shirina": 42.671175,
+      "dalzhina": 23.382011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 117,
+      "ime": "Xenon Center",
+      "shirina": 43.082658,
+      "dalzhina": 25.614269,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 118,
+      "ime": "ZETA-PARTS",
+      "shirina": 43.254418,
+      "dalzhina": 26.556872,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 119,
+      "ime": "Zaggi Tuning",
+      "shirina": 42.67766,
+      "dalzhina": 23.325014,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 120,
+      "ime": "autohit.bg",
+      "shirina": 42.725127,
+      "dalzhina": 23.264661,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 121,
+      "ime": "bim.avto.bg",
+      "shirina": 42.658801,
+      "dalzhina": 23.362816,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 122,
+      "ime": "carsector.bg",
+      "shirina": 42.661381,
+      "dalzhina": 23.294508,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 123,
+      "ime": "febest.bg",
+      "shirina": 42.661185,
+      "dalzhina": 23.294618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 124,
+      "ime": "m",
+      "shirina": 42.487406,
+      "dalzhina": 25.993863,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 125,
+      "ime": "modBM",
+      "shirina": 42.126344,
+      "dalzhina": 24.689082,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 126,
+      "ime": "www.stars94.bg",
+      "shirina": 42.672901,
+      "dalzhina": 23.262583,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 127,
+      "ime": "АГУ",
+      "shirina": 42.140953,
+      "dalzhina": 24.731851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 128,
+      "ime": "АГУ",
+      "shirina": 42.152043,
+      "dalzhina": 24.757159,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 129,
+      "ime": "АУТОМОБИЛ АВТОЧАСТИ",
+      "shirina": 42.669557,
+      "dalzhina": 26.334912,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 130,
+      "ime": "АУТОХИТ",
+      "shirina": 42.673905,
+      "dalzhina": 26.324872,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 131,
+      "ime": "Авангард Консулт",
+      "shirina": 42.671014,
+      "dalzhina": 23.333843,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 132,
+      "ime": "Авител",
+      "shirina": 42.674192,
+      "dalzhina": 23.2856,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 133,
+      "ime": "Авител - Car Audio",
+      "shirina": 42.685478,
+      "dalzhina": 23.296178,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 134,
+      "ime": "Авто Аксесоари",
+      "shirina": 42.492553,
+      "dalzhina": 27.46437,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 135,
+      "ime": "Авто Плюс",
+      "shirina": 42.618781,
+      "dalzhina": 25.399956,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 136,
+      "ime": "Авто свят",
+      "shirina": 42.66195,
+      "dalzhina": 23.314921,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 137,
+      "ime": "Автоактив",
+      "shirina": 42.711856,
+      "dalzhina": 23.359755,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 138,
+      "ime": "Автогруп-21",
+      "shirina": 42.677582,
+      "dalzhina": 23.283291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 139,
+      "ime": "Автоимпортгруп",
+      "shirina": 42.650428,
+      "dalzhina": 23.292134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 140,
+      "ime": "Автоком",
+      "shirina": 42.128496,
+      "dalzhina": 24.725523,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 141,
+      "ime": "Автокомерс",
+      "shirina": 42.237458,
+      "dalzhina": 24.723345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 142,
+      "ime": "Автокомерс",
+      "shirina": 42.650065,
+      "dalzhina": 23.362896,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 143,
+      "ime": "Автокомплект",
+      "shirina": 42.496004,
+      "dalzhina": 27.460008,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 144,
+      "ime": "Автомания",
+      "shirina": 42.702322,
+      "dalzhina": 23.315167,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 145,
+      "ime": "Автоморга",
+      "shirina": 42.450465,
+      "dalzhina": 27.393524,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 146,
+      "ime": "Автоморга",
+      "shirina": 42.603085,
+      "dalzhina": 27.498259,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 147,
+      "ime": "Автоморга",
+      "shirina": 42.691233,
+      "dalzhina": 23.230842,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 148,
+      "ime": "Автоморга",
+      "shirina": 42.911635,
+      "dalzhina": 25.37409,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 149,
+      "ime": "Автоморга",
+      "shirina": 43.442199,
+      "dalzhina": 24.612197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 150,
+      "ime": "Автоморга Врачанци",
+      "shirina": 43.614488,
+      "dalzhina": 27.785812,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 151,
+      "ime": "Автоморга Гергана",
+      "shirina": 43.117352,
+      "dalzhina": 27.822304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 152,
+      "ime": "Автоморга Калипсо 555",
+      "shirina": 41.940003,
+      "dalzhina": 25.563968,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 153,
+      "ime": "Автопионер-Русе",
+      "shirina": 43.853424,
+      "dalzhina": 25.964279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 154,
+      "ime": "Автореновация",
+      "shirina": 42.16066,
+      "dalzhina": 24.740486,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 155,
+      "ime": "Автоспринт",
+      "shirina": 42.125956,
+      "dalzhina": 24.720683,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 156,
+      "ime": "Автостъкла | Ксиви",
+      "shirina": 42.408841,
+      "dalzhina": 25.63485,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 157,
+      "ime": "Автотапицер - Вирадо",
+      "shirina": 42.639974,
+      "dalzhina": 23.405313,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 158,
+      "ime": "Автохит",
+      "shirina": 42.702818,
+      "dalzhina": 23.317095,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 159,
+      "ime": "Автоцентър Брик",
+      "shirina": 42.257107,
+      "dalzhina": 23.106446,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 160,
+      "ime": "Автоцентър Нивал-5",
+      "shirina": 42.094342,
+      "dalzhina": 25.221268,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 161,
+      "ime": "Авточаст Франц ЕООД",
+      "shirina": 42.493778,
+      "dalzhina": 26.514184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 162,
+      "ime": "Авточасти",
+      "shirina": 42.168264,
+      "dalzhina": 27.850166,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 163,
+      "ime": "Авточасти",
+      "shirina": 42.501308,
+      "dalzhina": 27.460152,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 164,
+      "ime": "Авточасти",
+      "shirina": 42.51481,
+      "dalzhina": 27.467923,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 165,
+      "ime": "Авточасти",
+      "shirina": 42.635065,
+      "dalzhina": 23.375805,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 166,
+      "ime": "Авточасти",
+      "shirina": 43.215404,
+      "dalzhina": 27.90509,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 167,
+      "ime": "Авточасти",
+      "shirina": 43.820161,
+      "dalzhina": 27.142027,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 168,
+      "ime": "Авточасти \"Еврика\"",
+      "shirina": 42.262736,
+      "dalzhina": 23.108893,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 169,
+      "ime": "Авточасти Snt Centrum",
+      "shirina": 42.15199,
+      "dalzhina": 24.754629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 170,
+      "ime": "Авточасти Snt Centrum",
+      "shirina": 42.420955,
+      "dalzhina": 25.632769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 171,
+      "ime": "Авточасти Алфа Ромео",
+      "shirina": 42.722162,
+      "dalzhina": 23.258022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 172,
+      "ime": "Авточасти Благоевград",
+      "shirina": 42.020672,
+      "dalzhina": 23.0901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 173,
+      "ime": "Авточасти ВАЗ-МЧ",
+      "shirina": 42.622759,
+      "dalzhina": 25.393812,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 174,
+      "ime": "Авточасти Вива",
+      "shirina": 42.001324,
+      "dalzhina": 23.109548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 175,
+      "ime": "Авточасти При Онзи",
+      "shirina": 43.240832,
+      "dalzhina": 27.857125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 176,
+      "ime": "Авточасти Франц",
+      "shirina": 42.524182,
+      "dalzhina": 27.436862,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 177,
+      "ime": "Авточасти за камиони",
+      "shirina": 42.778382,
+      "dalzhina": 23.248466,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 178,
+      "ime": "Агромашина груп",
+      "shirina": 42.724701,
+      "dalzhina": 23.32459,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 179,
+      "ime": "Акумулатори",
+      "shirina": 42.152373,
+      "dalzhina": 24.763443,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 180,
+      "ime": "Акумулатори",
+      "shirina": 42.409699,
+      "dalzhina": 25.627638,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 181,
+      "ime": "Акумулатори",
+      "shirina": 42.490749,
+      "dalzhina": 27.46441,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 182,
+      "ime": "Акумулатори",
+      "shirina": 43.227016,
+      "dalzhina": 27.924229,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 183,
+      "ime": "Акумулатори \"Старт Трейдинг\"",
+      "shirina": 42.90973,
+      "dalzhina": 23.804716,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 184,
+      "ime": "Акумулатори София",
+      "shirina": 42.68305,
+      "dalzhina": 23.354336,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 185,
+      "ime": "Ауди морга",
+      "shirina": 42.804049,
+      "dalzhina": 23.350675,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 186,
+      "ime": "Ауто 2000",
+      "shirina": 41.94315,
+      "dalzhina": 25.559815,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 187,
+      "ime": "Ауто Атик ООД",
+      "shirina": 42.152778,
+      "dalzhina": 24.758111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 188,
+      "ime": "Ауто Батери Трейд",
+      "shirina": 42.679615,
+      "dalzhina": 23.269244,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 189,
+      "ime": "Ауто БиК",
+      "shirina": 42.67442,
+      "dalzhina": 23.378621,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 190,
+      "ime": "Ауто Джеси",
+      "shirina": 42.70232,
+      "dalzhina": 23.316413,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 191,
+      "ime": "Ауто Партс",
+      "shirina": 42.493686,
+      "dalzhina": 27.461175,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 192,
+      "ime": "Ауто Плюс",
+      "shirina": 41.925003,
+      "dalzhina": 25.558724,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 193,
+      "ime": "Би Кей Комерс 09",
+      "shirina": 42.62899,
+      "dalzhina": 23.44568,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 194,
+      "ime": "Божилов авто груп",
+      "shirina": 42.699433,
+      "dalzhina": 23.286668,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 195,
+      "ime": "Болгар Агро Самоков",
+      "shirina": 42.337012,
+      "dalzhina": 23.550878,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 196,
+      "ime": "Борса Масла Деа",
+      "shirina": 43.570696,
+      "dalzhina": 27.825002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 197,
+      "ime": "Венбо",
+      "shirina": 43.817977,
+      "dalzhina": 27.142648,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 198,
+      "ime": "Гуми Център",
+      "shirina": 43.524805,
+      "dalzhina": 26.538959,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 199,
+      "ime": "ДИНАМА И СТАРТЕРИ",
+      "shirina": 42.657282,
+      "dalzhina": 26.327855,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 200,
+      "ime": "ДМ Ауто БГ",
+      "shirina": 42.647613,
+      "dalzhina": 23.380684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 201,
+      "ime": "Данексо",
+      "shirina": 42.707234,
+      "dalzhina": 23.326585,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 202,
+      "ime": "Детранс",
+      "shirina": 42.675722,
+      "dalzhina": 23.295352,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 203,
+      "ime": "Дилор",
+      "shirina": 42.741987,
+      "dalzhina": 23.314772,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 204,
+      "ime": "Добрев Ауто",
+      "shirina": 42.693122,
+      "dalzhina": 23.28505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 205,
+      "ime": "Дом на камиона",
+      "shirina": 42.707499,
+      "dalzhina": 23.412591,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 206,
+      "ime": "Дом на камиона",
+      "shirina": 42.72902,
+      "dalzhina": 23.25754,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 207,
+      "ime": "ЕВРОПАРТ България",
+      "shirina": 42.130058,
+      "dalzhina": 24.756121,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 208,
+      "ime": "ЕТ \"СТЕОС - СТОЯН ПАРАШКЕВОВ\"",
+      "shirina": 42.481506,
+      "dalzhina": 27.441512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 209,
+      "ime": "ЕТ Карина",
+      "shirina": 42.663885,
+      "dalzhina": 23.300919,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 210,
+      "ime": "Евро07",
+      "shirina": 42.665779,
+      "dalzhina": 23.249029,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 211,
+      "ime": "Евро07",
+      "shirina": 42.705194,
+      "dalzhina": 23.401662,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 212,
+      "ime": "Еко фуудс",
+      "shirina": 43.819389,
+      "dalzhina": 27.142273,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 213,
+      "ime": "Елит Кар",
+      "shirina": 41.949487,
+      "dalzhina": 25.557591,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 214,
+      "ime": "Елит Кар",
+      "shirina": 42.516671,
+      "dalzhina": 27.450249,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 215,
+      "ime": "Елит Кар",
+      "shirina": 42.519249,
+      "dalzhina": 27.422932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 216,
+      "ime": "Ем комплект сервиз",
+      "shirina": 42.673002,
+      "dalzhina": 23.262694,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 217,
+      "ime": "Енчеви",
+      "shirina": 42.523969,
+      "dalzhina": 27.397086,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 218,
+      "ime": "ЗЕТКОМ",
+      "shirina": 42.103628,
+      "dalzhina": 24.761244,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 219,
+      "ime": "Интер Карс",
+      "shirina": 42.479967,
+      "dalzhina": 27.439639,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 220,
+      "ime": "Интер Карс",
+      "shirina": 42.526571,
+      "dalzhina": 27.443703,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 221,
+      "ime": "Интеркарс",
+      "shirina": 42.71166,
+      "dalzhina": 23.39635,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 222,
+      "ime": "Интермобиле",
+      "shirina": 42.741685,
+      "dalzhina": 23.31459,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 223,
+      "ime": "Интерпартс",
+      "shirina": 42.703992,
+      "dalzhina": 23.317421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 224,
+      "ime": "КАМИОНА",
+      "shirina": 42.128986,
+      "dalzhina": 24.756965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 225,
+      "ime": "КОМ ТРАК",
+      "shirina": 42.196467,
+      "dalzhina": 24.78236,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 226,
+      "ime": "КСД",
+      "shirina": 42.702769,
+      "dalzhina": 23.313622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 227,
+      "ime": "Канекс",
+      "shirina": 42.664542,
+      "dalzhina": 23.282442,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 228,
+      "ime": "Киров Ауто Партс",
+      "shirina": 42.703558,
+      "dalzhina": 23.307599,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 229,
+      "ime": "Колос-мс",
+      "shirina": 42.704068,
+      "dalzhina": 23.317432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 230,
+      "ime": "Корект",
+      "shirina": 42.706569,
+      "dalzhina": 23.328531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 231,
+      "ime": "Косер",
+      "shirina": 41.943145,
+      "dalzhina": 25.559747,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 232,
+      "ime": "Косер",
+      "shirina": 42.016455,
+      "dalzhina": 23.081066,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 233,
+      "ime": "Косер",
+      "shirina": 42.14757,
+      "dalzhina": 24.768741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 234,
+      "ime": "Косер",
+      "shirina": 42.151204,
+      "dalzhina": 24.763073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 235,
+      "ime": "Косер",
+      "shirina": 42.508875,
+      "dalzhina": 27.453954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 236,
+      "ime": "Косер",
+      "shirina": 42.516586,
+      "dalzhina": 27.450179,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 237,
+      "ime": "Косер",
+      "shirina": 42.685586,
+      "dalzhina": 23.267615,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 238,
+      "ime": "Косер",
+      "shirina": 42.703132,
+      "dalzhina": 23.311482,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 239,
+      "ime": "Косер",
+      "shirina": 42.729067,
+      "dalzhina": 23.300009,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 240,
+      "ime": "Косер",
+      "shirina": 42.892565,
+      "dalzhina": 24.712407,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 241,
+      "ime": "Косер",
+      "shirina": 43.229628,
+      "dalzhina": 27.900862,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 242,
+      "ime": "Крамакс 90",
+      "shirina": 42.704911,
+      "dalzhina": 23.328831,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 243,
+      "ime": "Лира 2000",
+      "shirina": 42.696016,
+      "dalzhina": 23.288211,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 244,
+      "ime": "М Авто",
+      "shirina": 42.669581,
+      "dalzhina": 23.256456,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 245,
+      "ime": "М Авто",
+      "shirina": 42.67175,
+      "dalzhina": 23.261025,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 246,
+      "ime": "Марти ауто",
+      "shirina": 42.715261,
+      "dalzhina": 23.277352,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 247,
+      "ime": "Микра",
+      "shirina": 42.13174,
+      "dalzhina": 24.721497,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 248,
+      "ime": "Мирекс авто",
+      "shirina": 42.68931,
+      "dalzhina": 23.248379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 249,
+      "ime": "Моли Груп",
+      "shirina": 42.643273,
+      "dalzhina": 23.34167,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 250,
+      "ime": "Мото вело хит",
+      "shirina": 42.262931,
+      "dalzhina": 23.109088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 251,
+      "ime": "Мотомекс",
+      "shirina": 42.148127,
+      "dalzhina": 24.787819,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 252,
+      "ime": "Моторич",
+      "shirina": 42.649429,
+      "dalzhina": 23.380236,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 253,
+      "ime": "Мототехника",
+      "shirina": 42.618047,
+      "dalzhina": 25.385624,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 254,
+      "ime": "НЕЛАС авточасти",
+      "shirina": 42.506282,
+      "dalzhina": 27.457715,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 255,
+      "ime": "НИКО МОТОР",
+      "shirina": 42.015755,
+      "dalzhina": 23.08232,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 256,
+      "ime": "Надежда авто",
+      "shirina": 42.507919,
+      "dalzhina": 24.705742,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 257,
+      "ime": "НикАуто",
+      "shirina": 42.702969,
+      "dalzhina": 23.311195,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 258,
+      "ime": "Никол 86",
+      "shirina": 42.272482,
+      "dalzhina": 24.541157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 259,
+      "ime": "Ником М",
+      "shirina": 43.075326,
+      "dalzhina": 25.603573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 260,
+      "ime": "Ойли",
+      "shirina": 42.473007,
+      "dalzhina": 27.439971,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 261,
+      "ime": "ПИТО КАР",
+      "shirina": 43.237856,
+      "dalzhina": 27.904746,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 262,
+      "ime": "Панавтотрейд",
+      "shirina": 42.666031,
+      "dalzhina": 23.276686,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 263,
+      "ime": "Пибрекс",
+      "shirina": 42.661438,
+      "dalzhina": 23.316601,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 264,
+      "ime": "Питстоп",
+      "shirina": 43.855469,
+      "dalzhina": 25.969882,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 265,
+      "ime": "Пламък 1991",
+      "shirina": 42.702933,
+      "dalzhina": 23.312735,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 266,
+      "ime": "Пълдин авто",
+      "shirina": 42.148545,
+      "dalzhina": 24.781036,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 267,
+      "ime": "Ренико 2015",
+      "shirina": 42.702283,
+      "dalzhina": 23.315437,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 268,
+      "ime": "Римет",
+      "shirina": 42.128627,
+      "dalzhina": 24.725027,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 269,
+      "ime": "Сиди ауто",
+      "shirina": 42.676317,
+      "dalzhina": 23.265719,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 270,
+      "ime": "Скорпион-13",
+      "shirina": 42.702634,
+      "dalzhina": 23.314529,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 271,
+      "ime": "Скуба",
+      "shirina": 41.938781,
+      "dalzhina": 25.560605,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 272,
+      "ime": "Смяна на масла",
+      "shirina": 43.81946,
+      "dalzhina": 27.13991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 273,
+      "ime": "Снабтех",
+      "shirina": 42.624959,
+      "dalzhina": 23.406659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 274,
+      "ime": "Старс 94",
+      "shirina": 42.490758,
+      "dalzhina": 27.464161,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 275,
+      "ime": "Старс 94 - централен склад авточасти",
+      "shirina": 42.538557,
+      "dalzhina": 27.455071,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 276,
+      "ime": "Стелан",
+      "shirina": 43.183558,
+      "dalzhina": 27.441701,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 277,
+      "ime": "Стив94",
+      "shirina": 42.910346,
+      "dalzhina": 23.894157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 278,
+      "ime": "Стоманел",
+      "shirina": 42.706538,
+      "dalzhina": 23.319527,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 279,
+      "ime": "Т и Н Кар",
+      "shirina": 42.693793,
+      "dalzhina": 23.350312,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 280,
+      "ime": "ТЕХ-КО",
+      "shirina": 41.932724,
+      "dalzhina": 25.51993,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 281,
+      "ime": "ТЕХ-КО",
+      "shirina": 42.151695,
+      "dalzhina": 24.774391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 282,
+      "ime": "Тех-ко",
+      "shirina": 42.436294,
+      "dalzhina": 25.631028,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 283,
+      "ime": "Тех-ко",
+      "shirina": 42.618772,
+      "dalzhina": 25.399349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 284,
+      "ime": "Ти Би Си ЕООД",
+      "shirina": 42.70905,
+      "dalzhina": 23.313116,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 285,
+      "ime": "Токио партс",
+      "shirina": 42.702911,
+      "dalzhina": 23.311484,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 286,
+      "ime": "Транспортер Костенурка",
+      "shirina": 42.716461,
+      "dalzhina": 23.281385,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 287,
+      "ime": "Триера",
+      "shirina": 42.71401,
+      "dalzhina": 23.314606,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 288,
+      "ime": "Тристан 02",
+      "shirina": 42.654511,
+      "dalzhina": 23.372441,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 289,
+      "ime": "Феродо",
+      "shirina": 42.125636,
+      "dalzhina": 24.735138,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 290,
+      "ime": "Франсизкуп",
+      "shirina": 42.703002,
+      "dalzhina": 23.314961,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 291,
+      "ime": "Хит Кар Балчик",
+      "shirina": 43.422011,
+      "dalzhina": 28.162208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 292,
+      "ime": "Хубата",
+      "shirina": 42.707991,
+      "dalzhina": 23.314126,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 293,
+      "ime": "Център за гуми АСТ",
+      "shirina": 43.137756,
+      "dalzhina": 25.71403,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 294,
+      "ime": "автобои",
+      "shirina": 42.259983,
+      "dalzhina": 23.106185,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 295,
+      "ime": "автоморга",
+      "shirina": 43.29754,
+      "dalzhina": 27.69327,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 296,
+      "ime": "автоморга Централ",
+      "shirina": 43.222915,
+      "dalzhina": 27.824228,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 297,
+      "ime": "автосервиз Адамас",
+      "shirina": 43.227677,
+      "dalzhina": 27.902331,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 298,
+      "ime": "пежо",
+      "shirina": 43.521564,
+      "dalzhina": 26.536661,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    },
+    {
+      "id": 299,
+      "ime": "сервиз за акумулатори Булауто",
+      "shirina": 43.189946,
+      "dalzhina": 27.445597,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car_parts",
+      "osm_klas": "shop=car_parts"
+    }
+  ],
+  "meta": {
+    "title": "Магазини за авточасти в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Магазини за авточасти в България — 299 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=car_parts`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 299 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Магазини за авточасти в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Магазини за авточасти в България (OpenStreetMap) — 299 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 299 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

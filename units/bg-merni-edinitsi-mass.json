@@ -1,0 +1,236 @@
+{
+  "id": "bg-merni-edinitsi-mass",
+  "name": "Мерни единици: mass (17)",
+  "title": "Мерни единици: mass (17)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'mass'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "kategoriya": "mass",
+      "nazvanie": "карати",
+      "shablon_edinstveno": "{0} карат",
+      "shablon_mnozhestveno": "{0} карата",
+      "kratak_shablon": "{0} CD",
+      "tesen_shablon": "{0} CD"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "kategoriya": "mass",
+      "nazvanie": "далтони",
+      "shablon_edinstveno": "{0} далтон",
+      "shablon_mnozhestveno": "{0} далтона",
+      "kratak_shablon": "{0} Da",
+      "tesen_shablon": "{0} Da"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "kategoriya": "mass",
+      "nazvanie": "маси на Земята",
+      "shablon_edinstveno": "{0} маса на Земята",
+      "shablon_mnozhestveno": "{0} маси на Земята",
+      "kratak_shablon": "{0} M⊕",
+      "tesen_shablon": "{0} M⊕"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "kategoriya": "mass",
+      "nazvanie": "fun [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} fun [JP]",
+      "kratak_shablon": "{0} fun [JP]",
+      "tesen_shablon": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "kategoriya": "mass",
+      "nazvanie": "гран",
+      "shablon_edinstveno": "{0} гран",
+      "shablon_mnozhestveno": "{0} грана",
+      "kratak_shablon": "{0} грана",
+      "tesen_shablon": "{0} грана"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "kategoriya": "mass",
+      "nazvanie": "грамове",
+      "shablon_edinstveno": "{0} грам",
+      "shablon_mnozhestveno": "{0} грама",
+      "kratak_shablon": "{0} g",
+      "tesen_shablon": "{0} g"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "kategoriya": "mass",
+      "nazvanie": "килограми",
+      "shablon_edinstveno": "{0} килограм",
+      "shablon_mnozhestveno": "{0} килограма",
+      "kratak_shablon": "{0} kg",
+      "tesen_shablon": "{0} kg"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "kategoriya": "mass",
+      "nazvanie": "микрограмове",
+      "shablon_edinstveno": "{0} микрограм",
+      "shablon_mnozhestveno": "{0} микрограма",
+      "kratak_shablon": "{0} μg",
+      "tesen_shablon": "{0} μg"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "kategoriya": "mass",
+      "nazvanie": "милиграмове",
+      "shablon_edinstveno": "{0} милиграм",
+      "shablon_mnozhestveno": "{0} милиграма",
+      "kratak_shablon": "{0} mg",
+      "tesen_shablon": "{0} mg"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "kategoriya": "mass",
+      "nazvanie": "унции",
+      "shablon_edinstveno": "{0} унция",
+      "shablon_mnozhestveno": "{0} унции",
+      "kratak_shablon": "{0} oz",
+      "tesen_shablon": "{0} oz"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "kategoriya": "mass",
+      "nazvanie": "тройунции",
+      "shablon_edinstveno": "{0} тройунция",
+      "shablon_mnozhestveno": "{0} тройунции",
+      "kratak_shablon": "{0} тр. унц.",
+      "tesen_shablon": "{0} тр. унц."
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "kategoriya": "mass",
+      "nazvanie": "фунтове",
+      "shablon_edinstveno": "{0} фунт",
+      "shablon_mnozhestveno": "{0} фунта",
+      "kratak_shablon": "{0} lb",
+      "tesen_shablon": "{0} lb"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "kategoriya": "mass",
+      "nazvanie": "slug",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} slug",
+      "kratak_shablon": "{0} slug",
+      "tesen_shablon": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "kategoriya": "mass",
+      "nazvanie": "слънчеви маси",
+      "shablon_edinstveno": "{0} слънчева маса",
+      "shablon_mnozhestveno": "{0} слънчеви маси",
+      "kratak_shablon": "{0} M☉",
+      "tesen_shablon": "{0} M☉"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "kategoriya": "mass",
+      "nazvanie": "стоунове",
+      "shablon_edinstveno": "{0} стоун",
+      "shablon_mnozhestveno": "{0} стоуна",
+      "kratak_shablon": "{0} st",
+      "tesen_shablon": "{0} st"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "kategoriya": "mass",
+      "nazvanie": "къси тонове",
+      "shablon_edinstveno": "{0} къс тон",
+      "shablon_mnozhestveno": "{0} къси тона",
+      "kratak_shablon": "{0} tn",
+      "tesen_shablon": "{0} tn"
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "kategoriya": "mass",
+      "nazvanie": "метрични тонове",
+      "shablon_edinstveno": "{0} метричен тон",
+      "shablon_mnozhestveno": "{0} метрични тона",
+      "kratak_shablon": "{0} t",
+      "tesen_shablon": "{0} t"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: mass (17) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'mass'. Съдържа 17 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: mass (17) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: mass (17) — 17 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 17 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

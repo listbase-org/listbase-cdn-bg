@@ -1,0 +1,1627 @@
+{
+  "id": "bg-osm-shop-kiosk",
+  "name": "Павилиони в България (OpenStreetMap)",
+  "title": "Павилиони в България (OpenStreetMap)",
+  "description": "Павилиони в България — 174 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=kiosk`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 174,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "1 minute",
+      "shirina": 42.64934,
+      "dalzhina": 23.393536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 2,
+      "ime": "1 minute",
+      "shirina": 42.678687,
+      "dalzhina": 23.321761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 3,
+      "ime": "Adore",
+      "shirina": 42.666587,
+      "dalzhina": 23.287023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 4,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.639525,
+      "dalzhina": 23.384438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 5,
+      "ime": "Antre",
+      "shirina": 42.674384,
+      "dalzhina": 23.359176,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 6,
+      "ime": "Bank Vignette",
+      "shirina": 42.998863,
+      "dalzhina": 22.830318,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 7,
+      "ime": "Black Hawk Club",
+      "shirina": 42.628987,
+      "dalzhina": 23.31,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 8,
+      "ime": "Bulgar Vignette",
+      "shirina": 42.998915,
+      "dalzhina": 22.829922,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 9,
+      "ime": "C2H5OH Стоп",
+      "shirina": 42.653774,
+      "dalzhina": 23.346471,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 10,
+      "ime": "City Shop",
+      "shirina": 43.421733,
+      "dalzhina": 24.596067,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 11,
+      "ime": "Clean life",
+      "shirina": 43.217107,
+      "dalzhina": 27.930265,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 12,
+      "ime": "Coffee time",
+      "shirina": 42.665059,
+      "dalzhina": 23.265801,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 13,
+      "ime": "Corner shop",
+      "shirina": 42.121401,
+      "dalzhina": 24.730132,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 14,
+      "ime": "Costa",
+      "shirina": 42.670953,
+      "dalzhina": 23.25866,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 15,
+      "ime": "Diamond",
+      "shirina": 42.670693,
+      "dalzhina": 23.290843,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 16,
+      "ime": "Dikov & Sons",
+      "shirina": 42.651512,
+      "dalzhina": 23.342659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 17,
+      "ime": "Drive shop Патриарха",
+      "shirina": 43.213798,
+      "dalzhina": 27.900013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 18,
+      "ime": "East Piont",
+      "shirina": 43.205309,
+      "dalzhina": 27.926773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 19,
+      "ime": "Efes",
+      "shirina": 42.681229,
+      "dalzhina": 23.288714,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 20,
+      "ime": "Elysium Market",
+      "shirina": 42.6618,
+      "dalzhina": 23.293148,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 21,
+      "ime": "Eurocaf",
+      "shirina": 42.696802,
+      "dalzhina": 23.319421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 22,
+      "ime": "Fast Coffee Shop and Good for You",
+      "shirina": 42.701401,
+      "dalzhina": 23.31664,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 23,
+      "ime": "Green Basket",
+      "shirina": 42.635286,
+      "dalzhina": 23.300545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 24,
+      "ime": "Handel",
+      "shirina": 42.639052,
+      "dalzhina": 23.311448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 25,
+      "ime": "Inmedio",
+      "shirina": 42.645506,
+      "dalzhina": 23.37899,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 26,
+      "ime": "Kinky",
+      "shirina": 42.687753,
+      "dalzhina": 23.318337,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 27,
+      "ime": "Kinky",
+      "shirina": 42.688297,
+      "dalzhina": 23.312035,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 28,
+      "ime": "Kinky",
+      "shirina": 42.688371,
+      "dalzhina": 23.328795,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 29,
+      "ime": "Kinky",
+      "shirina": 42.689171,
+      "dalzhina": 23.318746,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 30,
+      "ime": "Kinky",
+      "shirina": 42.690688,
+      "dalzhina": 23.323267,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 31,
+      "ime": "Kinky",
+      "shirina": 42.690926,
+      "dalzhina": 23.32575,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 32,
+      "ime": "Kinky",
+      "shirina": 42.690965,
+      "dalzhina": 23.311682,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 33,
+      "ime": "Kinky",
+      "shirina": 42.691693,
+      "dalzhina": 23.31432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 34,
+      "ime": "Kinky",
+      "shirina": 42.691716,
+      "dalzhina": 23.330333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 35,
+      "ime": "Kinky",
+      "shirina": 42.6929,
+      "dalzhina": 23.319503,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 36,
+      "ime": "Kinky",
+      "shirina": 42.693785,
+      "dalzhina": 23.321991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 37,
+      "ime": "Kinky",
+      "shirina": 42.694877,
+      "dalzhina": 23.31988,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 38,
+      "ime": "Kinky",
+      "shirina": 42.69615,
+      "dalzhina": 23.344965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 39,
+      "ime": "Kinky",
+      "shirina": 42.696334,
+      "dalzhina": 23.340867,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 40,
+      "ime": "Kinky",
+      "shirina": 42.698635,
+      "dalzhina": 23.310118,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 41,
+      "ime": "Kinky",
+      "shirina": 42.699606,
+      "dalzhina": 23.320951,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 42,
+      "ime": "Kinky",
+      "shirina": 42.700232,
+      "dalzhina": 23.329678,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 43,
+      "ime": "Kinky",
+      "shirina": 42.702475,
+      "dalzhina": 23.322897,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 44,
+      "ime": "Kiosk",
+      "shirina": 42.671874,
+      "dalzhina": 23.294275,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 45,
+      "ime": "Komers 2022",
+      "shirina": 42.669538,
+      "dalzhina": 23.273522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 46,
+      "ime": "Lafka",
+      "shirina": 41.623602,
+      "dalzhina": 25.376606,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 47,
+      "ime": "Lafka",
+      "shirina": 41.624945,
+      "dalzhina": 25.370493,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 48,
+      "ime": "Lafka",
+      "shirina": 41.637236,
+      "dalzhina": 25.371319,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 49,
+      "ime": "Lafka",
+      "shirina": 41.645003,
+      "dalzhina": 25.372395,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 50,
+      "ime": "Lafka",
+      "shirina": 42.086169,
+      "dalzhina": 23.056804,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 51,
+      "ime": "Lafka",
+      "shirina": 42.135442,
+      "dalzhina": 24.74388,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 52,
+      "ime": "Lafka",
+      "shirina": 42.476783,
+      "dalzhina": 26.498479,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 53,
+      "ime": "Lafka",
+      "shirina": 42.680277,
+      "dalzhina": 23.372588,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 54,
+      "ime": "Lafka",
+      "shirina": 42.716745,
+      "dalzhina": 23.270303,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 55,
+      "ime": "Lafka",
+      "shirina": 42.726606,
+      "dalzhina": 23.252699,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 56,
+      "ime": "Lafka",
+      "shirina": 42.728036,
+      "dalzhina": 23.250055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 57,
+      "ime": "Lafka",
+      "shirina": 43.083934,
+      "dalzhina": 25.621384,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 58,
+      "ime": "Lafka",
+      "shirina": 43.553075,
+      "dalzhina": 27.826305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 59,
+      "ime": "Lafka",
+      "shirina": 43.562333,
+      "dalzhina": 27.845728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 60,
+      "ime": "Lafka",
+      "shirina": 43.565107,
+      "dalzhina": 27.832864,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 61,
+      "ime": "Lafka",
+      "shirina": 43.567974,
+      "dalzhina": 27.833318,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 62,
+      "ime": "Lafka",
+      "shirina": 43.828761,
+      "dalzhina": 25.975837,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 63,
+      "ime": "Lake",
+      "shirina": 42.603153,
+      "dalzhina": 23.402167,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 64,
+      "ime": "Liquor And Tobacco",
+      "shirina": 42.674163,
+      "dalzhina": 23.257021,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 65,
+      "ime": "Lucky Shop",
+      "shirina": 42.72367,
+      "dalzhina": 23.302818,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 66,
+      "ime": "Lucky Stop",
+      "shirina": 42.667131,
+      "dalzhina": 23.266019,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 67,
+      "ime": "Marina Shopping Centre",
+      "shirina": 42.372764,
+      "dalzhina": 27.711222,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 68,
+      "ime": "Medi",
+      "shirina": 41.936066,
+      "dalzhina": 24.269526,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 69,
+      "ime": "Merylin",
+      "shirina": 42.713836,
+      "dalzhina": 25.332024,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 70,
+      "ime": "Mr. Todorov",
+      "shirina": 42.734139,
+      "dalzhina": 23.309012,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 71,
+      "ime": "Murat",
+      "shirina": 42.998954,
+      "dalzhina": 22.829767,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 72,
+      "ime": "My shop",
+      "shirina": 42.698949,
+      "dalzhina": 23.321871,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 73,
+      "ime": "NG",
+      "shirina": 42.689098,
+      "dalzhina": 23.316189,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 74,
+      "ime": "NG",
+      "shirina": 42.690207,
+      "dalzhina": 23.340798,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 75,
+      "ime": "NG",
+      "shirina": 42.69028,
+      "dalzhina": 23.328763,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 76,
+      "ime": "NG",
+      "shirina": 42.693911,
+      "dalzhina": 23.314248,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 77,
+      "ime": "NG",
+      "shirina": 42.701664,
+      "dalzhina": 23.316715,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 78,
+      "ime": "NG Shops",
+      "shirina": 42.697658,
+      "dalzhina": 23.316494,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 79,
+      "ime": "NG shops",
+      "shirina": 42.691872,
+      "dalzhina": 23.326104,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 80,
+      "ime": "NG shops",
+      "shirina": 42.699748,
+      "dalzhina": 23.318186,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 81,
+      "ime": "Non stop",
+      "shirina": 42.685874,
+      "dalzhina": 23.306138,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 82,
+      "ime": "Non stop",
+      "shirina": 42.689039,
+      "dalzhina": 23.323045,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 83,
+      "ime": "One Minute",
+      "shirina": 42.625929,
+      "dalzhina": 23.37763,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 84,
+      "ime": "Park Shop",
+      "shirina": 42.696068,
+      "dalzhina": 23.308594,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 85,
+      "ime": "Park Store",
+      "shirina": 42.737097,
+      "dalzhina": 23.301663,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 86,
+      "ime": "Pavilion 24",
+      "shirina": 42.664278,
+      "dalzhina": 23.284274,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 87,
+      "ime": "Popshop",
+      "shirina": 42.693941,
+      "dalzhina": 23.336884,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 88,
+      "ime": "Prima vista",
+      "shirina": 42.698585,
+      "dalzhina": 23.329669,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 89,
+      "ime": "Promo Shop",
+      "shirina": 42.736374,
+      "dalzhina": 23.306701,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 90,
+      "ime": "Rodeo 2",
+      "shirina": 42.650584,
+      "dalzhina": 23.406517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 91,
+      "ime": "Supermarket NRJ",
+      "shirina": 42.147297,
+      "dalzhina": 24.74062,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 92,
+      "ime": "Tabaco shop Джъмбо",
+      "shirina": 43.568611,
+      "dalzhina": 27.826298,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 93,
+      "ime": "Tabaco shop Джъмбо",
+      "shirina": 43.572623,
+      "dalzhina": 27.82852,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 94,
+      "ime": "The White Store",
+      "shirina": 42.68848,
+      "dalzhina": 23.304747,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 95,
+      "ime": "The white store",
+      "shirina": 42.67095,
+      "dalzhina": 23.277483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 96,
+      "ime": "Tobacco & Drinks",
+      "shirina": 41.884976,
+      "dalzhina": 23.465657,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 97,
+      "ime": "Tobacco Shop",
+      "shirina": 41.567768,
+      "dalzhina": 23.281308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 98,
+      "ime": "Travel Free Bordershop",
+      "shirina": 42.485254,
+      "dalzhina": 27.482753,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 99,
+      "ime": "Truestar",
+      "shirina": 43.237427,
+      "dalzhina": 27.825505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 100,
+      "ime": "Türkiyem Büfe",
+      "shirina": 42.998996,
+      "dalzhina": 22.829615,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 101,
+      "ime": "U Trade",
+      "shirina": 42.702219,
+      "dalzhina": 23.35866,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 102,
+      "ime": "VIP Shop",
+      "shirina": 43.409434,
+      "dalzhina": 24.627688,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 103,
+      "ime": "Ways",
+      "shirina": 42.698855,
+      "dalzhina": 23.347626,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 104,
+      "ime": "You Know",
+      "shirina": 42.666408,
+      "dalzhina": 23.296497,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 105,
+      "ime": "Zippy",
+      "shirina": 42.005438,
+      "dalzhina": 24.874281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 106,
+      "ime": "impulse",
+      "shirina": 42.683892,
+      "dalzhina": 23.241584,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 107,
+      "ime": "lucky shop",
+      "shirina": 42.733428,
+      "dalzhina": 23.302204,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 108,
+      "ime": "Ай Ти Джи Трейдинг",
+      "shirina": 42.625323,
+      "dalzhina": 23.381404,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 109,
+      "ime": "Алкохол и Цигари",
+      "shirina": 42.638821,
+      "dalzhina": 23.383623,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 110,
+      "ime": "Алкохол и Цигари",
+      "shirina": 42.652426,
+      "dalzhina": 23.345791,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 111,
+      "ime": "Алкохол и цигари",
+      "shirina": 42.626288,
+      "dalzhina": 23.384336,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 112,
+      "ime": "Алкохолен Център",
+      "shirina": 42.644519,
+      "dalzhina": 23.34488,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 113,
+      "ime": "Антре",
+      "shirina": 42.675903,
+      "dalzhina": 23.359811,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 114,
+      "ime": "Бакалин",
+      "shirina": 42.639112,
+      "dalzhina": 23.383714,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 115,
+      "ime": "Бакалия",
+      "shirina": 42.658669,
+      "dalzhina": 23.280193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 116,
+      "ime": "Бейлис",
+      "shirina": 43.424932,
+      "dalzhina": 23.222478,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 117,
+      "ime": "Билети за катамаран",
+      "shirina": 42.65661,
+      "dalzhina": 27.732161,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 118,
+      "ime": "Билетна каса",
+      "shirina": 42.640083,
+      "dalzhina": 23.438406,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 119,
+      "ime": "Биричка!",
+      "shirina": 42.692115,
+      "dalzhina": 23.32581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 120,
+      "ime": "Варела",
+      "shirina": 43.203341,
+      "dalzhina": 27.904997,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 121,
+      "ime": "Вестникарски РЕП",
+      "shirina": 43.564009,
+      "dalzhina": 27.83636,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 122,
+      "ime": "Горски Пункт",
+      "shirina": 42.612593,
+      "dalzhina": 23.238069,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 123,
+      "ime": "Дефакто",
+      "shirina": 42.679501,
+      "dalzhina": 23.360605,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 124,
+      "ime": "Джес 8",
+      "shirina": 42.650029,
+      "dalzhina": 23.379779,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 125,
+      "ime": "Дюнери",
+      "shirina": 42.006132,
+      "dalzhina": 24.874206,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 126,
+      "ime": "Европа",
+      "shirina": 43.415469,
+      "dalzhina": 24.614321,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 127,
+      "ime": "Ел Гринго",
+      "shirina": 42.666202,
+      "dalzhina": 23.292208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 128,
+      "ime": "Ели 79 ООД",
+      "shirina": 42.690356,
+      "dalzhina": 23.338083,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 129,
+      "ime": "За всеки вкус, за всеки джоб, по всяко време, с усмивка",
+      "shirina": 42.665557,
+      "dalzhina": 23.301925,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 130,
+      "ime": "Зареница",
+      "shirina": 41.900708,
+      "dalzhina": 24.749029,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 131,
+      "ime": "Импакт 55",
+      "shirina": 42.14736,
+      "dalzhina": 24.748233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 132,
+      "ime": "КАСА",
+      "shirina": 42.310774,
+      "dalzhina": 27.766173,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 133,
+      "ime": "Камей",
+      "shirina": 42.68154,
+      "dalzhina": 23.372061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 134,
+      "ime": "Катюша",
+      "shirina": 42.198525,
+      "dalzhina": 25.32987,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 135,
+      "ime": "Кафе парк",
+      "shirina": 42.694024,
+      "dalzhina": 23.307249,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 136,
+      "ime": "Кафето",
+      "shirina": 42.66,
+      "dalzhina": 23.287659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 137,
+      "ime": "Ла Феста",
+      "shirina": 43.221925,
+      "dalzhina": 27.924681,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 138,
+      "ime": "Лафка",
+      "shirina": 42.005088,
+      "dalzhina": 24.870397,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 139,
+      "ime": "Локстан",
+      "shirina": 42.872894,
+      "dalzhina": 27.885864,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 140,
+      "ime": "Магазинчето",
+      "shirina": 42.647461,
+      "dalzhina": 23.36914,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 141,
+      "ime": "Магазинчето на Зоя",
+      "shirina": 42.654877,
+      "dalzhina": 23.296727,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 142,
+      "ime": "Марата",
+      "shirina": 42.026355,
+      "dalzhina": 23.991044,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 143,
+      "ime": "Мини Маркет",
+      "shirina": 41.857559,
+      "dalzhina": 23.411751,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 144,
+      "ime": "Мола",
+      "shirina": 42.525073,
+      "dalzhina": 23.365395,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 145,
+      "ime": "Нар Маркет",
+      "shirina": 42.660014,
+      "dalzhina": 23.293557,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 146,
+      "ime": "Нон-стоп",
+      "shirina": 42.14462,
+      "dalzhina": 24.749731,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 147,
+      "ime": "Павилион",
+      "shirina": 42.601386,
+      "dalzhina": 23.409844,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 148,
+      "ime": "Павилион 24",
+      "shirina": 42.682063,
+      "dalzhina": 23.301284,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 149,
+      "ime": "Партеръ",
+      "shirina": 42.639926,
+      "dalzhina": 23.34369,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 150,
+      "ime": "Престиж",
+      "shirina": 42.702688,
+      "dalzhina": 23.352566,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 151,
+      "ime": "При Сашо",
+      "shirina": 42.641416,
+      "dalzhina": 23.373743,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 152,
+      "ime": "Промо Стейшън 2",
+      "shirina": 42.644626,
+      "dalzhina": 23.341807,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 153,
+      "ime": "Пункт за продажба на абонаментни карти и билети",
+      "shirina": 42.667381,
+      "dalzhina": 26.336218,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 154,
+      "ime": "Роза",
+      "shirina": 43.412434,
+      "dalzhina": 24.614932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 155,
+      "ime": "Селим Маркет",
+      "shirina": 41.93691,
+      "dalzhina": 24.270741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 156,
+      "ime": "Силия - джи",
+      "shirina": 42.643397,
+      "dalzhina": 23.369576,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 157,
+      "ime": "Специален",
+      "shirina": 42.660069,
+      "dalzhina": 23.287806,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 158,
+      "ime": "Стефи Маркет",
+      "shirina": 43.418342,
+      "dalzhina": 24.606949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 159,
+      "ime": "Табако",
+      "shirina": 42.604428,
+      "dalzhina": 23.028844,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 160,
+      "ime": "Тити фрут",
+      "shirina": 42.138292,
+      "dalzhina": 24.786116,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 161,
+      "ime": "ТоМа",
+      "shirina": 42.650925,
+      "dalzhina": 23.288901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 162,
+      "ime": "Томи Груп",
+      "shirina": 43.378084,
+      "dalzhina": 23.479214,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 163,
+      "ime": "Тото",
+      "shirina": 43.423155,
+      "dalzhina": 24.600108,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 164,
+      "ime": "Фронт фант",
+      "shirina": 42.654358,
+      "dalzhina": 23.345573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 165,
+      "ime": "Хаваната",
+      "shirina": 43.407559,
+      "dalzhina": 23.225419,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 166,
+      "ime": "Хани",
+      "shirina": 42.660185,
+      "dalzhina": 23.378307,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 167,
+      "ime": "Хотдог, царевица на пара",
+      "shirina": 42.104989,
+      "dalzhina": 24.486345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 168,
+      "ime": "Хранителен магазин \"Лебедите\"",
+      "shirina": 42.140436,
+      "dalzhina": 24.785931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 169,
+      "ime": "Цеци 2",
+      "shirina": 42.005551,
+      "dalzhina": 23.983538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 170,
+      "ime": "Чакъров",
+      "shirina": 43.410965,
+      "dalzhina": 24.617883,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 171,
+      "ime": "Шаварика",
+      "shirina": 42.626679,
+      "dalzhina": 23.35835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 172,
+      "ime": "Ядки",
+      "shirina": 42.14481,
+      "dalzhina": 24.755233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 173,
+      "ime": "билетна каса Летен театър",
+      "shirina": 43.206559,
+      "dalzhina": 27.92655,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    },
+    {
+      "id": 174,
+      "ime": "левчето",
+      "shirina": 43.011444,
+      "dalzhina": 23.047202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "kiosk",
+      "osm_klas": "shop=kiosk"
+    }
+  ],
+  "meta": {
+    "title": "Павилиони в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Павилиони в България — 174 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=kiosk`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 174 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Павилиони в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Павилиони в България (OpenStreetMap) — 174 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 174 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

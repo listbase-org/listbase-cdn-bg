@@ -1,0 +1,830 @@
+{
+  "id": "bg-prirodni-rezervati",
+  "name": "Природни резервати в България",
+  "title": "Природни резервати в България",
+  "description": "Nature reserves and protected areas in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q134033352",
+      "name_bg": "",
+      "name_en": "Karandila",
+      "admin_area_bg": "Сливен",
+      "admin_area_en": "Sliven",
+      "latitude": 42.697222222,
+      "longitude": 26.302777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134033352"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q22198572",
+      "name_bg": "",
+      "name_en": "Parangalitza",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.25,
+      "longitude": 23.25,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q22198572"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q12271645",
+      "name_bg": "Алиботуш",
+      "name_en": "Alibotoush",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.377027777,
+      "longitude": 23.620666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12271645"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q5813917",
+      "name_bg": "Баюви дупки - Джинджирица",
+      "name_en": "Doupki-Djindjiritza Biosphere reserve",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.021388888,
+      "longitude": 23.408055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5813917"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12273044",
+      "name_bg": "Беглика",
+      "name_en": "Beglika",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.822430555,
+      "longitude": 24.129130555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12273044"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q20499999",
+      "name_bg": "Бели Лом",
+      "name_en": "Beli Lom",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.644113888,
+      "longitude": 26.286463888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20499999"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q2904841",
+      "name_bg": "Бистришко бранище",
+      "name_en": "Bistrishko Branishte",
+      "admin_area_bg": "Софийска",
+      "admin_area_en": "Sofia Oblast",
+      "latitude": 42.561944444,
+      "longitude": 23.314444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2904841"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q8248962",
+      "name_bg": "Боатин",
+      "name_en": "Boatin Biosphere Reserve",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.80278,
+      "longitude": 24.26917,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q8248962"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12273994",
+      "name_bg": "Букака",
+      "name_en": "Bukaka",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.2608,
+      "longitude": 26.87,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12273994"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q20500775",
+      "name_bg": "Бяла крава",
+      "name_en": "Byala Krava",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.817919444,
+      "longitude": 26.029852777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500775"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q7936993",
+      "name_bg": "Витаново",
+      "name_en": "Vitanovo Reserve",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.9939,
+      "longitude": 27.4247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7936993"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q12275662",
+      "name_bg": "Врачански карст",
+      "name_en": "Vrachanski Karst",
+      "admin_area_bg": "Враца",
+      "admin_area_en": "Vratsa",
+      "latitude": 43.172508333,
+      "longitude": 23.482247222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12275662"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q12275800",
+      "name_bg": "Вълчи дол",
+      "name_en": "Valchi Dol",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.6,
+      "longitude": 25.683,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12275800"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q12277190",
+      "name_bg": "Горна Tопчия",
+      "name_en": "Gorna Topchia",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.251025,
+      "longitude": 26.575627777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12277190"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q20497337",
+      "name_bg": "Горната кория",
+      "name_en": "Gornata Koria",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.173916666,
+      "longitude": 23.052138888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497337"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q5319674",
+      "name_bg": "Джендема",
+      "name_en": "Djendema",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.783333333,
+      "longitude": 24.75,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5319674"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q5639817",
+      "name_bg": "Дупката",
+      "name_en": "Dupkata",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.775555555,
+      "longitude": 24.266666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5639817"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q20499200",
+      "name_bg": "Еленова гора",
+      "name_en": "Elenova Gora",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.667,
+      "longitude": 25.183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20499200"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q11710919",
+      "name_bg": "Ибър",
+      "name_en": "Ibar",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.172913888,
+      "longitude": 23.711586111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11710919"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q24629564",
+      "name_bg": "Казаните",
+      "name_en": "Kazanite",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.674705555,
+      "longitude": 24.389819444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24629564"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q20500494",
+      "name_bg": "Казъл черпа",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.785497,
+      "longitude": 25.180319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500494"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1648563",
+      "name_bg": "Калиакра",
+      "name_en": "Kaliakra",
+      "admin_area_bg": "Добрич",
+      "admin_area_en": "Dobrich",
+      "latitude": 43.36126,
+      "longitude": 28.46549,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1648563"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q24574601",
+      "name_bg": "Каменщица",
+      "name_en": "Kamenshtitsa",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.668,
+      "longitude": 25.407,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24574601"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q6356472",
+      "name_bg": "Камчия",
+      "name_en": "Kamtchia",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.02,
+      "longitude": 27.5,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6356472"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q12282705",
+      "name_bg": "Кастракли",
+      "name_en": "Kastrakliy",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.683333333,
+      "longitude": 24.283333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12282705"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q12283116",
+      "name_bg": "Китка",
+      "name_en": "Kitka",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.688311111,
+      "longitude": 25.181994444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12283116"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q12283322",
+      "name_bg": "Козя стена",
+      "name_en": "Kozya Stena",
+      "admin_area_bg": "Чифлик",
+      "admin_area_en": "Chiflik",
+      "latitude": 42.917,
+      "longitude": 24.667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12283322"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q12283475",
+      "name_bg": "Конгура",
+      "name_en": "Kongura",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.3411,
+      "longitude": 23.1949,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12283475"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q12283502",
+      "name_bg": "Конски дол",
+      "name_en": "Konski dol",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.58705,
+      "longitude": 24.0279,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12283502"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q11687453",
+      "name_bg": "Купена",
+      "name_en": "Koupena",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.006666666,
+      "longitude": 24.3,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11687453"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q20497639",
+      "name_bg": "Кутелка",
+      "name_en": "Kutelka",
+      "admin_area_bg": "Сливен",
+      "admin_area_en": "Sliven",
+      "latitude": 42.74,
+      "longitude": 26.35,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497639"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q20498074",
+      "name_bg": "Лешница",
+      "name_en": "Leshnitsa",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.707858333,
+      "longitude": 25.218686111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20498074"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q5478534",
+      "name_bg": "Мантарица",
+      "name_en": "Mantaritza Biosphere Reserve",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.966666666,
+      "longitude": 24.033333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5478534"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q12285979",
+      "name_bg": "Маричини езера (резерват)",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.179166666,
+      "longitude": 23.585277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12285979"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q20499626",
+      "name_bg": "Милка",
+      "name_en": "Milka",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.692375,
+      "longitude": 25.190697222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20499626"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q12289305",
+      "name_bg": "Ореляк",
+      "name_en": "Orelyak",
+      "admin_area_bg": "Гоце Делчев",
+      "admin_area_en": "Gotse Delchev",
+      "latitude": 41.5701,
+      "longitude": 23.6125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12289305"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q20498273",
+      "name_bg": "Орлицата",
+      "name_en": "Orlitsata",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.893394444,
+      "longitude": 26.525636111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20498273"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q12289933",
+      "name_bg": "Парангалица",
+      "name_en": "Parangalitza",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.179166666,
+      "longitude": 23.585277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12289933"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q12290096",
+      "name_bg": "Пеещи скали",
+      "name_en": "Peeshti Skali",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.765294444,
+      "longitude": 25.073386111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12290096"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q12291895",
+      "name_bg": "Пясъчната лилия",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.417,
+      "longitude": 27.7,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12291895"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q20497718",
+      "name_bg": "Риломанастирска гора",
+      "name_en": "Rilomanastirska Gora",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.133333333,
+      "longitude": 23.340277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497718"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q12292545",
+      "name_bg": "Ропотамо",
+      "name_en": "Ropotamo",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.3275,
+      "longitude": 27.755555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12292545"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q12293430",
+      "name_bg": "Северен Джендем",
+      "name_en": "Sevеren Dzhendem",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.717416666,
+      "longitude": 24.916944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12293430"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q7515273",
+      "name_bg": "Силкосия",
+      "name_en": "Silkosiya Reserve",
+      "admin_area_bg": "Българи",
+      "admin_area_en": "Balgari",
+      "latitude": 42.08305556,
+      "longitude": 27.75416667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7515273"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q12293857",
+      "name_bg": "Скакавица",
+      "name_en": "Skakavitsa",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.235,
+      "longitude": 23.305,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12293857"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q12294129",
+      "name_bg": "Соколата",
+      "name_en": "Sokolata",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.533163888,
+      "longitude": 23.102919444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12294129"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q12294132",
+      "name_bg": "Соколна",
+      "name_en": "Sokolna",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.727111111,
+      "longitude": 25.055827777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12294132"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q24574409",
+      "name_bg": "Сосковчето",
+      "name_en": "Soskovcheto",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.585,
+      "longitude": 24.8,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24574409"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q122082",
+      "name_bg": "Сребърна",
+      "name_en": "Srebarna Nature Reserve",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.111116,
+      "longitude": 27.072206,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122082"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q21778102",
+      "name_bg": "Сребърна",
+      "name_en": "",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.107777777,
+      "longitude": 27.071388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21778102"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q60521836",
+      "name_bg": "Сребърна (биосферен парк)",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 44.10257,
+      "longitude": 27.061862,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60521836"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q12294909",
+      "name_bg": "Средока",
+      "name_en": "Sredoka",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.033,
+      "longitude": 27.517,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12294909"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q12295048",
+      "name_bg": "Стара река",
+      "name_en": "Stara Reka",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.643513888,
+      "longitude": 24.807152777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12295048"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q9079796",
+      "name_bg": "Стенето",
+      "name_en": "Steneto Biosphere Reserve",
+      "admin_area_bg": "Ловеч",
+      "admin_area_en": "Lovech",
+      "latitude": 42.8,
+      "longitude": 24.666666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q9079796"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q12296370",
+      "name_bg": "Тисата",
+      "name_en": "Tisata",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.755947222,
+      "longitude": 23.142355555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12296370"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q12296371",
+      "name_bg": "Тисовица",
+      "name_en": "Tisovitsa",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.1416,
+      "longitude": 27.7021,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12296371"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q7825689",
+      "name_bg": "Торфено бранище",
+      "name_en": "Torfeno Branishte",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.5811,
+      "longitude": 23.27,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7825689"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q12297102",
+      "name_bg": "Тъмната гора",
+      "name_en": "",
+      "admin_area_bg": "Ковачевица",
+      "admin_area_en": "Kovachevitsa",
+      "latitude": 41.683333,
+      "longitude": 23.833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12297102"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q12297191",
+      "name_bg": "Узунбоджак",
+      "name_en": "Uzunbodzhak Reserve",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.976111111,
+      "longitude": 27.801666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12297191"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q45749538",
+      "name_bg": "Узунбуджак",
+      "name_en": "",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 41.975833333,
+      "longitude": 27.802222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q45749538"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q9068219",
+      "name_bg": "Царичина",
+      "name_en": "Tsaritchina Biosphere Reserve",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.5,
+      "longitude": 24.3,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q9068219"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q12298873",
+      "name_bg": "Централен рилски резерват",
+      "name_en": "Tsentralen Rilski Rezervat",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.179166666,
+      "longitude": 23.585277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12298873"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q20500615",
+      "name_bg": "Църна река",
+      "name_en": "Tsarnata Reka",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.157980555,
+      "longitude": 22.572538888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500615"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q85245319",
+      "name_bg": "Чамджа",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.738043912,
+      "longitude": 24.580064312,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85245319"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q12299072",
+      "name_bg": "Червената стена",
+      "name_en": "Tchervenata stena Biosphere Reserve",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.95,
+      "longitude": 24.867,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12299072"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q60521838",
+      "name_bg": "Червената стена (биосферен парк)",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.903398,
+      "longitude": 24.861208,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60521838"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q107597112",
+      "name_bg": "Чирпан бунар",
+      "name_en": "",
+      "admin_area_bg": "Гранит",
+      "admin_area_en": "Granit",
+      "latitude": 42.24768231,
+      "longitude": 25.10156679,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107597112"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q4518121",
+      "name_bg": "Чупрене",
+      "name_en": "Tchouprene Biosphere Reserve",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.517,
+      "longitude": 22.667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4518121"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q12299500",
+      "name_bg": "Юлен",
+      "name_en": "Yulen",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.754491666,
+      "longitude": 23.472288888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12299500"
+    }
+  ],
+  "meta": {
+    "title": "Природни резервати в България - Безплатно изтегляне",
+    "description": "Nature reserves and protected areas in Bulgaria with coordinates, sourced from Wikidata. Съдържа 69 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Природни резервати в България | ListBase",
+    "seo_description": "Изтеглете Природни резервати в България — 69 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 69 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

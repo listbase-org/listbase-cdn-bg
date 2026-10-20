@@ -1,0 +1,160 @@
+{
+  "id": "bg-iata-icao-letishta",
+  "name": "IATA/ICAO кодове на летищата в България",
+  "title": "IATA/ICAO кодове на летищата в България",
+  "description": "Списък на българските летища с кодове IATA (3 знака) и ICAO (4 знака) според базата данни IP2Location.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "airport",
+      "label": "Airport",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "country_code": "BG",
+      "region_name": "Burgas",
+      "iata": "BOJ",
+      "icao": "LBBG",
+      "airport": "Burgas Airport",
+      "latitude": 42.5696,
+      "longitude": 27.5152
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Haskovo",
+      "iata": "HKV",
+      "icao": "LBHS",
+      "airport": "Haskovo Malevo Airport",
+      "latitude": 41.8718,
+      "longitude": 25.6048
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Plovdiv",
+      "iata": "PDV",
+      "icao": "LBPD",
+      "airport": "Plovdiv Airport",
+      "latitude": 42.0678,
+      "longitude": 24.8508
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Ruse",
+      "iata": "ROU",
+      "icao": "LBRS",
+      "airport": "Ruse Airport",
+      "latitude": 43.6948,
+      "longitude": 26.0567
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Silistra",
+      "iata": "SLS",
+      "icao": "LBSS",
+      "airport": "Silistra Airfield",
+      "latitude": 44.0552,
+      "longitude": 27.1788
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Sofia",
+      "iata": "SOF",
+      "icao": "LBSF",
+      "airport": "Sofia Airport",
+      "latitude": 42.6967,
+      "longitude": 23.4114
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Stara Zagora",
+      "iata": "SZR",
+      "icao": "LBSZ",
+      "airport": "Stara Zagora Airport",
+      "latitude": 42.3767,
+      "longitude": 25.655
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Targovishte",
+      "iata": "TGV",
+      "icao": "LBTG",
+      "airport": "Targovishte Airport (Buhovtsi Airfield)",
+      "latitude": 43.3066,
+      "longitude": 26.7009
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Varna",
+      "iata": "VAR",
+      "icao": "LBWN",
+      "airport": "Varna Airport",
+      "latitude": 43.2321,
+      "longitude": 27.8251
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Veliko Tarnovo",
+      "iata": "GOZ",
+      "icao": "LBGO",
+      "airport": "Gorna Oryahovitsa Airport",
+      "latitude": 43.1514,
+      "longitude": 25.7129
+    },
+    {
+      "country_code": "BG",
+      "region_name": "Yambol",
+      "iata": "JAM",
+      "icao": "",
+      "airport": "Bezmer Air Base",
+      "latitude": 42.4549,
+      "longitude": 26.3522
+    }
+  ],
+  "meta": {
+    "title": "IATA/ICAO кодове на летищата в България - Безплатно изтегляне",
+    "description": "Списък на българските летища с кодове IATA (3 знака) и ICAO (4 знака) според базата данни IP2Location. Съдържа 11 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "IATA/ICAO кодове на летищата в България | ListBase",
+    "seo_description": "Изтеглете IATA/ICAO кодове на летищата в България — 11 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 11 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "id": "bg-lignitni-elektrocentrali",
+  "name": "Лигнитни електроцентрали в България",
+  "title": "Лигнитни електроцентрали в България",
+  "description": "Лигнитни електроцентрали в България. All 9 Lignite power generation/storage units in Bulgaria carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of bg-elektrocentrali (zero derivation).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "number"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1109,
+      "name": "Brikel",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 300,
+      "efficiency": "",
+      "date_in": 1959,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 42.154555,
+      "lon": 25.906814,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-14-1, BEYOND-BG-14-2, BEYOND-BG-14-3, BEYOND-BG-14-4, BEYOND-BG-14-5, BEYOND-BG-14-6; ENTSOE: 32W001100100233F; GEM: G100000101051, G100000101052, G100000101053, G100000101054, G100000101055, G100000101056; GEO: GEO-42177"
+    },
+    {
+      "id": 1110,
+      "name": "Maritsa",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Bulgaria",
+      "capacity_mw": 120,
+      "efficiency": "",
+      "date_in": 1966,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 42.051942,
+      "lon": 25.623344,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-3-3; ENTSOE: 32W001100100088Z; GEM: G100000106668; GEO: GEO-42178"
+    },
+    {
+      "id": 1514,
+      "name": "Republika",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 105,
+      "efficiency": "",
+      "date_in": 1951,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 42.607124,
+      "lon": 23.078699,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-10-1, BEYOND-BG-10-2, BEYOND-BG-10-4, BEYOND-BG-10-5; ENTSOE: 32W001100100005S; GEM: G100000108557"
+    },
+    {
+      "id": 2577,
+      "name": "Maritsa Iztok",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Bulgaria",
+      "capacity_mw": 908,
+      "efficiency": "",
+      "date_in": 1978,
+      "date_retrofit": 2007,
+      "date_out": 2040,
+      "lat": 42.14502,
+      "lon": 26.003009,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-9-1, BEYOND-BG-9-2, BEYOND-BG-9-3, BEYOND-BG-9-4; GEM: G100000106677, G100000106678, G100000106679, G100000106680; GEO: GEO-42179"
+    },
+    {
+      "id": 3350,
+      "name": "Sliven",
+      "fueltype": "Lignite",
+      "technology": "",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 60,
+      "efficiency": "",
+      "date_in": 1969,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 42.654762,
+      "lon": 26.325853,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-17-1, BEYOND-BG-17-2; GEM: G100000109485, G100000114241"
+    },
+    {
+      "id": 18426,
+      "name": "Maritsa Iztok",
+      "fueltype": "Lignite",
+      "technology": "",
+      "set": "",
+      "country": "Bulgaria",
+      "capacity_mw": 690,
+      "efficiency": "",
+      "date_in": 2011,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 42.1573,
+      "lon": 25.9084,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000106681, G100000106682"
+    },
+    {
+      "id": 18427,
+      "name": "Maritsa Iztok",
+      "fueltype": "Lignite",
+      "technology": "Steam Turbine",
+      "set": "",
+      "country": "Bulgaria",
+      "capacity_mw": 1602,
+      "efficiency": "",
+      "date_in": 1966,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 42.254053,
+      "lon": 26.134007,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000106669, G100000106670, G100000106671, G100000106672, G100000106673, G100000106674, G100000106675, G100000106676"
+    },
+    {
+      "id": 165489,
+      "name": "Aes Galabovo",
+      "fueltype": "Lignite",
+      "technology": "",
+      "set": "PP",
+      "country": "Bulgaria",
+      "capacity_mw": 670,
+      "efficiency": "",
+      "date_in": 2011,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 42.1591,
+      "lon": 25.9089,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-6-1, BEYOND-BG-6-2"
+    },
+    {
+      "id": 165497,
+      "name": "Maritsa East",
+      "fueltype": "Lignite",
+      "technology": "",
+      "set": "PP",
+      "country": "Bulgaria",
+      "capacity_mw": 1602,
+      "efficiency": "",
+      "date_in": 1966,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 42.2564,
+      "lon": 26.132,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-8-1, BEYOND-BG-8-2, BEYOND-BG-8-3, BEYOND-BG-8-4, BEYOND-BG-8-5, BEYOND-BG-8-6, BEYOND-BG-8-7, BEYOND-BG-8-8"
+    }
+  ],
+  "meta": {
+    "title": "Лигнитни електроцентрали в България - Безплатно изтегляне",
+    "description": "Лигнитни електроцентрали в България. All 9 Lignite power generation/storage units in Bulgaria carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of bg-elektrocentrali (zero derivation). Съдържа 9 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Лигнитни електроцентрали в България | ListBase",
+    "seo_description": "Изтеглете Лигнитни електроцентрали в България — 9 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 9 записа / 19 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

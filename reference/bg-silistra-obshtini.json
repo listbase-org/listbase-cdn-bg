@@ -1,0 +1,220 @@
+{
+  "id": "bg-silistra-obshtini",
+  "name": "Общини — област Силистра (Municipalities of Silistra)",
+  "title": "Общини — област Силистра (Municipalities of Silistra)",
+  "description": "Списък на общините в област Силистра (Silistra oblast). 7 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SLS. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 136,
+      "gisco_id": "BG_SLS01",
+      "oblast_code": "SLS",
+      "oblast_slug": "silistra",
+      "oblast_bg": "Силистра",
+      "oblast_en": "Silistra",
+      "name_bg": "Алфатар",
+      "name_en": "",
+      "slug": "alfatar",
+      "population_2024": 2232,
+      "population_density_2024_per_km2": 8.98059919,
+      "area_km2": 248.53575503,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "http://alfatar.egov.bg/ALFATAR/home.nsf/pages/bg/NT00004026?OpenDocument",
+      "comment": ""
+    },
+    {
+      "id": 137,
+      "gisco_id": "BG_SLS07",
+      "oblast_code": "SLS",
+      "oblast_slug": "silistra",
+      "oblast_bg": "Силистра",
+      "oblast_en": "Silistra",
+      "name_bg": "Главиница",
+      "name_en": "",
+      "slug": "glavinica",
+      "population_2024": 8600,
+      "population_density_2024_per_km2": 17.86453718,
+      "area_km2": 481.40066065,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "http://old.glavinitsa.bg/web/cnews/file.php?file=Plan_bedstvia_1.pdf",
+      "comment": ""
+    },
+    {
+      "id": 138,
+      "gisco_id": "BG_SLS10",
+      "oblast_code": "SLS",
+      "oblast_slug": "silistra",
+      "oblast_bg": "Силистра",
+      "oblast_en": "Silistra",
+      "name_bg": "Дулово",
+      "name_en": "Dolna Mitropoliya",
+      "slug": "dulovo",
+      "population_2024": 23781,
+      "population_density_2024_per_km2": 42.04967647,
+      "area_km2": 565.5453739,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 139,
+      "gisco_id": "BG_SLS15",
+      "oblast_code": "SLS",
+      "oblast_slug": "silistra",
+      "oblast_bg": "Силистра",
+      "oblast_en": "Silistra",
+      "name_bg": "Кайнарджа",
+      "name_en": "",
+      "slug": "kaynardzha",
+      "population_2024": 3899,
+      "population_density_2024_per_km2": 12.37300115,
+      "area_km2": 315.12160645,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://kaynardzha.egov.bg/wps/portal/municipality-kaynardzha/municipality/disaster.accident.protect",
+      "comment": ""
+    },
+    {
+      "id": 140,
+      "gisco_id": "BG_SLS31",
+      "oblast_code": "SLS",
+      "oblast_slug": "silistra",
+      "oblast_bg": "Силистра",
+      "oblast_en": "Silistra",
+      "name_bg": "Силистра",
+      "name_en": "",
+      "slug": "silistra",
+      "population_2024": 40146,
+      "population_density_2024_per_km2": 77.74117632,
+      "area_km2": 516.4058727,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://silistra.egov.bg/wps/portal/municipality-silistra/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 141,
+      "gisco_id": "BG_SLS32",
+      "oblast_code": "SLS",
+      "oblast_slug": "silistra",
+      "oblast_bg": "Силистра",
+      "oblast_en": "Silistra",
+      "name_bg": "Ситово",
+      "name_en": "",
+      "slug": "sitovo",
+      "population_2024": 4355,
+      "population_density_2024_per_km2": 16.01841755,
+      "area_km2": 271.87454614,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://sitovo.bg/wps/portal/municipality-sitovo/municipality/Zashtita%20pri%20bedstvya%20i%20avarii",
+      "comment": ""
+    },
+    {
+      "id": 142,
+      "gisco_id": "BG_SLS34",
+      "oblast_code": "SLS",
+      "oblast_slug": "silistra",
+      "oblast_bg": "Силистра",
+      "oblast_en": "Silistra",
+      "name_bg": "Тутракан",
+      "name_en": "",
+      "slug": "tutrakan",
+      "population_2024": 11726,
+      "population_density_2024_per_km2": 25.93493536,
+      "area_km2": 452.13145273,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://tutrakan.egov.bg/TUTRAKAN/home.nsf/pages/bg/NT0000470A?OpenDocument",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Силистра (Municipalities of Silistra) - Безплатно изтегляне",
+    "description": "Списък на общините в област Силистра (Silistra oblast). 7 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SLS. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Силистра (Municipalities of Silistra) | ListBase",
+    "seo_description": "Изтеглете Общини — област Силистра (Municipalities of Silistra) — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

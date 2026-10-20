@@ -1,0 +1,126 @@
+{
+  "id": "bg-merni-edinitsi-angle",
+  "name": "Мерни единици: angle (6)",
+  "title": "Мерни единици: angle (6)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'angle'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "angle-arc-minute",
+      "kategoriya": "angle",
+      "nazvanie": "дъгови минути",
+      "shablon_edinstveno": "{0} дъгова минута",
+      "shablon_mnozhestveno": "{0} дъгови минути",
+      "kratak_shablon": "{0}′",
+      "tesen_shablon": "{0}′"
+    },
+    {
+      "id": 2,
+      "unit_code": "angle-arc-second",
+      "kategoriya": "angle",
+      "nazvanie": "дъгови секунди",
+      "shablon_edinstveno": "{0} дъгова секунда",
+      "shablon_mnozhestveno": "{0} дъгови секунди",
+      "kratak_shablon": "{0}″",
+      "tesen_shablon": "{0}″"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-degree",
+      "kategoriya": "angle",
+      "nazvanie": "градуси",
+      "shablon_edinstveno": "{0} градус",
+      "shablon_mnozhestveno": "{0} градуса",
+      "kratak_shablon": "{0}°",
+      "tesen_shablon": "{0}°"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-radian",
+      "kategoriya": "angle",
+      "nazvanie": "радиани",
+      "shablon_edinstveno": "{0} радиан",
+      "shablon_mnozhestveno": "{0} радиана",
+      "kratak_shablon": "{0} rad",
+      "tesen_shablon": "{0} rad"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-revolution",
+      "kategoriya": "angle",
+      "nazvanie": "обороти",
+      "shablon_edinstveno": "{0} оборот",
+      "shablon_mnozhestveno": "{0} оборота",
+      "kratak_shablon": "{0} об.",
+      "tesen_shablon": "{0} об."
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-steradian",
+      "kategoriya": "angle",
+      "nazvanie": "стерадиани",
+      "shablon_edinstveno": "{0} стерадиан",
+      "shablon_mnozhestveno": "{0} стерадиана",
+      "kratak_shablon": "{0} sr",
+      "tesen_shablon": "{0} sr"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: angle (6) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'angle'. Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: angle (6) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: angle (6) — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

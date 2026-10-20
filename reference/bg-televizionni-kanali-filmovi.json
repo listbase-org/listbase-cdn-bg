@@ -1,0 +1,301 @@
+{
+  "id": "bg-televizionni-kanali-filmovi",
+  "name": "Български телевизионни канали — филмови",
+  "title": "Български телевизионни канали — филмови",
+  "description": "Български телевизионни канали в категория 'movies' (филмови) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "date"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "ActionPlus.bg",
+      "name": "Action+",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bulsatcom",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "2021-08-01",
+      "replaced_by": "actionbox.bg",
+      "website": "http://tvplus.bg/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CinemaPlus.bg",
+      "name": "Cinema+",
+      "alt_names": "",
+      "network": "Polaris Media",
+      "owners": "Rosenfeld and Co AD",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2015-01-26",
+      "closed": "2021-08-01",
+      "replaced_by": "cinebox.bg",
+      "website": "http://tvplus.bg/"
+    },
+    {
+      "id": 3,
+      "channel_id": "ComedyPlus.bg",
+      "name": "Comedy+",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "comedy, movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "2021-08-01",
+      "replaced_by": "comedybox.bg",
+      "website": ""
+    },
+    {
+      "id": 4,
+      "channel_id": "Diema.bg",
+      "name": "Diema",
+      "alt_names": "Диема",
+      "network": "",
+      "owners": "United Group",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "1999-05-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://diema.nova.bg/"
+    },
+    {
+      "id": 5,
+      "channel_id": "KinoNova.bg",
+      "name": "Kino Nova",
+      "alt_names": "Кино Нова",
+      "network": "",
+      "owners": "United Group",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "1994-07-16",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://kinonova.bg/"
+    },
+    {
+      "id": 6,
+      "channel_id": "MovieStar.bg",
+      "name": "Movie Star",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 7,
+      "channel_id": "StarChannel.bg",
+      "name": "Star Channel",
+      "alt_names": "Fox",
+      "network": "",
+      "owners": "The Walt Disney Company Bulgaria",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2012-10-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://starchannel-bg.com/"
+    },
+    {
+      "id": 8,
+      "channel_id": "TV1000.bg",
+      "name": "TV1000",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv1000.bg/"
+    },
+    {
+      "id": 9,
+      "channel_id": "actionbox.bg",
+      "name": "action.box",
+      "alt_names": "",
+      "network": "",
+      "owners": "Bulsatcom",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2021-08-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.bulsatcom.bg/"
+    },
+    {
+      "id": 10,
+      "channel_id": "bTVAction.bg",
+      "name": "bTV Action",
+      "alt_names": "",
+      "network": "",
+      "owners": "CME",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.btv.bg/action"
+    },
+    {
+      "id": 11,
+      "channel_id": "bTVCinema.bg",
+      "name": "bTV Cinema",
+      "alt_names": "",
+      "network": "",
+      "owners": "CME",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2009-12-07",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.btv.bg/cinema"
+    },
+    {
+      "id": 12,
+      "channel_id": "bTVLady.bg",
+      "name": "bTV Lady",
+      "alt_names": "",
+      "network": "",
+      "owners": "CME",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2012-01-28",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.btv.bg/lady/"
+    },
+    {
+      "id": 13,
+      "channel_id": "cinebox.bg",
+      "name": "cine.box",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "movies",
+      "is_nsfw": false,
+      "launched": "2021-08-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.bulsatcom.bg/"
+    },
+    {
+      "id": 14,
+      "channel_id": "comedybox.bg",
+      "name": "comedy.box",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "comedy, movies",
+      "is_nsfw": false,
+      "launched": "2021-08-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.bulsatcom.bg/"
+    }
+  ],
+  "meta": {
+    "title": "Български телевизионни канали — филмови - Безплатно изтегляне",
+    "description": "Български телевизионни канали в категория 'movies' (филмови) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт. Съдържа 14 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Български телевизионни канали — филмови | ListBase",
+    "seo_description": "Изтеглете Български телевизионни канали — филмови — 14 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 14 записа / 13 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

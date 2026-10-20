@@ -1,0 +1,196 @@
+{
+  "id": "bg-merni-edinitsi-area",
+  "name": "Мерни единици: area (13)",
+  "title": "Мерни единици: area (13)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'area'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "kategoriya": "area",
+      "nazvanie": "акри",
+      "shablon_edinstveno": "{0} акър",
+      "shablon_mnozhestveno": "{0} акра",
+      "kratak_shablon": "{0} акра",
+      "tesen_shablon": "{0} акра"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "kategoriya": "area",
+      "nazvanie": "bu [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} bu [JP]",
+      "kratak_shablon": "{0} bu [JP]",
+      "tesen_shablon": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "kategoriya": "area",
+      "nazvanie": "cho [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} cho [JP]",
+      "kratak_shablon": "{0} cho [JP]",
+      "tesen_shablon": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "kategoriya": "area",
+      "nazvanie": "дюнюми",
+      "shablon_edinstveno": "{0} дюнюм",
+      "shablon_mnozhestveno": "{0} дюнюма",
+      "kratak_shablon": "{0} дюнюма",
+      "tesen_shablon": "{0} дюнюма"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "kategoriya": "area",
+      "nazvanie": "хектари",
+      "shablon_edinstveno": "{0} хектар",
+      "shablon_mnozhestveno": "{0} хектара",
+      "kratak_shablon": "{0} ha",
+      "tesen_shablon": "{0} ha"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "kategoriya": "area",
+      "nazvanie": "se [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} se [JP]",
+      "kratak_shablon": "{0} se [JP]",
+      "tesen_shablon": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "kategoriya": "area",
+      "nazvanie": "квадратни сантиметри",
+      "shablon_edinstveno": "{0} квадратен сантиметър",
+      "shablon_mnozhestveno": "{0} квадратни сантиметра",
+      "kratak_shablon": "{0} cm²",
+      "tesen_shablon": "{0} cm²"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "kategoriya": "area",
+      "nazvanie": "квадратни футове",
+      "shablon_edinstveno": "{0} квадратен фут",
+      "shablon_mnozhestveno": "{0} квадратни фута",
+      "kratak_shablon": "{0} ft²",
+      "tesen_shablon": "{0} ft²"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "kategoriya": "area",
+      "nazvanie": "квадратни инчове",
+      "shablon_edinstveno": "{0} квадратен инч",
+      "shablon_mnozhestveno": "{0} квадратни инча",
+      "kratak_shablon": "{0} in²",
+      "tesen_shablon": "{0} in²"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "kategoriya": "area",
+      "nazvanie": "квадратни километри",
+      "shablon_edinstveno": "{0} квадратен километър",
+      "shablon_mnozhestveno": "{0} квадратни километра",
+      "kratak_shablon": "{0} km²",
+      "tesen_shablon": "{0} km²"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "kategoriya": "area",
+      "nazvanie": "квадратни метри",
+      "shablon_edinstveno": "{0} квадратен метър",
+      "shablon_mnozhestveno": "{0} квадратни метра",
+      "kratak_shablon": "{0} m²",
+      "tesen_shablon": "{0} m²"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "kategoriya": "area",
+      "nazvanie": "квадратни мили",
+      "shablon_edinstveno": "{0} квадратна миля",
+      "shablon_mnozhestveno": "{0} квадратни мили",
+      "kratak_shablon": "{0} mi²",
+      "tesen_shablon": "{0} кв. мили"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "kategoriya": "area",
+      "nazvanie": "квадратни ярдове",
+      "shablon_edinstveno": "{0} квадратен ярд",
+      "shablon_mnozhestveno": "{0} квадратни ярда",
+      "kratak_shablon": "{0} yd²",
+      "tesen_shablon": "{0} yd²"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: area (13) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'area'. Съдържа 13 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: area (13) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: area (13) — 13 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 13 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

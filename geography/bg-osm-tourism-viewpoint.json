@@ -1,0 +1,1852 @@
+{
+  "id": "bg-osm-tourism-viewpoint",
+  "name": "Панорамни точки в България (OpenStreetMap)",
+  "title": "Панорамни точки в България (OpenStreetMap)",
+  "description": "Панорамни точки в България — 199 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=viewpoint`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 199,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "3 крайна спирка (информационни табели)",
+      "shirina": 42.609561,
+      "dalzhina": 23.236367,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 2,
+      "ime": "A view of Troyan",
+      "shirina": 42.895644,
+      "dalzhina": 24.703529,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 3,
+      "ime": "BEACH BAR SELFIE",
+      "shirina": 43.205477,
+      "dalzhina": 27.926774,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 4,
+      "ime": "Bunker",
+      "shirina": 43.467941,
+      "dalzhina": 26.112496,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 5,
+      "ime": "Flat Rock",
+      "shirina": 43.110041,
+      "dalzhina": 25.629929,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 6,
+      "ime": "GODEK N43.07.6 E22.59.4",
+      "shirina": 43.11851,
+      "dalzhina": 22.985175,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 7,
+      "ime": "Great Sight over Sofia",
+      "shirina": 42.611956,
+      "dalzhina": 23.276731,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 8,
+      "ime": "Grindul de la Scocul Dunării",
+      "shirina": 43.812723,
+      "dalzhina": 23.011106,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 9,
+      "ime": "Hotnitsa Waterfalls",
+      "shirina": 43.145576,
+      "dalzhina": 25.514539,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 10,
+      "ime": "Kръст",
+      "shirina": 42.594021,
+      "dalzhina": 24.014913,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 11,
+      "ime": "Melnik Pyramids Viewpoint",
+      "shirina": 41.528036,
+      "dalzhina": 23.41956,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 12,
+      "ime": "Open View of Virosha and Bankya",
+      "shirina": 42.589253,
+      "dalzhina": 23.239222,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 13,
+      "ime": "Panorama to the waterfall #1",
+      "shirina": 42.267301,
+      "dalzhina": 23.229172,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 14,
+      "ime": "Panorama to the waterfall #2",
+      "shirina": 42.269148,
+      "dalzhina": 23.231305,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 15,
+      "ime": "Răsărit de soare",
+      "shirina": 43.534134,
+      "dalzhina": 28.603705,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 16,
+      "ime": "Sokolitsa Peak",
+      "shirina": 41.61599,
+      "dalzhina": 24.700603,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 17,
+      "ime": "Swimming Pool",
+      "shirina": 42.695059,
+      "dalzhina": 23.328855,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 18,
+      "ime": "Terass View",
+      "shirina": 43.226236,
+      "dalzhina": 28.012988,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 19,
+      "ime": "The Hut",
+      "shirina": 42.337165,
+      "dalzhina": 23.87474,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 20,
+      "ime": "The Krushuna Canyon",
+      "shirina": 43.241085,
+      "dalzhina": 25.023721,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 21,
+      "ime": "Toчката",
+      "shirina": 42.559057,
+      "dalzhina": 27.488421,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 22,
+      "ime": "View to the nine mountains",
+      "shirina": 42.585957,
+      "dalzhina": 22.776954,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 23,
+      "ime": "Wooden Platform",
+      "shirina": 42.080939,
+      "dalzhina": 27.886607,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 24,
+      "ime": "scenic viewpoint",
+      "shirina": 41.344442,
+      "dalzhina": 24.807609,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 25,
+      "ime": "Аладжа манастир 1",
+      "shirina": 43.280182,
+      "dalzhina": 28.01834,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 26,
+      "ime": "Аладжа манастир 3",
+      "shirina": 43.279629,
+      "dalzhina": 28.019296,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 27,
+      "ime": "Бакаджик",
+      "shirina": 42.451142,
+      "dalzhina": 26.64588,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 28,
+      "ime": "Богинята Майка",
+      "shirina": 43.615575,
+      "dalzhina": 22.68947,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 29,
+      "ime": "Буковишки камък",
+      "shirina": 43.181964,
+      "dalzhina": 23.533544,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 30,
+      "ime": "Бяла",
+      "shirina": 42.913861,
+      "dalzhina": 27.895046,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 31,
+      "ime": "Варненски залив",
+      "shirina": 43.192499,
+      "dalzhina": 27.921704,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 32,
+      "ime": "Виканата скала",
+      "shirina": 42.765981,
+      "dalzhina": 25.502323,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 33,
+      "ime": "Вилата",
+      "shirina": 42.523837,
+      "dalzhina": 23.835996,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 34,
+      "ime": "Винишки камък",
+      "shirina": 42.627722,
+      "dalzhina": 25.537916,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 35,
+      "ime": "Вихрен",
+      "shirina": 41.767332,
+      "dalzhina": 23.398844,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 36,
+      "ime": "Вкаменелата гора",
+      "shirina": 41.563631,
+      "dalzhina": 25.533386,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 37,
+      "ime": "Водопад ниво 1",
+      "shirina": 42.412792,
+      "dalzhina": 22.685222,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 38,
+      "ime": "Водопад ниво 2",
+      "shirina": 42.413022,
+      "dalzhina": 22.68511,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 39,
+      "ime": "Връх",
+      "shirina": 42.123715,
+      "dalzhina": 23.456463,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 40,
+      "ime": "Вход Яйлата",
+      "shirina": 43.440032,
+      "dalzhina": 28.54691,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 41,
+      "ime": "Вълчи камък",
+      "shirina": 41.661276,
+      "dalzhina": 24.402136,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 42,
+      "ime": "Върбица",
+      "shirina": 43.47222,
+      "dalzhina": 24.700605,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 43,
+      "ime": "Въртоля",
+      "shirina": 41.665491,
+      "dalzhina": 24.780841,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 44,
+      "ime": "Гарванова скала",
+      "shirina": 41.978811,
+      "dalzhina": 24.352131,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 45,
+      "ime": "Гладка към моста на Арда до Маджарово",
+      "shirina": 41.595319,
+      "dalzhina": 25.850045,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 46,
+      "ime": "Гледка",
+      "shirina": 42.596984,
+      "dalzhina": 23.419042,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 47,
+      "ime": "Гледка",
+      "shirina": 43.170649,
+      "dalzhina": 27.944079,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 48,
+      "ime": "Гледка Каменар",
+      "shirina": 43.243011,
+      "dalzhina": 27.910072,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 49,
+      "ime": "Гледка към Долината на розите",
+      "shirina": 42.554565,
+      "dalzhina": 24.866049,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 50,
+      "ime": "Гледка към Кресненско дефиле",
+      "shirina": 41.82712,
+      "dalzhina": 23.169314,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 51,
+      "ime": "Гледка към Фотиново, Осиково, вр.Персенк",
+      "shirina": 41.883168,
+      "dalzhina": 24.317344,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 52,
+      "ime": "Гледка към село Ведраре",
+      "shirina": 42.560023,
+      "dalzhina": 24.856757,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 53,
+      "ime": "Гледка от телевизионната кула на Карандила",
+      "shirina": 42.714093,
+      "dalzhina": 26.363201,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 54,
+      "ime": "Гледката Шипково",
+      "shirina": 42.857612,
+      "dalzhina": 24.524617,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 55,
+      "ime": "Глоговец",
+      "shirina": 42.95906,
+      "dalzhina": 25.412588,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 56,
+      "ime": "Голем Ракевец",
+      "shirina": 42.5565,
+      "dalzhina": 23.181585,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 57,
+      "ime": "Голямата Могила",
+      "shirina": 42.297768,
+      "dalzhina": 25.595293,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 58,
+      "ime": "Димкин камък",
+      "shirina": 41.849407,
+      "dalzhina": 25.114056,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 59,
+      "ime": "Дървена вишка (нестабилна)",
+      "shirina": 42.150509,
+      "dalzhina": 27.359433,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 60,
+      "ime": "Евридика",
+      "shirina": 41.584764,
+      "dalzhina": 24.633012,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 61,
+      "ime": "Емине",
+      "shirina": 42.703187,
+      "dalzhina": 27.899252,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 62,
+      "ime": "Ескалатор",
+      "shirina": 43.370089,
+      "dalzhina": 28.081399,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 63,
+      "ime": "Земя",
+      "shirina": 43.267036,
+      "dalzhina": 27.306822,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 64,
+      "ime": "Знаме",
+      "shirina": 41.452477,
+      "dalzhina": 23.261487,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 65,
+      "ime": "Иглите",
+      "shirina": 41.628488,
+      "dalzhina": 24.675152,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 66,
+      "ime": "Изглед към Бовския водопад",
+      "shirina": 43.030781,
+      "dalzhina": 23.378865,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 67,
+      "ime": "Изглед към водопада Скакля",
+      "shirina": 43.03614,
+      "dalzhina": 23.333179,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 68,
+      "ime": "Изглед към морето и Стария Несебър",
+      "shirina": 42.64807,
+      "dalzhina": 27.711345,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 69,
+      "ime": "Изгрева Картала",
+      "shirina": 43.090494,
+      "dalzhina": 25.632721,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 70,
+      "ime": "Каменна сватба",
+      "shirina": 41.656211,
+      "dalzhina": 25.399307,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 71,
+      "ime": "Картал",
+      "shirina": 42.776632,
+      "dalzhina": 24.243787,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 72,
+      "ime": "Ком-еминеецо, от тук можеш да видиш морето!",
+      "shirina": 42.833908,
+      "dalzhina": 27.289358,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 73,
+      "ime": "Комаров камък",
+      "shirina": 41.943046,
+      "dalzhina": 24.513181,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 74,
+      "ime": "Коматински скали",
+      "shirina": 41.843678,
+      "dalzhina": 22.991035,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 75,
+      "ime": "Компас",
+      "shirina": 42.173366,
+      "dalzhina": 27.858981,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 76,
+      "ime": "Косица",
+      "shirina": 42.763086,
+      "dalzhina": 24.208179,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 77,
+      "ime": "Костен камък",
+      "shirina": 41.847542,
+      "dalzhina": 24.615472,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 78,
+      "ime": "Кота 812.5 м.н.в.",
+      "shirina": 42.890461,
+      "dalzhina": 23.18128,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 79,
+      "ime": "Красива",
+      "shirina": 41.598994,
+      "dalzhina": 24.695422,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 80,
+      "ime": "Крокодилите",
+      "shirina": 42.290005,
+      "dalzhina": 27.764894,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 81,
+      "ime": "Крушунски водопад",
+      "shirina": 43.2431,
+      "dalzhina": 25.033327,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 82,
+      "ime": "Кръст",
+      "shirina": 41.463204,
+      "dalzhina": 23.274438,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 83,
+      "ime": "Кръст",
+      "shirina": 42.031058,
+      "dalzhina": 24.803246,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 84,
+      "ime": "Куката",
+      "shirina": 42.986348,
+      "dalzhina": 24.28057,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 85,
+      "ime": "Кула",
+      "shirina": 43.226014,
+      "dalzhina": 28.01171,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 86,
+      "ime": "Лавандулови полета",
+      "shirina": 42.553458,
+      "dalzhina": 26.593289,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 87,
+      "ime": "Лаго Пасарел - Парти център",
+      "shirina": 42.533718,
+      "dalzhina": 23.509739,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 88,
+      "ime": "Лале Баир",
+      "shirina": 42.424466,
+      "dalzhina": 27.45568,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 89,
+      "ime": "Масичка и стол",
+      "shirina": 42.125983,
+      "dalzhina": 27.91142,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 90,
+      "ime": "Меандър на р. Арда ''Завоят\"",
+      "shirina": 41.668626,
+      "dalzhina": 25.242236,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 91,
+      "ime": "Миале",
+      "shirina": 42.770329,
+      "dalzhina": 24.157371,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 92,
+      "ime": "Милеви скали",
+      "shirina": 42.124273,
+      "dalzhina": 24.062518,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 93,
+      "ime": "Минаев стълбище към морето от Габи-Хаус",
+      "shirina": 42.860679,
+      "dalzhina": 27.899303,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 94,
+      "ime": "Миџор",
+      "shirina": 43.394498,
+      "dalzhina": 22.678232,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 95,
+      "ime": "Момини гърди",
+      "shirina": 42.55455,
+      "dalzhina": 24.867377,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 96,
+      "ime": "Момини скали",
+      "shirina": 42.030095,
+      "dalzhina": 24.654298,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 97,
+      "ime": "Мрежата",
+      "shirina": 43.179158,
+      "dalzhina": 27.886133,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 98,
+      "ime": "Мургана",
+      "shirina": 42.733788,
+      "dalzhina": 24.047116,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 99,
+      "ime": "Мъртви Скали",
+      "shirina": 42.007868,
+      "dalzhina": 24.628551,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 100,
+      "ime": "Място за отдих",
+      "shirina": 43.22701,
+      "dalzhina": 26.890525,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 101,
+      "ime": "Наблюдателна вишка",
+      "shirina": 41.682932,
+      "dalzhina": 24.310725,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 102,
+      "ime": "Наблюдателна вишка",
+      "shirina": 42.936573,
+      "dalzhina": 22.952664,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 103,
+      "ime": "Наблюдателна площадка",
+      "shirina": 42.760901,
+      "dalzhina": 25.249841,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 104,
+      "ime": "Наблюдателна площадка",
+      "shirina": 42.788558,
+      "dalzhina": 22.986599,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 105,
+      "ime": "Наблюдателна площадка",
+      "shirina": 42.935074,
+      "dalzhina": 24.286528,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 106,
+      "ime": "Небесна разходка",
+      "shirina": 43.084533,
+      "dalzhina": 25.637113,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 107,
+      "ime": "Невероятна",
+      "shirina": 41.59831,
+      "dalzhina": 24.694627,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 108,
+      "ime": "Невястата",
+      "shirina": 41.595471,
+      "dalzhina": 24.689911,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 109,
+      "ime": "Нос Калиакра",
+      "shirina": 43.36075,
+      "dalzhina": 28.465812,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 110,
+      "ime": "Обесен камък",
+      "shirina": 42.266281,
+      "dalzhina": 23.335095,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 111,
+      "ime": "Огънчето",
+      "shirina": 43.453002,
+      "dalzhina": 28.557207,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 112,
+      "ime": "Огънчето - маров усой",
+      "shirina": 42.467248,
+      "dalzhina": 25.574872,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 113,
+      "ime": "Окото на сокола",
+      "shirina": 41.674965,
+      "dalzhina": 23.829645,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 114,
+      "ime": "Орфеева сълза",
+      "shirina": 41.621428,
+      "dalzhina": 24.37651,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 115,
+      "ime": "Орфееви скали",
+      "shirina": 41.628633,
+      "dalzhina": 24.682568,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 116,
+      "ime": "Острица",
+      "shirina": 42.585536,
+      "dalzhina": 23.211623,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 117,
+      "ime": "Панорама",
+      "shirina": 42.038425,
+      "dalzhina": 23.539177,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 118,
+      "ime": "Панорама",
+      "shirina": 42.442464,
+      "dalzhina": 25.622936,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 119,
+      "ime": "Панорама 270",
+      "shirina": 41.764606,
+      "dalzhina": 25.138939,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 120,
+      "ime": "Панорама 270",
+      "shirina": 41.88768,
+      "dalzhina": 24.868239,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 121,
+      "ime": "Панорама 360",
+      "shirina": 41.772083,
+      "dalzhina": 25.129885,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 122,
+      "ime": "Панорама към Мостово",
+      "shirina": 41.847635,
+      "dalzhina": 24.96671,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 123,
+      "ime": "Панорама към връх Ботев и Калофер",
+      "shirina": 42.605494,
+      "dalzhina": 24.979041,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 124,
+      "ime": "Панорамна алея \"Галунка\" Бистрица-Железница",
+      "shirina": 42.568451,
+      "dalzhina": 23.34268,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 125,
+      "ime": "Панорамна площадка",
+      "shirina": 41.72785,
+      "dalzhina": 25.9549,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 126,
+      "ime": "Панорамна площадка",
+      "shirina": 41.840419,
+      "dalzhina": 23.390768,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 127,
+      "ime": "Панорамна площадка",
+      "shirina": 42.002335,
+      "dalzhina": 24.279661,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 128,
+      "ime": "Панорамна площадка",
+      "shirina": 42.236134,
+      "dalzhina": 23.172886,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 129,
+      "ime": "Панорамна площадка",
+      "shirina": 42.468175,
+      "dalzhina": 27.553356,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 130,
+      "ime": "Панорамна площадка \"Върхът\"",
+      "shirina": 41.483194,
+      "dalzhina": 24.627955,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 131,
+      "ime": "Панорамна площадка Галата",
+      "shirina": 43.172403,
+      "dalzhina": 27.926859,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 132,
+      "ime": "Панорамна площадка Калето",
+      "shirina": 42.15069,
+      "dalzhina": 27.361684,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 133,
+      "ime": "Панорамния завой",
+      "shirina": 42.853825,
+      "dalzhina": 22.593551,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 134,
+      "ime": "Пещерен дом",
+      "shirina": 43.180067,
+      "dalzhina": 24.070753,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 135,
+      "ime": "Площадка \"Орлово око\"",
+      "shirina": 41.643225,
+      "dalzhina": 24.338936,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 136,
+      "ime": "Площадка за наблюдение",
+      "shirina": 41.586252,
+      "dalzhina": 24.630683,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 137,
+      "ime": "Площадка за почивка",
+      "shirina": 42.66493,
+      "dalzhina": 24.954204,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 138,
+      "ime": "Погледец",
+      "shirina": 41.817767,
+      "dalzhina": 23.392435,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 139,
+      "ime": "Погледец",
+      "shirina": 43.129036,
+      "dalzhina": 23.602065,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 140,
+      "ime": "Пожарака",
+      "shirina": 43.011189,
+      "dalzhina": 23.752892,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 141,
+      "ime": "Поляна",
+      "shirina": 42.494316,
+      "dalzhina": 25.558802,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 142,
+      "ime": "Попо'ва Гла'ва",
+      "shirina": 41.959187,
+      "dalzhina": 23.181086,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 143,
+      "ime": "Портата",
+      "shirina": 41.883717,
+      "dalzhina": 24.90395,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 144,
+      "ime": "Природонаучен музей",
+      "shirina": 44.102409,
+      "dalzhina": 27.062352,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 145,
+      "ime": "Пролешка могила",
+      "shirina": 42.768255,
+      "dalzhina": 23.117425,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 146,
+      "ime": "Пусия",
+      "shirina": 43.383873,
+      "dalzhina": 22.975855,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 147,
+      "ime": "Пусия",
+      "shirina": 43.385526,
+      "dalzhina": 22.980561,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 148,
+      "ime": "Пусия",
+      "shirina": 43.395044,
+      "dalzhina": 22.951991,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 149,
+      "ime": "Първа поста",
+      "shirina": 43.229289,
+      "dalzhina": 27.952323,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 150,
+      "ime": "Разклон към селото",
+      "shirina": 43.228546,
+      "dalzhina": 26.876994,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 151,
+      "ime": "Раюв Камък",
+      "shirina": 42.893193,
+      "dalzhina": 25.842084,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 152,
+      "ime": "Руини",
+      "shirina": 42.567833,
+      "dalzhina": 23.037628,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 153,
+      "ime": "Св. Илия",
+      "shirina": 42.647699,
+      "dalzhina": 24.385219,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 154,
+      "ime": "Свищи плаз",
+      "shirina": 42.765479,
+      "dalzhina": 24.112633,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 155,
+      "ime": "Сечената Скъла",
+      "shirina": 42.710015,
+      "dalzhina": 25.89636,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 156,
+      "ime": "Скала Главата на костенурката",
+      "shirina": 42.55428,
+      "dalzhina": 24.867241,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 157,
+      "ime": "Скала Ситняково",
+      "shirina": 42.245841,
+      "dalzhina": 23.609641,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 158,
+      "ime": "Скала над реката",
+      "shirina": 41.465982,
+      "dalzhina": 23.269599,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 159,
+      "ime": "Скалата над торфите",
+      "shirina": 42.601497,
+      "dalzhina": 23.262808,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 160,
+      "ime": "Скален ръб с гледка",
+      "shirina": 41.460011,
+      "dalzhina": 23.273491,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 161,
+      "ime": "Скали \"Дакерица\"",
+      "shirina": 41.981292,
+      "dalzhina": 24.659776,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 162,
+      "ime": "Скали Момини гъди",
+      "shirina": 42.554345,
+      "dalzhina": 24.867256,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 163,
+      "ime": "Славееви скали",
+      "shirina": 42.044437,
+      "dalzhina": 23.936838,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 164,
+      "ime": "Сливен",
+      "shirina": 42.674022,
+      "dalzhina": 26.313042,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 165,
+      "ime": "Стената",
+      "shirina": 42.802372,
+      "dalzhina": 25.539337,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 166,
+      "ime": "Стражите",
+      "shirina": 41.584508,
+      "dalzhina": 24.635333,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 167,
+      "ime": "Стрелбище",
+      "shirina": 43.229078,
+      "dalzhina": 27.950815,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 168,
+      "ime": "Сърнена поляна",
+      "shirina": 42.579332,
+      "dalzhina": 24.187636,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 169,
+      "ime": "Тайна гледка",
+      "shirina": 42.661505,
+      "dalzhina": 23.310167,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 170,
+      "ime": "Таш тепе табия",
+      "shirina": 43.231794,
+      "dalzhina": 27.95637,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 171,
+      "ime": "Тракийско скално светилище",
+      "shirina": 42.641226,
+      "dalzhina": 23.876022,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 172,
+      "ime": "Трите Дъбици",
+      "shirina": 41.927251,
+      "dalzhina": 24.985203,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 173,
+      "ime": "Фатматски камък",
+      "shirina": 41.570796,
+      "dalzhina": 24.449155,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 174,
+      "ime": "Фисек",
+      "shirina": 43.325874,
+      "dalzhina": 26.754297,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 175,
+      "ime": "Хан Крумови Порти",
+      "shirina": 43.264001,
+      "dalzhina": 26.888391,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 176,
+      "ime": "Цари Мали Град",
+      "shirina": 42.354828,
+      "dalzhina": 23.382893,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 177,
+      "ime": "Царската почивка",
+      "shirina": 42.788257,
+      "dalzhina": 24.339544,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 178,
+      "ime": "Църквището",
+      "shirina": 42.862728,
+      "dalzhina": 22.649047,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 179,
+      "ime": "Червената скала",
+      "shirina": 41.595351,
+      "dalzhina": 24.661748,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 180,
+      "ime": "Червената скала",
+      "shirina": 41.935062,
+      "dalzhina": 24.378654,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 181,
+      "ime": "Чиракман",
+      "shirina": 43.412845,
+      "dalzhina": 28.349021,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 182,
+      "ime": "Чит Кая",
+      "shirina": 41.607502,
+      "dalzhina": 25.44375,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 183,
+      "ime": "Чудните скали",
+      "shirina": 42.966553,
+      "dalzhina": 27.292142,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 184,
+      "ime": "Чуката",
+      "shirina": 41.929286,
+      "dalzhina": 24.984259,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 185,
+      "ime": "Язовир Въча",
+      "shirina": 41.937451,
+      "dalzhina": 24.443484,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 186,
+      "ime": "Яка поста",
+      "shirina": 43.241056,
+      "dalzhina": 27.924434,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 187,
+      "ime": "вр.Кръстатото дърво 1012 м.н.в.",
+      "shirina": 42.71697,
+      "dalzhina": 23.066693,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 188,
+      "ime": "вр.Попадийна глава 978 м.н.в.",
+      "shirina": 42.708676,
+      "dalzhina": 23.059569,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 189,
+      "ime": "вр.Форта 1025 м.н.вв",
+      "shirina": 42.715189,
+      "dalzhina": 23.06145,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 190,
+      "ime": "гледка",
+      "shirina": 43.130576,
+      "dalzhina": 24.728404,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 191,
+      "ime": "катерачен обект Водохващане",
+      "shirina": 42.253722,
+      "dalzhina": 23.600318,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 192,
+      "ime": "начало на пътека за Орлово око",
+      "shirina": 41.636348,
+      "dalzhina": 24.342807,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 193,
+      "ime": "осиково",
+      "shirina": 41.903586,
+      "dalzhina": 24.48126,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 194,
+      "ime": "пътека надолу пирамидки",
+      "shirina": 42.117633,
+      "dalzhina": 23.461436,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 195,
+      "ime": "скала Каракая",
+      "shirina": 41.830682,
+      "dalzhina": 23.776851,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 196,
+      "ime": "скала Панорама",
+      "shirina": 42.669997,
+      "dalzhina": 23.124341,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 197,
+      "ime": "статуя Козел",
+      "shirina": 42.71207,
+      "dalzhina": 27.267571,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 198,
+      "ime": "статуя Орел",
+      "shirina": 42.702011,
+      "dalzhina": 27.263744,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    },
+    {
+      "id": 199,
+      "ime": "„Синия вир”",
+      "shirina": 42.857113,
+      "dalzhina": 26.547642,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "viewpoint",
+      "osm_klas": "tourism=viewpoint"
+    }
+  ],
+  "meta": {
+    "title": "Панорамни точки в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Панорамни точки в България — 199 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=viewpoint`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 199 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Панорамни точки в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Панорамни точки в България (OpenStreetMap) — 199 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 199 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

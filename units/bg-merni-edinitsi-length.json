@@ -1,0 +1,376 @@
+{
+  "id": "bg-merni-edinitsi-length",
+  "name": "Мерни единици: length (31)",
+  "title": "Мерни единици: length (31)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'length'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "kategoriya": "length",
+      "nazvanie": "астрономически единици",
+      "shablon_edinstveno": "{0} астрономическа единица",
+      "shablon_mnozhestveno": "{0} астрономически единици",
+      "kratak_shablon": "{0} AU",
+      "tesen_shablon": "{0} AU"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "kategoriya": "length",
+      "nazvanie": "сантиметри",
+      "shablon_edinstveno": "{0} сантиметър",
+      "shablon_mnozhestveno": "{0} сантиметра",
+      "kratak_shablon": "{0} cm",
+      "tesen_shablon": "{0} cm"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "kategoriya": "length",
+      "nazvanie": "chain",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} chain",
+      "kratak_shablon": "{0} chain",
+      "tesen_shablon": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "kategoriya": "length",
+      "nazvanie": "дециметри",
+      "shablon_edinstveno": "{0} дециметър",
+      "shablon_mnozhestveno": "{0} дециметра",
+      "kratak_shablon": "{0} dm",
+      "tesen_shablon": "{0} dm"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "kategoriya": "length",
+      "nazvanie": "земен радиус",
+      "shablon_edinstveno": "{0} земен радиус",
+      "shablon_mnozhestveno": "{0} земни радиуса",
+      "kratak_shablon": "{0} R⊕",
+      "tesen_shablon": "{0} R⊕"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "kategoriya": "length",
+      "nazvanie": "фатоми",
+      "shablon_edinstveno": "{0} фатом",
+      "shablon_mnozhestveno": "{0} фатома",
+      "kratak_shablon": "{0} fth",
+      "tesen_shablon": "{0} fth"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "kategoriya": "length",
+      "nazvanie": "футове",
+      "shablon_edinstveno": "{0} фут",
+      "shablon_mnozhestveno": "{0} фута",
+      "kratak_shablon": "{0} ft",
+      "tesen_shablon": "{0} ft"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "kategoriya": "length",
+      "nazvanie": "фърлонги",
+      "shablon_edinstveno": "{0} фърлонг",
+      "shablon_mnozhestveno": "{0} фърлонга",
+      "kratak_shablon": "{0} fur",
+      "tesen_shablon": "{0} fur"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "kategoriya": "length",
+      "nazvanie": "инчове",
+      "shablon_edinstveno": "{0} инч",
+      "shablon_mnozhestveno": "{0} инча",
+      "kratak_shablon": "{0} in",
+      "tesen_shablon": "{0}\""
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "kategoriya": "length",
+      "nazvanie": "jo [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} jo [JP]",
+      "kratak_shablon": "{0} jo [JP]",
+      "tesen_shablon": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "kategoriya": "length",
+      "nazvanie": "ken [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} ken [JP]",
+      "kratak_shablon": "{0} ken [JP]",
+      "tesen_shablon": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "kategoriya": "length",
+      "nazvanie": "километри",
+      "shablon_edinstveno": "{0} километър",
+      "shablon_mnozhestveno": "{0} километра",
+      "kratak_shablon": "{0} km",
+      "tesen_shablon": "{0} km"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "kategoriya": "length",
+      "nazvanie": "светлинни години",
+      "shablon_edinstveno": "{0} светлинна година",
+      "shablon_mnozhestveno": "{0} светлинни години",
+      "kratak_shablon": "{0} св.г.",
+      "tesen_shablon": "{0} св.г."
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "kategoriya": "length",
+      "nazvanie": "метри",
+      "shablon_edinstveno": "{0} метър",
+      "shablon_mnozhestveno": "{0} метра",
+      "kratak_shablon": "{0} m",
+      "tesen_shablon": "{0} m"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "kategoriya": "length",
+      "nazvanie": "микрометри",
+      "shablon_edinstveno": "{0} микрометър",
+      "shablon_mnozhestveno": "{0} микрометра",
+      "kratak_shablon": "{0} μm",
+      "tesen_shablon": "{0} μm"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "kategoriya": "length",
+      "nazvanie": "мили",
+      "shablon_edinstveno": "{0} миля",
+      "shablon_mnozhestveno": "{0} мили",
+      "kratak_shablon": "{0} mi",
+      "tesen_shablon": "{0} mi"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "kategoriya": "length",
+      "nazvanie": "шведска миля",
+      "shablon_edinstveno": "{0} шведска миля",
+      "shablon_mnozhestveno": "{0} шведски мили",
+      "kratak_shablon": "{0} smi",
+      "tesen_shablon": "{0} smi"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "kategoriya": "length",
+      "nazvanie": "милиметри",
+      "shablon_edinstveno": "{0} милиметър",
+      "shablon_mnozhestveno": "{0} милиметра",
+      "kratak_shablon": "{0} mm",
+      "tesen_shablon": "{0} mm"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "kategoriya": "length",
+      "nazvanie": "нанометри",
+      "shablon_edinstveno": "{0} нанометър",
+      "shablon_mnozhestveno": "{0} нанометра",
+      "kratak_shablon": "{0} nm",
+      "tesen_shablon": "{0} nm"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "kategoriya": "length",
+      "nazvanie": "морски мили",
+      "shablon_edinstveno": "{0} морска миля",
+      "shablon_mnozhestveno": "{0} морски мили",
+      "kratak_shablon": "{0} nmi",
+      "tesen_shablon": "{0} nmi"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "kategoriya": "length",
+      "nazvanie": "парсеци",
+      "shablon_edinstveno": "{0} парсек",
+      "shablon_mnozhestveno": "{0} парсека",
+      "kratak_shablon": "{0} pc",
+      "tesen_shablon": "{0} pc"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "kategoriya": "length",
+      "nazvanie": "пикометри",
+      "shablon_edinstveno": "{0} пикометър",
+      "shablon_mnozhestveno": "{0} пикометра",
+      "kratak_shablon": "{0} pm",
+      "tesen_shablon": "{0} pm"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "kategoriya": "length",
+      "nazvanie": "пунктове",
+      "shablon_edinstveno": "{0} пункт",
+      "shablon_mnozhestveno": "{0} пункта",
+      "kratak_shablon": "{0} pt",
+      "tesen_shablon": "{0} pt"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "kategoriya": "length",
+      "nazvanie": "ri [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} ri [JP]",
+      "kratak_shablon": "{0} ri [JP]",
+      "tesen_shablon": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "kategoriya": "length",
+      "nazvanie": "rin [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} rin [JP]",
+      "kratak_shablon": "{0} rin [JP]",
+      "tesen_shablon": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "kategoriya": "length",
+      "nazvanie": "rod",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} rod",
+      "kratak_shablon": "{0} rod",
+      "tesen_shablon": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "kategoriya": "length",
+      "nazvanie": "shaku [cloth, JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} shaku [cloth, JP]",
+      "kratak_shablon": "{0} shaku [cloth, JP]",
+      "tesen_shablon": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "kategoriya": "length",
+      "nazvanie": "shaku [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} shaku [JP]",
+      "kratak_shablon": "{0} shaku [JP]",
+      "tesen_shablon": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "kategoriya": "length",
+      "nazvanie": "слънчеви радиуси",
+      "shablon_edinstveno": "{0} слънчев радиус",
+      "shablon_mnozhestveno": "{0} слънчеви радиуси",
+      "kratak_shablon": "{0} R☉",
+      "tesen_shablon": "{0} R☉"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "kategoriya": "length",
+      "nazvanie": "sun [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} sun [JP]",
+      "kratak_shablon": "{0} sun [JP]",
+      "tesen_shablon": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "kategoriya": "length",
+      "nazvanie": "ярдове",
+      "shablon_edinstveno": "{0} ярд",
+      "shablon_mnozhestveno": "{0} ярда",
+      "kratak_shablon": "{0} yd",
+      "tesen_shablon": "{0} yd"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: length (31) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'length'. Съдържа 31 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: length (31) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: length (31) — 31 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 31 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

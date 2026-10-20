@@ -1,0 +1,2041 @@
+{
+  "id": "bg-osm-amenity-police",
+  "name": "Полицейски участъци в България (OpenStreetMap)",
+  "title": "Полицейски участъци в България (OpenStreetMap)",
+  "description": "Полицейски участъци в България — 220 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=police`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 220,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "02 РУП - IV Район",
+      "shirina": 42.580993,
+      "dalzhina": 23.167413,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 2,
+      "ime": "03 РУ-СДВР",
+      "shirina": 42.702931,
+      "dalzhina": 23.320006,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 3,
+      "ime": "04 РПУ Варна",
+      "shirina": 43.182524,
+      "dalzhina": 27.88966,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 4,
+      "ime": "1-во РПУ",
+      "shirina": 42.123117,
+      "dalzhina": 24.739218,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 5,
+      "ime": "1-во РПУ",
+      "shirina": 42.494636,
+      "dalzhina": 27.474232,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 6,
+      "ime": "1-во Районно полицейско управление",
+      "shirina": 42.67931,
+      "dalzhina": 23.358884,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 7,
+      "ime": "1во РПУ",
+      "shirina": 43.409964,
+      "dalzhina": 24.624376,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 8,
+      "ime": "2 РПУ",
+      "shirina": 42.426888,
+      "dalzhina": 25.601572,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 9,
+      "ime": "2 РПУ",
+      "shirina": 43.848787,
+      "dalzhina": 25.988985,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 10,
+      "ime": "2-ро РПУ",
+      "shirina": 42.145172,
+      "dalzhina": 24.730646,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 11,
+      "ime": "2-ро РПУ",
+      "shirina": 42.525779,
+      "dalzhina": 27.452267,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 12,
+      "ime": "2-ро районно управление на СДВР",
+      "shirina": 42.708211,
+      "dalzhina": 23.321187,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 13,
+      "ime": "3 РПУ",
+      "shirina": 42.158538,
+      "dalzhina": 24.743877,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 14,
+      "ime": "3-то РПУ",
+      "shirina": 43.234589,
+      "dalzhina": 27.869747,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 15,
+      "ime": "3-то Районно полицейско управление",
+      "shirina": 42.702752,
+      "dalzhina": 23.296334,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 16,
+      "ime": "4-то РПУ",
+      "shirina": 42.143696,
+      "dalzhina": 24.755346,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 17,
+      "ime": "4-то РПУ приемна",
+      "shirina": 42.674955,
+      "dalzhina": 23.306316,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 18,
+      "ime": "4-то Районно полицейско управление",
+      "shirina": 42.679622,
+      "dalzhina": 23.32603,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 19,
+      "ime": "5-то РПУ",
+      "shirina": 42.511255,
+      "dalzhina": 27.469825,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 20,
+      "ime": "5-то РПУ - Пловдив",
+      "shirina": 42.130827,
+      "dalzhina": 24.792986,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 21,
+      "ime": "5-то РПУ Варна",
+      "shirina": 43.288299,
+      "dalzhina": 28.03879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 22,
+      "ime": "5-то Районно полицейско управление",
+      "shirina": 42.695461,
+      "dalzhina": 23.340963,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 23,
+      "ime": "6-то Районно полицейско управление",
+      "shirina": 42.675029,
+      "dalzhina": 23.279772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 24,
+      "ime": "7-мо Районно полицейско управление",
+      "shirina": 42.634507,
+      "dalzhina": 23.367372,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 25,
+      "ime": "8-мо Районно полицейско управление",
+      "shirina": 42.665536,
+      "dalzhina": 23.399016,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 26,
+      "ime": "9-то Районно полицейско управление",
+      "shirina": 42.720566,
+      "dalzhina": 23.239405,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 27,
+      "ime": "Border Station Ormenio",
+      "shirina": 41.739284,
+      "dalzhina": 26.167878,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 28,
+      "ime": "I РУ МВР Варна",
+      "shirina": 43.206125,
+      "dalzhina": 27.904664,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 29,
+      "ime": "I-во РПУ",
+      "shirina": 43.840127,
+      "dalzhina": 25.952128,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 30,
+      "ime": "II РУ на МВР",
+      "shirina": 43.216287,
+      "dalzhina": 27.916014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 31,
+      "ime": "KAT Traffic Police",
+      "shirina": 41.626173,
+      "dalzhina": 25.368694,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 32,
+      "ime": "KAT Пътна полиция",
+      "shirina": 42.708841,
+      "dalzhina": 23.430579,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 33,
+      "ime": "Police (Kiten)",
+      "shirina": 42.235343,
+      "dalzhina": 27.774479,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 34,
+      "ime": "RPD Vidin",
+      "shirina": 43.993396,
+      "dalzhina": 22.874868,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 35,
+      "ime": "Автомобилна администрация",
+      "shirina": 42.470957,
+      "dalzhina": 26.536409,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 36,
+      "ime": "Арест \"Майор Георги Векилски\"",
+      "shirina": 42.708775,
+      "dalzhina": 23.302992,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 37,
+      "ime": "Борса - социални грижи",
+      "shirina": 41.644514,
+      "dalzhina": 24.159427,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 38,
+      "ime": "Български Документи за Самоличност",
+      "shirina": 42.707991,
+      "dalzhina": 23.320984,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 39,
+      "ime": "ВОЕННА ОХРАНА",
+      "shirina": 42.781523,
+      "dalzhina": 25.363393,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 40,
+      "ime": "Варненска дирекция Полиция -Заведение за отрезвяване",
+      "shirina": 43.221786,
+      "dalzhina": 27.888583,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 41,
+      "ime": "Военна полиция",
+      "shirina": 43.414828,
+      "dalzhina": 24.632441,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 42,
+      "ime": "Второ РПУ",
+      "shirina": 43.568931,
+      "dalzhina": 27.845668,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 43,
+      "ime": "Второ РУ Полиция",
+      "shirina": 42.413367,
+      "dalzhina": 25.592987,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 44,
+      "ime": "Второ Районно Полицейско Управление",
+      "shirina": 43.416658,
+      "dalzhina": 24.610637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 45,
+      "ime": "Въоръхена охрана",
+      "shirina": 42.785451,
+      "dalzhina": 25.360824,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 46,
+      "ime": "ГКПП Кайнарджа",
+      "shirina": 44.015016,
+      "dalzhina": 27.570151,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 47,
+      "ime": "ГКПП Станке Лисичково",
+      "shirina": 41.986609,
+      "dalzhina": 22.875813,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 48,
+      "ime": "ГПУ - Малко Търново",
+      "shirina": 41.976317,
+      "dalzhina": 27.52371,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 49,
+      "ime": "Главна Дирекция Национална Полиция",
+      "shirina": 42.633978,
+      "dalzhina": 23.367047,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 50,
+      "ime": "Граничен премин Деве Баир",
+      "shirina": 42.220432,
+      "dalzhina": 22.458881,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 51,
+      "ime": "Граничен премин Делчево",
+      "shirina": 41.987196,
+      "dalzhina": 22.873909,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 52,
+      "ime": "Гранична полиция",
+      "shirina": 41.473618,
+      "dalzhina": 25.655353,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 53,
+      "ime": "Гранична полиция",
+      "shirina": 41.647719,
+      "dalzhina": 24.159752,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 54,
+      "ime": "Гранична полиция",
+      "shirina": 41.768601,
+      "dalzhina": 26.199762,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 55,
+      "ime": "Гранична полиция",
+      "shirina": 42.659539,
+      "dalzhina": 27.740195,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 56,
+      "ime": "Гранична полиция Драгоман",
+      "shirina": 42.922048,
+      "dalzhina": 22.923701,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 57,
+      "ime": "Гранична полиция Свиленград",
+      "shirina": 41.757278,
+      "dalzhina": 26.164917,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 58,
+      "ime": "Гранични прелаз Градина",
+      "shirina": 42.998678,
+      "dalzhina": 22.831348,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 59,
+      "ime": "Гранично полицейско управление",
+      "shirina": 41.388954,
+      "dalzhina": 25.085983,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 60,
+      "ime": "ДАНС",
+      "shirina": 42.663538,
+      "dalzhina": 23.318059,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 61,
+      "ime": "Икономическа полиция",
+      "shirina": 42.158443,
+      "dalzhina": 24.743947,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 62,
+      "ime": "Индустриална зона",
+      "shirina": 41.595624,
+      "dalzhina": 24.173014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 63,
+      "ime": "Индустриална зона",
+      "shirina": 41.596186,
+      "dalzhina": 24.171308,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 64,
+      "ime": "Инспектор към 6то РПУ",
+      "shirina": 42.685998,
+      "dalzhina": 23.29746,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 65,
+      "ime": "КАНТОН",
+      "shirina": 43.720483,
+      "dalzhina": 26.47383,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 66,
+      "ime": "КАТ",
+      "shirina": 41.529647,
+      "dalzhina": 25.40587,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 67,
+      "ime": "КАТ",
+      "shirina": 43.568629,
+      "dalzhina": 27.845981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 68,
+      "ime": "КАТ",
+      "shirina": 43.853891,
+      "dalzhina": 26.002425,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 69,
+      "ime": "КАТ - Казанлък",
+      "shirina": 42.615275,
+      "dalzhina": 25.366822,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 70,
+      "ime": "КАТ - Пловдив",
+      "shirina": 42.16466,
+      "dalzhina": 24.719098,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 71,
+      "ime": "КАТ - Русе",
+      "shirina": 43.854275,
+      "dalzhina": 26.003888,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 72,
+      "ime": "КАТ - Стара Загора",
+      "shirina": 42.409211,
+      "dalzhina": 25.637538,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 73,
+      "ime": "КАТ - гр. Смолян",
+      "shirina": 41.568855,
+      "dalzhina": 24.743556,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 74,
+      "ime": "КАТ Бургас",
+      "shirina": 42.521156,
+      "dalzhina": 27.43681,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 75,
+      "ime": "КАТ Враца",
+      "shirina": 43.219102,
+      "dalzhina": 23.544041,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 76,
+      "ime": "КАТ Перник",
+      "shirina": 42.597329,
+      "dalzhina": 23.050723,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 77,
+      "ime": "КАТ Плевен",
+      "shirina": 43.441076,
+      "dalzhina": 24.598119,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 78,
+      "ime": "КАТ Хасково",
+      "shirina": 41.930896,
+      "dalzhina": 25.591993,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 79,
+      "ime": "КАТ и 2-ро РПУ",
+      "shirina": 42.003005,
+      "dalzhina": 23.093746,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 80,
+      "ime": "КАТ пътна полиция",
+      "shirina": 43.146512,
+      "dalzhina": 24.726875,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 81,
+      "ime": "КАТ-Габрово",
+      "shirina": 42.842411,
+      "dalzhina": 25.307253,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 82,
+      "ime": "МВР - Дирекция на Националната Полиция",
+      "shirina": 42.705386,
+      "dalzhina": 23.323184,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 83,
+      "ime": "МВР 01 РПУ-СДВР Полицейски участък \"Изгрев\"",
+      "shirina": 42.668097,
+      "dalzhina": 23.345314,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 84,
+      "ime": "МВР Ямбол",
+      "shirina": 42.485269,
+      "dalzhina": 26.511448,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 85,
+      "ime": "МВР дирекция \"Пробация\" Сливен",
+      "shirina": 42.683926,
+      "dalzhina": 26.314915,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 86,
+      "ime": "Мвр -Габрово",
+      "shirina": 42.876242,
+      "dalzhina": 25.320188,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 87,
+      "ime": "Национална служба Жандармерия",
+      "shirina": 43.184627,
+      "dalzhina": 27.872772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 88,
+      "ime": "ОД МВР",
+      "shirina": 43.846379,
+      "dalzhina": 25.959167,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 89,
+      "ime": "ОД МВР Сливен",
+      "shirina": 42.683058,
+      "dalzhina": 26.314176,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 90,
+      "ime": "ОД на МВР",
+      "shirina": 43.564721,
+      "dalzhina": 27.82689,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 91,
+      "ime": "ОД на МВР - Варна",
+      "shirina": 43.200653,
+      "dalzhina": 27.916546,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 92,
+      "ime": "ОД на МВР – Пазарджик",
+      "shirina": 42.19442,
+      "dalzhina": 24.335417,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 93,
+      "ime": "ОДМВР",
+      "shirina": 42.499401,
+      "dalzhina": 27.467646,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 94,
+      "ime": "ОДМВР-Благоевград",
+      "shirina": 42.017696,
+      "dalzhina": 23.093362,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 95,
+      "ime": "ОДП-МВР",
+      "shirina": 43.406224,
+      "dalzhina": 24.62082,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 96,
+      "ime": "Областна дирекция Полиция",
+      "shirina": 43.139012,
+      "dalzhina": 24.718772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 97,
+      "ime": "Общинска Полиция",
+      "shirina": 41.930835,
+      "dalzhina": 25.562224,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 98,
+      "ime": "Общинска полиция",
+      "shirina": 43.212255,
+      "dalzhina": 27.924377,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 99,
+      "ime": "Общинска полиция Пловдив",
+      "shirina": 42.140746,
+      "dalzhina": 24.749794,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 100,
+      "ime": "Окръжна Следствена Служба Варна",
+      "shirina": 43.218218,
+      "dalzhina": 27.899885,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 101,
+      "ime": "Офис на 6-то РПУ София",
+      "shirina": 42.664855,
+      "dalzhina": 23.269574,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 102,
+      "ime": "ПУ Кочериново",
+      "shirina": 42.085809,
+      "dalzhina": 23.057793,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 103,
+      "ime": "Паспортна Служба",
+      "shirina": 41.930212,
+      "dalzhina": 25.559635,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 104,
+      "ime": "Паспортна Служба",
+      "shirina": 42.494666,
+      "dalzhina": 27.474025,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 105,
+      "ime": "Погранична полиција Републике Србије",
+      "shirina": 42.998375,
+      "dalzhina": 22.822794,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 106,
+      "ime": "Полицейска лаборатория",
+      "shirina": 42.492447,
+      "dalzhina": 27.462895,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 107,
+      "ime": "Полицейски Участък Боровец",
+      "shirina": 42.265881,
+      "dalzhina": 23.607215,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 108,
+      "ime": "Полицейски участък",
+      "shirina": 41.614267,
+      "dalzhina": 25.005894,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 109,
+      "ime": "Полицейски участък",
+      "shirina": 42.592675,
+      "dalzhina": 25.209367,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 110,
+      "ime": "Полицейски участък",
+      "shirina": 44.024155,
+      "dalzhina": 27.021324,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 111,
+      "ime": "Полицейски участък \"Панчарево\"",
+      "shirina": 42.595972,
+      "dalzhina": 23.407908,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 112,
+      "ime": "Полицейски участък - Село Бенковски",
+      "shirina": 41.376602,
+      "dalzhina": 25.256447,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 113,
+      "ime": "Полицейски участък Балик",
+      "shirina": 43.574554,
+      "dalzhina": 27.850066,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 114,
+      "ime": "Полицейски участък Връбница",
+      "shirina": 42.736757,
+      "dalzhina": 23.29216,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 115,
+      "ime": "Полицейски участък Изгрев",
+      "shirina": 42.668124,
+      "dalzhina": 23.345319,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 116,
+      "ime": "Полицейски участък Красна поляна",
+      "shirina": 42.695659,
+      "dalzhina": 23.281127,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 117,
+      "ime": "Полицейски участък Лясковец",
+      "shirina": 43.105176,
+      "dalzhina": 25.715788,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 118,
+      "ime": "Полицейски участък Средец",
+      "shirina": 42.687071,
+      "dalzhina": 23.323095,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 119,
+      "ime": "Полицейский участок",
+      "shirina": 42.57202,
+      "dalzhina": 27.293831,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 120,
+      "ime": "Полицейско управление",
+      "shirina": 41.52301,
+      "dalzhina": 23.393058,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 121,
+      "ime": "Полицейско управление",
+      "shirina": 41.63283,
+      "dalzhina": 25.859268,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 122,
+      "ime": "Полицейско управление",
+      "shirina": 41.64594,
+      "dalzhina": 24.159975,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 123,
+      "ime": "Полицейско управление",
+      "shirina": 41.94301,
+      "dalzhina": 24.216715,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 124,
+      "ime": "Полицейско управление",
+      "shirina": 42.025263,
+      "dalzhina": 24.36829,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 125,
+      "ime": "Полицейско управление",
+      "shirina": 42.16977,
+      "dalzhina": 27.845571,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 126,
+      "ime": "Полицейско управление",
+      "shirina": 43.692357,
+      "dalzhina": 23.856229,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 127,
+      "ime": "Полицейско управлине",
+      "shirina": 42.274692,
+      "dalzhina": 24.541398,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 128,
+      "ime": "Полиция",
+      "shirina": 41.989931,
+      "dalzhina": 24.088753,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 129,
+      "ime": "Полиция",
+      "shirina": 43.228362,
+      "dalzhina": 25.964175,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 130,
+      "ime": "Полиция",
+      "shirina": 43.370964,
+      "dalzhina": 25.636962,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 131,
+      "ime": "Полиция",
+      "shirina": 43.426305,
+      "dalzhina": 23.75283,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 132,
+      "ime": "Полиция",
+      "shirina": 43.470321,
+      "dalzhina": 23.942162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 133,
+      "ime": "Полиция",
+      "shirina": 43.807026,
+      "dalzhina": 26.100262,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 134,
+      "ime": "Приморско",
+      "shirina": 42.266045,
+      "dalzhina": 27.758799,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 135,
+      "ime": "Първо РПУ",
+      "shirina": 42.426769,
+      "dalzhina": 25.632963,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 136,
+      "ime": "Първо РПУ",
+      "shirina": 43.56442,
+      "dalzhina": 27.82735,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 137,
+      "ime": "Първо РУ МВР",
+      "shirina": 43.409908,
+      "dalzhina": 24.624379,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 138,
+      "ime": "Пътна Полиция",
+      "shirina": 43.813469,
+      "dalzhina": 25.981421,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 139,
+      "ime": "Пътна полиция",
+      "shirina": 42.473272,
+      "dalzhina": 26.530976,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 140,
+      "ime": "Пътна полиция",
+      "shirina": 42.632303,
+      "dalzhina": 23.453162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 141,
+      "ime": "Пътна полиция - КАТ",
+      "shirina": 43.419723,
+      "dalzhina": 23.230028,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 142,
+      "ime": "РДВР",
+      "shirina": 43.203408,
+      "dalzhina": 23.551444,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 143,
+      "ime": "РДВР - София",
+      "shirina": 42.682496,
+      "dalzhina": 23.368781,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 144,
+      "ime": "РДВР Пловдив РОППССВ",
+      "shirina": 42.63171,
+      "dalzhina": 24.8156,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 145,
+      "ime": "РДВР СОД",
+      "shirina": 41.934801,
+      "dalzhina": 25.554305,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 146,
+      "ime": "РДВР-Габрово",
+      "shirina": 42.876189,
+      "dalzhina": 25.320687,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 147,
+      "ime": "РДВР-Дряново",
+      "shirina": 42.97402,
+      "dalzhina": 25.474038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 148,
+      "ime": "РПУ",
+      "shirina": 41.527621,
+      "dalzhina": 26.125703,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 149,
+      "ime": "РПУ",
+      "shirina": 41.530079,
+      "dalzhina": 25.406007,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 150,
+      "ime": "РПУ",
+      "shirina": 42.482284,
+      "dalzhina": 22.74911,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 151,
+      "ime": "РПУ",
+      "shirina": 42.499899,
+      "dalzhina": 26.525879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 152,
+      "ime": "РПУ",
+      "shirina": 42.667434,
+      "dalzhina": 23.600383,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 153,
+      "ime": "РПУ",
+      "shirina": 42.713121,
+      "dalzhina": 24.13897,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 154,
+      "ime": "РПУ",
+      "shirina": 42.909238,
+      "dalzhina": 23.786893,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 155,
+      "ime": "РПУ",
+      "shirina": 43.260345,
+      "dalzhina": 27.816534,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 156,
+      "ime": "РПУ",
+      "shirina": 43.53604,
+      "dalzhina": 28.530878,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 157,
+      "ime": "РПУ - гр. Елена",
+      "shirina": 42.930954,
+      "dalzhina": 25.881772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 158,
+      "ime": "РПУ - гр.Рудозем",
+      "shirina": 41.483026,
+      "dalzhina": 24.850759,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 159,
+      "ime": "РПУ Айтос",
+      "shirina": 42.704612,
+      "dalzhina": 27.255776,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 160,
+      "ime": "РПУ Асеновград",
+      "shirina": 42.007859,
+      "dalzhina": 24.876306,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 161,
+      "ime": "РПУ Балчик",
+      "shirina": 43.4081,
+      "dalzhina": 28.16183,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 162,
+      "ime": "РПУ Банско",
+      "shirina": 41.837682,
+      "dalzhina": 23.484559,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 163,
+      "ime": "РПУ Белослав и Аврен",
+      "shirina": 43.193362,
+      "dalzhina": 27.708766,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 164,
+      "ime": "РПУ Велинград",
+      "shirina": 42.024075,
+      "dalzhina": 23.994252,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 165,
+      "ime": "РПУ Враца",
+      "shirina": 43.203517,
+      "dalzhina": 23.547792,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 166,
+      "ime": "РПУ Вършец",
+      "shirina": 43.193234,
+      "dalzhina": 23.2892,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 167,
+      "ime": "РПУ Гълъбово",
+      "shirina": 42.13801,
+      "dalzhina": 25.866085,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 168,
+      "ime": "РПУ Златоград",
+      "shirina": 41.381264,
+      "dalzhina": 25.09278,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 169,
+      "ime": "РПУ Казанлък",
+      "shirina": 42.618567,
+      "dalzhina": 25.39659,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 170,
+      "ime": "РПУ Карлово",
+      "shirina": 42.641731,
+      "dalzhina": 24.808721,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 171,
+      "ime": "РПУ Козлодуй",
+      "shirina": 43.773112,
+      "dalzhina": 23.728881,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 172,
+      "ime": "РПУ Котел",
+      "shirina": 42.890436,
+      "dalzhina": 26.44547,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 173,
+      "ime": "РПУ Крумовград",
+      "shirina": 41.472591,
+      "dalzhina": 25.651546,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 174,
+      "ime": "РПУ Кубрат",
+      "shirina": 43.796909,
+      "dalzhina": 26.503131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 175,
+      "ime": "РПУ Нова Загора",
+      "shirina": 42.49079,
+      "dalzhina": 26.013649,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 176,
+      "ime": "РПУ Нови Пазар",
+      "shirina": 43.346905,
+      "dalzhina": 27.194775,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 177,
+      "ime": "РПУ Разлог",
+      "shirina": 41.88509,
+      "dalzhina": 23.471773,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 178,
+      "ime": "РПУ Самоков",
+      "shirina": 42.339657,
+      "dalzhina": 23.559199,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 179,
+      "ime": "РПУ Стамболийски",
+      "shirina": 42.134545,
+      "dalzhina": 24.534537,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 180,
+      "ime": "РПУ Стралджа",
+      "shirina": 42.593407,
+      "dalzhina": 26.690802,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 181,
+      "ime": "РПУ Сърница",
+      "shirina": 41.737581,
+      "dalzhina": 24.025035,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 182,
+      "ime": "РПУ Трявна",
+      "shirina": 42.867803,
+      "dalzhina": 25.491027,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 183,
+      "ime": "РПУ Тунджа",
+      "shirina": 42.481149,
+      "dalzhina": 26.503736,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 184,
+      "ime": "РПУ Търговище",
+      "shirina": 43.243139,
+      "dalzhina": 26.563471,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 185,
+      "ime": "РПУ Хасково",
+      "shirina": 41.930263,
+      "dalzhina": 25.560021,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 186,
+      "ime": "РПУ Хасково",
+      "shirina": 41.930282,
+      "dalzhina": 25.55927,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 187,
+      "ime": "РПУ Чирпан",
+      "shirina": 42.199308,
+      "dalzhina": 25.32337,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 188,
+      "ime": "РПУ на МВР",
+      "shirina": 42.288331,
+      "dalzhina": 25.934213,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 189,
+      "ime": "РПУ-Албена",
+      "shirina": 43.369148,
+      "dalzhina": 28.07426,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 190,
+      "ime": "РПУ-Ахтопол",
+      "shirina": 42.099451,
+      "dalzhina": 27.943476,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 191,
+      "ime": "РПУ-Ловеч",
+      "shirina": 43.136485,
+      "dalzhina": 24.716138,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 192,
+      "ime": "РУ Генерал Тошево",
+      "shirina": 43.699352,
+      "dalzhina": 28.034981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 193,
+      "ime": "РУ Пирдоп",
+      "shirina": 42.699675,
+      "dalzhina": 24.179388,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 194,
+      "ime": "РУ Приморско",
+      "shirina": 42.264361,
+      "dalzhina": 27.750264,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 195,
+      "ime": "РУ Транспортна полиция",
+      "shirina": 43.84682,
+      "dalzhina": 25.945068,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 196,
+      "ime": "РУ-Сандански",
+      "shirina": 41.560669,
+      "dalzhina": 23.27849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 197,
+      "ime": "РУП - Провадия",
+      "shirina": 43.179463,
+      "dalzhina": 27.444638,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 198,
+      "ime": "РУП Роман",
+      "shirina": 43.147188,
+      "dalzhina": 23.924747,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 199,
+      "ime": "Район Оборище",
+      "shirina": 42.701951,
+      "dalzhina": 23.337839,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 200,
+      "ime": "Районна дирекция на вътрешните работи",
+      "shirina": 42.427562,
+      "dalzhina": 25.631844,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 201,
+      "ime": "Районни инспектори - Райково",
+      "shirina": 41.567189,
+      "dalzhina": 24.738071,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 202,
+      "ime": "Районно полицейско управление",
+      "shirina": 42.054825,
+      "dalzhina": 25.595314,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 203,
+      "ime": "Районно полицейско управление",
+      "shirina": 43.826198,
+      "dalzhina": 27.140721,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 204,
+      "ime": "Районно управелние 04",
+      "shirina": 42.464327,
+      "dalzhina": 27.418053,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 205,
+      "ime": "Районно управление \"Полиция\"",
+      "shirina": 43.945001,
+      "dalzhina": 26.210779,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 206,
+      "ime": "Районно управление - Ябланица",
+      "shirina": 43.027408,
+      "dalzhina": 24.099081,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 207,
+      "ime": "Регионална дирекция \"Гранична полиция\" - Смолян",
+      "shirina": 41.57374,
+      "dalzhina": 24.71434,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 208,
+      "ime": "С. Бяла вода",
+      "shirina": 43.628976,
+      "dalzhina": 25.042778,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 209,
+      "ime": "СДВР - Дом за настаняване на малолетни и непълнолетни",
+      "shirina": 42.708725,
+      "dalzhina": 23.313956,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 210,
+      "ime": "СДВР - Заведение за отрезвяване",
+      "shirina": 42.664464,
+      "dalzhina": 23.264202,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 211,
+      "ime": "СДВР - КАТ",
+      "shirina": 42.667137,
+      "dalzhina": 23.358488,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 212,
+      "ime": "СДВР - Служба пресцентър и връзки с обществеността",
+      "shirina": 42.692204,
+      "dalzhina": 23.327839,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 213,
+      "ime": "Сектор \"Пътна полиция\"",
+      "shirina": 43.082855,
+      "dalzhina": 25.611778,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 214,
+      "ime": "Склад МВР",
+      "shirina": 42.71925,
+      "dalzhina": 23.291524,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 215,
+      "ime": "Специализирани полицейски сили",
+      "shirina": 42.635339,
+      "dalzhina": 23.42831,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 216,
+      "ime": "Столична дирекция на вътрешните работи",
+      "shirina": 42.697337,
+      "dalzhina": 23.312677,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 217,
+      "ime": "Тутракан",
+      "shirina": 44.049991,
+      "dalzhina": 26.608428,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 218,
+      "ime": "Участък Драгоман",
+      "shirina": 42.918087,
+      "dalzhina": 22.928473,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 219,
+      "ime": "Център за специализация и професионална подготовка",
+      "shirina": 42.203449,
+      "dalzhina": 24.334518,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    },
+    {
+      "id": 220,
+      "ime": "Център за специализация и професионална подготовка МВР",
+      "shirina": 42.716343,
+      "dalzhina": 23.499791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "police",
+      "osm_klas": "amenity=police"
+    }
+  ],
+  "meta": {
+    "title": "Полицейски участъци в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Полицейски участъци в България — 220 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=police`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 220 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Полицейски участъци в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Полицейски участъци в България (OpenStreetMap) — 220 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 220 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

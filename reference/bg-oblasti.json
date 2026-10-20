@@ -1,0 +1,280 @@
+{
+  "id": "bg-oblasti",
+  "name": "Български области",
+  "title": "Български области",
+  "description": "Administrative regions/states of BG with coordinates",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 4699,
+      "name": "Blagoevgrad",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.01110770",
+      "longitude": "23.09064570"
+    },
+    {
+      "id": 4715,
+      "name": "Burgas",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.49366160",
+      "longitude": "27.47212760"
+    },
+    {
+      "id": 4718,
+      "name": "Dobrich",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.57278600",
+      "longitude": "27.82728020"
+    },
+    {
+      "id": 4693,
+      "name": "Gabrovo",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.86847000",
+      "longitude": "25.31688900"
+    },
+    {
+      "id": 4704,
+      "name": "Haskovo",
+      "state_code": "",
+      "type": "district",
+      "latitude": "41.93441780",
+      "longitude": "25.55546720"
+    },
+    {
+      "id": 4702,
+      "name": "Kardzhali",
+      "state_code": "",
+      "type": "district",
+      "latitude": "41.64374600",
+      "longitude": "25.37221560"
+    },
+    {
+      "id": 4703,
+      "name": "Kyustendil",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.28687990",
+      "longitude": "22.69396350"
+    },
+    {
+      "id": 4710,
+      "name": "Lovech",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.13677980",
+      "longitude": "24.71393350"
+    },
+    {
+      "id": 4696,
+      "name": "Montana",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.40851480",
+      "longitude": "23.22575890"
+    },
+    {
+      "id": 4712,
+      "name": "Pazardzhik",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.19275670",
+      "longitude": "24.33362260"
+    },
+    {
+      "id": 4695,
+      "name": "Pernik",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.60519900",
+      "longitude": "23.03779160"
+    },
+    {
+      "id": 4706,
+      "name": "Pleven",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.40902200",
+      "longitude": "24.61801230"
+    },
+    {
+      "id": 4701,
+      "name": "Plovdiv",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.13540790",
+      "longitude": "24.74529040"
+    },
+    {
+      "id": 4698,
+      "name": "Razgrad",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.52717050",
+      "longitude": "26.52412280"
+    },
+    {
+      "id": 4713,
+      "name": "Ruse",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.83559640",
+      "longitude": "25.96561440"
+    },
+    {
+      "id": 4882,
+      "name": "Shumen",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.27123980",
+      "longitude": "26.93612860"
+    },
+    {
+      "id": 4708,
+      "name": "Silistra",
+      "state_code": "",
+      "type": "district",
+      "latitude": "44.11471010",
+      "longitude": "27.26714540"
+    },
+    {
+      "id": 4700,
+      "name": "Sliven",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.68167020",
+      "longitude": "26.32285690"
+    },
+    {
+      "id": 4694,
+      "name": "Smolyan",
+      "state_code": "",
+      "type": "district",
+      "latitude": "41.57741480",
+      "longitude": "24.70108710"
+    },
+    {
+      "id": 4719,
+      "name": "Sofia",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.64191000",
+      "longitude": "23.97356320"
+    },
+    {
+      "id": 4705,
+      "name": "Sofia City",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.65431800",
+      "longitude": "23.33315720"
+    },
+    {
+      "id": 4707,
+      "name": "Stara Zagora",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.42577090",
+      "longitude": "25.63448550"
+    },
+    {
+      "id": 4714,
+      "name": "Targovishte",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.24623490",
+      "longitude": "26.56912510"
+    },
+    {
+      "id": 4717,
+      "name": "Varna",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.20464770",
+      "longitude": "27.91054880"
+    },
+    {
+      "id": 4709,
+      "name": "Veliko Tarnovo",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.08205840",
+      "longitude": "25.63213120"
+    },
+    {
+      "id": 4697,
+      "name": "Vidin",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.98572420",
+      "longitude": "22.87721940"
+    },
+    {
+      "id": 4711,
+      "name": "Vratsa",
+      "state_code": "",
+      "type": "district",
+      "latitude": "43.21018060",
+      "longitude": "23.55292100"
+    },
+    {
+      "id": 4716,
+      "name": "Yambol",
+      "state_code": "",
+      "type": "district",
+      "latitude": "42.48414940",
+      "longitude": "26.50352960"
+    }
+  ],
+  "meta": {
+    "title": "Български области - Безплатно изтегляне",
+    "description": "Administrative regions/states of BG with coordinates Съдържа 28 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Български области | ListBase",
+    "seo_description": "Изтеглете Български области — 28 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 28 записа / 6 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

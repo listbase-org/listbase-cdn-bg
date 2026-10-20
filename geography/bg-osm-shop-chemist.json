@@ -1,0 +1,2590 @@
+{
+  "id": "bg-osm-shop-chemist",
+  "name": "Дрогерии в България (OpenStreetMap)",
+  "title": "Дрогерии в България (OpenStreetMap)",
+  "description": "Дрогерии в България — 281 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=chemist`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 281,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "BORN препарати",
+      "shirina": 43.209989,
+      "dalzhina": 27.911728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 2,
+      "ime": "Be fit",
+      "shirina": 42.658826,
+      "dalzhina": 23.378397,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 3,
+      "ime": "Biofresh",
+      "shirina": 42.145984,
+      "dalzhina": 24.748935,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 4,
+      "ime": "Born",
+      "shirina": 42.148352,
+      "dalzhina": 24.744978,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 5,
+      "ime": "Born",
+      "shirina": 42.685163,
+      "dalzhina": 23.316268,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 6,
+      "ime": "Born",
+      "shirina": 42.697623,
+      "dalzhina": 23.316724,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 7,
+      "ime": "Born",
+      "shirina": 43.207111,
+      "dalzhina": 27.921807,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 8,
+      "ime": "Born",
+      "shirina": 43.218561,
+      "dalzhina": 27.927988,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 9,
+      "ime": "Chistdom",
+      "shirina": 42.650627,
+      "dalzhina": 23.358639,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 10,
+      "ime": "Clean & Beauty",
+      "shirina": 42.687638,
+      "dalzhina": 23.329732,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 11,
+      "ime": "Ego",
+      "shirina": 43.421612,
+      "dalzhina": 24.596511,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 12,
+      "ime": "Eunoia",
+      "shirina": 43.225777,
+      "dalzhina": 27.886927,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 13,
+      "ime": "Health Zone",
+      "shirina": 42.42481,
+      "dalzhina": 25.616362,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 14,
+      "ime": "Ivis",
+      "shirina": 42.481813,
+      "dalzhina": 26.512934,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 15,
+      "ime": "JMAG.BG",
+      "shirina": 42.669885,
+      "dalzhina": 23.256165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 16,
+      "ime": "Jasmin",
+      "shirina": 42.664552,
+      "dalzhina": 23.266406,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 17,
+      "ime": "Kaylon Shop",
+      "shirina": 43.57078,
+      "dalzhina": 27.828937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 18,
+      "ime": "Lilly",
+      "shirina": 41.643431,
+      "dalzhina": 25.366597,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 19,
+      "ime": "Lilly",
+      "shirina": 41.881642,
+      "dalzhina": 23.471011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 20,
+      "ime": "Lilly",
+      "shirina": 41.932217,
+      "dalzhina": 25.55472,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 21,
+      "ime": "Lilly",
+      "shirina": 42.020071,
+      "dalzhina": 23.10057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 22,
+      "ime": "Lilly",
+      "shirina": 42.030907,
+      "dalzhina": 24.002994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 23,
+      "ime": "Lilly",
+      "shirina": 42.058592,
+      "dalzhina": 25.586255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 24,
+      "ime": "Lilly",
+      "shirina": 42.124527,
+      "dalzhina": 24.721104,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 25,
+      "ime": "Lilly",
+      "shirina": 42.127599,
+      "dalzhina": 24.720405,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 26,
+      "ime": "Lilly",
+      "shirina": 42.130724,
+      "dalzhina": 24.750052,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 27,
+      "ime": "Lilly",
+      "shirina": 42.133185,
+      "dalzhina": 24.795237,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 28,
+      "ime": "Lilly",
+      "shirina": 42.140977,
+      "dalzhina": 24.740849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 29,
+      "ime": "Lilly",
+      "shirina": 42.145381,
+      "dalzhina": 24.781983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 30,
+      "ime": "Lilly",
+      "shirina": 42.146766,
+      "dalzhina": 24.748217,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 31,
+      "ime": "Lilly",
+      "shirina": 42.150526,
+      "dalzhina": 24.744217,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 32,
+      "ime": "Lilly",
+      "shirina": 42.165659,
+      "dalzhina": 27.845222,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 33,
+      "ime": "Lilly",
+      "shirina": 42.191193,
+      "dalzhina": 24.332366,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 34,
+      "ime": "Lilly",
+      "shirina": 42.264144,
+      "dalzhina": 23.115653,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 35,
+      "ime": "Lilly",
+      "shirina": 42.279585,
+      "dalzhina": 22.691237,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 36,
+      "ime": "Lilly",
+      "shirina": 42.345428,
+      "dalzhina": 27.181431,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 37,
+      "ime": "Lilly",
+      "shirina": 42.423304,
+      "dalzhina": 25.62231,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 38,
+      "ime": "Lilly",
+      "shirina": 42.424705,
+      "dalzhina": 25.630195,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 39,
+      "ime": "Lilly",
+      "shirina": 42.481763,
+      "dalzhina": 26.513168,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 40,
+      "ime": "Lilly",
+      "shirina": 42.49308,
+      "dalzhina": 26.012622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 41,
+      "ime": "Lilly",
+      "shirina": 42.494514,
+      "dalzhina": 24.187757,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 42,
+      "ime": "Lilly",
+      "shirina": 42.49675,
+      "dalzhina": 27.470706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 43,
+      "ime": "Lilly",
+      "shirina": 42.512111,
+      "dalzhina": 27.455828,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 44,
+      "ime": "Lilly",
+      "shirina": 42.522617,
+      "dalzhina": 27.462302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 45,
+      "ime": "Lilly",
+      "shirina": 42.602451,
+      "dalzhina": 23.029947,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 46,
+      "ime": "Lilly",
+      "shirina": 42.607036,
+      "dalzhina": 23.056515,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 47,
+      "ime": "Lilly",
+      "shirina": 42.618588,
+      "dalzhina": 25.39403,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 48,
+      "ime": "Lilly",
+      "shirina": 42.619377,
+      "dalzhina": 25.392008,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 49,
+      "ime": "Lilly",
+      "shirina": 42.624098,
+      "dalzhina": 23.351905,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 50,
+      "ime": "Lilly",
+      "shirina": 42.635057,
+      "dalzhina": 23.375197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 51,
+      "ime": "Lilly",
+      "shirina": 42.642737,
+      "dalzhina": 23.380505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 52,
+      "ime": "Lilly",
+      "shirina": 42.643216,
+      "dalzhina": 24.788595,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 53,
+      "ime": "Lilly",
+      "shirina": 42.651998,
+      "dalzhina": 23.3423,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 54,
+      "ime": "Lilly",
+      "shirina": 42.653812,
+      "dalzhina": 23.345822,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 55,
+      "ime": "Lilly",
+      "shirina": 42.655407,
+      "dalzhina": 23.398721,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 56,
+      "ime": "Lilly",
+      "shirina": 42.657756,
+      "dalzhina": 23.315492,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 57,
+      "ime": "Lilly",
+      "shirina": 42.659207,
+      "dalzhina": 23.315876,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 58,
+      "ime": "Lilly",
+      "shirina": 42.66065,
+      "dalzhina": 23.38282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 59,
+      "ime": "Lilly",
+      "shirina": 42.663462,
+      "dalzhina": 23.344714,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 60,
+      "ime": "Lilly",
+      "shirina": 42.664836,
+      "dalzhina": 23.362673,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 61,
+      "ime": "Lilly",
+      "shirina": 42.665762,
+      "dalzhina": 23.289592,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 62,
+      "ime": "Lilly",
+      "shirina": 42.668103,
+      "dalzhina": 23.319524,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 63,
+      "ime": "Lilly",
+      "shirina": 42.668766,
+      "dalzhina": 23.278796,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 64,
+      "ime": "Lilly",
+      "shirina": 42.668862,
+      "dalzhina": 23.397549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 65,
+      "ime": "Lilly",
+      "shirina": 42.66957,
+      "dalzhina": 23.302902,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 66,
+      "ime": "Lilly",
+      "shirina": 42.670411,
+      "dalzhina": 23.314989,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 67,
+      "ime": "Lilly",
+      "shirina": 42.670722,
+      "dalzhina": 23.352705,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 68,
+      "ime": "Lilly",
+      "shirina": 42.671346,
+      "dalzhina": 23.259205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 69,
+      "ime": "Lilly",
+      "shirina": 42.671453,
+      "dalzhina": 23.295399,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 70,
+      "ime": "Lilly",
+      "shirina": 42.676188,
+      "dalzhina": 23.360203,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 71,
+      "ime": "Lilly",
+      "shirina": 42.677152,
+      "dalzhina": 23.309521,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 72,
+      "ime": "Lilly",
+      "shirina": 42.678729,
+      "dalzhina": 23.360648,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 73,
+      "ime": "Lilly",
+      "shirina": 42.678773,
+      "dalzhina": 23.320233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 74,
+      "ime": "Lilly",
+      "shirina": 42.680296,
+      "dalzhina": 23.372383,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 75,
+      "ime": "Lilly",
+      "shirina": 42.680919,
+      "dalzhina": 23.331935,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 76,
+      "ime": "Lilly",
+      "shirina": 42.685177,
+      "dalzhina": 23.303392,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 77,
+      "ime": "Lilly",
+      "shirina": 42.689088,
+      "dalzhina": 23.308027,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 78,
+      "ime": "Lilly",
+      "shirina": 42.691858,
+      "dalzhina": 23.325822,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 79,
+      "ime": "Lilly",
+      "shirina": 42.691996,
+      "dalzhina": 23.32015,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 80,
+      "ime": "Lilly",
+      "shirina": 42.693061,
+      "dalzhina": 23.323284,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 81,
+      "ime": "Lilly",
+      "shirina": 42.696542,
+      "dalzhina": 23.35163,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 82,
+      "ime": "Lilly",
+      "shirina": 42.698017,
+      "dalzhina": 23.319392,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 83,
+      "ime": "Lilly",
+      "shirina": 42.698861,
+      "dalzhina": 23.338862,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 84,
+      "ime": "Lilly",
+      "shirina": 42.699149,
+      "dalzhina": 23.325827,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 85,
+      "ime": "Lilly",
+      "shirina": 42.699913,
+      "dalzhina": 23.318261,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 86,
+      "ime": "Lilly",
+      "shirina": 42.701908,
+      "dalzhina": 23.301116,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 87,
+      "ime": "Lilly",
+      "shirina": 42.702545,
+      "dalzhina": 23.35944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 88,
+      "ime": "Lilly",
+      "shirina": 42.704532,
+      "dalzhina": 23.323407,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 89,
+      "ime": "Lilly",
+      "shirina": 42.706666,
+      "dalzhina": 23.285907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 90,
+      "ime": "Lilly",
+      "shirina": 42.709894,
+      "dalzhina": 23.454646,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 91,
+      "ime": "Lilly",
+      "shirina": 42.710898,
+      "dalzhina": 23.292939,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 92,
+      "ime": "Lilly",
+      "shirina": 42.712937,
+      "dalzhina": 23.270159,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 93,
+      "ime": "Lilly",
+      "shirina": 42.713621,
+      "dalzhina": 23.248488,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 94,
+      "ime": "Lilly",
+      "shirina": 42.718435,
+      "dalzhina": 23.246994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 95,
+      "ime": "Lilly",
+      "shirina": 42.725171,
+      "dalzhina": 23.255246,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 96,
+      "ime": "Lilly",
+      "shirina": 42.725629,
+      "dalzhina": 23.303727,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 97,
+      "ime": "Lilly",
+      "shirina": 42.73621,
+      "dalzhina": 23.30565,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 98,
+      "ime": "Lilly",
+      "shirina": 42.74232,
+      "dalzhina": 23.27806,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 99,
+      "ime": "Lilly",
+      "shirina": 42.871657,
+      "dalzhina": 25.319311,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 100,
+      "ime": "Lilly",
+      "shirina": 42.900385,
+      "dalzhina": 23.792184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 101,
+      "ime": "Lilly",
+      "shirina": 42.910877,
+      "dalzhina": 23.804957,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 102,
+      "ime": "Lilly",
+      "shirina": 43.079002,
+      "dalzhina": 25.599913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 103,
+      "ime": "Lilly",
+      "shirina": 43.079091,
+      "dalzhina": 25.627906,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 104,
+      "ime": "Lilly",
+      "shirina": 43.180281,
+      "dalzhina": 27.897757,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 105,
+      "ime": "Lilly",
+      "shirina": 43.203922,
+      "dalzhina": 27.913051,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 106,
+      "ime": "Lilly",
+      "shirina": 43.204722,
+      "dalzhina": 23.54986,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 107,
+      "ime": "Lilly",
+      "shirina": 43.204948,
+      "dalzhina": 27.919056,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 108,
+      "ime": "Lilly",
+      "shirina": 43.208403,
+      "dalzhina": 27.90967,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 109,
+      "ime": "Lilly",
+      "shirina": 43.209554,
+      "dalzhina": 27.902536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 110,
+      "ime": "Lilly",
+      "shirina": 43.212183,
+      "dalzhina": 27.923501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 111,
+      "ime": "Lilly",
+      "shirina": 43.22008,
+      "dalzhina": 27.889525,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 112,
+      "ime": "Lilly",
+      "shirina": 43.248716,
+      "dalzhina": 26.557841,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 113,
+      "ime": "Lilly",
+      "shirina": 43.25109,
+      "dalzhina": 26.571058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 114,
+      "ime": "Lilly",
+      "shirina": 43.27136,
+      "dalzhina": 26.932023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 115,
+      "ime": "Lilly",
+      "shirina": 43.28075,
+      "dalzhina": 26.927336,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 116,
+      "ime": "Lilly",
+      "shirina": 43.406468,
+      "dalzhina": 23.224972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 117,
+      "ime": "Lilly",
+      "shirina": 43.413495,
+      "dalzhina": 24.617197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 118,
+      "ime": "Lilly",
+      "shirina": 43.417793,
+      "dalzhina": 24.612786,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 119,
+      "ime": "Lilly",
+      "shirina": 43.569933,
+      "dalzhina": 27.828905,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 120,
+      "ime": "Lilly",
+      "shirina": 43.617188,
+      "dalzhina": 25.346912,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 121,
+      "ime": "Lilly",
+      "shirina": 43.849972,
+      "dalzhina": 25.954576,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 122,
+      "ime": "Lilly",
+      "shirina": 44.001598,
+      "dalzhina": 22.869751,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 123,
+      "ime": "Natura Trade",
+      "shirina": 42.667159,
+      "dalzhina": 23.267805,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 124,
+      "ime": "Paramed",
+      "shirina": 42.692792,
+      "dalzhina": 23.324282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 125,
+      "ime": "Refresh",
+      "shirina": 43.230722,
+      "dalzhina": 27.879058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 126,
+      "ime": "SOpharmacy",
+      "shirina": 42.906863,
+      "dalzhina": 23.791953,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 127,
+      "ime": "Sano",
+      "shirina": 42.696676,
+      "dalzhina": 23.350401,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 128,
+      "ime": "Sky drogerie market",
+      "shirina": 42.676317,
+      "dalzhina": 23.291699,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 129,
+      "ime": "Smart S Pharma",
+      "shirina": 42.430868,
+      "dalzhina": 25.641477,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 130,
+      "ime": "VLP",
+      "shirina": 42.700885,
+      "dalzhina": 23.293352,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 131,
+      "ime": "Vidima",
+      "shirina": 42.765234,
+      "dalzhina": 23.196505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 132,
+      "ime": "Vitalite drogerie",
+      "shirina": 42.651236,
+      "dalzhina": 23.359269,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 133,
+      "ime": "dm",
+      "shirina": 41.564405,
+      "dalzhina": 23.279552,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 134,
+      "ime": "dm",
+      "shirina": 41.571953,
+      "dalzhina": 24.716021,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 135,
+      "ime": "dm",
+      "shirina": 41.575619,
+      "dalzhina": 23.742509,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 136,
+      "ime": "dm",
+      "shirina": 41.638624,
+      "dalzhina": 25.369599,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 137,
+      "ime": "dm",
+      "shirina": 41.879087,
+      "dalzhina": 23.472711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 138,
+      "ime": "dm",
+      "shirina": 41.931461,
+      "dalzhina": 25.556932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 139,
+      "ime": "dm",
+      "shirina": 41.941114,
+      "dalzhina": 25.555793,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 140,
+      "ime": "dm",
+      "shirina": 41.97009,
+      "dalzhina": 25.559878,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 141,
+      "ime": "dm",
+      "shirina": 42.021513,
+      "dalzhina": 23.099279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 142,
+      "ime": "dm",
+      "shirina": 42.023347,
+      "dalzhina": 23.99483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 143,
+      "ime": "dm",
+      "shirina": 42.12225,
+      "dalzhina": 24.756257,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 144,
+      "ime": "dm",
+      "shirina": 42.122774,
+      "dalzhina": 24.741087,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 145,
+      "ime": "dm",
+      "shirina": 42.130094,
+      "dalzhina": 24.769575,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 146,
+      "ime": "dm",
+      "shirina": 42.141883,
+      "dalzhina": 24.754526,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 147,
+      "ime": "dm",
+      "shirina": 42.149067,
+      "dalzhina": 24.748034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 148,
+      "ime": "dm",
+      "shirina": 42.156945,
+      "dalzhina": 24.728703,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 149,
+      "ime": "dm",
+      "shirina": 42.157004,
+      "dalzhina": 24.743861,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 150,
+      "ime": "dm",
+      "shirina": 42.172633,
+      "dalzhina": 24.741488,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 151,
+      "ime": "dm",
+      "shirina": 42.182636,
+      "dalzhina": 24.345224,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 152,
+      "ime": "dm",
+      "shirina": 42.191968,
+      "dalzhina": 24.335671,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 153,
+      "ime": "dm",
+      "shirina": 42.267199,
+      "dalzhina": 23.113518,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 154,
+      "ime": "dm",
+      "shirina": 42.274189,
+      "dalzhina": 22.668816,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 155,
+      "ime": "dm",
+      "shirina": 42.425463,
+      "dalzhina": 25.634809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 156,
+      "ime": "dm",
+      "shirina": 42.458074,
+      "dalzhina": 27.415358,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 157,
+      "ime": "dm",
+      "shirina": 42.476918,
+      "dalzhina": 26.512338,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 158,
+      "ime": "dm",
+      "shirina": 42.498446,
+      "dalzhina": 27.46968,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 159,
+      "ime": "dm",
+      "shirina": 42.503384,
+      "dalzhina": 27.460196,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 160,
+      "ime": "dm",
+      "shirina": 42.504676,
+      "dalzhina": 27.473324,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 161,
+      "ime": "dm",
+      "shirina": 42.531158,
+      "dalzhina": 27.458124,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 162,
+      "ime": "dm",
+      "shirina": 42.565876,
+      "dalzhina": 27.621965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 163,
+      "ime": "dm",
+      "shirina": 42.602285,
+      "dalzhina": 23.050164,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 164,
+      "ime": "dm",
+      "shirina": 42.605344,
+      "dalzhina": 23.036832,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 165,
+      "ime": "dm",
+      "shirina": 42.6267,
+      "dalzhina": 23.37637,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 166,
+      "ime": "dm",
+      "shirina": 42.635862,
+      "dalzhina": 23.373868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 167,
+      "ime": "dm",
+      "shirina": 42.639693,
+      "dalzhina": 23.311253,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 168,
+      "ime": "dm",
+      "shirina": 42.642066,
+      "dalzhina": 23.336749,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 169,
+      "ime": "dm",
+      "shirina": 42.651952,
+      "dalzhina": 23.373262,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 170,
+      "ime": "dm",
+      "shirina": 42.652607,
+      "dalzhina": 27.671996,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 171,
+      "ime": "dm",
+      "shirina": 42.653791,
+      "dalzhina": 23.345519,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 172,
+      "ime": "dm",
+      "shirina": 42.655144,
+      "dalzhina": 23.399209,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 173,
+      "ime": "dm",
+      "shirina": 42.655886,
+      "dalzhina": 23.590774,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 174,
+      "ime": "dm",
+      "shirina": 42.658046,
+      "dalzhina": 23.314984,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 175,
+      "ime": "dm",
+      "shirina": 42.658952,
+      "dalzhina": 23.301281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 176,
+      "ime": "dm",
+      "shirina": 42.66046,
+      "dalzhina": 23.245065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 177,
+      "ime": "dm",
+      "shirina": 42.660894,
+      "dalzhina": 23.383188,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 178,
+      "ime": "dm",
+      "shirina": 42.664135,
+      "dalzhina": 23.288783,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 179,
+      "ime": "dm",
+      "shirina": 42.664619,
+      "dalzhina": 23.362142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 180,
+      "ime": "dm",
+      "shirina": 42.669272,
+      "dalzhina": 23.276391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 181,
+      "ime": "dm",
+      "shirina": 42.670042,
+      "dalzhina": 23.314121,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 182,
+      "ime": "dm",
+      "shirina": 42.671161,
+      "dalzhina": 23.351809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 183,
+      "ime": "dm",
+      "shirina": 42.675096,
+      "dalzhina": 23.358248,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 184,
+      "ime": "dm",
+      "shirina": 42.677218,
+      "dalzhina": 23.286758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 185,
+      "ime": "dm",
+      "shirina": 42.678391,
+      "dalzhina": 23.319868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 186,
+      "ime": "dm",
+      "shirina": 42.679446,
+      "dalzhina": 23.367728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 187,
+      "ime": "dm",
+      "shirina": 42.679794,
+      "dalzhina": 23.301644,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 188,
+      "ime": "dm",
+      "shirina": 42.682485,
+      "dalzhina": 26.340936,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 189,
+      "ime": "dm",
+      "shirina": 42.685889,
+      "dalzhina": 23.318028,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 190,
+      "ime": "dm",
+      "shirina": 42.686656,
+      "dalzhina": 23.255185,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 191,
+      "ime": "dm",
+      "shirina": 42.689984,
+      "dalzhina": 23.278928,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 192,
+      "ime": "dm",
+      "shirina": 42.691859,
+      "dalzhina": 23.337937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 193,
+      "ime": "dm",
+      "shirina": 42.69216,
+      "dalzhina": 23.323769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 194,
+      "ime": "dm",
+      "shirina": 42.693013,
+      "dalzhina": 23.334057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 195,
+      "ime": "dm",
+      "shirina": 42.694932,
+      "dalzhina": 23.315908,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 196,
+      "ime": "dm",
+      "shirina": 42.696185,
+      "dalzhina": 23.286559,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 197,
+      "ime": "dm",
+      "shirina": 42.698113,
+      "dalzhina": 23.330848,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 198,
+      "ime": "dm",
+      "shirina": 42.699324,
+      "dalzhina": 23.321263,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 199,
+      "ime": "dm",
+      "shirina": 42.702036,
+      "dalzhina": 23.354649,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 200,
+      "ime": "dm",
+      "shirina": 42.703475,
+      "dalzhina": 23.323181,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 201,
+      "ime": "dm",
+      "shirina": 42.703483,
+      "dalzhina": 24.163209,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 202,
+      "ime": "dm",
+      "shirina": 42.70944,
+      "dalzhina": 23.458392,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 203,
+      "ime": "dm",
+      "shirina": 42.714799,
+      "dalzhina": 23.254146,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 204,
+      "ime": "dm",
+      "shirina": 42.726452,
+      "dalzhina": 23.302941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 205,
+      "ime": "dm",
+      "shirina": 42.733979,
+      "dalzhina": 23.309741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 206,
+      "ime": "dm",
+      "shirina": 42.808984,
+      "dalzhina": 23.213346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 207,
+      "ime": "dm",
+      "shirina": 42.882751,
+      "dalzhina": 25.316384,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 208,
+      "ime": "dm",
+      "shirina": 42.892602,
+      "dalzhina": 24.715471,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 209,
+      "ime": "dm",
+      "shirina": 42.910611,
+      "dalzhina": 23.803144,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 210,
+      "ime": "dm",
+      "shirina": 43.072959,
+      "dalzhina": 25.615598,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 211,
+      "ime": "dm",
+      "shirina": 43.082996,
+      "dalzhina": 25.633198,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 212,
+      "ime": "dm",
+      "shirina": 43.132392,
+      "dalzhina": 25.68475,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 213,
+      "ime": "dm",
+      "shirina": 43.205333,
+      "dalzhina": 23.553958,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 214,
+      "ime": "dm",
+      "shirina": 43.207013,
+      "dalzhina": 27.917997,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 215,
+      "ime": "dm",
+      "shirina": 43.211714,
+      "dalzhina": 27.906165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 216,
+      "ime": "dm",
+      "shirina": 43.214332,
+      "dalzhina": 27.925907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 217,
+      "ime": "dm",
+      "shirina": 43.224159,
+      "dalzhina": 27.930501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 218,
+      "ime": "dm",
+      "shirina": 43.246651,
+      "dalzhina": 27.846795,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 219,
+      "ime": "dm",
+      "shirina": 43.274343,
+      "dalzhina": 26.944127,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 220,
+      "ime": "dm",
+      "shirina": 43.418479,
+      "dalzhina": 23.226837,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 221,
+      "ime": "dm",
+      "shirina": 43.419468,
+      "dalzhina": 24.612981,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 222,
+      "ime": "dm",
+      "shirina": 43.424092,
+      "dalzhina": 24.596316,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 223,
+      "ime": "dm",
+      "shirina": 43.569113,
+      "dalzhina": 27.830357,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 224,
+      "ime": "dm",
+      "shirina": 43.776374,
+      "dalzhina": 23.733197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 225,
+      "ime": "dm",
+      "shirina": 43.847365,
+      "dalzhina": 25.950491,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 226,
+      "ime": "dm",
+      "shirina": 43.850795,
+      "dalzhina": 25.955202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 227,
+      "ime": "dm",
+      "shirina": 44.120082,
+      "dalzhina": 27.26046,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 228,
+      "ime": "Авицена",
+      "shirina": 42.593818,
+      "dalzhina": 26.691913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 229,
+      "ime": "Авицена",
+      "shirina": 43.247721,
+      "dalzhina": 26.568278,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 230,
+      "ime": "Агро аптека",
+      "shirina": 42.685642,
+      "dalzhina": 25.316555,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 231,
+      "ime": "Адонис",
+      "shirina": 43.242513,
+      "dalzhina": 26.5612,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 232,
+      "ime": "Алба",
+      "shirina": 43.406896,
+      "dalzhina": 23.222846,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 233,
+      "ime": "Аптека Марешки",
+      "shirina": 42.055361,
+      "dalzhina": 25.595668,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 234,
+      "ime": "Аптечка",
+      "shirina": 41.990292,
+      "dalzhina": 24.69416,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 235,
+      "ime": "Афиа",
+      "shirina": 42.481902,
+      "dalzhina": 26.512575,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 236,
+      "ime": "Афиа",
+      "shirina": 42.65047,
+      "dalzhina": 26.984878,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 237,
+      "ime": "Блясък",
+      "shirina": 42.493079,
+      "dalzhina": 27.465432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 238,
+      "ime": "Блясък",
+      "shirina": 42.673237,
+      "dalzhina": 23.298625,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 239,
+      "ime": "Вита",
+      "shirina": 42.649874,
+      "dalzhina": 26.985065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 240,
+      "ime": "Вносно",
+      "shirina": 42.670575,
+      "dalzhina": 23.289477,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 241,
+      "ime": "Вносно",
+      "shirina": 42.673017,
+      "dalzhina": 23.285195,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 242,
+      "ime": "Гален",
+      "shirina": 42.653801,
+      "dalzhina": 23.346045,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 243,
+      "ime": "Дезин Хим",
+      "shirina": 42.14494,
+      "dalzhina": 24.765395,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 244,
+      "ime": "Десифарм",
+      "shirina": 42.919966,
+      "dalzhina": 24.256176,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 245,
+      "ime": "Дикрасин",
+      "shirina": 43.199252,
+      "dalzhina": 27.919728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 246,
+      "ime": "Дрогерия",
+      "shirina": 41.585469,
+      "dalzhina": 24.028436,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 247,
+      "ime": "Жасмин",
+      "shirina": 42.679569,
+      "dalzhina": 23.324359,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 248,
+      "ime": "Здраве",
+      "shirina": 43.407332,
+      "dalzhina": 23.225341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 249,
+      "ime": "Здравница",
+      "shirina": 42.700346,
+      "dalzhina": 23.304526,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 250,
+      "ime": "Зелени аптеки",
+      "shirina": 42.661327,
+      "dalzhina": 23.353462,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 251,
+      "ime": "Импулс",
+      "shirina": 43.416202,
+      "dalzhina": 24.626189,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 252,
+      "ime": "Космос",
+      "shirina": 42.736949,
+      "dalzhina": 23.269345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 253,
+      "ime": "Космос",
+      "shirina": 42.742498,
+      "dalzhina": 23.276879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 254,
+      "ime": "Кралица Чистница",
+      "shirina": 42.501814,
+      "dalzhina": 27.467072,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 255,
+      "ime": "Лекарна",
+      "shirina": 42.467875,
+      "dalzhina": 27.552829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 256,
+      "ime": "Малкият Corecom",
+      "shirina": 42.661213,
+      "dalzhina": 23.315765,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 257,
+      "ime": "Марешки",
+      "shirina": 43.412656,
+      "dalzhina": 23.222215,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 258,
+      "ime": "Медея",
+      "shirina": 42.701202,
+      "dalzhina": 23.359738,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 259,
+      "ime": "Медея",
+      "shirina": 43.408993,
+      "dalzhina": 24.61889,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 260,
+      "ime": "Нота Бене",
+      "shirina": 42.81023,
+      "dalzhina": 23.217251,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 261,
+      "ime": "Окси маркет",
+      "shirina": 42.666408,
+      "dalzhina": 23.296963,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 262,
+      "ime": "Перилни препарати",
+      "shirina": 42.496908,
+      "dalzhina": 27.474774,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 263,
+      "ime": "Перилни, козметика от Италия",
+      "shirina": 42.497445,
+      "dalzhina": 27.462567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 264,
+      "ime": "Под орехите",
+      "shirina": 42.665856,
+      "dalzhina": 23.265796,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 265,
+      "ime": "Промо маркет",
+      "shirina": 42.665309,
+      "dalzhina": 23.299208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 266,
+      "ime": "Прополис",
+      "shirina": 42.660179,
+      "dalzhina": 23.244732,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 267,
+      "ime": "Светлина",
+      "shirina": 42.676789,
+      "dalzhina": 23.284848,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 268,
+      "ime": "Солаков",
+      "shirina": 43.56848,
+      "dalzhina": 27.83125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 269,
+      "ime": "Феникс",
+      "shirina": 43.416106,
+      "dalzhina": 24.626377,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 270,
+      "ime": "Финес",
+      "shirina": 42.610808,
+      "dalzhina": 23.040114,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 271,
+      "ime": "Хлапе",
+      "shirina": 43.705613,
+      "dalzhina": 24.895228,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 272,
+      "ime": "Цаков",
+      "shirina": 42.918518,
+      "dalzhina": 24.264513,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 273,
+      "ime": "Цито",
+      "shirina": 43.411017,
+      "dalzhina": 24.617834,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 274,
+      "ime": "Чангалови",
+      "shirina": 43.421518,
+      "dalzhina": 24.594678,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 275,
+      "ime": "Чист дом",
+      "shirina": 42.68582,
+      "dalzhina": 23.36159,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 276,
+      "ime": "Чистичко",
+      "shirina": 42.49846,
+      "dalzhina": 27.465123,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 277,
+      "ime": "Чистофайници",
+      "shirina": 42.670169,
+      "dalzhina": 23.284143,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 278,
+      "ime": "Чистофайници",
+      "shirina": 42.677799,
+      "dalzhina": 23.292212,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 279,
+      "ime": "Як клийн",
+      "shirina": 42.665821,
+      "dalzhina": 23.272629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 280,
+      "ime": "Як клийн",
+      "shirina": 42.676269,
+      "dalzhina": 23.28419,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    },
+    {
+      "id": 281,
+      "ime": "буТик",
+      "shirina": 42.683841,
+      "dalzhina": 23.3269,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "chemist",
+      "osm_klas": "shop=chemist"
+    }
+  ],
+  "meta": {
+    "title": "Дрогерии в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Дрогерии в България — 281 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=chemist`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 281 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Дрогерии в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Дрогерии в България (OpenStreetMap) — 281 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 281 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

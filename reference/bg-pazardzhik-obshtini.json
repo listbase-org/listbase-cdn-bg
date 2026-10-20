@@ -1,0 +1,305 @@
+{
+  "id": "bg-pazardzhik-obshtini",
+  "name": "Общини — област Пазарджик (Municipalities of Pazardzhik)",
+  "title": "Общини — област Пазарджик (Municipalities of Pazardzhik)",
+  "description": "Списък на общините в област Пазарджик (Pazardzhik oblast). 12 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс PAZ. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 231,
+      "gisco_id": "BG_PAZ03",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Батак",
+      "name_en": "",
+      "slug": "batak",
+      "population_2024": 4678,
+      "population_density_2024_per_km2": 6.90300216,
+      "area_km2": 677.67616042,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.batak.bg/doc/2019/obsbatak/predlojenia%20za%20reshenia/plan_bedstvia.pdf",
+      "comment": ""
+    },
+    {
+      "id": 232,
+      "gisco_id": "BG_PAZ04",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Белово",
+      "name_en": "Belovo",
+      "slug": "belovo",
+      "population_2024": 7025,
+      "population_density_2024_per_km2": 20.28184736,
+      "area_km2": 346.36884274,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "http://belovo.eu/docs/articles/2184/plan-za-zashtita-pri-bedstviq-na-obshtina-belovo.zip",
+      "comment": "Page not found"
+    },
+    {
+      "id": 233,
+      "gisco_id": "BG_PAZ06",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Брацигово",
+      "name_en": "",
+      "slug": "bracigovo",
+      "population_2024": 7215,
+      "population_density_2024_per_km2": 31.44538306,
+      "area_km2": 229.44544786,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://bratsigovo.egov.bg/wps/portal/municipality-bratsigovo/municipality/disaster.accident.protect",
+      "comment": ""
+    },
+    {
+      "id": 234,
+      "gisco_id": "BG_PAZ08",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Велинград",
+      "name_en": "",
+      "slug": "velingrad",
+      "population_2024": 32362,
+      "population_density_2024_per_km2": 53.5275532,
+      "area_km2": 604.58582661,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://m.velingrad.bg/?p=10409",
+      "comment": ""
+    },
+    {
+      "id": 235,
+      "gisco_id": "BG_PAZ14",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Лесичово",
+      "name_en": "",
+      "slug": "lesichovo",
+      "population_2024": 4731,
+      "population_density_2024_per_km2": 22.5980413,
+      "area_km2": 209.35442759,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://pz.government.bg/documents/%D0%9E%D0%91%D0%A9%D0%98%D0%9D%D0%A1%D0%9A%D0%98%20%D0%9F%D0%A0%D",
+      "comment": ""
+    },
+    {
+      "id": 236,
+      "gisco_id": "BG_PAZ19",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Пазарджик",
+      "name_en": "",
+      "slug": "pazardzhik",
+      "population_2024": 89507,
+      "population_density_2024_per_km2": 140.54884056,
+      "area_km2": 636.83912042,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://pazardzhik.bg/bg/novini/proekt-na-programa-za-namalyavane-na-riska-ot-bedstviya-na-obshtina-",
+      "comment": "No other official document available"
+    },
+    {
+      "id": 247,
+      "gisco_id": "BG_PAZ20",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Панагюрище",
+      "name_en": "",
+      "slug": "panagyurishte",
+      "population_2024": 21200,
+      "population_density_2024_per_km2": 35.39783153,
+      "area_km2": 598.90674328,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.panagyurishte.org/index.php?option=com_content&view=article&id=2451&Itemid=111",
+      "comment": ""
+    },
+    {
+      "id": 248,
+      "gisco_id": "BG_PAZ21",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Пещера",
+      "name_en": "",
+      "slug": "peshtera",
+      "population_2024": 14440,
+      "population_density_2024_per_km2": 106.70671028,
+      "area_km2": 135.32419809,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://pz.government.bg/documents/%D0%9E%D0%91%D0%A9%D0%98%D0%9D%D0%A1%D0%9A%D0%98%20%D0%9F%D0%A0%D",
+      "comment": ""
+    },
+    {
+      "id": 249,
+      "gisco_id": "BG_PAZ24",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Ракитово",
+      "name_en": "",
+      "slug": "rakitovo",
+      "population_2024": 14033,
+      "population_density_2024_per_km2": 57.10139927,
+      "area_km2": 245.75579897,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://pz.government.bg/documents/%D0%9E%D0%91%D0%A9%D0%98%D0%9D%D0%A1%D0%9A%D0%98%20%D0%9F%D0%A0%D",
+      "comment": ""
+    },
+    {
+      "id": 250,
+      "gisco_id": "BG_PAZ29",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Септември",
+      "name_en": "",
+      "slug": "septemvri",
+      "population_2024": 21135,
+      "population_density_2024_per_km2": 60.48873558,
+      "area_km2": 349.40389808,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://obs.septemvri.org/index.php/component/content/article/24-aktualno/352-proekt-na-obshtinska-p",
+      "comment": ""
+    },
+    {
+      "id": 251,
+      "gisco_id": "BG_PAZ32",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Стрелча",
+      "name_en": "",
+      "slug": "strelcha",
+      "population_2024": 4236,
+      "population_density_2024_per_km2": 18.88587124,
+      "area_km2": 224.29465634,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://strelcha.bg/2022/documenti22/programa_namal_risk_bedst2022.pdf",
+      "comment": ""
+    },
+    {
+      "id": 252,
+      "gisco_id": "BG_PAZ39",
+      "oblast_code": "PAZ",
+      "oblast_slug": "pazardzhik",
+      "oblast_bg": "Пазарджик",
+      "oblast_en": "Pazardzhik",
+      "name_bg": "Сърница",
+      "name_en": "",
+      "slug": "sarnica",
+      "population_2024": 4699,
+      "population_density_2024_per_km2": 23.74580954,
+      "area_km2": 197.88754691,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.sarnitsa.bg/images/planove/Plan_za_zashtita_pri_bedstviq_05.09.2019.pdf",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Пазарджик (Municipalities of Pazardzhik) - Безплатно изтегляне",
+    "description": "Списък на общините в област Пазарджик (Pazardzhik oblast). 12 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс PAZ. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 12 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Пазарджик (Municipalities of Pazardzhik) | ListBase",
+    "seo_description": "Изтеглете Общини — област Пазарджик (Municipalities of Pazardzhik) — 12 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 12 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

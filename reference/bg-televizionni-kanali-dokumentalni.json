@@ -1,0 +1,241 @@
+{
+  "id": "bg-televizionni-kanali-dokumentalni",
+  "name": "Български телевизионни канали — документални",
+  "title": "Български телевизионни канали — документални",
+  "description": "Български телевизионни канали в категория 'documentary' (документални) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "CrimePlusInvestigation.bg",
+      "name": "Crime + Investigation",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "2006-07-10",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.historytv.eu/bg/crime-investigation-bg"
+    },
+    {
+      "id": 2,
+      "channel_id": "H2.bg",
+      "name": "H2",
+      "alt_names": "History 2",
+      "network": "",
+      "owners": "A&E Networks EMEA",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.historytv.eu/bg/h2-bg"
+    },
+    {
+      "id": 3,
+      "channel_id": "History.bg",
+      "name": "History",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.historytv.eu/bg/history-bg"
+    },
+    {
+      "id": 4,
+      "channel_id": "ID.bg",
+      "name": "ID",
+      "alt_names": "ID България, Investigation Discovery Bulgaria",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.wbd.com/"
+    },
+    {
+      "id": 5,
+      "channel_id": "NationalGeographic.bg",
+      "name": "National Geographic",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.natgeotv.com/bg"
+    },
+    {
+      "id": 6,
+      "channel_id": "NationalGeographicWild.bg",
+      "name": "National Geographic Wild",
+      "alt_names": "",
+      "network": "",
+      "owners": "National Geographic Society",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://natgeotv.com/bg/wild"
+    },
+    {
+      "id": 7,
+      "channel_id": "TheWorld.bg",
+      "name": "The World",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://theworld.bg/"
+    },
+    {
+      "id": 8,
+      "channel_id": "ViasatExplore.bg",
+      "name": "Viasat Explore",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://viasatexplore.bg/"
+    },
+    {
+      "id": 9,
+      "channel_id": "ViasatHistory.bg",
+      "name": "Viasat History",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://viasathistory.bg/"
+    },
+    {
+      "id": 10,
+      "channel_id": "ViasatNature.bg",
+      "name": "Viasat Nature",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "documentary",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://viasatnature.bg/"
+    }
+  ],
+  "meta": {
+    "title": "Български телевизионни канали — документални - Безплатно изтегляне",
+    "description": "Български телевизионни канали в категория 'documentary' (документални) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт. Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Български телевизионни канали — документални | ListBase",
+    "seo_description": "Изтеглете Български телевизионни канали — документални — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 13 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

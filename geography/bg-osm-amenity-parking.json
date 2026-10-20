@@ -1,0 +1,2572 @@
+{
+  "id": "bg-osm-amenity-parking",
+  "name": "Именувани паркинги в България (OpenStreetMap)",
+  "title": "Именувани паркинги в България (OpenStreetMap)",
+  "description": "Именувани паркинги в България — 279 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=parking`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 279,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Най-високият\" паркинг в България",
+      "shirina": 42.182089,
+      "dalzhina": 23.257919,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 2,
+      "ime": "Administration Car Park",
+      "shirina": 43.417531,
+      "dalzhina": 28.286356,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 3,
+      "ime": "Aeroport T1 Sofia",
+      "shirina": 42.688645,
+      "dalzhina": 23.402244,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 4,
+      "ime": "Arpezos",
+      "shirina": 41.636448,
+      "dalzhina": 25.368076,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 5,
+      "ime": "Atanas Dafovski",
+      "shirina": 41.646718,
+      "dalzhina": 25.37465,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 6,
+      "ime": "Beli Iskar Nature Trail",
+      "shirina": 42.243467,
+      "dalzhina": 23.541017,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 7,
+      "ime": "Bendida Car Parking",
+      "shirina": 43.417996,
+      "dalzhina": 28.291952,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 8,
+      "ime": "Billa",
+      "shirina": 43.615506,
+      "dalzhina": 25.351698,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 9,
+      "ime": "Bul Petroleum",
+      "shirina": 42.402256,
+      "dalzhina": 26.551642,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 10,
+      "ime": "Bulltek",
+      "shirina": 42.115984,
+      "dalzhina": 24.784678,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 11,
+      "ime": "CBA",
+      "shirina": 43.217844,
+      "dalzhina": 27.93632,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 12,
+      "ime": "DUNE Hotel Car Parking",
+      "shirina": 42.696939,
+      "dalzhina": 27.716222,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 13,
+      "ime": "Free Parking for Drifting",
+      "shirina": 42.132078,
+      "dalzhina": 24.799796,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 14,
+      "ime": "Hamzabeyli Tır Parkı",
+      "shirina": 41.956779,
+      "dalzhina": 26.621693,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 15,
+      "ime": "Hanay",
+      "shirina": 41.637787,
+      "dalzhina": 25.3525,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 16,
+      "ime": "Hillside Car Parking",
+      "shirina": 43.415134,
+      "dalzhina": 28.280293,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 17,
+      "ime": "Hotel Adria",
+      "shirina": 42.707381,
+      "dalzhina": 23.321444,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 18,
+      "ime": "Hotel Kardzhali",
+      "shirina": 41.632588,
+      "dalzhina": 25.378505,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 19,
+      "ime": "Hotel Vega Parking",
+      "shirina": 43.849978,
+      "dalzhina": 25.954014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 20,
+      "ime": "I База",
+      "shirina": 42.740432,
+      "dalzhina": 23.314618,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 21,
+      "ime": "III База",
+      "shirina": 42.742587,
+      "dalzhina": 23.309577,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 22,
+      "ime": "Kaufland",
+      "shirina": 43.222086,
+      "dalzhina": 27.940338,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 23,
+      "ime": "Kaufland & Lidl",
+      "shirina": 42.121859,
+      "dalzhina": 24.740456,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 24,
+      "ime": "Ledenika",
+      "shirina": 43.204345,
+      "dalzhina": 23.490203,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 25,
+      "ime": "Mall of Sofia Parking",
+      "shirina": 42.697969,
+      "dalzhina": 23.30827,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 26,
+      "ime": "Marina 5",
+      "shirina": 43.412829,
+      "dalzhina": 28.281958,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 27,
+      "ime": "Marina 5 Car Parking",
+      "shirina": 43.41284,
+      "dalzhina": 28.281955,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 28,
+      "ime": "Marina 7",
+      "shirina": 43.413423,
+      "dalzhina": 28.280811,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 29,
+      "ime": "MotoPfoe",
+      "shirina": 42.728089,
+      "dalzhina": 23.261124,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 30,
+      "ime": "Olea",
+      "shirina": 43.226639,
+      "dalzhina": 27.953445,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 31,
+      "ime": "Oбществен паркинг ул.''Гурко\"",
+      "shirina": 42.5005,
+      "dalzhina": 27.475919,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 32,
+      "ime": "P2",
+      "shirina": 42.687986,
+      "dalzhina": 23.415372,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 33,
+      "ime": "P3",
+      "shirina": 42.686482,
+      "dalzhina": 23.412666,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 34,
+      "ime": "P4",
+      "shirina": 42.685924,
+      "dalzhina": 23.414562,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 35,
+      "ime": "P5",
+      "shirina": 42.687609,
+      "dalzhina": 23.414212,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 36,
+      "ime": "P8",
+      "shirina": 42.688056,
+      "dalzhina": 23.41309,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 37,
+      "ime": "PARKING CENTRAL",
+      "shirina": 42.698357,
+      "dalzhina": 23.319082,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 38,
+      "ime": "Paid parking",
+      "shirina": 42.701692,
+      "dalzhina": 27.717043,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 39,
+      "ime": "Park & Fly",
+      "shirina": 42.689298,
+      "dalzhina": 23.390113,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 40,
+      "ime": "Parking Airport Sofia",
+      "shirina": 42.685185,
+      "dalzhina": 23.404102,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 41,
+      "ime": "Parking BILLA",
+      "shirina": 43.848926,
+      "dalzhina": 25.95548,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 42,
+      "ime": "Parking Zone",
+      "shirina": 42.200471,
+      "dalzhina": 27.816029,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 43,
+      "ime": "Parking for Airsoft Sofia Field",
+      "shirina": 42.706251,
+      "dalzhina": 23.459448,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 44,
+      "ime": "Perperikon",
+      "shirina": 41.63723,
+      "dalzhina": 25.368561,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 45,
+      "ime": "Police",
+      "shirina": 41.837423,
+      "dalzhina": 23.484294,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 46,
+      "ime": "Rezidentsia",
+      "shirina": 41.661384,
+      "dalzhina": 25.373997,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 47,
+      "ime": "T Market",
+      "shirina": 43.613173,
+      "dalzhina": 25.346611,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 48,
+      "ime": "TIR",
+      "shirina": 42.666609,
+      "dalzhina": 23.454048,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 49,
+      "ime": "TIR",
+      "shirina": 42.909648,
+      "dalzhina": 25.375127,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 50,
+      "ime": "TIR",
+      "shirina": 43.002184,
+      "dalzhina": 22.820893,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 51,
+      "ime": "TIR",
+      "shirina": 43.250833,
+      "dalzhina": 26.55318,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 52,
+      "ime": "TIR Parking",
+      "shirina": 41.963731,
+      "dalzhina": 26.594457,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 53,
+      "ime": "TIR Parking",
+      "shirina": 42.045898,
+      "dalzhina": 23.049876,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 54,
+      "ime": "TIR Parking",
+      "shirina": 42.221034,
+      "dalzhina": 24.817634,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 55,
+      "ime": "TIR Parking",
+      "shirina": 42.272339,
+      "dalzhina": 24.288108,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 56,
+      "ime": "TIR Parking ГТ Воден транспорт /бивше Фанти Г/ на път I-1",
+      "shirina": 43.931853,
+      "dalzhina": 22.838439,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 57,
+      "ime": "TIR Parking Дилижанс ДЖИ ЕЛ",
+      "shirina": 44.009069,
+      "dalzhina": 22.896025,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 58,
+      "ime": "TIR Parking Домостроене",
+      "shirina": 43.874063,
+      "dalzhina": 26.014129,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 59,
+      "ime": "TIR Parking Индустриален парк",
+      "shirina": 43.879442,
+      "dalzhina": 26.024094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 60,
+      "ime": "TIR Parking Исикли парк",
+      "shirina": 42.336697,
+      "dalzhina": 24.080305,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 61,
+      "ime": "TIR Parking Калугерско ханче",
+      "shirina": 42.312257,
+      "dalzhina": 24.166404,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 62,
+      "ime": "TIR Parking Мерита",
+      "shirina": 42.211691,
+      "dalzhina": 24.803747,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 63,
+      "ime": "TIR Parking Найденов-ойл",
+      "shirina": 43.470611,
+      "dalzhina": 25.68907,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 64,
+      "ime": "TIR Parking Снек-бар Волово",
+      "shirina": 43.530207,
+      "dalzhina": 25.797822,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 65,
+      "ime": "TIR Parking Съни",
+      "shirina": 44.003485,
+      "dalzhina": 22.850136,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 66,
+      "ime": "TIR Parking ТИВА КОМ",
+      "shirina": 43.878661,
+      "dalzhina": 26.020931,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 67,
+      "ime": "TIR Parking ТИП 2",
+      "shirina": 44.012745,
+      "dalzhina": 22.8978,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 68,
+      "ime": "TIR Parking Теди -сим",
+      "shirina": 42.297859,
+      "dalzhina": 22.680363,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 69,
+      "ime": "TIR parking",
+      "shirina": 41.921589,
+      "dalzhina": 25.584117,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 70,
+      "ime": "TIR parking",
+      "shirina": 41.942029,
+      "dalzhina": 25.607556,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 71,
+      "ime": "TIR parking",
+      "shirina": 42.197649,
+      "dalzhina": 24.634772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 72,
+      "ime": "TIR parking",
+      "shirina": 42.199216,
+      "dalzhina": 24.637031,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 73,
+      "ime": "TIR parking",
+      "shirina": 42.462693,
+      "dalzhina": 26.067161,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 74,
+      "ime": "TIR parking",
+      "shirina": 42.630208,
+      "dalzhina": 23.465931,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 75,
+      "ime": "TIR parking",
+      "shirina": 43.037897,
+      "dalzhina": 24.278119,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 76,
+      "ime": "TIR parking",
+      "shirina": 43.097937,
+      "dalzhina": 24.152333,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 77,
+      "ime": "TIR Куцина",
+      "shirina": 43.266689,
+      "dalzhina": 25.642129,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 78,
+      "ime": "TIR Паркинг",
+      "shirina": 42.913191,
+      "dalzhina": 22.942936,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 79,
+      "ime": "TIR паркинг",
+      "shirina": 42.716545,
+      "dalzhina": 25.71675,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 80,
+      "ime": "TIR паркинг",
+      "shirina": 43.548681,
+      "dalzhina": 27.826247,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 81,
+      "ime": "TIR паркинг",
+      "shirina": 43.640964,
+      "dalzhina": 25.873366,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 82,
+      "ime": "TRIA",
+      "shirina": 42.496315,
+      "dalzhina": 27.470482,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 83,
+      "ime": "TV-Compound",
+      "shirina": 42.684152,
+      "dalzhina": 23.337779,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 84,
+      "ime": "Truck Parking",
+      "shirina": 43.640922,
+      "dalzhina": 26.483225,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 85,
+      "ime": "Truck parking",
+      "shirina": 42.751456,
+      "dalzhina": 23.500634,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 86,
+      "ime": "University parking",
+      "shirina": 42.133774,
+      "dalzhina": 24.766162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 87,
+      "ime": "Vasmar",
+      "shirina": 41.632273,
+      "dalzhina": 25.378369,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 88,
+      "ime": "parking Пещера Проходна",
+      "shirina": 43.175339,
+      "dalzhina": 24.075772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 89,
+      "ime": "АВТОКЪЩА: AUTO MALL CENTER",
+      "shirina": 43.854187,
+      "dalzhina": 26.000563,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 90,
+      "ime": "Автобусен паркинг",
+      "shirina": 41.475113,
+      "dalzhina": 25.651599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 91,
+      "ime": "Автобусен паркинг",
+      "shirina": 42.419319,
+      "dalzhina": 25.631914,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 92,
+      "ime": "Автобусен паркинг",
+      "shirina": 42.504323,
+      "dalzhina": 24.700512,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 93,
+      "ime": "Автобусно депо",
+      "shirina": 42.412715,
+      "dalzhina": 25.595351,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 94,
+      "ime": "Автополигон",
+      "shirina": 43.731032,
+      "dalzhina": 23.944595,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 95,
+      "ime": "Автоцентър Вивакар",
+      "shirina": 43.836673,
+      "dalzhina": 25.96469,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 96,
+      "ime": "Ален мак",
+      "shirina": 42.679853,
+      "dalzhina": 26.319594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 97,
+      "ime": "Атлантик",
+      "shirina": 42.68873,
+      "dalzhina": 26.335496,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 98,
+      "ime": "Аутомотор",
+      "shirina": 43.219338,
+      "dalzhina": 27.889683,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 99,
+      "ime": "БМФ",
+      "shirina": 43.198609,
+      "dalzhina": 27.915699,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 100,
+      "ime": "БСУ",
+      "shirina": 42.504071,
+      "dalzhina": 27.468659,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 101,
+      "ime": "Бели Дунав - Връбница",
+      "shirina": 42.736488,
+      "dalzhina": 23.291624,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 102,
+      "ime": "Бели Дунав - Надежда",
+      "shirina": 42.733785,
+      "dalzhina": 23.294703,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 103,
+      "ime": "Бизнес център Конкорд",
+      "shirina": 42.289983,
+      "dalzhina": 25.932236,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 104,
+      "ime": "Бистришки водопад",
+      "shirina": 42.240958,
+      "dalzhina": 23.169043,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 105,
+      "ime": "Бон Марин",
+      "shirina": 43.199171,
+      "dalzhina": 27.915455,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 106,
+      "ime": "Брилянтин",
+      "shirina": 42.686483,
+      "dalzhina": 26.342743,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 107,
+      "ime": "Булстрад Арена",
+      "shirina": 43.848416,
+      "dalzhina": 25.960486,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 108,
+      "ime": "БургасБус",
+      "shirina": 42.451944,
+      "dalzhina": 27.41753,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 109,
+      "ime": "Буферен ТИР паркинг",
+      "shirina": 41.979032,
+      "dalzhina": 25.579094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 110,
+      "ime": "Буферен паркинг \"Френхисар\"",
+      "shirina": 43.079591,
+      "dalzhina": 25.655447,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 111,
+      "ime": "Буферен паркинг „Цариградско шосе“",
+      "shirina": 42.649246,
+      "dalzhina": 23.394468,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 112,
+      "ime": "Буферна зона за безплатно паркиране",
+      "shirina": 42.643559,
+      "dalzhina": 27.648405,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 113,
+      "ime": "Военно-морска болница",
+      "shirina": 43.226999,
+      "dalzhina": 27.924763,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 114,
+      "ime": "Гаров паркинг",
+      "shirina": 42.417217,
+      "dalzhina": 25.629575,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 115,
+      "ime": "Гладстон",
+      "shirina": 42.691181,
+      "dalzhina": 23.322732,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 116,
+      "ime": "Гробище",
+      "shirina": 41.929182,
+      "dalzhina": 25.921453,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 117,
+      "ime": "Екопарк",
+      "shirina": 43.233468,
+      "dalzhina": 28.006313,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 118,
+      "ime": "Зелена Зона",
+      "shirina": 42.489296,
+      "dalzhina": 27.480407,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 119,
+      "ime": "Зелена Зона",
+      "shirina": 42.490535,
+      "dalzhina": 27.476796,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 120,
+      "ime": "Зелена Зона",
+      "shirina": 42.491196,
+      "dalzhina": 27.478004,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 121,
+      "ime": "Зелена Зона",
+      "shirina": 42.493569,
+      "dalzhina": 27.480411,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 122,
+      "ime": "Зона за доставки",
+      "shirina": 41.971548,
+      "dalzhina": 25.558849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 123,
+      "ime": "Капаните",
+      "shirina": 42.509146,
+      "dalzhina": 27.483686,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 124,
+      "ime": "Караваните",
+      "shirina": 42.687153,
+      "dalzhina": 26.342759,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 125,
+      "ime": "Киноцентър",
+      "shirina": 42.641725,
+      "dalzhina": 23.291795,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 126,
+      "ime": "Кирилова поляна",
+      "shirina": 42.155136,
+      "dalzhina": 23.400166,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 127,
+      "ime": "Колодрума",
+      "shirina": 42.510514,
+      "dalzhina": 27.465723,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 128,
+      "ime": "Колописта",
+      "shirina": 43.410799,
+      "dalzhina": 24.611274,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 129,
+      "ime": "Краткотраен престой",
+      "shirina": 43.237904,
+      "dalzhina": 27.827348,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 130,
+      "ime": "Кристал",
+      "shirina": 43.271012,
+      "dalzhina": 26.930271,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 131,
+      "ime": "Лъчите",
+      "shirina": 42.12467,
+      "dalzhina": 24.728386,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 132,
+      "ime": "МЕИ",
+      "shirina": 42.675319,
+      "dalzhina": 26.338807,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 133,
+      "ime": "Манастир Св. Богородица",
+      "shirina": 42.463585,
+      "dalzhina": 27.369459,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 134,
+      "ime": "Медицински университет",
+      "shirina": 43.212542,
+      "dalzhina": 27.920515,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 135,
+      "ime": "Метростанция Цариградско Шосе",
+      "shirina": 42.64872,
+      "dalzhina": 23.394621,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 136,
+      "ime": "Модър",
+      "shirina": 42.129886,
+      "dalzhina": 24.716304,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 137,
+      "ime": "Мол Варна",
+      "shirina": 43.21997,
+      "dalzhina": 27.889258,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 138,
+      "ime": "Мол Ямбол",
+      "shirina": 42.484711,
+      "dalzhina": 26.510374,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 139,
+      "ime": "Момчилова крепост",
+      "shirina": 41.583529,
+      "dalzhina": 24.83181,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 140,
+      "ime": "Морска гара",
+      "shirina": 42.656844,
+      "dalzhina": 27.732648,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 141,
+      "ime": "Морска гара",
+      "shirina": 43.196758,
+      "dalzhina": 27.91898,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 142,
+      "ime": "Музикална академия",
+      "shirina": 42.682311,
+      "dalzhina": 23.352886,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 143,
+      "ime": "Място за паркиране",
+      "shirina": 43.169698,
+      "dalzhina": 27.943479,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 144,
+      "ime": "Наказателен паркинг",
+      "shirina": 42.500719,
+      "dalzhina": 27.474324,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 145,
+      "ime": "Наказателен паркинг Дружба",
+      "shirina": 42.666229,
+      "dalzhina": 23.391741,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 146,
+      "ime": "Наказателен паркинг Подуяне",
+      "shirina": 42.697211,
+      "dalzhina": 23.356119,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 147,
+      "ime": "Наказателен паркинг Синя зона",
+      "shirina": 43.198221,
+      "dalzhina": 27.896044,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 148,
+      "ime": "Наказателен паркинг Славия",
+      "shirina": 42.67691,
+      "dalzhina": 23.277855,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 149,
+      "ime": "Наказателен паркинг за репатрирани автомобили",
+      "shirina": 43.550594,
+      "dalzhina": 27.821069,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 150,
+      "ime": "Обществен паркинг",
+      "shirina": 42.592321,
+      "dalzhina": 23.417635,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 151,
+      "ime": "Охраняем паркинг",
+      "shirina": 43.40325,
+      "dalzhina": 24.646574,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 152,
+      "ime": "Паркинг",
+      "shirina": 41.714592,
+      "dalzhina": 26.358639,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 153,
+      "ime": "Паркинг",
+      "shirina": 42.527301,
+      "dalzhina": 27.444637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 154,
+      "ime": "Паркинг \"Белинташ\"",
+      "shirina": 41.856533,
+      "dalzhina": 24.979409,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 155,
+      "ime": "Паркинг \"Западен парк\"",
+      "shirina": 42.715477,
+      "dalzhina": 23.278656,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 156,
+      "ime": "Паркинг \"Крайбрежна\"",
+      "shirina": 43.080995,
+      "dalzhina": 25.648405,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 157,
+      "ime": "Паркинг \"Сержантско училище\"",
+      "shirina": 43.085963,
+      "dalzhina": 25.611509,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 158,
+      "ime": "Паркинг Lidl",
+      "shirina": 42.139351,
+      "dalzhina": 24.725008,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 159,
+      "ime": "Паркинг А.1",
+      "shirina": 42.690774,
+      "dalzhina": 23.29401,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 160,
+      "ime": "Паркинг А.2",
+      "shirina": 42.690461,
+      "dalzhina": 23.293563,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 161,
+      "ime": "Паркинг А.3",
+      "shirina": 42.69037,
+      "dalzhina": 23.294612,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 162,
+      "ime": "Паркинг Армира",
+      "shirina": 42.452094,
+      "dalzhina": 25.502845,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 163,
+      "ime": "Паркинг Б",
+      "shirina": 42.691549,
+      "dalzhina": 23.294915,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 164,
+      "ime": "Паркинг Бъдещност",
+      "shirina": 42.205756,
+      "dalzhina": 25.342522,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 165,
+      "ime": "Паркинг Витоша",
+      "shirina": 42.680908,
+      "dalzhina": 23.312549,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 166,
+      "ime": "Паркинг Лугата (платен)",
+      "shirina": 42.531741,
+      "dalzhina": 27.492177,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 167,
+      "ime": "Паркинг МВР",
+      "shirina": 42.123365,
+      "dalzhina": 24.74026,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 168,
+      "ime": "Паркинг Мир",
+      "shirina": 43.222166,
+      "dalzhina": 27.928082,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 169,
+      "ime": "Паркинг НДК",
+      "shirina": 42.684543,
+      "dalzhina": 23.320089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 170,
+      "ime": "Паркинг Перперикон",
+      "shirina": 41.717052,
+      "dalzhina": 25.46945,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 171,
+      "ime": "Паркинг Практикер",
+      "shirina": 42.467525,
+      "dalzhina": 26.525154,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 172,
+      "ime": "Паркинг Стадион \"Дружба\"",
+      "shirina": 43.555408,
+      "dalzhina": 27.824476,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 173,
+      "ime": "Паркинг ТеМакс",
+      "shirina": 42.29577,
+      "dalzhina": 25.937438,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 174,
+      "ime": "Паркинг Технополис",
+      "shirina": 42.468112,
+      "dalzhina": 26.524904,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 175,
+      "ime": "Паркинг Универсален Магазин",
+      "shirina": 42.425283,
+      "dalzhina": 25.628849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 176,
+      "ime": "Паркинг за Пациенти",
+      "shirina": 42.661397,
+      "dalzhina": 23.359602,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 177,
+      "ime": "Паркинг за ТИР",
+      "shirina": 42.437447,
+      "dalzhina": 25.698921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 178,
+      "ime": "Паркинг за стадиона",
+      "shirina": 42.584588,
+      "dalzhina": 23.165448,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 179,
+      "ime": "Паркинг на пазара",
+      "shirina": 43.247421,
+      "dalzhina": 27.8491,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 180,
+      "ime": "Паркинг на пл. \"Мусала\"",
+      "shirina": 43.202444,
+      "dalzhina": 27.915216,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 181,
+      "ime": "Паркинг на плажа",
+      "shirina": 42.585259,
+      "dalzhina": 23.165549,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 182,
+      "ime": "Паркинг под кръста",
+      "shirina": 41.534712,
+      "dalzhina": 24.785108,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 183,
+      "ime": "Паркинг при некропола Пропада",
+      "shirina": 41.982237,
+      "dalzhina": 27.492948,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 184,
+      "ime": "Паркинг репатрирани МПС - Община Варна",
+      "shirina": 43.197459,
+      "dalzhina": 27.889065,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 185,
+      "ime": "Паркинг стадион Васил Левски",
+      "shirina": 42.685464,
+      "dalzhina": 23.332568,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 186,
+      "ime": "Паркинг „Джеймс Баучер“",
+      "shirina": 42.66895,
+      "dalzhina": 23.31951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 187,
+      "ime": "Паркинг „Театрален комплекс“",
+      "shirina": 43.847876,
+      "dalzhina": 25.951769,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 188,
+      "ime": "Паркинга на Патоанатомията",
+      "shirina": 43.227407,
+      "dalzhina": 27.939914,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 189,
+      "ime": "Паркинга на обръщалото на Пишмана",
+      "shirina": 43.068136,
+      "dalzhina": 25.612016,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 190,
+      "ime": "Паркинга на стоте войводи",
+      "shirina": 42.685318,
+      "dalzhina": 26.350014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 191,
+      "ime": "Парковка. Табір \"Вместє\"",
+      "shirina": 42.233796,
+      "dalzhina": 27.77124,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 192,
+      "ime": "Паша дере",
+      "shirina": 43.110382,
+      "dalzhina": 27.923221,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 193,
+      "ime": "Платен паркинг",
+      "shirina": 41.885765,
+      "dalzhina": 23.467597,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 194,
+      "ime": "Платен паркинг",
+      "shirina": 41.886159,
+      "dalzhina": 23.46725,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 195,
+      "ime": "Платен паркинг",
+      "shirina": 42.127978,
+      "dalzhina": 24.704038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 196,
+      "ime": "Платен паркинг",
+      "shirina": 42.158685,
+      "dalzhina": 24.749224,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 197,
+      "ime": "Платен паркинг",
+      "shirina": 42.846086,
+      "dalzhina": 24.902648,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 198,
+      "ime": "Площад \"Гарата\"",
+      "shirina": 43.137603,
+      "dalzhina": 24.707134,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 199,
+      "ime": "Площад Долно Драгичево",
+      "shirina": 42.604595,
+      "dalzhina": 23.138704,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 200,
+      "ime": "Провадия - солницата",
+      "shirina": 43.125521,
+      "dalzhina": 27.471772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 201,
+      "ime": "Рио",
+      "shirina": 42.129754,
+      "dalzhina": 24.715511,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 202,
+      "ime": "СИТИ ЦЕНТЪР",
+      "shirina": 42.679957,
+      "dalzhina": 26.314753,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 203,
+      "ime": "Силистар",
+      "shirina": 42.023756,
+      "dalzhina": 28.007959,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 204,
+      "ime": "Сините скали",
+      "shirina": 42.718347,
+      "dalzhina": 26.358842,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 205,
+      "ime": "Синя Зона",
+      "shirina": 42.491121,
+      "dalzhina": 27.470324,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 206,
+      "ime": "Синя Зона",
+      "shirina": 42.491136,
+      "dalzhina": 27.472113,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 207,
+      "ime": "Синя Зона",
+      "shirina": 42.491222,
+      "dalzhina": 27.468778,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 208,
+      "ime": "Синя Зона",
+      "shirina": 42.491416,
+      "dalzhina": 27.469771,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 209,
+      "ime": "Синя Зона",
+      "shirina": 42.491839,
+      "dalzhina": 27.468848,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 210,
+      "ime": "Синя Зона",
+      "shirina": 42.492147,
+      "dalzhina": 27.46375,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 211,
+      "ime": "Синя Зона",
+      "shirina": 42.492176,
+      "dalzhina": 27.466714,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 212,
+      "ime": "Синя Зона",
+      "shirina": 42.492299,
+      "dalzhina": 27.467768,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 213,
+      "ime": "Синя Зона",
+      "shirina": 42.492376,
+      "dalzhina": 27.46496,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 214,
+      "ime": "Синя Зона",
+      "shirina": 42.492488,
+      "dalzhina": 27.468783,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 215,
+      "ime": "Синя Зона",
+      "shirina": 42.492616,
+      "dalzhina": 27.466226,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 216,
+      "ime": "Синя Зона",
+      "shirina": 42.492808,
+      "dalzhina": 27.470372,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 217,
+      "ime": "Синя Зона",
+      "shirina": 42.492858,
+      "dalzhina": 27.467531,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 218,
+      "ime": "Синя Зона",
+      "shirina": 42.493064,
+      "dalzhina": 27.468603,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 219,
+      "ime": "Синя Зона",
+      "shirina": 42.493243,
+      "dalzhina": 27.463983,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 220,
+      "ime": "Синя Зона",
+      "shirina": 42.493276,
+      "dalzhina": 27.469711,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 221,
+      "ime": "Синя Зона",
+      "shirina": 42.493532,
+      "dalzhina": 27.471139,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 222,
+      "ime": "Синя Зона",
+      "shirina": 42.493569,
+      "dalzhina": 27.460993,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 223,
+      "ime": "Синя Зона",
+      "shirina": 42.494014,
+      "dalzhina": 27.468349,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 224,
+      "ime": "Синя Зона",
+      "shirina": 42.494536,
+      "dalzhina": 27.469156,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 225,
+      "ime": "Синя Зона",
+      "shirina": 42.498943,
+      "dalzhina": 27.470799,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 226,
+      "ime": "Синя Зона",
+      "shirina": 42.498954,
+      "dalzhina": 27.474636,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 227,
+      "ime": "Синя Зона",
+      "shirina": 42.499017,
+      "dalzhina": 27.469154,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 228,
+      "ime": "Синя Зона",
+      "shirina": 42.499532,
+      "dalzhina": 27.471415,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 229,
+      "ime": "Синя Зона",
+      "shirina": 42.499579,
+      "dalzhina": 27.475766,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 230,
+      "ime": "Синя Зона",
+      "shirina": 42.50009,
+      "dalzhina": 27.468386,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 231,
+      "ime": "Синя Зона",
+      "shirina": 42.500311,
+      "dalzhina": 27.47708,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 232,
+      "ime": "Синя Зона",
+      "shirina": 42.503235,
+      "dalzhina": 27.473218,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 233,
+      "ime": "Синя Зона",
+      "shirina": 42.505765,
+      "dalzhina": 27.467692,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 234,
+      "ime": "Синя Зона",
+      "shirina": 42.564071,
+      "dalzhina": 27.520379,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 235,
+      "ime": "Синя зона",
+      "shirina": 42.678673,
+      "dalzhina": 26.31835,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 236,
+      "ime": "Служебен паркинг",
+      "shirina": 41.965986,
+      "dalzhina": 25.560599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 237,
+      "ime": "Служебен паркинг",
+      "shirina": 42.432331,
+      "dalzhina": 25.639838,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 238,
+      "ime": "Служебен паркинг",
+      "shirina": 42.862574,
+      "dalzhina": 24.781035,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 239,
+      "ime": "Служебен паркинг",
+      "shirina": 43.208739,
+      "dalzhina": 27.917822,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 240,
+      "ime": "Служебен паркинг Кауфланд",
+      "shirina": 42.121347,
+      "dalzhina": 24.741089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 241,
+      "ime": "Сондажи за вода",
+      "shirina": 42.938519,
+      "dalzhina": 25.369712,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 242,
+      "ime": "Стопански паркинг",
+      "shirina": 42.584043,
+      "dalzhina": 23.16115,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 243,
+      "ime": "Студентска",
+      "shirina": 43.224289,
+      "dalzhina": 27.927838,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 244,
+      "ime": "ТИР Паркинг",
+      "shirina": 42.652518,
+      "dalzhina": 25.800123,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 245,
+      "ime": "ТИР паркинг",
+      "shirina": 41.757119,
+      "dalzhina": 26.165476,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 246,
+      "ime": "ТИР паркинг",
+      "shirina": 41.758674,
+      "dalzhina": 26.164247,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 247,
+      "ime": "ТИР паркинг",
+      "shirina": 42.477239,
+      "dalzhina": 26.014086,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 248,
+      "ime": "ТИР паркинг",
+      "shirina": 43.204919,
+      "dalzhina": 23.568068,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 249,
+      "ime": "Тир Паркинг",
+      "shirina": 41.718685,
+      "dalzhina": 26.344481,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 250,
+      "ime": "Тир паркинг",
+      "shirina": 42.531227,
+      "dalzhina": 27.45083,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 251,
+      "ime": "Товарни Таксита",
+      "shirina": 42.491068,
+      "dalzhina": 27.454352,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 252,
+      "ime": "Топлофикация Бургас",
+      "shirina": 42.521959,
+      "dalzhina": 27.40635,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 253,
+      "ime": "Транстриумф Холдинг",
+      "shirina": 43.194078,
+      "dalzhina": 27.887089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 254,
+      "ime": "Х-л Студио",
+      "shirina": 43.081225,
+      "dalzhina": 25.644471,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 255,
+      "ime": "Хоризонт",
+      "shirina": 43.210827,
+      "dalzhina": 27.938056,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 256,
+      "ime": "Циркова площадка",
+      "shirina": 43.223141,
+      "dalzhina": 27.892121,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 257,
+      "ime": "Частен паркинг",
+      "shirina": 42.49691,
+      "dalzhina": 27.46989,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 258,
+      "ime": "Частен паркинг",
+      "shirina": 43.994853,
+      "dalzhina": 22.868162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 259,
+      "ime": "Шипка",
+      "shirina": 42.749264,
+      "dalzhina": 25.32237,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 260,
+      "ime": "Шипка",
+      "shirina": 42.752626,
+      "dalzhina": 25.320447,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 261,
+      "ime": "бл. 33",
+      "shirina": 43.237463,
+      "dalzhina": 27.882847,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 262,
+      "ime": "парк Луковит",
+      "shirina": 43.187058,
+      "dalzhina": 24.159896,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 263,
+      "ime": "паркинг \"Бизнес хотел\"",
+      "shirina": 43.2037,
+      "dalzhina": 27.90588,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 264,
+      "ime": "паркинг Къща за гости Даскалов",
+      "shirina": 42.799947,
+      "dalzhina": 25.345246,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 265,
+      "ime": "паркинг ПИМК",
+      "shirina": 43.86957,
+      "dalzhina": 26.017478,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 266,
+      "ime": "паркинг ПИМК",
+      "shirina": 43.869782,
+      "dalzhina": 26.01817,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 267,
+      "ime": "паркинг Тева",
+      "shirina": 42.615335,
+      "dalzhina": 23.067192,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 268,
+      "ime": "паркинг автобуси",
+      "shirina": 42.564035,
+      "dalzhina": 27.515693,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 269,
+      "ime": "паркинг автобуси",
+      "shirina": 42.564716,
+      "dalzhina": 27.516699,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 270,
+      "ime": "паркинг автобуси",
+      "shirina": 42.565073,
+      "dalzhina": 27.517261,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 271,
+      "ime": "паркинг автобуси",
+      "shirina": 42.565483,
+      "dalzhina": 27.517836,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 272,
+      "ime": "паркинг автобуси",
+      "shirina": 42.566645,
+      "dalzhina": 27.520146,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 273,
+      "ime": "паркинг автомобили",
+      "shirina": 42.563951,
+      "dalzhina": 27.516094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 274,
+      "ime": "паркинг автомобили",
+      "shirina": 42.565843,
+      "dalzhina": 27.518696,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 275,
+      "ime": "пл. Дунав",
+      "shirina": 43.84435,
+      "dalzhina": 25.946506,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 276,
+      "ime": "платен паркинг",
+      "shirina": 42.70173,
+      "dalzhina": 24.180332,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 277,
+      "ime": "площад „Алекси Попов“",
+      "shirina": 41.943631,
+      "dalzhina": 24.217343,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 278,
+      "ime": "площад „Васил Левски“",
+      "shirina": 43.838444,
+      "dalzhina": 25.950677,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    },
+    {
+      "id": 279,
+      "ime": "разсадник \"Интродукция\"",
+      "shirina": 42.313773,
+      "dalzhina": 25.548566,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "parking",
+      "osm_klas": "amenity=parking"
+    }
+  ],
+  "meta": {
+    "title": "Именувани паркинги в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Именувани паркинги в България — 279 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=parking`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 279 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Именувани паркинги в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Именувани паркинги в България (OpenStreetMap) — 279 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 279 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

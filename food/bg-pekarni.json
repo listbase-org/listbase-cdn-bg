@@ -1,0 +1,2551 @@
+{
+  "id": "bg-pekarni",
+  "name": "Пекарни в България",
+  "title": "Пекарни в България",
+  "description": "Пекарни и хлебарници в България от данни на OpenStreetMap (shop=bakery). Име и координати WGS84.",
+  "category": "food",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 502,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Прелеза\"",
+      "latitude": 43.841074,
+      "longitude": 25.964809
+    },
+    {
+      "name": "100 грама сладки",
+      "latitude": 42.693894,
+      "longitude": 23.337085
+    },
+    {
+      "name": "101 хляба",
+      "latitude": 43.233815,
+      "longitude": 27.873383
+    },
+    {
+      "name": "13 Bakery",
+      "latitude": 42.689278,
+      "longitude": 23.306003
+    },
+    {
+      "name": "Antep",
+      "latitude": 42.649307,
+      "longitude": 23.393351
+    },
+    {
+      "name": "Artisan Factory",
+      "latitude": 42.680003,
+      "longitude": 23.322006
+    },
+    {
+      "name": "Artisan factory",
+      "latitude": 42.666631,
+      "longitude": 23.278151
+    },
+    {
+      "name": "Artisan factory",
+      "latitude": 42.684018,
+      "longitude": 23.360471
+    },
+    {
+      "name": "Asap",
+      "latitude": 42.688236,
+      "longitude": 23.30462
+    },
+    {
+      "name": "Asap bakery",
+      "latitude": 42.664919,
+      "longitude": 23.285396
+    },
+    {
+      "name": "Ava",
+      "latitude": 42.086652,
+      "longitude": 23.059389
+    },
+    {
+      "name": "Avo",
+      "latitude": 42.671152,
+      "longitude": 23.314034
+    },
+    {
+      "name": "Bake Point",
+      "latitude": 41.824263,
+      "longitude": 23.477662
+    },
+    {
+      "name": "Bake a Wish",
+      "latitude": 42.646308,
+      "longitude": 23.32894
+    },
+    {
+      "name": "Bake a wish",
+      "latitude": 42.665616,
+      "longitude": 23.351072
+    },
+    {
+      "name": "Bake and take",
+      "latitude": 42.676956,
+      "longitude": 23.304269
+    },
+    {
+      "name": "Bake&coffee",
+      "latitude": 42.660316,
+      "longitude": 23.282282
+    },
+    {
+      "name": "Bakers",
+      "latitude": 42.14515,
+      "longitude": 24.781221
+    },
+    {
+      "name": "Bakers",
+      "latitude": 42.657676,
+      "longitude": 23.315055
+    },
+    {
+      "name": "Bakery",
+      "latitude": 42.146148,
+      "longitude": 24.760527
+    },
+    {
+      "name": "Bakery",
+      "latitude": 42.685911,
+      "longitude": 23.300221
+    },
+    {
+      "name": "Bakery Art",
+      "latitude": 42.143213,
+      "longitude": 24.765314
+    },
+    {
+      "name": "Bakery Art",
+      "latitude": 42.146682,
+      "longitude": 24.742922
+    },
+    {
+      "name": "Bakery Banitza",
+      "latitude": 43.132222,
+      "longitude": 25.685832
+    },
+    {
+      "name": "Bakery Kings",
+      "latitude": 42.701294,
+      "longitude": 27.710506
+    },
+    {
+      "name": "Bamita",
+      "latitude": 42.702491,
+      "longitude": 23.328988
+    },
+    {
+      "name": "Betty",
+      "latitude": 42.694949,
+      "longitude": 23.287223
+    },
+    {
+      "name": "Bobзy's",
+      "latitude": 42.680186,
+      "longitude": 23.301497
+    },
+    {
+      "name": "Bonjour Juliette",
+      "latitude": 42.694909,
+      "longitude": 23.319822
+    },
+    {
+      "name": "Boulangerie Баница",
+      "latitude": 42.689744,
+      "longitude": 23.402504
+    },
+    {
+      "name": "Boulangerie Баница",
+      "latitude": 42.689841,
+      "longitude": 23.413969
+    },
+    {
+      "name": "Bread Bakery",
+      "latitude": 42.852158,
+      "longitude": 23.371157
+    },
+    {
+      "name": "Bread House",
+      "latitude": 43.084114,
+      "longitude": 25.639842
+    },
+    {
+      "name": "Bread Land",
+      "latitude": 42.676081,
+      "longitude": 23.288294
+    },
+    {
+      "name": "Bread Land",
+      "latitude": 42.676409,
+      "longitude": 23.359864
+    },
+    {
+      "name": "Brimeks",
+      "latitude": 42.664527,
+      "longitude": 23.29812
+    },
+    {
+      "name": "Brimeks",
+      "latitude": 42.669081,
+      "longitude": 23.277465
+    },
+    {
+      "name": "Buongiorno",
+      "latitude": 43.223079,
+      "longitude": 27.929482
+    },
+    {
+      "name": "Bäckerei N & M",
+      "latitude": 42.148794,
+      "longitude": 24.730412
+    },
+    {
+      "name": "Café & Pâtisserie",
+      "latitude": 42.689765,
+      "longitude": 23.317866
+    },
+    {
+      "name": "Café Matinée",
+      "latitude": 42.689371,
+      "longitude": 23.313581
+    },
+    {
+      "name": "Café Ole",
+      "latitude": 43.217495,
+      "longitude": 27.921174
+    },
+    {
+      "name": "Cake's Town",
+      "latitude": 42.660316,
+      "longitude": 23.315236
+    },
+    {
+      "name": "Cascadas Bakery & Barbecue",
+      "latitude": 42.704217,
+      "longitude": 27.711478
+    },
+    {
+      "name": "Chock Chock",
+      "latitude": 42.690839,
+      "longitude": 23.325549
+    },
+    {
+      "name": "Cinnamon House",
+      "latitude": 42.694636,
+      "longitude": 23.319631
+    },
+    {
+      "name": "D",
+      "latitude": 42.142409,
+      "longitude": 24.743927
+    },
+    {
+      "name": "Dani Bakery",
+      "latitude": 42.499329,
+      "longitude": 27.473212
+    },
+    {
+      "name": "Dany's Bakery",
+      "latitude": 41.930453,
+      "longitude": 25.133018
+    },
+    {
+      "name": "Di",
+      "latitude": 42.64421,
+      "longitude": 23.313323
+    },
+    {
+      "name": "Djany",
+      "latitude": 42.695617,
+      "longitude": 27.70775
+    },
+    {
+      "name": "Dolce Gatti",
+      "latitude": 42.630834,
+      "longitude": 23.381475
+    },
+    {
+      "name": "Dolce Mela",
+      "latitude": 42.146791,
+      "longitude": 24.742728
+    },
+    {
+      "name": "Eddy's",
+      "latitude": 42.69471,
+      "longitude": 23.32097
+    },
+    {
+      "name": "Eddy's Bakery",
+      "latitude": 42.673843,
+      "longitude": 23.29734
+    },
+    {
+      "name": "Eddy's Bakery",
+      "latitude": 42.6823,
+      "longitude": 23.402575
+    },
+    {
+      "name": "Family Bakery BBA",
+      "latitude": 42.888542,
+      "longitude": 24.712744
+    },
+    {
+      "name": "Fidler's",
+      "latitude": 42.670356,
+      "longitude": 23.289241
+    },
+    {
+      "name": "Fiore Food",
+      "latitude": 42.135936,
+      "longitude": 24.765675
+    },
+    {
+      "name": "Fiore food",
+      "latitude": 42.689014,
+      "longitude": 23.364904
+    },
+    {
+      "name": "For friends",
+      "latitude": 42.668182,
+      "longitude": 23.27625
+    },
+    {
+      "name": "Forneti",
+      "latitude": 42.151934,
+      "longitude": 24.745405
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 41.882691,
+      "longitude": 23.526205
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.425733,
+      "longitude": 25.631857
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.649277,
+      "longitude": 23.393505
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.660242,
+      "longitude": 27.7203
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.661417,
+      "longitude": 23.397816
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.662671,
+      "longitude": 23.358392
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.671612,
+      "longitude": 23.350657
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.679542,
+      "longitude": 23.310331
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.680049,
+      "longitude": 23.312884
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.685965,
+      "longitude": 23.306477
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.687061,
+      "longitude": 23.318861
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.688302,
+      "longitude": 23.329422
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.689244,
+      "longitude": 23.313388
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.699897,
+      "longitude": 23.310108
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.710411,
+      "longitude": 23.312027
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 42.713433,
+      "longitude": 23.264108
+    },
+    {
+      "name": "Fornetti",
+      "latitude": 43.838014,
+      "longitude": 25.950541
+    },
+    {
+      "name": "Forno Magnifico",
+      "latitude": 42.69872,
+      "longitude": 23.340271
+    },
+    {
+      "name": "French bakery",
+      "latitude": 42.700369,
+      "longitude": 23.3278
+    },
+    {
+      "name": "Freyja",
+      "latitude": 42.15047,
+      "longitude": 24.745924
+    },
+    {
+      "name": "Furna",
+      "latitude": 42.699247,
+      "longitude": 23.316177
+    },
+    {
+      "name": "Giorgio - Италианска Пекарна",
+      "latitude": 42.623866,
+      "longitude": 25.3853
+    },
+    {
+      "name": "Golden Sweets & Bakery",
+      "latitude": 42.703613,
+      "longitude": 23.323845
+    },
+    {
+      "name": "Grab a bread",
+      "latitude": 42.658708,
+      "longitude": 23.279947
+    },
+    {
+      "name": "Green bakery",
+      "latitude": 42.670743,
+      "longitude": 23.287492
+    },
+    {
+      "name": "Hliab bakery",
+      "latitude": 42.115366,
+      "longitude": 24.712918
+    },
+    {
+      "name": "Hm",
+      "latitude": 42.45624,
+      "longitude": 27.418552
+    },
+    {
+      "name": "Il Fornetto",
+      "latitude": 42.68656,
+      "longitude": 23.317404
+    },
+    {
+      "name": "Jenny Pâtis",
+      "latitude": 42.415416,
+      "longitude": 27.694288
+    },
+    {
+      "name": "JoVan The Dutch Bakery",
+      "latitude": 42.689262,
+      "longitude": 23.32184
+    },
+    {
+      "name": "JoVan The Dutch Bakery",
+      "latitude": 42.694685,
+      "longitude": 23.321875
+    },
+    {
+      "name": "Kapana Bakery",
+      "latitude": 42.149723,
+      "longitude": 24.748226
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.668975,
+      "longitude": 23.317323
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.687118,
+      "longitude": 23.329939
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.688277,
+      "longitude": 23.324897
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.69104,
+      "longitude": 23.325618
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.697646,
+      "longitude": 23.316601
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.69893,
+      "longitude": 23.30837
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.700933,
+      "longitude": 23.311064
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.701491,
+      "longitude": 23.322603
+    },
+    {
+      "name": "King's Bakery",
+      "latitude": 42.70229,
+      "longitude": 23.30077
+    },
+    {
+      "name": "King's bakery",
+      "latitude": 42.695266,
+      "longitude": 23.315068
+    },
+    {
+      "name": "Kostas",
+      "latitude": 42.693499,
+      "longitude": 23.352413
+    },
+    {
+      "name": "Kostis",
+      "latitude": 42.670606,
+      "longitude": 23.320692
+    },
+    {
+      "name": "Lakis",
+      "latitude": 42.149539,
+      "longitude": 24.750034
+    },
+    {
+      "name": "Le cocole",
+      "latitude": 42.670656,
+      "longitude": 23.289563
+    },
+    {
+      "name": "Ma Baker",
+      "latitude": 42.657285,
+      "longitude": 23.313592
+    },
+    {
+      "name": "Ma Baker",
+      "latitude": 42.682402,
+      "longitude": 23.331087
+    },
+    {
+      "name": "Magnifico",
+      "latitude": 42.682699,
+      "longitude": 23.364123
+    },
+    {
+      "name": "Max Bakery",
+      "latitude": 42.810492,
+      "longitude": 23.216864
+    },
+    {
+      "name": "Met Bread",
+      "latitude": 42.63171,
+      "longitude": 23.312566
+    },
+    {
+      "name": "Migas",
+      "latitude": 42.426378,
+      "longitude": 25.627736
+    },
+    {
+      "name": "Mini Best",
+      "latitude": 43.216484,
+      "longitude": 27.927613
+    },
+    {
+      "name": "Mishka bakery",
+      "latitude": 42.661605,
+      "longitude": 23.278025
+    },
+    {
+      "name": "Mishka bakery",
+      "latitude": 42.671742,
+      "longitude": 23.296999
+    },
+    {
+      "name": "Mr. Pan",
+      "latitude": 42.148458,
+      "longitude": 24.744191
+    },
+    {
+      "name": "NAZ & NAZ",
+      "latitude": 42.562383,
+      "longitude": 27.638759
+    },
+    {
+      "name": "Nade",
+      "latitude": 42.693335,
+      "longitude": 23.319275
+    },
+    {
+      "name": "Nipeks",
+      "latitude": 42.120375,
+      "longitude": 24.732863
+    },
+    {
+      "name": "Pain de Paris",
+      "latitude": 42.672447,
+      "longitude": 23.333135
+    },
+    {
+      "name": "Pepe Bakery",
+      "latitude": 43.203559,
+      "longitude": 27.906264
+    },
+    {
+      "name": "Pura vita Belgian bakery",
+      "latitude": 42.691583,
+      "longitude": 23.336713
+    },
+    {
+      "name": "Pâtisserie de Provence",
+      "latitude": 42.696431,
+      "longitude": 23.337977
+    },
+    {
+      "name": "Raw Cakes",
+      "latitude": 42.683453,
+      "longitude": 23.327448
+    },
+    {
+      "name": "Rozova Gradina",
+      "latitude": 42.678139,
+      "longitude": 26.324711
+    },
+    {
+      "name": "Savi",
+      "latitude": 42.695501,
+      "longitude": 23.340001
+    },
+    {
+      "name": "Shami",
+      "latitude": 42.602531,
+      "longitude": 23.47848
+    },
+    {
+      "name": "Simit Evi",
+      "latitude": 42.696253,
+      "longitude": 23.349342
+    },
+    {
+      "name": "Take a Break",
+      "latitude": 42.661077,
+      "longitude": 23.313571
+    },
+    {
+      "name": "Take a Cake",
+      "latitude": 42.668823,
+      "longitude": 23.36223
+    },
+    {
+      "name": "Take a Cake",
+      "latitude": 42.691712,
+      "longitude": 23.338987
+    },
+    {
+      "name": "The Corner",
+      "latitude": 43.847155,
+      "longitude": 25.955345
+    },
+    {
+      "name": "The French Box",
+      "latitude": 42.71783,
+      "longitude": 23.315136
+    },
+    {
+      "name": "The Place",
+      "latitude": 42.664056,
+      "longitude": 23.284946
+    },
+    {
+      "name": "The french box",
+      "latitude": 42.670535,
+      "longitude": 23.289434
+    },
+    {
+      "name": "The old",
+      "latitude": 43.081369,
+      "longitude": 25.642319
+    },
+    {
+      "name": "Tita & Yoyo",
+      "latitude": 42.693,
+      "longitude": 23.331449
+    },
+    {
+      "name": "Trokadero",
+      "latitude": 43.082736,
+      "longitude": 25.632941
+    },
+    {
+      "name": "Upper crust",
+      "latitude": 42.689555,
+      "longitude": 23.414723
+    },
+    {
+      "name": "Vinkis",
+      "latitude": 42.660544,
+      "longitude": 27.715169
+    },
+    {
+      "name": "Zahira",
+      "latitude": 43.570479,
+      "longitude": 27.831082
+    },
+    {
+      "name": "Zucca",
+      "latitude": 42.628594,
+      "longitude": 23.373865
+    },
+    {
+      "name": "larkata",
+      "latitude": 42.676938,
+      "longitude": 23.293451
+    },
+    {
+      "name": "Аби",
+      "latitude": 42.67842,
+      "longitude": 23.290697
+    },
+    {
+      "name": "Алби",
+      "latitude": 42.700394,
+      "longitude": 23.31756
+    },
+    {
+      "name": "Алтън",
+      "latitude": 42.658556,
+      "longitude": 23.36432
+    },
+    {
+      "name": "Ам Бам",
+      "latitude": 42.693176,
+      "longitude": 23.31005
+    },
+    {
+      "name": "Анджи",
+      "latitude": 43.539319,
+      "longitude": 28.536489
+    },
+    {
+      "name": "Анди",
+      "latitude": 42.700924,
+      "longitude": 23.292391
+    },
+    {
+      "name": "Ани",
+      "latitude": 42.48348,
+      "longitude": 26.510785
+    },
+    {
+      "name": "Арнита",
+      "latitude": 42.49918,
+      "longitude": 27.475267
+    },
+    {
+      "name": "Арсо",
+      "latitude": 43.128386,
+      "longitude": 25.68286
+    },
+    {
+      "name": "БАНИЧАРНИЦА",
+      "latitude": 42.060166,
+      "longitude": 27.977508
+    },
+    {
+      "name": "Баба и внуци",
+      "latitude": 42.689275,
+      "longitude": 23.358561
+    },
+    {
+      "name": "Бабините питки",
+      "latitude": 43.210848,
+      "longitude": 27.908179
+    },
+    {
+      "name": "Бабино село",
+      "latitude": 42.696031,
+      "longitude": 23.287447
+    },
+    {
+      "name": "Багети",
+      "latitude": 42.686916,
+      "longitude": 23.31694
+    },
+    {
+      "name": "Бай Бисер",
+      "latitude": 43.219478,
+      "longitude": 27.899947
+    },
+    {
+      "name": "Бай Бисер",
+      "latitude": 43.229445,
+      "longitude": 27.889304
+    },
+    {
+      "name": "Бакалов",
+      "latitude": 42.020907,
+      "longitude": 23.09998
+    },
+    {
+      "name": "Баница",
+      "latitude": 42.694657,
+      "longitude": 23.298847
+    },
+    {
+      "name": "Баницатъ",
+      "latitude": 42.658863,
+      "longitude": 23.241229
+    },
+    {
+      "name": "Баници",
+      "latitude": 42.136969,
+      "longitude": 24.741125
+    },
+    {
+      "name": "Баниците от ул Струга",
+      "latitude": 42.710895,
+      "longitude": 23.318443
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.013842,
+      "longitude": 23.089966
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.031547,
+      "longitude": 24.301966
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.621778,
+      "longitude": 27.304652
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.645423,
+      "longitude": 23.376363
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.668164,
+      "longitude": 23.395322
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.675895,
+      "longitude": 26.308927
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.679427,
+      "longitude": 26.314447
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.692175,
+      "longitude": 23.295552
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.70824,
+      "longitude": 23.287643
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.714289,
+      "longitude": 23.303075
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.736955,
+      "longitude": 23.300094
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.81947,
+      "longitude": 27.880071
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 42.896056,
+      "longitude": 25.31503
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 43.076506,
+      "longitude": 25.625476
+    },
+    {
+      "name": "Баничарница",
+      "latitude": 43.435922,
+      "longitude": 28.33911
+    },
+    {
+      "name": "Баничарница Вито",
+      "latitude": 42.66376,
+      "longitude": 27.716579
+    },
+    {
+      "name": "Баничарница Еделвайс",
+      "latitude": 43.571147,
+      "longitude": 27.830818
+    },
+    {
+      "name": "Баничарница Мехи",
+      "latitude": 42.73561,
+      "longitude": 23.305318
+    },
+    {
+      "name": "Баничарница Палермо",
+      "latitude": 43.570734,
+      "longitude": 27.815223
+    },
+    {
+      "name": "Баничарница “Еуфория”",
+      "latitude": 42.683888,
+      "longitude": 23.242178
+    },
+    {
+      "name": "Безета",
+      "latitude": 42.665041,
+      "longitude": 23.30243
+    },
+    {
+      "name": "Бела",
+      "latitude": 43.569031,
+      "longitude": 27.829275
+    },
+    {
+      "name": "Биософ",
+      "latitude": 42.671961,
+      "longitude": 23.295444
+    },
+    {
+      "name": "Бия Бейкъри",
+      "latitude": 42.628492,
+      "longitude": 23.309953
+    },
+    {
+      "name": "Болярска баница",
+      "latitude": 43.348059,
+      "longitude": 28.050483
+    },
+    {
+      "name": "Браво",
+      "latitude": 43.199997,
+      "longitude": 27.912912
+    },
+    {
+      "name": "Бримекс",
+      "latitude": 42.660044,
+      "longitude": 23.298812
+    },
+    {
+      "name": "Бримекс",
+      "latitude": 42.664192,
+      "longitude": 23.297691
+    },
+    {
+      "name": "Бърза закуска",
+      "latitude": 42.482236,
+      "longitude": 26.499446
+    },
+    {
+      "name": "Ванилия",
+      "latitude": 42.700364,
+      "longitude": 23.300665
+    },
+    {
+      "name": "Ванилия",
+      "latitude": 42.702507,
+      "longitude": 23.301976
+    },
+    {
+      "name": "Ваничарница Топли Закуски",
+      "latitude": 42.528084,
+      "longitude": 27.463263
+    },
+    {
+      "name": "Вегера БМ",
+      "latitude": 42.66121,
+      "longitude": 23.373295
+    },
+    {
+      "name": "Венеция",
+      "latitude": 42.645938,
+      "longitude": 26.974774
+    },
+    {
+      "name": "Вижън",
+      "latitude": 43.617438,
+      "longitude": 25.346627
+    },
+    {
+      "name": "Вики",
+      "latitude": 42.671515,
+      "longitude": 23.350623
+    },
+    {
+      "name": "Вилон",
+      "latitude": 42.279093,
+      "longitude": 22.673891
+    },
+    {
+      "name": "Вкусната пекарна",
+      "latitude": 42.686304,
+      "longitude": 23.325057
+    },
+    {
+      "name": "Вкусната пекарна",
+      "latitude": 42.707756,
+      "longitude": 23.317887
+    },
+    {
+      "name": "Вкусно",
+      "latitude": 42.659909,
+      "longitude": 27.715999
+    },
+    {
+      "name": "Владая",
+      "latitude": 42.628245,
+      "longitude": 23.197017
+    },
+    {
+      "name": "Въздух",
+      "latitude": 42.676939,
+      "longitude": 23.282607
+    },
+    {
+      "name": "Гала",
+      "latitude": 43.215309,
+      "longitude": 27.91265
+    },
+    {
+      "name": "Галета",
+      "latitude": 42.700274,
+      "longitude": 23.326584
+    },
+    {
+      "name": "Геврек",
+      "latitude": 42.694884,
+      "longitude": 23.328247
+    },
+    {
+      "name": "Гергана",
+      "latitude": 43.162099,
+      "longitude": 26.816419
+    },
+    {
+      "name": "Глазне",
+      "latitude": 41.84097,
+      "longitude": 23.484178
+    },
+    {
+      "name": "Голд Бейкъри ЕООД",
+      "latitude": 43.832109,
+      "longitude": 25.971306
+    },
+    {
+      "name": "Голд Бейкъри ЕООД",
+      "latitude": 43.837868,
+      "longitude": 25.975612
+    },
+    {
+      "name": "Голд Бейкъри ЕООД",
+      "latitude": 43.842617,
+      "longitude": 25.9564
+    },
+    {
+      "name": "Голд Бейкъри ЕООД",
+      "latitude": 43.844454,
+      "longitude": 25.960124
+    },
+    {
+      "name": "Голд Бейкъри ЕООД",
+      "latitude": 43.851201,
+      "longitude": 25.977832
+    },
+    {
+      "name": "Голд Бейкъри ЕООД",
+      "latitude": 43.859149,
+      "longitude": 25.975229
+    },
+    {
+      "name": "Голден фоодс",
+      "latitude": 42.653821,
+      "longitude": 23.379648
+    },
+    {
+      "name": "Голдън фуудс",
+      "latitude": 42.692924,
+      "longitude": 23.311115
+    },
+    {
+      "name": "Гюл-пънар",
+      "latitude": 42.643983,
+      "longitude": 27.679772
+    },
+    {
+      "name": "Дежла",
+      "latitude": 42.415118,
+      "longitude": 25.595588
+    },
+    {
+      "name": "Денислав",
+      "latitude": 43.191834,
+      "longitude": 27.70813
+    },
+    {
+      "name": "Дивото брашно",
+      "latitude": 43.212124,
+      "longitude": 27.925428
+    },
+    {
+      "name": "Добрина",
+      "latitude": 43.212227,
+      "longitude": 27.903612
+    },
+    {
+      "name": "Домашната пекарна",
+      "latitude": 42.699149,
+      "longitude": 23.319493
+    },
+    {
+      "name": "Драгомира 96",
+      "latitude": 43.436,
+      "longitude": 28.337877
+    },
+    {
+      "name": "Едно Време",
+      "latitude": 42.684349,
+      "longitude": 23.241249
+    },
+    {
+      "name": "Еж и Беж",
+      "latitude": 42.674212,
+      "longitude": 23.314243
+    },
+    {
+      "name": "Ежко",
+      "latitude": 42.679266,
+      "longitude": 23.302068
+    },
+    {
+      "name": "Еклери",
+      "latitude": 43.824076,
+      "longitude": 25.974807
+    },
+    {
+      "name": "Жар",
+      "latitude": 42.427273,
+      "longitude": 25.643305
+    },
+    {
+      "name": "Жасмина",
+      "latitude": 42.424206,
+      "longitude": 25.633497
+    },
+    {
+      "name": "Живец",
+      "latitude": 42.664241,
+      "longitude": 23.355065
+    },
+    {
+      "name": "Жики",
+      "latitude": 42.696117,
+      "longitude": 23.318416
+    },
+    {
+      "name": "Житарна - Мария Магдалена",
+      "latitude": 42.70626,
+      "longitude": 23.300913
+    },
+    {
+      "name": "Закусвалня",
+      "latitude": 42.494901,
+      "longitude": 27.473336
+    },
+    {
+      "name": "Закуски",
+      "latitude": 41.383871,
+      "longitude": 25.091341
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.07246,
+      "longitude": 24.661203
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.084972,
+      "longitude": 26.332858
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.48769,
+      "longitude": 27.450313
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.492345,
+      "longitude": 27.464471
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.493665,
+      "longitude": 27.465208
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.494618,
+      "longitude": 27.474859
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.500778,
+      "longitude": 27.469302
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.502019,
+      "longitude": 27.472396
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.605226,
+      "longitude": 27.385905
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.709883,
+      "longitude": 23.348813
+    },
+    {
+      "name": "Закуски",
+      "latitude": 42.724453,
+      "longitude": 23.304975
+    },
+    {
+      "name": "Закуски",
+      "latitude": 43.412171,
+      "longitude": 24.622553
+    },
+    {
+      "name": "Закуски Рая",
+      "latitude": 42.566694,
+      "longitude": 27.61425
+    },
+    {
+      "name": "Закуски Фантазия",
+      "latitude": 42.888079,
+      "longitude": 24.713105
+    },
+    {
+      "name": "Занаятчийски хляб",
+      "latitude": 42.678845,
+      "longitude": 23.322233
+    },
+    {
+      "name": "Зелените Пекарни",
+      "latitude": 42.427143,
+      "longitude": 25.635489
+    },
+    {
+      "name": "Земела",
+      "latitude": 42.237555,
+      "longitude": 24.723356
+    },
+    {
+      "name": "Земя и Хляб",
+      "latitude": 42.125513,
+      "longitude": 23.131625
+    },
+    {
+      "name": "Зиа",
+      "latitude": 42.497253,
+      "longitude": 27.465515
+    },
+    {
+      "name": "Зиа",
+      "latitude": 42.559231,
+      "longitude": 27.638456
+    },
+    {
+      "name": "Зиа",
+      "latitude": 42.669002,
+      "longitude": 23.35348
+    },
+    {
+      "name": "Зиа",
+      "latitude": 42.675327,
+      "longitude": 23.295762
+    },
+    {
+      "name": "Златен клас",
+      "latitude": 42.657208,
+      "longitude": 23.358659
+    },
+    {
+      "name": "Златен клас",
+      "latitude": 42.69172,
+      "longitude": 23.31138
+    },
+    {
+      "name": "Златна пита",
+      "latitude": 42.673513,
+      "longitude": 23.287471
+    },
+    {
+      "name": "Зора",
+      "latitude": 43.209573,
+      "longitude": 27.911124
+    },
+    {
+      "name": "Изгрев",
+      "latitude": 43.210657,
+      "longitude": 27.929781
+    },
+    {
+      "name": "Изгрев",
+      "latitude": 43.211361,
+      "longitude": 27.914787
+    },
+    {
+      "name": "Изгрев",
+      "latitude": 43.213355,
+      "longitude": 27.923445
+    },
+    {
+      "name": "Изгрев",
+      "latitude": 43.218009,
+      "longitude": 27.934311
+    },
+    {
+      "name": "Изгрев",
+      "latitude": 43.222939,
+      "longitude": 27.92906
+    },
+    {
+      "name": "Изгрев",
+      "latitude": 43.22475,
+      "longitude": 27.92485
+    },
+    {
+      "name": "Илюзия",
+      "latitude": 42.700857,
+      "longitude": 23.31917
+    },
+    {
+      "name": "Иракска фурна",
+      "latitude": 42.701523,
+      "longitude": 23.320607
+    },
+    {
+      "name": "Италианската пекарна",
+      "latitude": 42.705271,
+      "longitude": 23.312018
+    },
+    {
+      "name": "Йоана 2001",
+      "latitude": 42.699264,
+      "longitude": 23.339013
+    },
+    {
+      "name": "КЪРК-на",
+      "latitude": 42.700344,
+      "longitude": 23.321883
+    },
+    {
+      "name": "Капитал",
+      "latitude": 42.694924,
+      "longitude": 23.316436
+    },
+    {
+      "name": "Кейк мания",
+      "latitude": 42.678058,
+      "longitude": 23.284215
+    },
+    {
+      "name": "Класик",
+      "latitude": 43.20639,
+      "longitude": 27.910742
+    },
+    {
+      "name": "Клер",
+      "latitude": 42.674814,
+      "longitude": 23.309235
+    },
+    {
+      "name": "Клер",
+      "latitude": 42.695562,
+      "longitude": 23.323882
+    },
+    {
+      "name": "КоКо",
+      "latitude": 43.570155,
+      "longitude": 27.832511
+    },
+    {
+      "name": "Комат",
+      "latitude": 42.681539,
+      "longitude": 23.287624
+    },
+    {
+      "name": "Кралската пекарна",
+      "latitude": 42.66399,
+      "longitude": 23.284334
+    },
+    {
+      "name": "Краси - Кимбо",
+      "latitude": 42.099566,
+      "longitude": 27.939444
+    },
+    {
+      "name": "Кутия за хляб",
+      "latitude": 42.679464,
+      "longitude": 23.324194
+    },
+    {
+      "name": "Кърк-на",
+      "latitude": 42.704285,
+      "longitude": 23.323472
+    },
+    {
+      "name": "Лакомото",
+      "latitude": 43.199834,
+      "longitude": 27.917509
+    },
+    {
+      "name": "Лили",
+      "latitude": 42.494734,
+      "longitude": 27.466214
+    },
+    {
+      "name": "Лъвицата",
+      "latitude": 43.565043,
+      "longitude": 27.83111
+    },
+    {
+      "name": "Любимата закуска",
+      "latitude": 42.68923,
+      "longitude": 23.246618
+    },
+    {
+      "name": "Магия",
+      "latitude": 42.70069,
+      "longitude": 23.313849
+    },
+    {
+      "name": "Мадрид",
+      "latitude": 42.696308,
+      "longitude": 23.349751
+    },
+    {
+      "name": "Майстор Миро",
+      "latitude": 43.202154,
+      "longitude": 27.911326
+    },
+    {
+      "name": "Майстор Миро",
+      "latitude": 43.205734,
+      "longitude": 27.91086
+    },
+    {
+      "name": "Майстор Пекар \"Бански самунъ\"",
+      "latitude": 41.827964,
+      "longitude": 23.483094
+    },
+    {
+      "name": "Майстори пекари",
+      "latitude": 42.627778,
+      "longitude": 23.375459
+    },
+    {
+      "name": "Мак",
+      "latitude": 42.500797,
+      "longitude": 27.477419
+    },
+    {
+      "name": "Макрос",
+      "latitude": 42.754161,
+      "longitude": 23.185649
+    },
+    {
+      "name": "Манна",
+      "latitude": 42.49297,
+      "longitude": 26.012784
+    },
+    {
+      "name": "Мармалад",
+      "latitude": 42.68212,
+      "longitude": 23.28988
+    },
+    {
+      "name": "Мекичарница",
+      "latitude": 42.140175,
+      "longitude": 24.768147
+    },
+    {
+      "name": "Мелко",
+      "latitude": 42.67603,
+      "longitude": 23.304433
+    },
+    {
+      "name": "Меро & Емо",
+      "latitude": 42.685143,
+      "longitude": 23.321312
+    },
+    {
+      "name": "Метко",
+      "latitude": 42.482822,
+      "longitude": 26.508003
+    },
+    {
+      "name": "Милин камък",
+      "latitude": 42.682931,
+      "longitude": 23.327802
+    },
+    {
+      "name": "Мио - баничарница",
+      "latitude": 42.020758,
+      "longitude": 23.089338
+    },
+    {
+      "name": "Миркови",
+      "latitude": 42.693969,
+      "longitude": 23.33962
+    },
+    {
+      "name": "Мистър Хляб",
+      "latitude": 42.677141,
+      "longitude": 23.333433
+    },
+    {
+      "name": "На Кръгчето",
+      "latitude": 42.663714,
+      "longitude": 23.266239
+    },
+    {
+      "name": "Нашата пекарна",
+      "latitude": 43.223055,
+      "longitude": 27.925191
+    },
+    {
+      "name": "Ни-Кай",
+      "latitude": 42.68157,
+      "longitude": 23.370022
+    },
+    {
+      "name": "Ни-Кай",
+      "latitude": 42.68558,
+      "longitude": 23.255488
+    },
+    {
+      "name": "Ни-Кай",
+      "latitude": 42.699039,
+      "longitude": 23.290592
+    },
+    {
+      "name": "Ни-Кай",
+      "latitude": 42.731541,
+      "longitude": 23.295756
+    },
+    {
+      "name": "Ни-каи",
+      "latitude": 42.702921,
+      "longitude": 23.364025
+    },
+    {
+      "name": "Ни-кай",
+      "latitude": 42.705298,
+      "longitude": 23.324771
+    },
+    {
+      "name": "Ни-кай",
+      "latitude": 42.712215,
+      "longitude": 23.312779
+    },
+    {
+      "name": "Никас",
+      "latitude": 42.702065,
+      "longitude": 23.32933
+    },
+    {
+      "name": "Ники",
+      "latitude": 42.498809,
+      "longitude": 27.46931
+    },
+    {
+      "name": "Нико",
+      "latitude": 42.147907,
+      "longitude": 24.748722
+    },
+    {
+      "name": "Новата пекарна",
+      "latitude": 43.075813,
+      "longitude": 25.650988
+    },
+    {
+      "name": "Пандора",
+      "latitude": 42.676858,
+      "longitude": 23.320233
+    },
+    {
+      "name": "Пандора",
+      "latitude": 42.735548,
+      "longitude": 23.310264
+    },
+    {
+      "name": "Пармаксъзов",
+      "latitude": 43.216285,
+      "longitude": 27.929179
+    },
+    {
+      "name": "Пекарна",
+      "latitude": 41.825821,
+      "longitude": 25.605675
+    },
+    {
+      "name": "Пекарна",
+      "latitude": 42.167693,
+      "longitude": 27.846834
+    },
+    {
+      "name": "Пекарна",
+      "latitude": 42.510284,
+      "longitude": 27.468235
+    },
+    {
+      "name": "Пекарна",
+      "latitude": 42.55915,
+      "longitude": 27.640136
+    },
+    {
+      "name": "Пекарна",
+      "latitude": 42.587506,
+      "longitude": 23.156137
+    },
+    {
+      "name": "Пекарна",
+      "latitude": 42.635664,
+      "longitude": 23.378183
+    },
+    {
+      "name": "Пекарна",
+      "latitude": 43.194,
+      "longitude": 27.710407
+    },
+    {
+      "name": "Пекарна",
+      "latitude": 43.246463,
+      "longitude": 27.982274
+    },
+    {
+      "name": "Пекарна \"Балкан\"",
+      "latitude": 42.605218,
+      "longitude": 23.032056
+    },
+    {
+      "name": "Пекарна \"Оренда\"",
+      "latitude": 42.593098,
+      "longitude": 23.410487
+    },
+    {
+      "name": "Пекарна \"Чочо\"",
+      "latitude": 43.22889,
+      "longitude": 27.884014
+    },
+    {
+      "name": "Пекарна - \"Емо\"",
+      "latitude": 43.193431,
+      "longitude": 27.710442
+    },
+    {
+      "name": "Пекарна 99",
+      "latitude": 43.272282,
+      "longitude": 26.92747
+    },
+    {
+      "name": "Пекарна eMeReS",
+      "latitude": 42.713088,
+      "longitude": 23.269788
+    },
+    {
+      "name": "Пекарна Анна",
+      "latitude": 42.139474,
+      "longitude": 24.745827
+    },
+    {
+      "name": "Пекарна Вкусно",
+      "latitude": 42.711133,
+      "longitude": 27.7652
+    },
+    {
+      "name": "Пекарна Зиа",
+      "latitude": 42.49684,
+      "longitude": 27.470693
+    },
+    {
+      "name": "Пекарна Зиа",
+      "latitude": 42.50209,
+      "longitude": 27.466969
+    },
+    {
+      "name": "Пекарна Зиа",
+      "latitude": 42.522736,
+      "longitude": 27.461966
+    },
+    {
+      "name": "Пекарна Йони",
+      "latitude": 42.565957,
+      "longitude": 27.610592
+    },
+    {
+      "name": "Пекарна Мария Викториа",
+      "latitude": 42.413114,
+      "longitude": 25.588381
+    },
+    {
+      "name": "Пекарна Мелиса",
+      "latitude": 43.147525,
+      "longitude": 24.720305
+    },
+    {
+      "name": "Пекарна Мелиса-2",
+      "latitude": 43.146662,
+      "longitude": 24.720125
+    },
+    {
+      "name": "Пекарна Ники",
+      "latitude": 42.524409,
+      "longitude": 27.465125
+    },
+    {
+      "name": "Пекарна РаВи",
+      "latitude": 42.706309,
+      "longitude": 23.378556
+    },
+    {
+      "name": "Пекарна Разград",
+      "latitude": 43.524005,
+      "longitude": 26.520712
+    },
+    {
+      "name": "Пекарна Тасгер",
+      "latitude": 42.566697,
+      "longitude": 27.614317
+    },
+    {
+      "name": "Пекарна “Парадайс”",
+      "latitude": 42.823754,
+      "longitude": 23.353897
+    },
+    {
+      "name": "Пекарна „Медената Питка“",
+      "latitude": 42.605629,
+      "longitude": 23.032396
+    },
+    {
+      "name": "Пекарна, бързи закуски и кафе",
+      "latitude": 42.64331,
+      "longitude": 23.640337
+    },
+    {
+      "name": "Пекарната",
+      "latitude": 43.847198,
+      "longitude": 25.953532
+    },
+    {
+      "name": "Пекарната на Влади",
+      "latitude": 41.886006,
+      "longitude": 23.472752
+    },
+    {
+      "name": "Пекарната на Дидо",
+      "latitude": 42.677872,
+      "longitude": 23.366405
+    },
+    {
+      "name": "Пекарната на Еми",
+      "latitude": 42.710619,
+      "longitude": 23.259269
+    },
+    {
+      "name": "Пекарната на Нели",
+      "latitude": 42.650861,
+      "longitude": 23.405076
+    },
+    {
+      "name": "Пекарната на Нена",
+      "latitude": 42.660532,
+      "longitude": 23.273511
+    },
+    {
+      "name": "Пекарната на дядо",
+      "latitude": 42.675889,
+      "longitude": 23.309043
+    },
+    {
+      "name": "Пекарница \"Хлябът на Нена\"",
+      "latitude": 42.67516,
+      "longitude": 23.354955
+    },
+    {
+      "name": "Печкин",
+      "latitude": 43.430821,
+      "longitude": 28.337233
+    },
+    {
+      "name": "Плевенски закуски",
+      "latitude": 43.20407,
+      "longitude": 27.912959
+    },
+    {
+      "name": "Плевенчанка",
+      "latitude": 43.419835,
+      "longitude": 24.615542
+    },
+    {
+      "name": "Предимно пекарна",
+      "latitude": 42.698686,
+      "longitude": 23.332967
+    },
+    {
+      "name": "При Ани и леля",
+      "latitude": 42.662091,
+      "longitude": 23.274126
+    },
+    {
+      "name": "При Насо",
+      "latitude": 42.659036,
+      "longitude": 23.459726
+    },
+    {
+      "name": "При Нуша",
+      "latitude": 43.412099,
+      "longitude": 24.627286
+    },
+    {
+      "name": "При Рена",
+      "latitude": 42.142917,
+      "longitude": 24.760711
+    },
+    {
+      "name": "При Стойчо",
+      "latitude": 42.646764,
+      "longitude": 23.382688
+    },
+    {
+      "name": "Принцеса бар черпакъ",
+      "latitude": 42.150077,
+      "longitude": 24.747489
+    },
+    {
+      "name": "Пролет",
+      "latitude": 42.665802,
+      "longitude": 23.271974
+    },
+    {
+      "name": "Рецептите на баба",
+      "latitude": 42.681732,
+      "longitude": 23.332031
+    },
+    {
+      "name": "Рецептите на баба",
+      "latitude": 42.684335,
+      "longitude": 23.330593
+    },
+    {
+      "name": "Роден край",
+      "latitude": 42.696936,
+      "longitude": 23.319082
+    },
+    {
+      "name": "Родопски баници",
+      "latitude": 42.135778,
+      "longitude": 24.741615
+    },
+    {
+      "name": "Руше",
+      "latitude": 43.276643,
+      "longitude": 26.920935
+    },
+    {
+      "name": "С вкус на любов",
+      "latitude": 42.691192,
+      "longitude": 23.318314
+    },
+    {
+      "name": "Салон",
+      "latitude": 42.688247,
+      "longitude": 23.317339
+    },
+    {
+      "name": "Симид А & Д",
+      "latitude": 42.69258,
+      "longitude": 23.343671
+    },
+    {
+      "name": "Сити бред",
+      "latitude": 43.625726,
+      "longitude": 22.685592
+    },
+    {
+      "name": "Славей Мирчев , мобилен магазин за хляб и хранителни стоки",
+      "latitude": 41.693464,
+      "longitude": 24.97312
+    },
+    {
+      "name": "Славей Мирчев , мобилен магазин за хляб и хранителни стоки",
+      "latitude": 41.695395,
+      "longitude": 24.972482
+    },
+    {
+      "name": "Славей Мирчев , мобилен магазин за хляб и хранителни стоки",
+      "latitude": 41.699979,
+      "longitude": 24.969781
+    },
+    {
+      "name": "Славей Мирчев , мобилен магазин за хляб и хранителни стоки",
+      "latitude": 41.70698,
+      "longitude": 24.966409
+    },
+    {
+      "name": "Славей Мирчев , мобилен магазин за хляб и хранителни стоки",
+      "latitude": 41.710316,
+      "longitude": 24.964106
+    },
+    {
+      "name": "Славей Мирчев , мобилен магазин за хляб и хранителни стоки",
+      "latitude": 41.712893,
+      "longitude": 24.964254
+    },
+    {
+      "name": "Сладкарница Бордо",
+      "latitude": 42.67823,
+      "longitude": 23.238693
+    },
+    {
+      "name": "Сладкарница Захарница",
+      "latitude": 42.608746,
+      "longitude": 23.03146
+    },
+    {
+      "name": "Сладки Елит вкус",
+      "latitude": 42.65963,
+      "longitude": 23.349699
+    },
+    {
+      "name": "Сладко & Солено",
+      "latitude": 42.603316,
+      "longitude": 23.029954
+    },
+    {
+      "name": "Сладко и солено",
+      "latitude": 42.699576,
+      "longitude": 23.320571
+    },
+    {
+      "name": "Сладкопекарна",
+      "latitude": 43.221025,
+      "longitude": 27.93652
+    },
+    {
+      "name": "Сладкопекарна",
+      "latitude": 43.224517,
+      "longitude": 27.925563
+    },
+    {
+      "name": "Сладък Рай",
+      "latitude": 42.132471,
+      "longitude": 24.798411
+    },
+    {
+      "name": "Сладък свят",
+      "latitude": 42.704644,
+      "longitude": 23.32288
+    },
+    {
+      "name": "Слънце Луна",
+      "latitude": 42.689556,
+      "longitude": 23.325407
+    },
+    {
+      "name": "Слънце луна",
+      "latitude": 42.686252,
+      "longitude": 23.315732
+    },
+    {
+      "name": "Слънчев Хляб",
+      "latitude": 43.206761,
+      "longitude": 27.899482
+    },
+    {
+      "name": "Слънчевата пекарна",
+      "latitude": 42.144507,
+      "longitude": 24.766471
+    },
+    {
+      "name": "Софи",
+      "latitude": 43.217935,
+      "longitude": 27.916447
+    },
+    {
+      "name": "Софи",
+      "latitude": 43.220021,
+      "longitude": 27.911606
+    },
+    {
+      "name": "Софи",
+      "latitude": 43.22124,
+      "longitude": 27.924808
+    },
+    {
+      "name": "Софийска баница",
+      "latitude": 42.698451,
+      "longitude": 23.330277
+    },
+    {
+      "name": "Софийска баница",
+      "latitude": 42.736681,
+      "longitude": 23.303715
+    },
+    {
+      "name": "София Мел",
+      "latitude": 42.700083,
+      "longitude": 23.300766
+    },
+    {
+      "name": "Старата Фурна",
+      "latitude": 42.498532,
+      "longitude": 27.479673
+    },
+    {
+      "name": "Старата къща",
+      "latitude": 42.695563,
+      "longitude": 23.317205
+    },
+    {
+      "name": "Старата люмакс фурна",
+      "latitude": 42.483643,
+      "longitude": 26.502509
+    },
+    {
+      "name": "Старата пекарна",
+      "latitude": 41.933325,
+      "longitude": 25.551842
+    },
+    {
+      "name": "Старата пекарна",
+      "latitude": 42.432757,
+      "longitude": 25.638482
+    },
+    {
+      "name": "Старата пекарна",
+      "latitude": 42.690195,
+      "longitude": 23.340849
+    },
+    {
+      "name": "Стели",
+      "latitude": 43.227742,
+      "longitude": 27.918851
+    },
+    {
+      "name": "Стефани",
+      "latitude": 43.20872,
+      "longitude": 27.912953
+    },
+    {
+      "name": "Стефани",
+      "latitude": 43.211245,
+      "longitude": 27.92625
+    },
+    {
+      "name": "Стони",
+      "latitude": 43.436813,
+      "longitude": 28.337881
+    },
+    {
+      "name": "Сторгозия",
+      "latitude": 43.421524,
+      "longitude": 24.594887
+    },
+    {
+      "name": "ТЕЗГЯХ хлебарна и пекарна",
+      "latitude": 42.492453,
+      "longitude": 27.464996
+    },
+    {
+      "name": "Тезгях",
+      "latitude": 42.499669,
+      "longitude": 27.476137
+    },
+    {
+      "name": "Тетевен",
+      "latitude": 42.911565,
+      "longitude": 24.286301
+    },
+    {
+      "name": "Титони",
+      "latitude": 42.424666,
+      "longitude": 25.638139
+    },
+    {
+      "name": "Тодорови",
+      "latitude": 42.711738,
+      "longitude": 23.311448
+    },
+    {
+      "name": "Тони",
+      "latitude": 42.703178,
+      "longitude": 23.328847
+    },
+    {
+      "name": "Топлата фурна",
+      "latitude": 42.42053,
+      "longitude": 25.624871
+    },
+    {
+      "name": "Топли закуски ЕТ ВИВА",
+      "latitude": 41.636555,
+      "longitude": 25.372441
+    },
+    {
+      "name": "Торти Чочко",
+      "latitude": 42.682518,
+      "longitude": 23.367916
+    },
+    {
+      "name": "Тортите на Ив",
+      "latitude": 42.707754,
+      "longitude": 23.321151
+    },
+    {
+      "name": "Точни и сочни",
+      "latitude": 42.704952,
+      "longitude": 23.318325
+    },
+    {
+      "name": "Традиционна",
+      "latitude": 42.684674,
+      "longitude": 23.353277
+    },
+    {
+      "name": "Тракийска баница",
+      "latitude": 42.697827,
+      "longitude": 23.321465
+    },
+    {
+      "name": "Тракийска баница",
+      "latitude": 42.698211,
+      "longitude": 23.319449
+    },
+    {
+      "name": "Тужо",
+      "latitude": 43.180661,
+      "longitude": 27.897309
+    },
+    {
+      "name": "Тужо",
+      "latitude": 43.207422,
+      "longitude": 27.910218
+    },
+    {
+      "name": "Тужо",
+      "latitude": 43.212117,
+      "longitude": 27.907622
+    },
+    {
+      "name": "Тужо",
+      "latitude": 43.218547,
+      "longitude": 27.937435
+    },
+    {
+      "name": "УниПек",
+      "latitude": 42.652452,
+      "longitude": 23.374422
+    },
+    {
+      "name": "УниПек",
+      "latitude": 42.698973,
+      "longitude": 23.335882
+    },
+    {
+      "name": "УниПек",
+      "latitude": 42.701986,
+      "longitude": 23.300881
+    },
+    {
+      "name": "Унипек",
+      "latitude": 42.679799,
+      "longitude": 23.361141
+    },
+    {
+      "name": "Феникс",
+      "latitude": 42.427773,
+      "longitude": 25.644295
+    },
+    {
+      "name": "Филаделфия",
+      "latitude": 43.854089,
+      "longitude": 25.967781
+    },
+    {
+      "name": "Флестера",
+      "latitude": 43.418672,
+      "longitude": 23.216297
+    },
+    {
+      "name": "Фредо",
+      "latitude": 42.675578,
+      "longitude": 23.359199
+    },
+    {
+      "name": "Френдс",
+      "latitude": 42.661835,
+      "longitude": 23.39767
+    },
+    {
+      "name": "Френска пекарна",
+      "latitude": 41.931621,
+      "longitude": 25.555176
+    },
+    {
+      "name": "Фурна",
+      "latitude": 41.92727,
+      "longitude": 25.910684
+    },
+    {
+      "name": "Фурна",
+      "latitude": 42.245966,
+      "longitude": 25.351164
+    },
+    {
+      "name": "Фурна",
+      "latitude": 43.204335,
+      "longitude": 27.920464
+    },
+    {
+      "name": "Фурна",
+      "latitude": 43.80542,
+      "longitude": 26.10204
+    },
+    {
+      "name": "Фурна НадЕжко",
+      "latitude": 42.68581,
+      "longitude": 23.363311
+    },
+    {
+      "name": "Фурна Папа",
+      "latitude": 43.849107,
+      "longitude": 25.985881
+    },
+    {
+      "name": "Фурна Сан Стефано",
+      "latitude": 43.199616,
+      "longitude": 27.917846
+    },
+    {
+      "name": "Фурна Чинара",
+      "latitude": 42.005901,
+      "longitude": 24.870199
+    },
+    {
+      "name": "Фурна за хляб",
+      "latitude": 42.055227,
+      "longitude": 24.419198
+    },
+    {
+      "name": "Фурната",
+      "latitude": 42.717869,
+      "longitude": 26.374816
+    },
+    {
+      "name": "Фурнатъ",
+      "latitude": 43.563766,
+      "longitude": 27.827751
+    },
+    {
+      "name": "Хапни Вкусно",
+      "latitude": 43.423179,
+      "longitude": 24.599942
+    },
+    {
+      "name": "Харна Пекарна",
+      "latitude": 42.504815,
+      "longitude": 27.468369
+    },
+    {
+      "name": "ХлеБар",
+      "latitude": 42.690321,
+      "longitude": 23.328808
+    },
+    {
+      "name": "Хлебар",
+      "latitude": 42.694549,
+      "longitude": 23.342226
+    },
+    {
+      "name": "Хлебарница",
+      "latitude": 43.367473,
+      "longitude": 23.714428
+    },
+    {
+      "name": "Хлебарница \"Пармаксъзов\"",
+      "latitude": 43.218344,
+      "longitude": 27.91899
+    },
+    {
+      "name": "Хлебарница Пармаксъзов",
+      "latitude": 43.209812,
+      "longitude": 27.913028
+    },
+    {
+      "name": "Хлебозавод",
+      "latitude": 43.078562,
+      "longitude": 25.625175
+    },
+    {
+      "name": "Хлебоизкусителница",
+      "latitude": 42.672124,
+      "longitude": 23.289538
+    },
+    {
+      "name": "Хлебоизкусителница",
+      "latitude": 42.863239,
+      "longitude": 24.694277
+    },
+    {
+      "name": "Хлебомания",
+      "latitude": 43.410604,
+      "longitude": 24.622406
+    },
+    {
+      "name": "Хлебопекарна \"Рай\"",
+      "latitude": 41.378002,
+      "longitude": 25.256216
+    },
+    {
+      "name": "Хлебопекарна Вибо",
+      "latitude": 42.672175,
+      "longitude": 23.287038
+    },
+    {
+      "name": "Хлебопекарна Ехо",
+      "latitude": 42.589191,
+      "longitude": 23.154379
+    },
+    {
+      "name": "Хлевоизкусителница",
+      "latitude": 42.692258,
+      "longitude": 23.332176
+    },
+    {
+      "name": "Хляб",
+      "latitude": 42.697054,
+      "longitude": 23.286713
+    },
+    {
+      "name": "Хляб",
+      "latitude": 42.700611,
+      "longitude": 23.328193
+    },
+    {
+      "name": "Хляб и Soul",
+      "latitude": 42.682297,
+      "longitude": 23.313253
+    },
+    {
+      "name": "Хляб и приятели",
+      "latitude": 43.077525,
+      "longitude": 25.62629
+    },
+    {
+      "name": "Хляб и приятели",
+      "latitude": 43.08406,
+      "longitude": 25.623033
+    },
+    {
+      "name": "Хляб печен на дърва",
+      "latitude": 42.702302,
+      "longitude": 23.301223
+    },
+    {
+      "name": "Хлябъ Нашъ",
+      "latitude": 43.422836,
+      "longitude": 24.600477
+    },
+    {
+      "name": "Хлябът на Нена",
+      "latitude": 42.686273,
+      "longitude": 23.290897
+    },
+    {
+      "name": "Хлябът на ден",
+      "latitude": 42.136296,
+      "longitude": 24.760201
+    },
+    {
+      "name": "Хубавата баница",
+      "latitude": 42.710205,
+      "longitude": 23.265801
+    },
+    {
+      "name": "Хубавата баница",
+      "latitude": 42.720754,
+      "longitude": 23.253232
+    },
+    {
+      "name": "Цех за бишкоти – МИПА 2011 ООД",
+      "latitude": 42.472909,
+      "longitude": 23.00738
+    },
+    {
+      "name": "Чандра",
+      "latitude": 42.652756,
+      "longitude": 23.361573
+    },
+    {
+      "name": "Чанка",
+      "latitude": 41.564074,
+      "longitude": 23.279308
+    },
+    {
+      "name": "Чичо Митко",
+      "latitude": 43.216454,
+      "longitude": 27.927675
+    },
+    {
+      "name": "Чоки",
+      "latitude": 41.930749,
+      "longitude": 25.562294
+    },
+    {
+      "name": "Чочо",
+      "latitude": 43.219368,
+      "longitude": 27.867291
+    },
+    {
+      "name": "Шами",
+      "latitude": 42.649228,
+      "longitude": 23.393442
+    },
+    {
+      "name": "Шами",
+      "latitude": 42.669418,
+      "longitude": 23.319853
+    },
+    {
+      "name": "Шами",
+      "latitude": 42.687225,
+      "longitude": 23.318885
+    },
+    {
+      "name": "Шами",
+      "latitude": 42.691563,
+      "longitude": 23.335257
+    },
+    {
+      "name": "Шоколадова къща Стела-М",
+      "latitude": 41.636513,
+      "longitude": 25.372382
+    },
+    {
+      "name": "Шопска баница",
+      "latitude": 42.69612,
+      "longitude": 23.319393
+    },
+    {
+      "name": "Щастливата пекарна",
+      "latitude": 42.698013,
+      "longitude": 23.329472
+    },
+    {
+      "name": "ЯТ",
+      "latitude": 42.494894,
+      "longitude": 27.463295
+    },
+    {
+      "name": "Ядки Торнадо",
+      "latitude": 42.494183,
+      "longitude": 27.479071
+    },
+    {
+      "name": "най-хубавата баница",
+      "latitude": 41.727727,
+      "longitude": 23.150869
+    },
+    {
+      "name": "пекарна Краси",
+      "latitude": 43.163947,
+      "longitude": 27.937514
+    },
+    {
+      "name": "харна пекарна",
+      "latitude": 42.498802,
+      "longitude": 27.479345
+    }
+  ],
+  "meta": {
+    "title": "Пекарни в България - Безплатно изтегляне",
+    "description": "Пекарни и хлебарници в България от данни на OpenStreetMap (shop=bakery). Име и координати WGS84. Съдържа 502 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Пекарни в България | ListBase",
+    "seo_description": "Изтеглете Пекарни в България — 502 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 502 записа / 3 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

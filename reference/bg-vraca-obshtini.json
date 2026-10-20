@@ -1,0 +1,271 @@
+{
+  "id": "bg-vraca-obshtini",
+  "name": "Общини — област Враца (Municipalities of Vratsa)",
+  "title": "Общини — област Враца (Municipalities of Vratsa)",
+  "description": "Списък на общините в област Враца (Vratsa oblast). 10 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс VRC. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "gisco_id": "BG_VRC32",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Роман",
+      "name_en": "",
+      "slug": "roman",
+      "population_2024": 4872,
+      "population_density_2024_per_km2": 16.15546435,
+      "area_km2": 301.56979049,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://roman.egov.bg/wps/portal/municipality-roman/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 2,
+      "gisco_id": "BG_VRC35",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Хайредин",
+      "name_en": "",
+      "slug": "hayredin",
+      "population_2024": 3704,
+      "population_density_2024_per_km2": 19.59926601,
+      "area_km2": 188.98666914,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://hayredin.com/pic/pages/2023-02/817/gals/proekt_programa_bedstviya.docx",
+      "comment": ""
+    },
+    {
+      "id": 258,
+      "gisco_id": "BG_VRC05",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Борован",
+      "name_en": "Borovan",
+      "slug": "borovan",
+      "population_2024": 4780,
+      "population_density_2024_per_km2": 22.68743015,
+      "area_km2": 210.68935393,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 259,
+      "gisco_id": "BG_VRC08",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Бяла Слатина",
+      "name_en": "",
+      "slug": "byala-slatina",
+      "population_2024": 19229,
+      "population_density_2024_per_km2": 35.23223173,
+      "area_km2": 545.77865364,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "http://byala-slatina.com//assets/2019/10/obplbed.pdf",
+      "comment": ""
+    },
+    {
+      "id": 260,
+      "gisco_id": "BG_VRC10",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Враца",
+      "name_en": "",
+      "slug": "vraca",
+      "population_2024": 59576,
+      "population_density_2024_per_km2": 84.3763273,
+      "area_km2": 706.07481867,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.vratza.bg/bg/1612963704.html",
+      "comment": ""
+    },
+    {
+      "id": 261,
+      "gisco_id": "BG_VRC20",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Козлодуй",
+      "name_en": "",
+      "slug": "kozloduy",
+      "population_2024": 17598,
+      "population_density_2024_per_km2": 61.83602695,
+      "area_km2": 284.59137606,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://kozloduy.bg/wps/portal/municipality-kozloduy/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 262,
+      "gisco_id": "BG_VRC21",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Криводол",
+      "name_en": "",
+      "slug": "krivodol",
+      "population_2024": 7446,
+      "population_density_2024_per_km2": 22.77869954,
+      "area_km2": 326.88433281,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://old.krivodol.com/user_pic/files/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%20%D0%B7%D0",
+      "comment": ""
+    },
+    {
+      "id": 263,
+      "gisco_id": "BG_VRC27",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Мездра",
+      "name_en": "Mezdra",
+      "slug": "mezdra",
+      "population_2024": 16760,
+      "population_density_2024_per_km2": 32.30064177,
+      "area_km2": 518.87513942,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 264,
+      "gisco_id": "BG_VRC28",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Мизия",
+      "name_en": "",
+      "slug": "miziya",
+      "population_2024": 5488,
+      "population_density_2024_per_km2": 26.2421665,
+      "area_km2": 209.12907476,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.obshtinamizia.com/wp-content/uploads/2023/03/%D0%9E%D0%91%D0%A9%D0%98%D0%9D%D0%A1%D0%9A%",
+      "comment": ""
+    },
+    {
+      "id": 265,
+      "gisco_id": "BG_VRC31",
+      "oblast_code": "VRC",
+      "oblast_slug": "vraca",
+      "oblast_bg": "Враца",
+      "oblast_en": "Vratsa",
+      "name_bg": "Оряхово",
+      "name_en": "",
+      "slug": "oryahovo",
+      "population_2024": 8166,
+      "population_density_2024_per_km2": 24.75086089,
+      "area_km2": 329.92791792,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://old.oriahovo.bg/images/ZDOI/hhhjgjhgj.docx",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Враца (Municipalities of Vratsa) - Безплатно изтегляне",
+    "description": "Списък на общините в област Враца (Vratsa oblast). 10 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс VRC. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Враца (Municipalities of Vratsa) | ListBase",
+    "seo_description": "Изтеглете Общини — област Враца (Municipalities of Vratsa) — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

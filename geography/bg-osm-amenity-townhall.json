@@ -1,0 +1,7108 @@
+{
+  "id": "bg-osm-amenity-townhall",
+  "name": "Кметства и общински сгради в България (OpenStreetMap)",
+  "title": "Кметства и общински сгради в България (OpenStreetMap)",
+  "description": "Кметства и общински сгради в България — 783 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=townhall`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 783,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Iskra Townhall",
+      "shirina": 41.929893,
+      "dalzhina": 25.132737,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 2,
+      "ime": "Kmetsko",
+      "shirina": 42.013302,
+      "dalzhina": 25.489937,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 3,
+      "ime": "Kocherinovo Municipality",
+      "shirina": 42.085744,
+      "dalzhina": 23.057879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 4,
+      "ime": "Kметство Кметовци",
+      "shirina": 42.898305,
+      "dalzhina": 25.396415,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 5,
+      "ime": "Ovcharovo Mayor's Office, Kostena Reka",
+      "shirina": 43.181439,
+      "dalzhina": 27.142793,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 6,
+      "ime": "Oбреден дом",
+      "shirina": 43.845973,
+      "dalzhina": 25.947651,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 7,
+      "ime": "Primăria Turtucaia",
+      "shirina": 44.050185,
+      "dalzhina": 26.608312,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 8,
+      "ime": "TT77",
+      "shirina": 42.061226,
+      "dalzhina": 25.593469,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 9,
+      "ime": "Trud Townhall",
+      "shirina": 42.231416,
+      "dalzhina": 24.727849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 10,
+      "ime": "Visoka Polyana",
+      "shirina": 43.467111,
+      "dalzhina": 26.774437,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 11,
+      "ime": "Администрация",
+      "shirina": 42.872951,
+      "dalzhina": 25.424249,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 12,
+      "ime": "Администрация \"Албена\" АД",
+      "shirina": 43.365948,
+      "dalzhina": 28.075069,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 13,
+      "ime": "Асеново",
+      "shirina": 43.553252,
+      "dalzhina": 24.86463,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 14,
+      "ime": "Байкал",
+      "shirina": 43.708574,
+      "dalzhina": 24.426612,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 15,
+      "ime": "Балша",
+      "shirina": 42.848863,
+      "dalzhina": 23.269515,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 16,
+      "ime": "Бивше кметство",
+      "shirina": 42.912983,
+      "dalzhina": 23.333953,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 17,
+      "ime": "Богомилово",
+      "shirina": 42.38837,
+      "dalzhina": 25.560438,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 18,
+      "ime": "Бор",
+      "shirina": 41.834866,
+      "dalzhina": 25.046243,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 19,
+      "ime": "Бояджик",
+      "shirina": 42.394174,
+      "dalzhina": 26.302299,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 20,
+      "ime": "Буново",
+      "shirina": 42.717513,
+      "dalzhina": 23.930403,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 21,
+      "ime": "Голяновци",
+      "shirina": 42.828029,
+      "dalzhina": 23.238675,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 22,
+      "ime": "Груево",
+      "shirina": 41.565986,
+      "dalzhina": 25.405193,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 23,
+      "ime": "Драговищица",
+      "shirina": 42.847039,
+      "dalzhina": 23.224674,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 24,
+      "ime": "Драготинци",
+      "shirina": 42.85772,
+      "dalzhina": 22.898904,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 25,
+      "ime": "Загражден",
+      "shirina": 41.719849,
+      "dalzhina": 24.994182,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 26,
+      "ime": "Заседателна зала",
+      "shirina": 42.580871,
+      "dalzhina": 23.167295,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 27,
+      "ime": "Заседателна зала",
+      "shirina": 42.658492,
+      "dalzhina": 27.716538,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 28,
+      "ime": "Клисуритца",
+      "shirina": 43.518679,
+      "dalzhina": 23.040383,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 29,
+      "ime": "Кмество",
+      "shirina": 42.444386,
+      "dalzhina": 27.638079,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 30,
+      "ime": "Кмество",
+      "shirina": 42.561048,
+      "dalzhina": 23.637425,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 31,
+      "ime": "Кмество",
+      "shirina": 42.656376,
+      "dalzhina": 25.294111,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 32,
+      "ime": "Кмество Борика",
+      "shirina": 42.487113,
+      "dalzhina": 23.662945,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 33,
+      "ime": "Кмество Велковци",
+      "shirina": 42.667689,
+      "dalzhina": 22.946183,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 34,
+      "ime": "Кмество Горна Крушица",
+      "shirina": 41.668619,
+      "dalzhina": 23.165272,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 35,
+      "ime": "Кмество Победа",
+      "shirina": 42.425214,
+      "dalzhina": 26.646249,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 36,
+      "ime": "Кмество Църквица",
+      "shirina": 41.543933,
+      "dalzhina": 25.210379,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 37,
+      "ime": "Кместство",
+      "shirina": 42.410264,
+      "dalzhina": 26.540714,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 38,
+      "ime": "Кместство",
+      "shirina": 42.611152,
+      "dalzhina": 24.976158,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 39,
+      "ime": "Кметсво",
+      "shirina": 42.464252,
+      "dalzhina": 23.517791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 40,
+      "ime": "Кметсво",
+      "shirina": 42.825748,
+      "dalzhina": 25.482246,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 41,
+      "ime": "Кметсво",
+      "shirina": 43.676605,
+      "dalzhina": 24.958256,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 42,
+      "ime": "Кметсво Буковец",
+      "shirina": 42.935765,
+      "dalzhina": 23.490888,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 43,
+      "ime": "Кметсво Китен",
+      "shirina": 42.235074,
+      "dalzhina": 27.775182,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 44,
+      "ime": "Кметсво Църварица",
+      "shirina": 42.071563,
+      "dalzhina": 22.835868,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 45,
+      "ime": "Кметски наместник Маточина",
+      "shirina": 41.849639,
+      "dalzhina": 26.543939,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 46,
+      "ime": "Кметско наместничество с. Паницово",
+      "shirina": 42.850943,
+      "dalzhina": 27.662266,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 47,
+      "ime": "Кметсктво Ръжена",
+      "shirina": 42.533696,
+      "dalzhina": 25.494854,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 48,
+      "ime": "Кметство",
+      "shirina": 41.292826,
+      "dalzhina": 25.280651,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 49,
+      "ime": "Кметство",
+      "shirina": 41.295944,
+      "dalzhina": 25.305144,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 50,
+      "ime": "Кметство",
+      "shirina": 41.778873,
+      "dalzhina": 26.07311,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 51,
+      "ime": "Кметство",
+      "shirina": 41.821291,
+      "dalzhina": 23.562914,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 52,
+      "ime": "Кметство",
+      "shirina": 41.837965,
+      "dalzhina": 23.487911,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 53,
+      "ime": "Кметство",
+      "shirina": 41.905044,
+      "dalzhina": 24.926749,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 54,
+      "ime": "Кметство",
+      "shirina": 41.934023,
+      "dalzhina": 23.513669,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 55,
+      "ime": "Кметство",
+      "shirina": 42.004582,
+      "dalzhina": 26.861001,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 56,
+      "ime": "Кметство",
+      "shirina": 42.062131,
+      "dalzhina": 25.907719,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 57,
+      "ime": "Кметство",
+      "shirina": 42.067896,
+      "dalzhina": 24.013038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 58,
+      "ime": "Кметство",
+      "shirina": 42.072917,
+      "dalzhina": 26.898222,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 59,
+      "ime": "Кметство",
+      "shirina": 42.082102,
+      "dalzhina": 25.935906,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 60,
+      "ime": "Кметство",
+      "shirina": 42.107174,
+      "dalzhina": 26.502025,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 61,
+      "ime": "Кметство",
+      "shirina": 42.148524,
+      "dalzhina": 24.413923,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 62,
+      "ime": "Кметство",
+      "shirina": 42.158115,
+      "dalzhina": 24.309804,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 63,
+      "ime": "Кметство",
+      "shirina": 42.192385,
+      "dalzhina": 23.987637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 64,
+      "ime": "Кметство",
+      "shirina": 42.214695,
+      "dalzhina": 26.832535,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 65,
+      "ime": "Кметство",
+      "shirina": 42.260193,
+      "dalzhina": 25.324099,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 66,
+      "ime": "Кметство",
+      "shirina": 42.302386,
+      "dalzhina": 26.821383,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 67,
+      "ime": "Кметство",
+      "shirina": 42.302738,
+      "dalzhina": 23.009887,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 68,
+      "ime": "Кметство",
+      "shirina": 42.337975,
+      "dalzhina": 26.738566,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 69,
+      "ime": "Кметство",
+      "shirina": 42.341831,
+      "dalzhina": 24.490241,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 70,
+      "ime": "Кметство",
+      "shirina": 42.368148,
+      "dalzhina": 24.470371,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 71,
+      "ime": "Кметство",
+      "shirina": 42.384006,
+      "dalzhina": 26.821017,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 72,
+      "ime": "Кметство",
+      "shirina": 42.419756,
+      "dalzhina": 25.237813,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 73,
+      "ime": "Кметство",
+      "shirina": 42.430887,
+      "dalzhina": 25.818626,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 74,
+      "ime": "Кметство",
+      "shirina": 42.432766,
+      "dalzhina": 22.897553,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 75,
+      "ime": "Кметство",
+      "shirina": 42.441965,
+      "dalzhina": 25.845482,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 76,
+      "ime": "Кметство",
+      "shirina": 42.454837,
+      "dalzhina": 25.233853,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 77,
+      "ime": "Кметство",
+      "shirina": 42.484639,
+      "dalzhina": 23.024794,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 78,
+      "ime": "Кметство",
+      "shirina": 42.544819,
+      "dalzhina": 24.830913,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 79,
+      "ime": "Кметство",
+      "shirina": 42.573365,
+      "dalzhina": 25.316885,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 80,
+      "ime": "Кметство",
+      "shirina": 42.603724,
+      "dalzhina": 27.384595,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 81,
+      "ime": "Кметство",
+      "shirina": 42.619274,
+      "dalzhina": 23.699038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 82,
+      "ime": "Кметство",
+      "shirina": 42.634772,
+      "dalzhina": 25.232551,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 83,
+      "ime": "Кметство",
+      "shirina": 42.647431,
+      "dalzhina": 25.214648,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 84,
+      "ime": "Кметство",
+      "shirina": 42.66131,
+      "dalzhina": 25.459101,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 85,
+      "ime": "Кметство",
+      "shirina": 42.662174,
+      "dalzhina": 25.487231,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 86,
+      "ime": "Кметство",
+      "shirina": 42.664589,
+      "dalzhina": 25.251213,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 87,
+      "ime": "Кметство",
+      "shirina": 42.671937,
+      "dalzhina": 27.466054,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 88,
+      "ime": "Кметство",
+      "shirina": 42.67214,
+      "dalzhina": 25.350502,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 89,
+      "ime": "Кметство",
+      "shirina": 42.682513,
+      "dalzhina": 26.8775,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 90,
+      "ime": "Кметство",
+      "shirina": 42.744439,
+      "dalzhina": 23.628164,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 91,
+      "ime": "Кметство",
+      "shirina": 42.791021,
+      "dalzhina": 23.302783,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 92,
+      "ime": "Кметство",
+      "shirina": 42.821617,
+      "dalzhina": 23.282937,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 93,
+      "ime": "Кметство",
+      "shirina": 42.862027,
+      "dalzhina": 25.258382,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 94,
+      "ime": "Кметство",
+      "shirina": 42.878124,
+      "dalzhina": 23.134936,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 95,
+      "ime": "Кметство",
+      "shirina": 42.878478,
+      "dalzhina": 25.684062,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 96,
+      "ime": "Кметство",
+      "shirina": 42.970032,
+      "dalzhina": 23.142383,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 97,
+      "ime": "Кметство",
+      "shirina": 42.978681,
+      "dalzhina": 27.320848,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 98,
+      "ime": "Кметство",
+      "shirina": 43.03234,
+      "dalzhina": 23.37765,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 99,
+      "ime": "Кметство",
+      "shirina": 43.085508,
+      "dalzhina": 25.41157,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 100,
+      "ime": "Кметство",
+      "shirina": 43.126394,
+      "dalzhina": 23.719315,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 101,
+      "ime": "Кметство",
+      "shirina": 43.134476,
+      "dalzhina": 25.356344,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 102,
+      "ime": "Кметство",
+      "shirina": 43.153175,
+      "dalzhina": 25.543547,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 103,
+      "ime": "Кметство",
+      "shirina": 43.157535,
+      "dalzhina": 25.30012,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 104,
+      "ime": "Кметство",
+      "shirina": 43.203216,
+      "dalzhina": 24.743929,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 105,
+      "ime": "Кметство",
+      "shirina": 43.216027,
+      "dalzhina": 27.818397,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 106,
+      "ime": "Кметство",
+      "shirina": 43.233045,
+      "dalzhina": 24.832888,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 107,
+      "ime": "Кметство",
+      "shirina": 43.250169,
+      "dalzhina": 27.774893,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 108,
+      "ime": "Кметство",
+      "shirina": 43.253063,
+      "dalzhina": 27.707495,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 109,
+      "ime": "Кметство",
+      "shirina": 43.269331,
+      "dalzhina": 27.764373,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 110,
+      "ime": "Кметство",
+      "shirina": 43.295113,
+      "dalzhina": 27.770371,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 111,
+      "ime": "Кметство",
+      "shirina": 43.327654,
+      "dalzhina": 24.261465,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 112,
+      "ime": "Кметство",
+      "shirina": 43.343218,
+      "dalzhina": 28.054236,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 113,
+      "ime": "Кметство",
+      "shirina": 43.347617,
+      "dalzhina": 24.796599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 114,
+      "ime": "Кметство",
+      "shirina": 43.355901,
+      "dalzhina": 27.828711,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 115,
+      "ime": "Кметство",
+      "shirina": 43.357403,
+      "dalzhina": 24.145089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 116,
+      "ime": "Кметство",
+      "shirina": 43.37901,
+      "dalzhina": 24.061879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 117,
+      "ime": "Кметство",
+      "shirina": 43.386911,
+      "dalzhina": 22.95928,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 118,
+      "ime": "Кметство",
+      "shirina": 43.407938,
+      "dalzhina": 25.880105,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 119,
+      "ime": "Кметство",
+      "shirina": 43.4292,
+      "dalzhina": 23.956697,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 120,
+      "ime": "Кметство",
+      "shirina": 43.43092,
+      "dalzhina": 23.867641,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 121,
+      "ime": "Кметство",
+      "shirina": 43.461739,
+      "dalzhina": 24.457848,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 122,
+      "ime": "Кметство",
+      "shirina": 43.4761,
+      "dalzhina": 25.58844,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 123,
+      "ime": "Кметство",
+      "shirina": 43.494391,
+      "dalzhina": 27.856987,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 124,
+      "ime": "Кметство",
+      "shirina": 43.55217,
+      "dalzhina": 28.265461,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 125,
+      "ime": "Кметство",
+      "shirina": 43.612636,
+      "dalzhina": 28.178568,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 126,
+      "ime": "Кметство",
+      "shirina": 43.625031,
+      "dalzhina": 28.566946,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 127,
+      "ime": "Кметство",
+      "shirina": 43.638896,
+      "dalzhina": 27.83054,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 128,
+      "ime": "Кметство",
+      "shirina": 43.64374,
+      "dalzhina": 27.899255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 129,
+      "ime": "Кметство",
+      "shirina": 43.669581,
+      "dalzhina": 26.50852,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 130,
+      "ime": "Кметство",
+      "shirina": 43.688197,
+      "dalzhina": 27.958156,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 131,
+      "ime": "Кметство",
+      "shirina": 43.697859,
+      "dalzhina": 24.48147,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 132,
+      "ime": "Кметство",
+      "shirina": 43.700528,
+      "dalzhina": 27.844418,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 133,
+      "ime": "Кметство",
+      "shirina": 43.704231,
+      "dalzhina": 27.763892,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 134,
+      "ime": "Кметство",
+      "shirina": 43.718168,
+      "dalzhina": 23.13473,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 135,
+      "ime": "Кметство",
+      "shirina": 43.735709,
+      "dalzhina": 27.638612,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 136,
+      "ime": "Кметство",
+      "shirina": 43.815958,
+      "dalzhina": 27.204411,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 137,
+      "ime": "Кметство",
+      "shirina": 43.920923,
+      "dalzhina": 26.082304,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 138,
+      "ime": "Кметство",
+      "shirina": 43.930303,
+      "dalzhina": 26.234704,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 139,
+      "ime": "Кметство",
+      "shirina": 43.934539,
+      "dalzhina": 26.112293,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 140,
+      "ime": "Кметство",
+      "shirina": 43.962563,
+      "dalzhina": 26.339276,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 141,
+      "ime": "Кметство",
+      "shirina": 43.977781,
+      "dalzhina": 26.405627,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 142,
+      "ime": "Кметство",
+      "shirina": 43.987549,
+      "dalzhina": 26.245586,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 143,
+      "ime": "Кметство",
+      "shirina": 43.990535,
+      "dalzhina": 26.540906,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 144,
+      "ime": "Кметство",
+      "shirina": 43.996431,
+      "dalzhina": 26.364329,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 145,
+      "ime": "Кметство",
+      "shirina": 44.000114,
+      "dalzhina": 26.46362,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 146,
+      "ime": "Кметство",
+      "shirina": 44.001131,
+      "dalzhina": 26.824048,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 147,
+      "ime": "Кметство",
+      "shirina": 44.016125,
+      "dalzhina": 22.806484,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 148,
+      "ime": "Кметство",
+      "shirina": 44.020839,
+      "dalzhina": 26.884381,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 149,
+      "ime": "Кметство",
+      "shirina": 44.06079,
+      "dalzhina": 26.794242,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 150,
+      "ime": "Кметство",
+      "shirina": 44.063563,
+      "dalzhina": 26.848644,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 151,
+      "ime": "Кметство",
+      "shirina": 44.121641,
+      "dalzhina": 22.649079,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 152,
+      "ime": "Кметство",
+      "shirina": 44.129304,
+      "dalzhina": 27.036276,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 153,
+      "ime": "Кметство \"Николово\"",
+      "shirina": 43.863526,
+      "dalzhina": 26.103644,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 154,
+      "ime": "Кметство Алино",
+      "shirina": 42.40233,
+      "dalzhina": 23.381637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 155,
+      "ime": "Кметство Антимово",
+      "shirina": 44.027501,
+      "dalzhina": 22.941255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 156,
+      "ime": "Кметство Асен",
+      "shirina": 42.655653,
+      "dalzhina": 25.197492,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 157,
+      "ime": "Кметство Ахтопол",
+      "shirina": 42.099519,
+      "dalzhina": 27.943422,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 158,
+      "ime": "Кметство Балей",
+      "shirina": 44.18722,
+      "dalzhina": 22.645127,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 159,
+      "ime": "Кметство Баните",
+      "shirina": 41.615283,
+      "dalzhina": 25.006611,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 160,
+      "ime": "Кметство Баня",
+      "shirina": 42.463922,
+      "dalzhina": 24.135945,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 161,
+      "ime": "Кметство Барутин",
+      "shirina": 41.600033,
+      "dalzhina": 24.181448,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 162,
+      "ime": "Кметство Белица",
+      "shirina": 42.851334,
+      "dalzhina": 25.577318,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 163,
+      "ime": "Кметство Бенковски",
+      "shirina": 41.377368,
+      "dalzhina": 25.256235,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 164,
+      "ime": "Кметство Биволаре",
+      "shirina": 43.485256,
+      "dalzhina": 24.559369,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 165,
+      "ime": "Кметство Бистрица",
+      "shirina": 42.587771,
+      "dalzhina": 23.360939,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 166,
+      "ime": "Кметство Бобешино",
+      "shirina": 42.312248,
+      "dalzhina": 22.4374,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 167,
+      "ime": "Кметство Богдалия",
+      "shirina": 42.61567,
+      "dalzhina": 23.686754,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 168,
+      "ime": "Кметство Божичен",
+      "shirina": 43.716843,
+      "dalzhina": 25.954627,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 169,
+      "ime": "Кметство Боздуганово",
+      "shirina": 42.339838,
+      "dalzhina": 25.762605,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 170,
+      "ime": "Кметство Бойково, община Родопи",
+      "shirina": 42.002804,
+      "dalzhina": 24.619833,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 171,
+      "ime": "Кметство Боровичене",
+      "shirina": 41.416521,
+      "dalzhina": 23.008758,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 172,
+      "ime": "Кметство Боснек",
+      "shirina": 42.494771,
+      "dalzhina": 23.18022,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 173,
+      "ime": "Кметство Ботево",
+      "shirina": 42.355443,
+      "dalzhina": 26.360604,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 174,
+      "ime": "Кметство Ботево",
+      "shirina": 43.836676,
+      "dalzhina": 22.862657,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 175,
+      "ime": "Кметство Бракьовци",
+      "shirina": 43.060458,
+      "dalzhina": 23.157165,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 176,
+      "ime": "Кметство Брод",
+      "shirina": 42.047365,
+      "dalzhina": 25.681999,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 177,
+      "ime": "Кметство Брястово",
+      "shirina": 42.525969,
+      "dalzhina": 25.932376,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 178,
+      "ime": "Кметство Бузовград",
+      "shirina": 42.580586,
+      "dalzhina": 25.370995,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 179,
+      "ime": "Кметство Буря",
+      "shirina": 43.029648,
+      "dalzhina": 25.314021,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 180,
+      "ime": "Кметство Бусманци",
+      "shirina": 42.676312,
+      "dalzhina": 23.432972,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 181,
+      "ime": "Кметство Бъдеще",
+      "shirina": 42.310064,
+      "dalzhina": 25.672538,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 182,
+      "ime": "Кметство Българи",
+      "shirina": 42.087564,
+      "dalzhina": 27.729462,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 183,
+      "ime": "Кметство Бърдарски Геран",
+      "shirina": 43.547438,
+      "dalzhina": 23.953188,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 184,
+      "ime": "Кметство Бързия",
+      "shirina": 43.201513,
+      "dalzhina": 23.163044,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 185,
+      "ime": "Кметство Бял извор",
+      "shirina": 42.158241,
+      "dalzhina": 25.638201,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 186,
+      "ime": "Кметство Бяла Вода",
+      "shirina": 43.629034,
+      "dalzhina": 25.042841,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 187,
+      "ime": "Кметство Бяла река",
+      "shirina": 42.05926,
+      "dalzhina": 25.263924,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 188,
+      "ime": "Кметство Бяла черква",
+      "shirina": 43.204019,
+      "dalzhina": 25.310368,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 189,
+      "ime": "Кметство Ваклиново",
+      "shirina": 41.594071,
+      "dalzhina": 24.06415,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 190,
+      "ime": "Кметство Видно",
+      "shirina": 43.563789,
+      "dalzhina": 28.378748,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 191,
+      "ime": "Кметство Видраре",
+      "shirina": 42.993926,
+      "dalzhina": 24.01019,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 192,
+      "ime": "Кметство Виноград",
+      "shirina": 43.336811,
+      "dalzhina": 25.827222,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 193,
+      "ime": "Кметство Висока поляна",
+      "shirina": 43.467134,
+      "dalzhina": 26.774433,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 194,
+      "ime": "Кметство Владая",
+      "shirina": 42.628274,
+      "dalzhina": 23.195941,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 195,
+      "ime": "Кметство Войводово",
+      "shirina": 41.855562,
+      "dalzhina": 25.544456,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 196,
+      "ime": "Кметство Войници",
+      "shirina": 43.449942,
+      "dalzhina": 23.172679,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 197,
+      "ime": "Кметство Волуяк",
+      "shirina": 42.773686,
+      "dalzhina": 23.243487,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 198,
+      "ime": "Кметство Габарево",
+      "shirina": 42.626307,
+      "dalzhina": 25.16176,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 199,
+      "ime": "Кметство Габра",
+      "shirina": 42.53526,
+      "dalzhina": 23.609573,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 200,
+      "ime": "Кметство Габрене",
+      "shirina": 41.367424,
+      "dalzhina": 22.973698,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 201,
+      "ime": "Кметство Габрово",
+      "shirina": 41.896975,
+      "dalzhina": 22.940422,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 202,
+      "ime": "Кметство Гайтанци",
+      "shirina": 43.832648,
+      "dalzhina": 22.811739,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 203,
+      "ime": "Кметство Ганчовец",
+      "shirina": 42.990968,
+      "dalzhina": 25.518609,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 204,
+      "ime": "Кметство Гара Елин Пелин",
+      "shirina": 42.623762,
+      "dalzhina": 23.582317,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 205,
+      "ime": "Кметство Гара Лакатник",
+      "shirina": 43.084582,
+      "dalzhina": 23.380794,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 206,
+      "ime": "Кметство Герман",
+      "shirina": 42.609463,
+      "dalzhina": 23.41011,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 207,
+      "ime": "Кметство Гинци",
+      "shirina": 43.073056,
+      "dalzhina": 23.108,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 208,
+      "ime": "Кметство Голеш",
+      "shirina": 43.051084,
+      "dalzhina": 22.941542,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 209,
+      "ime": "Кметство Горен Близнак",
+      "shirina": 43.072858,
+      "dalzhina": 27.868277,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 210,
+      "ime": "Кметство Горна махала",
+      "shirina": 42.444182,
+      "dalzhina": 24.777703,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 211,
+      "ime": "Кметство Горни Юруци",
+      "shirina": 41.349062,
+      "dalzhina": 25.918094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 212,
+      "ime": "Кметство Грамаде",
+      "shirina": 42.217738,
+      "dalzhina": 23.036528,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 213,
+      "ime": "Кметство Граница",
+      "shirina": 42.255053,
+      "dalzhina": 22.744735,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 214,
+      "ime": "Кметство Гроздьово",
+      "shirina": 43.02891,
+      "dalzhina": 27.540166,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 215,
+      "ime": "Кметство Гурмазово",
+      "shirina": 42.743528,
+      "dalzhina": 23.169526,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 216,
+      "ime": "Кметство Гюльовца",
+      "shirina": 42.766587,
+      "dalzhina": 27.599728,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 217,
+      "ime": "Кметство ДЕБНЕВО",
+      "shirina": 42.960261,
+      "dalzhina": 24.844712,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 218,
+      "ime": "Кметство Дворище",
+      "shirina": 42.338412,
+      "dalzhina": 22.748131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 219,
+      "ime": "Кметство Делчево",
+      "shirina": 41.555543,
+      "dalzhina": 23.696909,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 220,
+      "ime": "Кметство Делян",
+      "shirina": 42.3832,
+      "dalzhina": 23.102648,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 221,
+      "ime": "Кметство Джулюница",
+      "shirina": 43.136311,
+      "dalzhina": 25.902508,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 222,
+      "ime": "Кметство Джулюница",
+      "shirina": 43.579749,
+      "dalzhina": 25.614808,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 223,
+      "ime": "Кметство Джурово",
+      "shirina": 42.958922,
+      "dalzhina": 24.050828,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 224,
+      "ime": "Кметство Дибич",
+      "shirina": 43.228294,
+      "dalzhina": 27.002951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 225,
+      "ime": "Кметство Динката",
+      "shirina": 42.289205,
+      "dalzhina": 24.227902,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 226,
+      "ime": "Кметство Добревци",
+      "shirina": 43.067038,
+      "dalzhina": 24.083849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 227,
+      "ime": "Кметство Добрич",
+      "shirina": 42.029112,
+      "dalzhina": 25.522595,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 228,
+      "ime": "Кметство Добрич",
+      "shirina": 42.173902,
+      "dalzhina": 26.665829,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 229,
+      "ime": "Кметство Добърско",
+      "shirina": 41.970309,
+      "dalzhina": 23.476688,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 230,
+      "ime": "Кметство Доганово",
+      "shirina": 42.632735,
+      "dalzhina": 23.685694,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 231,
+      "ime": "Кметство Долапите",
+      "shirina": 43.797381,
+      "dalzhina": 25.93183,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 232,
+      "ime": "Кметство Долна Крушиа",
+      "shirina": 41.424963,
+      "dalzhina": 22.984375,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 233,
+      "ime": "Кметство Долна Рибница",
+      "shirina": 41.447919,
+      "dalzhina": 23.096387,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 234,
+      "ime": "Кметство Долни Раковец",
+      "shirina": 42.473159,
+      "dalzhina": 23.00823,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 235,
+      "ime": "Кметство Долни окол",
+      "shirina": 42.486457,
+      "dalzhina": 23.49774,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 236,
+      "ime": "Кметство Долно Луково",
+      "shirina": 41.373688,
+      "dalzhina": 26.075423,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 237,
+      "ime": "Кметство Долно и Горно Уйно",
+      "shirina": 42.416682,
+      "dalzhina": 22.575962,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 238,
+      "ime": "Кметство Домище",
+      "shirina": 41.355124,
+      "dalzhina": 25.373172,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 239,
+      "ime": "Кметство Донино",
+      "shirina": 42.910954,
+      "dalzhina": 25.37436,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 240,
+      "ime": "Кметство Драбишна",
+      "shirina": 41.501094,
+      "dalzhina": 26.157817,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 241,
+      "ime": "Кметство Драгалевци",
+      "shirina": 42.629006,
+      "dalzhina": 23.309002,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 242,
+      "ime": "Кметство Драгоданово",
+      "shirina": 42.631999,
+      "dalzhina": 26.567345,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 243,
+      "ime": "Кметство Драгор",
+      "shirina": 42.229256,
+      "dalzhina": 24.300765,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 244,
+      "ime": "Кметство Дружба 3",
+      "shirina": 43.827475,
+      "dalzhina": 25.971529,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 245,
+      "ime": "Кметство Дуранкулак",
+      "shirina": 43.693489,
+      "dalzhina": 28.526435,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 246,
+      "ime": "Кметство Дъбен",
+      "shirina": 43.131756,
+      "dalzhina": 24.215982,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 247,
+      "ime": "Кметство Езерче",
+      "shirina": 43.557094,
+      "dalzhina": 26.308509,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 248,
+      "ime": "Кметство Елхово",
+      "shirina": 42.576385,
+      "dalzhina": 25.745013,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 249,
+      "ime": "Кметство Енина",
+      "shirina": 42.667677,
+      "dalzhina": 25.408615,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 250,
+      "ime": "Кметство Жеравна",
+      "shirina": 42.833729,
+      "dalzhina": 26.460827,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 251,
+      "ime": "Кметство Живково",
+      "shirina": 42.450075,
+      "dalzhina": 23.755493,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 252,
+      "ime": "Кметство Жижево",
+      "shirina": 41.552233,
+      "dalzhina": 24.028003,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 253,
+      "ime": "Кметство Замфирово",
+      "shirina": 43.297935,
+      "dalzhina": 23.241372,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 254,
+      "ime": "Кметство Звенимир",
+      "shirina": 43.826053,
+      "dalzhina": 26.924594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 255,
+      "ime": "Кметство Златар",
+      "shirina": 43.109169,
+      "dalzhina": 26.956216,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 256,
+      "ime": "Кметство Златиница",
+      "shirina": 42.154229,
+      "dalzhina": 26.705902,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 257,
+      "ime": "Кметство Златосел",
+      "shirina": 42.414788,
+      "dalzhina": 25.014024,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 258,
+      "ime": "Кметство Зорница",
+      "shirina": 42.385148,
+      "dalzhina": 26.928321,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 259,
+      "ime": "Кметство Зорница",
+      "shirina": 43.329921,
+      "dalzhina": 27.731588,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 260,
+      "ime": "Кметство Ивановци",
+      "shirina": 43.862686,
+      "dalzhina": 22.761957,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 261,
+      "ime": "Кметство Иваняне",
+      "shirina": 42.707758,
+      "dalzhina": 23.183078,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 262,
+      "ime": "Кметство Игралище",
+      "shirina": 41.56766,
+      "dalzhina": 23.126053,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 263,
+      "ime": "Кметство Искрец",
+      "shirina": 42.987067,
+      "dalzhina": 23.252401,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 264,
+      "ime": "Кметство Кабиле",
+      "shirina": 42.528825,
+      "dalzhina": 26.478344,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 265,
+      "ime": "Кметство Казашко",
+      "shirina": 43.197778,
+      "dalzhina": 27.82086,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 266,
+      "ime": "Кметство Казичене",
+      "shirina": 42.659609,
+      "dalzhina": 23.465081,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 267,
+      "ime": "Кметство Кален",
+      "shirina": 43.211091,
+      "dalzhina": 23.775202,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 268,
+      "ime": "Кметство Калотина",
+      "shirina": 42.994091,
+      "dalzhina": 22.866785,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 269,
+      "ime": "Кметство Калугерово",
+      "shirina": 42.326923,
+      "dalzhina": 24.169807,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 270,
+      "ime": "Кметство Калугерово",
+      "shirina": 42.990495,
+      "dalzhina": 23.894767,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 271,
+      "ime": "Кметство Каменица",
+      "shirina": 41.649708,
+      "dalzhina": 23.160508,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 272,
+      "ime": "Кметство Каменна Рикса",
+      "shirina": 43.45574,
+      "dalzhina": 23.035756,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 273,
+      "ime": "Кметство Караджалово",
+      "shirina": 42.094042,
+      "dalzhina": 25.31608,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 274,
+      "ime": "Кметство Катрище",
+      "shirina": 42.289297,
+      "dalzhina": 22.831653,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 275,
+      "ime": "Кметство Катунци",
+      "shirina": 41.444149,
+      "dalzhina": 23.433339,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 276,
+      "ime": "Кметство Килифарево",
+      "shirina": 42.994357,
+      "dalzhina": 25.621148,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 277,
+      "ime": "Кметство Кладница",
+      "shirina": 42.566988,
+      "dalzhina": 23.184422,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 278,
+      "ime": "Кметство Ключ",
+      "shirina": 41.362,
+      "dalzhina": 23.015408,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 279,
+      "ime": "Кметство Ковачевица",
+      "shirina": 41.684268,
+      "dalzhina": 23.826219,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 280,
+      "ime": "Кметство Кожари",
+      "shirina": 41.543754,
+      "dalzhina": 24.337539,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 281,
+      "ime": "Кметство Козичино",
+      "shirina": 42.838136,
+      "dalzhina": 27.572649,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 282,
+      "ime": "Кметство Кокаляне",
+      "shirina": 42.576659,
+      "dalzhina": 23.414166,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 283,
+      "ime": "Кметство Конаре",
+      "shirina": 42.68549,
+      "dalzhina": 25.831888,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 284,
+      "ime": "Кметство Коньово",
+      "shirina": 42.52358,
+      "dalzhina": 26.168154,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 285,
+      "ime": "Кметство Корница",
+      "shirina": 41.640861,
+      "dalzhina": 23.676196,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 286,
+      "ime": "Кметство Кортен",
+      "shirina": 42.546555,
+      "dalzhina": 25.996712,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 287,
+      "ime": "Кметство Костаденец",
+      "shirina": 43.566909,
+      "dalzhina": 26.191106,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 288,
+      "ime": "Кметство Кости",
+      "shirina": 42.058896,
+      "dalzhina": 27.779821,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 289,
+      "ime": "Кметство Кочан",
+      "shirina": 41.586751,
+      "dalzhina": 24.027967,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 290,
+      "ime": "Кметство Крайморие",
+      "shirina": 42.445723,
+      "dalzhina": 27.487443,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 291,
+      "ime": "Кметство Красава",
+      "shirina": 42.788325,
+      "dalzhina": 22.867022,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 292,
+      "ime": "Кметство Крета",
+      "shirina": 43.12523,
+      "dalzhina": 23.699319,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 293,
+      "ime": "Кметство Крумово",
+      "shirina": 42.078611,
+      "dalzhina": 23.022352,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 294,
+      "ime": "Кметство Крушовица",
+      "shirina": 42.561011,
+      "dalzhina": 23.637443,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 295,
+      "ime": "Кметство Крън",
+      "shirina": 42.666218,
+      "dalzhina": 25.382799,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 296,
+      "ime": "Кметство Кубратово",
+      "shirina": 42.772608,
+      "dalzhina": 23.361918,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 297,
+      "ime": "Кметство Кутово",
+      "shirina": 44.030291,
+      "dalzhina": 22.96622,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 298,
+      "ime": "Кметство Кънчево",
+      "shirina": 42.541298,
+      "dalzhina": 25.448905,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 299,
+      "ime": "Кметство Къпиновци",
+      "shirina": 43.683577,
+      "dalzhina": 26.910857,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 300,
+      "ime": "Кметство Леново",
+      "shirina": 41.94659,
+      "dalzhina": 25.079341,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 301,
+      "ime": "Кметство Лесново",
+      "shirina": 42.64236,
+      "dalzhina": 23.64222,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 302,
+      "ime": "Кметство Липница",
+      "shirina": 43.029475,
+      "dalzhina": 23.754557,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 303,
+      "ime": "Кметство Ловнидол",
+      "shirina": 42.997061,
+      "dalzhina": 25.248818,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 304,
+      "ime": "Кметство Лозарево",
+      "shirina": 42.767349,
+      "dalzhina": 26.879719,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 305,
+      "ime": "Кметство Лозен",
+      "shirina": 41.803279,
+      "dalzhina": 26.027875,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 306,
+      "ime": "Кметство Лозица",
+      "shirina": 43.603335,
+      "dalzhina": 24.997473,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 307,
+      "ime": "Кметство Лозово",
+      "shirina": 42.532659,
+      "dalzhina": 27.409204,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 308,
+      "ime": "Кметство Локорско",
+      "shirina": 42.795477,
+      "dalzhina": 23.447315,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 309,
+      "ime": "Кметство Любенова махала",
+      "shirina": 42.351684,
+      "dalzhina": 25.965918,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 310,
+      "ime": "Кметство Люляк",
+      "shirina": 42.509807,
+      "dalzhina": 25.675629,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 311,
+      "ime": "Кметство Мала Църква",
+      "shirina": 42.596231,
+      "dalzhina": 23.111471,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 312,
+      "ime": "Кметство Малка Арда",
+      "shirina": 41.618295,
+      "dalzhina": 24.930295,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 313,
+      "ime": "Кметство Маломирово",
+      "shirina": 42.141626,
+      "dalzhina": 26.64206,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 314,
+      "ime": "Кметство Малчика",
+      "shirina": 43.413546,
+      "dalzhina": 25.111097,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 315,
+      "ime": "Кметство Малък Девисил",
+      "shirina": 41.365078,
+      "dalzhina": 25.657678,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 316,
+      "ime": "Кметство Марково",
+      "shirina": 42.063623,
+      "dalzhina": 24.702875,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 317,
+      "ime": "Кметство Медешевци",
+      "shirina": 43.887457,
+      "dalzhina": 22.643321,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 318,
+      "ime": "Кметство Мезек",
+      "shirina": 41.738268,
+      "dalzhina": 26.087757,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 319,
+      "ime": "Кметство Мелник",
+      "shirina": 41.523575,
+      "dalzhina": 23.39105,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 320,
+      "ime": "Кметство Мендово",
+      "shirina": 41.420233,
+      "dalzhina": 23.116486,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 321,
+      "ime": "Кметство Меричлери",
+      "shirina": 42.132133,
+      "dalzhina": 25.498247,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 322,
+      "ime": "Кметство Микрево",
+      "shirina": 41.624663,
+      "dalzhina": 23.198155,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 323,
+      "ime": "Кметство Мишевско",
+      "shirina": 41.526004,
+      "dalzhina": 25.243765,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 324,
+      "ime": "Кметство Мърчаево",
+      "shirina": 42.599466,
+      "dalzhina": 23.16971,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 325,
+      "ime": "Кметство Навъсен",
+      "shirina": 42.097811,
+      "dalzhina": 25.88399,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 326,
+      "ime": "Кметство Найденово",
+      "shirina": 42.379855,
+      "dalzhina": 25.26103,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 327,
+      "ime": "Кметство Негован",
+      "shirina": 42.768866,
+      "dalzhina": 23.406321,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 328,
+      "ime": "Кметство Негованци",
+      "shirina": 42.457331,
+      "dalzhina": 22.950288,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 329,
+      "ime": "Кметство Николичевци",
+      "shirina": 42.322952,
+      "dalzhina": 22.71637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 330,
+      "ime": "Кметство Никудин",
+      "shirina": 41.566285,
+      "dalzhina": 23.045989,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 331,
+      "ime": "Кметство Нови извор",
+      "shirina": 41.973679,
+      "dalzhina": 25.053839,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 332,
+      "ime": "Кметство Нови хан",
+      "shirina": 42.605698,
+      "dalzhina": 23.59717,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 333,
+      "ime": "Кметство Ново Градище",
+      "shirina": 43.211404,
+      "dalzhina": 26.058132,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 334,
+      "ime": "Кметство Ново Делчево",
+      "shirina": 41.505079,
+      "dalzhina": 23.284791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 335,
+      "ime": "Кметство Ново Кономлади",
+      "shirina": 41.454722,
+      "dalzhina": 23.330862,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 336,
+      "ime": "Кметство Ново село",
+      "shirina": 42.104419,
+      "dalzhina": 24.482117,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 337,
+      "ime": "Кметство Обидим",
+      "shirina": 41.788032,
+      "dalzhina": 23.639365,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 338,
+      "ime": "Кметство Овощник",
+      "shirina": 42.57712,
+      "dalzhina": 25.447187,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 339,
+      "ime": "Кметство Овча могила",
+      "shirina": 43.435359,
+      "dalzhina": 25.262224,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 340,
+      "ime": "Кметство Огняново",
+      "shirina": 42.619901,
+      "dalzhina": 23.734211,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 341,
+      "ime": "Кметство Омарчево",
+      "shirina": 42.458702,
+      "dalzhina": 26.142637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 342,
+      "ime": "Кметство Орлово",
+      "shirina": 41.82778,
+      "dalzhina": 25.541709,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 343,
+      "ime": "Кметство Орцево",
+      "shirina": 41.963609,
+      "dalzhina": 23.730019,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 344,
+      "ime": "Кметство Ослен Криводол",
+      "shirina": 43.111095,
+      "dalzhina": 23.788486,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 345,
+      "ime": "Кметство Отец Паисиево",
+      "shirina": 42.455305,
+      "dalzhina": 24.892888,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 346,
+      "ime": "Кметство Оходен",
+      "shirina": 43.365679,
+      "dalzhina": 23.716202,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 347,
+      "ime": "Кметство Паничерево",
+      "shirina": 42.603184,
+      "dalzhina": 25.850643,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 348,
+      "ime": "Кметство Партизани",
+      "shirina": 43.009819,
+      "dalzhina": 27.24949,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 349,
+      "ime": "Кметство Партизанин",
+      "shirina": 42.24766,
+      "dalzhina": 25.250975,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 350,
+      "ime": "Кметство Пауново",
+      "shirina": 42.517038,
+      "dalzhina": 23.711755,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 351,
+      "ime": "Кметство Пелатиково",
+      "shirina": 42.176412,
+      "dalzhina": 22.774282,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 352,
+      "ime": "Кметство Песнопой",
+      "shirina": 42.487384,
+      "dalzhina": 24.80817,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 353,
+      "ime": "Кметство Петково",
+      "shirina": 42.670449,
+      "dalzhina": 23.652221,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 354,
+      "ime": "Кметство Петрово",
+      "shirina": 41.437767,
+      "dalzhina": 23.505897,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 355,
+      "ime": "Кметство Петърч",
+      "shirina": 42.845035,
+      "dalzhina": 23.146733,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 356,
+      "ime": "Кметство Плана",
+      "shirina": 42.486087,
+      "dalzhina": 23.407284,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 357,
+      "ime": "Кметство Подайва",
+      "shirina": 43.66928,
+      "dalzhina": 26.914084,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 358,
+      "ime": "Кметство Пожарево",
+      "shirina": 42.755292,
+      "dalzhina": 23.128507,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 359,
+      "ime": "Кметство Поибрене",
+      "shirina": 42.503638,
+      "dalzhina": 23.999169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 360,
+      "ime": "Кметство Покровник",
+      "shirina": 41.985927,
+      "dalzhina": 23.054096,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 361,
+      "ime": "Кметство Попович",
+      "shirina": 42.834408,
+      "dalzhina": 27.794546,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 362,
+      "ime": "Кметство Поповяне",
+      "shirina": 42.426074,
+      "dalzhina": 23.347852,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 363,
+      "ime": "Кметство Потоп",
+      "shirina": 42.748179,
+      "dalzhina": 23.661193,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 364,
+      "ime": "Кметство Припек",
+      "shirina": 41.462925,
+      "dalzhina": 25.184473,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 365,
+      "ime": "Кметство Приселци",
+      "shirina": 42.824188,
+      "dalzhina": 27.80303,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 366,
+      "ime": "Кметство Пролеша",
+      "shirina": 42.778941,
+      "dalzhina": 23.145548,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 367,
+      "ime": "Кметство Просторно",
+      "shirina": 43.645742,
+      "dalzhina": 26.48095,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 368,
+      "ime": "Кметство Пъдарево",
+      "shirina": 42.728377,
+      "dalzhina": 26.669477,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 369,
+      "ime": "Кметство Равнище",
+      "shirina": 42.996292,
+      "dalzhina": 24.04713,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 370,
+      "ime": "Кметство Равногор",
+      "shirina": 41.95268,
+      "dalzhina": 24.368054,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 371,
+      "ime": "Кметство Радиево",
+      "shirina": 42.093891,
+      "dalzhina": 25.624297,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 372,
+      "ime": "Кметство Радишево",
+      "shirina": 43.378644,
+      "dalzhina": 24.668162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 373,
+      "ime": "Кметство Радловци",
+      "shirina": 42.313791,
+      "dalzhina": 22.635616,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 374,
+      "ime": "Кметство Раздол",
+      "shirina": 41.61609,
+      "dalzhina": 23.008914,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 375,
+      "ime": "Кметство Райкова могила",
+      "shirina": 41.818102,
+      "dalzhina": 26.302563,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 376,
+      "ime": "Кметство Ракитница",
+      "shirina": 42.33671,
+      "dalzhina": 25.511233,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 377,
+      "ime": "Кметство Розово",
+      "shirina": 42.560505,
+      "dalzhina": 25.414515,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 378,
+      "ime": "Кметство Рударци",
+      "shirina": 42.580882,
+      "dalzhina": 23.167292,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 379,
+      "ime": "Кметство Руен (Богородично)",
+      "shirina": 42.014829,
+      "dalzhina": 24.807252,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 380,
+      "ime": "Кметство Рупките",
+      "shirina": 42.247016,
+      "dalzhina": 25.348486,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 381,
+      "ime": "Кметство Ръсово",
+      "shirina": 42.269118,
+      "dalzhina": 22.540055,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 382,
+      "ime": "Кметство Сава",
+      "shirina": 43.031859,
+      "dalzhina": 27.380793,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 383,
+      "ime": "Кметство Саданиново",
+      "shirina": 43.539187,
+      "dalzhina": 25.005232,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 384,
+      "ime": "Кметство Световрачене",
+      "shirina": 42.782515,
+      "dalzhina": 23.387867,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 385,
+      "ime": "Кметство Сирищник",
+      "shirina": 42.57101,
+      "dalzhina": 22.814126,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 386,
+      "ime": "Кметство Ситово",
+      "shirina": 41.927415,
+      "dalzhina": 24.6176,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 387,
+      "ime": "Кметство Склаве",
+      "shirina": 41.520929,
+      "dalzhina": 23.317849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 388,
+      "ime": "Кметство Скобелево",
+      "shirina": 42.677308,
+      "dalzhina": 25.194479,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 389,
+      "ime": "Кметство Скрът",
+      "shirina": 41.365271,
+      "dalzhina": 22.999148,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 390,
+      "ime": "Кметство Слишовци",
+      "shirina": 42.806672,
+      "dalzhina": 22.465779,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 391,
+      "ime": "Кметство Смолник",
+      "shirina": 42.529726,
+      "dalzhina": 26.927399,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 392,
+      "ime": "Кметство Соволяно",
+      "shirina": 42.330577,
+      "dalzhina": 22.66139,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 393,
+      "ime": "Кметство Сокол",
+      "shirina": 42.4063,
+      "dalzhina": 26.094942,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 394,
+      "ime": "Кметство Сопово",
+      "shirina": 42.173864,
+      "dalzhina": 23.023861,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 395,
+      "ime": "Кметство Средна кула",
+      "shirina": 43.80691,
+      "dalzhina": 25.937303,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 396,
+      "ime": "Кметство Стара Кресна",
+      "shirina": 41.790005,
+      "dalzhina": 23.180432,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 397,
+      "ime": "Кметство Старо село",
+      "shirina": 42.581318,
+      "dalzhina": 26.148676,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 398,
+      "ime": "Кметство Стрелец",
+      "shirina": 42.297392,
+      "dalzhina": 25.747114,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 399,
+      "ime": "Кметство Стрелци",
+      "shirina": 42.396842,
+      "dalzhina": 24.91303,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 400,
+      "ime": "Кметство Строево",
+      "shirina": 42.236539,
+      "dalzhina": 24.687465,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 401,
+      "ime": "Кметство Стумешница",
+      "shirina": 41.395645,
+      "dalzhina": 23.04305,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 402,
+      "ime": "Кметство Сумер",
+      "shirina": 43.332703,
+      "dalzhina": 23.332452,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 403,
+      "ime": "Кметство Сусам",
+      "shirina": 41.962702,
+      "dalzhina": 25.347388,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 404,
+      "ime": "Кметство Сухозем",
+      "shirina": 42.415051,
+      "dalzhina": 24.868916,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 405,
+      "ime": "Кметство Събрано",
+      "shirina": 42.431319,
+      "dalzhina": 25.898351,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 406,
+      "ime": "Кметство Сърнево",
+      "shirina": 42.3559,
+      "dalzhina": 25.839168,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 407,
+      "ime": "Кметство Сърнегор",
+      "shirina": 42.458902,
+      "dalzhina": 24.937267,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 408,
+      "ime": "Кметство Сърница",
+      "shirina": 41.737107,
+      "dalzhina": 24.025064,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 409,
+      "ime": "Кметство Тамарино",
+      "shirina": 42.378233,
+      "dalzhina": 26.74398,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 410,
+      "ime": "Кметство Типченица",
+      "shirina": 43.064772,
+      "dalzhina": 23.710787,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 411,
+      "ime": "Кметство Тлачене",
+      "shirina": 43.342326,
+      "dalzhina": 23.846923,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 412,
+      "ime": "Кметство Тракиец",
+      "shirina": 41.867531,
+      "dalzhina": 25.452688,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 413,
+      "ime": "Кметство Тулово",
+      "shirina": 42.572879,
+      "dalzhina": 25.544644,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 414,
+      "ime": "Кметство Тъжа",
+      "shirina": 42.65095,
+      "dalzhina": 25.084607,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 415,
+      "ime": "Кметство Углярци",
+      "shirina": 42.387375,
+      "dalzhina": 22.893515,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 416,
+      "ime": "Кметство Фролош",
+      "shirina": 42.130669,
+      "dalzhina": 22.922176,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 417,
+      "ime": "Кметство Хераково",
+      "shirina": 42.781015,
+      "dalzhina": 23.113922,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 418,
+      "ime": "Кметство Храбърско",
+      "shirina": 42.805322,
+      "dalzhina": 23.060131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 419,
+      "ime": "Кметство Хубавене",
+      "shirina": 43.105293,
+      "dalzhina": 23.938385,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 420,
+      "ime": "Кметство Цапарево",
+      "shirina": 41.627192,
+      "dalzhina": 23.100315,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 421,
+      "ime": "Кметство Царева ливада",
+      "shirina": 42.934367,
+      "dalzhina": 25.454118,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 422,
+      "ime": "Кметство Церово",
+      "shirina": 42.358119,
+      "dalzhina": 24.051692,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 423,
+      "ime": "Кметство Цонево",
+      "shirina": 43.029263,
+      "dalzhina": 27.439558,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 424,
+      "ime": "Кметство Чеканец",
+      "shirina": 42.85799,
+      "dalzhina": 22.80622,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 425,
+      "ime": "Кметство Чеканчево",
+      "shirina": 42.70526,
+      "dalzhina": 23.77228,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 426,
+      "ime": "Кметство Чемиш",
+      "shirina": 43.434442,
+      "dalzhina": 23.057448,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 427,
+      "ime": "Кметство Чепинци",
+      "shirina": 41.432765,
+      "dalzhina": 24.869849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 428,
+      "ime": "Кметство Червен",
+      "shirina": 43.61525,
+      "dalzhina": 26.023544,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 429,
+      "ime": "Кметство Червена вода",
+      "shirina": 43.808077,
+      "dalzhina": 26.104536,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 430,
+      "ime": "Кметство Черганово",
+      "shirina": 42.586945,
+      "dalzhina": 25.470269,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 431,
+      "ime": "Кметство Черна гора",
+      "shirina": 42.216425,
+      "dalzhina": 25.229597,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 432,
+      "ime": "Кметство Черногорово",
+      "shirina": 42.028001,
+      "dalzhina": 25.651997,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 433,
+      "ime": "Кметство Чомаковци",
+      "shirina": 43.327873,
+      "dalzhina": 24.067359,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 434,
+      "ime": "Кметство Шейново",
+      "shirina": 42.685862,
+      "dalzhina": 25.317889,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 435,
+      "ime": "Кметство Шемшево",
+      "shirina": 43.070731,
+      "dalzhina": 25.553645,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 436,
+      "ime": "Кметство Шивачево",
+      "shirina": 42.686743,
+      "dalzhina": 26.029594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 437,
+      "ime": "Кметство Широка поляна",
+      "shirina": 41.81275,
+      "dalzhina": 25.40855,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 438,
+      "ime": "Кметство Шишковци",
+      "shirina": 42.350159,
+      "dalzhina": 22.718151,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 439,
+      "ime": "Кметство Югово",
+      "shirina": 41.883048,
+      "dalzhina": 24.803235,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 440,
+      "ime": "Кметство Юлиево",
+      "shirina": 42.565958,
+      "dalzhina": 25.609386,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 441,
+      "ime": "Кметство Ябълково",
+      "shirina": 42.072045,
+      "dalzhina": 25.441788,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 442,
+      "ime": "Кметство Яворница",
+      "shirina": 41.363652,
+      "dalzhina": 23.049213,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 443,
+      "ime": "Кметство Яворово",
+      "shirina": 42.325224,
+      "dalzhina": 25.450749,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 444,
+      "ime": "Кметство Ягода",
+      "shirina": 42.541785,
+      "dalzhina": 25.574781,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 445,
+      "ime": "Кметство Яребична",
+      "shirina": 43.299724,
+      "dalzhina": 27.873933,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 446,
+      "ime": "Кметство Ярлово",
+      "shirina": 42.468586,
+      "dalzhina": 23.278562,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 447,
+      "ime": "Кметство Ясеново",
+      "shirina": 42.68781,
+      "dalzhina": 25.250298,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 448,
+      "ime": "Кметство Ясна поляна",
+      "shirina": 42.281079,
+      "dalzhina": 27.613721,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 449,
+      "ime": "Кметство град Дебелец",
+      "shirina": 43.043715,
+      "dalzhina": 25.621886,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 450,
+      "ime": "Кметство на Горно Кирково",
+      "shirina": 41.320151,
+      "dalzhina": 25.347599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 451,
+      "ime": "Кметство преславен",
+      "shirina": 42.408785,
+      "dalzhina": 25.742429,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 452,
+      "ime": "Кметство с. Аврамово",
+      "shirina": 42.03058,
+      "dalzhina": 23.810729,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 453,
+      "ime": "Кметство с. Богдан",
+      "shirina": 43.507496,
+      "dalzhina": 27.784906,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 454,
+      "ime": "Кметство с. Бранище",
+      "shirina": 43.527195,
+      "dalzhina": 27.84626,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 455,
+      "ime": "Кметство с. Владо Тричков",
+      "shirina": 42.864913,
+      "dalzhina": 23.368686,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 456,
+      "ime": "Кметство с. Габер",
+      "shirina": 42.897608,
+      "dalzhina": 22.861505,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 457,
+      "ime": "Кметство с. Гомотарци",
+      "shirina": 44.092225,
+      "dalzhina": 22.970915,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 458,
+      "ime": "Кметство с. Дончево",
+      "shirina": 43.518992,
+      "dalzhina": 27.765498,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 459,
+      "ime": "Кметство с. Дюлино",
+      "shirina": 42.863183,
+      "dalzhina": 27.728373,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 460,
+      "ime": "Кметство с. Загорци",
+      "shirina": 42.433369,
+      "dalzhina": 25.950499,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 461,
+      "ime": "Кметство с. Козарско",
+      "shirina": 42.058009,
+      "dalzhina": 24.419833,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 462,
+      "ime": "Кметство с. Коняво",
+      "shirina": 42.32388,
+      "dalzhina": 22.781806,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 463,
+      "ime": "Кметство с. Плачи дол",
+      "shirina": 43.54055,
+      "dalzhina": 27.880948,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 464,
+      "ime": "Кметство с. Пленимир",
+      "shirina": 43.655431,
+      "dalzhina": 27.982541,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 465,
+      "ime": "Кметство с. Приморци",
+      "shirina": 43.551999,
+      "dalzhina": 27.906043,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 466,
+      "ime": "Кметство с. Стражица",
+      "shirina": 43.441362,
+      "dalzhina": 28.101374,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 467,
+      "ime": "Кметство с. Сулица",
+      "shirina": 42.438023,
+      "dalzhina": 25.48038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 468,
+      "ime": "Кметство с. Сърневец",
+      "shirina": 42.406741,
+      "dalzhina": 25.342094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 469,
+      "ime": "Кметство с. Тещово",
+      "shirina": 41.466181,
+      "dalzhina": 23.69192,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 470,
+      "ime": "Кметство с. Царичино",
+      "shirina": 43.455916,
+      "dalzhina": 28.17928,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 471,
+      "ime": "Кметство с. Църква",
+      "shirina": 43.413596,
+      "dalzhina": 28.016214,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 472,
+      "ime": "Кметство с. Църквица",
+      "shirina": 43.478282,
+      "dalzhina": 27.183132,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 473,
+      "ime": "Кметство с. Яново",
+      "shirina": 41.436587,
+      "dalzhina": 23.487317,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 474,
+      "ime": "Кметство с.Венец",
+      "shirina": 42.192225,
+      "dalzhina": 25.733165,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 475,
+      "ime": "Кметство с.Гагово",
+      "shirina": 43.402977,
+      "dalzhina": 26.195277,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 476,
+      "ime": "Кметство с.Книжовник",
+      "shirina": 41.826352,
+      "dalzhina": 25.604425,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 477,
+      "ime": "Кметство с.Манастир",
+      "shirina": 41.861616,
+      "dalzhina": 25.580799,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 478,
+      "ime": "Кметство с.Огнен",
+      "shirina": 42.695063,
+      "dalzhina": 26.820905,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 479,
+      "ime": "Кметство с.Осетеново",
+      "shirina": 42.599237,
+      "dalzhina": 25.032328,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 480,
+      "ime": "Кметство село Климент",
+      "shirina": 43.625,
+      "dalzhina": 27.006791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 481,
+      "ime": "Кметство село Кметовци",
+      "shirina": 42.898306,
+      "dalzhina": 25.396409,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 482,
+      "ime": "Кметство село Свежен",
+      "shirina": 42.504365,
+      "dalzhina": 25.026927,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 483,
+      "ime": "Кметство, Поща",
+      "shirina": 43.270098,
+      "dalzhina": 27.93684,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 484,
+      "ime": "Кметство: Каменово",
+      "shirina": 43.714038,
+      "dalzhina": 26.475687,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 485,
+      "ime": "Кметството",
+      "shirina": 43.45514,
+      "dalzhina": 28.5506,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 486,
+      "ime": "Кметсто",
+      "shirina": 42.359896,
+      "dalzhina": 25.646867,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 487,
+      "ime": "Конуш",
+      "shirina": 41.862151,
+      "dalzhina": 25.515228,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 488,
+      "ime": "Костенец",
+      "shirina": 42.307819,
+      "dalzhina": 23.857338,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 489,
+      "ime": "Кулина Вода",
+      "shirina": 43.586447,
+      "dalzhina": 25.031017,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 490,
+      "ime": "Медицински център и Община",
+      "shirina": 42.818305,
+      "dalzhina": 23.250804,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 491,
+      "ime": "Муселиево",
+      "shirina": 43.632931,
+      "dalzhina": 24.852619,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 492,
+      "ime": "Областна администрация Благоевград",
+      "shirina": 42.020916,
+      "dalzhina": 23.097118,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 493,
+      "ime": "Областна администрация Бургас",
+      "shirina": 42.491951,
+      "dalzhina": 27.471964,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 494,
+      "ime": "Областна администрация Варна",
+      "shirina": 43.201368,
+      "dalzhina": 27.915713,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 495,
+      "ime": "Областна администрация Велико Търново",
+      "shirina": 43.080344,
+      "dalzhina": 25.636038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 496,
+      "ime": "Областна администрация Видин",
+      "shirina": 43.984129,
+      "dalzhina": 22.877727,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 497,
+      "ime": "Областна администрация Враца",
+      "shirina": 43.207335,
+      "dalzhina": 23.552375,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 498,
+      "ime": "Областна администрация Добрич",
+      "shirina": 43.568779,
+      "dalzhina": 27.827042,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 499,
+      "ime": "Областна администрация Кърджали",
+      "shirina": 41.640249,
+      "dalzhina": 25.370856,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 500,
+      "ime": "Областна администрация Кюстендил",
+      "shirina": 42.281022,
+      "dalzhina": 22.690297,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 501,
+      "ime": "Областна администрация Ловеч",
+      "shirina": 43.134958,
+      "dalzhina": 24.716866,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 502,
+      "ime": "Областна администрация Монтана",
+      "shirina": 43.407889,
+      "dalzhina": 23.225509,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 503,
+      "ime": "Областна администрация Перник",
+      "shirina": 42.60959,
+      "dalzhina": 23.030842,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 504,
+      "ime": "Областна администрация Плевен",
+      "shirina": 43.408598,
+      "dalzhina": 24.619778,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 505,
+      "ime": "Областна администрация Пловдив",
+      "shirina": 42.148092,
+      "dalzhina": 24.729719,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 506,
+      "ime": "Областна администрация Разград",
+      "shirina": 43.52696,
+      "dalzhina": 26.5243,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 507,
+      "ime": "Областна администрация Силистра",
+      "shirina": 44.116516,
+      "dalzhina": 27.26392,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 508,
+      "ime": "Областна администрация Сливен",
+      "shirina": 42.679477,
+      "dalzhina": 26.320351,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 509,
+      "ime": "Областна администрация Смолян",
+      "shirina": 41.575225,
+      "dalzhina": 24.711853,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 510,
+      "ime": "Областна администрация Софийска област",
+      "shirina": 42.694616,
+      "dalzhina": 23.320435,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 511,
+      "ime": "Областна администрация София-град",
+      "shirina": 42.694765,
+      "dalzhina": 23.317255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 512,
+      "ime": "Областна администрация Стара Загора",
+      "shirina": 42.424453,
+      "dalzhina": 25.629584,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 513,
+      "ime": "Областна администрация Търговище",
+      "shirina": 43.247298,
+      "dalzhina": 26.573131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 514,
+      "ime": "Областна администрация Хасково",
+      "shirina": 41.933155,
+      "dalzhina": 25.556893,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 515,
+      "ime": "Областна администрация Шумен",
+      "shirina": 43.271317,
+      "dalzhina": 26.930697,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 516,
+      "ime": "Областна администрация Ямбол",
+      "shirina": 42.486243,
+      "dalzhina": 26.505697,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 517,
+      "ime": "Обшина Разград",
+      "shirina": 43.526972,
+      "dalzhina": 26.524142,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 518,
+      "ime": "Община",
+      "shirina": 42.299985,
+      "dalzhina": 25.412207,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 519,
+      "ime": "Община",
+      "shirina": 42.731265,
+      "dalzhina": 23.558293,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 520,
+      "ime": "Община",
+      "shirina": 42.801681,
+      "dalzhina": 23.421395,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 521,
+      "ime": "Община",
+      "shirina": 42.908408,
+      "dalzhina": 23.79198,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 522,
+      "ime": "Община",
+      "shirina": 43.639164,
+      "dalzhina": 24.69582,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 523,
+      "ime": "Община Аксаково",
+      "shirina": 43.259339,
+      "dalzhina": 27.817649,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 524,
+      "ime": "Община Алфатар",
+      "shirina": 43.946349,
+      "dalzhina": 27.285841,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 525,
+      "ime": "Община Антон",
+      "shirina": 42.735297,
+      "dalzhina": 24.259711,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 526,
+      "ime": "Община Ардино",
+      "shirina": 41.582674,
+      "dalzhina": 25.135126,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 527,
+      "ime": "Община Асеновград",
+      "shirina": 42.007074,
+      "dalzhina": 24.875787,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 528,
+      "ime": "Община Балчик",
+      "shirina": 43.407688,
+      "dalzhina": 28.16241,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 529,
+      "ime": "Община Баница",
+      "shirina": 43.341163,
+      "dalzhina": 23.691322,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 530,
+      "ime": "Община Батак",
+      "shirina": 41.942436,
+      "dalzhina": 24.218239,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 531,
+      "ime": "Община Белица",
+      "shirina": 41.950755,
+      "dalzhina": 23.55902,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 532,
+      "ime": "Община Белослав",
+      "shirina": 43.189507,
+      "dalzhina": 27.705113,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 533,
+      "ime": "Община Берковица",
+      "shirina": 43.237561,
+      "dalzhina": 23.124025,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 534,
+      "ime": "Община Благоевград",
+      "shirina": 42.021851,
+      "dalzhina": 23.097078,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 535,
+      "ime": "Община Бобов дол",
+      "shirina": 42.366046,
+      "dalzhina": 23.005463,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 536,
+      "ime": "Община Бобошево",
+      "shirina": 42.152889,
+      "dalzhina": 23.00007,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 537,
+      "ime": "Община Божурище",
+      "shirina": 42.763268,
+      "dalzhina": 23.19698,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 538,
+      "ime": "Община Бойчиновци",
+      "shirina": 43.475901,
+      "dalzhina": 23.337816,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 539,
+      "ime": "Община Болярово",
+      "shirina": 42.14877,
+      "dalzhina": 26.809926,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 540,
+      "ime": "Община Борован",
+      "shirina": 43.426995,
+      "dalzhina": 23.755147,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 541,
+      "ime": "Община Брацигово",
+      "shirina": 42.025079,
+      "dalzhina": 24.370919,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 542,
+      "ime": "Община Брегаре",
+      "shirina": 43.594899,
+      "dalzhina": 24.330534,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 543,
+      "ime": "Община Брегово",
+      "shirina": 44.151667,
+      "dalzhina": 22.638306,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 544,
+      "ime": "Община Брезник",
+      "shirina": 42.740232,
+      "dalzhina": 22.908526,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 545,
+      "ime": "Община Брезово",
+      "shirina": 42.348645,
+      "dalzhina": 25.075893,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 546,
+      "ime": "Община Бургас",
+      "shirina": 42.493358,
+      "dalzhina": 27.472191,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 547,
+      "ime": "Община Бяла",
+      "shirina": 42.877308,
+      "dalzhina": 27.885185,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 548,
+      "ime": "Община Бяла Слатина",
+      "shirina": 43.469091,
+      "dalzhina": 23.944245,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 549,
+      "ime": "Община Варна",
+      "shirina": 43.207794,
+      "dalzhina": 27.917064,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 550,
+      "ime": "Община Велики Преслав",
+      "shirina": 43.16153,
+      "dalzhina": 26.812672,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 551,
+      "ime": "Община Велико Търново",
+      "shirina": 43.082205,
+      "dalzhina": 25.631715,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 552,
+      "ime": "Община Велинград",
+      "shirina": 42.0281,
+      "dalzhina": 23.988442,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 553,
+      "ime": "Община Видин",
+      "shirina": 43.985466,
+      "dalzhina": 22.876902,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 554,
+      "ime": "Община Видин - Център за административно обслужване",
+      "shirina": 43.985404,
+      "dalzhina": 22.876655,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 555,
+      "ime": "Община Видин - общинска администрация",
+      "shirina": 43.985498,
+      "dalzhina": 22.87689,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 556,
+      "ime": "Община Враца",
+      "shirina": 43.202981,
+      "dalzhina": 23.547615,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 557,
+      "ime": "Община Вълчедръм",
+      "shirina": 43.693533,
+      "dalzhina": 23.44456,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 558,
+      "ime": "Община Вършец",
+      "shirina": 43.192855,
+      "dalzhina": 23.284707,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 559,
+      "ime": "Община Габрово",
+      "shirina": 42.870944,
+      "dalzhina": 25.315342,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 560,
+      "ime": "Община Генерал Тошево",
+      "shirina": 43.700523,
+      "dalzhina": 28.036912,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 561,
+      "ime": "Община Георги Дамяново",
+      "shirina": 43.386732,
+      "dalzhina": 23.032699,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 562,
+      "ime": "Община Горица",
+      "shirina": 43.639555,
+      "dalzhina": 28.16482,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 563,
+      "ime": "Община Горна Малина",
+      "shirina": 42.693652,
+      "dalzhina": 23.705879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 564,
+      "ime": "Община Грамада",
+      "shirina": 43.834297,
+      "dalzhina": 22.654428,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 565,
+      "ime": "Община Гурково",
+      "shirina": 42.660509,
+      "dalzhina": 25.791783,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 566,
+      "ime": "Община Гълъбово",
+      "shirina": 42.139632,
+      "dalzhina": 25.86908,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 567,
+      "ime": "Община Девин",
+      "shirina": 41.742683,
+      "dalzhina": 24.399216,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 568,
+      "ime": "Община Девня",
+      "shirina": 43.218631,
+      "dalzhina": 27.555932,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 569,
+      "ime": "Община Джебел",
+      "shirina": 41.497352,
+      "dalzhina": 25.302786,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 570,
+      "ime": "Община Добричка",
+      "shirina": 43.56779,
+      "dalzhina": 27.823182,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 571,
+      "ime": "Община Долна баня",
+      "shirina": 42.311393,
+      "dalzhina": 23.765638,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 572,
+      "ime": "Община Долни Дъбник",
+      "shirina": 43.409143,
+      "dalzhina": 24.442003,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 573,
+      "ime": "Община Доспат",
+      "shirina": 41.64369,
+      "dalzhina": 24.159588,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 574,
+      "ime": "Община Драгичево",
+      "shirina": 42.604973,
+      "dalzhina": 23.139868,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 575,
+      "ime": "Община Драгоман",
+      "shirina": 42.922254,
+      "dalzhina": 22.929951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 576,
+      "ime": "Община Дряново",
+      "shirina": 42.973615,
+      "dalzhina": 25.474976,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 577,
+      "ime": "Община Дупница",
+      "shirina": 42.26521,
+      "dalzhina": 23.117669,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 578,
+      "ime": "Община Дългопол",
+      "shirina": 43.049523,
+      "dalzhina": 27.344713,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 579,
+      "ime": "Община Елена",
+      "shirina": 42.929916,
+      "dalzhina": 25.877486,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 580,
+      "ime": "Община Елин Пелин",
+      "shirina": 42.669064,
+      "dalzhina": 23.602472,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 581,
+      "ime": "Община Елхово",
+      "shirina": 42.17192,
+      "dalzhina": 26.565771,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 582,
+      "ime": "Община Етрополе",
+      "shirina": 42.832991,
+      "dalzhina": 23.996806,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 583,
+      "ime": "Община Земен",
+      "shirina": 42.480691,
+      "dalzhina": 22.748599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 584,
+      "ime": "Община Златица",
+      "shirina": 42.714893,
+      "dalzhina": 24.139128,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 585,
+      "ime": "Община Златоград",
+      "shirina": 41.379931,
+      "dalzhina": 25.093041,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 586,
+      "ime": "Община Ивайловград",
+      "shirina": 41.527357,
+      "dalzhina": 26.126722,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 587,
+      "ime": "Община Каварна",
+      "shirina": 43.433121,
+      "dalzhina": 28.341636,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 588,
+      "ime": "Община Кайнарджа",
+      "shirina": 43.993191,
+      "dalzhina": 27.50635,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 589,
+      "ime": "Община Камено",
+      "shirina": 42.574275,
+      "dalzhina": 27.295317,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 590,
+      "ime": "Община Кардам",
+      "shirina": 43.753624,
+      "dalzhina": 28.108089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 591,
+      "ime": "Община Карлово",
+      "shirina": 42.643093,
+      "dalzhina": 24.805318,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 592,
+      "ime": "Община Карнобат",
+      "shirina": 42.648689,
+      "dalzhina": 26.98391,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 593,
+      "ime": "Община Каспичан",
+      "shirina": 43.31408,
+      "dalzhina": 27.156255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 594,
+      "ime": "Община Кирково",
+      "shirina": 41.330989,
+      "dalzhina": 25.365745,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 595,
+      "ime": "Община Клисура",
+      "shirina": 42.69371,
+      "dalzhina": 24.449293,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 596,
+      "ime": "Община Кнежа",
+      "shirina": 43.495824,
+      "dalzhina": 24.079368,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 597,
+      "ime": "Община Ковачевци",
+      "shirina": 42.555194,
+      "dalzhina": 22.818802,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 598,
+      "ime": "Община Костинброд",
+      "shirina": 42.809053,
+      "dalzhina": 23.199051,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 599,
+      "ime": "Община Котел",
+      "shirina": 42.889443,
+      "dalzhina": 26.447083,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 600,
+      "ime": "Община Криводол",
+      "shirina": 43.368346,
+      "dalzhina": 23.476518,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 601,
+      "ime": "Община Кричим",
+      "shirina": 42.041659,
+      "dalzhina": 24.470019,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 602,
+      "ime": "Община Крумовград",
+      "shirina": 41.472213,
+      "dalzhina": 25.65299,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 603,
+      "ime": "Община Крушари",
+      "shirina": 43.812731,
+      "dalzhina": 27.754254,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 604,
+      "ime": "Община Кубрат",
+      "shirina": 43.796748,
+      "dalzhina": 26.501235,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 605,
+      "ime": "Община Кула",
+      "shirina": 43.890146,
+      "dalzhina": 22.522924,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 606,
+      "ime": "Община Кърджали",
+      "shirina": 41.640413,
+      "dalzhina": 25.370777,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 607,
+      "ime": "Община Кюстендил",
+      "shirina": 42.281205,
+      "dalzhina": 22.688938,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 608,
+      "ime": "Община Левски",
+      "shirina": 43.357364,
+      "dalzhina": 25.14317,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 609,
+      "ime": "Община Летница",
+      "shirina": 43.306556,
+      "dalzhina": 25.057934,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 610,
+      "ime": "Община Ловеч",
+      "shirina": 43.134448,
+      "dalzhina": 24.717418,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 611,
+      "ime": "Община Лозница",
+      "shirina": 43.370132,
+      "dalzhina": 26.599117,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 612,
+      "ime": "Община Лом",
+      "shirina": 43.827505,
+      "dalzhina": 23.236435,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 613,
+      "ime": "Община Луковит",
+      "shirina": 43.206097,
+      "dalzhina": 24.163249,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 614,
+      "ime": "Община Лъки",
+      "shirina": 41.833829,
+      "dalzhina": 24.830667,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 615,
+      "ime": "Община Лясковец",
+      "shirina": 43.106364,
+      "dalzhina": 25.715466,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 616,
+      "ime": "Община Маджарово",
+      "shirina": 41.632483,
+      "dalzhina": 25.860385,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 617,
+      "ime": "Община Марица",
+      "shirina": 42.154705,
+      "dalzhina": 24.742708,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 618,
+      "ime": "Община Мездра",
+      "shirina": 43.142633,
+      "dalzhina": 23.714496,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 619,
+      "ime": "Община Мизия",
+      "shirina": 43.691462,
+      "dalzhina": 23.856609,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 620,
+      "ime": "Община Монтана",
+      "shirina": 43.408064,
+      "dalzhina": 23.224989,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 621,
+      "ime": "Община Мъглиж",
+      "shirina": 42.608413,
+      "dalzhina": 25.545851,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 622,
+      "ime": "Община Невестино",
+      "shirina": 42.254981,
+      "dalzhina": 22.84958,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 623,
+      "ime": "Община Несебър",
+      "shirina": 42.660908,
+      "dalzhina": 27.714099,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 624,
+      "ime": "Община Никола Козлево",
+      "shirina": 43.572532,
+      "dalzhina": 27.228285,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 625,
+      "ime": "Община Николаево",
+      "shirina": 42.630493,
+      "dalzhina": 25.792432,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 626,
+      "ime": "Община Никопол",
+      "shirina": 43.706235,
+      "dalzhina": 24.895566,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 627,
+      "ime": "Община Нова Загора",
+      "shirina": 42.49049,
+      "dalzhina": 26.012723,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 628,
+      "ime": "Община Нови пазар",
+      "shirina": 43.348347,
+      "dalzhina": 27.198641,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 629,
+      "ime": "Община Ново село - Общинска администрация",
+      "shirina": 44.162039,
+      "dalzhina": 22.784335,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 630,
+      "ime": "Община Опака",
+      "shirina": 43.442738,
+      "dalzhina": 26.165451,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 631,
+      "ime": "Община Павел баня",
+      "shirina": 42.597294,
+      "dalzhina": 25.207707,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 632,
+      "ime": "Община Панагюрище",
+      "shirina": 42.504788,
+      "dalzhina": 24.189369,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 633,
+      "ime": "Община Перник",
+      "shirina": 42.609599,
+      "dalzhina": 23.030895,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 634,
+      "ime": "Община Перущица",
+      "shirina": 42.056145,
+      "dalzhina": 24.544641,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 635,
+      "ime": "Община Петрич",
+      "shirina": 41.395634,
+      "dalzhina": 23.207167,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 636,
+      "ime": "Община Пещера",
+      "shirina": 42.032269,
+      "dalzhina": 24.302292,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 637,
+      "ime": "Община Пловдив",
+      "shirina": 42.143602,
+      "dalzhina": 24.749064,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 638,
+      "ime": "Община Полски Тръмбеш",
+      "shirina": 43.368894,
+      "dalzhina": 25.636699,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 639,
+      "ime": "Община Поморие",
+      "shirina": 42.558876,
+      "dalzhina": 27.641841,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 640,
+      "ime": "Община Правец",
+      "shirina": 42.894731,
+      "dalzhina": 23.915791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 641,
+      "ime": "Община Приморско",
+      "shirina": 42.26708,
+      "dalzhina": 27.755131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 642,
+      "ime": "Община Провадия",
+      "shirina": 43.178953,
+      "dalzhina": 27.443055,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 643,
+      "ime": "Община Раднево",
+      "shirina": 42.288783,
+      "dalzhina": 25.933881,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 644,
+      "ime": "Община Радомир",
+      "shirina": 42.546939,
+      "dalzhina": 22.964183,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 645,
+      "ime": "Община Разлог",
+      "shirina": 41.885531,
+      "dalzhina": 23.466707,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 646,
+      "ime": "Община Ракитово",
+      "shirina": 41.990703,
+      "dalzhina": 24.087552,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 647,
+      "ime": "Община Раковски",
+      "shirina": 42.287676,
+      "dalzhina": 24.967902,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 648,
+      "ime": "Община Рила",
+      "shirina": 42.126463,
+      "dalzhina": 23.13269,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 649,
+      "ime": "Община Родопи",
+      "shirina": 42.148992,
+      "dalzhina": 24.74706,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 650,
+      "ime": "Община Роман",
+      "shirina": 43.147064,
+      "dalzhina": 23.925142,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 651,
+      "ime": "Община Рудозем",
+      "shirina": 41.487952,
+      "dalzhina": 24.848463,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 652,
+      "ime": "Община Русе",
+      "shirina": 43.847562,
+      "dalzhina": 25.954715,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 653,
+      "ime": "Община Самоков",
+      "shirina": 42.338177,
+      "dalzhina": 23.560131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 654,
+      "ime": "Община Сапарева баня",
+      "shirina": 42.288576,
+      "dalzhina": 23.264,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 655,
+      "ime": "Община Севлиево",
+      "shirina": 43.025824,
+      "dalzhina": 25.104094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 656,
+      "ime": "Община Септември",
+      "shirina": 42.210777,
+      "dalzhina": 24.130434,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 657,
+      "ime": "Община Симеоновград",
+      "shirina": 42.0346,
+      "dalzhina": 25.831787,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 658,
+      "ime": "Община Симитли",
+      "shirina": 41.892053,
+      "dalzhina": 23.110746,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 659,
+      "ime": "Община Сираково",
+      "shirina": 43.652789,
+      "dalzhina": 28.267045,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 660,
+      "ime": "Община Ситово",
+      "shirina": 44.024526,
+      "dalzhina": 27.021334,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 661,
+      "ime": "Община Сливен",
+      "shirina": 42.680808,
+      "dalzhina": 26.3164,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 662,
+      "ime": "Община Сливница",
+      "shirina": 42.85237,
+      "dalzhina": 23.037604,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 663,
+      "ime": "Община Сливо поле",
+      "shirina": 43.942406,
+      "dalzhina": 26.204702,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 664,
+      "ime": "Община Смолян",
+      "shirina": 41.575394,
+      "dalzhina": 24.712857,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 665,
+      "ime": "Община Смядово",
+      "shirina": 43.06413,
+      "dalzhina": 27.013242,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 666,
+      "ime": "Община Сопот",
+      "shirina": 42.652766,
+      "dalzhina": 24.75786,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 667,
+      "ime": "Община Средец",
+      "shirina": 42.346301,
+      "dalzhina": 27.180951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 668,
+      "ime": "Община Стара Загора",
+      "shirina": 42.424776,
+      "dalzhina": 25.625679,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 669,
+      "ime": "Община Стефан Караджа",
+      "shirina": 43.493988,
+      "dalzhina": 27.411991,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 670,
+      "ime": "Община Стражица",
+      "shirina": 43.228156,
+      "dalzhina": 25.961468,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 671,
+      "ime": "Община Стралджа",
+      "shirina": 42.594921,
+      "dalzhina": 26.69211,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 672,
+      "ime": "Община Стрелча",
+      "shirina": 42.506447,
+      "dalzhina": 24.32141,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 673,
+      "ime": "Община Студена",
+      "shirina": 42.541269,
+      "dalzhina": 23.122846,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 674,
+      "ime": "Община Тетевен",
+      "shirina": 42.917813,
+      "dalzhina": 24.265705,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 675,
+      "ime": "Община Тополовград",
+      "shirina": 42.084767,
+      "dalzhina": 26.336288,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 676,
+      "ime": "Община Трекляно",
+      "shirina": 42.550815,
+      "dalzhina": 22.598842,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 677,
+      "ime": "Община Троян",
+      "shirina": 42.884449,
+      "dalzhina": 24.709657,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 678,
+      "ime": "Община Трявна",
+      "shirina": 42.866834,
+      "dalzhina": 25.492023,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 679,
+      "ime": "Община Тунджа",
+      "shirina": 42.484436,
+      "dalzhina": 26.505262,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 680,
+      "ime": "Община Тутракан",
+      "shirina": 44.048192,
+      "dalzhina": 26.604584,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 681,
+      "ime": "Община Търговище",
+      "shirina": 43.24679,
+      "dalzhina": 26.572161,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 682,
+      "ime": "Община Харманли",
+      "shirina": 41.930306,
+      "dalzhina": 25.900942,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 683,
+      "ime": "Община Хасково",
+      "shirina": 41.93121,
+      "dalzhina": 25.557597,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 684,
+      "ime": "Община Хисаря",
+      "shirina": 42.505614,
+      "dalzhina": 24.709815,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 685,
+      "ime": "Община Хитрино",
+      "shirina": 43.42671,
+      "dalzhina": 26.913715,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 686,
+      "ime": "Община Цар Калоян",
+      "shirina": 43.609042,
+      "dalzhina": 26.238255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 687,
+      "ime": "Община Царево",
+      "shirina": 42.170894,
+      "dalzhina": 27.851035,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 688,
+      "ime": "Община Чавдар",
+      "shirina": 42.660591,
+      "dalzhina": 24.056072,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 689,
+      "ime": "Община Чепеларе",
+      "shirina": 41.725883,
+      "dalzhina": 24.684597,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 690,
+      "ime": "Община Червен бряг",
+      "shirina": 43.280221,
+      "dalzhina": 24.082921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 691,
+      "ime": "Община Чипровци",
+      "shirina": 43.384047,
+      "dalzhina": 22.881377,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 692,
+      "ime": "Община Шабла",
+      "shirina": 43.536427,
+      "dalzhina": 28.531822,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 693,
+      "ime": "Община Шумен",
+      "shirina": 43.270125,
+      "dalzhina": 26.924714,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 694,
+      "ime": "Община Ябланица",
+      "shirina": 43.025281,
+      "dalzhina": 24.100639,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 695,
+      "ime": "Община Ямбол",
+      "shirina": 42.484556,
+      "dalzhina": 26.50888,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 696,
+      "ime": "Община град Добрич",
+      "shirina": 43.568361,
+      "dalzhina": 27.827308,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 697,
+      "ime": "Общинска администрация",
+      "shirina": 43.226309,
+      "dalzhina": 27.586188,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 698,
+      "ime": "Общинска администрация",
+      "shirina": 43.407991,
+      "dalzhina": 24.620406,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 699,
+      "ime": "Общинска администрация",
+      "shirina": 43.822553,
+      "dalzhina": 27.140857,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 700,
+      "ime": "Общинска администрация Съединение",
+      "shirina": 42.274562,
+      "dalzhina": 24.543259,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 701,
+      "ime": "Общински съвет",
+      "shirina": 43.044246,
+      "dalzhina": 25.889887,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 702,
+      "ime": "Общински съвет",
+      "shirina": 44.115553,
+      "dalzhina": 27.257924,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 703,
+      "ime": "Общински съвет - Тутракан",
+      "shirina": 44.048203,
+      "dalzhina": 26.604058,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 704,
+      "ime": "Пиперково",
+      "shirina": 43.539961,
+      "dalzhina": 25.583966,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 705,
+      "ime": "Район Аспарухово",
+      "shirina": 43.184164,
+      "dalzhina": 27.893757,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 706,
+      "ime": "Район Банкя",
+      "shirina": 42.705637,
+      "dalzhina": 23.148189,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 707,
+      "ime": "Район Витоша",
+      "shirina": 42.670648,
+      "dalzhina": 23.272089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 708,
+      "ime": "Район Владислав Варненчик",
+      "shirina": 43.242241,
+      "dalzhina": 27.846542,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 709,
+      "ime": "Район Връбница",
+      "shirina": 42.730289,
+      "dalzhina": 23.286371,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 710,
+      "ime": "Район Възраждане",
+      "shirina": 42.698521,
+      "dalzhina": 23.312428,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 711,
+      "ime": "Район Западен",
+      "shirina": 42.131094,
+      "dalzhina": 24.709193,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 712,
+      "ime": "Район Изгрев",
+      "shirina": 42.671628,
+      "dalzhina": 23.354132,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 713,
+      "ime": "Район Източен",
+      "shirina": 42.149654,
+      "dalzhina": 24.776995,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 714,
+      "ime": "Район Илинден",
+      "shirina": 42.714923,
+      "dalzhina": 23.28865,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 715,
+      "ime": "Район Искър",
+      "shirina": 42.666362,
+      "dalzhina": 23.400391,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 716,
+      "ime": "Район Красна поляна",
+      "shirina": 42.693088,
+      "dalzhina": 23.291847,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 717,
+      "ime": "Район Красно село",
+      "shirina": 42.678829,
+      "dalzhina": 23.282565,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 718,
+      "ime": "Район Кремиковци",
+      "shirina": 42.73772,
+      "dalzhina": 23.485263,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 719,
+      "ime": "Район Лозенец",
+      "shirina": 42.685788,
+      "dalzhina": 23.321419,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 720,
+      "ime": "Район Люлин",
+      "shirina": 42.717475,
+      "dalzhina": 23.249137,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 721,
+      "ime": "Район Младост",
+      "shirina": 42.640638,
+      "dalzhina": 23.381081,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 722,
+      "ime": "Район Младост",
+      "shirina": 43.221265,
+      "dalzhina": 27.880964,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 723,
+      "ime": "Район Надежда",
+      "shirina": 42.728218,
+      "dalzhina": 23.304647,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 724,
+      "ime": "Район Нови Искър",
+      "shirina": 42.81917,
+      "dalzhina": 23.355176,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 725,
+      "ime": "Район Оборище",
+      "shirina": 42.696793,
+      "dalzhina": 23.347651,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 726,
+      "ime": "Район Овча купел",
+      "shirina": 42.670044,
+      "dalzhina": 23.256393,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 727,
+      "ime": "Район Одесос",
+      "shirina": 43.205746,
+      "dalzhina": 27.922364,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 728,
+      "ime": "Район Панчарево",
+      "shirina": 42.595375,
+      "dalzhina": 23.413626,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 729,
+      "ime": "Район Подуяне",
+      "shirina": 42.700901,
+      "dalzhina": 23.369126,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 730,
+      "ime": "Район Приморски",
+      "shirina": 43.217332,
+      "dalzhina": 27.924614,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 731,
+      "ime": "Район Северен",
+      "shirina": 42.159465,
+      "dalzhina": 24.748057,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 732,
+      "ime": "Район Сердика",
+      "shirina": 42.708374,
+      "dalzhina": 23.323386,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 733,
+      "ime": "Район Слатина",
+      "shirina": 42.677874,
+      "dalzhina": 23.368169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 734,
+      "ime": "Район Средец",
+      "shirina": 42.695582,
+      "dalzhina": 23.32396,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 735,
+      "ime": "Район Студентски",
+      "shirina": 42.659419,
+      "dalzhina": 23.351082,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 736,
+      "ime": "Район Тракия",
+      "shirina": 42.130973,
+      "dalzhina": 24.780958,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 737,
+      "ime": "Район Триадица",
+      "shirina": 42.694578,
+      "dalzhina": 23.32256,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 738,
+      "ime": "Район Централен",
+      "shirina": 42.148511,
+      "dalzhina": 24.742919,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 739,
+      "ime": "Район Южен",
+      "shirina": 42.124261,
+      "dalzhina": 24.741095,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 740,
+      "ime": "С. Бабек",
+      "shirina": 42.441719,
+      "dalzhina": 25.074764,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 741,
+      "ime": "С. Мраченик",
+      "shirina": 42.4993,
+      "dalzhina": 24.961705,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 742,
+      "ime": "Свищов",
+      "shirina": 43.618573,
+      "dalzhina": 25.344195,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 743,
+      "ime": "Сирищник",
+      "shirina": 42.571007,
+      "dalzhina": 22.814123,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 744,
+      "ime": "Скребатно",
+      "shirina": 41.660695,
+      "dalzhina": 23.796932,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 745,
+      "ime": "Столична община",
+      "shirina": 42.696945,
+      "dalzhina": 23.331747,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 746,
+      "ime": "Твърдица",
+      "shirina": 42.701752,
+      "dalzhina": 25.897604,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 747,
+      "ime": "Тръстеник",
+      "shirina": 43.52098,
+      "dalzhina": 24.472872,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 748,
+      "ime": "Хлябово",
+      "shirina": 42.061452,
+      "dalzhina": 26.254788,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 749,
+      "ime": "к.к Пампорово",
+      "shirina": 41.658142,
+      "dalzhina": 24.698152,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 750,
+      "ime": "кметски наместник с. Блъсковци",
+      "shirina": 42.955178,
+      "dalzhina": 25.855373,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 751,
+      "ime": "кметсово Бояново",
+      "shirina": 42.258277,
+      "dalzhina": 26.625779,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 752,
+      "ime": "кметство",
+      "shirina": 42.462204,
+      "dalzhina": 22.870449,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 753,
+      "ime": "кметство",
+      "shirina": 42.954438,
+      "dalzhina": 24.109604,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 754,
+      "ime": "кметство",
+      "shirina": 43.132468,
+      "dalzhina": 23.608463,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 755,
+      "ime": "кметство",
+      "shirina": 43.275393,
+      "dalzhina": 25.559356,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 756,
+      "ime": "кметство",
+      "shirina": 43.481927,
+      "dalzhina": 23.286508,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 757,
+      "ime": "кметство",
+      "shirina": 43.572334,
+      "dalzhina": 24.280343,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 758,
+      "ime": "кметство",
+      "shirina": 44.004404,
+      "dalzhina": 22.664303,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 759,
+      "ime": "кметство",
+      "shirina": 44.028878,
+      "dalzhina": 22.751046,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 760,
+      "ime": "кметство \"Община Попово\"",
+      "shirina": 43.348279,
+      "dalzhina": 26.227754,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 761,
+      "ime": "кметство Алеко Константиново",
+      "shirina": 42.147035,
+      "dalzhina": 24.292858,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 762,
+      "ime": "кметство Горно Павликене",
+      "shirina": 43.102148,
+      "dalzhina": 24.79707,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 763,
+      "ime": "кметство Надарево",
+      "shirina": 43.23717,
+      "dalzhina": 26.754388,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 764,
+      "ime": "кметство Николаевка",
+      "shirina": 43.357191,
+      "dalzhina": 27.672392,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 765,
+      "ime": "кметство Соколник",
+      "shirina": 43.445955,
+      "dalzhina": 27.883844,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 766,
+      "ime": "кметство Шума",
+      "shirina": 42.993617,
+      "dalzhina": 23.090428,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 767,
+      "ime": "кметство с. Въглен",
+      "shirina": 43.29579,
+      "dalzhina": 27.849982,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 768,
+      "ime": "кметство с. Генерал Кантарджиево",
+      "shirina": 43.356292,
+      "dalzhina": 27.983941,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 769,
+      "ime": "кметство с. Долище",
+      "shirina": 43.337399,
+      "dalzhina": 27.891647,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 770,
+      "ime": "кметство с. Засмяно",
+      "shirina": 43.389902,
+      "dalzhina": 27.686052,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 771,
+      "ime": "кметство с. Изгрев",
+      "shirina": 43.296669,
+      "dalzhina": 27.695992,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 772,
+      "ime": "кметство с. Каменар",
+      "shirina": 43.248717,
+      "dalzhina": 27.907795,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 773,
+      "ime": "кметство с. Мадара",
+      "shirina": 43.274056,
+      "dalzhina": 27.097551,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 774,
+      "ime": "кметство с. Одърци",
+      "shirina": 43.440865,
+      "dalzhina": 27.962058,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 775,
+      "ime": "кметство с. Орешак",
+      "shirina": 43.300728,
+      "dalzhina": 27.91167,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 776,
+      "ime": "кметство с. Осеново",
+      "shirina": 43.322898,
+      "dalzhina": 28.010394,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 777,
+      "ime": "кметство с. Прилеп",
+      "shirina": 43.400716,
+      "dalzhina": 27.910698,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 778,
+      "ime": "кметство с.Ряховците",
+      "shirina": 43.022586,
+      "dalzhina": 25.00788,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 779,
+      "ime": "кметсто с. ПОПОВЦИ",
+      "shirina": 42.901027,
+      "dalzhina": 25.270214,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 780,
+      "ime": "община Годеч",
+      "shirina": 43.015597,
+      "dalzhina": 23.046793,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 781,
+      "ime": "община Русе (малката община)",
+      "shirina": 43.846853,
+      "dalzhina": 25.951155,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 782,
+      "ime": "с. Факия",
+      "shirina": 42.189954,
+      "dalzhina": 27.084239,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    },
+    {
+      "id": 783,
+      "ime": "„Гражданска регистрация и административно обслужване“ ГРАО",
+      "shirina": 42.871322,
+      "dalzhina": 25.315384,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "townhall",
+      "osm_klas": "amenity=townhall"
+    }
+  ],
+  "meta": {
+    "title": "Кметства и общински сгради в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Кметства и общински сгради в България — 783 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=townhall`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 783 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Кметства и общински сгради в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Кметства и общински сгради в България (OpenStreetMap) — 783 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 783 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

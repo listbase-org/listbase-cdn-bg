@@ -1,0 +1,2140 @@
+{
+  "id": "bg-osm-amenity-shelter",
+  "name": "Заслони в България (OpenStreetMap)",
+  "title": "Заслони в България (OpenStreetMap)",
+  "description": "Заслони в България — 231 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=shelter`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "number"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "014",
+      "shirina": 42.727152,
+      "dalzhina": 27.769236,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 2,
+      "ime": "014",
+      "shirina": 42.731878,
+      "dalzhina": 27.769243,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 3,
+      "ime": "Abandoned building",
+      "shirina": 41.348357,
+      "dalzhina": 25.354618,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 4,
+      "ime": "Galev Shelter",
+      "shirina": 42.113476,
+      "dalzhina": 24.046361,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 5,
+      "ime": "Gergevana 1",
+      "shirina": 42.036633,
+      "dalzhina": 23.980496,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 6,
+      "ime": "Gergevana 2",
+      "shirina": 42.037657,
+      "dalzhina": 23.979851,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 7,
+      "ime": "Gergevana 3",
+      "shirina": 42.038298,
+      "dalzhina": 23.96917,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 8,
+      "ime": "Gergevana 4",
+      "shirina": 42.039625,
+      "dalzhina": 23.969519,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 9,
+      "ime": "Gorno Lesichevo",
+      "shirina": 42.120483,
+      "dalzhina": 24.033921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 10,
+      "ime": "Izvor",
+      "shirina": 42.063506,
+      "dalzhina": 23.964915,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 11,
+      "ime": "Old Shelter",
+      "shirina": 42.728077,
+      "dalzhina": 27.791671,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 12,
+      "ime": "Picnic and rest area",
+      "shirina": 41.662664,
+      "dalzhina": 24.25962,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 13,
+      "ime": "Picnic area with roof.",
+      "shirina": 42.009102,
+      "dalzhina": 27.591406,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 14,
+      "ime": "Sasanka",
+      "shirina": 42.038775,
+      "dalzhina": 23.94327,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 15,
+      "ime": "Sasanka 2",
+      "shirina": 42.038458,
+      "dalzhina": 23.941401,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 16,
+      "ime": "Shelter",
+      "shirina": 43.125913,
+      "dalzhina": 26.542471,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 17,
+      "ime": "Shelter with grill",
+      "shirina": 42.743462,
+      "dalzhina": 27.123948,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 18,
+      "ime": "Shelter with grill",
+      "shirina": 42.761738,
+      "dalzhina": 27.141921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 19,
+      "ime": "Shelter with grill",
+      "shirina": 42.781795,
+      "dalzhina": 27.160295,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 20,
+      "ime": "Voinishka polyana",
+      "shirina": 42.017467,
+      "dalzhina": 23.978253,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 21,
+      "ime": "old building",
+      "shirina": 41.702027,
+      "dalzhina": 24.499615,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 22,
+      "ime": "shelter",
+      "shirina": 41.412755,
+      "dalzhina": 24.824909,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 23,
+      "ime": "shelter",
+      "shirina": 41.425649,
+      "dalzhina": 24.827486,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 24,
+      "ime": "tiny shelter",
+      "shirina": 42.226568,
+      "dalzhina": 23.324209,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 25,
+      "ime": "Καλύβα",
+      "shirina": 41.355707,
+      "dalzhina": 24.774369,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 26,
+      "ime": "Καλύβα",
+      "shirina": 41.360095,
+      "dalzhina": 24.784263,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 27,
+      "ime": "Автоспирка Последна грижа",
+      "shirina": 43.056042,
+      "dalzhina": 23.408221,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 28,
+      "ime": "Аджиларска река",
+      "shirina": 41.588474,
+      "dalzhina": 24.348702,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 29,
+      "ime": "Алпийска поляна",
+      "shirina": 43.087539,
+      "dalzhina": 23.379003,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 30,
+      "ime": "Алпийски заслон",
+      "shirina": 42.017423,
+      "dalzhina": 24.603884,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 31,
+      "ime": "Алпийски заслон „Орлово гнездо“",
+      "shirina": 43.087546,
+      "dalzhina": 23.379866,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 32,
+      "ime": "Башмандра",
+      "shirina": 42.699025,
+      "dalzhina": 24.891492,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 33,
+      "ime": "Бели кладенци",
+      "shirina": 42.565076,
+      "dalzhina": 23.049921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 34,
+      "ime": "Беседка",
+      "shirina": 41.439578,
+      "dalzhina": 24.612802,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 35,
+      "ime": "Беседка",
+      "shirina": 41.497787,
+      "dalzhina": 24.939735,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 36,
+      "ime": "Беседка",
+      "shirina": 41.586815,
+      "dalzhina": 24.084969,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 37,
+      "ime": "Беседка",
+      "shirina": 41.746396,
+      "dalzhina": 24.409249,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 38,
+      "ime": "Беседка",
+      "shirina": 42.177478,
+      "dalzhina": 22.680388,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 39,
+      "ime": "Беседка",
+      "shirina": 42.185924,
+      "dalzhina": 24.331369,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 40,
+      "ime": "Беседка",
+      "shirina": 42.255996,
+      "dalzhina": 22.852599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 41,
+      "ime": "Беседка",
+      "shirina": 42.295838,
+      "dalzhina": 22.876263,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 42,
+      "ime": "Беседка",
+      "shirina": 42.382215,
+      "dalzhina": 23.922636,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 43,
+      "ime": "Беседка",
+      "shirina": 42.468803,
+      "dalzhina": 23.265056,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 44,
+      "ime": "Беседка",
+      "shirina": 42.60327,
+      "dalzhina": 23.241181,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 45,
+      "ime": "Беседка",
+      "shirina": 42.660467,
+      "dalzhina": 23.248732,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 46,
+      "ime": "Беседка",
+      "shirina": 42.664963,
+      "dalzhina": 24.954653,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 47,
+      "ime": "Беседка",
+      "shirina": 42.66718,
+      "dalzhina": 24.752105,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 48,
+      "ime": "Беседка",
+      "shirina": 42.963459,
+      "dalzhina": 23.35087,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 49,
+      "ime": "Беседка",
+      "shirina": 43.096163,
+      "dalzhina": 25.673055,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 50,
+      "ime": "Беседка Козарско",
+      "shirina": 42.062303,
+      "dalzhina": 24.421309,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 51,
+      "ime": "Беседка Оброчище",
+      "shirina": 43.007636,
+      "dalzhina": 23.335891,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 52,
+      "ime": "Беседка за кърмене",
+      "shirina": 42.665903,
+      "dalzhina": 23.59975,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 53,
+      "ime": "Беседка с огнище",
+      "shirina": 42.550419,
+      "dalzhina": 23.754509,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 54,
+      "ime": "Беседка с чешма",
+      "shirina": 41.790052,
+      "dalzhina": 25.201055,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 55,
+      "ime": "Беседката",
+      "shirina": 42.414521,
+      "dalzhina": 25.014586,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 56,
+      "ime": "Беседки",
+      "shirina": 42.943665,
+      "dalzhina": 24.29216,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 57,
+      "ime": "Бесетка",
+      "shirina": 43.326529,
+      "dalzhina": 22.859104,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 58,
+      "ime": "Библиотека",
+      "shirina": 43.210962,
+      "dalzhina": 27.935651,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 59,
+      "ime": "Ботура",
+      "shirina": 42.783505,
+      "dalzhina": 25.758934,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 60,
+      "ime": "Булин чаир",
+      "shirina": 42.040694,
+      "dalzhina": 23.945551,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 61,
+      "ime": "Бункера",
+      "shirina": 42.691717,
+      "dalzhina": 24.878189,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 62,
+      "ime": "Вилата на Меди",
+      "shirina": 41.626824,
+      "dalzhina": 24.038759,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 63,
+      "ime": "Винчето",
+      "shirina": 42.182589,
+      "dalzhina": 23.257023,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 64,
+      "ime": "Говедарника",
+      "shirina": 42.179152,
+      "dalzhina": 23.328079,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 65,
+      "ime": "Голям Кадемлия",
+      "shirina": 42.727119,
+      "dalzhina": 25.056602,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 66,
+      "ime": "Гургул чешма",
+      "shirina": 42.733048,
+      "dalzhina": 23.960466,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 67,
+      "ime": "Гърло",
+      "shirina": 42.440528,
+      "dalzhina": 23.256465,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 68,
+      "ime": "Динова ливада",
+      "shirina": 42.56289,
+      "dalzhina": 23.342905,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 69,
+      "ime": "Драгиче",
+      "shirina": 42.0588,
+      "dalzhina": 23.95888,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 70,
+      "ime": "Дългата поляна",
+      "shirina": 42.157053,
+      "dalzhina": 27.767333,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 71,
+      "ime": "Дългия чучур",
+      "shirina": 41.533639,
+      "dalzhina": 23.651919,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 72,
+      "ime": "ЗАСЛОНЪТ",
+      "shirina": 42.578718,
+      "dalzhina": 23.247352,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 73,
+      "ime": "Забелски корита",
+      "shirina": 42.857479,
+      "dalzhina": 22.59119,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 74,
+      "ime": "Заимчовото",
+      "shirina": 41.599698,
+      "dalzhina": 24.049797,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 75,
+      "ime": "Заслон",
+      "shirina": 41.612555,
+      "dalzhina": 24.380583,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 76,
+      "ime": "Заслон",
+      "shirina": 41.733154,
+      "dalzhina": 23.752221,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 77,
+      "ime": "Заслон",
+      "shirina": 42.131409,
+      "dalzhina": 23.149562,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 78,
+      "ime": "Заслон",
+      "shirina": 42.170406,
+      "dalzhina": 23.250108,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 79,
+      "ime": "Заслон",
+      "shirina": 42.50577,
+      "dalzhina": 22.758286,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 80,
+      "ime": "Заслон",
+      "shirina": 42.507651,
+      "dalzhina": 22.760096,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 81,
+      "ime": "Заслон",
+      "shirina": 42.511145,
+      "dalzhina": 22.763675,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 82,
+      "ime": "Заслон",
+      "shirina": 42.528812,
+      "dalzhina": 23.541018,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 83,
+      "ime": "Заслон",
+      "shirina": 42.534488,
+      "dalzhina": 23.352751,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 84,
+      "ime": "Заслон",
+      "shirina": 42.570157,
+      "dalzhina": 22.449614,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 85,
+      "ime": "Заслон",
+      "shirina": 42.599067,
+      "dalzhina": 23.413537,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 86,
+      "ime": "Заслон",
+      "shirina": 42.705732,
+      "dalzhina": 22.654966,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 87,
+      "ime": "Заслон",
+      "shirina": 42.771191,
+      "dalzhina": 22.787434,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 88,
+      "ime": "Заслон",
+      "shirina": 43.145253,
+      "dalzhina": 23.094227,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 89,
+      "ime": "Заслон \"Куклите\"",
+      "shirina": 41.94231,
+      "dalzhina": 23.068547,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 90,
+      "ime": "Заслон 1",
+      "shirina": 42.55483,
+      "dalzhina": 23.198911,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 91,
+      "ime": "Заслон 2050",
+      "shirina": 42.578757,
+      "dalzhina": 23.247372,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 92,
+      "ime": "Заслон Богдан",
+      "shirina": 42.608077,
+      "dalzhina": 24.44846,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 93,
+      "ime": "Заслон Боров Камък",
+      "shirina": 43.148938,
+      "dalzhina": 23.502264,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 94,
+      "ime": "Заслон Велиица",
+      "shirina": 41.97288,
+      "dalzhina": 23.755443,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 95,
+      "ime": "Заслон Извор",
+      "shirina": 42.412088,
+      "dalzhina": 22.901468,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 96,
+      "ime": "Заслон Номер 1",
+      "shirina": 42.728041,
+      "dalzhina": 24.131821,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 97,
+      "ime": "Заслон Половраг",
+      "shirina": 42.579784,
+      "dalzhina": 23.518453,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 98,
+      "ime": "Заслон Ротари",
+      "shirina": 43.203345,
+      "dalzhina": 26.515957,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 99,
+      "ime": "Заслон Св. Петка",
+      "shirina": 43.074741,
+      "dalzhina": 23.17429,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 100,
+      "ime": "Заслон Скока",
+      "shirina": 42.160734,
+      "dalzhina": 27.737407,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 101,
+      "ime": "Заслон на клуб за екстремни спортове \"Тангра\" Асеновград",
+      "shirina": 41.909318,
+      "dalzhina": 24.930879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 102,
+      "ime": "Заслон на маркировачите",
+      "shirina": 42.693556,
+      "dalzhina": 25.48175,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 103,
+      "ime": "Заслон над храм Рождество Христово",
+      "shirina": 42.721825,
+      "dalzhina": 25.326528,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 104,
+      "ime": "Заслон „Бохо“",
+      "shirina": 42.547458,
+      "dalzhina": 23.231292,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 105,
+      "ime": "Заслон „Дивия бик“",
+      "shirina": 42.548886,
+      "dalzhina": 23.227229,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 106,
+      "ime": "Заслона",
+      "shirina": 42.216028,
+      "dalzhina": 23.55045,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 107,
+      "ime": "Заслона на Хазим Горския",
+      "shirina": 42.93766,
+      "dalzhina": 26.986376,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 108,
+      "ime": "Зеленич",
+      "shirina": 42.878922,
+      "dalzhina": 26.361116,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 109,
+      "ime": "Изворите",
+      "shirina": 41.71273,
+      "dalzhina": 23.539494,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 110,
+      "ime": "КОП Бункера",
+      "shirina": 42.702034,
+      "dalzhina": 24.962172,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 111,
+      "ime": "Калинов врис (Калинча)",
+      "shirina": 42.113091,
+      "dalzhina": 27.836002,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 112,
+      "ime": "Каменна арка с легендарния тюлен монах",
+      "shirina": 43.220675,
+      "dalzhina": 27.976878,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 113,
+      "ime": "Кантона",
+      "shirina": 42.176644,
+      "dalzhina": 23.342739,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 114,
+      "ime": "Караиваново хорище",
+      "shirina": 42.78207,
+      "dalzhina": 25.815035,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 115,
+      "ime": "Карлъка",
+      "shirina": 41.886403,
+      "dalzhina": 24.225836,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 116,
+      "ime": "Качаков чарк",
+      "shirina": 41.936837,
+      "dalzhina": 24.04389,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 117,
+      "ime": "Кенина чешма",
+      "shirina": 42.768463,
+      "dalzhina": 23.123873,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 118,
+      "ime": "Кестените",
+      "shirina": 42.675118,
+      "dalzhina": 25.427957,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 119,
+      "ime": "Кире Чогуно",
+      "shirina": 42.20639,
+      "dalzhina": 23.35861,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 120,
+      "ime": "Кобарелова воденица",
+      "shirina": 42.074235,
+      "dalzhina": 27.419947,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 121,
+      "ime": "Кондев чарк",
+      "shirina": 41.944916,
+      "dalzhina": 23.9928,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 122,
+      "ime": "Копчелийски заслон",
+      "shirina": 42.527998,
+      "dalzhina": 23.34911,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 123,
+      "ime": "Краварник",
+      "shirina": 42.836436,
+      "dalzhina": 23.695222,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 124,
+      "ime": "Кръкеляновото торище",
+      "shirina": 42.73033,
+      "dalzhina": 23.991051,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 125,
+      "ime": "Кубадинка",
+      "shirina": 42.207143,
+      "dalzhina": 23.635713,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 126,
+      "ime": "ЛРД  с.Розовец",
+      "shirina": 42.472376,
+      "dalzhina": 25.096383,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 127,
+      "ime": "Ловен заслон",
+      "shirina": 41.464532,
+      "dalzhina": 23.650712,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 128,
+      "ime": "Ловен заслон",
+      "shirina": 41.465334,
+      "dalzhina": 23.042947,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 129,
+      "ime": "Ловен заслон",
+      "shirina": 41.479236,
+      "dalzhina": 24.062025,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 130,
+      "ime": "Ловен заслон",
+      "shirina": 41.949672,
+      "dalzhina": 24.912071,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 131,
+      "ime": "Ловен заслон",
+      "shirina": 42.364595,
+      "dalzhina": 22.554009,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 132,
+      "ime": "Ловен заслон",
+      "shirina": 42.371818,
+      "dalzhina": 22.618081,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 133,
+      "ime": "Ловен заслон",
+      "shirina": 42.871437,
+      "dalzhina": 23.324008,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 134,
+      "ime": "Ловен заслон",
+      "shirina": 42.889173,
+      "dalzhina": 22.609306,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 135,
+      "ime": "Ловен заслон \"Модър\"",
+      "shirina": 41.883085,
+      "dalzhina": 24.570273,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 136,
+      "ime": "Ловен заслон Марковец",
+      "shirina": 42.743618,
+      "dalzhina": 23.923794,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 137,
+      "ime": "Ловен заслон Фермата",
+      "shirina": 41.740773,
+      "dalzhina": 24.286965,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 138,
+      "ime": "Ловен навес",
+      "shirina": 42.721556,
+      "dalzhina": 23.973022,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 139,
+      "ime": "Ловен фургон",
+      "shirina": 42.841235,
+      "dalzhina": 22.499599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 140,
+      "ime": "Ловна хижа",
+      "shirina": 42.494337,
+      "dalzhina": 23.425579,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 141,
+      "ime": "Ловна хижа",
+      "shirina": 42.546168,
+      "dalzhina": 25.400796,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 142,
+      "ime": "Ловна хижа",
+      "shirina": 42.737546,
+      "dalzhina": 23.977168,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 143,
+      "ime": "Ловна хижа",
+      "shirina": 42.785317,
+      "dalzhina": 23.660599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 144,
+      "ime": "Ловна хижа на 55-та ЛД",
+      "shirina": 42.879319,
+      "dalzhina": 23.28462,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 145,
+      "ime": "Ловната хижа",
+      "shirina": 42.575492,
+      "dalzhina": 23.446317,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 146,
+      "ime": "Локвата",
+      "shirina": 42.056823,
+      "dalzhina": 23.897046,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 147,
+      "ime": "Любов",
+      "shirina": 42.711014,
+      "dalzhina": 25.267983,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 148,
+      "ime": "Малка Орлукая",
+      "shirina": 42.472222,
+      "dalzhina": 25.57,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 149,
+      "ime": "Малкият Странджа",
+      "shirina": 42.478222,
+      "dalzhina": 25.691001,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 150,
+      "ime": "Метеорологична станция Черни връх",
+      "shirina": 42.563779,
+      "dalzhina": 23.278388,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 151,
+      "ime": "Михайлов",
+      "shirina": 42.716985,
+      "dalzhina": 24.950719,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 152,
+      "ime": "Моторджийската беседка",
+      "shirina": 42.670623,
+      "dalzhina": 25.424221,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 153,
+      "ime": "Мушатката",
+      "shirina": 42.721826,
+      "dalzhina": 25.361367,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 154,
+      "ime": "Мушовец (заключен)",
+      "shirina": 42.734436,
+      "dalzhina": 23.972458,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 155,
+      "ime": "Набожното дърво",
+      "shirina": 42.859922,
+      "dalzhina": 26.432993,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 156,
+      "ime": "Навеса",
+      "shirina": 42.414323,
+      "dalzhina": 25.014201,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 157,
+      "ime": "Надарево Център",
+      "shirina": 43.237319,
+      "dalzhina": 26.754123,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 158,
+      "ime": "Нушков чарк",
+      "shirina": 41.592879,
+      "dalzhina": 23.550657,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 159,
+      "ime": "Обесения камък",
+      "shirina": 42.267596,
+      "dalzhina": 23.337724,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 160,
+      "ime": "Овчарска колиба",
+      "shirina": 42.092844,
+      "dalzhina": 23.581316,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 161,
+      "ime": "Овчарска колиба",
+      "shirina": 42.093069,
+      "dalzhina": 23.575208,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 162,
+      "ime": "Орлите",
+      "shirina": 42.56457,
+      "dalzhina": 22.993705,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 163,
+      "ime": "Панорамна площадка „Софраджик“",
+      "shirina": 42.236017,
+      "dalzhina": 23.173067,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 164,
+      "ime": "Параклис\"Св. Спас\"",
+      "shirina": 41.999333,
+      "dalzhina": 23.970239,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 165,
+      "ime": "Пашино Бърдо",
+      "shirina": 41.937602,
+      "dalzhina": 24.079856,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 166,
+      "ime": "Петдесет Бука",
+      "shirina": 42.142815,
+      "dalzhina": 27.769516,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 167,
+      "ime": "Петкова беседка",
+      "shirina": 41.883866,
+      "dalzhina": 25.274884,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 168,
+      "ime": "Пикета",
+      "shirina": 42.85059,
+      "dalzhina": 22.603744,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 169,
+      "ime": "Площадка за наблюдение на птиците",
+      "shirina": 42.885792,
+      "dalzhina": 23.002154,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 170,
+      "ime": "Площадка за наблюдение на птиците",
+      "shirina": 42.890277,
+      "dalzhina": 23.007107,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 171,
+      "ime": "Погледец",
+      "shirina": 42.585354,
+      "dalzhina": 22.778147,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 172,
+      "ime": "Погледно място Пътят на орела",
+      "shirina": 42.235042,
+      "dalzhina": 23.798358,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 173,
+      "ime": "Покритият мост",
+      "shirina": 42.091551,
+      "dalzhina": 27.755585,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 174,
+      "ime": "Равен Чамлък",
+      "shirina": 41.560608,
+      "dalzhina": 25.51847,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 175,
+      "ime": "Риболовен заслон",
+      "shirina": 42.985474,
+      "dalzhina": 25.6797,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 176,
+      "ime": "Розова поляна",
+      "shirina": 41.357251,
+      "dalzhina": 23.191733,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 177,
+      "ime": "Самара",
+      "shirina": 42.565701,
+      "dalzhina": 23.258023,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 178,
+      "ime": "Синята стрела нов",
+      "shirina": 42.524556,
+      "dalzhina": 23.324884,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 179,
+      "ime": "Синята стрела стар",
+      "shirina": 42.525185,
+      "dalzhina": 23.325193,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 180,
+      "ime": "Сиромашки рай",
+      "shirina": 43.015111,
+      "dalzhina": 23.197846,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 181,
+      "ime": "Спирка Златосел",
+      "shirina": 42.414438,
+      "dalzhina": 25.014318,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 182,
+      "ime": "Стария Чарк",
+      "shirina": 42.044126,
+      "dalzhina": 23.95556,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 183,
+      "ime": "Старият Говедарник",
+      "shirina": 42.734088,
+      "dalzhina": 23.990535,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 184,
+      "ime": "Стената - Окото на Сърница",
+      "shirina": 41.725186,
+      "dalzhina": 24.013633,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 185,
+      "ime": "Стоте Войводи",
+      "shirina": 42.707777,
+      "dalzhina": 26.361636,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 186,
+      "ime": "Студения чучур",
+      "shirina": 41.650261,
+      "dalzhina": 24.043953,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 187,
+      "ime": "Суватя заслон",
+      "shirina": 41.608828,
+      "dalzhina": 23.604079,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 188,
+      "ime": "Тангра",
+      "shirina": 41.353177,
+      "dalzhina": 23.190941,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 189,
+      "ime": "Томова чешма",
+      "shirina": 41.654947,
+      "dalzhina": 24.028414,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 190,
+      "ime": "Трите дола",
+      "shirina": 42.768684,
+      "dalzhina": 24.458089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 191,
+      "ime": "Туристически заслон \"Кулата\"",
+      "shirina": 42.566256,
+      "dalzhina": 24.346291,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 192,
+      "ime": "Уличките",
+      "shirina": 42.05235,
+      "dalzhina": 23.955863,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 193,
+      "ime": "Урумбеица",
+      "shirina": 42.685081,
+      "dalzhina": 25.44948,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 194,
+      "ime": "Ушите",
+      "shirina": 42.607234,
+      "dalzhina": 23.277722,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 195,
+      "ime": "Царски кладенец",
+      "shirina": 42.780909,
+      "dalzhina": 25.537274,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 196,
+      "ime": "Чакало",
+      "shirina": 42.550761,
+      "dalzhina": 23.221808,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 197,
+      "ime": "Череша",
+      "shirina": 41.936354,
+      "dalzhina": 24.481078,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 198,
+      "ime": "Чиката",
+      "shirina": 42.110227,
+      "dalzhina": 24.099066,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 199,
+      "ime": "Чучура",
+      "shirina": 42.389805,
+      "dalzhina": 25.342935,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 200,
+      "ime": "Юрта",
+      "shirina": 42.217128,
+      "dalzhina": 23.230414,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 201,
+      "ime": "з. Бункера",
+      "shirina": 41.81504,
+      "dalzhina": 23.371399,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 202,
+      "ime": "з. Гердектепе",
+      "shirina": 42.71459,
+      "dalzhina": 24.713789,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 203,
+      "ime": "з. Дългата поляна",
+      "shirina": 41.714901,
+      "dalzhina": 23.569273,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 204,
+      "ime": "з. Живата вода",
+      "shirina": 42.524321,
+      "dalzhina": 23.201788,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 205,
+      "ime": "з. Зиданицата",
+      "shirina": 41.788631,
+      "dalzhina": 23.324866,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 206,
+      "ime": "з. Кобилино бранище",
+      "shirina": 42.172579,
+      "dalzhina": 23.451969,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 207,
+      "ime": "з. Конярника",
+      "shirina": 42.588107,
+      "dalzhina": 23.247757,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 208,
+      "ime": "з. Ливада",
+      "shirina": 41.398086,
+      "dalzhina": 23.608467,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 209,
+      "ime": "з. Мартиница",
+      "shirina": 43.402442,
+      "dalzhina": 22.761548,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 210,
+      "ime": "з. Партизанска колиба",
+      "shirina": 41.709122,
+      "dalzhina": 23.553101,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 211,
+      "ime": "з. Помочена поляна",
+      "shirina": 42.204658,
+      "dalzhina": 23.800591,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 212,
+      "ime": "з. Рай",
+      "shirina": 42.518958,
+      "dalzhina": 23.458958,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 213,
+      "ime": "з. Сопо",
+      "shirina": 42.565531,
+      "dalzhina": 23.211952,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 214,
+      "ime": "з. Ширината",
+      "shirina": 41.841469,
+      "dalzhina": 23.27041,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 215,
+      "ime": "з.Маринка (обор)",
+      "shirina": 42.730804,
+      "dalzhina": 24.932041,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 216,
+      "ime": "з.Орловец (БАК)",
+      "shirina": 42.174221,
+      "dalzhina": 23.383631,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 217,
+      "ime": "з.Свидня",
+      "shirina": 42.941521,
+      "dalzhina": 23.286429,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 218,
+      "ime": "з.Смильо",
+      "shirina": 42.496178,
+      "dalzhina": 23.250483,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 219,
+      "ime": "зас. Кръстатият дъб",
+      "shirina": 42.54169,
+      "dalzhina": 23.423564,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 220,
+      "ime": "зас. Саво",
+      "shirina": 42.540859,
+      "dalzhina": 23.463626,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 221,
+      "ime": "заслон",
+      "shirina": 42.56445,
+      "dalzhina": 23.200794,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 222,
+      "ime": "заслон 2",
+      "shirina": 42.548326,
+      "dalzhina": 23.206804,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 223,
+      "ime": "заслон Блей баирите",
+      "shirina": 42.104843,
+      "dalzhina": 27.845024,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 224,
+      "ime": "заслон Меча чешма",
+      "shirina": 42.537132,
+      "dalzhina": 23.239383,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 225,
+      "ime": "заслон Синаница",
+      "shirina": 42.556611,
+      "dalzhina": 23.444319,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 226,
+      "ime": "кошара",
+      "shirina": 42.143716,
+      "dalzhina": 23.31506,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 227,
+      "ime": "ловен заслон \"Съсела\"",
+      "shirina": 42.013686,
+      "dalzhina": 24.747267,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 228,
+      "ime": "ловен заслон Туроковско къще",
+      "shirina": 42.846965,
+      "dalzhina": 22.615721,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 229,
+      "ime": "ловен фургон Пицийски кладенец",
+      "shirina": 42.84788,
+      "dalzhina": 22.633974,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 230,
+      "ime": "манастир Свети Георги",
+      "shirina": 42.243308,
+      "dalzhina": 23.482039,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    },
+    {
+      "id": 231,
+      "ime": "спирка Благоевград",
+      "shirina": 41.991486,
+      "dalzhina": 23.084752,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "shelter",
+      "osm_klas": "amenity=shelter"
+    }
+  ],
+  "meta": {
+    "title": "Заслони в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Заслони в България — 231 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=shelter`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 231 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Заслони в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Заслони в България (OpenStreetMap) — 231 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 231 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

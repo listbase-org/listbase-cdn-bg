@@ -1,0 +1,1510 @@
+{
+  "id": "bg-osm-amenity-bus-station",
+  "name": "Автогари в България (OpenStreetMap)",
+  "title": "Автогари в България (OpenStreetMap)",
+  "description": "Автогари в България — 161 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=bus_station`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 161,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Флорентин\"",
+      "shirina": 44.135556,
+      "dalzhina": 22.847279,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 2,
+      "ime": "\"Флорентин\"",
+      "shirina": 44.135828,
+      "dalzhina": 22.84667,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 3,
+      "ime": "Aвтогара Велики Преслав",
+      "shirina": 43.162091,
+      "dalzhina": 26.816633,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 4,
+      "ime": "Etap Bus Station",
+      "shirina": 43.081006,
+      "dalzhina": 25.633885,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 5,
+      "ime": "Hissar",
+      "shirina": 42.504646,
+      "dalzhina": 24.700588,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 6,
+      "ime": "Автобусна спирка",
+      "shirina": 42.883176,
+      "dalzhina": 23.208622,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 7,
+      "ime": "Автобусна спирка",
+      "shirina": 43.157765,
+      "dalzhina": 24.510854,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 8,
+      "ime": "Автогара",
+      "shirina": 42.023095,
+      "dalzhina": 23.995312,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 9,
+      "ime": "Автогара",
+      "shirina": 42.362845,
+      "dalzhina": 23.007075,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 10,
+      "ime": "Автогара",
+      "shirina": 42.487247,
+      "dalzhina": 26.009717,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 11,
+      "ime": "Автогара",
+      "shirina": 42.651555,
+      "dalzhina": 26.981564,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 12,
+      "ime": "Автогара",
+      "shirina": 42.704714,
+      "dalzhina": 27.248685,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 13,
+      "ime": "Автогара",
+      "shirina": 42.96031,
+      "dalzhina": 23.346255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 14,
+      "ime": "Автогара",
+      "shirina": 43.138612,
+      "dalzhina": 24.707038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 15,
+      "ime": "Автогара",
+      "shirina": 43.25334,
+      "dalzhina": 26.574499,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 16,
+      "ime": "Автогара",
+      "shirina": 43.536225,
+      "dalzhina": 28.529671,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 17,
+      "ime": "Автогара",
+      "shirina": 43.688219,
+      "dalzhina": 23.44709,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 18,
+      "ime": "Автогара",
+      "shirina": 43.941866,
+      "dalzhina": 26.202949,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 19,
+      "ime": "Автогара XXI век",
+      "shirina": 41.633467,
+      "dalzhina": 25.377303,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 20,
+      "ime": "Автогара Албена",
+      "shirina": 43.365092,
+      "dalzhina": 28.067255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 21,
+      "ime": "Автогара Алексиев",
+      "shirina": 43.984431,
+      "dalzhina": 22.873132,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 22,
+      "ime": "Автогара Ардино",
+      "shirina": 41.580618,
+      "dalzhina": 25.133617,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 23,
+      "ime": "Автогара Асеновград",
+      "shirina": 42.012073,
+      "dalzhina": 24.873225,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 24,
+      "ime": "Автогара Баня",
+      "shirina": 42.544539,
+      "dalzhina": 24.826978,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 25,
+      "ime": "Автогара Белене",
+      "shirina": 43.638562,
+      "dalzhina": 25.122185,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 26,
+      "ime": "Автогара Белица",
+      "shirina": 41.94707,
+      "dalzhina": 23.561512,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 27,
+      "ime": "Автогара Белоградчик",
+      "shirina": 43.62628,
+      "dalzhina": 22.686446,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 28,
+      "ime": "Автогара Бенковски",
+      "shirina": 41.378264,
+      "dalzhina": 25.254913,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 29,
+      "ime": "Автогара Берковица",
+      "shirina": 43.23731,
+      "dalzhina": 23.130208,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 30,
+      "ime": "Автогара Благоевград",
+      "shirina": 42.012971,
+      "dalzhina": 23.087109,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 31,
+      "ime": "Автогара Ботевград",
+      "shirina": 42.907404,
+      "dalzhina": 23.785446,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 32,
+      "ime": "Автогара Бургас",
+      "shirina": 42.490249,
+      "dalzhina": 27.473791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 33,
+      "ime": "Автогара Бяла Слатина",
+      "shirina": 43.473768,
+      "dalzhina": 23.946187,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 34,
+      "ime": "Автогара Варна",
+      "shirina": 43.216438,
+      "dalzhina": 27.896655,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 35,
+      "ime": "Автогара Видин",
+      "shirina": 43.985184,
+      "dalzhina": 22.872724,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 36,
+      "ime": "Автогара Враца",
+      "shirina": 43.207016,
+      "dalzhina": 23.559718,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 37,
+      "ime": "Автогара Вършец",
+      "shirina": 43.195006,
+      "dalzhina": 23.288995,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 38,
+      "ime": "Автогара Габрово",
+      "shirina": 42.879955,
+      "dalzhina": 25.314832,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 39,
+      "ime": "Автогара Генерал Тошево",
+      "shirina": 43.702078,
+      "dalzhina": 28.040309,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 40,
+      "ime": "Автогара Гоце Делчев",
+      "shirina": 41.566294,
+      "dalzhina": 23.733886,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 41,
+      "ime": "Автогара Гурково",
+      "shirina": 42.656903,
+      "dalzhina": 25.797763,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 42,
+      "ime": "Автогара Гълъбово",
+      "shirina": 42.138961,
+      "dalzhina": 25.865557,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 43,
+      "ime": "Автогара Девин",
+      "shirina": 41.742268,
+      "dalzhina": 24.40101,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 44,
+      "ime": "Автогара Джебел",
+      "shirina": 41.496854,
+      "dalzhina": 25.304869,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 45,
+      "ime": "Автогара Димитровград",
+      "shirina": 42.055827,
+      "dalzhina": 25.591422,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 46,
+      "ime": "Автогара Добринище",
+      "shirina": 41.824734,
+      "dalzhina": 23.563869,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 47,
+      "ime": "Автогара Добрич",
+      "shirina": 43.569436,
+      "dalzhina": 27.837654,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 48,
+      "ime": "Автогара Доспат",
+      "shirina": 41.646169,
+      "dalzhina": 24.159987,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 49,
+      "ime": "Автогара Драгоман",
+      "shirina": 42.921213,
+      "dalzhina": 22.931905,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 50,
+      "ime": "Автогара Дулово",
+      "shirina": 43.82287,
+      "dalzhina": 27.139905,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 51,
+      "ime": "Автогара Дупница",
+      "shirina": 42.260308,
+      "dalzhina": 23.103825,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 52,
+      "ime": "Автогара Елена",
+      "shirina": 42.929678,
+      "dalzhina": 25.882637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 53,
+      "ime": "Автогара Елин Пелин",
+      "shirina": 42.671637,
+      "dalzhina": 23.599109,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 54,
+      "ime": "Автогара Елхово",
+      "shirina": 42.17752,
+      "dalzhina": 26.569285,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 55,
+      "ime": "Автогара Етрополе",
+      "shirina": 42.829385,
+      "dalzhina": 23.998484,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 56,
+      "ime": "Автогара Запад",
+      "shirina": 42.503044,
+      "dalzhina": 27.458131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 57,
+      "ime": "Автогара Запад",
+      "shirina": 43.072769,
+      "dalzhina": 25.599965,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 58,
+      "ime": "Автогара Златоград",
+      "shirina": 41.380383,
+      "dalzhina": 25.100272,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 59,
+      "ime": "Автогара Изток",
+      "shirina": 41.573592,
+      "dalzhina": 24.780966,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 60,
+      "ime": "Автогара Изток",
+      "shirina": 43.855417,
+      "dalzhina": 25.998263,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 61,
+      "ime": "Автогара Изток",
+      "shirina": 43.855597,
+      "dalzhina": 25.997433,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 62,
+      "ime": "Автогара Казанлък",
+      "shirina": 42.614738,
+      "dalzhina": 25.393956,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 63,
+      "ime": "Автогара Карлово",
+      "shirina": 42.641369,
+      "dalzhina": 24.800769,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 64,
+      "ime": "Автогара Каспичан",
+      "shirina": 43.315781,
+      "dalzhina": 27.158749,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 65,
+      "ime": "Автогара Китен",
+      "shirina": 42.234682,
+      "dalzhina": 27.770959,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 66,
+      "ime": "Автогара Кнежа",
+      "shirina": 43.494474,
+      "dalzhina": 24.081171,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 67,
+      "ime": "Автогара Козлодуй",
+      "shirina": 43.778852,
+      "dalzhina": 23.722801,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 68,
+      "ime": "Автогара Кричим",
+      "shirina": 42.049195,
+      "dalzhina": 24.469438,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 69,
+      "ime": "Автогара Крумовград",
+      "shirina": 41.475097,
+      "dalzhina": 25.651848,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 70,
+      "ime": "Автогара Кюстендил",
+      "shirina": 42.28918,
+      "dalzhina": 22.683671,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 71,
+      "ime": "Автогара Лом",
+      "shirina": 43.820664,
+      "dalzhina": 23.241074,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 72,
+      "ime": "Автогара Луковит",
+      "shirina": 43.202228,
+      "dalzhina": 24.161094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 73,
+      "ime": "Автогара Мездра",
+      "shirina": 43.141631,
+      "dalzhina": 23.710315,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 74,
+      "ime": "Автогара Момчилград",
+      "shirina": 41.525657,
+      "dalzhina": 25.412668,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 75,
+      "ime": "Автогара Монтана",
+      "shirina": 43.407395,
+      "dalzhina": 23.229318,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 76,
+      "ime": "Автогара Мъглиж",
+      "shirina": 42.609459,
+      "dalzhina": 25.543798,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 77,
+      "ime": "Автогара Никопол",
+      "shirina": 43.705381,
+      "dalzhina": 24.893008,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 78,
+      "ime": "Автогара Обзор",
+      "shirina": 42.817246,
+      "dalzhina": 27.87911,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 79,
+      "ime": "Автогара Овча купел",
+      "shirina": 42.672742,
+      "dalzhina": 23.271927,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 80,
+      "ime": "Автогара Осетеново",
+      "shirina": 42.601715,
+      "dalzhina": 25.03224,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 81,
+      "ime": "Автогара Павел Баня",
+      "shirina": 42.59595,
+      "dalzhina": 25.209072,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 82,
+      "ime": "Автогара Пазарджик",
+      "shirina": 42.18281,
+      "dalzhina": 24.317832,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 83,
+      "ime": "Автогара Перник",
+      "shirina": 42.600726,
+      "dalzhina": 23.032242,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 84,
+      "ime": "Автогара Петрич",
+      "shirina": 41.404437,
+      "dalzhina": 23.203901,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 85,
+      "ime": "Автогара Пещера",
+      "shirina": 42.032427,
+      "dalzhina": 24.309853,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 86,
+      "ime": "Автогара Подуяне",
+      "shirina": 42.70362,
+      "dalzhina": 23.359869,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 87,
+      "ime": "Автогара Поморие-Поморие-Такси",
+      "shirina": 42.558503,
+      "dalzhina": 27.64267,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 88,
+      "ime": "Автогара Попово",
+      "shirina": 43.346499,
+      "dalzhina": 26.225025,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 89,
+      "ime": "Автогара Правец",
+      "shirina": 42.894961,
+      "dalzhina": 23.918681,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 90,
+      "ime": "Автогара Приморско",
+      "shirina": 42.266652,
+      "dalzhina": 27.745749,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 91,
+      "ime": "Автогара Провадия",
+      "shirina": 43.181053,
+      "dalzhina": 27.443337,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 92,
+      "ime": "Автогара Първомай",
+      "shirina": 42.100091,
+      "dalzhina": 25.219666,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 93,
+      "ime": "Автогара Раднево",
+      "shirina": 42.287977,
+      "dalzhina": 25.932539,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 94,
+      "ime": "Автогара Радомир",
+      "shirina": 42.539,
+      "dalzhina": 22.958622,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 95,
+      "ime": "Автогара Разград",
+      "shirina": 43.522581,
+      "dalzhina": 26.533335,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 96,
+      "ime": "Автогара Разлог",
+      "shirina": 41.882985,
+      "dalzhina": 23.467907,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 97,
+      "ime": "Автогара Рила",
+      "shirina": 42.124808,
+      "dalzhina": 23.132844,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 98,
+      "ime": "Автогара Роман",
+      "shirina": 43.150858,
+      "dalzhina": 23.924021,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 99,
+      "ime": "Автогара Самоков",
+      "shirina": 42.338082,
+      "dalzhina": 23.557606,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 100,
+      "ime": "Автогара Сандански",
+      "shirina": 41.553198,
+      "dalzhina": 23.272328,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 101,
+      "ime": "Автогара Свиленград",
+      "shirina": 41.767702,
+      "dalzhina": 26.205685,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 102,
+      "ime": "Автогара Север",
+      "shirina": 42.164348,
+      "dalzhina": 24.735885,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 103,
+      "ime": "Автогара Севлиево",
+      "shirina": 43.022286,
+      "dalzhina": 25.096781,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 104,
+      "ime": "Автогара Секирово",
+      "shirina": 42.272677,
+      "dalzhina": 24.942688,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 105,
+      "ime": "Автогара Септември",
+      "shirina": 42.20536,
+      "dalzhina": 24.13638,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 106,
+      "ime": "Автогара Сердика",
+      "shirina": 42.711005,
+      "dalzhina": 23.321918,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 107,
+      "ime": "Автогара Силистра",
+      "shirina": 44.114951,
+      "dalzhina": 27.251742,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 108,
+      "ime": "Автогара Слънчев бряг",
+      "shirina": 42.69149,
+      "dalzhina": 27.706782,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 109,
+      "ime": "Автогара Смядово",
+      "shirina": 43.065368,
+      "dalzhina": 27.016981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 110,
+      "ime": "Автогара София Север",
+      "shirina": 42.726768,
+      "dalzhina": 23.316277,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 111,
+      "ime": "Автогара Твърдица",
+      "shirina": 42.695691,
+      "dalzhina": 25.898755,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 112,
+      "ime": "Автогара Тетевен",
+      "shirina": 42.91705,
+      "dalzhina": 24.257473,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 113,
+      "ime": "Автогара Троян",
+      "shirina": 42.881969,
+      "dalzhina": 24.712645,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 114,
+      "ime": "Автогара Трън",
+      "shirina": 42.834317,
+      "dalzhina": 22.652215,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 115,
+      "ime": "Автогара Тутракан",
+      "shirina": 44.046122,
+      "dalzhina": 26.629428,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 116,
+      "ime": "Автогара Хасково",
+      "shirina": 41.932688,
+      "dalzhina": 25.562273,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 117,
+      "ime": "Автогара Чепеларе",
+      "shirina": 41.72935,
+      "dalzhina": 24.685507,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 118,
+      "ime": "Автогара Чирпан",
+      "shirina": 42.201465,
+      "dalzhina": 25.33873,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 119,
+      "ime": "Автогара Шумен",
+      "shirina": 43.270149,
+      "dalzhina": 26.942164,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 120,
+      "ime": "Автогара ЮГ",
+      "shirina": 43.076304,
+      "dalzhina": 25.632811,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 121,
+      "ime": "Автогара Юг",
+      "shirina": 42.135789,
+      "dalzhina": 24.744112,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 122,
+      "ime": "Автогара Юг",
+      "shirina": 42.668817,
+      "dalzhina": 23.352815,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 123,
+      "ime": "Автогара Юг",
+      "shirina": 43.076254,
+      "dalzhina": 25.632755,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 124,
+      "ime": "Автогара Юг",
+      "shirina": 43.834902,
+      "dalzhina": 25.958024,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 125,
+      "ime": "Автогара Ягода",
+      "shirina": 42.542564,
+      "dalzhina": 25.574474,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 126,
+      "ime": "Автогара Ямбол",
+      "shirina": 42.479959,
+      "dalzhina": 26.505546,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 127,
+      "ime": "Автогара „Родопи“",
+      "shirina": 42.133208,
+      "dalzhina": 24.742449,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 128,
+      "ime": "Автогара „Стара Загора“",
+      "shirina": 42.419781,
+      "dalzhina": 25.632892,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 129,
+      "ime": "Автогара-Кубрат",
+      "shirina": 43.794233,
+      "dalzhina": 26.501748,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 130,
+      "ime": "Автогара1",
+      "shirina": 42.259591,
+      "dalzhina": 26.62362,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 131,
+      "ime": "Автогара2",
+      "shirina": 42.256132,
+      "dalzhina": 26.630401,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 132,
+      "ime": "Автостанция Банкя",
+      "shirina": 42.708418,
+      "dalzhina": 23.152395,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 133,
+      "ime": "Автостанция Орландовци",
+      "shirina": 42.71519,
+      "dalzhina": 23.342159,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 134,
+      "ime": "Автостанция Славейков",
+      "shirina": 42.519524,
+      "dalzhina": 27.438461,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 135,
+      "ime": "Ахтопол",
+      "shirina": 42.099366,
+      "dalzhina": 27.939089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 136,
+      "ime": "Бахчата",
+      "shirina": 43.04147,
+      "dalzhina": 23.191613,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 137,
+      "ime": "Дружба, Обръщало",
+      "shirina": 43.824837,
+      "dalzhina": 25.968089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 138,
+      "ime": "Етап-Адрес",
+      "shirina": 43.569844,
+      "dalzhina": 27.83084,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 139,
+      "ime": "Каменово",
+      "shirina": 43.712837,
+      "dalzhina": 26.474948,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 140,
+      "ime": "Кичево Център",
+      "shirina": 43.276178,
+      "dalzhina": 27.964507,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 141,
+      "ime": "Крушките",
+      "shirina": 43.134947,
+      "dalzhina": 27.843286,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 142,
+      "ime": "Куманово Център",
+      "shirina": 43.269876,
+      "dalzhina": 27.93691,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 143,
+      "ime": "Обръщалото",
+      "shirina": 42.898723,
+      "dalzhina": 25.299572,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 144,
+      "ime": "Орешак Център",
+      "shirina": 43.301504,
+      "dalzhina": 27.913327,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 145,
+      "ime": "Осеново Център",
+      "shirina": 43.322798,
+      "dalzhina": 28.009379,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 146,
+      "ime": "Панагюрище",
+      "shirina": 42.501062,
+      "dalzhina": 24.185514,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 147,
+      "ime": "Созопол Автогара",
+      "shirina": 42.420856,
+      "dalzhina": 27.693037,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 148,
+      "ime": "Сушица",
+      "shirina": 42.635102,
+      "dalzhina": 24.838684,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 149,
+      "ime": "Терминал Меден Рудник",
+      "shirina": 42.451785,
+      "dalzhina": 27.418622,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 150,
+      "ime": "Терминал Юг",
+      "shirina": 42.490386,
+      "dalzhina": 27.473631,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 151,
+      "ime": "Трансфер Летище Варна",
+      "shirina": 43.237867,
+      "dalzhina": 27.827557,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 152,
+      "ime": "Трявна",
+      "shirina": 42.871814,
+      "dalzhina": 25.496224,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 153,
+      "ime": "Централна Автогара",
+      "shirina": 43.420254,
+      "dalzhina": 24.615826,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 154,
+      "ime": "Централна автогара",
+      "shirina": 42.674743,
+      "dalzhina": 26.324523,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 155,
+      "ime": "Централна автогара София",
+      "shirina": 42.710233,
+      "dalzhina": 23.323484,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 156,
+      "ime": "Черноморец Автогара",
+      "shirina": 42.441547,
+      "dalzhina": 27.637783,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 157,
+      "ime": "Черноочене",
+      "shirina": 41.758546,
+      "dalzhina": 25.349717,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 158,
+      "ime": "автогара Дългопол",
+      "shirina": 43.048353,
+      "dalzhina": 27.342952,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 159,
+      "ime": "лукойл",
+      "shirina": 42.566429,
+      "dalzhina": 27.3223,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 160,
+      "ime": "спирка Гробище",
+      "shirina": 42.57773,
+      "dalzhina": 23.175906,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    },
+    {
+      "id": 161,
+      "ime": "спирка Ехо",
+      "shirina": 42.586823,
+      "dalzhina": 23.157036,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "bus_station",
+      "osm_klas": "amenity=bus_station"
+    }
+  ],
+  "meta": {
+    "title": "Автогари в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Автогари в България — 161 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=bus_station`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 161 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Автогари в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Автогари в България (OpenStreetMap) — 161 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 161 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

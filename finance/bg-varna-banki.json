@@ -1,0 +1,114 @@
+{
+  "id": "bg-varna-banki",
+  "name": "Банки в Варна — SWIFT/BIC кодове (Varna bank SWIFT/BIC codes)",
+  "title": "Банки в Варна — SWIFT/BIC кодове (Varna bank SWIFT/BIC codes)",
+  "description": "Списък: 9 банкови институции в Варна (Varna) със SWIFT/BIC кодове — име на банката, град, клон и SWIFT код. Разделен по градове от националния набор bg-banki (132 записа) на PeterNotenboom/SwiftCodes. Per-city split of the Bulgarian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 25,
+      "bank": "BULEX INVEST PLC",
+      "city": "VARNA",
+      "branch": "",
+      "swift_code": "BUIVBG21"
+    },
+    {
+      "id": 87,
+      "bank": "NABA INVEST PLC",
+      "city": "VARNA",
+      "branch": "",
+      "swift_code": "NAIVBG21"
+    },
+    {
+      "id": 95,
+      "bank": "REAL FINANCE AD",
+      "city": "VARNA",
+      "branch": "",
+      "swift_code": "REIABG21"
+    },
+    {
+      "id": 96,
+      "bank": "REAL FINANCE ASSET MANAGEMENT",
+      "city": "VARNA",
+      "branch": "",
+      "swift_code": "RFAABG21"
+    },
+    {
+      "id": 101,
+      "bank": "SOCIETE GENERALE EXPRESSBANK",
+      "city": "VARNA",
+      "branch": "",
+      "swift_code": "TTBBBG22"
+    },
+    {
+      "id": 100,
+      "bank": "SOCIETE GENERALE EXPRESSBANK",
+      "city": "VARNA",
+      "branch": "(CUSTODY MANAGEMENT)",
+      "swift_code": "TTBBBG22CUS"
+    },
+    {
+      "id": 126,
+      "bank": "UNICREDIT BULBANK AD",
+      "city": "VARNA",
+      "branch": "",
+      "swift_code": "UNCRBGSF733"
+    },
+    {
+      "id": 128,
+      "bank": "VARCHEV FINANCE EOOD",
+      "city": "VARNA",
+      "branch": "",
+      "swift_code": "VAFEBG21"
+    },
+    {
+      "id": 129,
+      "bank": "VARCHEV MANAGING COMPANY EAD",
+      "city": "VARNA",
+      "branch": "",
+      "swift_code": "VMCEBG21"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Варна — SWIFT/BIC кодове (Varna bank SWIFT/BIC codes) - Безплатно изтегляне",
+    "description": "Списък: 9 банкови институции в Варна (Varna) със SWIFT/BIC кодове — име на банката, град, клон и SWIFT код. Разделен по градове от националния набор bg-banki (132 записа) на PeterNotenboom/SwiftCodes. Per-city split of the Bulgarian SWIFT/BIC list. Съдържа 9 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Банки в Варна — SWIFT/BIC кодове (Varna bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Изтеглете Банки в Варна — SWIFT/BIC кодове (Varna bank SWIFT/BIC codes) — 9 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 9 записа / 5 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

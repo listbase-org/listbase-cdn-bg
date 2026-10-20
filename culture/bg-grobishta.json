@@ -1,0 +1,412 @@
+{
+  "id": "bg-grobishta",
+  "name": "Гробища в България",
+  "title": "Гробища в България",
+  "description": "Cemeteries in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q98640234",
+      "name_bg": "",
+      "name_en": "Douvanli",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.369813,
+      "longitude": 24.722986,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98640234"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q105693505",
+      "name_bg": "",
+      "name_en": "Jewish cemetery in Dupnitsa",
+      "admin_area_bg": "Дупница",
+      "admin_area_en": "Dupnitsa",
+      "latitude": 42.262777777,
+      "longitude": 23.109444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105693505"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1674442",
+      "name_bg": "",
+      "name_en": "Jewish Cemetery in Karnobat",
+      "admin_area_bg": "Карнобат",
+      "admin_area_en": "Karnobat",
+      "latitude": 42.62916667,
+      "longitude": 26.99166667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1674442"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q104839927",
+      "name_bg": "",
+      "name_en": "Jewish Cemetery in Kyustendil",
+      "admin_area_bg": "Кюстендил",
+      "admin_area_en": "Kyustendil",
+      "latitude": 42.280680555,
+      "longitude": 22.652811111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104839927"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q29908422",
+      "name_bg": "",
+      "name_en": "Jewish Cemetery in Lom",
+      "admin_area_bg": "Лом",
+      "admin_area_en": "Lom",
+      "latitude": 43.822806,
+      "longitude": 23.230278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29908422"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q64578596",
+      "name_bg": "",
+      "name_en": "Jewish Cemetery in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.147777777,
+      "longitude": 24.765555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64578596"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q115657374",
+      "name_bg": "",
+      "name_en": "Jewish Cemetery in Shumen",
+      "admin_area_bg": "Шумен",
+      "admin_area_en": "Shumen",
+      "latitude": 43.27506,
+      "longitude": 26.93957,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115657374"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q65553459",
+      "name_bg": "",
+      "name_en": "Stara Zagora lapidarium",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.426697222,
+      "longitude": 25.627583333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65553459"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q59588955",
+      "name_bg": "Арменско гробище в Пловдив",
+      "name_en": "Armenian Cemetery in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.148763888,
+      "longitude": 24.771277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59588955"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q136644034",
+      "name_bg": "Берекетска могила",
+      "name_en": "Bereket Tumulus",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.38698,
+      "longitude": 25.62419,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136644034"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q59576441",
+      "name_bg": "Британско военно гробище в Пловдив",
+      "name_en": "British Military Cemetery in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.149416666,
+      "longitude": 24.766,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59576441"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4114492",
+      "name_bg": "Военно гробище (Тутракан)",
+      "name_en": "Military cemetery, Tutrakan",
+      "admin_area_bg": "Тутракан",
+      "admin_area_en": "Tutrakan",
+      "latitude": 43.9766,
+      "longitude": 26.6238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4114492"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q83349356",
+      "name_bg": "Германско военно гробище (Дупница)",
+      "name_en": "",
+      "admin_area_bg": "Дупница",
+      "admin_area_en": "Dupnitsa",
+      "latitude": 42.261944444,
+      "longitude": 23.141944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q83349356"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q109379992",
+      "name_bg": "Германско военно гробище в Гоце Делчев",
+      "name_en": "Gotse Delchev German military cemetery",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.565277777,
+      "longitude": 23.727777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109379992"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q109379780",
+      "name_bg": "Германско военно гробище в Марино поле",
+      "name_en": "Marino pole German military cemetery",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.413611111,
+      "longitude": 23.345833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109379780"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q109379948",
+      "name_bg": "Германско военно гробище в Петрич",
+      "name_en": "Petrich German military cemetery",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.399722222,
+      "longitude": 23.220555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109379948"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q109379802",
+      "name_bg": "Германско военно гробище в Сандански",
+      "name_en": "Sandanski German military cemetery",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.571944444,
+      "longitude": 23.296944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109379802"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q125748924",
+      "name_bg": "Гробищен парк „Бакърена фабрика“",
+      "name_en": "Bakarena Fabrika Cemetery",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.7348,
+      "longitude": 23.2783,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125748924"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q15729178",
+      "name_bg": "Еврейско гробище във Видин",
+      "name_en": "Jewish cemetery in Vidin",
+      "admin_area_bg": "Видин",
+      "admin_area_en": "Vidin",
+      "latitude": 44.0075,
+      "longitude": 22.893888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15729178"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q59588970",
+      "name_bg": "Католическо гробище в Пловдив",
+      "name_en": "Catholic Cemetery in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.149455555,
+      "longitude": 24.772711111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59588970"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q124024381",
+      "name_bg": "Малашевски гробища",
+      "name_en": "",
+      "admin_area_bg": "Подуяне",
+      "admin_area_en": "Poduyane District",
+      "latitude": 42.7185,
+      "longitude": 23.3668,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124024381"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q26156446",
+      "name_bg": "Маньов дол (подмогилен храм)",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.5069,
+      "longitude": 24.5224,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26156446"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q12287219",
+      "name_bg": "Мишкова нива",
+      "name_en": "Mishkova niva",
+      "admin_area_bg": "Малко Търново",
+      "admin_area_en": "Malko Tarnovo",
+      "latitude": 41.9578,
+      "longitude": 27.5005,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287219"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q31191465",
+      "name_bg": "Могилен некропол Кушльовец",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.6538,
+      "longitude": 25.4522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q31191465"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q7797104",
+      "name_bg": "Оструша",
+      "name_en": "Thracian tomb Ostrusha",
+      "admin_area_bg": "Шипка",
+      "admin_area_en": "Shipka",
+      "latitude": 42.6901,
+      "longitude": 25.3512,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7797104"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q20497559",
+      "name_bg": "Пропада",
+      "name_en": "Propada Sanctuary",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 41.983,
+      "longitude": 27.4866,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497559"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q59576537",
+      "name_bg": "Руско военно гробище в Пловдив",
+      "name_en": "Russian Military Cemetery in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.147759,
+      "longitude": 24.765439,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59576537"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q26878326",
+      "name_bg": "Селищна могила Юнаците",
+      "name_en": "Tell Yunatsite",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.232277,
+      "longitude": 24.262471,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26878326"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q12298875",
+      "name_bg": "Централен траурен парк",
+      "name_en": "Central Cemetery park",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.149602777,
+      "longitude": 24.767291666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12298875"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q3400970",
+      "name_bg": "Централни софийски гробища",
+      "name_en": "Central Sofia Cemetery",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.716375,
+      "longitude": 23.333008333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3400970"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q61140849",
+      "name_bg": "Юперски некропол",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.895172,
+      "longitude": 26.403198,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61140849"
+    }
+  ],
+  "meta": {
+    "title": "Гробища в България - Безплатно изтегляне",
+    "description": "Cemeteries in Bulgaria with coordinates, sourced from Wikidata. Съдържа 31 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Гробища в България | ListBase",
+    "seo_description": "Изтеглете Гробища в България — 31 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 31 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

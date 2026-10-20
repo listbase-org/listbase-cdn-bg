@@ -1,0 +1,1969 @@
+{
+  "id": "bg-osm-amenity-car-wash",
+  "name": "Автомивки в България (OpenStreetMap)",
+  "title": "Автомивки в България (OpenStreetMap)",
+  "description": "Автомивки в България — 212 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=car_wash`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 212,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "5 Minutes",
+      "shirina": 42.672258,
+      "dalzhina": 23.38224,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 2,
+      "ime": "5 minutes",
+      "shirina": 42.126098,
+      "dalzhina": 24.790131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 3,
+      "ime": "5 minutes",
+      "shirina": 42.690284,
+      "dalzhina": 23.251816,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 4,
+      "ime": "5 minutes",
+      "shirina": 43.40477,
+      "dalzhina": 24.640895,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 5,
+      "ime": "5 Минути Автомивка",
+      "shirina": 43.396719,
+      "dalzhina": 24.62128,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 6,
+      "ime": "5 минути",
+      "shirina": 42.625803,
+      "dalzhina": 23.384551,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 7,
+      "ime": "60 second",
+      "shirina": 42.693,
+      "dalzhina": 23.367529,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 8,
+      "ime": "Aquarama Car Wash",
+      "shirina": 42.639461,
+      "dalzhina": 23.412423,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 9,
+      "ime": "Auto Box",
+      "shirina": 42.688846,
+      "dalzhina": 27.699153,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 10,
+      "ime": "Auto Point",
+      "shirina": 42.134207,
+      "dalzhina": 24.790004,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 11,
+      "ime": "Auto Spa Raychev",
+      "shirina": 42.176235,
+      "dalzhina": 24.741908,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 12,
+      "ime": "Auto UNICO",
+      "shirina": 43.412516,
+      "dalzhina": 24.621101,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 13,
+      "ime": "Auto smart",
+      "shirina": 42.668304,
+      "dalzhina": 23.352162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 14,
+      "ime": "Avantgarde",
+      "shirina": 42.12687,
+      "dalzhina": 24.787106,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 15,
+      "ime": "Ballistic Auto",
+      "shirina": 42.650393,
+      "dalzhina": 23.278944,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 16,
+      "ime": "Blue Point",
+      "shirina": 42.651938,
+      "dalzhina": 23.265925,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 17,
+      "ime": "BoWash",
+      "shirina": 42.155042,
+      "dalzhina": 24.705383,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 18,
+      "ime": "Brilliance",
+      "shirina": 42.679849,
+      "dalzhina": 23.269347,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 19,
+      "ime": "Bubble Shop",
+      "shirina": 42.167225,
+      "dalzhina": 24.751363,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 20,
+      "ime": "Bubbles Bay",
+      "shirina": 42.731964,
+      "dalzhina": 23.252015,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 21,
+      "ime": "Bubbles Bay",
+      "shirina": 43.240263,
+      "dalzhina": 27.866016,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 22,
+      "ime": "Bubbles bay",
+      "shirina": 43.272729,
+      "dalzhina": 26.94328,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 23,
+      "ime": "Burgas plaza car wash",
+      "shirina": 42.530164,
+      "dalzhina": 27.45905,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 24,
+      "ime": "Calipso",
+      "shirina": 42.665669,
+      "dalzhina": 23.298453,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 25,
+      "ime": "Car Wash",
+      "shirina": 42.08966,
+      "dalzhina": 23.064641,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 26,
+      "ime": "CarKing",
+      "shirina": 42.663152,
+      "dalzhina": 23.391063,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 27,
+      "ime": "CarWash",
+      "shirina": 42.510747,
+      "dalzhina": 27.464371,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 28,
+      "ime": "Clean Park",
+      "shirina": 44.026589,
+      "dalzhina": 27.013825,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 29,
+      "ime": "Colibri",
+      "shirina": 42.414162,
+      "dalzhina": 25.637403,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 30,
+      "ime": "Corner",
+      "shirina": 43.401405,
+      "dalzhina": 23.231448,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 31,
+      "ime": "Danivan",
+      "shirina": 43.834002,
+      "dalzhina": 25.977511,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 32,
+      "ime": "Don Ball",
+      "shirina": 42.565711,
+      "dalzhina": 27.621306,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 33,
+      "ime": "Dubrovnik Spa",
+      "shirina": 43.223983,
+      "dalzhina": 27.924872,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 34,
+      "ime": "EKO carewash",
+      "shirina": 42.651153,
+      "dalzhina": 23.316484,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 35,
+      "ime": "EKO автомивка",
+      "shirina": 42.663556,
+      "dalzhina": 23.260346,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 36,
+      "ime": "Easy",
+      "shirina": 43.871358,
+      "dalzhina": 25.999966,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 37,
+      "ime": "Easy wash",
+      "shirina": 42.637118,
+      "dalzhina": 23.334625,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 38,
+      "ime": "Exotic Carwash",
+      "shirina": 42.671335,
+      "dalzhina": 23.251645,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 39,
+      "ime": "FM",
+      "shirina": 42.20613,
+      "dalzhina": 24.686639,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 40,
+      "ime": "Famous",
+      "shirina": 42.659234,
+      "dalzhina": 23.305525,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 41,
+      "ime": "Fresh",
+      "shirina": 42.622031,
+      "dalzhina": 25.373226,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 42,
+      "ime": "Go green",
+      "shirina": 42.643302,
+      "dalzhina": 23.34003,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 43,
+      "ime": "Gochev Car Service",
+      "shirina": 43.696738,
+      "dalzhina": 28.039052,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 44,
+      "ime": "Graphit",
+      "shirina": 42.689945,
+      "dalzhina": 23.249571,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 45,
+      "ime": "Green",
+      "shirina": 43.433376,
+      "dalzhina": 24.575218,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 46,
+      "ime": "Interspeed",
+      "shirina": 42.743342,
+      "dalzhina": 23.273876,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 47,
+      "ime": "Jet Car Wash",
+      "shirina": 42.152802,
+      "dalzhina": 24.762678,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 48,
+      "ime": "Kaufland",
+      "shirina": 42.683057,
+      "dalzhina": 26.343098,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 49,
+      "ime": "Kimicar",
+      "shirina": 43.855759,
+      "dalzhina": 25.96535,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 50,
+      "ime": "Kiricov",
+      "shirina": 41.842427,
+      "dalzhina": 23.486825,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 51,
+      "ime": "Kärcher Clean Park",
+      "shirina": 42.653155,
+      "dalzhina": 23.390739,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 52,
+      "ime": "LUX",
+      "shirina": 42.663383,
+      "dalzhina": 27.695434,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 53,
+      "ime": "Laura",
+      "shirina": 42.668559,
+      "dalzhina": 23.331142,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 54,
+      "ime": "Lucky",
+      "shirina": 41.625468,
+      "dalzhina": 25.364251,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 55,
+      "ime": "Luxor",
+      "shirina": 42.566598,
+      "dalzhina": 27.62119,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 56,
+      "ime": "Luxury",
+      "shirina": 42.127045,
+      "dalzhina": 24.792943,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 57,
+      "ime": "Luxury Carwash",
+      "shirina": 42.700227,
+      "dalzhina": 27.712423,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 58,
+      "ime": "MVP",
+      "shirina": 42.713134,
+      "dalzhina": 27.751162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 59,
+      "ime": "Magic Auto Spa",
+      "shirina": 42.707284,
+      "dalzhina": 23.325305,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 60,
+      "ime": "Mania",
+      "shirina": 42.634079,
+      "dalzhina": 23.334085,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 61,
+      "ime": "Masaya",
+      "shirina": 42.733972,
+      "dalzhina": 23.309907,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 62,
+      "ime": "Multi Park",
+      "shirina": 42.657541,
+      "dalzhina": 23.328448,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 63,
+      "ime": "Nilfisk Alto",
+      "shirina": 42.64863,
+      "dalzhina": 23.377983,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 64,
+      "ime": "Non-stop",
+      "shirina": 43.198018,
+      "dalzhina": 23.568923,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 65,
+      "ime": "OMV",
+      "shirina": 42.41934,
+      "dalzhina": 25.630572,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 66,
+      "ime": "OMV",
+      "shirina": 42.516048,
+      "dalzhina": 27.460801,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 67,
+      "ime": "OMV",
+      "shirina": 42.651211,
+      "dalzhina": 23.379921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 68,
+      "ime": "OMV",
+      "shirina": 42.662987,
+      "dalzhina": 23.358593,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 69,
+      "ime": "OMV",
+      "shirina": 42.667252,
+      "dalzhina": 23.290514,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 70,
+      "ime": "OMV",
+      "shirina": 42.711136,
+      "dalzhina": 23.271656,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 71,
+      "ime": "OMV",
+      "shirina": 43.216151,
+      "dalzhina": 27.896159,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 72,
+      "ime": "OMV",
+      "shirina": 43.420653,
+      "dalzhina": 23.228484,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 73,
+      "ime": "OMV TopWash",
+      "shirina": 42.641418,
+      "dalzhina": 23.404489,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 74,
+      "ime": "OMV Автомивка",
+      "shirina": 42.528108,
+      "dalzhina": 27.452859,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 75,
+      "ime": "Oil Iskilie",
+      "shirina": 41.569586,
+      "dalzhina": 24.72239,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 76,
+      "ime": "Omv",
+      "shirina": 43.220244,
+      "dalzhina": 27.938721,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 77,
+      "ime": "On the road",
+      "shirina": 42.332495,
+      "dalzhina": 23.98811,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 78,
+      "ime": "Otomoto",
+      "shirina": 42.142582,
+      "dalzhina": 24.786834,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 79,
+      "ime": "PitStop",
+      "shirina": 42.717962,
+      "dalzhina": 23.188709,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 80,
+      "ime": "Pulse",
+      "shirina": 42.667963,
+      "dalzhina": 23.36709,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 81,
+      "ime": "Pulse",
+      "shirina": 42.709062,
+      "dalzhina": 23.366791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 82,
+      "ime": "Pulse Car Wash",
+      "shirina": 42.655762,
+      "dalzhina": 23.280817,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 83,
+      "ime": "Pure Shine",
+      "shirina": 42.671633,
+      "dalzhina": 23.321876,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 84,
+      "ime": "Pure shine",
+      "shirina": 42.672739,
+      "dalzhina": 23.335663,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 85,
+      "ime": "Road star",
+      "shirina": 42.709938,
+      "dalzhina": 27.253878,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 86,
+      "ime": "Royal Wash",
+      "shirina": 41.925049,
+      "dalzhina": 25.559093,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 87,
+      "ime": "SKL",
+      "shirina": 42.65927,
+      "dalzhina": 23.3246,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 88,
+      "ime": "Self Service Car Wash 24/7",
+      "shirina": 41.877642,
+      "dalzhina": 23.472591,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 89,
+      "ime": "Shell",
+      "shirina": 41.581054,
+      "dalzhina": 23.744707,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 90,
+      "ime": "Shell",
+      "shirina": 44.108705,
+      "dalzhina": 27.265252,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 91,
+      "ime": "Sky Car Wash",
+      "shirina": 42.688215,
+      "dalzhina": 27.703654,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 92,
+      "ime": "Sonax",
+      "shirina": 42.665876,
+      "dalzhina": 23.354165,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 93,
+      "ime": "Sonax",
+      "shirina": 43.1975,
+      "dalzhina": 27.918891,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 94,
+      "ime": "Sonax",
+      "shirina": 43.83479,
+      "dalzhina": 25.953085,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 95,
+      "ime": "Speed Wash",
+      "shirina": 42.157655,
+      "dalzhina": 24.720389,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 96,
+      "ime": "Sugar car wash",
+      "shirina": 42.611641,
+      "dalzhina": 25.405066,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 97,
+      "ime": "Summit",
+      "shirina": 42.638733,
+      "dalzhina": 23.39043,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 98,
+      "ime": "TS Auto Spa",
+      "shirina": 42.114486,
+      "dalzhina": 24.680647,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 99,
+      "ime": "The One",
+      "shirina": 42.64981,
+      "dalzhina": 23.358021,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 100,
+      "ime": "The gym",
+      "shirina": 42.670843,
+      "dalzhina": 23.298896,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 101,
+      "ime": "Titan Premium",
+      "shirina": 42.663109,
+      "dalzhina": 27.69866,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 102,
+      "ime": "Turbo Car&Truck Wash",
+      "shirina": 41.990601,
+      "dalzhina": 23.070209,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 103,
+      "ime": "Vest",
+      "shirina": 42.152542,
+      "dalzhina": 24.773428,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 104,
+      "ime": "Vianor",
+      "shirina": 42.659965,
+      "dalzhina": 23.265693,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 105,
+      "ime": "Wash & Go",
+      "shirina": 42.708444,
+      "dalzhina": 24.146132,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 106,
+      "ime": "Wash & Wash / 22",
+      "shirina": 42.70977,
+      "dalzhina": 23.300531,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 107,
+      "ime": "Wash Mania",
+      "shirina": 42.636876,
+      "dalzhina": 23.377822,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 108,
+      "ime": "Wash Me",
+      "shirina": 42.157651,
+      "dalzhina": 24.729555,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 109,
+      "ime": "Wash and drive",
+      "shirina": 42.131229,
+      "dalzhina": 24.734457,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 110,
+      "ime": "Wash up",
+      "shirina": 43.22403,
+      "dalzhina": 27.891245,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 111,
+      "ime": "Wash up!",
+      "shirina": 43.223573,
+      "dalzhina": 27.894332,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 112,
+      "ime": "Yowo Zone",
+      "shirina": 42.658193,
+      "dalzhina": 23.272981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 113,
+      "ime": "easy wash",
+      "shirina": 42.712577,
+      "dalzhina": 23.267376,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 114,
+      "ime": "reDress",
+      "shirina": 42.714303,
+      "dalzhina": 23.254208,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 115,
+      "ime": "reDress",
+      "shirina": 42.729176,
+      "dalzhina": 23.257032,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 116,
+      "ime": "АВТОМИВКА БЛЯСЪК",
+      "shirina": 42.652132,
+      "dalzhina": 26.323247,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 117,
+      "ime": "АВТОМИВКАТА",
+      "shirina": 42.667768,
+      "dalzhina": 23.278961,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 118,
+      "ime": "Автокозметичен салон",
+      "shirina": 42.684648,
+      "dalzhina": 23.320509,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 119,
+      "ime": "Автокомплекс „Ники“",
+      "shirina": 42.649379,
+      "dalzhina": 23.404053,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 120,
+      "ime": "Автолукс",
+      "shirina": 41.523707,
+      "dalzhina": 25.408686,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 121,
+      "ime": "Автомакс 130",
+      "shirina": 42.673417,
+      "dalzhina": 23.270451,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 122,
+      "ime": "Автомивка",
+      "shirina": 41.378546,
+      "dalzhina": 25.254724,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 123,
+      "ime": "Автомивка",
+      "shirina": 41.380013,
+      "dalzhina": 25.254009,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 124,
+      "ime": "Автомивка",
+      "shirina": 41.380836,
+      "dalzhina": 25.256277,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 125,
+      "ime": "Автомивка",
+      "shirina": 42.058527,
+      "dalzhina": 25.266264,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 126,
+      "ime": "Автомивка",
+      "shirina": 42.147519,
+      "dalzhina": 24.413467,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 127,
+      "ime": "Автомивка",
+      "shirina": 42.160221,
+      "dalzhina": 24.314369,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 128,
+      "ime": "Автомивка",
+      "shirina": 42.167,
+      "dalzhina": 27.844063,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 129,
+      "ime": "Автомивка",
+      "shirina": 42.197652,
+      "dalzhina": 25.319408,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 130,
+      "ime": "Автомивка",
+      "shirina": 42.500229,
+      "dalzhina": 27.458181,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 131,
+      "ime": "Автомивка",
+      "shirina": 42.502656,
+      "dalzhina": 27.458514,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 132,
+      "ime": "Автомивка",
+      "shirina": 42.514259,
+      "dalzhina": 27.450935,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 133,
+      "ime": "Автомивка",
+      "shirina": 42.5293,
+      "dalzhina": 27.45452,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 134,
+      "ime": "Автомивка",
+      "shirina": 42.60244,
+      "dalzhina": 25.205554,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 135,
+      "ime": "Автомивка",
+      "shirina": 42.71584,
+      "dalzhina": 23.296909,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 136,
+      "ime": "Автомивка",
+      "shirina": 42.718423,
+      "dalzhina": 23.254116,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 137,
+      "ime": "Автомивка",
+      "shirina": 42.732921,
+      "dalzhina": 23.295097,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 138,
+      "ime": "Автомивка",
+      "shirina": 43.134931,
+      "dalzhina": 25.695335,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 139,
+      "ime": "Автомивка",
+      "shirina": 43.234256,
+      "dalzhina": 27.878178,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 140,
+      "ime": "Автомивка",
+      "shirina": 43.34771,
+      "dalzhina": 26.220147,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 141,
+      "ime": "Автомивка \"V&K\"",
+      "shirina": 43.474298,
+      "dalzhina": 23.946574,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 142,
+      "ime": "Автомивка \"Бате Руси\"",
+      "shirina": 42.167297,
+      "dalzhina": 27.849318,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 143,
+      "ime": "Автомивка \"Запад\"",
+      "shirina": 42.596567,
+      "dalzhina": 23.02509,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 144,
+      "ime": "Автомивка 34",
+      "shirina": 43.223469,
+      "dalzhina": 27.918015,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 145,
+      "ime": "Автомивка Fresh",
+      "shirina": 42.475276,
+      "dalzhina": 27.437212,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 146,
+      "ime": "Автомивка GP",
+      "shirina": 43.369815,
+      "dalzhina": 23.470627,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 147,
+      "ime": "Автомивка S&S",
+      "shirina": 41.383042,
+      "dalzhina": 25.250092,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 148,
+      "ime": "Автомивка Авто Мания",
+      "shirina": 42.89278,
+      "dalzhina": 25.316653,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 149,
+      "ime": "Автомивка Бриз",
+      "shirina": 42.603162,
+      "dalzhina": 23.034619,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 150,
+      "ime": "Автомивка Дворец на културата и спорта",
+      "shirina": 43.210816,
+      "dalzhina": 27.932545,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 151,
+      "ime": "Автомивка Илиев",
+      "shirina": 41.936803,
+      "dalzhina": 25.563396,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 152,
+      "ime": "Автомивка Ирис",
+      "shirina": 43.854768,
+      "dalzhina": 25.991911,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 153,
+      "ime": "Автомивка Кристал",
+      "shirina": 42.74342,
+      "dalzhina": 23.283295,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 154,
+      "ime": "Автомивка Лолита",
+      "shirina": 43.244394,
+      "dalzhina": 27.842056,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 155,
+      "ime": "Автомивка Миив",
+      "shirina": 42.60883,
+      "dalzhina": 23.065619,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 156,
+      "ime": "Автомивка Океан",
+      "shirina": 42.482132,
+      "dalzhina": 27.442215,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 157,
+      "ime": "Автомивка Перфект",
+      "shirina": 42.480137,
+      "dalzhina": 27.440009,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 158,
+      "ime": "Автомивка Ради Газ",
+      "shirina": 42.710207,
+      "dalzhina": 23.242919,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 159,
+      "ime": "Автомивка и смяна на гуми",
+      "shirina": 42.656767,
+      "dalzhina": 23.386835,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 160,
+      "ime": "Автомивка на самообслужване",
+      "shirina": 42.632947,
+      "dalzhina": 23.332774,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 161,
+      "ime": "Автомивка на самообслужване",
+      "shirina": 42.906541,
+      "dalzhina": 23.803988,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 162,
+      "ime": "Автоточка",
+      "shirina": 42.171237,
+      "dalzhina": 24.742097,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 163,
+      "ime": "Автоцентър Диагонал",
+      "shirina": 42.679623,
+      "dalzhina": 23.283659,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 164,
+      "ime": "Арина Ауто",
+      "shirina": 43.391759,
+      "dalzhina": 24.620556,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 165,
+      "ime": "Ауто Фреш",
+      "shirina": 42.515868,
+      "dalzhina": 27.449093,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 166,
+      "ime": "Аутобик",
+      "shirina": 42.673319,
+      "dalzhina": 23.386864,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 167,
+      "ime": "Бенита",
+      "shirina": 43.16133,
+      "dalzhina": 27.930565,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 168,
+      "ime": "Блясък",
+      "shirina": 42.663534,
+      "dalzhina": 27.693871,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 169,
+      "ime": "Бройката 19",
+      "shirina": 42.899907,
+      "dalzhina": 25.330806,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 170,
+      "ime": "Героев ЕООД",
+      "shirina": 41.930101,
+      "dalzhina": 25.571037,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 171,
+      "ime": "Дискавъри",
+      "shirina": 42.016449,
+      "dalzhina": 23.082561,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 172,
+      "ime": "Еко",
+      "shirina": 42.667581,
+      "dalzhina": 23.368609,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 173,
+      "ime": "Еко кредо",
+      "shirina": 42.676356,
+      "dalzhina": 23.324555,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 174,
+      "ime": "Експерт Ойл",
+      "shirina": 43.249651,
+      "dalzhina": 27.821482,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 175,
+      "ime": "Експерт Ойл",
+      "shirina": 43.269466,
+      "dalzhina": 27.817712,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 176,
+      "ime": "Енигма",
+      "shirina": 42.676238,
+      "dalzhina": 23.265526,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 177,
+      "ime": "Ер Ви Би",
+      "shirina": 42.686484,
+      "dalzhina": 23.368345,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 178,
+      "ime": "ИМ Петролиум",
+      "shirina": 42.495359,
+      "dalzhina": 26.498179,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 179,
+      "ime": "КОМПЛЕКС-ВИП СЪРВИЗ",
+      "shirina": 43.273457,
+      "dalzhina": 26.954698,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 180,
+      "ime": "Колев",
+      "shirina": 42.663121,
+      "dalzhina": 27.696279,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 181,
+      "ime": "Краси",
+      "shirina": 43.19231,
+      "dalzhina": 27.444347,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 182,
+      "ime": "Крисчо",
+      "shirina": 43.148043,
+      "dalzhina": 24.280487,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 183,
+      "ime": "Летец",
+      "shirina": 42.677822,
+      "dalzhina": 23.295307,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 184,
+      "ime": "Лукойл България ЕООД",
+      "shirina": 41.930558,
+      "dalzhina": 25.600457,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 185,
+      "ime": "Лукс",
+      "shirina": 42.654178,
+      "dalzhina": 23.333311,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 186,
+      "ime": "Малашев",
+      "shirina": 41.386388,
+      "dalzhina": 25.088189,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 187,
+      "ime": "Мир",
+      "shirina": 43.224494,
+      "dalzhina": 27.929847,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 188,
+      "ime": "Мира",
+      "shirina": 41.62845,
+      "dalzhina": 24.170698,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 189,
+      "ime": "Натали",
+      "shirina": 42.872501,
+      "dalzhina": 24.713046,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 190,
+      "ime": "Нейчев",
+      "shirina": 42.88896,
+      "dalzhina": 25.309546,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 191,
+      "ime": "ОМ",
+      "shirina": 42.690233,
+      "dalzhina": 23.251443,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 192,
+      "ime": "Омакс",
+      "shirina": 42.502711,
+      "dalzhina": 26.525201,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 193,
+      "ime": "Парковка",
+      "shirina": 43.084667,
+      "dalzhina": 25.634765,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 194,
+      "ime": "Перла",
+      "shirina": 42.687427,
+      "dalzhina": 23.26521,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 195,
+      "ime": "Перфект",
+      "shirina": 42.155479,
+      "dalzhina": 24.707981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 196,
+      "ime": "Петел",
+      "shirina": 42.650259,
+      "dalzhina": 23.292756,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 197,
+      "ime": "Петрохан",
+      "shirina": 43.846546,
+      "dalzhina": 25.986165,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 198,
+      "ime": "Радикал 2000",
+      "shirina": 42.679102,
+      "dalzhina": 23.320782,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 199,
+      "ime": "Рикар",
+      "shirina": 43.226816,
+      "dalzhina": 27.926369,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 200,
+      "ime": "Роли",
+      "shirina": 43.226268,
+      "dalzhina": 27.930764,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 201,
+      "ime": "Самара",
+      "shirina": 42.428429,
+      "dalzhina": 25.648067,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 202,
+      "ime": "Свежест",
+      "shirina": 42.679842,
+      "dalzhina": 26.309935,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 203,
+      "ime": "Ти. 86",
+      "shirina": 42.667376,
+      "dalzhina": 23.35119,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 204,
+      "ime": "Усмивка",
+      "shirina": 42.148064,
+      "dalzhina": 24.786981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 205,
+      "ime": "Флайс",
+      "shirina": 42.654943,
+      "dalzhina": 23.31897,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 206,
+      "ime": "Фреш",
+      "shirina": 42.656445,
+      "dalzhina": 23.316226,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 207,
+      "ime": "Фрут Машин",
+      "shirina": 42.658225,
+      "dalzhina": 23.337046,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 208,
+      "ime": "Хиподрума",
+      "shirina": 43.548283,
+      "dalzhina": 27.822781,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 209,
+      "ime": "Южен парк",
+      "shirina": 42.65711,
+      "dalzhina": 23.31005,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 210,
+      "ime": "автомивка",
+      "shirina": 42.648596,
+      "dalzhina": 23.63405,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 211,
+      "ime": "автомывка",
+      "shirina": 42.266197,
+      "dalzhina": 27.747277,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    },
+    {
+      "id": 212,
+      "ime": "карстаил гараж",
+      "shirina": 43.851691,
+      "dalzhina": 26.001171,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "car_wash",
+      "osm_klas": "amenity=car_wash"
+    }
+  ],
+  "meta": {
+    "title": "Автомивки в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Автомивки в България — 212 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=car_wash`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 212 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Автомивки в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Автомивки в България (OpenStreetMap) — 212 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 212 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

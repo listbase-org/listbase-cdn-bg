@@ -1,0 +1,2527 @@
+{
+  "id": "bg-osm-shop-jewelry",
+  "name": "Бижутерии в България (OpenStreetMap)",
+  "title": "Бижутерии в България (OpenStreetMap)",
+  "description": "Бижутерии в България — 274 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=jewelry`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 274,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "925 Silver",
+      "shirina": 42.495927,
+      "dalzhina": 27.471644,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 2,
+      "ime": "Abbas",
+      "shirina": 42.685598,
+      "dalzhina": 23.32291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 3,
+      "ime": "Adaria",
+      "shirina": 42.687097,
+      "dalzhina": 23.326852,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 4,
+      "ime": "Alchimia",
+      "shirina": 42.700725,
+      "dalzhina": 23.325366,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 5,
+      "ime": "Alex & W",
+      "shirina": 42.690945,
+      "dalzhina": 23.311708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 6,
+      "ime": "Alicia",
+      "shirina": 43.570663,
+      "dalzhina": 27.829032,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 7,
+      "ime": "Altınbaş",
+      "shirina": 42.658477,
+      "dalzhina": 23.315829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 8,
+      "ime": "Altınbaş",
+      "shirina": 42.660698,
+      "dalzhina": 23.382235,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 9,
+      "ime": "Altınbaş",
+      "shirina": 42.688471,
+      "dalzhina": 23.318574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 10,
+      "ime": "AmberLink",
+      "shirina": 42.690087,
+      "dalzhina": 23.320268,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 11,
+      "ime": "Antiques & Gold",
+      "shirina": 43.207815,
+      "dalzhina": 27.905309,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 12,
+      "ime": "Antonio Gems",
+      "shirina": 42.694877,
+      "dalzhina": 23.317918,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 13,
+      "ime": "Arabella",
+      "shirina": 43.205146,
+      "dalzhina": 27.91889,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 14,
+      "ime": "Aristo",
+      "shirina": 43.205105,
+      "dalzhina": 27.918833,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 15,
+      "ime": "Artefakti",
+      "shirina": 42.700931,
+      "dalzhina": 23.323796,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 16,
+      "ime": "Artezza",
+      "shirina": 42.665768,
+      "dalzhina": 23.299753,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 17,
+      "ime": "Artish family",
+      "shirina": 42.669987,
+      "dalzhina": 23.329954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 18,
+      "ime": "Assos",
+      "shirina": 42.658431,
+      "dalzhina": 23.315248,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 19,
+      "ime": "Ava Gold",
+      "shirina": 42.657959,
+      "dalzhina": 23.315389,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 20,
+      "ime": "Ava Gold",
+      "shirina": 42.692599,
+      "dalzhina": 23.325439,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 21,
+      "ime": "Avi Center",
+      "shirina": 42.657604,
+      "dalzhina": 23.315461,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 22,
+      "ime": "Bibi Kopoeva",
+      "shirina": 42.689094,
+      "dalzhina": 23.316225,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 23,
+      "ime": "Bijou Brigitte",
+      "shirina": 42.657883,
+      "dalzhina": 23.314728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 24,
+      "ime": "Bijou Brigitte",
+      "shirina": 42.660652,
+      "dalzhina": 23.382171,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 25,
+      "ime": "Bijoux Trendy",
+      "shirina": 42.658052,
+      "dalzhina": 23.314505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 26,
+      "ime": "Bijoux Trendy",
+      "shirina": 42.688515,
+      "dalzhina": 23.328636,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 27,
+      "ime": "Bijoux Trendy",
+      "shirina": 42.693176,
+      "dalzhina": 23.32348,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 28,
+      "ime": "BirSé",
+      "shirina": 42.686921,
+      "dalzhina": 23.330585,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 29,
+      "ime": "BirSé",
+      "shirina": 42.690916,
+      "dalzhina": 23.325449,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 30,
+      "ime": "Bloom",
+      "shirina": 42.694932,
+      "dalzhina": 23.321416,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 31,
+      "ime": "Bogoridi",
+      "shirina": 42.493728,
+      "dalzhina": 27.474638,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 32,
+      "ime": "Brutal",
+      "shirina": 42.156396,
+      "dalzhina": 24.745096,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 33,
+      "ime": "Brutal",
+      "shirina": 42.694112,
+      "dalzhina": 23.324558,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 34,
+      "ime": "Bulgaria Gems",
+      "shirina": 42.657632,
+      "dalzhina": 23.313528,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 35,
+      "ime": "Bulgaria Gems",
+      "shirina": 42.698059,
+      "dalzhina": 23.308494,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 36,
+      "ime": "Bulmint",
+      "shirina": 42.695598,
+      "dalzhina": 23.335538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 37,
+      "ime": "CLASSIC Watches&Jewelry",
+      "shirina": 43.219692,
+      "dalzhina": 27.889561,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 38,
+      "ime": "Carissima",
+      "shirina": 42.147885,
+      "dalzhina": 24.749099,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 39,
+      "ime": "Castillo Jewelery",
+      "shirina": 42.658818,
+      "dalzhina": 27.735362,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 40,
+      "ime": "Chopard",
+      "shirina": 42.694325,
+      "dalzhina": 23.331051,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 41,
+      "ime": "D&K 05",
+      "shirina": 42.690572,
+      "dalzhina": 23.329074,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 42,
+      "ime": "Danieli",
+      "shirina": 42.698351,
+      "dalzhina": 23.333084,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 43,
+      "ime": "Deniri",
+      "shirina": 42.693575,
+      "dalzhina": 23.323103,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 44,
+      "ime": "Denis Videnov",
+      "shirina": 42.68834,
+      "dalzhina": 23.318531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 45,
+      "ime": "DiVa",
+      "shirina": 43.850026,
+      "dalzhina": 25.954285,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 46,
+      "ime": "Diddo",
+      "shirina": 42.691654,
+      "dalzhina": 23.310492,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 47,
+      "ime": "Dobo Oro",
+      "shirina": 42.146403,
+      "dalzhina": 24.749399,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 48,
+      "ime": "Duo",
+      "shirina": 42.688326,
+      "dalzhina": 23.324378,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 49,
+      "ime": "E&M",
+      "shirina": 42.694271,
+      "dalzhina": 23.331219,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 50,
+      "ime": "EPL Diamond",
+      "shirina": 42.657445,
+      "dalzhina": 23.314756,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 51,
+      "ime": "El Grado",
+      "shirina": 42.689258,
+      "dalzhina": 23.330043,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 52,
+      "ime": "El Grado",
+      "shirina": 42.690067,
+      "dalzhina": 23.31955,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 53,
+      "ime": "El Grado",
+      "shirina": 42.693201,
+      "dalzhina": 23.331349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 54,
+      "ime": "El Grado",
+      "shirina": 42.697978,
+      "dalzhina": 23.329104,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 55,
+      "ime": "El amor",
+      "shirina": 42.146638,
+      "dalzhina": 24.74932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 56,
+      "ime": "Elegance",
+      "shirina": 42.661005,
+      "dalzhina": 27.716518,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 57,
+      "ime": "Eleganza",
+      "shirina": 42.49368,
+      "dalzhina": 27.473335,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 58,
+      "ime": "Elite Precious",
+      "shirina": 42.6926,
+      "dalzhina": 23.322751,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 59,
+      "ime": "Elite jewellery",
+      "shirina": 42.675323,
+      "dalzhina": 23.358966,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 60,
+      "ime": "Etiket",
+      "shirina": 42.660995,
+      "dalzhina": 23.383255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 61,
+      "ime": "Ferbita",
+      "shirina": 43.231241,
+      "dalzhina": 28.013137,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 62,
+      "ime": "Freywille",
+      "shirina": 42.657579,
+      "dalzhina": 23.315134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 63,
+      "ime": "G Mart",
+      "shirina": 42.693228,
+      "dalzhina": 23.315162,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 64,
+      "ime": "Georo",
+      "shirina": 42.657672,
+      "dalzhina": 23.314093,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 65,
+      "ime": "Giulian",
+      "shirina": 42.657537,
+      "dalzhina": 23.313747,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 66,
+      "ime": "Giulian",
+      "shirina": 42.658134,
+      "dalzhina": 23.315281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 67,
+      "ime": "Giulian",
+      "shirina": 42.660462,
+      "dalzhina": 23.382527,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 68,
+      "ime": "Giulian",
+      "shirina": 42.69919,
+      "dalzhina": 23.329565,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 69,
+      "ime": "Gold",
+      "shirina": 43.849879,
+      "dalzhina": 25.959213,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 70,
+      "ime": "Gold & Gold",
+      "shirina": 42.49367,
+      "dalzhina": 27.473648,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 71,
+      "ime": "Gold & Silver Art",
+      "shirina": 42.42308,
+      "dalzhina": 27.694222,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 72,
+      "ime": "Golden Lucky Jewellery",
+      "shirina": 42.697673,
+      "dalzhina": 23.316394,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 73,
+      "ime": "Goto",
+      "shirina": 42.657508,
+      "dalzhina": 23.315324,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 74,
+      "ime": "Goto",
+      "shirina": 42.660813,
+      "dalzhina": 23.382236,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 75,
+      "ime": "Goto",
+      "shirina": 42.697268,
+      "dalzhina": 23.320366,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 76,
+      "ime": "House of Jewellery",
+      "shirina": 42.696244,
+      "dalzhina": 23.323173,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 77,
+      "ime": "Hugasian",
+      "shirina": 43.204617,
+      "dalzhina": 27.918596,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 78,
+      "ime": "Hypnotica",
+      "shirina": 42.696113,
+      "dalzhina": 23.323507,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 79,
+      "ime": "Idole",
+      "shirina": 42.692764,
+      "dalzhina": 23.32387,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 80,
+      "ime": "Imiks",
+      "shirina": 42.662994,
+      "dalzhina": 27.716735,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 81,
+      "ime": "Imiks",
+      "shirina": 42.665285,
+      "dalzhina": 23.289276,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 82,
+      "ime": "Imiks",
+      "shirina": 42.711949,
+      "dalzhina": 27.763852,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 83,
+      "ime": "Imiks",
+      "shirina": 42.713208,
+      "dalzhina": 27.760285,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 84,
+      "ime": "Invoke",
+      "shirina": 42.657623,
+      "dalzhina": 23.314094,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 85,
+      "ime": "Invoke",
+      "shirina": 42.692292,
+      "dalzhina": 23.319814,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 86,
+      "ime": "Itomo",
+      "shirina": 42.690649,
+      "dalzhina": 23.316768,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 87,
+      "ime": "Ivaney",
+      "shirina": 42.679596,
+      "dalzhina": 23.367941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 88,
+      "ime": "Ivaney",
+      "shirina": 42.693377,
+      "dalzhina": 23.33974,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 89,
+      "ime": "Ivaney",
+      "shirina": 42.695226,
+      "dalzhina": 23.328859,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 90,
+      "ime": "JV Gold",
+      "shirina": 42.660437,
+      "dalzhina": 23.383078,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 91,
+      "ime": "JV Gold",
+      "shirina": 42.677747,
+      "dalzhina": 23.285984,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 92,
+      "ime": "JV Jewelry",
+      "shirina": 42.657696,
+      "dalzhina": 23.314418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 93,
+      "ime": "Jade Gold & Diamond",
+      "shirina": 42.697372,
+      "dalzhina": 23.319157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 94,
+      "ime": "Janet Jewels",
+      "shirina": 42.658311,
+      "dalzhina": 23.315295,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 95,
+      "ime": "Janette collections",
+      "shirina": 42.67777,
+      "dalzhina": 23.286006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 96,
+      "ime": "Jashi",
+      "shirina": 42.685232,
+      "dalzhina": 23.329531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 97,
+      "ime": "Jewellery Garden",
+      "shirina": 42.693407,
+      "dalzhina": 23.323262,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 98,
+      "ime": "Jovani",
+      "shirina": 42.698635,
+      "dalzhina": 23.319307,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 99,
+      "ime": "Juliany",
+      "shirina": 42.141159,
+      "dalzhina": 24.740883,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 100,
+      "ime": "Juliany",
+      "shirina": 42.141299,
+      "dalzhina": 24.720022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 101,
+      "ime": "Juliany",
+      "shirina": 42.624261,
+      "dalzhina": 23.352289,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 102,
+      "ime": "Juliany",
+      "shirina": 42.658211,
+      "dalzhina": 23.315483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 103,
+      "ime": "Juliany",
+      "shirina": 42.660575,
+      "dalzhina": 23.382157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 104,
+      "ime": "Juliany",
+      "shirina": 42.68995,
+      "dalzhina": 23.313062,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 105,
+      "ime": "Juliany",
+      "shirina": 42.691227,
+      "dalzhina": 23.354136,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 106,
+      "ime": "Juliany",
+      "shirina": 42.698535,
+      "dalzhina": 23.308193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 107,
+      "ime": "Juliany",
+      "shirina": 42.69941,
+      "dalzhina": 23.329529,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 108,
+      "ime": "Kamei",
+      "shirina": 42.678728,
+      "dalzhina": 23.32058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 109,
+      "ime": "Kamei Silver",
+      "shirina": 42.692444,
+      "dalzhina": 23.321822,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 110,
+      "ime": "Karen",
+      "shirina": 42.689652,
+      "dalzhina": 23.325104,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 111,
+      "ime": "Kasiopeya",
+      "shirina": 42.69324,
+      "dalzhina": 23.318956,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 112,
+      "ime": "Kasrin",
+      "shirina": 42.694817,
+      "dalzhina": 23.319457,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 113,
+      "ime": "Knot Knot",
+      "shirina": 42.690624,
+      "dalzhina": 23.317921,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 114,
+      "ime": "Kris Silver",
+      "shirina": 42.653439,
+      "dalzhina": 23.342886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 115,
+      "ime": "Lalita Fiverte",
+      "shirina": 42.686393,
+      "dalzhina": 23.302627,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 116,
+      "ime": "Lubo Gold",
+      "shirina": 43.207238,
+      "dalzhina": 27.921531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 117,
+      "ime": "M&A Minerals Rainbow LTD",
+      "shirina": 42.265257,
+      "dalzhina": 23.606046,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 118,
+      "ime": "MODA SILVER",
+      "shirina": 43.27104,
+      "dalzhina": 26.929004,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 119,
+      "ime": "MS Beauty",
+      "shirina": 42.694413,
+      "dalzhina": 23.315386,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 120,
+      "ime": "Maria",
+      "shirina": 42.690368,
+      "dalzhina": 23.326091,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 121,
+      "ime": "Maria",
+      "shirina": 42.69227,
+      "dalzhina": 23.331013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 122,
+      "ime": "Maria",
+      "shirina": 42.694729,
+      "dalzhina": 23.321448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 123,
+      "ime": "Morian",
+      "shirina": 42.7006,
+      "dalzhina": 23.320681,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 124,
+      "ime": "My Silver",
+      "shirina": 42.686918,
+      "dalzhina": 23.330227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 125,
+      "ime": "My Silver",
+      "shirina": 42.689236,
+      "dalzhina": 23.318402,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 126,
+      "ime": "My Silver",
+      "shirina": 42.694559,
+      "dalzhina": 23.32239,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 127,
+      "ime": "Nira Gold",
+      "shirina": 42.703603,
+      "dalzhina": 23.32368,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 128,
+      "ime": "Nomination",
+      "shirina": 42.689839,
+      "dalzhina": 23.319057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 129,
+      "ime": "Oggi",
+      "shirina": 42.677295,
+      "dalzhina": 23.28605,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 130,
+      "ime": "Pandora",
+      "shirina": 42.657562,
+      "dalzhina": 23.315075,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 131,
+      "ime": "Pandora",
+      "shirina": 42.661009,
+      "dalzhina": 23.3822,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 132,
+      "ime": "Pandora",
+      "shirina": 42.69121,
+      "dalzhina": 23.319473,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 133,
+      "ime": "Pandora",
+      "shirina": 43.20498,
+      "dalzhina": 27.918643,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 134,
+      "ime": "Paula Venti",
+      "shirina": 42.660314,
+      "dalzhina": 23.383455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 135,
+      "ime": "Perli.bg",
+      "shirina": 42.696248,
+      "dalzhina": 23.342464,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 136,
+      "ime": "Princess",
+      "shirina": 42.699549,
+      "dalzhina": 23.320931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 137,
+      "ime": "Princess Gold",
+      "shirina": 42.699346,
+      "dalzhina": 23.321065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 138,
+      "ime": "Reds",
+      "shirina": 42.657858,
+      "dalzhina": 23.315473,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 139,
+      "ime": "Reds",
+      "shirina": 42.696123,
+      "dalzhina": 23.322558,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 140,
+      "ime": "Remco",
+      "shirina": 42.694971,
+      "dalzhina": 23.321105,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 141,
+      "ime": "Renee de Clair",
+      "shirina": 42.702685,
+      "dalzhina": 23.328937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 142,
+      "ime": "Roma Gold",
+      "shirina": 43.208806,
+      "dalzhina": 27.908907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 143,
+      "ime": "Rose",
+      "shirina": 42.690314,
+      "dalzhina": 23.319723,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 144,
+      "ime": "Rosset",
+      "shirina": 42.678453,
+      "dalzhina": 23.320094,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 145,
+      "ime": "SSG",
+      "shirina": 42.691988,
+      "dalzhina": 23.322945,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 146,
+      "ime": "SXY Jewellery",
+      "shirina": 42.678549,
+      "dalzhina": 23.320279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 147,
+      "ime": "Sabina silver",
+      "shirina": 42.676657,
+      "dalzhina": 23.359991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 148,
+      "ime": "Samson",
+      "shirina": 42.693853,
+      "dalzhina": 23.320182,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 149,
+      "ime": "Samsonite",
+      "shirina": 42.660458,
+      "dalzhina": 23.3832,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 150,
+      "ime": "Sapfir G. D.",
+      "shirina": 42.690352,
+      "dalzhina": 23.31401,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 151,
+      "ime": "Sara trade",
+      "shirina": 42.126165,
+      "dalzhina": 24.720827,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 152,
+      "ime": "Scarabey",
+      "shirina": 42.693774,
+      "dalzhina": 23.322116,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 153,
+      "ime": "Sefira Gallery",
+      "shirina": 42.687171,
+      "dalzhina": 23.318137,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 154,
+      "ime": "Selina",
+      "shirina": 42.658883,
+      "dalzhina": 27.733181,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 155,
+      "ime": "Selina Jewellery",
+      "shirina": 42.423639,
+      "dalzhina": 25.623836,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 156,
+      "ime": "Selina Jewellery",
+      "shirina": 42.425052,
+      "dalzhina": 25.629929,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 157,
+      "ime": "Shemay",
+      "shirina": 42.69314,
+      "dalzhina": 23.318006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 158,
+      "ime": "Shikka",
+      "shirina": 42.691902,
+      "dalzhina": 23.32176,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 159,
+      "ime": "Silver",
+      "shirina": 42.658661,
+      "dalzhina": 27.735938,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 160,
+      "ime": "Silver & Pearls",
+      "shirina": 42.696223,
+      "dalzhina": 23.343035,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 161,
+      "ime": "Silver 925",
+      "shirina": 41.565118,
+      "dalzhina": 23.280034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 162,
+      "ime": "Silver Beach",
+      "shirina": 42.658618,
+      "dalzhina": 27.732471,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 163,
+      "ime": "Silver Court",
+      "shirina": 42.663847,
+      "dalzhina": 23.288556,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 164,
+      "ime": "Silver Court",
+      "shirina": 42.678682,
+      "dalzhina": 23.320305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 165,
+      "ime": "Silver Flowers",
+      "shirina": 42.68714,
+      "dalzhina": 23.330313,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 166,
+      "ime": "Silver Flowers",
+      "shirina": 42.692998,
+      "dalzhina": 23.323648,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 167,
+      "ime": "Silver Flowers",
+      "shirina": 42.694956,
+      "dalzhina": 23.319029,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 168,
+      "ime": "Silver Lux",
+      "shirina": 42.699758,
+      "dalzhina": 23.318107,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 169,
+      "ime": "Silver Star",
+      "shirina": 42.61077,
+      "dalzhina": 23.040135,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 170,
+      "ime": "Silver Zone",
+      "shirina": 42.689392,
+      "dalzhina": 23.313614,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 171,
+      "ime": "Silverado",
+      "shirina": 42.69635,
+      "dalzhina": 23.340469,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 172,
+      "ime": "Sofi",
+      "shirina": 42.689147,
+      "dalzhina": 23.327852,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 173,
+      "ime": "Soul Stones",
+      "shirina": 42.690316,
+      "dalzhina": 23.318696,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 174,
+      "ime": "Starlight",
+      "shirina": 42.668607,
+      "dalzhina": 23.289842,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 175,
+      "ime": "Stones",
+      "shirina": 43.206876,
+      "dalzhina": 27.921506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 176,
+      "ime": "Stuff Piercing",
+      "shirina": 42.692169,
+      "dalzhina": 23.329375,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 177,
+      "ime": "Swan Pearls",
+      "shirina": 42.66429,
+      "dalzhina": 23.288464,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 178,
+      "ime": "Swan Pearls",
+      "shirina": 42.697585,
+      "dalzhina": 23.317099,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 179,
+      "ime": "Swan Pearls",
+      "shirina": 42.699617,
+      "dalzhina": 23.32009,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 180,
+      "ime": "Swarovski",
+      "shirina": 42.658202,
+      "dalzhina": 23.315294,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 181,
+      "ime": "Swarovski",
+      "shirina": 42.660935,
+      "dalzhina": 23.382399,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 182,
+      "ime": "Teilor",
+      "shirina": 42.65724,
+      "dalzhina": 23.315181,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 183,
+      "ime": "Teilor",
+      "shirina": 42.660821,
+      "dalzhina": 23.382407,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 184,
+      "ime": "Teoreya Gold",
+      "shirina": 42.695492,
+      "dalzhina": 23.317189,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 185,
+      "ime": "Teoreya Gold - магазин за злато",
+      "shirina": 42.679426,
+      "dalzhina": 26.316764,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 186,
+      "ime": "The Art Of Handmade",
+      "shirina": 42.153588,
+      "dalzhina": 24.745026,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 187,
+      "ime": "The Bulgarian Amber Company",
+      "shirina": 42.657814,
+      "dalzhina": 27.733392,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 188,
+      "ime": "Ti Sento",
+      "shirina": 42.657324,
+      "dalzhina": 23.31496,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 189,
+      "ime": "Time studio",
+      "shirina": 42.689455,
+      "dalzhina": 23.320585,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 190,
+      "ime": "Tri Gold",
+      "shirina": 41.643175,
+      "dalzhina": 25.367093,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 191,
+      "ime": "Troja",
+      "shirina": 42.493776,
+      "dalzhina": 27.476227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 192,
+      "ime": "Unique Silver",
+      "shirina": 42.493667,
+      "dalzhina": 27.473705,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 193,
+      "ime": "Uvel",
+      "shirina": 42.707716,
+      "dalzhina": 23.322656,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 194,
+      "ime": "Valentin",
+      "shirina": 42.657282,
+      "dalzhina": 23.315585,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 195,
+      "ime": "VallRey",
+      "shirina": 43.2162,
+      "dalzhina": 27.916341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 196,
+      "ime": "Venus",
+      "shirina": 42.689845,
+      "dalzhina": 23.321691,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 197,
+      "ime": "Victoria",
+      "shirina": 42.658138,
+      "dalzhina": 23.31531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 198,
+      "ime": "Victoria",
+      "shirina": 42.697485,
+      "dalzhina": 23.315734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 199,
+      "ime": "Violet",
+      "shirina": 42.692775,
+      "dalzhina": 23.317819,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 200,
+      "ime": "Virtuosa",
+      "shirina": 42.692711,
+      "dalzhina": 23.321678,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 201,
+      "ime": "Virtuosa",
+      "shirina": 42.693998,
+      "dalzhina": 23.316115,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 202,
+      "ime": "Vyara Tzeneva",
+      "shirina": 42.697904,
+      "dalzhina": 23.333212,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 203,
+      "ime": "West Gold & Silver",
+      "shirina": 42.688924,
+      "dalzhina": 23.32335,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 204,
+      "ime": "West Gold & Silver",
+      "shirina": 42.689067,
+      "dalzhina": 23.321871,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 205,
+      "ime": "West Gold and Silver",
+      "shirina": 42.689113,
+      "dalzhina": 23.319413,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 206,
+      "ime": "Yagoda / Nadya Ofan",
+      "shirina": 42.689498,
+      "dalzhina": 23.325359,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 207,
+      "ime": "Yona",
+      "shirina": 42.697955,
+      "dalzhina": 23.321662,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 208,
+      "ime": "Yotsenik",
+      "shirina": 42.696066,
+      "dalzhina": 23.316443,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 209,
+      "ime": "Yuno Pearls",
+      "shirina": 42.657708,
+      "dalzhina": 23.31567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 210,
+      "ime": "Zlatarna Celje",
+      "shirina": 42.691303,
+      "dalzhina": 23.353405,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 211,
+      "ime": "de Luxe",
+      "shirina": 42.692394,
+      "dalzhina": 23.319845,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 212,
+      "ime": "effect silver",
+      "shirina": 43.617222,
+      "dalzhina": 25.346293,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 213,
+      "ime": "forgetmenot",
+      "shirina": 42.68955,
+      "dalzhina": 23.325669,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 214,
+      "ime": "iy",
+      "shirina": 42.508691,
+      "dalzhina": 24.697899,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 215,
+      "ime": "Адомед",
+      "shirina": 42.146885,
+      "dalzhina": 24.749039,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 216,
+      "ime": "Алекс & ВВ",
+      "shirina": 42.69227,
+      "dalzhina": 23.322109,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 217,
+      "ime": "Анина",
+      "shirina": 42.690658,
+      "dalzhina": 23.3233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 218,
+      "ime": "Арамис",
+      "shirina": 42.691056,
+      "dalzhina": 23.325302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 219,
+      "ime": "Арт Хоби",
+      "shirina": 42.689261,
+      "dalzhina": 23.318125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 220,
+      "ime": "Ахинора",
+      "shirina": 42.679373,
+      "dalzhina": 26.322006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 221,
+      "ime": "Бижута",
+      "shirina": 42.698735,
+      "dalzhina": 23.333555,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 222,
+      "ime": "Бижута Втора Употреба",
+      "shirina": 42.671116,
+      "dalzhina": 23.272939,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 223,
+      "ime": "Бижутерия",
+      "shirina": 43.823288,
+      "dalzhina": 27.141387,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 224,
+      "ime": "Бимора",
+      "shirina": 42.695475,
+      "dalzhina": 23.317842,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 225,
+      "ime": "Брилянт на Веси",
+      "shirina": 42.69834,
+      "dalzhina": 23.321135,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 226,
+      "ime": "Вантони",
+      "shirina": 42.688741,
+      "dalzhina": 23.328369,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 227,
+      "ime": "Вантони",
+      "shirina": 42.68912,
+      "dalzhina": 23.319346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 228,
+      "ime": "Вантони",
+      "shirina": 42.699789,
+      "dalzhina": 23.319056,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 229,
+      "ime": "Голд Сентър",
+      "shirina": 42.68598,
+      "dalzhina": 23.326964,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 230,
+      "ime": "Грийк Фолософи",
+      "shirina": 42.690376,
+      "dalzhina": 23.321737,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 231,
+      "ime": "Дамянови",
+      "shirina": 42.704344,
+      "dalzhina": 23.323918,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 232,
+      "ime": "Джулиани",
+      "shirina": 42.694458,
+      "dalzhina": 23.32252,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 233,
+      "ime": "Дорина До",
+      "shirina": 43.209231,
+      "dalzhina": 27.90917,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 234,
+      "ime": "Заложна къща",
+      "shirina": 43.824307,
+      "dalzhina": 25.974948,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 235,
+      "ime": "Зефир",
+      "shirina": 42.689271,
+      "dalzhina": 23.344045,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 236,
+      "ime": "Златина",
+      "shirina": 42.693866,
+      "dalzhina": 23.351729,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 237,
+      "ime": "Злато и сребро",
+      "shirina": 42.557801,
+      "dalzhina": 27.639659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 238,
+      "ime": "Ивайло Георгиев",
+      "shirina": 43.571066,
+      "dalzhina": 27.828725,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 239,
+      "ime": "Интергеоресурс",
+      "shirina": 42.663789,
+      "dalzhina": 23.314057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 240,
+      "ime": "Интергеоресурс",
+      "shirina": 42.691889,
+      "dalzhina": 23.330256,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 241,
+      "ime": "Интергеоресурс",
+      "shirina": 42.692663,
+      "dalzhina": 23.322016,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 242,
+      "ime": "Касил ЕООД",
+      "shirina": 42.140243,
+      "dalzhina": 24.73278,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 243,
+      "ime": "Класик бужутерия",
+      "shirina": 43.204034,
+      "dalzhina": 27.917836,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 244,
+      "ime": "Кристел",
+      "shirina": 42.691446,
+      "dalzhina": 23.311193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 245,
+      "ime": "Кристел",
+      "shirina": 42.693143,
+      "dalzhina": 23.323511,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 246,
+      "ime": "Кристел",
+      "shirina": 42.697631,
+      "dalzhina": 23.321892,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 247,
+      "ime": "Кристел",
+      "shirina": 42.69972,
+      "dalzhina": 23.318336,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 248,
+      "ime": "Кристъл Голд",
+      "shirina": 42.711988,
+      "dalzhina": 23.300272,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 249,
+      "ime": "Ловсилвър",
+      "shirina": 42.708328,
+      "dalzhina": 23.287651,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 250,
+      "ime": "Любов",
+      "shirina": 42.150351,
+      "dalzhina": 24.746818,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 251,
+      "ime": "Магазинче за красиви неща",
+      "shirina": 43.849941,
+      "dalzhina": 25.956573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 252,
+      "ime": "Мери Голд",
+      "shirina": 42.700261,
+      "dalzhina": 23.317969,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 253,
+      "ime": "Мефисто голд",
+      "shirina": 42.146454,
+      "dalzhina": 24.749324,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 254,
+      "ime": "Мъниста",
+      "shirina": 42.678811,
+      "dalzhina": 23.284141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 255,
+      "ime": "Никис",
+      "shirina": 42.502915,
+      "dalzhina": 24.188383,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 256,
+      "ime": "ПеСпа",
+      "shirina": 42.691175,
+      "dalzhina": 23.317067,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 257,
+      "ime": "Прецизъ",
+      "shirina": 42.688843,
+      "dalzhina": 23.255144,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 258,
+      "ime": "Радианна Ювелир",
+      "shirina": 43.850684,
+      "dalzhina": 25.955479,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 259,
+      "ime": "Силверадо",
+      "shirina": 42.696403,
+      "dalzhina": 23.350362,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 260,
+      "ime": "Ситела",
+      "shirina": 42.146228,
+      "dalzhina": 24.749584,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 261,
+      "ime": "Сомаха",
+      "shirina": 42.147406,
+      "dalzhina": 24.748259,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 262,
+      "ime": "Сребро",
+      "shirina": 42.906718,
+      "dalzhina": 23.791113,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 263,
+      "ime": "Сребърна бижутерия",
+      "shirina": 42.149083,
+      "dalzhina": 24.748773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 264,
+      "ime": "Сребърни бижута - Магазини Гранат",
+      "shirina": 43.205204,
+      "dalzhina": 23.553643,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 265,
+      "ime": "ТМ Бижутери",
+      "shirina": 42.692311,
+      "dalzhina": 23.324648,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 266,
+      "ime": "Търговски център Чафето",
+      "shirina": 42.433757,
+      "dalzhina": 23.820389,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 267,
+      "ime": "Фортуна",
+      "shirina": 42.690392,
+      "dalzhina": 23.319651,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 268,
+      "ime": "Хелиос",
+      "shirina": 43.270385,
+      "dalzhina": 26.936042,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 269,
+      "ime": "Хелиос",
+      "shirina": 43.27102,
+      "dalzhina": 26.927864,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 270,
+      "ime": "Хугасян бижута",
+      "shirina": 43.204594,
+      "dalzhina": 27.920271,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 271,
+      "ime": "Цветана арт ателие",
+      "shirina": 42.148109,
+      "dalzhina": 24.749355,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 272,
+      "ime": "Шишман 29",
+      "shirina": 42.690108,
+      "dalzhina": 23.328578,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 273,
+      "ime": "Яна",
+      "shirina": 42.692656,
+      "dalzhina": 23.325354,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    },
+    {
+      "id": 274,
+      "ime": "бижутерия от рог",
+      "shirina": 43.368241,
+      "dalzhina": 28.080979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "jewelry",
+      "osm_klas": "shop=jewelry"
+    }
+  ],
+  "meta": {
+    "title": "Бижутерии в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Бижутерии в България — 274 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=jewelry`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 274 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Бижутерии в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Бижутерии в България (OpenStreetMap) — 274 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 274 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,1960 @@
+{
+  "id": "bg-osm-shop-travel-agency",
+  "name": "Туристически агенции в България (OpenStreetMap)",
+  "title": "Туристически агенции в България (OpenStreetMap)",
+  "description": "Туристически агенции в България — 211 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=travel_agency`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 211,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "2М-КО",
+      "shirina": 42.689556,
+      "dalzhina": 23.325137,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 2,
+      "ime": "7M",
+      "shirina": 42.694821,
+      "dalzhina": 23.320621,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 3,
+      "ime": "ABV Travel",
+      "shirina": 42.698346,
+      "dalzhina": 23.321637,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 4,
+      "ime": "AIM Travel USA",
+      "shirina": 42.653824,
+      "dalzhina": 23.346738,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 5,
+      "ime": "Aero Tour",
+      "shirina": 42.148914,
+      "dalzhina": 24.740368,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 6,
+      "ime": "Air TicketS",
+      "shirina": 42.663642,
+      "dalzhina": 23.372824,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 7,
+      "ime": "Albena",
+      "shirina": 42.687974,
+      "dalzhina": 23.309844,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 8,
+      "ime": "Albena",
+      "shirina": 42.688539,
+      "dalzhina": 23.31149,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 9,
+      "ime": "Alexandra Travel",
+      "shirina": 42.695935,
+      "dalzhina": 23.316923,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 10,
+      "ime": "Alexandria Travel",
+      "shirina": 42.698353,
+      "dalzhina": 23.321619,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 11,
+      "ime": "Andromeda",
+      "shirina": 42.618266,
+      "dalzhina": 25.390361,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 12,
+      "ime": "Angel Travel",
+      "shirina": 42.701349,
+      "dalzhina": 23.314455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 13,
+      "ime": "Aros Travel",
+      "shirina": 42.657677,
+      "dalzhina": 23.34431,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 14,
+      "ime": "Art travel",
+      "shirina": 42.673804,
+      "dalzhina": 23.322243,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 15,
+      "ime": "Astra",
+      "shirina": 43.201681,
+      "dalzhina": 27.91532,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 16,
+      "ime": "Aviatour",
+      "shirina": 42.697738,
+      "dalzhina": 23.332865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 17,
+      "ime": "Azmarra",
+      "shirina": 42.692883,
+      "dalzhina": 23.344519,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 18,
+      "ime": "BG Holiday Club",
+      "shirina": 42.691173,
+      "dalzhina": 23.323203,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 19,
+      "ime": "Balkan Pro Travel",
+      "shirina": 42.677363,
+      "dalzhina": 23.319862,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 20,
+      "ime": "Balkan Way",
+      "shirina": 42.698379,
+      "dalzhina": 23.314785,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 21,
+      "ime": "BanskoRentalscom",
+      "shirina": 41.828479,
+      "dalzhina": 23.477406,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 22,
+      "ime": "Baroness",
+      "shirina": 42.670632,
+      "dalzhina": 23.315771,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 23,
+      "ime": "Belprego Travel",
+      "shirina": 42.696202,
+      "dalzhina": 23.316615,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 24,
+      "ime": "Best Travel Service",
+      "shirina": 42.675827,
+      "dalzhina": 23.309909,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 25,
+      "ime": "Bulgaria Air",
+      "shirina": 42.693897,
+      "dalzhina": 23.325948,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 26,
+      "ime": "Business Travel Agency",
+      "shirina": 42.69391,
+      "dalzhina": 23.342159,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 27,
+      "ime": "Coo Tour",
+      "shirina": 42.697717,
+      "dalzhina": 23.332681,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 28,
+      "ime": "Cool Travel",
+      "shirina": 42.65194,
+      "dalzhina": 23.345909,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 29,
+      "ime": "DM Travel",
+      "shirina": 42.697351,
+      "dalzhina": 23.318592,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 30,
+      "ime": "Dary travel",
+      "shirina": 42.689848,
+      "dalzhina": 23.313775,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 31,
+      "ime": "Delta Tours",
+      "shirina": 42.66792,
+      "dalzhina": 23.284962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 32,
+      "ime": "Deluxe Voyage",
+      "shirina": 42.668652,
+      "dalzhina": 23.290608,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 33,
+      "ime": "Djuanna Travel",
+      "shirina": 42.706789,
+      "dalzhina": 23.317683,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 34,
+      "ime": "Domika tour",
+      "shirina": 42.691839,
+      "dalzhina": 23.317636,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 35,
+      "ime": "Donik travel",
+      "shirina": 42.671663,
+      "dalzhina": 23.327534,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 36,
+      "ime": "Easy Travel",
+      "shirina": 42.688004,
+      "dalzhina": 23.321876,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 37,
+      "ime": "Elta",
+      "shirina": 42.6795,
+      "dalzhina": 23.309978,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 38,
+      "ime": "Emerald travel",
+      "shirina": 42.143366,
+      "dalzhina": 24.749741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 39,
+      "ime": "Enterprise",
+      "shirina": 42.671162,
+      "dalzhina": 23.314754,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 40,
+      "ime": "Exotic holiday",
+      "shirina": 42.688772,
+      "dalzhina": 23.314554,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 41,
+      "ime": "Fletcher Lynd",
+      "shirina": 42.653326,
+      "dalzhina": 23.34291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 42,
+      "ime": "Flight plus",
+      "shirina": 42.68752,
+      "dalzhina": 23.318103,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 43,
+      "ime": "Fly Holidays",
+      "shirina": 42.697993,
+      "dalzhina": 23.306445,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 44,
+      "ime": "Fun Travel",
+      "shirina": 42.672702,
+      "dalzhina": 23.297129,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 45,
+      "ime": "G & G Tour",
+      "shirina": 42.663701,
+      "dalzhina": 27.716568,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 46,
+      "ime": "Galera",
+      "shirina": 42.694415,
+      "dalzhina": 23.312455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 47,
+      "ime": "Gira Mondo",
+      "shirina": 42.695575,
+      "dalzhina": 23.321815,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 48,
+      "ime": "Global Holidays",
+      "shirina": 42.703772,
+      "dalzhina": 23.317916,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 49,
+      "ime": "Go 2 Holiday",
+      "shirina": 42.643334,
+      "dalzhina": 23.339621,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 50,
+      "ime": "Golden holidays-bg",
+      "shirina": 42.689537,
+      "dalzhina": 23.326162,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 51,
+      "ime": "Happy World",
+      "shirina": 42.656904,
+      "dalzhina": 23.358206,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 52,
+      "ime": "Hornit",
+      "shirina": 42.693658,
+      "dalzhina": 23.327704,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 53,
+      "ime": "IBC Travel",
+      "shirina": 42.661263,
+      "dalzhina": 23.286382,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 54,
+      "ime": "Image Travel",
+      "shirina": 42.69154,
+      "dalzhina": 23.323292,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 55,
+      "ime": "Inter Tourist",
+      "shirina": 42.154719,
+      "dalzhina": 24.744648,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 56,
+      "ime": "Intergreyd",
+      "shirina": 42.690518,
+      "dalzhina": 23.32133,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 57,
+      "ime": "Ivanko Tour",
+      "shirina": 42.689692,
+      "dalzhina": 23.315283,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 58,
+      "ime": "K&G Tours",
+      "shirina": 42.703741,
+      "dalzhina": 23.310053,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 59,
+      "ime": "Kibela Tour",
+      "shirina": 42.148361,
+      "dalzhina": 24.744843,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 60,
+      "ime": "Kronos",
+      "shirina": 42.691478,
+      "dalzhina": 23.336998,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 61,
+      "ime": "Kunchev Travel",
+      "shirina": 42.694457,
+      "dalzhina": 23.318955,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 62,
+      "ime": "Lucky Holiday",
+      "shirina": 42.684979,
+      "dalzhina": 23.315235,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 63,
+      "ime": "Lufthansa City Center",
+      "shirina": 42.680449,
+      "dalzhina": 23.32224,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 64,
+      "ime": "Lux Travel",
+      "shirina": 42.656294,
+      "dalzhina": 23.343968,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 65,
+      "ime": "Lyuba tours",
+      "shirina": 42.682056,
+      "dalzhina": 23.333029,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 66,
+      "ime": "MD tour",
+      "shirina": 42.657361,
+      "dalzhina": 27.702509,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 67,
+      "ime": "MEM Services EOOD",
+      "shirina": 42.696697,
+      "dalzhina": 23.329357,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 68,
+      "ime": "Macland",
+      "shirina": 42.692649,
+      "dalzhina": 23.335468,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 69,
+      "ime": "Malvina",
+      "shirina": 42.692493,
+      "dalzhina": 23.31803,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 70,
+      "ime": "Megalo Travel",
+      "shirina": 42.698645,
+      "dalzhina": 23.316088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 71,
+      "ime": "Megi travel",
+      "shirina": 42.677779,
+      "dalzhina": 23.292245,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 72,
+      "ime": "Miramar travel",
+      "shirina": 43.213062,
+      "dalzhina": 27.91882,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 73,
+      "ime": "MissK travel",
+      "shirina": 42.663305,
+      "dalzhina": 23.282908,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 74,
+      "ime": "Mistral Travel",
+      "shirina": 42.691033,
+      "dalzhina": 23.320602,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 75,
+      "ime": "Misys",
+      "shirina": 42.689549,
+      "dalzhina": 23.321448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 76,
+      "ime": "MyWAY",
+      "shirina": 42.696839,
+      "dalzhina": 23.314979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 77,
+      "ime": "Najjar",
+      "shirina": 42.696137,
+      "dalzhina": 23.316532,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 78,
+      "ime": "New Balkan Tours",
+      "shirina": 43.199482,
+      "dalzhina": 27.917704,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 79,
+      "ime": "New world travel",
+      "shirina": 42.662806,
+      "dalzhina": 23.31686,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 80,
+      "ime": "Niamavreme. bg",
+      "shirina": 42.677621,
+      "dalzhina": 23.301216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 81,
+      "ime": "Off Travel",
+      "shirina": 42.664052,
+      "dalzhina": 23.314952,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 82,
+      "ime": "Onex tour",
+      "shirina": 42.689248,
+      "dalzhina": 23.309902,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 83,
+      "ime": "Orange.bg",
+      "shirina": 42.650014,
+      "dalzhina": 23.340215,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 84,
+      "ime": "PTM Travel",
+      "shirina": 42.688157,
+      "dalzhina": 23.316274,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 85,
+      "ime": "Partner travel",
+      "shirina": 42.691551,
+      "dalzhina": 23.314706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 86,
+      "ime": "Pirin tourist 2000",
+      "shirina": 42.696092,
+      "dalzhina": 23.319567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 87,
+      "ime": "Poker Travel",
+      "shirina": 42.67068,
+      "dalzhina": 23.31814,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 88,
+      "ime": "Posoka.com",
+      "shirina": 42.147568,
+      "dalzhina": 24.741208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 89,
+      "ime": "Posoka.com",
+      "shirina": 42.698773,
+      "dalzhina": 23.324778,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 90,
+      "ime": "Posoka.com",
+      "shirina": 43.569484,
+      "dalzhina": 27.827684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 91,
+      "ime": "Premio Travel",
+      "shirina": 42.691229,
+      "dalzhina": 23.312021,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 92,
+      "ime": "Prime Holidays",
+      "shirina": 42.679933,
+      "dalzhina": 23.331944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 93,
+      "ime": "Profitours",
+      "shirina": 42.684672,
+      "dalzhina": 23.31689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 94,
+      "ime": "Rapsody",
+      "shirina": 42.652425,
+      "dalzhina": 23.345916,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 95,
+      "ime": "Regnum Travel",
+      "shirina": 42.688325,
+      "dalzhina": 23.332019,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 96,
+      "ime": "Romantic Holidays",
+      "shirina": 42.689041,
+      "dalzhina": 23.316807,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 97,
+      "ime": "Rossa Travel",
+      "shirina": 42.670092,
+      "dalzhina": 23.329125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 98,
+      "ime": "Royal Holidays",
+      "shirina": 42.706828,
+      "dalzhina": 23.317689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 99,
+      "ime": "Royal Holidays",
+      "shirina": 42.707395,
+      "dalzhina": 23.318195,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 100,
+      "ime": "S Sky",
+      "shirina": 42.702578,
+      "dalzhina": 23.319624,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 101,
+      "ime": "Selvex",
+      "shirina": 42.144263,
+      "dalzhina": 24.754142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 102,
+      "ime": "Smart Travel",
+      "shirina": 42.691015,
+      "dalzhina": 23.319913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 103,
+      "ime": "Solomon Sky",
+      "shirina": 42.706012,
+      "dalzhina": 23.322117,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 104,
+      "ime": "Solvex",
+      "shirina": 42.689619,
+      "dalzhina": 23.331036,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 105,
+      "ime": "Sun Travel",
+      "shirina": 42.692599,
+      "dalzhina": 23.309719,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 106,
+      "ime": "TTA Decom",
+      "shirina": 42.688815,
+      "dalzhina": 23.31208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 107,
+      "ime": "TUI Travel Center",
+      "shirina": 42.697429,
+      "dalzhina": 23.326334,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 108,
+      "ime": "Tobeone",
+      "shirina": 42.652165,
+      "dalzhina": 23.345093,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 109,
+      "ime": "Top holidays",
+      "shirina": 42.686047,
+      "dalzhina": 23.328705,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 110,
+      "ime": "Tortuga holidays",
+      "shirina": 42.671584,
+      "dalzhina": 23.297295,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 111,
+      "ime": "Tours Club",
+      "shirina": 42.706077,
+      "dalzhina": 23.314227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 112,
+      "ime": "Travel Advisor",
+      "shirina": 42.689701,
+      "dalzhina": 23.318196,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 113,
+      "ime": "Travel Agensy - RUAL TRAVEL",
+      "shirina": 43.404195,
+      "dalzhina": 24.621013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 114,
+      "ime": "Travel boutique Find your escape",
+      "shirina": 42.673939,
+      "dalzhina": 23.334618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 115,
+      "ime": "Travel studio holidays",
+      "shirina": 42.690806,
+      "dalzhina": 23.323141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 116,
+      "ime": "TravelHappyEnd",
+      "shirina": 42.702522,
+      "dalzhina": 23.325833,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 117,
+      "ime": "Travelagi",
+      "shirina": 42.687466,
+      "dalzhina": 23.327017,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 118,
+      "ime": "Travelmania",
+      "shirina": 42.697317,
+      "dalzhina": 23.330435,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 119,
+      "ime": "Travelux",
+      "shirina": 42.676416,
+      "dalzhina": 23.295625,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 120,
+      "ime": "Unique Holidays",
+      "shirina": 42.671086,
+      "dalzhina": 23.319333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 121,
+      "ime": "Usit Colours",
+      "shirina": 42.687219,
+      "dalzhina": 23.325974,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 122,
+      "ime": "Usit colours",
+      "shirina": 42.148309,
+      "dalzhina": 24.748619,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 123,
+      "ime": "UsitColours",
+      "shirina": 42.651866,
+      "dalzhina": 23.345241,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 124,
+      "ime": "V. Korekt",
+      "shirina": 42.697902,
+      "dalzhina": 23.317054,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 125,
+      "ime": "VV Tours",
+      "shirina": 42.672389,
+      "dalzhina": 23.309741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 126,
+      "ime": "VV Tours",
+      "shirina": 42.684168,
+      "dalzhina": 23.32177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 127,
+      "ime": "Vanadatours",
+      "shirina": 42.692454,
+      "dalzhina": 23.324718,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 128,
+      "ime": "Victory Travel",
+      "shirina": 42.656218,
+      "dalzhina": 23.344346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 129,
+      "ime": "Vistalis",
+      "shirina": 42.690664,
+      "dalzhina": 23.313394,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 130,
+      "ime": "Work and Travel",
+      "shirina": 42.653443,
+      "dalzhina": 23.342346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 131,
+      "ime": "Www.rual-travel.com",
+      "shirina": 42.630831,
+      "dalzhina": 24.358097,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 132,
+      "ime": "Zenira",
+      "shirina": 42.683808,
+      "dalzhina": 23.321813,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 133,
+      "ime": "Zora Tours",
+      "shirina": 42.672295,
+      "dalzhina": 23.31303,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 134,
+      "ime": "ids Bulgaria",
+      "shirina": 42.493938,
+      "dalzhina": 27.475927,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 135,
+      "ime": "Аква Флор",
+      "shirina": 42.144488,
+      "dalzhina": 24.751218,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 136,
+      "ime": "Александър Тур",
+      "shirina": 42.703884,
+      "dalzhina": 23.323256,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 137,
+      "ime": "Ана травел",
+      "shirina": 42.691762,
+      "dalzhina": 23.318085,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 138,
+      "ime": "Астра",
+      "shirina": 42.684808,
+      "dalzhina": 23.356689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 139,
+      "ime": "Астрал Холидейс",
+      "shirina": 42.145227,
+      "dalzhina": 24.750099,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 140,
+      "ime": "Атлантис",
+      "shirina": 42.701826,
+      "dalzhina": 23.333972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 141,
+      "ime": "Белла холидейс",
+      "shirina": 42.687582,
+      "dalzhina": 23.324279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 142,
+      "ime": "Бисери Тур",
+      "shirina": 42.700632,
+      "dalzhina": 23.318932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 143,
+      "ime": "Бохемия",
+      "shirina": 42.426074,
+      "dalzhina": 25.627788,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 144,
+      "ime": "Бохемия",
+      "shirina": 42.693233,
+      "dalzhina": 23.33175,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 145,
+      "ime": "Бохемия",
+      "shirina": 42.698057,
+      "dalzhina": 23.326241,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 146,
+      "ime": "Бохемия",
+      "shirina": 42.70276,
+      "dalzhina": 23.323427,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 147,
+      "ime": "БургасБус Транспортна къща",
+      "shirina": 42.501627,
+      "dalzhina": 27.468942,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 148,
+      "ime": "България травъл",
+      "shirina": 42.700353,
+      "dalzhina": 23.314167,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 149,
+      "ime": "Вени Травел",
+      "shirina": 43.84714,
+      "dalzhina": 25.95463,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 150,
+      "ime": "Веста Травел",
+      "shirina": 42.688571,
+      "dalzhina": 23.310743,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 151,
+      "ime": "Видеостудио Анатоли Костов",
+      "shirina": 42.282161,
+      "dalzhina": 22.691609,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 152,
+      "ime": "Глобус Холидейс",
+      "shirina": 42.144811,
+      "dalzhina": 24.751933,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 153,
+      "ime": "Дафи Травел",
+      "shirina": 42.418439,
+      "dalzhina": 27.695162,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 154,
+      "ime": "Дениз Травел",
+      "shirina": 42.691453,
+      "dalzhina": 23.316833,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 155,
+      "ime": "Джуанна травел",
+      "shirina": 42.710498,
+      "dalzhina": 23.318329,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 156,
+      "ime": "Диел турс",
+      "shirina": 42.685568,
+      "dalzhina": 23.298139,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 157,
+      "ime": "Евро Топ Тур",
+      "shirina": 42.700392,
+      "dalzhina": 23.314261,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 158,
+      "ime": "ЖП Бюро",
+      "shirina": 43.083731,
+      "dalzhina": 25.639286,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 159,
+      "ime": "Запрянов Травел",
+      "shirina": 42.703601,
+      "dalzhina": 23.328029,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 160,
+      "ime": "Златка М",
+      "shirina": 43.56946,
+      "dalzhina": 27.827737,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 161,
+      "ime": "ИРН туризъм",
+      "shirina": 42.703771,
+      "dalzhina": 23.31797,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 162,
+      "ime": "Интеграл",
+      "shirina": 42.651792,
+      "dalzhina": 23.345801,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 163,
+      "ime": "Интеграл",
+      "shirina": 42.688209,
+      "dalzhina": 23.332963,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 164,
+      "ime": "Искони",
+      "shirina": 42.696761,
+      "dalzhina": 23.318613,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 165,
+      "ime": "Караджъ турс",
+      "shirina": 42.65045,
+      "dalzhina": 23.313299,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 166,
+      "ime": "Караджъ турс",
+      "shirina": 42.702596,
+      "dalzhina": 23.328063,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 167,
+      "ime": "Клуб Магелан",
+      "shirina": 43.199513,
+      "dalzhina": 27.917645,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 168,
+      "ime": "Комета2",
+      "shirina": 42.682568,
+      "dalzhina": 27.708229,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 169,
+      "ime": "Крис тур",
+      "shirina": 42.143307,
+      "dalzhina": 24.747047,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 170,
+      "ime": "Куул Травъл",
+      "shirina": 42.502143,
+      "dalzhina": 27.467567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 171,
+      "ime": "М травел сървисис",
+      "shirina": 42.69252,
+      "dalzhina": 23.314952,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 172,
+      "ime": "МИЛЕНИУМ ТРАВЕЛ МЛТ ЕООД",
+      "shirina": 42.424988,
+      "dalzhina": 25.6318,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 173,
+      "ime": "ММ Турс",
+      "shirina": 42.684728,
+      "dalzhina": 23.316672,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 174,
+      "ime": "Марбро Турс",
+      "shirina": 42.684863,
+      "dalzhina": 23.322129,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 175,
+      "ime": "Марина спорт",
+      "shirina": 42.687605,
+      "dalzhina": 23.323965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 176,
+      "ime": "Мивеки травел",
+      "shirina": 42.690597,
+      "dalzhina": 23.318095,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 177,
+      "ime": "Мондел Травел",
+      "shirina": 42.693804,
+      "dalzhina": 23.316971,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 178,
+      "ime": "Никона",
+      "shirina": 42.68962,
+      "dalzhina": 23.326317,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 179,
+      "ime": "Никра детур",
+      "shirina": 42.689007,
+      "dalzhina": 23.325948,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 180,
+      "ime": "Нишикли травел",
+      "shirina": 42.560181,
+      "dalzhina": 27.638652,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 181,
+      "ime": "Нтур",
+      "shirina": 42.698675,
+      "dalzhina": 23.327925,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 182,
+      "ime": "ОП „Транспорт\"",
+      "shirina": 42.501768,
+      "dalzhina": 27.468882,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 183,
+      "ime": "Оданс Травел",
+      "shirina": 42.688187,
+      "dalzhina": 23.325962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 184,
+      "ime": "Оптима плюс",
+      "shirina": 42.664508,
+      "dalzhina": 23.316753,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 185,
+      "ime": "Орбита БГ Плевен ЕООД туроператор Плевен",
+      "shirina": 43.409089,
+      "dalzhina": 24.621983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 186,
+      "ime": "Орлово Гнездо",
+      "shirina": 42.618692,
+      "dalzhina": 25.391126,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 187,
+      "ime": "Премиер Турс ООД",
+      "shirina": 42.706387,
+      "dalzhina": 23.309804,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 188,
+      "ime": "Принцес турс",
+      "shirina": 42.142587,
+      "dalzhina": 24.753063,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 189,
+      "ime": "Прометей тур",
+      "shirina": 42.688598,
+      "dalzhina": 23.311411,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 190,
+      "ime": "Реа",
+      "shirina": 42.691443,
+      "dalzhina": 23.317341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 191,
+      "ime": "Ривиера тур",
+      "shirina": 42.143351,
+      "dalzhina": 24.747208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 192,
+      "ime": "Рила",
+      "shirina": 42.693498,
+      "dalzhina": 23.325523,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 193,
+      "ime": "Романтик Травъл Варна",
+      "shirina": 43.208645,
+      "dalzhina": 27.908409,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 194,
+      "ime": "Руал травел",
+      "shirina": 42.69779,
+      "dalzhina": 23.315678,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 195,
+      "ime": "Руски визов център",
+      "shirina": 43.2025,
+      "dalzhina": 27.920889,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 196,
+      "ime": "СИЛ Турс",
+      "shirina": 42.697745,
+      "dalzhina": 23.309743,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 197,
+      "ime": "Сватбено кафе",
+      "shirina": 42.710607,
+      "dalzhina": 23.314529,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 198,
+      "ime": "Сибеа",
+      "shirina": 42.69263,
+      "dalzhina": 23.313214,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 199,
+      "ime": "Симекс",
+      "shirina": 42.685786,
+      "dalzhina": 23.314708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 200,
+      "ime": "Скай Травъл",
+      "shirina": 42.142364,
+      "dalzhina": 24.753152,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 201,
+      "ime": "Социал травел",
+      "shirina": 42.697144,
+      "dalzhina": 23.315451,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 202,
+      "ime": "Стил травел",
+      "shirina": 42.685916,
+      "dalzhina": 23.322026,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 203,
+      "ime": "Теди-Ив-Тур",
+      "shirina": 42.559526,
+      "dalzhina": 27.638443,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 204,
+      "ime": "Теско Груп",
+      "shirina": 42.150098,
+      "dalzhina": 24.744375,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 205,
+      "ime": "Тителина Травел",
+      "shirina": 42.143172,
+      "dalzhina": 24.746499,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 206,
+      "ime": "Трип Адвайз",
+      "shirina": 42.691199,
+      "dalzhina": 23.309417,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 207,
+      "ime": "Турист сервиз",
+      "shirina": 43.419897,
+      "dalzhina": 24.615691,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 208,
+      "ime": "Хулия турс",
+      "shirina": 42.693601,
+      "dalzhina": 23.319309,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 209,
+      "ime": "Шанс 95",
+      "shirina": 42.700001,
+      "dalzhina": 23.319291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 210,
+      "ime": "Экскурсии",
+      "shirina": 42.686326,
+      "dalzhina": 27.707891,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    },
+    {
+      "id": 211,
+      "ime": "Яна тур",
+      "shirina": 42.692926,
+      "dalzhina": 23.312338,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "travel_agency",
+      "osm_klas": "shop=travel_agency"
+    }
+  ],
+  "meta": {
+    "title": "Туристически агенции в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Туристически агенции в България — 211 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=travel_agency`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 211 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Туристически агенции в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Туристически агенции в България (OpenStreetMap) — 211 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 211 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

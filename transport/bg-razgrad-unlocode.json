@@ -1,0 +1,240 @@
+{
+  "id": "bg-razgrad-unlocode",
+  "name": "UN/LOCODE — област Разград (UN/LOCODE locations in Razgrad Province)",
+  "title": "UN/LOCODE — област Разград (UN/LOCODE locations in Razgrad Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Разград (Razgrad), 3 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-17). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Razgrad Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 103,
+      "locode": "BGISP",
+      "country": "BG",
+      "location": "ISP",
+      "name": "Isperih",
+      "name_wo_diacritics": "Isperih",
+      "subdivision_code": "17",
+      "subdivision_name": "Razgrad",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4371N 02683E",
+      "latitude": 44.1833,
+      "longitude": 27.3833,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "RAZ",
+      "oblast_name": "Разград",
+      "oblast_name_latin": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_ekatte": "61710",
+      "nuts_region": "BG32"
+    },
+    {
+      "id": 2,
+      "parent_index": 135,
+      "locode": "BGKUB",
+      "country": "BG",
+      "location": "KUB",
+      "name": "Kubrat",
+      "name_wo_diacritics": "Kubrat",
+      "subdivision_code": "17",
+      "subdivision_name": "Razgrad",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3--6--",
+      "functions": "Road transport, Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4348N 02630E",
+      "latitude": 43.8,
+      "longitude": 26.5,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "RAZ",
+      "oblast_name": "Разград",
+      "oblast_name_latin": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_ekatte": "61710",
+      "nuts_region": "BG32"
+    },
+    {
+      "id": 3,
+      "parent_index": 205,
+      "locode": "BGPOD",
+      "country": "BG",
+      "location": "POD",
+      "name": "Podayva",
+      "name_wo_diacritics": "Podayva",
+      "subdivision_code": "17",
+      "subdivision_name": "Razgrad",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "1-------",
+      "functions": "Maritime transport (sea port)",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "RAZ",
+      "oblast_name": "Разград",
+      "oblast_name_latin": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_ekatte": "61710",
+      "nuts_region": "BG32"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Разград (UN/LOCODE locations in Razgrad Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Разград (Razgrad), 3 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-17). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Razgrad Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 3 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Разград (UN/LOCODE locations in Razgrad Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Разград (UN/LOCODE locations in Razgrad Province) — 3 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 3 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

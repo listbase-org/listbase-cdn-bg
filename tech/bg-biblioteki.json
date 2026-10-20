@@ -1,0 +1,346 @@
+{
+  "id": "bg-biblioteki",
+  "name": "Библиотеки в България",
+  "title": "Библиотеки в България",
+  "description": "Libraries in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q26260744",
+      "name_bg": "Антична библиотека",
+      "name_en": "Library of Philippopolis",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.143430555,
+      "longitude": 24.750205555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26260744"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q19704677",
+      "name_bg": "Библиотека на Софийската митрополия",
+      "name_en": "",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.695833333,
+      "longitude": 23.322777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19704677"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q121266158",
+      "name_bg": "Библиотека РОДИНА - Стара Загора",
+      "name_en": "Library Rodina - Stara Zagora",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.424612036,
+      "longitude": 25.628498522,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121266158"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q43659414",
+      "name_bg": "Библиотека „Иван Вазов“",
+      "name_en": "Ivan Vazov Library",
+      "admin_area_bg": "Ботевград",
+      "admin_area_en": "Botevgrad",
+      "latitude": 42.908333333,
+      "longitude": 23.791944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q43659414"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q631641",
+      "name_bg": "Национална библиотека „Св. св. Кирил и Методий“",
+      "name_en": "SS. Cyril and Methodius National Library",
+      "admin_area_bg": "Оборище",
+      "admin_area_en": "Oborishte District",
+      "latitude": 42.694722222,
+      "longitude": 23.336111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q631641"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q55463538",
+      "name_bg": "Паисий Хилендарски",
+      "name_en": "",
+      "admin_area_bg": "Асеновград",
+      "admin_area_en": "Asenovgrad",
+      "latitude": 42.007222222,
+      "longitude": 24.876638888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55463538"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q121266238",
+      "name_bg": "Регионална библиотека \"Дора Габе\"",
+      "name_en": "Dora Gabe Regional Library, Dobrich",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.5680529,
+      "longitude": 27.825247,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121266238"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12292253",
+      "name_bg": "Регионална библиотека \"Емануил Попдимитров\" (Кюстендил)",
+      "name_en": "",
+      "admin_area_bg": "Кюстендил",
+      "admin_area_en": "Kyustendil",
+      "latitude": 42.28,
+      "longitude": 22.691111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12292253"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12292254",
+      "name_bg": "Регионална библиотека (Видин)",
+      "name_en": "",
+      "admin_area_bg": "Видин",
+      "admin_area_en": "Vidin",
+      "latitude": 43.986388888,
+      "longitude": 22.876666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12292254"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q12292255",
+      "name_bg": "Регионална библиотека Светослав Минков",
+      "name_en": "",
+      "admin_area_bg": "Перник",
+      "admin_area_en": "Pernik",
+      "latitude": 42.606388888,
+      "longitude": 23.029166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12292255"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q12292251",
+      "name_bg": "Регионална библиотека „Априлов – Палаузов“",
+      "name_en": "Aprilov-Palauzov library, Gabrovo",
+      "admin_area_bg": "Габрово",
+      "admin_area_en": "Gabrovo",
+      "latitude": 42.871256,
+      "longitude": 25.316742,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12292251"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q56459201",
+      "name_bg": "Регионална библиотека „Димитър Талев“",
+      "name_en": "",
+      "admin_area_bg": "Благоевград",
+      "admin_area_en": "Blagoevgrad",
+      "latitude": 42.021388888,
+      "longitude": 23.094722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56459201"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q12292256",
+      "name_bg": "Регионална библиотека „Захарий Княжески“",
+      "name_en": "Zahariy Knyazheski library, Stara Zagora",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.427222222,
+      "longitude": 25.6275,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12292256"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q52379897",
+      "name_bg": "Регионална библиотека „Любен Каравелов“ – Русе",
+      "name_en": "Lyuben Karavelov Regional Library",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.844083333,
+      "longitude": 25.949027777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q52379897"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q54554536",
+      "name_bg": "Регионална библиотека „Партений Павлович“",
+      "name_en": "Parteniy Pavlovich regional library",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.118055555,
+      "longitude": 27.261388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54554536"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q56856386",
+      "name_bg": "Регионална библиотека „Пейо Яворов“ – Бургас",
+      "name_en": "",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.494444444,
+      "longitude": 27.474444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56856386"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q54554589",
+      "name_bg": "Регионална библиотека „Петър Стъпов“",
+      "name_en": "",
+      "admin_area_bg": "Търговище",
+      "admin_area_en": "Targovishte",
+      "latitude": 43.244166666,
+      "longitude": 26.571111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54554589"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q12292257",
+      "name_bg": "Регионална библиотека „Професор Беньо Цонев“",
+      "name_en": "",
+      "admin_area_bg": "Ловеч",
+      "admin_area_en": "Lovech",
+      "latitude": 43.136111111,
+      "longitude": 24.716666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12292257"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q56514193",
+      "name_bg": "Регионална библиотека „Сава Доброплодни“",
+      "name_en": "Sliven regional library Sava Dobroplodni",
+      "admin_area_bg": "Сливен",
+      "admin_area_en": "Sliven",
+      "latitude": 42.679372222,
+      "longitude": 26.317308333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56514193"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q36491245",
+      "name_bg": "Регионална народна библиотека „Петко Р. Славейков“",
+      "name_en": "Library of Veliko Tarnovo",
+      "admin_area_bg": "Велико Търново",
+      "admin_area_en": "Veliko Tarnovo",
+      "latitude": 43.08105,
+      "longitude": 25.642072222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q36491245"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q12295447",
+      "name_bg": "Столична библиотека",
+      "name_en": "Sofia Capital Library",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.691533333,
+      "longitude": 23.324447222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12295447"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q25486193",
+      "name_bg": "Университетска библиотека",
+      "name_en": "UNWE library",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.650277777,
+      "longitude": 23.348611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25486193"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q12297236",
+      "name_bg": "Университетска библиотека (Софийски университет)",
+      "name_en": "Sofia University library",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.693333333,
+      "longitude": 23.335555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12297236"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q108872562",
+      "name_bg": "Университетска библиотека на Великотърновския университет",
+      "name_en": "",
+      "admin_area_bg": "Велико Търново",
+      "admin_area_en": "Veliko Tarnovo",
+      "latitude": 43.077777777,
+      "longitude": 25.648333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108872562"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q132681089",
+      "name_bg": "Централна медицинска библиотека",
+      "name_en": "",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.685179301,
+      "longitude": 23.307017382,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q132681089"
+    }
+  ],
+  "meta": {
+    "title": "Библиотеки в България - Безплатно изтегляне",
+    "description": "Libraries in Bulgaria with coordinates, sourced from Wikidata. Съдържа 25 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Библиотеки в България | ListBase",
+    "seo_description": "Изтеглете Библиотеки в България — 25 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 25 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

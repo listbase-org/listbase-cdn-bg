@@ -1,0 +1,296 @@
+{
+  "id": "bg-turgovishhe-unlocode",
+  "name": "UN/LOCODE — област Търговище (UN/LOCODE locations in Targovishte Province)",
+  "title": "UN/LOCODE — област Търговище (UN/LOCODE locations in Targovishte Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Търговище (Targovishte), 5 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-25). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Targovishte Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 143,
+      "locode": "BGLBC",
+      "country": "BG",
+      "location": "LBC",
+      "name": "Lyubichevo",
+      "name_wo_diacritics": "Lyubichevo",
+      "subdivision_code": "25",
+      "subdivision_name": "Targovishte",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4310N 02617E",
+      "latitude": 43.1667,
+      "longitude": 26.2833,
+      "date_updated": "2022-07",
+      "remarks": "",
+      "oblast_code": "TGV",
+      "oblast_name": "Търговище",
+      "oblast_name_latin": "Targovishte",
+      "oblast_slug": "turgovishhe",
+      "oblast_ekatte": "73626",
+      "nuts_region": "BG33"
+    },
+    {
+      "id": 2,
+      "parent_index": 251,
+      "locode": "BGSIE",
+      "country": "BG",
+      "location": "SIE",
+      "name": "Suedinenie",
+      "name_wo_diacritics": "Suedinenie",
+      "subdivision_code": "25",
+      "subdivision_name": "Targovishte",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4319N 02638E",
+      "latitude": 43.3167,
+      "longitude": 26.6333,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "TGV",
+      "oblast_name": "Търговище",
+      "oblast_name_latin": "Targovishte",
+      "oblast_slug": "turgovishhe",
+      "oblast_ekatte": "73626",
+      "nuts_region": "BG33"
+    },
+    {
+      "id": 3,
+      "parent_index": 258,
+      "locode": "BGSLO",
+      "country": "BG",
+      "location": "SLO",
+      "name": "Slavyanovo",
+      "name_wo_diacritics": "Slavyanovo",
+      "subdivision_code": "25",
+      "subdivision_name": "Targovishte",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4316N 02611E",
+      "latitude": 43.2667,
+      "longitude": 26.1833,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "oblast_code": "TGV",
+      "oblast_name": "Търговище",
+      "oblast_name_latin": "Targovishte",
+      "oblast_slug": "turgovishhe",
+      "oblast_ekatte": "73626",
+      "nuts_region": "BG33"
+    },
+    {
+      "id": 4,
+      "parent_index": 286,
+      "locode": "BGTGV",
+      "country": "BG",
+      "location": "TGV",
+      "name": "Targovishte",
+      "name_wo_diacritics": "Targovishte",
+      "subdivision_code": "25",
+      "subdivision_name": "Targovishte",
+      "subdivision_type": "Region",
+      "status": "AI",
+      "status_description": "Code adopted by international organisation (IATA or ECLAC)",
+      "function": "-234----",
+      "functions": "Rail transport, Road transport, Air transport (airport)",
+      "iata": "",
+      "coordinates": "4315N 02635E",
+      "latitude": 43.25,
+      "longitude": 26.5833,
+      "date_updated": "2015-01",
+      "remarks": "",
+      "oblast_code": "TGV",
+      "oblast_name": "Търговище",
+      "oblast_name_latin": "Targovishte",
+      "oblast_slug": "turgovishhe",
+      "oblast_ekatte": "73626",
+      "nuts_region": "BG33"
+    },
+    {
+      "id": 5,
+      "parent_index": 289,
+      "locode": "BGTLI",
+      "country": "BG",
+      "location": "TLI",
+      "name": "Lomci",
+      "name_wo_diacritics": "Lomci",
+      "subdivision_code": "25",
+      "subdivision_name": "Targovishte",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4343N 02635E",
+      "latitude": 43.7167,
+      "longitude": 26.5833,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "TGV",
+      "oblast_name": "Търговище",
+      "oblast_name_latin": "Targovishte",
+      "oblast_slug": "turgovishhe",
+      "oblast_ekatte": "73626",
+      "nuts_region": "BG33"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Търговище (UN/LOCODE locations in Targovishte Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Търговище (Targovishte), 5 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-25). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Targovishte Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Търговище (UN/LOCODE locations in Targovishte Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Търговище (UN/LOCODE locations in Targovishte Province) — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

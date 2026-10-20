@@ -1,0 +1,4191 @@
+{
+  "id": "bg-turisticheski-atraktsii",
+  "name": "Туристически атракции в България",
+  "title": "Туристически атракции в България",
+  "description": "Туристически атракции в България от данни на OpenStreetMap (tourism=attraction). Име и координати WGS84.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 830,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Via Ferrata\" - Триград",
+      "latitude": 41.613342,
+      "longitude": 24.380778
+    },
+    {
+      "name": "\"Калето\" Мездра",
+      "latitude": 43.13972,
+      "longitude": 23.70382
+    },
+    {
+      "name": "\"Успение на Св. Богородица\"",
+      "latitude": 43.082884,
+      "longitude": 25.656295
+    },
+    {
+      "name": "AEMO \"Стария Добрич\"",
+      "latitude": 43.57132,
+      "longitude": 27.830013
+    },
+    {
+      "name": "Aero L-29 Delfín",
+      "latitude": 42.565128,
+      "longitude": 27.518654
+    },
+    {
+      "name": "Big Statues",
+      "latitude": 44.068609,
+      "longitude": 27.296301
+    },
+    {
+      "name": "Bulgarian Dead Sea",
+      "latitude": 42.531537,
+      "longitude": 27.490103
+    },
+    {
+      "name": "Devil's Gorge",
+      "latitude": 41.649751,
+      "longitude": 24.329407
+    },
+    {
+      "name": "Dog Cemetery",
+      "latitude": 42.63905,
+      "longitude": 23.432983
+    },
+    {
+      "name": "Eкопътека Тектонски гребен",
+      "latitude": 43.237189,
+      "longitude": 24.012838
+    },
+    {
+      "name": "Ferris Wheel",
+      "latitude": 42.686202,
+      "longitude": 27.71137
+    },
+    {
+      "name": "Ilyushin Il-14",
+      "latitude": 42.564127,
+      "longitude": 27.516839
+    },
+    {
+      "name": "Low Impact House",
+      "latitude": 42.592453,
+      "longitude": 24.359461
+    },
+    {
+      "name": "Medieval Church \"St. St. Kozma and Damyan\"",
+      "latitude": 42.225868,
+      "longitude": 22.909988
+    },
+    {
+      "name": "Nessebar UNESCO Sign",
+      "latitude": 42.658691,
+      "longitude": 27.730411
+    },
+    {
+      "name": "Peșteră mică -- Kitchiaita",
+      "latitude": 43.672601,
+      "longitude": 25.981711
+    },
+    {
+      "name": "Plaja Gostinu",
+      "latitude": 43.986699,
+      "longitude": 26.138929
+    },
+    {
+      "name": "Riesenrad",
+      "latitude": 43.285039,
+      "longitude": 28.044687
+    },
+    {
+      "name": "Rocks The head of turtle",
+      "latitude": 42.554301,
+      "longitude": 24.86725
+    },
+    {
+      "name": "Shtrausova Ferma",
+      "latitude": 42.328586,
+      "longitude": 23.788009
+    },
+    {
+      "name": "Ski-Doo Center 2",
+      "latitude": 41.616401,
+      "longitude": 24.633463
+    },
+    {
+      "name": "Small Devil's Bridge",
+      "latitude": 41.651975,
+      "longitude": 24.227193
+    },
+    {
+      "name": "Stobski piramidi",
+      "latitude": 42.092137,
+      "longitude": 23.121358
+    },
+    {
+      "name": "Stone arch",
+      "latitude": 43.360875,
+      "longitude": 28.465346
+    },
+    {
+      "name": "The Godech Viewpoint Bench",
+      "latitude": 43.044195,
+      "longitude": 23.044489
+    },
+    {
+      "name": "The Heart of Godech",
+      "latitude": 43.047637,
+      "longitude": 23.038652
+    },
+    {
+      "name": "Tu-134",
+      "latitude": 44.121378,
+      "longitude": 27.275981
+    },
+    {
+      "name": "Turkey - Greece - Bulgaria Border Crossing",
+      "latitude": 41.711128,
+      "longitude": 26.357961
+    },
+    {
+      "name": "Tuzlata Mud Baths",
+      "latitude": 43.401798,
+      "longitude": 28.220653
+    },
+    {
+      "name": "Via Militaris",
+      "latitude": 41.931509,
+      "longitude": 26.101523
+    },
+    {
+      "name": "Yurt",
+      "latitude": 43.261629,
+      "longitude": 26.923363
+    },
+    {
+      "name": "Zindandere Şelalesi",
+      "latitude": 41.943908,
+      "longitude": 27.78805
+    },
+    {
+      "name": "horsetaxi",
+      "latitude": 42.823347,
+      "longitude": 27.882797
+    },
+    {
+      "name": "mini golf sofia",
+      "latitude": 43.279604,
+      "longitude": 28.040104
+    },
+    {
+      "name": "Čunguljski skok",
+      "latitude": 43.371549,
+      "longitude": 22.731192
+    },
+    {
+      "name": "Łaźnie tureckie",
+      "latitude": 41.523431,
+      "longitude": 23.395888
+    },
+    {
+      "name": "Βορειότερο Σημείο Ελλάδας",
+      "latitude": 41.748726,
+      "longitude": 26.173823
+    },
+    {
+      "name": "Агушеви конаци",
+      "latitude": 41.495732,
+      "longitude": 24.635948
+    },
+    {
+      "name": "Адакс",
+      "latitude": 42.657232,
+      "longitude": 23.331484
+    },
+    {
+      "name": "Азиатска кутийчеста костенурка",
+      "latitude": 42.660048,
+      "longitude": 23.330541
+    },
+    {
+      "name": "Азиатска късоноктеста видра",
+      "latitude": 42.660304,
+      "longitude": 23.330676
+    },
+    {
+      "name": "Азиатски слон",
+      "latitude": 42.656533,
+      "longitude": 23.332456
+    },
+    {
+      "name": "Александровска гробница",
+      "latitude": 41.979639,
+      "longitude": 25.738493
+    },
+    {
+      "name": "Алея на българската златна олимпийска слава",
+      "latitude": 42.70886,
+      "longitude": 27.771201
+    },
+    {
+      "name": "Алея на чинарите",
+      "latitude": 43.191348,
+      "longitude": 23.28414
+    },
+    {
+      "name": "Алпака",
+      "latitude": 42.657474,
+      "longitude": 23.330502
+    },
+    {
+      "name": "Американска норка",
+      "latitude": 42.660275,
+      "longitude": 23.330508
+    },
+    {
+      "name": "Американски бизон",
+      "latitude": 42.657074,
+      "longitude": 23.330657
+    },
+    {
+      "name": "Американски енот",
+      "latitude": 43.138063,
+      "longitude": 24.72793
+    },
+    {
+      "name": "Аметистов питон",
+      "latitude": 42.660202,
+      "longitude": 23.331011
+    },
+    {
+      "name": "Амурски тигър",
+      "latitude": 42.660351,
+      "longitude": 23.331089
+    },
+    {
+      "name": "Ангелски криле",
+      "latitude": 42.033188,
+      "longitude": 24.305115
+    },
+    {
+      "name": "Антична колонада",
+      "latitude": 42.427114,
+      "longitude": 25.624723
+    },
+    {
+      "name": "Антично гробище",
+      "latitude": 42.77665,
+      "longitude": 22.846434
+    },
+    {
+      "name": "Антонов Ан-12",
+      "latitude": 42.565309,
+      "longitude": 27.519479
+    },
+    {
+      "name": "Антонов Ан-14",
+      "latitude": 42.564885,
+      "longitude": 27.519347
+    },
+    {
+      "name": "Антонов Ан-2",
+      "latitude": 42.565124,
+      "longitude": 27.519701
+    },
+    {
+      "name": "Антонов Ан-24",
+      "latitude": 42.565045,
+      "longitude": 27.519439
+    },
+    {
+      "name": "Арката",
+      "latitude": 43.492207,
+      "longitude": 28.585074
+    },
+    {
+      "name": "Археологически музей",
+      "latitude": 42.511772,
+      "longitude": 25.914259
+    },
+    {
+      "name": "Архитектурен паметник на културата „Захарна фабрика“",
+      "latitude": 42.713171,
+      "longitude": 23.289
+    },
+    {
+      "name": "Архитектурен резерват \"Рибарска Махала\"",
+      "latitude": 44.051649,
+      "longitude": 26.614364
+    },
+    {
+      "name": "Архитектурно-парков комплекс “Дворецът”",
+      "latitude": 43.404206,
+      "longitude": 28.14745
+    },
+    {
+      "name": "Асенова крепост",
+      "latitude": 41.986644,
+      "longitude": 24.873441
+    },
+    {
+      "name": "Атракцион",
+      "latitude": 42.547482,
+      "longitude": 26.483684
+    },
+    {
+      "name": "Африканска гугутка",
+      "latitude": 43.382906,
+      "longitude": 24.632628
+    },
+    {
+      "name": "Африкански лъв",
+      "latitude": 42.659855,
+      "longitude": 23.331441
+    },
+    {
+      "name": "Африкански мрежест охлюв",
+      "latitude": 42.660039,
+      "longitude": 23.330795
+    },
+    {
+      "name": "Африкански щраус",
+      "latitude": 42.713817,
+      "longitude": 27.272172
+    },
+    {
+      "name": "Багатур",
+      "latitude": 42.437871,
+      "longitude": 25.609769
+    },
+    {
+      "name": "Баджаю Кая",
+      "latitude": 42.968206,
+      "longitude": 26.551461
+    },
+    {
+      "name": "Бадминтон игрища",
+      "latitude": 42.438114,
+      "longitude": 25.617123
+    },
+    {
+      "name": "Базилика",
+      "latitude": 41.714191,
+      "longitude": 25.465327
+    },
+    {
+      "name": "Базилика",
+      "latitude": 42.659131,
+      "longitude": 27.736045
+    },
+    {
+      "name": "Базилика",
+      "latitude": 43.108756,
+      "longitude": 23.623698
+    },
+    {
+      "name": "Базилика 1",
+      "latitude": 42.547962,
+      "longitude": 26.482962
+    },
+    {
+      "name": "Байкушева мура",
+      "latitude": 41.76706,
+      "longitude": 23.422846
+    },
+    {
+      "name": "Байракли джамия",
+      "latitude": 42.33866,
+      "longitude": 23.557996
+    },
+    {
+      "name": "Банянски мост",
+      "latitude": 41.623067,
+      "longitude": 23.952422
+    },
+    {
+      "name": "Батошевски манастир",
+      "latitude": 42.879467,
+      "longitude": 25.057292
+    },
+    {
+      "name": "Бачило Клепало",
+      "latitude": 41.653471,
+      "longitude": 22.975941
+    },
+    {
+      "name": "Бащин камък",
+      "latitude": 42.570395,
+      "longitude": 25.377435
+    },
+    {
+      "name": "Беглик Таш",
+      "latitude": 42.311516,
+      "longitude": 27.767165
+    },
+    {
+      "name": "Белият камък",
+      "latitude": 41.596954,
+      "longitude": 24.712197
+    },
+    {
+      "name": "Белобуза гъска",
+      "latitude": 42.659262,
+      "longitude": 23.333767
+    },
+    {
+      "name": "Белоглав лешояд",
+      "latitude": 42.658707,
+      "longitude": 23.333852
+    },
+    {
+      "name": "Белоглав лешояд",
+      "latitude": 42.658924,
+      "longitude": 23.330961
+    },
+    {
+      "name": "Белоопашата мангуста",
+      "latitude": 42.65993,
+      "longitude": 23.330053
+    },
+    {
+      "name": "Белошипа ветрушка",
+      "latitude": 42.659124,
+      "longitude": 23.331127
+    },
+    {
+      "name": "Бенгалски тигър",
+      "latitude": 42.659978,
+      "longitude": 23.331849
+    },
+    {
+      "name": "Бенгалски тигър",
+      "latitude": 43.211345,
+      "longitude": 27.936723
+    },
+    {
+      "name": "Беседка за отдих",
+      "latitude": 42.553374,
+      "longitude": 24.867841
+    },
+    {
+      "name": "Бизон",
+      "latitude": 43.139392,
+      "longitude": 24.727075
+    },
+    {
+      "name": "Благороден елен",
+      "latitude": 42.013577,
+      "longitude": 23.10353
+    },
+    {
+      "name": "Благороден елен",
+      "latitude": 42.438284,
+      "longitude": 25.607829
+    },
+    {
+      "name": "Благороден елен",
+      "latitude": 42.657615,
+      "longitude": 23.330254
+    },
+    {
+      "name": "Благороден елен",
+      "latitude": 43.211273,
+      "longitude": 27.936521
+    },
+    {
+      "name": "Блатен рис",
+      "latitude": 42.65974,
+      "longitude": 23.329799
+    },
+    {
+      "name": "Богородична стъпка",
+      "latitude": 42.463853,
+      "longitude": 25.493529
+    },
+    {
+      "name": "Бодливи свинчета",
+      "latitude": 42.713309,
+      "longitude": 27.272447
+    },
+    {
+      "name": "Бодливо свинче",
+      "latitude": 42.014609,
+      "longitude": 23.103751
+    },
+    {
+      "name": "Бодливо свинче",
+      "latitude": 43.13851,
+      "longitude": 24.729296
+    },
+    {
+      "name": "Бодливо свинче",
+      "latitude": 43.383072,
+      "longitude": 24.632633
+    },
+    {
+      "name": "Брадата агама",
+      "latitude": 42.660043,
+      "longitude": 23.331594
+    },
+    {
+      "name": "Бронзов коридорас",
+      "latitude": 42.660266,
+      "longitude": 23.331772
+    },
+    {
+      "name": "Буйновското ждрело",
+      "latitude": 41.649976,
+      "longitude": 24.335778
+    },
+    {
+      "name": "Букелон",
+      "latitude": 41.853602,
+      "longitude": 26.546908
+    },
+    {
+      "name": "Бухал",
+      "latitude": 42.43908,
+      "longitude": 25.609915
+    },
+    {
+      "name": "Бухал",
+      "latitude": 42.658878,
+      "longitude": 23.330843
+    },
+    {
+      "name": "Бухал",
+      "latitude": 43.211069,
+      "longitude": 27.936626
+    },
+    {
+      "name": "Бухал",
+      "latitude": 43.55871,
+      "longitude": 27.84439
+    },
+    {
+      "name": "България 1300",
+      "latitude": 42.417416,
+      "longitude": 25.614094
+    },
+    {
+      "name": "Бърнеста мечка",
+      "latitude": 42.658231,
+      "longitude": 23.330166
+    },
+    {
+      "name": "Бъчвата",
+      "latitude": 42.721386,
+      "longitude": 26.391748
+    },
+    {
+      "name": "Бял носорог",
+      "latitude": 42.656662,
+      "longitude": 23.333185
+    },
+    {
+      "name": "Бял паун",
+      "latitude": 42.013278,
+      "longitude": 23.103538
+    },
+    {
+      "name": "Бял щъркел",
+      "latitude": 42.658711,
+      "longitude": 23.330882
+    },
+    {
+      "name": "Бял щъркел",
+      "latitude": 42.660321,
+      "longitude": 23.331631
+    },
+    {
+      "name": "Бял щъркел",
+      "latitude": 43.138272,
+      "longitude": 24.72864
+    },
+    {
+      "name": "Бял щъркел",
+      "latitude": 43.210775,
+      "longitude": 27.935784
+    },
+    {
+      "name": "Бялка",
+      "latitude": 42.439797,
+      "longitude": 25.610633
+    },
+    {
+      "name": "Бяло магаре от Азинара",
+      "latitude": 42.658259,
+      "longitude": 23.330803
+    },
+    {
+      "name": "Вагонетки",
+      "latitude": 42.565309,
+      "longitude": 27.632534
+    },
+    {
+      "name": "Вазова къща",
+      "latitude": 43.0128,
+      "longitude": 23.40373
+    },
+    {
+      "name": "Вазовата скала",
+      "latitude": 43.0359,
+      "longitude": 23.333296
+    },
+    {
+      "name": "Вазовият дъб",
+      "latitude": 42.706234,
+      "longitude": 23.14107
+    },
+    {
+      "name": "Валяк",
+      "latitude": 42.717093,
+      "longitude": 23.293091
+    },
+    {
+      "name": "Варадско кале",
+      "latitude": 41.520986,
+      "longitude": 24.577949
+    },
+    {
+      "name": "Васил Левски",
+      "latitude": 42.696665,
+      "longitude": 23.335329
+    },
+    {
+      "name": "Ватус",
+      "latitude": 42.65817,
+      "longitude": 23.331997
+    },
+    {
+      "name": "Вековен чинар",
+      "latitude": 41.499154,
+      "longitude": 23.41592
+    },
+    {
+      "name": "Верветка",
+      "latitude": 42.713428,
+      "longitude": 27.272358
+    },
+    {
+      "name": "Взаимно училище Св. св. Кирил и Методий",
+      "latitude": 42.279402,
+      "longitude": 22.688025
+    },
+    {
+      "name": "Видри",
+      "latitude": 42.438453,
+      "longitude": 25.61104
+    },
+    {
+      "name": "Виетнамски златен гекон",
+      "latitude": 42.660126,
+      "longitude": 23.330846
+    },
+    {
+      "name": "Виетнамски петнист елен",
+      "latitude": 42.657712,
+      "longitude": 23.331274
+    },
+    {
+      "name": "Виетнамско прасе",
+      "latitude": 43.139661,
+      "longitude": 24.729509
+    },
+    {
+      "name": "Вила \"Тихото гнездо\"",
+      "latitude": 43.403194,
+      "longitude": 28.14569
+    },
+    {
+      "name": "Вилицата",
+      "latitude": 41.454467,
+      "longitude": 24.611784
+    },
+    {
+      "name": "Винарна",
+      "latitude": 43.435935,
+      "longitude": 28.543914
+    },
+    {
+      "name": "Висяща метална скулптура",
+      "latitude": 41.379896,
+      "longitude": 25.095166
+    },
+    {
+      "name": "Вкаменената сватба",
+      "latitude": 41.656825,
+      "longitude": 25.39976
+    },
+    {
+      "name": "Влакче на солта",
+      "latitude": 42.558768,
+      "longitude": 27.486952
+    },
+    {
+      "name": "Воден атракцион",
+      "latitude": 41.880143,
+      "longitude": 23.528449
+    },
+    {
+      "name": "Водопад \"Сучурум\"",
+      "latitude": 42.653346,
+      "longitude": 24.809131
+    },
+    {
+      "name": "Водопад Скока",
+      "latitude": 42.924987,
+      "longitude": 24.643819
+    },
+    {
+      "name": "Водоснабдително съоръжение",
+      "latitude": 43.622138,
+      "longitude": 26.02199
+    },
+    {
+      "name": "Водохранилище",
+      "latitude": 41.713502,
+      "longitude": 25.465095
+    },
+    {
+      "name": "Военен лагер",
+      "latitude": 42.550637,
+      "longitude": 26.484265
+    },
+    {
+      "name": "Врата Кралимарков караул",
+      "latitude": 42.758241,
+      "longitude": 24.625568
+    },
+    {
+      "name": "Въжен тролей",
+      "latitude": 42.762358,
+      "longitude": 25.244827
+    },
+    {
+      "name": "Въжен тролей ,,Дяволско Гърло”",
+      "latitude": 41.615367,
+      "longitude": 24.38002
+    },
+    {
+      "name": "Въжена градина",
+      "latitude": 42.437578,
+      "longitude": 25.615018
+    },
+    {
+      "name": "Вълк",
+      "latitude": 42.014142,
+      "longitude": 23.104119
+    },
+    {
+      "name": "Вълк",
+      "latitude": 42.659461,
+      "longitude": 23.329642
+    },
+    {
+      "name": "Вълк",
+      "latitude": 43.138036,
+      "longitude": 24.727444
+    },
+    {
+      "name": "Вълк",
+      "latitude": 43.211118,
+      "longitude": 27.936849
+    },
+    {
+      "name": "Вълк",
+      "latitude": 43.231052,
+      "longitude": 25.312208
+    },
+    {
+      "name": "Вълнист папагал",
+      "latitude": 42.01472,
+      "longitude": 23.102786
+    },
+    {
+      "name": "Вълнист папагал",
+      "latitude": 43.557654,
+      "longitude": 27.845046
+    },
+    {
+      "name": "Вълнисто папагалче",
+      "latitude": 42.659171,
+      "longitude": 23.33107
+    },
+    {
+      "name": "Вълнисто папагалче",
+      "latitude": 43.382383,
+      "longitude": 24.632126
+    },
+    {
+      "name": "Вълци",
+      "latitude": 42.438999,
+      "longitude": 25.608516
+    },
+    {
+      "name": "Външен град",
+      "latitude": 43.145543,
+      "longitude": 26.814953
+    },
+    {
+      "name": "Вятърния камък",
+      "latitude": 41.477436,
+      "longitude": 25.245542
+    },
+    {
+      "name": "Гаговска гробница",
+      "latitude": 43.419335,
+      "longitude": 26.202076
+    },
+    {
+      "name": "Гарван гробар",
+      "latitude": 42.659003,
+      "longitude": 23.331183
+    },
+    {
+      "name": "Гарван гробар",
+      "latitude": 42.659408,
+      "longitude": 23.330431
+    },
+    {
+      "name": "Гвенон",
+      "latitude": 42.014623,
+      "longitude": 23.102788
+    },
+    {
+      "name": "Гвенон",
+      "latitude": 43.138347,
+      "longitude": 24.729461
+    },
+    {
+      "name": "Гекон токи",
+      "latitude": 42.660112,
+      "longitude": 23.330822
+    },
+    {
+      "name": "Географски център на България",
+      "latitude": 42.766098,
+      "longitude": 25.238422
+    },
+    {
+      "name": "Геопарк \"Искър-Панега\"",
+      "latitude": 43.18679,
+      "longitude": 24.159995
+    },
+    {
+      "name": "Гигантска пейка",
+      "latitude": 42.062805,
+      "longitude": 25.594228
+    },
+    {
+      "name": "Глинената къща",
+      "latitude": 41.635233,
+      "longitude": 23.829473
+    },
+    {
+      "name": "Голям Нисовски скален манастир – св. Константин и Елена",
+      "latitude": 43.624784,
+      "longitude": 26.066656
+    },
+    {
+      "name": "Голям ястреб",
+      "latitude": 42.658826,
+      "longitude": 23.330815
+    },
+    {
+      "name": "Голяма арсеналка",
+      "latitude": 42.699616,
+      "longitude": 25.309284
+    },
+    {
+      "name": "Голяма косматка",
+      "latitude": 42.700082,
+      "longitude": 25.333328
+    },
+    {
+      "name": "Голямата Базилика",
+      "latitude": 43.398874,
+      "longitude": 27.139162
+    },
+    {
+      "name": "Горска улулица",
+      "latitude": 42.658912,
+      "longitude": 23.33103
+    },
+    {
+      "name": "Горски парк \"Вършец\"",
+      "latitude": 43.188633,
+      "longitude": 23.287531
+    },
+    {
+      "name": "Град на Франките",
+      "latitude": 43.079092,
+      "longitude": 25.655524
+    },
+    {
+      "name": "Градът на доверието",
+      "latitude": 43.732694,
+      "longitude": 26.760468
+    },
+    {
+      "name": "Гривест козирог",
+      "latitude": 42.658688,
+      "longitude": 23.331465
+    },
+    {
+      "name": "Гривесто бодливо свинче",
+      "latitude": 42.660039,
+      "longitude": 23.33012
+    },
+    {
+      "name": "Грифоните",
+      "latitude": 42.705516,
+      "longitude": 25.344729
+    },
+    {
+      "name": "Гробницата на Хонорий",
+      "latitude": 42.696693,
+      "longitude": 23.330944
+    },
+    {
+      "name": "Гробът на Руфинка",
+      "latitude": 41.537097,
+      "longitude": 24.640583
+    },
+    {
+      "name": "Група секвои (Ючбунар)",
+      "latitude": 42.251624,
+      "longitude": 22.663726
+    },
+    {
+      "name": "Гълъб",
+      "latitude": 42.713598,
+      "longitude": 27.272038
+    },
+    {
+      "name": "Гълъб",
+      "latitude": 43.139155,
+      "longitude": 24.729201
+    },
+    {
+      "name": "Гърненце с кисело мляко Боженци",
+      "latitude": 42.938192,
+      "longitude": 25.364735
+    },
+    {
+      "name": "Гъски",
+      "latitude": 42.438436,
+      "longitude": 25.61072
+    },
+    {
+      "name": "Дворец Царска Бистрица",
+      "latitude": 42.258115,
+      "longitude": 23.595769
+    },
+    {
+      "name": "Двугърба камила",
+      "latitude": 42.657371,
+      "longitude": 23.330032
+    },
+    {
+      "name": "Девинград",
+      "latitude": 43.08589,
+      "longitude": 25.656721
+    },
+    {
+      "name": "Девинград",
+      "latitude": 43.086884,
+      "longitude": 25.658245
+    },
+    {
+      "name": "Декоративна кокошка",
+      "latitude": 43.231743,
+      "longitude": 25.311827
+    },
+    {
+      "name": "Детски атракциони",
+      "latitude": 42.352173,
+      "longitude": 23.381803
+    },
+    {
+      "name": "Дива свиня",
+      "latitude": 42.014918,
+      "longitude": 23.103146
+    },
+    {
+      "name": "Дива свиня",
+      "latitude": 42.657691,
+      "longitude": 23.329822
+    },
+    {
+      "name": "Дива свиня",
+      "latitude": 43.137474,
+      "longitude": 24.727413
+    },
+    {
+      "name": "Долмен Лозенски дол",
+      "latitude": 42.12542,
+      "longitude": 27.160018
+    },
+    {
+      "name": "Долмените - Влахов дол",
+      "latitude": 42.118124,
+      "longitude": 27.129925
+    },
+    {
+      "name": "Домашен гълъб",
+      "latitude": 42.013058,
+      "longitude": 23.103547
+    },
+    {
+      "name": "Домашен гълъб",
+      "latitude": 42.659541,
+      "longitude": 23.331708
+    },
+    {
+      "name": "Домашен як",
+      "latitude": 42.65853,
+      "longitude": 23.332279
+    },
+    {
+      "name": "Домашна кокошка",
+      "latitude": 42.013377,
+      "longitude": 23.103196
+    },
+    {
+      "name": "Домашна кокошка",
+      "latitude": 42.713588,
+      "longitude": 27.271972
+    },
+    {
+      "name": "Домашна патица",
+      "latitude": 42.65963,
+      "longitude": 23.332466
+    },
+    {
+      "name": "Доходното здание",
+      "latitude": 43.848048,
+      "longitude": 25.952674
+    },
+    {
+      "name": "Драгойчев камък",
+      "latitude": 42.883222,
+      "longitude": 24.61645
+    },
+    {
+      "name": "Дудекова къща",
+      "latitude": 42.508235,
+      "longitude": 24.185191
+    },
+    {
+      "name": "Дупчов камък",
+      "latitude": 41.656072,
+      "longitude": 24.780267
+    },
+    {
+      "name": "Дъгова боа",
+      "latitude": 42.660135,
+      "longitude": 23.330858
+    },
+    {
+      "name": "Дюмерилова боа",
+      "latitude": 42.660143,
+      "longitude": 23.33087
+    },
+    {
+      "name": "Дяволски мост",
+      "latitude": 41.620582,
+      "longitude": 25.114174
+    },
+    {
+      "name": "Дяволския мост",
+      "latitude": 41.650732,
+      "longitude": 24.322518
+    },
+    {
+      "name": "Дяволското Гърло",
+      "latitude": 41.614884,
+      "longitude": 24.379132
+    },
+    {
+      "name": "Евроазиатска кафява мечка",
+      "latitude": 42.658682,
+      "longitude": 23.329994
+    },
+    {
+      "name": "Евроазиатски рис",
+      "latitude": 42.659584,
+      "longitude": 23.330844
+    },
+    {
+      "name": "Евроазиатски рис",
+      "latitude": 43.210622,
+      "longitude": 27.935563
+    },
+    {
+      "name": "Европейска змиорка и Птеригоплихт",
+      "latitude": 42.660274,
+      "longitude": 23.331727
+    },
+    {
+      "name": "Европейска сърна",
+      "latitude": 43.139846,
+      "longitude": 24.729239
+    },
+    {
+      "name": "Европейски муфлон",
+      "latitude": 42.713254,
+      "longitude": 27.271754
+    },
+    {
+      "name": "Европейски муфлон",
+      "latitude": 43.140012,
+      "longitude": 24.728912
+    },
+    {
+      "name": "Египетски лешояд",
+      "latitude": 42.659053,
+      "longitude": 23.331189
+    },
+    {
+      "name": "Езеро с водни лилии",
+      "latitude": 41.589879,
+      "longitude": 25.425352
+    },
+    {
+      "name": "Екопътека",
+      "latitude": 42.829839,
+      "longitude": 24.03265
+    },
+    {
+      "name": "Екопътека \"Иванча\"",
+      "latitude": 43.217266,
+      "longitude": 26.187284
+    },
+    {
+      "name": "Екопътека Поглед към девет планини",
+      "latitude": 42.568964,
+      "longitude": 22.802674
+    },
+    {
+      "name": "Елен и сърни",
+      "latitude": 43.557644,
+      "longitude": 27.845506
+    },
+    {
+      "name": "Елен лопатар",
+      "latitude": 42.713878,
+      "longitude": 27.272269
+    },
+    {
+      "name": "Елен лопатар",
+      "latitude": 43.211306,
+      "longitude": 27.936303
+    },
+    {
+      "name": "Елен лопатар",
+      "latitude": 43.381892,
+      "longitude": 24.632145
+    },
+    {
+      "name": "Елен лопатар",
+      "latitude": 43.383918,
+      "longitude": 24.632405
+    },
+    {
+      "name": "Елени",
+      "latitude": 43.211194,
+      "longitude": 27.936334
+    },
+    {
+      "name": "Еленска базилика",
+      "latitude": 42.732503,
+      "longitude": 24.220367
+    },
+    {
+      "name": "Емил Димитров",
+      "latitude": 43.408628,
+      "longitude": 24.618879
+    },
+    {
+      "name": "Ему",
+      "latitude": 42.438196,
+      "longitude": 25.611548
+    },
+    {
+      "name": "Ему",
+      "latitude": 43.138495,
+      "longitude": 24.730339
+    },
+    {
+      "name": "Ему",
+      "latitude": 43.231256,
+      "longitude": 25.312117
+    },
+    {
+      "name": "Енот",
+      "latitude": 42.439686,
+      "longitude": 25.61062
+    },
+    {
+      "name": "Енот",
+      "latitude": 42.65981,
+      "longitude": 23.329911
+    },
+    {
+      "name": "Енот",
+      "latitude": 43.556258,
+      "longitude": 27.843396
+    },
+    {
+      "name": "Етнографски ареален комплекс",
+      "latitude": 41.38689,
+      "longitude": 25.086757
+    },
+    {
+      "name": "Етнографски музей \"Дамасцена\"",
+      "latitude": 42.669414,
+      "longitude": 25.200986
+    },
+    {
+      "name": "Етнокомплекс кривини",
+      "latitude": 42.956095,
+      "longitude": 27.68462
+    },
+    {
+      "name": "Жълт златен фазан",
+      "latitude": 43.139094,
+      "longitude": 24.72952
+    },
+    {
+      "name": "Жълтоглав воден варан",
+      "latitude": 42.66025,
+      "longitude": 23.331251
+    },
+    {
+      "name": "Зайци",
+      "latitude": 42.013962,
+      "longitude": 23.102622
+    },
+    {
+      "name": "Зайци",
+      "latitude": 42.438941,
+      "longitude": 25.608259
+    },
+    {
+      "name": "Зайци",
+      "latitude": 42.685673,
+      "longitude": 23.334388
+    },
+    {
+      "name": "Зайци",
+      "latitude": 42.713394,
+      "longitude": 27.272477
+    },
+    {
+      "name": "Зайци",
+      "latitude": 43.210482,
+      "longitude": 27.935682
+    },
+    {
+      "name": "Зайци",
+      "latitude": 43.557628,
+      "longitude": 27.84483
+    },
+    {
+      "name": "Зала на смеха",
+      "latitude": 42.439353,
+      "longitude": 25.616927
+    },
+    {
+      "name": "Западна порта на крепостната стена",
+      "latitude": 42.501649,
+      "longitude": 24.701334
+    },
+    {
+      "name": "Заровената църква \"Св. Димитър\"",
+      "latitude": 42.120735,
+      "longitude": 24.200526
+    },
+    {
+      "name": "Зебровидна акара",
+      "latitude": 42.660253,
+      "longitude": 23.331545
+    },
+    {
+      "name": "Зебровидна цихлазома и Барбус филаментозус",
+      "latitude": 42.660276,
+      "longitude": 23.331704
+    },
+    {
+      "name": "Зелен аракари",
+      "latitude": 42.659097,
+      "longitude": 23.331168
+    },
+    {
+      "name": "Зелен аракари",
+      "latitude": 42.659121,
+      "longitude": 23.332261
+    },
+    {
+      "name": "Зелен базилискус",
+      "latitude": 42.659972,
+      "longitude": 23.330776
+    },
+    {
+      "name": "Зелен дървесен питон",
+      "latitude": 42.659976,
+      "longitude": 23.330792
+    },
+    {
+      "name": "Зелена морска котка",
+      "latitude": 43.138801,
+      "longitude": 24.729583
+    },
+    {
+      "name": "Зелена морска котка",
+      "latitude": 43.231611,
+      "longitude": 25.311829
+    },
+    {
+      "name": "Зеленоглава патица",
+      "latitude": 42.71331,
+      "longitude": 27.272155
+    },
+    {
+      "name": "Зеленоглава патица",
+      "latitude": 42.713771,
+      "longitude": 27.272172
+    },
+    {
+      "name": "Земенските скали",
+      "latitude": 42.46081,
+      "longitude": 22.698999
+    },
+    {
+      "name": "Землянки",
+      "latitude": 41.875751,
+      "longitude": 24.210049
+    },
+    {
+      "name": "Златен фазан",
+      "latitude": 42.659531,
+      "longitude": 23.33165
+    },
+    {
+      "name": "Златен фазан",
+      "latitude": 43.231396,
+      "longitude": 25.311835
+    },
+    {
+      "name": "Златен фазан",
+      "latitude": 43.382536,
+      "longitude": 24.632526
+    },
+    {
+      "name": "Златист чакал",
+      "latitude": 42.014336,
+      "longitude": 23.103985
+    },
+    {
+      "name": "Златните мостове",
+      "latitude": 42.609729,
+      "longitude": 23.239174
+    },
+    {
+      "name": "Златното паве",
+      "latitude": 42.144926,
+      "longitude": 24.750281
+    },
+    {
+      "name": "Зубър",
+      "latitude": 43.556114,
+      "longitude": 27.845581
+    },
+    {
+      "name": "Ивичест скункс",
+      "latitude": 42.660164,
+      "longitude": 23.330543
+    },
+    {
+      "name": "Ивичеста мангуста",
+      "latitude": 42.659881,
+      "longitude": 23.330021
+    },
+    {
+      "name": "Ивичеста хиена",
+      "latitude": 42.65865,
+      "longitude": 23.329525
+    },
+    {
+      "name": "Игуана",
+      "latitude": 42.660246,
+      "longitude": 23.331201
+    },
+    {
+      "name": "Източна могила",
+      "latitude": 42.520987,
+      "longitude": 25.913779
+    },
+    {
+      "name": "Източна порта на крепостната стена",
+      "latitude": 42.504311,
+      "longitude": 24.706027
+    },
+    {
+      "name": "Императорска боа",
+      "latitude": 42.660151,
+      "longitude": 23.330883
+    },
+    {
+      "name": "Императорска тетра",
+      "latitude": 42.660218,
+      "longitude": 23.331839
+    },
+    {
+      "name": "Ин Кая",
+      "latitude": 41.545095,
+      "longitude": 25.634947
+    },
+    {
+      "name": "Индиански кът",
+      "latitude": 42.760817,
+      "longitude": 25.249702
+    },
+    {
+      "name": "Индийски (син) паун",
+      "latitude": 42.659526,
+      "longitude": 23.331532
+    },
+    {
+      "name": "Индипасха Тракийско Светилище",
+      "latitude": 42.002905,
+      "longitude": 27.646166
+    },
+    {
+      "name": "Йеменски хамелеон",
+      "latitude": 42.660096,
+      "longitude": 23.330803
+    },
+    {
+      "name": "Ка-26",
+      "latitude": 42.565004,
+      "longitude": 27.519799
+    },
+    {
+      "name": "Кадин вир",
+      "latitude": 43.319482,
+      "longitude": 23.533986
+    },
+    {
+      "name": "Кадифен ивичест гекон",
+      "latitude": 42.660087,
+      "longitude": 23.330792
+    },
+    {
+      "name": "Казарми 1",
+      "latitude": 42.551135,
+      "longitude": 26.486106
+    },
+    {
+      "name": "Казарми 2",
+      "latitude": 42.551473,
+      "longitude": 26.485572
+    },
+    {
+      "name": "Кактусите",
+      "latitude": 42.596979,
+      "longitude": 23.418747
+    },
+    {
+      "name": "Калето",
+      "latitude": 43.621571,
+      "longitude": 25.344777
+    },
+    {
+      "name": "Калифорнийска кралска змия",
+      "latitude": 42.659965,
+      "longitude": 23.330615
+    },
+    {
+      "name": "Камбаните",
+      "latitude": 42.618428,
+      "longitude": 23.379222
+    },
+    {
+      "name": "Каменен саркофаг",
+      "latitude": 42.463904,
+      "longitude": 25.493751
+    },
+    {
+      "name": "Каменна арка",
+      "latitude": 43.196878,
+      "longitude": 24.316902
+    },
+    {
+      "name": "Каменни гъби",
+      "latitude": 43.16877,
+      "longitude": 23.532844
+    },
+    {
+      "name": "Каменния кръст",
+      "latitude": 42.028123,
+      "longitude": 24.442964
+    },
+    {
+      "name": "Камерунска коза",
+      "latitude": 42.014262,
+      "longitude": 23.103603
+    },
+    {
+      "name": "Камерунска коза",
+      "latitude": 43.383795,
+      "longitude": 24.632445
+    },
+    {
+      "name": "Камерунска мини коза",
+      "latitude": 42.658579,
+      "longitude": 23.331852
+    },
+    {
+      "name": "Камерунски кози",
+      "latitude": 42.713118,
+      "longitude": 27.272135
+    },
+    {
+      "name": "Камерунски кози",
+      "latitude": 43.211418,
+      "longitude": 27.935808
+    },
+    {
+      "name": "Камила",
+      "latitude": 43.139848,
+      "longitude": 24.728571
+    },
+    {
+      "name": "Камила",
+      "latitude": 43.231484,
+      "longitude": 25.312236
+    },
+    {
+      "name": "Камили",
+      "latitude": 43.211314,
+      "longitude": 27.935543
+    },
+    {
+      "name": "Камилите",
+      "latitude": 42.498723,
+      "longitude": 24.705916
+    },
+    {
+      "name": "Каньон Горло",
+      "latitude": 41.51364,
+      "longitude": 24.69343
+    },
+    {
+      "name": "Капана",
+      "latitude": 42.149096,
+      "longitude": 24.749143
+    },
+    {
+      "name": "Капибара",
+      "latitude": 42.685876,
+      "longitude": 23.334234
+    },
+    {
+      "name": "Капия",
+      "latitude": 43.994871,
+      "longitude": 22.879095
+    },
+    {
+      "name": "Кара Гьол",
+      "latitude": 42.486544,
+      "longitude": 25.372889
+    },
+    {
+      "name": "Кафяв протоптер",
+      "latitude": 42.660262,
+      "longitude": 23.331572
+    },
+    {
+      "name": "Кафява мечка",
+      "latitude": 42.015037,
+      "longitude": 23.1029
+    },
+    {
+      "name": "Кафява мечка",
+      "latitude": 42.71344,
+      "longitude": 27.271391
+    },
+    {
+      "name": "Кафява мечка",
+      "latitude": 43.138812,
+      "longitude": 24.727855
+    },
+    {
+      "name": "Кафява мечка",
+      "latitude": 43.382222,
+      "longitude": 24.632532
+    },
+    {
+      "name": "Кафява мечка",
+      "latitude": 43.555321,
+      "longitude": 27.843273
+    },
+    {
+      "name": "Кафява мечка гризли",
+      "latitude": 42.659103,
+      "longitude": 23.329879
+    },
+    {
+      "name": "Кафяво личи",
+      "latitude": 42.657895,
+      "longitude": 23.331694
+    },
+    {
+      "name": "Кемеров мост",
+      "latitude": 41.744786,
+      "longitude": 24.29891
+    },
+    {
+      "name": "Кенгуру",
+      "latitude": 43.211212,
+      "longitude": 27.935455
+    },
+    {
+      "name": "Кенгуру",
+      "latitude": 43.231821,
+      "longitude": 25.31213
+    },
+    {
+      "name": "Кенгуру",
+      "latitude": 43.557825,
+      "longitude": 27.845552
+    },
+    {
+      "name": "Керкенез",
+      "latitude": 43.210364,
+      "longitude": 27.936231
+    },
+    {
+      "name": "Килийно училище",
+      "latitude": 42.046651,
+      "longitude": 24.645297
+    },
+    {
+      "name": "Килията на Васил Левски",
+      "latitude": 42.695229,
+      "longitude": 23.330633
+    },
+    {
+      "name": "Кинкажу",
+      "latitude": 42.660242,
+      "longitude": 23.331357
+    },
+    {
+      "name": "Кладенец",
+      "latitude": 43.217226,
+      "longitude": 25.61208
+    },
+    {
+      "name": "Класна стая",
+      "latitude": 42.111326,
+      "longitude": 27.764077
+    },
+    {
+      "name": "Класна стая",
+      "latitude": 42.762771,
+      "longitude": 25.247092
+    },
+    {
+      "name": "Княз Александър I Батенберг",
+      "latitude": 42.691507,
+      "longitude": 23.332458
+    },
+    {
+      "name": "Ковач",
+      "latitude": 42.081876,
+      "longitude": 27.430901
+    },
+    {
+      "name": "Кожеста костенурка",
+      "latitude": 42.660157,
+      "longitude": 23.331834
+    },
+    {
+      "name": "Кози",
+      "latitude": 42.014117,
+      "longitude": 23.10341
+    },
+    {
+      "name": "Кози",
+      "latitude": 43.231625,
+      "longitude": 25.311176
+    },
+    {
+      "name": "Кози и тревопасни",
+      "latitude": 42.438506,
+      "longitude": 25.608654
+    },
+    {
+      "name": "Козя Пещера",
+      "latitude": 43.045341,
+      "longitude": 27.232228
+    },
+    {
+      "name": "Кокошеви",
+      "latitude": 43.210339,
+      "longitude": 27.93581
+    },
+    {
+      "name": "Кокошка копринка",
+      "latitude": 42.013508,
+      "longitude": 23.103228
+    },
+    {
+      "name": "Кокошки",
+      "latitude": 42.438586,
+      "longitude": 25.611422
+    },
+    {
+      "name": "Кон",
+      "latitude": 42.43813,
+      "longitude": 25.608032
+    },
+    {
+      "name": "Кон на Пражевалски",
+      "latitude": 43.556396,
+      "longitude": 27.846305
+    },
+    {
+      "name": "Коне",
+      "latitude": 42.685507,
+      "longitude": 23.334312
+    },
+    {
+      "name": "Конкурс",
+      "latitude": 42.417975,
+      "longitude": 27.697356
+    },
+    {
+      "name": "Конски гробища",
+      "latitude": 43.655662,
+      "longitude": 26.07947
+    },
+    {
+      "name": "Копринка",
+      "latitude": 43.139144,
+      "longitude": 24.729151
+    },
+    {
+      "name": "Корела",
+      "latitude": 42.659269,
+      "longitude": 23.331079
+    },
+    {
+      "name": "Костадинов манастир",
+      "latitude": 43.24639,
+      "longitude": 26.851167
+    },
+    {
+      "name": "Костенурки",
+      "latitude": 42.438966,
+      "longitude": 25.608198
+    },
+    {
+      "name": "Костенурки",
+      "latitude": 43.55802,
+      "longitude": 27.844372
+    },
+    {
+      "name": "Костница",
+      "latitude": 41.942515,
+      "longitude": 24.854282
+    },
+    {
+      "name": "Костница",
+      "latitude": 43.093572,
+      "longitude": 23.615392
+    },
+    {
+      "name": "Кралски питон",
+      "latitude": 42.660013,
+      "longitude": 23.330789
+    },
+    {
+      "name": "Крепост \"Кастрици\"",
+      "latitude": 43.221548,
+      "longitude": 28.005214
+    },
+    {
+      "name": "Крепост \"Кошница\"",
+      "latitude": 41.508717,
+      "longitude": 24.687537
+    },
+    {
+      "name": "Крепост \"Левент табия\"",
+      "latitude": 43.824884,
+      "longitude": 25.957956
+    },
+    {
+      "name": "Крепост \"Маркели\"",
+      "latitude": 42.636772,
+      "longitude": 26.894053
+    },
+    {
+      "name": "Крепост \"Маркели\"",
+      "latitude": 42.637738,
+      "longitude": 26.895652
+    },
+    {
+      "name": "Крепост \"Перистера\"",
+      "latitude": 42.038936,
+      "longitude": 24.304433
+    },
+    {
+      "name": "Крепост \"Устра\"",
+      "latitude": 41.47023,
+      "longitude": 25.225726
+    },
+    {
+      "name": "Крепост Левке",
+      "latitude": 42.180512,
+      "longitude": 23.993955
+    },
+    {
+      "name": "Крепост Мадара",
+      "latitude": 43.276153,
+      "longitude": 27.120164
+    },
+    {
+      "name": "Крепост Малкото кале",
+      "latitude": 42.052207,
+      "longitude": 26.907331
+    },
+    {
+      "name": "Крепост Меджиди Табия",
+      "latitude": 44.102433,
+      "longitude": 27.256909
+    },
+    {
+      "name": "Крепост Овеч",
+      "latitude": 43.172777,
+      "longitude": 27.447422
+    },
+    {
+      "name": "Крепост Петрича",
+      "latitude": 43.162339,
+      "longitude": 27.642939
+    },
+    {
+      "name": "Крепост Русокастро",
+      "latitude": 42.486652,
+      "longitude": 27.155403
+    },
+    {
+      "name": "Крепост Червен",
+      "latitude": 43.622837,
+      "longitude": 26.021705
+    },
+    {
+      "name": "Крепост Яйлата",
+      "latitude": 43.43778,
+      "longitude": 28.545506
+    },
+    {
+      "name": "Крепостта Ряховец",
+      "latitude": 43.13415,
+      "longitude": 25.649472
+    },
+    {
+      "name": "Крибензис и Церос тетра",
+      "latitude": 42.660216,
+      "longitude": 23.331465
+    },
+    {
+      "name": "Кривото дърво",
+      "latitude": 43.206949,
+      "longitude": 27.929134
+    },
+    {
+      "name": "Кромлех Долни Главанак",
+      "latitude": 41.681794,
+      "longitude": 25.812813
+    },
+    {
+      "name": "Крънско кале",
+      "latitude": 42.692,
+      "longitude": 25.382593
+    },
+    {
+      "name": "Кръста",
+      "latitude": 42.549396,
+      "longitude": 24.842373
+    },
+    {
+      "name": "Кубинска боа",
+      "latitude": 42.659988,
+      "longitude": 23.330801
+    },
+    {
+      "name": "Кутела",
+      "latitude": 42.484805,
+      "longitude": 25.177513
+    },
+    {
+      "name": "Къдроглав пеликан",
+      "latitude": 42.659412,
+      "longitude": 23.333584
+    },
+    {
+      "name": "Кърджалийски камък",
+      "latitude": 41.659229,
+      "longitude": 24.78157
+    },
+    {
+      "name": "Късноантична крепост Тимум - запад",
+      "latitude": 43.407418,
+      "longitude": 28.381556
+    },
+    {
+      "name": "Кътински пирамиди",
+      "latitude": 42.846266,
+      "longitude": 23.330449
+    },
+    {
+      "name": "Къща Райно Попович",
+      "latitude": 42.639256,
+      "longitude": 24.805896
+    },
+    {
+      "name": "Къщата на Баба Ванга",
+      "latitude": 41.458587,
+      "longitude": 23.263492
+    },
+    {
+      "name": "Къщата с маймунката",
+      "latitude": 43.085039,
+      "longitude": 25.636849
+    },
+    {
+      "name": "Къщичката на баба Яга",
+      "latitude": 41.568619,
+      "longitude": 23.28096
+    },
+    {
+      "name": "Кюнт Капу",
+      "latitude": 43.830586,
+      "longitude": 25.948638
+    },
+    {
+      "name": "Лавандулово поле",
+      "latitude": 42.657555,
+      "longitude": 25.772834
+    },
+    {
+      "name": "Лавандулово поле",
+      "latitude": 42.673229,
+      "longitude": 27.520398
+    },
+    {
+      "name": "Лагер \"Техеран\" на партизанския отряд \"Антон Иванов\"",
+      "latitude": 41.891035,
+      "longitude": 24.207656
+    },
+    {
+      "name": "Лакатнишки скали",
+      "latitude": 43.088709,
+      "longitude": 23.382101
+    },
+    {
+      "name": "Лама",
+      "latitude": 42.014371,
+      "longitude": 23.10329
+    },
+    {
+      "name": "Лама",
+      "latitude": 42.658231,
+      "longitude": 23.330932
+    },
+    {
+      "name": "Лама",
+      "latitude": 42.685713,
+      "longitude": 23.334169
+    },
+    {
+      "name": "Лама",
+      "latitude": 42.713789,
+      "longitude": 27.271724
+    },
+    {
+      "name": "Лама",
+      "latitude": 43.138426,
+      "longitude": 24.73045
+    },
+    {
+      "name": "Лама",
+      "latitude": 43.231696,
+      "longitude": 25.311311
+    },
+    {
+      "name": "Лама",
+      "latitude": 43.558448,
+      "longitude": 27.845103
+    },
+    {
+      "name": "Лами",
+      "latitude": 42.437993,
+      "longitude": 25.609203
+    },
+    {
+      "name": "Лапидариум",
+      "latitude": 43.567985,
+      "longitude": 27.828035
+    },
+    {
+      "name": "Лебед",
+      "latitude": 43.556687,
+      "longitude": 27.844449
+    },
+    {
+      "name": "Лебеподобна гъска",
+      "latitude": 42.71328,
+      "longitude": 27.27224
+    },
+    {
+      "name": "Лемур",
+      "latitude": 42.713504,
+      "longitude": 27.272358
+    },
+    {
+      "name": "Леопарди",
+      "latitude": 43.210881,
+      "longitude": 27.936706
+    },
+    {
+      "name": "Леопардова костенурка",
+      "latitude": 42.660049,
+      "longitude": 23.330818
+    },
+    {
+      "name": "Летен театър",
+      "latitude": 42.434484,
+      "longitude": 25.622059
+    },
+    {
+      "name": "Лисица",
+      "latitude": 42.014456,
+      "longitude": 23.103865
+    },
+    {
+      "name": "Лисица",
+      "latitude": 43.138054,
+      "longitude": 24.72777
+    },
+    {
+      "name": "Лисица",
+      "latitude": 43.231053,
+      "longitude": 25.312108
+    },
+    {
+      "name": "Лисици",
+      "latitude": 42.439038,
+      "longitude": 25.607998
+    },
+    {
+      "name": "Ловешка средновековна крепост \"Хисаря\"",
+      "latitude": 43.127887,
+      "longitude": 24.715647
+    },
+    {
+      "name": "Локомотив",
+      "latitude": 42.172519,
+      "longitude": 27.858367
+    },
+    {
+      "name": "Лопатар",
+      "latitude": 42.438421,
+      "longitude": 25.60767
+    },
+    {
+      "name": "Луна парк",
+      "latitude": 42.824436,
+      "longitude": 27.882445
+    },
+    {
+      "name": "Лъв",
+      "latitude": 42.014873,
+      "longitude": 23.103448
+    },
+    {
+      "name": "Лъв",
+      "latitude": 43.138126,
+      "longitude": 24.72957
+    },
+    {
+      "name": "Лъв",
+      "latitude": 43.211462,
+      "longitude": 27.936539
+    },
+    {
+      "name": "Лъв",
+      "latitude": 43.381887,
+      "longitude": 24.63233
+    },
+    {
+      "name": "Лъвове",
+      "latitude": 42.438772,
+      "longitude": 25.610439
+    },
+    {
+      "name": "Лъвът",
+      "latitude": 41.900125,
+      "longitude": 25.248777
+    },
+    {
+      "name": "Лъжицата",
+      "latitude": 41.496001,
+      "longitude": 24.634578
+    },
+    {
+      "name": "Люлка Гледката Острич",
+      "latitude": 42.945748,
+      "longitude": 24.267884
+    },
+    {
+      "name": "Люлката на любовта",
+      "latitude": 43.091265,
+      "longitude": 25.648269
+    },
+    {
+      "name": "Лютица",
+      "latitude": 41.502343,
+      "longitude": 26.063137
+    },
+    {
+      "name": "Лястовица бяла клуб",
+      "latitude": 43.022272,
+      "longitude": 27.885681
+    },
+    {
+      "name": "Магаре",
+      "latitude": 43.556929,
+      "longitude": 27.84612
+    },
+    {
+      "name": "Магаре",
+      "latitude": 43.558238,
+      "longitude": 27.844871
+    },
+    {
+      "name": "Магеланова гъска",
+      "latitude": 42.659308,
+      "longitude": 23.331385
+    },
+    {
+      "name": "Мадагаскарски гекон",
+      "latitude": 42.660105,
+      "longitude": 23.330813
+    },
+    {
+      "name": "Мадарски конник",
+      "latitude": 43.277375,
+      "longitude": 27.118894
+    },
+    {
+      "name": "Маймуна",
+      "latitude": 42.438512,
+      "longitude": 25.610052
+    },
+    {
+      "name": "Маймуни",
+      "latitude": 42.713493,
+      "longitude": 27.272411
+    },
+    {
+      "name": "Маймуни",
+      "latitude": 43.210304,
+      "longitude": 27.936476
+    },
+    {
+      "name": "Маймуни",
+      "latitude": 43.382544,
+      "longitude": 24.632161
+    },
+    {
+      "name": "Макет на Пирин",
+      "latitude": 41.568666,
+      "longitude": 23.281742
+    },
+    {
+      "name": "Макет на Черно море",
+      "latitude": 43.201613,
+      "longitude": 27.921865
+    },
+    {
+      "name": "Малка косматка",
+      "latitude": 42.700119,
+      "longitude": 25.33547
+    },
+    {
+      "name": "Малки Римски терми",
+      "latitude": 43.198281,
+      "longitude": 27.91774
+    },
+    {
+      "name": "Малки мечки",
+      "latitude": 42.438233,
+      "longitude": 25.611779
+    },
+    {
+      "name": "Мамутът",
+      "latitude": 42.715282,
+      "longitude": 26.39359
+    },
+    {
+      "name": "Мангано, Електрикаво син хап и Червена зебра",
+      "latitude": 42.660248,
+      "longitude": 23.331812
+    },
+    {
+      "name": "Мандаринка",
+      "latitude": 42.659342,
+      "longitude": 23.331316
+    },
+    {
+      "name": "Мандаринка",
+      "latitude": 42.713414,
+      "longitude": 27.272059
+    },
+    {
+      "name": "Мандаринка",
+      "latitude": 43.231217,
+      "longitude": 25.311621
+    },
+    {
+      "name": "Мантиест павиан",
+      "latitude": 43.1388,
+      "longitude": 24.72942
+    },
+    {
+      "name": "Маяк",
+      "latitude": 42.637535,
+      "longitude": 27.65563
+    },
+    {
+      "name": "Мезешка крепост",
+      "latitude": 41.737455,
+      "longitude": 26.083483
+    },
+    {
+      "name": "Менхир Чучул камък",
+      "latitude": 42.010856,
+      "longitude": 25.997222
+    },
+    {
+      "name": "Месембрия",
+      "latitude": 42.658515,
+      "longitude": 27.730808
+    },
+    {
+      "name": "Мечата скала",
+      "latitude": 42.553811,
+      "longitude": 25.397331
+    },
+    {
+      "name": "Мечето",
+      "latitude": 42.872046,
+      "longitude": 25.31653
+    },
+    {
+      "name": "Мечка",
+      "latitude": 43.138206,
+      "longitude": 24.729025
+    },
+    {
+      "name": "Мечка",
+      "latitude": 43.230976,
+      "longitude": 25.312569
+    },
+    {
+      "name": "Мечки",
+      "latitude": 42.440142,
+      "longitude": 25.610882
+    },
+    {
+      "name": "Мечки",
+      "latitude": 43.21063,
+      "longitude": 27.936595
+    },
+    {
+      "name": "Ми-2",
+      "latitude": 42.565215,
+      "longitude": 27.518739
+    },
+    {
+      "name": "МиГ-17",
+      "latitude": 42.565042,
+      "longitude": 27.51878
+    },
+    {
+      "name": "МиГ-21",
+      "latitude": 42.564933,
+      "longitude": 27.518927
+    },
+    {
+      "name": "Миеща мечка",
+      "latitude": 42.713205,
+      "longitude": 27.272094
+    },
+    {
+      "name": "Мини прасе",
+      "latitude": 43.211494,
+      "longitude": 27.93608
+    },
+    {
+      "name": "Мисисипски алигатор",
+      "latitude": 42.660047,
+      "longitude": 23.330647
+    },
+    {
+      "name": "Мистус",
+      "latitude": 42.660277,
+      "longitude": 23.331679
+    },
+    {
+      "name": "Мишелов на Харис",
+      "latitude": 42.65876,
+      "longitude": 23.330821
+    },
+    {
+      "name": "Мон",
+      "latitude": 42.719893,
+      "longitude": 26.390893
+    },
+    {
+      "name": "Морски свинчета",
+      "latitude": 42.438918,
+      "longitude": 25.608299
+    },
+    {
+      "name": "Морско свинче",
+      "latitude": 43.383209,
+      "longitude": 24.632625
+    },
+    {
+      "name": "Мост на Колю Фичето",
+      "latitude": 42.971371,
+      "longitude": 25.46746
+    },
+    {
+      "name": "Мраморно сомче, Калихт и Червенолентова тетра",
+      "latitude": 42.660225,
+      "longitude": 23.331483
+    },
+    {
+      "name": "Мрежест питон",
+      "latitude": 42.660229,
+      "longitude": 23.331104
+    },
+    {
+      "name": "Мускусна патица",
+      "latitude": 42.713339,
+      "longitude": 27.272138
+    },
+    {
+      "name": "Мускусна патица",
+      "latitude": 43.382232,
+      "longitude": 24.632085
+    },
+    {
+      "name": "Муфлон",
+      "latitude": 43.383664,
+      "longitude": 24.632469
+    },
+    {
+      "name": "Муфлон",
+      "latitude": 43.558152,
+      "longitude": 27.845349
+    },
+    {
+      "name": "Мъжки Камък",
+      "latitude": 42.568624,
+      "longitude": 25.371879
+    },
+    {
+      "name": "Място на откриване на Панагюрското съкровище",
+      "latitude": 42.48994,
+      "longitude": 24.195055
+    },
+    {
+      "name": "Надарски надпис",
+      "latitude": 41.522479,
+      "longitude": 24.627277
+    },
+    {
+      "name": "Надпис \"Белослав\"",
+      "latitude": 43.193697,
+      "longitude": 27.709036
+    },
+    {
+      "name": "Надпис \"Ново Село\"",
+      "latitude": 42.105958,
+      "longitude": 24.470111
+    },
+    {
+      "name": "Нанду",
+      "latitude": 43.211474,
+      "longitude": 27.936046
+    },
+    {
+      "name": "Начало Еко пътека Момини гърди",
+      "latitude": 42.546645,
+      "longitude": 24.838401
+    },
+    {
+      "name": "Некропол",
+      "latitude": 43.440614,
+      "longitude": 28.547433
+    },
+    {
+      "name": "Никополис ад Иструм",
+      "latitude": 43.216912,
+      "longitude": 25.612988
+    },
+    {
+      "name": "Никополска крепост",
+      "latitude": 43.703033,
+      "longitude": 24.892875
+    },
+    {
+      "name": "Нилски крокодил",
+      "latitude": 42.656762,
+      "longitude": 23.33269
+    },
+    {
+      "name": "Нове",
+      "latitude": 43.613817,
+      "longitude": 25.392502
+    },
+    {
+      "name": "Новокаледонски ресничест гекон",
+      "latitude": 42.660003,
+      "longitude": 23.330796
+    },
+    {
+      "name": "Носати мечета",
+      "latitude": 43.210899,
+      "longitude": 27.935473
+    },
+    {
+      "name": "Носато мече",
+      "latitude": 42.658865,
+      "longitude": 23.334288
+    },
+    {
+      "name": "Носато мече",
+      "latitude": 42.659859,
+      "longitude": 23.329949
+    },
+    {
+      "name": "Нутрия",
+      "latitude": 42.659474,
+      "longitude": 23.330634
+    },
+    {
+      "name": "Ням лебед",
+      "latitude": 42.659548,
+      "longitude": 23.333419
+    },
+    {
+      "name": "Обикновен мишелов",
+      "latitude": 42.43907,
+      "longitude": 25.61
+    },
+    {
+      "name": "Обикновен мишелов",
+      "latitude": 43.210924,
+      "longitude": 27.936528
+    },
+    {
+      "name": "Обикновен опосум",
+      "latitude": 42.660247,
+      "longitude": 23.331315
+    },
+    {
+      "name": "Обикновен паун",
+      "latitude": 42.013834,
+      "longitude": 23.102922
+    },
+    {
+      "name": "Обикновена антилопа кана",
+      "latitude": 42.656685,
+      "longitude": 23.331404
+    },
+    {
+      "name": "Обикновена боа",
+      "latitude": 42.660033,
+      "longitude": 23.330549
+    },
+    {
+      "name": "Обикновена овца",
+      "latitude": 42.658372,
+      "longitude": 23.331039
+    },
+    {
+      "name": "Обикновена токачка",
+      "latitude": 42.013615,
+      "longitude": 23.103225
+    },
+    {
+      "name": "Обикновено нанду",
+      "latitude": 42.658154,
+      "longitude": 23.332744
+    },
+    {
+      "name": "Обикновено нанду",
+      "latitude": 42.713569,
+      "longitude": 27.271637
+    },
+    {
+      "name": "Обърнатата къща",
+      "latitude": 42.434159,
+      "longitude": 27.638143
+    },
+    {
+      "name": "Огнище за нестинари",
+      "latitude": 42.087741,
+      "longitude": 27.729039
+    },
+    {
+      "name": "Огърличест папагал",
+      "latitude": 43.139208,
+      "longitude": 24.72935
+    },
+    {
+      "name": "Огърличесто бърне",
+      "latitude": 42.65935,
+      "longitude": 23.331233
+    },
+    {
+      "name": "Огърличесто пекари",
+      "latitude": 42.657829,
+      "longitude": 23.33318
+    },
+    {
+      "name": "Окото на сокола",
+      "latitude": 41.675393,
+      "longitude": 23.830351
+    },
+    {
+      "name": "Орел",
+      "latitude": 42.439219,
+      "longitude": 25.611096
+    },
+    {
+      "name": "Оринокска гъска",
+      "latitude": 42.658545,
+      "longitude": 23.330896
+    },
+    {
+      "name": "Орлови скали Orlovi Skali",
+      "latitude": 41.566384,
+      "longitude": 25.145896
+    },
+    {
+      "name": "Орфеево дърво",
+      "latitude": 41.657353,
+      "longitude": 24.328631
+    },
+    {
+      "name": "Орфей",
+      "latitude": 41.672251,
+      "longitude": 25.364915
+    },
+    {
+      "name": "Основната астрономическа точка на държавната триангулация на България",
+      "latitude": 42.695658,
+      "longitude": 23.330315
+    },
+    {
+      "name": "Останки на средновековния Парорийски манастир",
+      "latitude": 42.050965,
+      "longitude": 26.912953
+    },
+    {
+      "name": "Останки от Римската крепостна стена",
+      "latitude": 42.500463,
+      "longitude": 24.708953
+    },
+    {
+      "name": "Останки от Римската крепостна стена",
+      "latitude": 42.501348,
+      "longitude": 24.708095
+    },
+    {
+      "name": "ПАВЕЦ Чаира",
+      "latitude": 42.163863,
+      "longitude": 23.872072
+    },
+    {
+      "name": "Павиан",
+      "latitude": 42.713534,
+      "longitude": 27.272472
+    },
+    {
+      "name": "Пазар капия",
+      "latitude": 43.991598,
+      "longitude": 22.87708
+    },
+    {
+      "name": "Паметник \"Създатели на българската държава\"",
+      "latitude": 43.262103,
+      "longitude": 26.922331
+    },
+    {
+      "name": "Паметник Ангел Кънчев",
+      "latitude": 43.847043,
+      "longitude": 25.947441
+    },
+    {
+      "name": "Паметник на Рачо Ковача",
+      "latitude": 42.87402,
+      "longitude": 25.318274
+    },
+    {
+      "name": "Паметникът на Бузлуджа",
+      "latitude": 42.735743,
+      "longitude": 25.39365
+    },
+    {
+      "name": "Панорама",
+      "latitude": 41.980863,
+      "longitude": 23.476463
+    },
+    {
+      "name": "Панорама",
+      "latitude": 42.013033,
+      "longitude": 23.55799
+    },
+    {
+      "name": "Папагал корела",
+      "latitude": 43.382711,
+      "longitude": 24.632595
+    },
+    {
+      "name": "Папагали",
+      "latitude": 42.438495,
+      "longitude": 25.611268
+    },
+    {
+      "name": "Папагали",
+      "latitude": 42.438526,
+      "longitude": 25.610184
+    },
+    {
+      "name": "Параклис \"Св. Тодор\"",
+      "latitude": 42.280701,
+      "longitude": 23.261907
+    },
+    {
+      "name": "Параклис Св. Георги",
+      "latitude": 41.675515,
+      "longitude": 23.830391
+    },
+    {
+      "name": "Парен локомотив 36.01",
+      "latitude": 42.825466,
+      "longitude": 25.481962
+    },
+    {
+      "name": "Парк за танцуващи мечки",
+      "latitude": 42.030282,
+      "longitude": 23.579626
+    },
+    {
+      "name": "Парк на миниатюрите",
+      "latitude": 42.506046,
+      "longitude": 24.324433
+    },
+    {
+      "name": "Паркинг зоопарк",
+      "latitude": 42.437334,
+      "longitude": 25.614146
+    },
+    {
+      "name": "Патагонска мара",
+      "latitude": 42.014766,
+      "longitude": 23.103674
+    },
+    {
+      "name": "Патагонска мара",
+      "latitude": 42.658099,
+      "longitude": 23.331196
+    },
+    {
+      "name": "Патици",
+      "latitude": 43.557738,
+      "longitude": 27.843518
+    },
+    {
+      "name": "Патки",
+      "latitude": 42.438411,
+      "longitude": 25.610787
+    },
+    {
+      "name": "Паун",
+      "latitude": 42.713273,
+      "longitude": 27.272268
+    },
+    {
+      "name": "Паун",
+      "latitude": 43.13869,
+      "longitude": 24.72972
+    },
+    {
+      "name": "Паун",
+      "latitude": 43.210369,
+      "longitude": 27.93577
+    },
+    {
+      "name": "Паун",
+      "latitude": 43.231561,
+      "longitude": 25.312173
+    },
+    {
+      "name": "Паун",
+      "latitude": 43.383406,
+      "longitude": 24.632593
+    },
+    {
+      "name": "Паун",
+      "latitude": 43.557521,
+      "longitude": 27.844965
+    },
+    {
+      "name": "Пауни",
+      "latitude": 42.438887,
+      "longitude": 25.611295
+    },
+    {
+      "name": "Пеликан",
+      "latitude": 43.210913,
+      "longitude": 27.936061
+    },
+    {
+      "name": "Пеликан",
+      "latitude": 43.556666,
+      "longitude": 27.844017
+    },
+    {
+      "name": "Пеликан, щъркел, патки",
+      "latitude": 42.438517,
+      "longitude": 25.610352
+    },
+    {
+      "name": "Перперикон",
+      "latitude": 41.715244,
+      "longitude": 25.465106
+    },
+    {
+      "name": "Персийски леопард",
+      "latitude": 42.659988,
+      "longitude": 23.331031
+    },
+    {
+      "name": "Песченик",
+      "latitude": 42.723166,
+      "longitude": 26.387148
+    },
+    {
+      "name": "Петко Благоев - Пандира",
+      "latitude": 42.49559,
+      "longitude": 27.483325
+    },
+    {
+      "name": "Петроглиф",
+      "latitude": 41.727231,
+      "longitude": 25.956285
+    },
+    {
+      "name": "Пешеходен мост",
+      "latitude": 42.569106,
+      "longitude": 25.640853
+    },
+    {
+      "name": "Пещера",
+      "latitude": 41.727524,
+      "longitude": 25.955783
+    },
+    {
+      "name": "Пещера",
+      "latitude": 42.953382,
+      "longitude": 27.020249
+    },
+    {
+      "name": "Пещера - олтар",
+      "latitude": 41.727771,
+      "longitude": 25.954856
+    },
+    {
+      "name": "Писан камък",
+      "latitude": 41.966425,
+      "longitude": 25.274979
+    },
+    {
+      "name": "ПланетУМ",
+      "latitude": 42.484638,
+      "longitude": 27.48262
+    },
+    {
+      "name": "Планинска кралска змия",
+      "latitude": 42.659958,
+      "longitude": 23.330641
+    },
+    {
+      "name": "Плата",
+      "latitude": 42.660276,
+      "longitude": 23.331652
+    },
+    {
+      "name": "Плиоценски Парк Дорково",
+      "latitude": 42.049785,
+      "longitude": 24.122232
+    },
+    {
+      "name": "Плиска (вътрешен град)",
+      "latitude": 43.387289,
+      "longitude": 27.134704
+    },
+    {
+      "name": "Плиска (вътрешен град)",
+      "latitude": 43.387514,
+      "longitude": 27.134168
+    },
+    {
+      "name": "Побити камъни - Централна група",
+      "latitude": 43.226281,
+      "longitude": 27.706395
+    },
+    {
+      "name": "Побити камъни - Централна група (Дикилиташ)",
+      "latitude": 43.228335,
+      "longitude": 27.705917
+    },
+    {
+      "name": "Погребални скални ниши",
+      "latitude": 41.727185,
+      "longitude": 25.95629
+    },
+    {
+      "name": "Поен лебед",
+      "latitude": 42.659481,
+      "longitude": 23.333501
+    },
+    {
+      "name": "Покритият мост",
+      "latitude": 43.132403,
+      "longitude": 24.716535
+    },
+    {
+      "name": "Полярна сова",
+      "latitude": 42.658911,
+      "longitude": 23.330899
+    },
+    {
+      "name": "Пони",
+      "latitude": 42.014204,
+      "longitude": 23.10312
+    },
+    {
+      "name": "Пони",
+      "latitude": 42.658801,
+      "longitude": 23.332936
+    },
+    {
+      "name": "Пони",
+      "latitude": 42.685573,
+      "longitude": 23.334403
+    },
+    {
+      "name": "Пони",
+      "latitude": 43.211201,
+      "longitude": 27.935341
+    },
+    {
+      "name": "Пони",
+      "latitude": 43.383544,
+      "longitude": 24.632535
+    },
+    {
+      "name": "Пони",
+      "latitude": 43.557166,
+      "longitude": 27.845811
+    },
+    {
+      "name": "Потопената църква на с. Живовци",
+      "latitude": 43.388659,
+      "longitude": 23.153292
+    },
+    {
+      "name": "Пресечна точка на 42-ри паралел и 24-ти меридиан",
+      "latitude": 42,
+      "longitude": 24.000001
+    },
+    {
+      "name": "Преслав (вътрешен град)",
+      "latitude": 43.146306,
+      "longitude": 26.812487
+    },
+    {
+      "name": "Природен феномен “Дикили таш”",
+      "latitude": 43.71735,
+      "longitude": 25.79677
+    },
+    {
+      "name": "Природозащитен център \"Пода\"",
+      "latitude": 42.443996,
+      "longitude": 27.466699
+    },
+    {
+      "name": "Присмехулна кукабура",
+      "latitude": 42.659305,
+      "longitude": 23.331115
+    },
+    {
+      "name": "Пробитата скала",
+      "latitude": 41.711258,
+      "longitude": 26.051684
+    },
+    {
+      "name": "Провадия-Солницата;Solnitsata",
+      "latitude": 43.128286,
+      "longitude": 27.472443
+    },
+    {
+      "name": "Пропада некропол - раскопки",
+      "latitude": 41.982899,
+      "longitude": 27.488845
+    },
+    {
+      "name": "Пропада некропол - римската гробница",
+      "latitude": 41.983432,
+      "longitude": 27.486391
+    },
+    {
+      "name": "Пропаст",
+      "latitude": 43.649523,
+      "longitude": 22.717304
+    },
+    {
+      "name": "Пръстенчат ловен фазан",
+      "latitude": 43.139126,
+      "longitude": 24.729099
+    },
+    {
+      "name": "Пръстенчат фазан",
+      "latitude": 43.13905,
+      "longitude": 24.729528
+    },
+    {
+      "name": "Птеригоплихт",
+      "latitude": 42.660235,
+      "longitude": 23.331503
+    },
+    {
+      "name": "Птеригоплихт, Абрамитес, Redhook Myleus и Пангас",
+      "latitude": 42.660109,
+      "longitude": 23.3313
+    },
+    {
+      "name": "Птица носорог тръбач",
+      "latitude": 42.658603,
+      "longitude": 23.330932
+    },
+    {
+      "name": "Птици",
+      "latitude": 42.713604,
+      "longitude": 27.271982
+    },
+    {
+      "name": "Птици",
+      "latitude": 43.211012,
+      "longitude": 27.936281
+    },
+    {
+      "name": "Птичи двор",
+      "latitude": 43.557304,
+      "longitude": 27.843718
+    },
+    {
+      "name": "Пъдпъдъци",
+      "latitude": 42.438994,
+      "longitude": 25.608135
+    },
+    {
+      "name": "Равнинна зебра",
+      "latitude": 42.657557,
+      "longitude": 23.332152
+    },
+    {
+      "name": "Разкошен папагал",
+      "latitude": 43.139173,
+      "longitude": 24.729489
+    },
+    {
+      "name": "Разходки по реката",
+      "latitude": 42.060428,
+      "longitude": 27.966897
+    },
+    {
+      "name": "Раннохристиянска базилика",
+      "latitude": 42.504876,
+      "longitude": 24.710764
+    },
+    {
+      "name": "Рациария",
+      "latitude": 43.817086,
+      "longitude": 22.908232
+    },
+    {
+      "name": "Риба клоун и Доматен клоун",
+      "latitude": 42.660269,
+      "longitude": 23.331599
+    },
+    {
+      "name": "Риболов на шаран",
+      "latitude": 41.588402,
+      "longitude": 24.166501
+    },
+    {
+      "name": "Римска Вила",
+      "latitude": 43.277644,
+      "longitude": 27.108382
+    },
+    {
+      "name": "Римска баня",
+      "latitude": 43.574603,
+      "longitude": 27.826718
+    },
+    {
+      "name": "Римска гробница",
+      "latitude": 42.495683,
+      "longitude": 24.703034
+    },
+    {
+      "name": "Римска крепост",
+      "latitude": 42.501118,
+      "longitude": 24.703134
+    },
+    {
+      "name": "Римска крепост Залдапа",
+      "latitude": 43.883367,
+      "longitude": 27.809868
+    },
+    {
+      "name": "Римска сграда",
+      "latitude": 42.499474,
+      "longitude": 24.704307
+    },
+    {
+      "name": "Римска стена",
+      "latitude": 42.683914,
+      "longitude": 23.330102
+    },
+    {
+      "name": "Римски амфитеатър",
+      "latitude": 42.500032,
+      "longitude": 24.703109
+    },
+    {
+      "name": "Римски град Деултум",
+      "latitude": 42.388824,
+      "longitude": 27.280721
+    },
+    {
+      "name": "Римски казарми",
+      "latitude": 42.498751,
+      "longitude": 24.705327
+    },
+    {
+      "name": "Римски мост",
+      "latitude": 41.494047,
+      "longitude": 24.00715
+    },
+    {
+      "name": "Римски мост",
+      "latitude": 41.494313,
+      "longitude": 24.008247
+    },
+    {
+      "name": "Римски мост",
+      "latitude": 41.52476,
+      "longitude": 23.390898
+    },
+    {
+      "name": "Римски мост",
+      "latitude": 41.535038,
+      "longitude": 23.950343
+    },
+    {
+      "name": "Римски мост",
+      "latitude": 41.614233,
+      "longitude": 24.08478
+    },
+    {
+      "name": "Римски мост",
+      "latitude": 41.733317,
+      "longitude": 25.21949
+    },
+    {
+      "name": "Римски мост",
+      "latitude": 42.637789,
+      "longitude": 25.645215
+    },
+    {
+      "name": "Римски терми",
+      "latitude": 42.281133,
+      "longitude": 22.693594
+    },
+    {
+      "name": "Римски терми",
+      "latitude": 42.500386,
+      "longitude": 24.703583
+    },
+    {
+      "name": "Римски терми",
+      "latitude": 42.548082,
+      "longitude": 26.484177
+    },
+    {
+      "name": "Римски терми",
+      "latitude": 42.821116,
+      "longitude": 27.882713
+    },
+    {
+      "name": "Римски терми",
+      "latitude": 43.200094,
+      "longitude": 27.918072
+    },
+    {
+      "name": "Рисове",
+      "latitude": 42.438773,
+      "longitude": 25.61027
+    },
+    {
+      "name": "Ритлите",
+      "latitude": 43.107822,
+      "longitude": 23.623251
+    },
+    {
+      "name": "Розов пеликан",
+      "latitude": 42.659336,
+      "longitude": 23.333677
+    },
+    {
+      "name": "Розов пеликан",
+      "latitude": 43.138346,
+      "longitude": 24.72865
+    },
+    {
+      "name": "Розовата къща",
+      "latitude": 42.50431,
+      "longitude": 24.702056
+    },
+    {
+      "name": "Руини от римската стена",
+      "latitude": 42.49887,
+      "longitude": 24.706391
+    },
+    {
+      "name": "Рупите Ванга",
+      "latitude": 41.458314,
+      "longitude": 23.261841
+    },
+    {
+      "name": "Ръждиво кенгуру",
+      "latitude": 42.659015,
+      "longitude": 23.331506
+    },
+    {
+      "name": "Саванен варан",
+      "latitude": 42.660039,
+      "longitude": 23.331575
+    },
+    {
+      "name": "Самолет",
+      "latitude": 42.286524,
+      "longitude": 23.688913
+    },
+    {
+      "name": "Самолет",
+      "latitude": 42.696396,
+      "longitude": 27.702021
+    },
+    {
+      "name": "Самуилова крепост",
+      "latitude": 41.394775,
+      "longitude": 23.028944
+    },
+    {
+      "name": "Самуилова крепост",
+      "latitude": 41.394908,
+      "longitude": 23.03056
+    },
+    {
+      "name": "Свиня",
+      "latitude": 42.659056,
+      "longitude": 23.332208
+    },
+    {
+      "name": "Северна антична градска крепостна стена",
+      "latitude": 43.203251,
+      "longitude": 27.915879
+    },
+    {
+      "name": "Северна крепостна стена - античен кастел \"Трансмариска\"",
+      "latitude": 44.049189,
+      "longitude": 26.605365
+    },
+    {
+      "name": "Северна късноантична крепостна стена",
+      "latitude": 43.204211,
+      "longitude": 27.917858
+    },
+    {
+      "name": "Седемте Рилски Езера",
+      "latitude": 42.202252,
+      "longitude": 23.317232
+    },
+    {
+      "name": "Седлат фазан",
+      "latitude": 42.659528,
+      "longitude": 23.331591
+    },
+    {
+      "name": "Сексагинта Приста",
+      "latitude": 43.845901,
+      "longitude": 25.94486
+    },
+    {
+      "name": "Сенегалски папагал",
+      "latitude": 43.139217,
+      "longitude": 24.729462
+    },
+    {
+      "name": "Сервал",
+      "latitude": 42.659635,
+      "longitude": 23.329726
+    },
+    {
+      "name": "Сив папагал",
+      "latitude": 42.659227,
+      "longitude": 23.331062
+    },
+    {
+      "name": "Сив папагал",
+      "latitude": 43.139226,
+      "longitude": 24.72941
+    },
+    {
+      "name": "Сивобуза птица носорог",
+      "latitude": 42.658494,
+      "longitude": 23.330794
+    },
+    {
+      "name": "Синьо-жълт ара",
+      "latitude": 42.659334,
+      "longitude": 23.331163
+    },
+    {
+      "name": "Скала",
+      "latitude": 43.029678,
+      "longitude": 23.314116
+    },
+    {
+      "name": "Скалария, Анциструс и Златноплещеста розова тетра",
+      "latitude": 42.660271,
+      "longitude": 23.33175
+    },
+    {
+      "name": "Скален Манастир Шашкъните",
+      "latitude": 43.192142,
+      "longitude": 27.454482
+    },
+    {
+      "name": "Скален лабиринт \"Пешкето\"",
+      "latitude": 43.322716,
+      "longitude": 23.529845
+    },
+    {
+      "name": "Скален лабиринт \"Пешкето\" (изход)",
+      "latitude": 43.323277,
+      "longitude": 23.531112
+    },
+    {
+      "name": "Скален манастир \"Благовещение\"",
+      "latitude": 43.096025,
+      "longitude": 27.67672
+    },
+    {
+      "name": "Скален орел",
+      "latitude": 41.663799,
+      "longitude": 24.633258
+    },
+    {
+      "name": "Скален орел",
+      "latitude": 42.658634,
+      "longitude": 23.333566
+    },
+    {
+      "name": "Скален феномен Охлюва",
+      "latitude": 43.251075,
+      "longitude": 26.920354
+    },
+    {
+      "name": "Скална арка",
+      "latitude": 43.18747,
+      "longitude": 24.025627
+    },
+    {
+      "name": "Скална гробница",
+      "latitude": 41.541614,
+      "longitude": 25.490945
+    },
+    {
+      "name": "Скална църква",
+      "latitude": 41.843817,
+      "longitude": 26.531708
+    },
+    {
+      "name": "Скална църква",
+      "latitude": 41.850075,
+      "longitude": 26.424921
+    },
+    {
+      "name": "Скални арки",
+      "latitude": 43.18665,
+      "longitude": 24.027217
+    },
+    {
+      "name": "Скални жилища",
+      "latitude": 43.434617,
+      "longitude": 28.543095
+    },
+    {
+      "name": "Скални жилища",
+      "latitude": 43.435751,
+      "longitude": 28.544732
+    },
+    {
+      "name": "Скални манастири Оногур",
+      "latitude": 43.820501,
+      "longitude": 27.595413
+    },
+    {
+      "name": "Скални ниши",
+      "latitude": 41.727801,
+      "longitude": 25.954562
+    },
+    {
+      "name": "Скално образувание \"Слона\"",
+      "latitude": 41.720793,
+      "longitude": 24.423141
+    },
+    {
+      "name": "Скално образувание Дупките",
+      "latitude": 41.470833,
+      "longitude": 26.117361
+    },
+    {
+      "name": "Скално образувание „Скалето“",
+      "latitude": 41.575351,
+      "longitude": 24.09809
+    },
+    {
+      "name": "Ски писта Осогово",
+      "latitude": 42.196814,
+      "longitude": 22.622794
+    },
+    {
+      "name": "Скулптурен обект \"Кръстът\"",
+      "latitude": 41.459095,
+      "longitude": 23.261274
+    },
+    {
+      "name": "Смехурка",
+      "latitude": 42.658671,
+      "longitude": 23.33092
+    },
+    {
+      "name": "Снежен леопард",
+      "latitude": 42.659796,
+      "longitude": 23.33067
+    },
+    {
+      "name": "Сокол скитник",
+      "latitude": 43.210929,
+      "longitude": 27.936444
+    },
+    {
+      "name": "Соломонов какаду",
+      "latitude": 43.139188,
+      "longitude": 24.729304
+    },
+    {
+      "name": "Состра",
+      "latitude": 42.985141,
+      "longitude": 24.673078
+    },
+    {
+      "name": "Софийски римски амфитеатър",
+      "latitude": 42.697473,
+      "longitude": 23.328222
+    },
+    {
+      "name": "Спортно туристическа атракция",
+      "latitude": 42.652977,
+      "longitude": 24.048349
+    },
+    {
+      "name": "Сребърен фазан",
+      "latitude": 42.659542,
+      "longitude": 23.331783
+    },
+    {
+      "name": "Сребърен фазан",
+      "latitude": 43.139141,
+      "longitude": 24.729502
+    },
+    {
+      "name": "Средновековен град \"Червен\"",
+      "latitude": 43.621875,
+      "longitude": 26.019988
+    },
+    {
+      "name": "Стамбол капия",
+      "latitude": 43.98663,
+      "longitude": 22.87811
+    },
+    {
+      "name": "Стар мост",
+      "latitude": 41.623125,
+      "longitude": 23.952329
+    },
+    {
+      "name": "Старата Баба Яга в Парка на свободата (съсипан)",
+      "latitude": 42.673292,
+      "longitude": 23.343908
+    },
+    {
+      "name": "Старата бара",
+      "latitude": 42.714177,
+      "longitude": 26.32698
+    },
+    {
+      "name": "Старата турска баня",
+      "latitude": 41.880059,
+      "longitude": 23.528746
+    },
+    {
+      "name": "Стария бунар",
+      "latitude": 41.90405,
+      "longitude": 24.92288
+    },
+    {
+      "name": "Старото Училище",
+      "latitude": 42.954161,
+      "longitude": 25.399352
+    },
+    {
+      "name": "Статуя мечка",
+      "latitude": 41.682809,
+      "longitude": 24.310783
+    },
+    {
+      "name": "Статуя на рибаря",
+      "latitude": 42.658715,
+      "longitude": 27.729118
+    },
+    {
+      "name": "Стенето",
+      "latitude": 42.746792,
+      "longitude": 24.702407
+    },
+    {
+      "name": "Стефан Караджа",
+      "latitude": 43.852334,
+      "longitude": 25.956494
+    },
+    {
+      "name": "Столо",
+      "latitude": 43.02935,
+      "longitude": 23.248756
+    },
+    {
+      "name": "Странджанска Горска Пътека",
+      "latitude": 42.021956,
+      "longitude": 27.503409
+    },
+    {
+      "name": "Стъпката",
+      "latitude": 41.937781,
+      "longitude": 25.347208
+    },
+    {
+      "name": "Сурикат",
+      "latitude": 42.660188,
+      "longitude": 23.330708
+    },
+    {
+      "name": "Сърна",
+      "latitude": 42.657874,
+      "longitude": 23.33071
+    },
+    {
+      "name": "Сърна",
+      "latitude": 43.21122,
+      "longitude": 27.936204
+    },
+    {
+      "name": "Същински град",
+      "latitude": 43.621509,
+      "longitude": 26.019222
+    },
+    {
+      "name": "Табела със световните дестинации",
+      "latitude": 42.928239,
+      "longitude": 25.750749
+    },
+    {
+      "name": "Такин мишми",
+      "latitude": 42.657644,
+      "longitude": 23.330966
+    },
+    {
+      "name": "Танк Т-34",
+      "latitude": 42.286788,
+      "longitude": 23.6885
+    },
+    {
+      "name": "Танково",
+      "latitude": 42.558049,
+      "longitude": 24.855806
+    },
+    {
+      "name": "Татул - Тракийско светилище",
+      "latitude": 41.541854,
+      "longitude": 25.545439
+    },
+    {
+      "name": "Тернеция и Четирипоясен барбус",
+      "latitude": 42.660234,
+      "longitude": 23.331828
+    },
+    {
+      "name": "Тернеция, Червен дявол и Корална червена моливка",
+      "latitude": 42.660274,
+      "longitude": 23.331625
+    },
+    {
+      "name": "Тигров питон албинос",
+      "latitude": 42.66024,
+      "longitude": 23.331151
+    },
+    {
+      "name": "Тигър",
+      "latitude": 42.439009,
+      "longitude": 25.608594
+    },
+    {
+      "name": "Тигър",
+      "latitude": 43.138274,
+      "longitude": 24.729957
+    },
+    {
+      "name": "Токачка",
+      "latitude": 43.139174,
+      "longitude": 24.729256
+    },
+    {
+      "name": "Токачка",
+      "latitude": 43.231498,
+      "longitude": 25.311835
+    },
+    {
+      "name": "Трабан'читу",
+      "latitude": 43.207724,
+      "longitude": 27.901778
+    },
+    {
+      "name": "Тракийска гробница",
+      "latitude": 42.625739,
+      "longitude": 25.399159
+    },
+    {
+      "name": "Тракийска гробница \"Жаба могила\"",
+      "latitude": 42.482064,
+      "longitude": 24.343748
+    },
+    {
+      "name": "Тракийски скален комплекс",
+      "latitude": 41.380278,
+      "longitude": 25.223296
+    },
+    {
+      "name": "Тракийско светилище \"Пиростията\"",
+      "latitude": 42.568139,
+      "longitude": 25.158951
+    },
+    {
+      "name": "Тракийско светилище \"Провиралкята\"",
+      "latitude": 42.295608,
+      "longitude": 22.876728
+    },
+    {
+      "name": "Тракийско светилище - Глухите камъни",
+      "latitude": 41.727485,
+      "longitude": 25.955451
+    },
+    {
+      "name": "Тракийско светилище Разсилце",
+      "latitude": 41.466624,
+      "longitude": 24.612937
+    },
+    {
+      "name": "Трапезица",
+      "latitude": 43.085696,
+      "longitude": 25.646561
+    },
+    {
+      "name": "Триградското ждрело",
+      "latitude": 41.618864,
+      "longitude": 24.378483
+    },
+    {
+      "name": "Трикорабна базилика",
+      "latitude": 42.497663,
+      "longitude": 24.706293
+    },
+    {
+      "name": "Тримата братя (скален феномен)",
+      "latitude": 42.70474,
+      "longitude": 27.262798
+    },
+    {
+      "name": "Трофеус Мури",
+      "latitude": 42.660259,
+      "longitude": 23.331793
+    },
+    {
+      "name": "Трънско ждрело",
+      "latitude": 42.862182,
+      "longitude": 22.649434
+    },
+    {
+      "name": "Туполев Ту-154",
+      "latitude": 42.565112,
+      "longitude": 27.51913
+    },
+    {
+      "name": "Туристически маршрут \"Карст под защита\"",
+      "latitude": 43.263134,
+      "longitude": 26.889651
+    },
+    {
+      "name": "Турски конак",
+      "latitude": 41.523375,
+      "longitude": 23.393941
+    },
+    {
+      "name": "Турски мост",
+      "latitude": 41.932135,
+      "longitude": 25.899769
+    },
+    {
+      "name": "Улпия Ексус",
+      "latitude": 43.70941,
+      "longitude": 24.466943
+    },
+    {
+      "name": "Утробата",
+      "latitude": 41.704849,
+      "longitude": 25.248114
+    },
+    {
+      "name": "Фазан",
+      "latitude": 43.210249,
+      "longitude": 27.93582
+    },
+    {
+      "name": "Фанагория",
+      "latitude": 43.181458,
+      "longitude": 27.907334
+    },
+    {
+      "name": "Ферма \"Сините щрауси\"",
+      "latitude": 43.065917,
+      "longitude": 24.195227
+    },
+    {
+      "name": "Ферма за щрауси",
+      "latitude": 42.674496,
+      "longitude": 25.197982
+    },
+    {
+      "name": "Фестивал на пясъчните фигури",
+      "latitude": 42.510753,
+      "longitude": 27.481237
+    },
+    {
+      "name": "Форт Ялдъз табия",
+      "latitude": 43.824265,
+      "longitude": 25.991453
+    },
+    {
+      "name": "Фретка",
+      "latitude": 42.659408,
+      "longitude": 23.330281
+    },
+    {
+      "name": "Хайдушки водопади",
+      "latitude": 43.205581,
+      "longitude": 23.057451
+    },
+    {
+      "name": "Халката",
+      "latitude": 42.708224,
+      "longitude": 26.349015
+    },
+    {
+      "name": "Хамбар Кая",
+      "latitude": 41.619869,
+      "longitude": 25.718966
+    },
+    {
+      "name": "Хан Крумски скален манастир",
+      "latitude": 43.226948,
+      "longitude": 26.889677
+    },
+    {
+      "name": "Хелвеция",
+      "latitude": 42.705549,
+      "longitude": 25.346413
+    },
+    {
+      "name": "Хипопотам",
+      "latitude": 42.656424,
+      "longitude": 23.333069
+    },
+    {
+      "name": "Хипопотам джудже",
+      "latitude": 42.656812,
+      "longitude": 23.332752
+    },
+    {
+      "name": "Хобит къща",
+      "latitude": 42.504519,
+      "longitude": 27.482651
+    },
+    {
+      "name": "Хондураска млечна змия",
+      "latitude": 42.659961,
+      "longitude": 23.330629
+    },
+    {
+      "name": "Хореум",
+      "latitude": 42.549552,
+      "longitude": 26.48308
+    },
+    {
+      "name": "Християнска базилика V в.",
+      "latitude": 42.498636,
+      "longitude": 24.70433
+    },
+    {
+      "name": "Цар Освободител",
+      "latitude": 42.693739,
+      "longitude": 23.332305
+    },
+    {
+      "name": "Царевец",
+      "latitude": 43.083341,
+      "longitude": 25.651298
+    },
+    {
+      "name": "Царевичен смок",
+      "latitude": 42.659954,
+      "longitude": 23.330654
+    },
+    {
+      "name": "Цари Мали град",
+      "latitude": 42.353989,
+      "longitude": 23.382091
+    },
+    {
+      "name": "Царският локомотив 35.05",
+      "latitude": 42.933338,
+      "longitude": 25.45413
+    },
+    {
+      "name": "Царското казино",
+      "latitude": 43.189908,
+      "longitude": 23.286307
+    },
+    {
+      "name": "Цейлонски тигров питон",
+      "latitude": 42.660217,
+      "longitude": 23.331057
+    },
+    {
+      "name": "Цирк “Арена”",
+      "latitude": 42.128098,
+      "longitude": 24.768766
+    },
+    {
+      "name": "Чадър чешма",
+      "latitude": 42.338548,
+      "longitude": 23.557431
+    },
+    {
+      "name": "Чакал",
+      "latitude": 42.658908,
+      "longitude": 23.329532
+    },
+    {
+      "name": "Чакал",
+      "latitude": 43.138045,
+      "longitude": 24.727606
+    },
+    {
+      "name": "Чакали",
+      "latitude": 42.43898,
+      "longitude": 25.608438
+    },
+    {
+      "name": "Часовника",
+      "latitude": 42.191207,
+      "longitude": 24.332246
+    },
+    {
+      "name": "Часовникова Кула / Башня с часами",
+      "latitude": 42.81902,
+      "longitude": 27.881891
+    },
+    {
+      "name": "Часовникова кула",
+      "latitude": 42.907967,
+      "longitude": 23.792497
+    },
+    {
+      "name": "Часовниковата кула Етрополе",
+      "latitude": 42.829803,
+      "longitude": 23.992793
+    },
+    {
+      "name": "Часовникът",
+      "latitude": 43.849966,
+      "longitude": 25.954155
+    },
+    {
+      "name": "Червен ибис",
+      "latitude": 42.658954,
+      "longitude": 23.331148
+    },
+    {
+      "name": "Червена пираня",
+      "latitude": 42.660244,
+      "longitude": 23.331522
+    },
+    {
+      "name": "Червената църква",
+      "latitude": 42.074098,
+      "longitude": 24.556162
+    },
+    {
+      "name": "Червенобуза костенурка",
+      "latitude": 42.65923,
+      "longitude": 23.334288
+    },
+    {
+      "name": "Червенокрака костенурка",
+      "latitude": 42.660061,
+      "longitude": 23.330686
+    },
+    {
+      "name": "Червеноопашат сом и Колосома",
+      "latitude": 42.660201,
+      "longitude": 23.331359
+    },
+    {
+      "name": "Черен ангъч",
+      "latitude": 43.210733,
+      "longitude": 27.935549
+    },
+    {
+      "name": "Черен лебед",
+      "latitude": 42.659787,
+      "longitude": 23.333207
+    },
+    {
+      "name": "Черен лешояд (Картал)",
+      "latitude": 42.658828,
+      "longitude": 23.333709
+    },
+    {
+      "name": "Черна пантера",
+      "latitude": 43.21096,
+      "longitude": 27.936738
+    },
+    {
+      "name": "Четкоуха свиня",
+      "latitude": 42.658409,
+      "longitude": 23.331254
+    },
+    {
+      "name": "Чешма - паметник  на партизанката Буря",
+      "latitude": 42.942212,
+      "longitude": 25.387875
+    },
+    {
+      "name": "Чинара",
+      "latitude": 41.581859,
+      "longitude": 24.684238
+    },
+    {
+      "name": "Чинчила",
+      "latitude": 42.439589,
+      "longitude": 25.610596
+    },
+    {
+      "name": "Чинчила",
+      "latitude": 42.660167,
+      "longitude": 23.330922
+    },
+    {
+      "name": "Чинчила",
+      "latitude": 43.13911,
+      "longitude": 24.72905
+    },
+    {
+      "name": "Чирпански гълъби",
+      "latitude": 42.439055,
+      "longitude": 25.610123
+    },
+    {
+      "name": "Чудните мостове",
+      "latitude": 41.818679,
+      "longitude": 24.581754
+    },
+    {
+      "name": "Чудните скали",
+      "latitude": 42.967413,
+      "longitude": 27.292141
+    },
+    {
+      "name": "Чуриловски манастир",
+      "latitude": 41.460369,
+      "longitude": 23.006923
+    },
+    {
+      "name": "Чухала",
+      "latitude": 43.187134,
+      "longitude": 24.025118
+    },
+    {
+      "name": "Шимпанзе",
+      "latitude": 42.438509,
+      "longitude": 25.610136
+    },
+    {
+      "name": "Шипоопашата костенурка",
+      "latitude": 42.660242,
+      "longitude": 23.330403
+    },
+    {
+      "name": "Шотландско пони",
+      "latitude": 42.713897,
+      "longitude": 27.272606
+    },
+    {
+      "name": "Шотландско пони",
+      "latitude": 43.139477,
+      "longitude": 24.726403
+    },
+    {
+      "name": "Шотландско пони",
+      "latitude": 43.231575,
+      "longitude": 25.311096
+    },
+    {
+      "name": "Шуменска крепост",
+      "latitude": 43.262534,
+      "longitude": 26.89461
+    },
+    {
+      "name": "Шушманец",
+      "latitude": 42.707128,
+      "longitude": 25.348749
+    },
+    {
+      "name": "Щерна за дъждовна вода",
+      "latitude": 41.727849,
+      "longitude": 25.954828
+    },
+    {
+      "name": "Щраус",
+      "latitude": 42.43825,
+      "longitude": 25.611337
+    },
+    {
+      "name": "Щраус",
+      "latitude": 42.65814,
+      "longitude": 23.333221
+    },
+    {
+      "name": "Щраус",
+      "latitude": 43.211385,
+      "longitude": 27.936007
+    },
+    {
+      "name": "Щраус",
+      "latitude": 43.231213,
+      "longitude": 25.31221
+    },
+    {
+      "name": "Щъркел",
+      "latitude": 42.713626,
+      "longitude": 27.272757
+    },
+    {
+      "name": "Щъркел",
+      "latitude": 43.55653,
+      "longitude": 27.844189
+    },
+    {
+      "name": "Югоизточна отбранителна кула",
+      "latitude": 42.499837,
+      "longitude": 24.709601
+    },
+    {
+      "name": "Южна крепостна стена - античен кастел \"Трансмариска\"",
+      "latitude": 44.047132,
+      "longitude": 26.6068
+    },
+    {
+      "name": "Ягуар",
+      "latitude": 42.659909,
+      "longitude": 23.330389
+    },
+    {
+      "name": "Язовец",
+      "latitude": 42.659577,
+      "longitude": 23.329698
+    },
+    {
+      "name": "Язовец",
+      "latitude": 43.231261,
+      "longitude": 25.311831
+    },
+    {
+      "name": "Яйлата",
+      "latitude": 43.434212,
+      "longitude": 28.54137
+    },
+    {
+      "name": "Як",
+      "latitude": 43.138349,
+      "longitude": 24.730571
+    },
+    {
+      "name": "водопад Варовитец",
+      "latitude": 42.824141,
+      "longitude": 24.038839
+    },
+    {
+      "name": "водопад Коман",
+      "latitude": 42.932444,
+      "longitude": 24.600381
+    },
+    {
+      "name": "водопад Скакля",
+      "latitude": 43.035462,
+      "longitude": 23.33085
+    },
+    {
+      "name": "долмен Левка",
+      "latitude": 41.874555,
+      "longitude": 26.289629
+    },
+    {
+      "name": "долмен с. Студена",
+      "latitude": 41.973283,
+      "longitude": 26.434381
+    },
+    {
+      "name": "животински кът \"Кондабайда\"",
+      "latitude": 42.662257,
+      "longitude": 23.250728
+    },
+    {
+      "name": "картинг писта варна",
+      "latitude": 43.233477,
+      "longitude": 27.964592
+    },
+    {
+      "name": "корабче-ИНДИАНА",
+      "latitude": 42.93899,
+      "longitude": 25.370097
+    },
+    {
+      "name": "лунапарк Синеморец",
+      "latitude": 42.060377,
+      "longitude": 27.976584
+    },
+    {
+      "name": "мегдан",
+      "latitude": 41.833942,
+      "longitude": 23.488812
+    },
+    {
+      "name": "ул. Свети Апостол Карл",
+      "latitude": 42.440101,
+      "longitude": 25.620065
+    },
+    {
+      "name": "хубаво плажче със сянка",
+      "latitude": 42.332008,
+      "longitude": 27.756203
+    }
+  ],
+  "meta": {
+    "title": "Туристически атракции в България - Безплатно изтегляне",
+    "description": "Туристически атракции в България от данни на OpenStreetMap (tourism=attraction). Име и координати WGS84. Съдържа 830 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Туристически атракции в България | ListBase",
+    "seo_description": "Изтеглете Туристически атракции в България — 830 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 830 записа / 3 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

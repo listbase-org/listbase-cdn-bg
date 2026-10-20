@@ -1,0 +1,169 @@
+{
+  "id": "bg-khaskovo-letishta",
+  "name": "Летища — област Хасково",
+  "title": "Летища — област Хасково",
+  "description": "Списък на летищата в „област Хасково“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Khaskovo Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_source",
+      "label": "Oblast Source",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LB38",
+      "iata": "",
+      "name": "Mustrak Airport",
+      "name_slug": "mustrak-airport",
+      "city": "Mustrak",
+      "oblast": "област Хасково",
+      "oblast_source": "Khaskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_en": "Khaskovo Province",
+      "country": "BG",
+      "elevation_ft": 675,
+      "lat": 41.8400001526,
+      "lon": 26.3097000122,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LBHS",
+      "iata": "HKV",
+      "name": "Uzundzhovo Air Base",
+      "name_slug": "uzundzhovo-air-base",
+      "city": "Haskovo",
+      "oblast": "област Хасково",
+      "oblast_source": "Khaskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_en": "Khaskovo Province",
+      "country": "BG",
+      "elevation_ft": 160,
+      "lat": 41.976398468,
+      "lon": 25.589799881,
+      "timezone": "Europe/Sofia",
+      "has_iata": true
+    },
+    {
+      "icao": "LBKL",
+      "iata": "",
+      "name": "Kalvacha Airport",
+      "name_slug": "kalvacha-airport",
+      "city": "Kalvacha",
+      "oblast": "област Хасково",
+      "oblast_source": "Khaskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_en": "Khaskovo Province",
+      "country": "BG",
+      "elevation_ft": 1083,
+      "lat": 42.5862503052,
+      "lon": 25.4262504578,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LBSZ",
+      "iata": "SZR",
+      "name": "Stara Zagora Airport",
+      "name_slug": "stara-zagora-airport",
+      "city": "Stara Zagora",
+      "oblast": "област Хасково",
+      "oblast_source": "Khaskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_en": "Khaskovo Province",
+      "country": "BG",
+      "elevation_ft": 558,
+      "lat": 42.376701355,
+      "lon": 25.6551990509,
+      "timezone": "Europe/Sofia",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Летища — област Хасково - Безплатно изтегляне",
+    "description": "Списък на летищата в „област Хасково“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Khaskovo Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Летища — област Хасково | ListBase",
+    "seo_description": "Изтеглете Летища — област Хасково — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: https://github.com/mwgg/Airports"
+    ]
+  }
+}

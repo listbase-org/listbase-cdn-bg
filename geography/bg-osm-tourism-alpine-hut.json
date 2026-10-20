@@ -1,0 +1,3139 @@
+{
+  "id": "bg-osm-tourism-alpine-hut",
+  "name": "Планински хижи в България (OpenStreetMap)",
+  "title": "Планински хижи в България (OpenStreetMap)",
+  "description": "Планински хижи в България — 342 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=alpine_hut`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 342,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Еколенд\"",
+      "shirina": 42.043788,
+      "dalzhina": 23.333662,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 2,
+      "ime": "12-та застава",
+      "shirina": 41.553939,
+      "dalzhina": 24.176446,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 3,
+      "ime": "Art Studio",
+      "shirina": 42.285558,
+      "dalzhina": 23.268905,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 4,
+      "ime": "Begovitsa hut",
+      "shirina": 41.673991,
+      "dalzhina": 23.42752,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 5,
+      "ime": "Deep forest",
+      "shirina": 43.196379,
+      "dalzhina": 26.5319,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 6,
+      "ime": "Hunters Hut",
+      "shirina": 41.963867,
+      "dalzhina": 25.211785,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 7,
+      "ime": "Mountain Lake",
+      "shirina": 41.614552,
+      "dalzhina": 24.66757,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 8,
+      "ime": "xижа Леденика",
+      "shirina": 43.204817,
+      "dalzhina": 23.489382,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 9,
+      "ime": "xижа Шадийца",
+      "shirina": 41.483707,
+      "dalzhina": 24.992817,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 10,
+      "ime": "xижа Яворова лъка",
+      "shirina": 42.778734,
+      "dalzhina": 24.806525,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 11,
+      "ime": "Καταφύγιο Δρυμού Πενταλόφου Ορεστιάδας",
+      "shirina": 41.633176,
+      "dalzhina": 26.119001,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 12,
+      "ime": "Аида",
+      "shirina": 41.904261,
+      "dalzhina": 25.299074,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 13,
+      "ime": "Академик",
+      "shirina": 42.030174,
+      "dalzhina": 24.619841,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 14,
+      "ime": "Балканци",
+      "shirina": 42.766548,
+      "dalzhina": 25.252054,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 15,
+      "ime": "Бендида",
+      "shirina": 42.262108,
+      "dalzhina": 23.298579,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 16,
+      "ime": "Бендида",
+      "shirina": 42.263255,
+      "dalzhina": 23.29883,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 17,
+      "ime": "Благоев",
+      "shirina": 42.770294,
+      "dalzhina": 25.398874,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 18,
+      "ime": "Брезовица",
+      "shirina": 42.594714,
+      "dalzhina": 23.31186,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 19,
+      "ime": "Бялата вода",
+      "shirina": 43.152018,
+      "dalzhina": 23.304664,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 20,
+      "ime": "Венетица",
+      "shirina": 42.254326,
+      "dalzhina": 23.739665,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 21,
+      "ime": "Вила Катеричка",
+      "shirina": 42.607105,
+      "dalzhina": 23.229033,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 22,
+      "ime": "Вила на Кмета",
+      "shirina": 42.614428,
+      "dalzhina": 23.236025,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 23,
+      "ime": "Гергиница",
+      "shirina": 42.278731,
+      "dalzhina": 23.742434,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 24,
+      "ime": "Глиган",
+      "shirina": 42.579007,
+      "dalzhina": 24.568425,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 25,
+      "ime": "Горски дом",
+      "shirina": 42.581399,
+      "dalzhina": 23.294699,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 26,
+      "ime": "Горски дом Тинтява",
+      "shirina": 42.619338,
+      "dalzhina": 23.258552,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 27,
+      "ime": "Гоце Делчев",
+      "shirina": 41.759173,
+      "dalzhina": 23.547075,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 28,
+      "ime": "Добра вода",
+      "shirina": 42.073088,
+      "dalzhina": 24.248561,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 29,
+      "ime": "Заслон Кикиш",
+      "shirina": 42.618996,
+      "dalzhina": 23.282621,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 30,
+      "ime": "Заслон Превала",
+      "shirina": 42.188353,
+      "dalzhina": 22.580413,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 31,
+      "ime": "Здравец",
+      "shirina": 42.77412,
+      "dalzhina": 25.389587,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 32,
+      "ime": "Зелени преслап",
+      "shirina": 42.248499,
+      "dalzhina": 23.309366,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 33,
+      "ime": "Иглика",
+      "shirina": 41.99655,
+      "dalzhina": 24.769836,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 34,
+      "ime": "КИП Нешковци",
+      "shirina": 42.76966,
+      "dalzhina": 24.744302,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 35,
+      "ime": "Каваклийка (стара)",
+      "shirina": 42.484512,
+      "dalzhina": 25.221104,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 36,
+      "ime": "Каменно здание",
+      "shirina": 42.611207,
+      "dalzhina": 23.260042,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 37,
+      "ime": "Капчука",
+      "shirina": 43.336491,
+      "dalzhina": 24.549724,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 38,
+      "ime": "Карандила",
+      "shirina": 42.718191,
+      "dalzhina": 26.369356,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 39,
+      "ime": "Кафеджийски кайнак",
+      "shirina": 42.716382,
+      "dalzhina": 26.386383,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 40,
+      "ime": "Кралев дол",
+      "shirina": 42.55834,
+      "dalzhina": 23.059414,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 41,
+      "ime": "Кръстьо Чолаков",
+      "shirina": 42.607917,
+      "dalzhina": 24.296645,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 42,
+      "ime": "Ксилифор",
+      "shirina": 43.083603,
+      "dalzhina": 25.672676,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 43,
+      "ime": "Ловен дом",
+      "shirina": 42.765127,
+      "dalzhina": 27.75347,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 44,
+      "ime": "Ловен дом \"Дикчан\"",
+      "shirina": 41.692057,
+      "dalzhina": 24.001058,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 45,
+      "ime": "Ловна Хижа - Горна Диканя",
+      "shirina": 42.409965,
+      "dalzhina": 23.222589,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 46,
+      "ime": "Ловна Хижа ц. Борика",
+      "shirina": 42.508462,
+      "dalzhina": 23.642295,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 47,
+      "ime": "Ловна резиденция Кормисош",
+      "shirina": 41.799745,
+      "dalzhina": 24.92264,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 48,
+      "ime": "Ловна среща",
+      "shirina": 42.692805,
+      "dalzhina": 23.777681,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 49,
+      "ime": "Ловна хижа Акватепе",
+      "shirina": 41.781579,
+      "dalzhina": 24.956003,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 50,
+      "ime": "Ловна хижа Галата",
+      "shirina": 43.120385,
+      "dalzhina": 27.916463,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 51,
+      "ime": "Ловна хижа Кулето",
+      "shirina": 41.892803,
+      "dalzhina": 24.971922,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 52,
+      "ime": "Ловна хижа ЛД Ресилово",
+      "shirina": 42.360448,
+      "dalzhina": 23.304771,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 53,
+      "ime": "Ловна хижа Романтика",
+      "shirina": 41.723602,
+      "dalzhina": 23.903612,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 54,
+      "ime": "Ловна хижа Яребковица",
+      "shirina": 42.398926,
+      "dalzhina": 23.253439,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 55,
+      "ime": "Ловна хижа кв. Челопечене",
+      "shirina": 42.745412,
+      "dalzhina": 23.470233,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 56,
+      "ime": "Ловни хижа Кормисош",
+      "shirina": 41.824555,
+      "dalzhina": 24.937516,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 57,
+      "ime": "Ловно стопанство „Напоя“",
+      "shirina": 42.914493,
+      "dalzhina": 24.468475,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 58,
+      "ime": "Луда Камчия",
+      "shirina": 42.903569,
+      "dalzhina": 27.190291,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 59,
+      "ime": "Металург",
+      "shirina": 42.618165,
+      "dalzhina": 23.219857,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 60,
+      "ime": "Момина сълза",
+      "shirina": 41.971206,
+      "dalzhina": 24.87665,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 61,
+      "ime": "Момина сълза",
+      "shirina": 42.981533,
+      "dalzhina": 25.111475,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 62,
+      "ime": "Морулей",
+      "shirina": 42.522284,
+      "dalzhina": 25.748058,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 63,
+      "ime": "Мочарата",
+      "shirina": 41.769444,
+      "dalzhina": 23.531979,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 64,
+      "ime": "Овнарско",
+      "shirina": 42.224495,
+      "dalzhina": 23.415971,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 65,
+      "ime": "Орлова чука",
+      "shirina": 43.593682,
+      "dalzhina": 25.958918,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 66,
+      "ime": "ПД Радио",
+      "shirina": 42.603578,
+      "dalzhina": 23.232834,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 67,
+      "ime": "Паскалска ливада",
+      "shirina": 42.806796,
+      "dalzhina": 24.206595,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 68,
+      "ime": "Планинарска спирка",
+      "shirina": 43.060302,
+      "dalzhina": 23.157576,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 69,
+      "ime": "Планинска база Мотен",
+      "shirina": 42.581181,
+      "dalzhina": 23.29436,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 70,
+      "ime": "Рай",
+      "shirina": 42.696418,
+      "dalzhina": 24.930935,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 71,
+      "ime": "Свобода",
+      "shirina": 41.70955,
+      "dalzhina": 24.902275,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 72,
+      "ime": "Сливка",
+      "shirina": 41.662847,
+      "dalzhina": 25.046429,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 73,
+      "ime": "Смолянски езера",
+      "shirina": 41.619504,
+      "dalzhina": 24.674307,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 74,
+      "ime": "Снежанка",
+      "shirina": 42.015887,
+      "dalzhina": 24.26319,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 75,
+      "ime": "Станция на БФС",
+      "shirina": 42.58559,
+      "dalzhina": 23.305139,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 76,
+      "ime": "Студенец",
+      "shirina": 41.96529,
+      "dalzhina": 24.689781,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 77,
+      "ime": "Творчески дом \"Витоша\" -БНР",
+      "shirina": 42.60366,
+      "dalzhina": 23.232848,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 78,
+      "ime": "Творчески дом на Съюза на Артистите",
+      "shirina": 42.603274,
+      "dalzhina": 23.232131,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 79,
+      "ime": "Трите реки",
+      "shirina": 41.630996,
+      "dalzhina": 23.49622,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 80,
+      "ime": "Туристическа спалня \"Ботев Връх\"",
+      "shirina": 42.716484,
+      "dalzhina": 24.918407,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 81,
+      "ime": "Туристическа спалня Витиня",
+      "shirina": 42.782473,
+      "dalzhina": 23.800286,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 82,
+      "ime": "Туристически заслон \"Мики\"",
+      "shirina": 43.039713,
+      "dalzhina": 23.426833,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 83,
+      "ime": "Туристически център Дикчан",
+      "shirina": 41.677664,
+      "dalzhina": 23.993471,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 84,
+      "ime": "Тънково",
+      "shirina": 41.728365,
+      "dalzhina": 25.760955,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 85,
+      "ime": "Учебен център \"Трендафила\" на НСлС",
+      "shirina": 42.594897,
+      "dalzhina": 23.224806,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 86,
+      "ime": "Х. Горски дом Офелиите",
+      "shirina": 42.598577,
+      "dalzhina": 23.237363,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 87,
+      "ime": "Х. Махмутица",
+      "shirina": 41.490241,
+      "dalzhina": 23.086921,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 88,
+      "ime": "Хвойнова поляна",
+      "shirina": 41.254675,
+      "dalzhina": 25.251522,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 89,
+      "ime": "Хижа \"Горски Рай\"",
+      "shirina": 43.454682,
+      "dalzhina": 22.641188,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 90,
+      "ime": "Хижа \"Карандила\" 2",
+      "shirina": 42.717572,
+      "dalzhina": 26.369591,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 91,
+      "ime": "Хижа \"Райна Княгиня\"",
+      "shirina": 42.582415,
+      "dalzhina": 24.19574,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 92,
+      "ime": "Хижа ,,Хайдушки Поляни”",
+      "shirina": 41.692352,
+      "dalzhina": 24.829388,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 93,
+      "ime": "Хижа Балканити",
+      "shirina": 42.61507,
+      "dalzhina": 23.234596,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 94,
+      "ime": "Хижа Божур",
+      "shirina": 43.123167,
+      "dalzhina": 25.64613,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 95,
+      "ime": "Хижа Букаците",
+      "shirina": 43.237594,
+      "dalzhina": 26.860321,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 96,
+      "ime": "Хижа Бяла паланка",
+      "shirina": 42.791106,
+      "dalzhina": 26.012718,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 97,
+      "ime": "Хижа Ведра",
+      "shirina": 42.582006,
+      "dalzhina": 23.308127,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 98,
+      "ime": "Хижа Воден камък",
+      "shirina": 42.465268,
+      "dalzhina": 24.755541,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 99,
+      "ime": "Хижа Върбица",
+      "shirina": 42.526652,
+      "dalzhina": 23.108359,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 100,
+      "ime": "Хижа Гургулица",
+      "shirina": 42.233326,
+      "dalzhina": 23.82132,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 101,
+      "ime": "Хижа Джамен",
+      "shirina": 42.583071,
+      "dalzhina": 22.763516,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 102,
+      "ime": "Хижа Добрила",
+      "shirina": 42.711132,
+      "dalzhina": 24.761173,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 103,
+      "ime": "Хижа Добруджанка",
+      "shirina": 43.457516,
+      "dalzhina": 28.35754,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 104,
+      "ime": "Хижа Елата (изоставена)",
+      "shirina": 43.04556,
+      "dalzhina": 23.272458,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 105,
+      "ime": "Хижа Кабата",
+      "shirina": 41.828433,
+      "dalzhina": 24.609699,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 106,
+      "ime": "Хижа Калето",
+      "shirina": 42.927932,
+      "dalzhina": 25.879749,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 107,
+      "ime": "Хижа Козичино",
+      "shirina": 42.838656,
+      "dalzhina": 27.574044,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 108,
+      "ime": "Хижа Крояците",
+      "shirina": 41.637623,
+      "dalzhina": 25.564824,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 109,
+      "ime": "Хижа Малина",
+      "shirina": 41.614984,
+      "dalzhina": 23.538126,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 110,
+      "ime": "Хижа Малина",
+      "shirina": 43.124403,
+      "dalzhina": 23.076294,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 111,
+      "ime": "Хижа Мальовица",
+      "shirina": 42.188757,
+      "dalzhina": 23.374254,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 112,
+      "ime": "Хижа Миджур",
+      "shirina": 43.426462,
+      "dalzhina": 22.713495,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 113,
+      "ime": "Хижа Момин Кладенец",
+      "shirina": 42.408383,
+      "dalzhina": 22.891482,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 114,
+      "ime": "Хижа Момчил юнак",
+      "shirina": 41.700412,
+      "dalzhina": 24.805286,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 115,
+      "ime": "Хижа Мусала",
+      "shirina": 42.198171,
+      "dalzhina": 23.587449,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 116,
+      "ime": "Хижа Незабравка",
+      "shirina": 42.700072,
+      "dalzhina": 24.744736,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 117,
+      "ime": "Хижа Перелик",
+      "shirina": 41.610309,
+      "dalzhina": 24.596197,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 118,
+      "ime": "Хижа Пирин",
+      "shirina": 41.631783,
+      "dalzhina": 23.497095,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 119,
+      "ime": "Хижа Преспа",
+      "shirina": 41.688824,
+      "dalzhina": 24.854199,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 120,
+      "ime": "Хижа Роси",
+      "shirina": 42.9189,
+      "dalzhina": 24.177432,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 121,
+      "ime": "Хижа Славей",
+      "shirina": 42.570005,
+      "dalzhina": 23.035917,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 122,
+      "ime": "Хижа Топчийско",
+      "shirina": 42.862045,
+      "dalzhina": 27.344323,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 123,
+      "ime": "Хижа Хайдушки поляни",
+      "shirina": 41.692361,
+      "dalzhina": 24.829368,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 124,
+      "ime": "Хижа Чудни мостове",
+      "shirina": 41.819462,
+      "dalzhina": 24.582277,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 125,
+      "ime": "Хижа Чучул",
+      "shirina": 42.78382,
+      "dalzhina": 24.679934,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 126,
+      "ime": "Хижа Ягъч",
+      "shirina": 42.216587,
+      "dalzhina": 25.266355,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 127,
+      "ime": "Хижа Ястребец",
+      "shirina": 42.226408,
+      "dalzhina": 23.581259,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 128,
+      "ime": "Хижа „Лопово“",
+      "shirina": 41.330343,
+      "dalzhina": 23.091515,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 129,
+      "ime": "Чаирски езера",
+      "shirina": 41.594928,
+      "dalzhina": 24.445472,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 130,
+      "ime": "екодом Самоковище",
+      "shirina": 42.207406,
+      "dalzhina": 23.192003,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 131,
+      "ime": "з. Спано поле (Shelter Spano Pole)",
+      "shirina": 41.711402,
+      "dalzhina": 23.401538,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 132,
+      "ime": "з. Тевно езеро",
+      "shirina": 41.698884,
+      "dalzhina": 23.482842,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 133,
+      "ime": "з.Ботев",
+      "shirina": 42.718632,
+      "dalzhina": 24.904236,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 134,
+      "ime": "залсон св. Богородица",
+      "shirina": 42.11366,
+      "dalzhina": 27.888039,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 135,
+      "ime": "заслон Леденото езеро",
+      "shirina": 42.183428,
+      "dalzhina": 23.588684,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 136,
+      "ime": "комплекс Стубеля",
+      "shirina": 42.872694,
+      "dalzhina": 23.845138,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 137,
+      "ime": "къща Рай",
+      "shirina": 41.521655,
+      "dalzhina": 24.957667,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 138,
+      "ime": "лагер Каваклийка",
+      "shirina": 42.484925,
+      "dalzhina": 25.226338,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 139,
+      "ime": "ловна хижа",
+      "shirina": 42.619159,
+      "dalzhina": 25.477899,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 140,
+      "ime": "почивен дом Здравец",
+      "shirina": 42.606089,
+      "dalzhina": 23.227498,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 141,
+      "ime": "х Червената шапчица (х. Композиторите)",
+      "shirina": 42.606859,
+      "dalzhina": 23.228261,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 142,
+      "ime": "х. \"Адвокат\"",
+      "shirina": 42.593572,
+      "dalzhina": 23.219334,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 143,
+      "ime": "х. \"Козарнице\"",
+      "shirina": 43.355035,
+      "dalzhina": 22.830271,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 144,
+      "ime": "х. \"Пънчето\" (Софийска Филхармония)",
+      "shirina": 42.591577,
+      "dalzhina": 23.221788,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 145,
+      "ime": "х. Анкова бичкия",
+      "shirina": 42.790185,
+      "dalzhina": 24.204605,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 146,
+      "ime": "х. Артистите",
+      "shirina": 42.603197,
+      "dalzhina": 23.232173,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 147,
+      "ime": "х. Беговица",
+      "shirina": 41.673963,
+      "dalzhina": 23.427536,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 148,
+      "ime": "х. Безово",
+      "shirina": 41.955105,
+      "dalzhina": 24.893974,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 149,
+      "ime": "х. Беласица",
+      "shirina": 41.370033,
+      "dalzhina": 23.186615,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 150,
+      "ime": "х. Белите брези",
+      "shirina": 42.618094,
+      "dalzhina": 23.22792,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 151,
+      "ime": "х. Боерица",
+      "shirina": 42.602588,
+      "dalzhina": 23.254227,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 152,
+      "ime": "х. Божур",
+      "shirina": 43.12331,
+      "dalzhina": 25.645532,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 153,
+      "ime": "х. Бонсови поляни",
+      "shirina": 42.649924,
+      "dalzhina": 23.192019,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 154,
+      "ime": "х. Борова гора",
+      "shirina": 42.601973,
+      "dalzhina": 23.252991,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 155,
+      "ime": "х. Бряновщица",
+      "shirina": 42.018818,
+      "dalzhina": 24.590349,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 156,
+      "ime": "х. Васил Левски",
+      "shirina": 42.704771,
+      "dalzhina": 24.852371,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 157,
+      "ime": "х. Вежен",
+      "shirina": 42.772221,
+      "dalzhina": 24.391099,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 158,
+      "ime": "х. Вестителят",
+      "shirina": 43.198089,
+      "dalzhina": 23.551674,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 159,
+      "ime": "х. Воеводска",
+      "shirina": 42.543215,
+      "dalzhina": 24.442271,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 160,
+      "ime": "х. Върбишки проход",
+      "shirina": 42.945214,
+      "dalzhina": 26.645925,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 161,
+      "ime": "х. Грамадлива",
+      "shirina": 42.792853,
+      "dalzhina": 25.65933,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 162,
+      "ime": "х. Дерменка",
+      "shirina": 42.73145,
+      "dalzhina": 24.680838,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 163,
+      "ime": "х. Еделвайс",
+      "shirina": 42.588487,
+      "dalzhina": 23.230279,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 164,
+      "ime": "х. Есперанто",
+      "shirina": 42.627576,
+      "dalzhina": 23.259044,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 165,
+      "ime": "х. Ехо",
+      "shirina": 42.775072,
+      "dalzhina": 24.481354,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 166,
+      "ime": "х. Заврачица",
+      "shirina": 42.168323,
+      "dalzhina": 23.640858,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 167,
+      "ime": "х. Звездица",
+      "shirina": 42.588602,
+      "dalzhina": 23.23435,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 168,
+      "ime": "х. Здравец",
+      "shirina": 42.595899,
+      "dalzhina": 23.292897,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 169,
+      "ime": "х. Здравец (бивша)",
+      "shirina": 42.780168,
+      "dalzhina": 23.915396,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 170,
+      "ime": "х. Извора",
+      "shirina": 41.414497,
+      "dalzhina": 23.557709,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 171,
+      "ime": "х. Изгрев",
+      "shirina": 41.745003,
+      "dalzhina": 24.603574,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 172,
+      "ime": "х. Камен дел",
+      "shirina": 42.624881,
+      "dalzhina": 23.265901,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 173,
+      "ime": "х. Кладова",
+      "shirina": 42.075973,
+      "dalzhina": 23.925454,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 174,
+      "ime": "х. Козя Стена",
+      "shirina": 42.785283,
+      "dalzhina": 24.529303,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 175,
+      "ime": "х. Кокалското",
+      "shirina": 42.781082,
+      "dalzhina": 24.063113,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 176,
+      "ime": "х. Коман (нова)",
+      "shirina": 42.899861,
+      "dalzhina": 24.554625,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 177,
+      "ime": "х. Коман (стара, изоставена)",
+      "shirina": 42.903748,
+      "dalzhina": 24.558418,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 178,
+      "ime": "х. Конгур",
+      "shirina": 41.347072,
+      "dalzhina": 23.18826,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 179,
+      "ime": "х. Копрен",
+      "shirina": 43.327344,
+      "dalzhina": 22.860978,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 180,
+      "ime": "х. Кукер",
+      "shirina": 42.611959,
+      "dalzhina": 23.239492,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 181,
+      "ime": "х. Кумата",
+      "shirina": 42.594495,
+      "dalzhina": 23.250614,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 182,
+      "ime": "х. Люлин (ремонт)",
+      "shirina": 42.669372,
+      "dalzhina": 23.107865,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 183,
+      "ime": "х. Мазалат",
+      "shirina": 42.758653,
+      "dalzhina": 25.114595,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 184,
+      "ime": "х. Малинка",
+      "shirina": 42.600628,
+      "dalzhina": 23.233452,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 185,
+      "ime": "х. Мандрата",
+      "shirina": 42.750281,
+      "dalzhina": 25.004893,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 186,
+      "ime": "х. Минстрой",
+      "shirina": 42.635649,
+      "dalzhina": 23.211856,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 187,
+      "ime": "х. Младост",
+      "shirina": 43.192278,
+      "dalzhina": 26.521662,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 188,
+      "ime": "х. Момина скала",
+      "shirina": 42.622995,
+      "dalzhina": 23.251312,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 189,
+      "ime": "х. Мургаш",
+      "shirina": 42.821772,
+      "dalzhina": 23.653177,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 190,
+      "ime": "х. Орлово гнездо",
+      "shirina": 42.751049,
+      "dalzhina": 24.649698,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 191,
+      "ime": "х. Офелиите",
+      "shirina": 42.598085,
+      "dalzhina": 23.234931,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 192,
+      "ime": "х. Панчо Томов",
+      "shirina": 42.602275,
+      "dalzhina": 23.233617,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 193,
+      "ime": "х. Партизанска",
+      "shirina": 42.543298,
+      "dalzhina": 24.44157,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 194,
+      "ime": "х. Партизанска песен",
+      "shirina": 42.784209,
+      "dalzhina": 25.198052,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 195,
+      "ime": "х. Патлейна",
+      "shirina": 43.12757,
+      "dalzhina": 26.825917,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 196,
+      "ime": "х. Пашалийца",
+      "shirina": 41.832067,
+      "dalzhina": 24.771967,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 197,
+      "ime": "х. Пейова Бука",
+      "shirina": 42.517287,
+      "dalzhina": 23.490718,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 198,
+      "ime": "х. Пешова мъка",
+      "shirina": 42.733863,
+      "dalzhina": 24.658983,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 199,
+      "ime": "х. Планинарска песен",
+      "shirina": 42.602404,
+      "dalzhina": 23.253271,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 200,
+      "ime": "х. Планинец",
+      "shirina": 42.6243,
+      "dalzhina": 23.239816,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 201,
+      "ime": "х. Погледец",
+      "shirina": 42.577191,
+      "dalzhina": 23.316921,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 202,
+      "ime": "х. Попови ливади",
+      "shirina": 41.553619,
+      "dalzhina": 23.63478,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 203,
+      "ime": "х. Предела",
+      "shirina": 42.797021,
+      "dalzhina": 25.676668,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 204,
+      "ime": "х. Пробойница",
+      "shirina": 43.104799,
+      "dalzhina": 23.279877,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 205,
+      "ime": "х. Пчелина",
+      "shirina": 43.464875,
+      "dalzhina": 26.47987,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 206,
+      "ime": "х. Равнища",
+      "shirina": 41.99105,
+      "dalzhina": 24.651311,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 207,
+      "ime": "х. Руй",
+      "shirina": 42.869887,
+      "dalzhina": 22.581838,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 208,
+      "ime": "х. Свежен",
+      "shirina": 42.509693,
+      "dalzhina": 25.057135,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 209,
+      "ime": "х. Септември",
+      "shirina": 42.617636,
+      "dalzhina": 23.244644,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 210,
+      "ime": "х. Славянка",
+      "shirina": 41.42306,
+      "dalzhina": 23.659496,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 211,
+      "ime": "х. Соколите",
+      "shirina": 43.186976,
+      "dalzhina": 26.530696,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 212,
+      "ime": "х. Средец",
+      "shirina": 42.622181,
+      "dalzhina": 23.260084,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 213,
+      "ime": "х. Стражата",
+      "shirina": 42.780554,
+      "dalzhina": 24.062483,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 214,
+      "ime": "х. Стрелец",
+      "shirina": 42.819215,
+      "dalzhina": 23.510257,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 215,
+      "ime": "х. Сълзица",
+      "shirina": 42.594596,
+      "dalzhina": 23.293959,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 216,
+      "ime": "х. Тихят кът",
+      "shirina": 42.765434,
+      "dalzhina": 24.148158,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 217,
+      "ime": "х. Трендафила",
+      "shirina": 42.594852,
+      "dalzhina": 23.224856,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 218,
+      "ime": "х. Физкултурник",
+      "shirina": 42.548345,
+      "dalzhina": 23.318066,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 219,
+      "ime": "х. Филхармония",
+      "shirina": 42.591541,
+      "dalzhina": 23.221801,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 220,
+      "ime": "х. Химик",
+      "shirina": 42.794385,
+      "dalzhina": 25.661431,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 221,
+      "ime": "х. Хлебна",
+      "shirina": 42.779929,
+      "dalzhina": 25.211162,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 222,
+      "ime": "х. Чавдар",
+      "shirina": 42.752677,
+      "dalzhina": 23.938408,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 223,
+      "ime": "х. Явор",
+      "shirina": 43.364915,
+      "dalzhina": 22.832542,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 224,
+      "ime": "х.Амбарица",
+      "shirina": 42.755434,
+      "dalzhina": 24.77858,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 225,
+      "ime": "х.Армеец",
+      "shirina": 42.769806,
+      "dalzhina": 25.512668,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 226,
+      "ime": "х.Балкански рози",
+      "shirina": 42.698866,
+      "dalzhina": 24.827226,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 227,
+      "ime": "х.Барикадите(изоставена)",
+      "shirina": 42.572417,
+      "dalzhina": 24.460083,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 228,
+      "ime": "х.Белмекен",
+      "shirina": 42.192797,
+      "dalzhina": 23.749187,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 229,
+      "ime": "х.Бенковски",
+      "shirina": 42.781972,
+      "dalzhina": 24.345237,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 230,
+      "ime": "х.Братан",
+      "shirina": 42.504729,
+      "dalzhina": 25.153231,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 231,
+      "ime": "х.Братия",
+      "shirina": 42.607438,
+      "dalzhina": 24.137118,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 232,
+      "ime": "х.Българка",
+      "shirina": 42.764705,
+      "dalzhina": 25.50294,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 233,
+      "ime": "х.Вада",
+      "shirina": 42.228402,
+      "dalzhina": 23.362964,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 234,
+      "ime": "х.Ведрица",
+      "shirina": 42.393881,
+      "dalzhina": 22.917667,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 235,
+      "ime": "х.Върховръх",
+      "shirina": 41.967485,
+      "dalzhina": 24.544202,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 236,
+      "ime": "х.Елица",
+      "shirina": 41.702558,
+      "dalzhina": 24.787715,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 237,
+      "ime": "х.Здравец",
+      "shirina": 42.004374,
+      "dalzhina": 24.693394,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 238,
+      "ime": "х.Ивайло",
+      "shirina": 42.771319,
+      "dalzhina": 25.509825,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 239,
+      "ime": "х.Извора-частна",
+      "shirina": 42.759583,
+      "dalzhina": 24.157024,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 240,
+      "ime": "х.Измътец",
+      "shirina": 43.15951,
+      "dalzhina": 27.409869,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 241,
+      "ime": "х.Ком (нова)",
+      "shirina": 43.188967,
+      "dalzhina": 23.080702,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 242,
+      "ime": "х.Ком (стара)",
+      "shirina": 43.181885,
+      "dalzhina": 23.07859,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 243,
+      "ime": "х.Ледницата",
+      "shirina": 41.649736,
+      "dalzhina": 24.533913,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 244,
+      "ime": "х.Ловна",
+      "shirina": 42.2289,
+      "dalzhina": 23.339005,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 245,
+      "ime": "х.Люляка",
+      "shirina": 42.891478,
+      "dalzhina": 23.174157,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 246,
+      "ime": "х.Марица",
+      "shirina": 42.190161,
+      "dalzhina": 23.640853,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 247,
+      "ime": "х.Марциганица (бивша)",
+      "shirina": 41.890282,
+      "dalzhina": 24.88358,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 248,
+      "ime": "х.Миджур",
+      "shirina": 43.428481,
+      "dalzhina": 22.717584,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 249,
+      "ime": "х.Модър",
+      "shirina": 41.904989,
+      "dalzhina": 24.521602,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 250,
+      "ime": "х.Мургана",
+      "shirina": 42.728411,
+      "dalzhina": 24.051673,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 251,
+      "ime": "х.Независимост",
+      "shirina": 42.751279,
+      "dalzhina": 25.242299,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 252,
+      "ime": "х.Орфей",
+      "shirina": 41.709694,
+      "dalzhina": 24.301853,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 253,
+      "ime": "х.Паскал",
+      "shirina": 42.745078,
+      "dalzhina": 24.194582,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 254,
+      "ime": "х.Персенк",
+      "shirina": 41.846416,
+      "dalzhina": 24.550315,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 255,
+      "ime": "х.Пионерска",
+      "shirina": 42.243697,
+      "dalzhina": 23.323245,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 256,
+      "ime": "х.Планинец",
+      "shirina": 42.770051,
+      "dalzhina": 25.512413,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 257,
+      "ime": "х.Плевен",
+      "shirina": 42.749791,
+      "dalzhina": 24.895713,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 258,
+      "ime": "х.Равнец",
+      "shirina": 42.664187,
+      "dalzhina": 24.828973,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 259,
+      "ime": "х.Русалка",
+      "shirina": 42.689655,
+      "dalzhina": 25.056158,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 260,
+      "ime": "х.Свещиплаз",
+      "shirina": 42.76633,
+      "dalzhina": 24.14612,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 261,
+      "ime": "х.Северина",
+      "shirina": 42.587395,
+      "dalzhina": 23.318434,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 262,
+      "ime": "х.Скакавица",
+      "shirina": 42.230531,
+      "dalzhina": 23.303597,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 263,
+      "ime": "х.Средногорец",
+      "shirina": 42.60704,
+      "dalzhina": 24.508905,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 264,
+      "ime": "х.Техеран(изоставена)",
+      "shirina": 41.886285,
+      "dalzhina": 24.205958,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 265,
+      "ime": "х.Трещеник",
+      "shirina": 42.077688,
+      "dalzhina": 23.631752,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 266,
+      "ime": "х.Трещеник старо",
+      "shirina": 42.080504,
+      "dalzhina": 23.628068,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 267,
+      "ime": "х.Триглав",
+      "shirina": 42.711069,
+      "dalzhina": 25.037049,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 268,
+      "ime": "х.Тъжа",
+      "shirina": 42.751266,
+      "dalzhina": 24.993854,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 269,
+      "ime": "х.Хайдушка песен",
+      "shirina": 42.806251,
+      "dalzhina": 24.525172,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 270,
+      "ime": "х.Христо Смирненски",
+      "shirina": 42.106452,
+      "dalzhina": 23.793801,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 271,
+      "ime": "х.Хубавец",
+      "shirina": 42.684336,
+      "dalzhina": 24.80911,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 272,
+      "ime": "х.Чакър войвода",
+      "shirina": 42.23001,
+      "dalzhina": 23.62905,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 273,
+      "ime": "х.Шумнатица",
+      "shirina": 42.287404,
+      "dalzhina": 23.63395,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 274,
+      "ime": "х.Яне Сандански",
+      "shirina": 41.669782,
+      "dalzhina": 23.394098,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 275,
+      "ime": "хижа \"Ерма\"",
+      "shirina": 42.845149,
+      "dalzhina": 22.649218,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 276,
+      "ime": "хижа \"Надежда\"",
+      "shirina": 42.387594,
+      "dalzhina": 23.925934,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 277,
+      "ime": "хижа \"Рудничар\"",
+      "shirina": 42.589234,
+      "dalzhina": 23.214557,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 278,
+      "ime": "хижа Академика",
+      "shirina": 41.783539,
+      "dalzhina": 23.434591,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 279,
+      "ime": "хижа Алеко",
+      "shirina": 42.582605,
+      "dalzhina": 23.292124,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 280,
+      "ime": "хижа Ахинора",
+      "shirina": 43.735178,
+      "dalzhina": 26.753106,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 281,
+      "ime": "хижа Безбог",
+      "shirina": 41.734468,
+      "dalzhina": 23.524758,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 282,
+      "ime": "хижа Богдан",
+      "shirina": 42.606364,
+      "dalzhina": 24.447543,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 283,
+      "ime": "хижа Бодрост",
+      "shirina": 42.044248,
+      "dalzhina": 23.333367,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 284,
+      "ime": "хижа Бузлуджа - нова",
+      "shirina": 42.730528,
+      "dalzhina": 25.400965,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 285,
+      "ime": "хижа Бузлуджа - стара",
+      "shirina": 42.731602,
+      "dalzhina": 25.397727,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 286,
+      "ime": "хижа Буковец",
+      "shirina": 42.789413,
+      "dalzhina": 25.887692,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 287,
+      "ime": "хижа Бъндерица",
+      "shirina": 41.769002,
+      "dalzhina": 23.426577,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 288,
+      "ime": "хижа Васильов",
+      "shirina": 42.880342,
+      "dalzhina": 24.48209,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 289,
+      "ime": "хижа Вихрен",
+      "shirina": 41.75664,
+      "dalzhina": 23.416669,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 290,
+      "ime": "хижа Горски дом Твърдица",
+      "shirina": 42.789487,
+      "dalzhina": 25.903608,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 291,
+      "ime": "хижа Грънчар",
+      "shirina": 42.121775,
+      "dalzhina": 23.593492,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 292,
+      "ime": "хижа Демяница",
+      "shirina": 41.742943,
+      "dalzhina": 23.467586,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 293,
+      "ime": "хижа Добърско",
+      "shirina": 42.006904,
+      "dalzhina": 23.463088,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 294,
+      "ime": "хижа Загаза",
+      "shirina": 41.767772,
+      "dalzhina": 23.324118,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 295,
+      "ime": "хижа Иван Вазов",
+      "shirina": 42.189697,
+      "dalzhina": 23.283426,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 296,
+      "ime": "хижа Иглика",
+      "shirina": 42.2341,
+      "dalzhina": 22.655494,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 297,
+      "ime": "хижа Книжовник",
+      "shirina": 41.82866,
+      "dalzhina": 25.578398,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 298,
+      "ime": "хижа Комитски валог",
+      "shirina": 42.783361,
+      "dalzhina": 24.230765,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 299,
+      "ime": "хижа Лагера",
+      "shirina": 41.71501,
+      "dalzhina": 23.28616,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 300,
+      "ime": "хижа Мадарски конник",
+      "shirina": 43.277875,
+      "dalzhina": 27.115922,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 301,
+      "ime": "хижа Македония",
+      "shirina": 42.047172,
+      "dalzhina": 23.439579,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 302,
+      "ime": "хижа Мащерка",
+      "shirina": 42.892351,
+      "dalzhina": 23.902854,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 303,
+      "ime": "хижа Мечи Чал",
+      "shirina": 41.693089,
+      "dalzhina": 24.667783,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 304,
+      "ime": "хижа Мечит",
+      "shirina": 42.226025,
+      "dalzhina": 23.460244,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 305,
+      "ime": "хижа Мечит (стара)",
+      "shirina": 42.225473,
+      "dalzhina": 23.460473,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 306,
+      "ime": "хижа Млековица (не функционира)",
+      "shirina": 42.142584,
+      "dalzhina": 24.016713,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 307,
+      "ime": "хижа Мура",
+      "shirina": 41.68208,
+      "dalzhina": 23.29838,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 308,
+      "ime": "хижа Осогово",
+      "shirina": 42.197411,
+      "dalzhina": 22.624242,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 309,
+      "ime": "хижа Отовица",
+      "shirina": 42.234668,
+      "dalzhina": 23.223963,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 310,
+      "ime": "хижа Павел Делирадев",
+      "shirina": 42.618275,
+      "dalzhina": 24.241892,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 311,
+      "ime": "хижа Пионер",
+      "shirina": 42.161828,
+      "dalzhina": 22.978287,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 312,
+      "ime": "хижа Равно боре",
+      "shirina": 42.129899,
+      "dalzhina": 24.104028,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 313,
+      "ime": "хижа Рибни езера",
+      "shirina": 42.11238,
+      "dalzhina": 23.493824,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 314,
+      "ime": "хижа Рилски езера",
+      "shirina": 42.219844,
+      "dalzhina": 23.321635,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 315,
+      "ime": "хижа Родни Балкани (руини)",
+      "shirina": 43.002787,
+      "dalzhina": 23.177021,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 316,
+      "ime": "хижа Рудината (не работи)",
+      "shirina": 42.844599,
+      "dalzhina": 23.848386,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 317,
+      "ime": "хижа Руен",
+      "shirina": 41.996057,
+      "dalzhina": 24.759277,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 318,
+      "ime": "хижа Сакарджа",
+      "shirina": 42.584466,
+      "dalzhina": 24.116053,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 319,
+      "ime": "хижа Седемте езера",
+      "shirina": 42.207581,
+      "dalzhina": 23.324051,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 320,
+      "ime": "хижа Седемте партизани",
+      "shirina": 42.579714,
+      "dalzhina": 24.620989,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 321,
+      "ime": "хижа Селимица",
+      "shirina": 42.572956,
+      "dalzhina": 23.203498,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 322,
+      "ime": "хижа Семково",
+      "shirina": 42.052614,
+      "dalzhina": 23.534582,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 323,
+      "ime": "хижа Синаница",
+      "shirina": 41.732472,
+      "dalzhina": 23.362485,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 324,
+      "ime": "хижа Сини връх",
+      "shirina": 41.862036,
+      "dalzhina": 25.06522,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 325,
+      "ime": "хижа Скални мостове",
+      "shirina": 41.820882,
+      "dalzhina": 24.573377,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 326,
+      "ime": "хижа Сова",
+      "shirina": 42.869776,
+      "dalzhina": 23.929805,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 327,
+      "ime": "хижа Соколна",
+      "shirina": 42.689867,
+      "dalzhina": 25.145455,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 328,
+      "ime": "хижа Среброструй",
+      "shirina": 43.344652,
+      "dalzhina": 24.651855,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 329,
+      "ime": "хижа Студенец",
+      "shirina": 41.642954,
+      "dalzhina": 24.690341,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 330,
+      "ime": "хижа Тръстеная",
+      "shirina": 43.033423,
+      "dalzhina": 23.438004,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 331,
+      "ime": "хижа Узана",
+      "shirina": 42.750855,
+      "dalzhina": 25.238502,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 332,
+      "ime": "хижа Фенера",
+      "shirina": 42.572915,
+      "dalzhina": 24.557759,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 333,
+      "ime": "хижа Хайдушка песен",
+      "shirina": 42.784972,
+      "dalzhina": 25.898798,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 334,
+      "ime": "хижа Цепина",
+      "shirina": 42.084128,
+      "dalzhina": 24.12289,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 335,
+      "ime": "хижа Чернатица",
+      "shirina": 41.986029,
+      "dalzhina": 24.69501,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 336,
+      "ime": "хижа Чивира",
+      "shirina": 42.592326,
+      "dalzhina": 24.501178,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 337,
+      "ime": "хижа Чумерна",
+      "shirina": 42.786716,
+      "dalzhina": 25.960026,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 338,
+      "ime": "хижа Яворов",
+      "shirina": 41.825637,
+      "dalzhina": 23.378143,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 339,
+      "ime": "хижа Яворов (стара)",
+      "shirina": 41.826259,
+      "dalzhina": 23.380009,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 340,
+      "ime": "хижа Яна",
+      "shirina": 42.161362,
+      "dalzhina": 22.977253,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 341,
+      "ime": "хижа на Горско стопанство",
+      "shirina": 42.627208,
+      "dalzhina": 23.232187,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    },
+    {
+      "id": 342,
+      "ime": "хотел Мусала",
+      "shirina": 42.19761,
+      "dalzhina": 23.5871,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "alpine_hut",
+      "osm_klas": "tourism=alpine_hut"
+    }
+  ],
+  "meta": {
+    "title": "Планински хижи в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Планински хижи в България — 342 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=alpine_hut`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 342 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Планински хижи в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Планински хижи в България (OpenStreetMap) — 342 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 342 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "id": "bg-khaskovo-obshtini",
+  "name": "Общини — област Хасково (Municipalities of Haskovo)",
+  "title": "Общини — област Хасково (Municipalities of Haskovo)",
+  "description": "Списък на общините в област Хасково (Haskovo oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс HKV. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 130,
+      "gisco_id": "BG_HKV09",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Димитровград",
+      "name_en": "",
+      "slug": "dimitrovgrad",
+      "population_2024": 42941,
+      "population_density_2024_per_km2": 75.66330847,
+      "area_km2": 567.52739036,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.dimitrovgrad.bg/bg/proekti-na-normativni-aktove/proekt-na-obshtinskata-programa-za-namal",
+      "comment": ""
+    },
+    {
+      "id": 131,
+      "gisco_id": "BG_HKV11",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Ивайловград",
+      "name_en": "",
+      "slug": "ivaylovgrad",
+      "population_2024": 5024,
+      "population_density_2024_per_km2": 6.1739077,
+      "area_km2": 813.74718307,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://ivaylovgrad.bg/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0-%D0%B7%D0%B0-%D0%BD%D0%B0%D0",
+      "comment": ""
+    },
+    {
+      "id": 132,
+      "gisco_id": "BG_HKV17",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Любимец",
+      "name_en": "",
+      "slug": "lyubimec",
+      "population_2024": 8656,
+      "population_density_2024_per_km2": 25.15160188,
+      "area_km2": 344.15303018,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://lyubimets.bg/images/OBSHINSKA_PROGRAMA_ZA_NAMALIAVANE_RISKA_OT_BEDSTBIA_OBSHTINA_LYUBIMETS.d",
+      "comment": ""
+    },
+    {
+      "id": 133,
+      "gisco_id": "BG_HKV18",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Маджарово",
+      "name_en": "Madzharovo",
+      "slug": "madzharovo",
+      "population_2024": 1774,
+      "population_density_2024_per_km2": 7.17666141,
+      "area_km2": 247.19014855,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 134,
+      "gisco_id": "BG_HKV19",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Минерални бани",
+      "name_en": "",
+      "slug": "mineralni-bani",
+      "population_2024": 5515,
+      "population_density_2024_per_km2": 25.69326576,
+      "area_km2": 214.64768438,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://mineralnibani.bg/docs/programi/Obshtinski%20plan%20za%20zashtita%20pri%20bedstviya.doc",
+      "comment": ""
+    },
+    {
+      "id": 143,
+      "gisco_id": "BG_HKV28",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Свиленград",
+      "name_en": "Svilengrad",
+      "slug": "svilengrad",
+      "population_2024": 20333,
+      "population_density_2024_per_km2": 29.0336866,
+      "area_km2": 700.32442943,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 144,
+      "gisco_id": "BG_HKV29",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Симеоновград",
+      "name_en": "",
+      "slug": "simeonovgrad",
+      "population_2024": 7461,
+      "population_density_2024_per_km2": 33.44728753,
+      "area_km2": 223.06741595,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.simeonovgrad.bg/article_images/source/2022%20godina/%D0%9F%D0%A0%D0%9E%D0%93%D0%A0%D0%90",
+      "comment": ""
+    },
+    {
+      "id": 145,
+      "gisco_id": "BG_HKV30",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Стамболово",
+      "name_en": "Stambolovo",
+      "slug": "stambolovo",
+      "population_2024": 6172,
+      "population_density_2024_per_km2": 22.30585794,
+      "area_km2": 276.69861505,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 146,
+      "gisco_id": "BG_HKV32",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Тополовград",
+      "name_en": "",
+      "slug": "topolovgrad",
+      "population_2024": 8675,
+      "population_density_2024_per_km2": 12.20655203,
+      "area_km2": 710.68389978,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://topolovgrad.bg/wp-content/uploads/2022/11/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%BD%D0%B0-",
+      "comment": ""
+    },
+    {
+      "id": 147,
+      "gisco_id": "BG_HKV33",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Харманли",
+      "name_en": "",
+      "slug": "harmanli",
+      "population_2024": 21228,
+      "population_density_2024_per_km2": 30.55971065,
+      "area_km2": 694.64008495,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.harmanli.bg/uploads/MyDocuments/proekt-na-obshtinska-programa-za-namalyavane-na-riska-ot",
+      "comment": ""
+    },
+    {
+      "id": 148,
+      "gisco_id": "BG_HKV34",
+      "oblast_code": "HKV",
+      "oblast_slug": "khaskovo",
+      "oblast_bg": "Хасково",
+      "oblast_en": "Haskovo",
+      "name_bg": "Хасково",
+      "name_en": "",
+      "slug": "haskovo",
+      "population_2024": 79335,
+      "population_density_2024_per_km2": 107.25663994,
+      "area_km2": 739.67448583,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.haskovo.bg/bg/deystvashti-naredbi-i-pravilnitsi/naredba-za-predvaritelni-i-prevantivni-m",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Хасково (Municipalities of Haskovo) - Безплатно изтегляне",
+    "description": "Списък на общините в област Хасково (Haskovo oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс HKV. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 11 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Хасково (Municipalities of Haskovo) | ListBase",
+    "seo_description": "Изтеглете Общини — област Хасково (Municipalities of Haskovo) — 11 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 11 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

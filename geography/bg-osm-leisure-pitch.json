@@ -1,0 +1,2437 @@
+{
+  "id": "bg-osm-leisure-pitch",
+  "name": "Спортни игрища в България (OpenStreetMap)",
+  "title": "Спортни игрища в България (OpenStreetMap)",
+  "description": "Спортни игрища в България — 264 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `leisure=pitch`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 264,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Druzhba\" Stadium",
+      "shirina": 44.007406,
+      "dalzhina": 27.165488,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 2,
+      "ime": "\"Кореняка\"",
+      "shirina": 42.685763,
+      "dalzhina": 23.293738,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 3,
+      "ime": "Action park Varna",
+      "shirina": 43.2896,
+      "dalzhina": 27.966325,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 4,
+      "ime": "Arpezos",
+      "shirina": 41.63713,
+      "dalzhina": 25.3664,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 5,
+      "ime": "Elysia",
+      "shirina": 42.697097,
+      "dalzhina": 23.339675,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 6,
+      "ime": "Five High skatepark",
+      "shirina": 42.706,
+      "dalzhina": 23.33676,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 7,
+      "ime": "Hale 3",
+      "shirina": 43.20401,
+      "dalzhina": 27.905457,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 8,
+      "ime": "Motocross",
+      "shirina": 42.468447,
+      "dalzhina": 27.412696,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 9,
+      "ime": "Motocross Pernik",
+      "shirina": 42.630737,
+      "dalzhina": 23.088822,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 10,
+      "ime": "Mountain bike park Shiloto",
+      "shirina": 42.468383,
+      "dalzhina": 27.401481,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 11,
+      "ime": "Proshooter",
+      "shirina": 42.541656,
+      "dalzhina": 25.643279,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 12,
+      "ime": "Sport Pitch Apolon",
+      "shirina": 43.202711,
+      "dalzhina": 23.570344,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 13,
+      "ime": "Sport Pitch Apolon",
+      "shirina": 43.202958,
+      "dalzhina": 23.569178,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 14,
+      "ime": "Sport Pitch Apolon",
+      "shirina": 43.203693,
+      "dalzhina": 23.568173,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 15,
+      "ime": "Strumyani",
+      "shirina": 41.633238,
+      "dalzhina": 23.201832,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 16,
+      "ime": "Tennis",
+      "shirina": 43.411462,
+      "dalzhina": 28.232447,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 17,
+      "ime": "Tennis Court",
+      "shirina": 41.932142,
+      "dalzhina": 25.896836,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 18,
+      "ime": "Tennis practice range",
+      "shirina": 42.369195,
+      "dalzhina": 27.702789,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 19,
+      "ime": "XLand",
+      "shirina": 43.089123,
+      "dalzhina": 25.646162,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 20,
+      "ime": "Академия \"ФК Спартак Варна\"",
+      "shirina": 43.221343,
+      "dalzhina": 27.895226,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 21,
+      "ime": "Арена",
+      "shirina": 42.140568,
+      "dalzhina": 24.785551,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 22,
+      "ime": "Арена Арда",
+      "shirina": 41.641047,
+      "dalzhina": 25.378001,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 23,
+      "ime": "Багдат Арена",
+      "shirina": 42.157194,
+      "dalzhina": 24.31566,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 24,
+      "ime": "Бадминтон клуб Ракетлон",
+      "shirina": 43.210915,
+      "dalzhina": 27.930259,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 25,
+      "ime": "Балкан Арена",
+      "shirina": 43.086287,
+      "dalzhina": 25.623632,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 26,
+      "ime": "Балчик",
+      "shirina": 43.408707,
+      "dalzhina": 28.15816,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 27,
+      "ime": "Баскет и волейбол",
+      "shirina": 42.521617,
+      "dalzhina": 27.44752,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 28,
+      "ime": "Баскетболно игрище",
+      "shirina": 42.271366,
+      "dalzhina": 24.944295,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 29,
+      "ime": "Баскетболно игрище",
+      "shirina": 43.383333,
+      "dalzhina": 24.631034,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 30,
+      "ime": "Баскетболно игрище",
+      "shirina": 43.994962,
+      "dalzhina": 22.868316,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 31,
+      "ime": "Биатлонно стрелбище",
+      "shirina": 41.780039,
+      "dalzhina": 23.436055,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 32,
+      "ime": "Блатото",
+      "shirina": 41.83029,
+      "dalzhina": 23.4879,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 33,
+      "ime": "Божур поляна",
+      "shirina": 43.122913,
+      "dalzhina": 25.645055,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 34,
+      "ime": "Борунската мечка",
+      "shirina": 41.692521,
+      "dalzhina": 24.828637,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 35,
+      "ime": "Градинката до Бенковски",
+      "shirina": 43.206371,
+      "dalzhina": 27.900327,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 36,
+      "ime": "Градски Несебър Стадион",
+      "shirina": 42.666893,
+      "dalzhina": 27.7049,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 37,
+      "ime": "Градски стадион Дебелец",
+      "shirina": 43.038823,
+      "dalzhina": 25.613371,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 38,
+      "ime": "Дианабад",
+      "shirina": 42.664592,
+      "dalzhina": 23.34587,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 39,
+      "ime": "ЖПУ",
+      "shirina": 42.134806,
+      "dalzhina": 24.726689,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 40,
+      "ime": "Жълтото",
+      "shirina": 42.706788,
+      "dalzhina": 23.289531,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 41,
+      "ime": "Заграденото",
+      "shirina": 43.782623,
+      "dalzhina": 23.721306,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 42,
+      "ime": "Зона за отдих Плажа",
+      "shirina": 42.586681,
+      "dalzhina": 23.422561,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 43,
+      "ime": "Игрище",
+      "shirina": 41.886151,
+      "dalzhina": 23.471976,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 44,
+      "ime": "Игрище",
+      "shirina": 42.064938,
+      "dalzhina": 25.58616,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 45,
+      "ime": "Игрище",
+      "shirina": 42.066223,
+      "dalzhina": 25.585488,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 46,
+      "ime": "Игрище",
+      "shirina": 42.07333,
+      "dalzhina": 25.454037,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 47,
+      "ime": "Игрище",
+      "shirina": 42.133452,
+      "dalzhina": 25.497048,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 48,
+      "ime": "Игрище",
+      "shirina": 42.232973,
+      "dalzhina": 24.696687,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 49,
+      "ime": "Игрище",
+      "shirina": 42.342277,
+      "dalzhina": 24.493432,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 50,
+      "ime": "Игрище",
+      "shirina": 42.40753,
+      "dalzhina": 25.639265,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 51,
+      "ime": "Игрище",
+      "shirina": 42.452969,
+      "dalzhina": 24.179926,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 52,
+      "ime": "Игрище",
+      "shirina": 42.482194,
+      "dalzhina": 25.703516,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 53,
+      "ime": "Игрище",
+      "shirina": 42.500131,
+      "dalzhina": 25.999261,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 54,
+      "ime": "Игрище",
+      "shirina": 42.542973,
+      "dalzhina": 26.101398,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 55,
+      "ime": "Игрище",
+      "shirina": 43.343531,
+      "dalzhina": 23.691129,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 56,
+      "ime": "Игрище",
+      "shirina": 43.681473,
+      "dalzhina": 23.855936,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 57,
+      "ime": "Игрище за ръгби и футбол",
+      "shirina": 42.644101,
+      "dalzhina": 23.347799,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 58,
+      "ime": "Игрище за тенис",
+      "shirina": 42.292873,
+      "dalzhina": 25.931434,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 59,
+      "ime": "Игрище за тенис",
+      "shirina": 42.293218,
+      "dalzhina": 25.930751,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 60,
+      "ime": "Игрище за хандбал",
+      "shirina": 42.28958,
+      "dalzhina": 24.968378,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 61,
+      "ime": "Квартален стадион",
+      "shirina": 43.430397,
+      "dalzhina": 23.945563,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 62,
+      "ime": "Керамик",
+      "shirina": 42.627042,
+      "dalzhina": 23.577516,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 63,
+      "ime": "Конна база",
+      "shirina": 42.510816,
+      "dalzhina": 27.482795,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 64,
+      "ime": "Конна база Адгор",
+      "shirina": 42.476294,
+      "dalzhina": 23.332459,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 65,
+      "ime": "Конна база Симекс",
+      "shirina": 42.524028,
+      "dalzhina": 26.48135,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 66,
+      "ime": "Корона",
+      "shirina": 42.126054,
+      "dalzhina": 24.790481,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 67,
+      "ime": "Кортове Надежда",
+      "shirina": 42.735125,
+      "dalzhina": 23.287773,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 68,
+      "ime": "Летен театър",
+      "shirina": 41.740114,
+      "dalzhina": 24.399504,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 69,
+      "ime": "Ловно стрелбище",
+      "shirina": 42.497765,
+      "dalzhina": 26.505611,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 70,
+      "ime": "Лостовете",
+      "shirina": 42.632563,
+      "dalzhina": 25.405368,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 71,
+      "ime": "Макси клуб",
+      "shirina": 42.641482,
+      "dalzhina": 23.332647,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 72,
+      "ime": "Мара Бунева",
+      "shirina": 42.720115,
+      "dalzhina": 23.331026,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 73,
+      "ime": "Мини футбoлно игрище",
+      "shirina": 42.962536,
+      "dalzhina": 23.348755,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 74,
+      "ime": "Мотокрос полигон",
+      "shirina": 43.612236,
+      "dalzhina": 28.049008,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 75,
+      "ime": "Не се сърди, човече",
+      "shirina": 42.714692,
+      "dalzhina": 23.245726,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 76,
+      "ime": "Оптимум",
+      "shirina": 42.125881,
+      "dalzhina": 24.771483,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 77,
+      "ime": "Открито стрелбище на МВР",
+      "shirina": 42.68316,
+      "dalzhina": 23.369357,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 78,
+      "ime": "Пейнтбол София",
+      "shirina": 42.716268,
+      "dalzhina": 23.252949,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 79,
+      "ime": "Плажен тенис",
+      "shirina": 43.199823,
+      "dalzhina": 27.92221,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 80,
+      "ime": "Работнически",
+      "shirina": 42.120288,
+      "dalzhina": 24.753495,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 81,
+      "ime": "Ръгби стадион",
+      "shirina": 42.712946,
+      "dalzhina": 23.327869,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 82,
+      "ime": "СТАДИОН",
+      "shirina": 42.035126,
+      "dalzhina": 23.995819,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 83,
+      "ime": "Скейт Парк Стара Загора",
+      "shirina": 42.416671,
+      "dalzhina": 25.614686,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 84,
+      "ime": "Скейт парк",
+      "shirina": 42.525779,
+      "dalzhina": 27.464269,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 85,
+      "ime": "Скейт парк",
+      "shirina": 43.560013,
+      "dalzhina": 27.825641,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 86,
+      "ime": "Скейтборд площадка",
+      "shirina": 41.943218,
+      "dalzhina": 25.542837,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 87,
+      "ime": "София падел клуб",
+      "shirina": 42.636601,
+      "dalzhina": 23.317289,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 88,
+      "ime": "Спорт и уроци по тенис",
+      "shirina": 42.161687,
+      "dalzhina": 27.858402,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 89,
+      "ime": "Спортен комплекс Арена",
+      "shirina": 42.483137,
+      "dalzhina": 26.492345,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 90,
+      "ime": "Спортен комплекс на \"Университета по хранителни технологии\"",
+      "shirina": 42.151554,
+      "dalzhina": 24.718285,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 91,
+      "ime": "Спортен терен за хокей на трева и крикет",
+      "shirina": 42.643755,
+      "dalzhina": 23.346685,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 92,
+      "ime": "Спортна площадка",
+      "shirina": 42.604723,
+      "dalzhina": 25.538736,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 93,
+      "ime": "Спортна площадка",
+      "shirina": 44.024081,
+      "dalzhina": 27.021882,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 94,
+      "ime": "Спрелбище за биатлон",
+      "shirina": 42.147384,
+      "dalzhina": 23.77395,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 95,
+      "ime": "Стадион",
+      "shirina": 41.591819,
+      "dalzhina": 24.064644,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 96,
+      "ime": "Стадион",
+      "shirina": 41.979727,
+      "dalzhina": 24.086543,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 97,
+      "ime": "Стадион",
+      "shirina": 42.03008,
+      "dalzhina": 24.367308,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 98,
+      "ime": "Стадион",
+      "shirina": 42.077678,
+      "dalzhina": 24.669916,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 99,
+      "ime": "Стадион",
+      "shirina": 42.241295,
+      "dalzhina": 24.809427,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 100,
+      "ime": "Стадион",
+      "shirina": 42.285048,
+      "dalzhina": 24.736037,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 101,
+      "ime": "Стадион",
+      "shirina": 43.012723,
+      "dalzhina": 23.043207,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 102,
+      "ime": "Стадион",
+      "shirina": 43.24748,
+      "dalzhina": 24.49564,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 103,
+      "ime": "Стадион",
+      "shirina": 43.420507,
+      "dalzhina": 23.948389,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 104,
+      "ime": "Стадион",
+      "shirina": 43.803995,
+      "dalzhina": 26.101406,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 105,
+      "ime": "Стадион",
+      "shirina": 43.812455,
+      "dalzhina": 27.11882,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 106,
+      "ime": "Стадион",
+      "shirina": 43.823692,
+      "dalzhina": 27.14662,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 107,
+      "ime": "Стадион \"Бели Пътеки\"",
+      "shirina": 43.60479,
+      "dalzhina": 25.008399,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 108,
+      "ime": "Стадион \"Георги Бенковски\"",
+      "shirina": 42.107524,
+      "dalzhina": 24.221504,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 109,
+      "ime": "Стадион \"ММЦ\"",
+      "shirina": 42.249468,
+      "dalzhina": 27.747155,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 110,
+      "ime": "Стадион \"Миньор\"",
+      "shirina": 43.384725,
+      "dalzhina": 22.889307,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 111,
+      "ime": "Стадион \"Младост\"",
+      "shirina": 41.929464,
+      "dalzhina": 25.568036,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 112,
+      "ime": "Стадион \"Русенски университет\"",
+      "shirina": 43.853318,
+      "dalzhina": 25.974458,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 113,
+      "ime": "Стадион \"Самуилово\"",
+      "shirina": 41.373504,
+      "dalzhina": 23.087194,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 114,
+      "ime": "Стадион \"Смолян\"",
+      "shirina": 41.574658,
+      "dalzhina": 24.698955,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 115,
+      "ime": "Стадион Албена",
+      "shirina": 43.365139,
+      "dalzhina": 28.06973,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 116,
+      "ime": "Стадион Белите Орли",
+      "shirina": 43.407216,
+      "dalzhina": 24.607778,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 117,
+      "ime": "Стадион Георги Бенковски",
+      "shirina": 42.210856,
+      "dalzhina": 24.322716,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 118,
+      "ime": "Стадион ДЮФК Янтра 2013",
+      "shirina": 42.873843,
+      "dalzhina": 25.333878,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 119,
+      "ime": "Стадион Златен Рог",
+      "shirina": 44.026224,
+      "dalzhina": 22.952693,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 120,
+      "ime": "Стадион Крислово",
+      "shirina": 42.245385,
+      "dalzhina": 24.794035,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 121,
+      "ime": "Стадион Минерал",
+      "shirina": 42.584809,
+      "dalzhina": 23.164346,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 122,
+      "ime": "Стадион ПЖИ - Тодор Каблешков",
+      "shirina": 42.680494,
+      "dalzhina": 23.383797,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 123,
+      "ime": "Стадион Петър Шатров",
+      "shirina": 43.070986,
+      "dalzhina": 25.549225,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 124,
+      "ime": "Стадион Плевен",
+      "shirina": 43.412656,
+      "dalzhina": 24.608545,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 125,
+      "ime": "Стадион Раковски",
+      "shirina": 42.278931,
+      "dalzhina": 24.955136,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 126,
+      "ime": "Стадион Скала",
+      "shirina": 43.021939,
+      "dalzhina": 23.360729,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 127,
+      "ime": "Стадион Сливнишки Герой",
+      "shirina": 42.858287,
+      "dalzhina": 23.032104,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 128,
+      "ime": "Стадион Струма",
+      "shirina": 41.890883,
+      "dalzhina": 23.115049,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 129,
+      "ime": "Стадион Тополи",
+      "shirina": 43.217692,
+      "dalzhina": 27.825617,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 130,
+      "ime": "Стадион Требич",
+      "shirina": 42.77535,
+      "dalzhina": 23.318212,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 131,
+      "ime": "Стадион Хеброс",
+      "shirina": 41.921239,
+      "dalzhina": 25.902977,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 132,
+      "ime": "Стадион Чавдар",
+      "shirina": 43.477038,
+      "dalzhina": 23.950198,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 133,
+      "ime": "Стадион Чумерна",
+      "shirina": 42.925373,
+      "dalzhina": 25.877552,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 134,
+      "ime": "Стадион с. Пожарево",
+      "shirina": 42.75286,
+      "dalzhina": 23.13002,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 135,
+      "ime": "Стадион „Титан“",
+      "shirina": 42.649416,
+      "dalzhina": 23.635,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 136,
+      "ime": "Стадиона",
+      "shirina": 41.977731,
+      "dalzhina": 25.051665,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 137,
+      "ime": "Стадиона",
+      "shirina": 43.102725,
+      "dalzhina": 25.7108,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 138,
+      "ime": "Стадиона на Долна Вереница",
+      "shirina": 43.432959,
+      "dalzhina": 23.130199,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 139,
+      "ime": "Стрелбище",
+      "shirina": 42.431989,
+      "dalzhina": 25.667518,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 140,
+      "ime": "Стрелбище",
+      "shirina": 42.513764,
+      "dalzhina": 24.192796,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 141,
+      "ime": "Стрелбище",
+      "shirina": 43.524786,
+      "dalzhina": 28.525838,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 142,
+      "ime": "Стрелбищен комплекс СЛРД Хасково",
+      "shirina": 41.963666,
+      "dalzhina": 25.501333,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 143,
+      "ime": "Стрелкови клуб Кондор",
+      "shirina": 42.687714,
+      "dalzhina": 27.692965,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 144,
+      "ime": "Тенис Клуб \"Албена\"",
+      "shirina": 42.14774,
+      "dalzhina": 24.718265,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 145,
+      "ime": "Тенис Клуб \"Черно Море-Елит\"",
+      "shirina": 43.20802,
+      "dalzhina": 27.928972,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 146,
+      "ime": "Тенис игрище Младост",
+      "shirina": 43.233937,
+      "dalzhina": 27.878832,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 147,
+      "ime": "Тенис клуб \"Плевен 90\"",
+      "shirina": 43.382248,
+      "dalzhina": 24.631236,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 148,
+      "ime": "Тенис клуб ВЕЛТО",
+      "shirina": 43.212647,
+      "dalzhina": 27.949152,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 149,
+      "ime": "Тенис корт",
+      "shirina": 42.258267,
+      "dalzhina": 23.581684,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 150,
+      "ime": "Тенис корт",
+      "shirina": 42.510998,
+      "dalzhina": 27.480515,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 151,
+      "ime": "Тенис корт",
+      "shirina": 42.511595,
+      "dalzhina": 27.480856,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 152,
+      "ime": "Тенис корт",
+      "shirina": 42.963501,
+      "dalzhina": 23.348416,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 153,
+      "ime": "Тенис кортове",
+      "shirina": 42.030573,
+      "dalzhina": 24.29505,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 154,
+      "ime": "Тенис кортове",
+      "shirina": 42.511803,
+      "dalzhina": 27.479404,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 155,
+      "ime": "Тенис кортове",
+      "shirina": 43.476267,
+      "dalzhina": 23.951135,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 156,
+      "ime": "Тенис кортове \"Пиронкови\"",
+      "shirina": 42.137331,
+      "dalzhina": 24.687719,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 157,
+      "ime": "Тенис на корт",
+      "shirina": 41.885802,
+      "dalzhina": 23.108323,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 158,
+      "ime": "Тенискортове",
+      "shirina": 43.411873,
+      "dalzhina": 24.611649,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 159,
+      "ime": "Тренировъчни стадиони",
+      "shirina": 42.775472,
+      "dalzhina": 23.319858,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 160,
+      "ime": "Тренировъчно игрище",
+      "shirina": 42.433937,
+      "dalzhina": 25.613973,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 161,
+      "ime": "Тренировъчно игрище",
+      "shirina": 42.963146,
+      "dalzhina": 23.348708,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 162,
+      "ime": "Тренировъчно игрище",
+      "shirina": 43.84447,
+      "dalzhina": 25.977377,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 163,
+      "ime": "Уличен фитнес - Възраждане",
+      "shirina": 43.238885,
+      "dalzhina": 27.880232,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 164,
+      "ime": "Училищно игрище",
+      "shirina": 41.381762,
+      "dalzhina": 25.090649,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 165,
+      "ime": "Училищно игрище",
+      "shirina": 41.382458,
+      "dalzhina": 25.090388,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 166,
+      "ime": "Училищно игрище",
+      "shirina": 41.740964,
+      "dalzhina": 24.021246,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 167,
+      "ime": "Училищно игрище",
+      "shirina": 41.886971,
+      "dalzhina": 23.461322,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 168,
+      "ime": "Училищно игрище",
+      "shirina": 42.053258,
+      "dalzhina": 25.582074,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 169,
+      "ime": "Училищно игрище",
+      "shirina": 42.200142,
+      "dalzhina": 25.318482,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 170,
+      "ime": "Училищно игрище",
+      "shirina": 42.236652,
+      "dalzhina": 24.685398,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 171,
+      "ime": "Училищно игрище",
+      "shirina": 42.267008,
+      "dalzhina": 24.546362,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 172,
+      "ime": "Училищно игрище",
+      "shirina": 42.270281,
+      "dalzhina": 24.938805,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 173,
+      "ime": "Училищно игрище",
+      "shirina": 42.28975,
+      "dalzhina": 24.96815,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 174,
+      "ime": "Училищно игрище",
+      "shirina": 42.397917,
+      "dalzhina": 25.643483,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 175,
+      "ime": "Училищно игрище",
+      "shirina": 42.439969,
+      "dalzhina": 25.846808,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 176,
+      "ime": "Училищно игрище",
+      "shirina": 42.502265,
+      "dalzhina": 26.014316,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 177,
+      "ime": "Училищно игрище",
+      "shirina": 42.574095,
+      "dalzhina": 25.745411,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 178,
+      "ime": "Училищно игрище",
+      "shirina": 42.593026,
+      "dalzhina": 25.210837,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 179,
+      "ime": "Училищно игрище",
+      "shirina": 42.602259,
+      "dalzhina": 25.548171,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 180,
+      "ime": "Училищно игрище",
+      "shirina": 42.64796,
+      "dalzhina": 25.2158,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 181,
+      "ime": "Училищно игрище",
+      "shirina": 42.666976,
+      "dalzhina": 25.377754,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 182,
+      "ime": "Училищно игрище",
+      "shirina": 42.670442,
+      "dalzhina": 25.406849,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 183,
+      "ime": "Училищно игрище",
+      "shirina": 42.677557,
+      "dalzhina": 25.193323,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 184,
+      "ime": "Училищно игрище",
+      "shirina": 43.686597,
+      "dalzhina": 23.853127,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 185,
+      "ime": "ФК \"Люлин\"",
+      "shirina": 42.723427,
+      "dalzhina": 23.253778,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 186,
+      "ime": "ФК ''Адаспорт'' Острово",
+      "shirina": 43.683641,
+      "dalzhina": 26.611454,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 187,
+      "ime": "ФК Железница",
+      "shirina": 42.541809,
+      "dalzhina": 23.364245,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 188,
+      "ime": "ФК Хайдут",
+      "shirina": 43.479885,
+      "dalzhina": 23.287785,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 189,
+      "ime": "Физкултурен салон",
+      "shirina": 42.507372,
+      "dalzhina": 27.470306,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 190,
+      "ime": "Фитнес на открито",
+      "shirina": 43.270302,
+      "dalzhina": 27.937121,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 191,
+      "ime": "Футболен Клуб Виктори",
+      "shirina": 42.689433,
+      "dalzhina": 23.347861,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 192,
+      "ime": "Футболно игрище",
+      "shirina": 41.378401,
+      "dalzhina": 25.253725,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 193,
+      "ime": "Футболно игрище",
+      "shirina": 41.432575,
+      "dalzhina": 24.867999,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 194,
+      "ime": "Футболно игрище",
+      "shirina": 41.779116,
+      "dalzhina": 25.640875,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 195,
+      "ime": "Футболно игрище",
+      "shirina": 42.057614,
+      "dalzhina": 25.264653,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 196,
+      "ime": "Футболно игрище",
+      "shirina": 42.064623,
+      "dalzhina": 25.584578,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 197,
+      "ime": "Футболно игрище",
+      "shirina": 42.071533,
+      "dalzhina": 25.514213,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 198,
+      "ime": "Футболно игрище",
+      "shirina": 42.211154,
+      "dalzhina": 25.172627,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 199,
+      "ime": "Футболно игрище",
+      "shirina": 42.213148,
+      "dalzhina": 25.232509,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 200,
+      "ime": "Футболно игрище",
+      "shirina": 42.224608,
+      "dalzhina": 24.331547,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 201,
+      "ime": "Футболно игрище",
+      "shirina": 42.227206,
+      "dalzhina": 24.298834,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 202,
+      "ime": "Футболно игрище",
+      "shirina": 42.249346,
+      "dalzhina": 24.31705,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 203,
+      "ime": "Футболно игрище",
+      "shirina": 42.258508,
+      "dalzhina": 23.581713,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 204,
+      "ime": "Футболно игрище",
+      "shirina": 42.316574,
+      "dalzhina": 24.888849,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 205,
+      "ime": "Футболно игрище",
+      "shirina": 42.343044,
+      "dalzhina": 24.933281,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 206,
+      "ime": "Футболно игрище",
+      "shirina": 42.348684,
+      "dalzhina": 24.886655,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 207,
+      "ime": "Футболно игрище",
+      "shirina": 42.354061,
+      "dalzhina": 25.826882,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 208,
+      "ime": "Футболно игрище",
+      "shirina": 42.397455,
+      "dalzhina": 24.915637,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 209,
+      "ime": "Футболно игрище",
+      "shirina": 42.416935,
+      "dalzhina": 25.799417,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 210,
+      "ime": "Футболно игрище",
+      "shirina": 42.47377,
+      "dalzhina": 26.393709,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 211,
+      "ime": "Футболно игрище",
+      "shirina": 42.480175,
+      "dalzhina": 25.774876,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 212,
+      "ime": "Футболно игрище",
+      "shirina": 42.544365,
+      "dalzhina": 25.445022,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 213,
+      "ime": "Футболно игрище",
+      "shirina": 42.549155,
+      "dalzhina": 26.691036,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 214,
+      "ime": "Футболно игрище",
+      "shirina": 42.560704,
+      "dalzhina": 25.422668,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 215,
+      "ime": "Футболно игрище",
+      "shirina": 42.565478,
+      "dalzhina": 24.904026,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 216,
+      "ime": "Футболно игрище",
+      "shirina": 42.580562,
+      "dalzhina": 25.45344,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 217,
+      "ime": "Футболно игрище",
+      "shirina": 42.600128,
+      "dalzhina": 25.097006,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 218,
+      "ime": "Футболно игрище",
+      "shirina": 42.655034,
+      "dalzhina": 25.213248,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 219,
+      "ime": "Футболно игрище",
+      "shirina": 42.6576,
+      "dalzhina": 25.457396,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 220,
+      "ime": "Футболно игрище",
+      "shirina": 42.691701,
+      "dalzhina": 25.325912,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 221,
+      "ime": "Футболно игрище",
+      "shirina": 43.059436,
+      "dalzhina": 25.041933,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 222,
+      "ime": "Футболно игрище",
+      "shirina": 43.225188,
+      "dalzhina": 26.995821,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 223,
+      "ime": "Футболно игрище",
+      "shirina": 43.311945,
+      "dalzhina": 26.710009,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 224,
+      "ime": "Футболно игрище",
+      "shirina": 43.691709,
+      "dalzhina": 23.847078,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 225,
+      "ime": "Футболно игрище",
+      "shirina": 43.748311,
+      "dalzhina": 27.022348,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 226,
+      "ime": "Футболно игрище",
+      "shirina": 43.806255,
+      "dalzhina": 26.956642,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 227,
+      "ime": "Футболно игрище",
+      "shirina": 43.840965,
+      "dalzhina": 27.009969,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 228,
+      "ime": "Футболно игрище",
+      "shirina": 43.878138,
+      "dalzhina": 26.99708,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 229,
+      "ime": "Футболно игрище",
+      "shirina": 43.942261,
+      "dalzhina": 26.199645,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 230,
+      "ime": "Футболно игрище",
+      "shirina": 43.978989,
+      "dalzhina": 26.403675,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 231,
+      "ime": "Футболно игрище",
+      "shirina": 44.080206,
+      "dalzhina": 27.247336,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 232,
+      "ime": "Футболно игрище \"Карандила\"",
+      "shirina": 42.717057,
+      "dalzhina": 26.37501,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 233,
+      "ime": "Футболно игрище - Люлин 6",
+      "shirina": 42.710909,
+      "dalzhina": 23.248521,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 234,
+      "ime": "Футболно игрище ФК Сарата",
+      "shirina": 42.470971,
+      "dalzhina": 23.01124,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 235,
+      "ime": "Хандбално игрище",
+      "shirina": 42.354479,
+      "dalzhina": 26.088138,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 236,
+      "ime": "Хандбално игрище",
+      "shirina": 42.499023,
+      "dalzhina": 24.714555,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 237,
+      "ime": "Хиподрум",
+      "shirina": 43.365875,
+      "dalzhina": 28.069937,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 238,
+      "ime": "Хокей с ролери",
+      "shirina": 43.231099,
+      "dalzhina": 27.884503,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 239,
+      "ime": "Централен корт",
+      "shirina": 41.947166,
+      "dalzhina": 25.541699,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 240,
+      "ime": "Циганското",
+      "shirina": 41.841019,
+      "dalzhina": 23.4815,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 241,
+      "ime": "Юнак",
+      "shirina": 43.158026,
+      "dalzhina": 25.964355,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 242,
+      "ime": "конна база Здравец",
+      "shirina": 42.967995,
+      "dalzhina": 23.781855,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 243,
+      "ime": "корт 1",
+      "shirina": 42.717032,
+      "dalzhina": 23.285678,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 244,
+      "ime": "корт 2",
+      "shirina": 42.716954,
+      "dalzhina": 23.285496,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 245,
+      "ime": "корт 3",
+      "shirina": 42.716864,
+      "dalzhina": 23.285298,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 246,
+      "ime": "корт 4",
+      "shirina": 42.716791,
+      "dalzhina": 23.285125,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 247,
+      "ime": "мотописта Каменар",
+      "shirina": 43.267332,
+      "dalzhina": 27.908688,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 248,
+      "ime": "скейт парк Шумен",
+      "shirina": 43.276318,
+      "dalzhina": 26.937494,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 249,
+      "ime": "спортна площадка",
+      "shirina": 41.98951,
+      "dalzhina": 24.090358,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 250,
+      "ime": "стадион",
+      "shirina": 42.775272,
+      "dalzhina": 23.248592,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 251,
+      "ime": "стадион",
+      "shirina": 43.462043,
+      "dalzhina": 24.524432,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 252,
+      "ime": "стадион \"Христо Ботев\"",
+      "shirina": 42.604749,
+      "dalzhina": 22.953994,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 253,
+      "ime": "стрелба с лък",
+      "shirina": 41.737957,
+      "dalzhina": 26.083049,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 254,
+      "ime": "стрелбище",
+      "shirina": 42.95159,
+      "dalzhina": 25.354957,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 255,
+      "ime": "тенис клуб Русалка",
+      "shirina": 43.415762,
+      "dalzhina": 28.512863,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 256,
+      "ime": "тенис кортове",
+      "shirina": 43.415582,
+      "dalzhina": 28.512121,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 257,
+      "ime": "тренировачно игрище",
+      "shirina": 43.477571,
+      "dalzhina": 23.952842,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 258,
+      "ime": "футболно игрище",
+      "shirina": 41.937751,
+      "dalzhina": 24.209044,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 259,
+      "ime": "№1",
+      "shirina": 41.946673,
+      "dalzhina": 25.541491,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 260,
+      "ime": "№2",
+      "shirina": 41.946316,
+      "dalzhina": 25.541732,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 261,
+      "ime": "№3",
+      "shirina": 41.946705,
+      "dalzhina": 25.541895,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 262,
+      "ime": "№4",
+      "shirina": 41.946757,
+      "dalzhina": 25.542101,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 263,
+      "ime": "№5",
+      "shirina": 41.946397,
+      "dalzhina": 25.542027,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    },
+    {
+      "id": 264,
+      "ime": "№6",
+      "shirina": 41.946381,
+      "dalzhina": 25.542262,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "pitch",
+      "osm_klas": "leisure=pitch"
+    }
+  ],
+  "meta": {
+    "title": "Спортни игрища в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Спортни игрища в България — 264 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `leisure=pitch`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 264 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Спортни игрища в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Спортни игрища в България (OpenStreetMap) — 264 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 264 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

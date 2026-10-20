@@ -1,0 +1,237 @@
+{
+  "id": "bg-dobrich-obshtini",
+  "name": "Общини — област Добрич (Municipalities of Dobrich)",
+  "title": "Общини — област Добрич (Municipalities of Dobrich)",
+  "description": "Списък на общините в област Добрич (Dobrich oblast). 8 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс DOB. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 109,
+      "gisco_id": "BG_DOB03",
+      "oblast_code": "DOB",
+      "oblast_slug": "dobrich",
+      "oblast_bg": "Добрич",
+      "oblast_en": "Dobrich",
+      "name_bg": "Балчик",
+      "name_en": "",
+      "slug": "balchik",
+      "population_2024": 16341,
+      "population_density_2024_per_km2": 31.14921725,
+      "area_km2": 524.60387265,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.balchik.bg/files/info_pages/0_.pdf",
+      "comment": ""
+    },
+    {
+      "id": 110,
+      "gisco_id": "BG_DOB12",
+      "oblast_code": "DOB",
+      "oblast_slug": "dobrich",
+      "oblast_bg": "Добрич",
+      "oblast_en": "Dobrich",
+      "name_bg": "Генерал Тошево",
+      "name_en": "",
+      "slug": "general-toshevo",
+      "population_2024": 10782,
+      "population_density_2024_per_km2": 10.98192356,
+      "area_km2": 981.7952146,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://toshevo.org/g/wp-content/uploads/2018/11/%D0%9F%D0%BB%D0%B0%D0%BD-%D0%B7%D0%B0-%D0%B7%D0%B0%",
+      "comment": ""
+    },
+    {
+      "id": 111,
+      "gisco_id": "BG_DOB15",
+      "oblast_code": "DOB",
+      "oblast_slug": "dobrich",
+      "oblast_bg": "Добрич",
+      "oblast_en": "Dobrich",
+      "name_bg": "Добрич-селска",
+      "name_en": "",
+      "slug": "dobrich-selska",
+      "population_2024": 70411,
+      "population_density_2024_per_km2": 54.37492114,
+      "area_km2": 1294.91682054,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.dobrich.bg/uploads/posts/2019/Plan_Bedstvia_2019.pdf",
+      "comment": ""
+    },
+    {
+      "id": 112,
+      "gisco_id": "BG_DOB17",
+      "oblast_code": "DOB",
+      "oblast_slug": "dobrich",
+      "oblast_bg": "Добрич",
+      "oblast_en": "Dobrich",
+      "name_bg": "Каварна",
+      "name_en": "",
+      "slug": "kavarna",
+      "population_2024": 12928,
+      "population_density_2024_per_km2": 26.83648997,
+      "area_km2": 481.73214956,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.kavarna.bg/umbraco/surface/DownloadService/kavarna7707.pdf?id=42876",
+      "comment": ""
+    },
+    {
+      "id": 113,
+      "gisco_id": "BG_DOB20",
+      "oblast_code": "DOB",
+      "oblast_slug": "dobrich",
+      "oblast_bg": "Добрич",
+      "oblast_en": "Dobrich",
+      "name_bg": "Крушари",
+      "name_en": "",
+      "slug": "krushari",
+      "population_2024": 3162,
+      "population_density_2024_per_km2": 7.57410555,
+      "area_km2": 417.47503773,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.krushari.bg/files/info_pages/_2-2019.pdf",
+      "comment": ""
+    },
+    {
+      "id": 114,
+      "gisco_id": "BG_DOB27",
+      "oblast_code": "DOB",
+      "oblast_slug": "dobrich",
+      "oblast_bg": "Добрич",
+      "oblast_en": "Dobrich",
+      "name_bg": "Тервел",
+      "name_en": "",
+      "slug": "tervel",
+      "population_2024": 11935,
+      "population_density_2024_per_km2": 20.58459801,
+      "area_km2": 579.80243258,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.tervel.bg/programi/2023/Programa%20NRB%20Tervel%202023-2025.pdf",
+      "comment": ""
+    },
+    {
+      "id": 115,
+      "gisco_id": "BG_DOB28",
+      "oblast_code": "DOB",
+      "oblast_slug": "dobrich",
+      "oblast_bg": "Добрич",
+      "oblast_en": "Dobrich",
+      "name_bg": "Добрич",
+      "name_en": "",
+      "slug": "dobrich",
+      "population_2024": 17232,
+      "population_density_2024_per_km2": 158.05979942,
+      "area_km2": 109.02202877,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.dobrich.bg/uploads/posts/2019/Plan_Bedstvia_2019.pdf",
+      "comment": ""
+    },
+    {
+      "id": 116,
+      "gisco_id": "BG_DOB29",
+      "oblast_code": "DOB",
+      "oblast_slug": "dobrich",
+      "oblast_bg": "Добрич",
+      "oblast_en": "Dobrich",
+      "name_bg": "Шабла",
+      "name_en": "",
+      "slug": "shabla",
+      "population_2024": 3844,
+      "population_density_2024_per_km2": 11.62872725,
+      "area_km2": 330.56068102,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://shabla.bg/wp-content/uploads/2024/08/proekt-na-obsthinska-plan-programa-za-bedstviya-i-avari",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Добрич (Municipalities of Dobrich) - Безплатно изтегляне",
+    "description": "Списък на общините в област Добрич (Dobrich oblast). 8 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс DOB. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Добрич (Municipalities of Dobrich) | ListBase",
+    "seo_description": "Изтеглете Общини — област Добрич (Municipalities of Dobrich) — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

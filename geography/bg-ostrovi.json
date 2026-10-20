@@ -1,0 +1,522 @@
+{
+  "id": "bg-ostrovi",
+  "name": "Острови в България",
+  "title": "Острови в България",
+  "description": "Islands in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q21786726",
+      "name_bg": "",
+      "name_en": "Banka Lakhna",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.539166666,
+      "longitude": 27.583888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21786726"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q21781818",
+      "name_bg": "",
+      "name_en": "Burgaski rifove",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.48333,
+      "longitude": 27.5,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21781818"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q21779373",
+      "name_bg": "",
+      "name_en": "Pomorijski Rif",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.56667,
+      "longitude": 27.65,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21779373"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q21778126",
+      "name_bg": "",
+      "name_en": "Stavrova Banka",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.51839,
+      "longitude": 27.65699,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21778126"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q25487243",
+      "name_bg": "Адата",
+      "name_en": "",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.1559,
+      "longitude": 24.76369,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25487243"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q20498705",
+      "name_bg": "Алеко",
+      "name_en": "Aleko",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.968611111,
+      "longitude": 26.125,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20498705"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12272996",
+      "name_bg": "Батин",
+      "name_en": "Batin Island",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.679166666,
+      "longitude": 25.676388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12272996"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q815393",
+      "name_bg": "Белене",
+      "name_en": "Belene Island",
+      "admin_area_bg": "Белене",
+      "admin_area_en": "Belene",
+      "latitude": 43.67,
+      "longitude": 25.19,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q815393"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q20500009",
+      "name_bg": "Белица",
+      "name_en": "Belitsa",
+      "admin_area_bg": "Белене",
+      "admin_area_en": "Belene",
+      "latitude": 43.645555555,
+      "longitude": 25.158333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500009"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q21783419",
+      "name_bg": "Богдан",
+      "name_en": "Ostrov Bogdan",
+      "admin_area_bg": "Видин",
+      "admin_area_en": "Vidin",
+      "latitude": 43.9225,
+      "longitude": 22.85139,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21783419"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q20500475",
+      "name_bg": "Борил",
+      "name_en": "Boril",
+      "admin_area_bg": "Плевен",
+      "admin_area_en": "Pleven",
+      "latitude": 43.733333333,
+      "longitude": 24.414166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500475"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q3622013",
+      "name_bg": "Вардим",
+      "name_en": "Vardim Island",
+      "admin_area_bg": "Велико Търново",
+      "admin_area_en": "Veliko Tarnovo",
+      "latitude": 43.628611111,
+      "longitude": 25.478611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3622013"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q7107782",
+      "name_bg": "Ветрен",
+      "name_en": "Island Vetren",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.140833333,
+      "longitude": 27.0725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7107782"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q20501048",
+      "name_bg": "Гарван",
+      "name_en": "Garvan",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.124166666,
+      "longitude": 26.906388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20501048"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q20497286",
+      "name_bg": "Голям Бръшлен",
+      "name_en": "Golyam Brashlen",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.035277777,
+      "longitude": 26.383055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497286"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q20497298",
+      "name_bg": "Голяма Бързина",
+      "name_en": "",
+      "admin_area_bg": "Белене",
+      "admin_area_en": "Belene",
+      "latitude": 43.689722222,
+      "longitude": 25.173611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497298"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q20498577",
+      "name_bg": "Добрина",
+      "name_en": "Dobrina",
+      "admin_area_bg": "Лом",
+      "admin_area_en": "Lom",
+      "latitude": 43.800555555,
+      "longitude": 23.011666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20498577"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q54406788",
+      "name_bg": "Дойчов остров",
+      "name_en": "",
+      "admin_area_bg": "Борово",
+      "admin_area_en": "Borovo",
+      "latitude": 43.682777777,
+      "longitude": 25.658611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54406788"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q20499141",
+      "name_bg": "Езика",
+      "name_en": "",
+      "admin_area_bg": "Оряхово",
+      "admin_area_en": "Oryahovo",
+      "latitude": 43.709166666,
+      "longitude": 24.053055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20499141"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q12349285",
+      "name_bg": "Есперанто",
+      "name_en": "Esperanto island",
+      "admin_area_bg": "Оряхово",
+      "admin_area_en": "Oryahovo",
+      "latitude": 43.717222222,
+      "longitude": 24.041944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12349285"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1510000",
+      "name_bg": "Змийски остров",
+      "name_en": "St. Thomas Island",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.341472222,
+      "longitude": 27.734027777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1510000"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q12280630",
+      "name_bg": "Ибиша",
+      "name_en": "Ibisha",
+      "admin_area_bg": "Вълчедръм",
+      "admin_area_en": "Valchedram",
+      "latitude": 43.829722222,
+      "longitude": 23.517222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12280630"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q59850850",
+      "name_bg": "Кавак",
+      "name_en": "Kavak",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.711111111,
+      "longitude": 26.359722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59850850"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q20500523",
+      "name_bg": "Калимок",
+      "name_en": "Kalimok",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.046666666,
+      "longitude": 26.528333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500523"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q1102049",
+      "name_bg": "Козлодуй (остров)",
+      "name_en": "Kozloduy Island",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.792777777,
+      "longitude": 23.73,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1102049"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q113827739",
+      "name_bg": "Косуй",
+      "name_en": "Kosuy",
+      "admin_area_bg": "Шумен",
+      "admin_area_en": "Shumen",
+      "latitude": 43.06667,
+      "longitude": 26.68333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113827739"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q12283908",
+      "name_bg": "Косуй",
+      "name_en": "Kosiu",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.065833333,
+      "longitude": 26.690555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12283908"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q20497648",
+      "name_bg": "Кутово",
+      "name_en": "Kutovo Island",
+      "admin_area_bg": "Видин",
+      "admin_area_en": "Vidin",
+      "latitude": 44.01393,
+      "longitude": 22.995783,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497648"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q20497912",
+      "name_bg": "Лакът",
+      "name_en": "",
+      "admin_area_bg": "Никопол",
+      "admin_area_en": "Nikopol",
+      "latitude": 43.72,
+      "longitude": 24.998055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497912"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q20498465",
+      "name_bg": "Люляк",
+      "name_en": "",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.794722222,
+      "longitude": 25.899444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20498465"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q12291670",
+      "name_bg": "Птичи остров",
+      "name_en": "",
+      "admin_area_bg": "Царево",
+      "admin_area_en": "Tsarevo",
+      "latitude": 42.193888888,
+      "longitude": 27.840833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12291670"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q20497316",
+      "name_bg": "Радецки",
+      "name_en": "",
+      "admin_area_bg": "Тутракан",
+      "admin_area_en": "Tutrakan",
+      "latitude": 44.047777777,
+      "longitude": 26.575277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20497316"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q12292683",
+      "name_bg": "Русалка",
+      "name_en": "",
+      "admin_area_bg": "Каварна",
+      "admin_area_en": "Kavarna",
+      "latitude": 43.415833333,
+      "longitude": 28.516666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12292683"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q2062415",
+      "name_bg": "Света Анастасия",
+      "name_en": "St. Anastasia Island",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.467777777,
+      "longitude": 27.553055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2062415"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1636393",
+      "name_bg": "Свети Иван",
+      "name_en": "St. Ivan Island",
+      "admin_area_bg": "Созопол",
+      "admin_area_en": "Sozopol",
+      "latitude": 42.438611111,
+      "longitude": 27.692777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1636393"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q2297996",
+      "name_bg": "Свети Кирик",
+      "name_en": "St. Cyricus Island",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.425,
+      "longitude": 27.689444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2297996"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q1807319",
+      "name_bg": "Свети Петър",
+      "name_en": "St. Peter Island",
+      "admin_area_bg": "Созопол",
+      "admin_area_en": "Sozopol",
+      "latitude": 42.439,
+      "longitude": 27.693,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1807319"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q21779354",
+      "name_bg": "Свети Петър",
+      "name_en": "",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.438611111,
+      "longitude": 27.698333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21779354"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q12293388",
+      "name_bg": "Свобода",
+      "name_en": "Svoboda, Pazardzhik",
+      "admin_area_bg": "Пазарджик",
+      "admin_area_en": "Pazardzhik",
+      "latitude": 42.180556,
+      "longitude": 24.333056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12293388"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q20500448",
+      "name_bg": "Скомен",
+      "name_en": "",
+      "admin_area_bg": "Лом",
+      "admin_area_en": "Lom",
+      "latitude": 43.788888888,
+      "longitude": 23.0375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500448"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q12294907",
+      "name_bg": "Средняк",
+      "name_en": "",
+      "admin_area_bg": "Никопол",
+      "admin_area_en": "Nikopol",
+      "latitude": 43.724722222,
+      "longitude": 24.941944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12294907"
+    }
+  ],
+  "meta": {
+    "title": "Острови в България - Безплатно изтегляне",
+    "description": "Islands in Bulgaria with coordinates, sourced from Wikidata. Съдържа 41 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Острови в България | ListBase",
+    "seo_description": "Изтеглете Острови в България — 41 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 41 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

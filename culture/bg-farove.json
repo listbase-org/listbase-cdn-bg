@@ -1,0 +1,181 @@
+{
+  "id": "bg-farove",
+  "name": "Фарове в България",
+  "title": "Фарове в България",
+  "description": "Lighthouses in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q28376057",
+      "name_bg": "Ахтополски фар",
+      "name_en": "Ahtopol lighthouse",
+      "admin_area_bg": "Ахтопол",
+      "admin_area_en": "Ahtopol",
+      "latitude": 42.100277777,
+      "longitude": 27.949166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376057"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q101064814",
+      "name_bg": "Бургаски фар",
+      "name_en": "Burgas Lighthouse",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.481388888,
+      "longitude": 27.483333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101064814"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q108888312",
+      "name_bg": "Варненски фар",
+      "name_en": "",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.187222222,
+      "longitude": 27.921666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108888312"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q108886235",
+      "name_bg": "Евксиноградски фар",
+      "name_en": "Euxinograd Lighthouse",
+      "admin_area_bg": "Евксиноград",
+      "admin_area_en": "Euxinograd",
+      "latitude": 43.216671,
+      "longitude": 27.986856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108886235"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q28376421",
+      "name_bg": "Емински фар",
+      "name_en": "Emine lighthouse",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.701111111,
+      "longitude": 27.899722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376421"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q23585806",
+      "name_bg": "Калиакренски фар",
+      "name_en": "Kaliakra Lighthouse",
+      "admin_area_bg": "Каварна",
+      "admin_area_en": "Kavarna",
+      "latitude": 43.361944444,
+      "longitude": 28.4655,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23585806"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q28376055",
+      "name_bg": "фар Кастро",
+      "name_en": "Lighthouses in Tsarevo",
+      "admin_area_bg": "Царево",
+      "admin_area_en": "Tsarevo",
+      "latitude": 42.166666666,
+      "longitude": 27.867777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376055"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q108887969",
+      "name_bg": "Фар на остров Свети Иван",
+      "name_en": "St. Ivan Island lighthouse",
+      "admin_area_bg": "Свети Иван",
+      "admin_area_en": "St. Ivan Island",
+      "latitude": 42.438333333,
+      "longitude": 27.690277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108887969"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q28376418",
+      "name_bg": "фар Св. Анастасия",
+      "name_en": "St. Anastasia lighthouse",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.468055555,
+      "longitude": 27.552777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28376418"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q21014964",
+      "name_bg": "Шабленски фар",
+      "name_en": "Shabla Lighthouse",
+      "admin_area_bg": "Шабла",
+      "admin_area_en": "Shabla",
+      "latitude": 43.5403519,
+      "longitude": 28.6069794,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21014964"
+    }
+  ],
+  "meta": {
+    "title": "Фарове в България - Безплатно изтегляне",
+    "description": "Lighthouses in Bulgaria with coordinates, sourced from Wikidata. Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Фарове в България | ListBase",
+    "seo_description": "Изтеглете Фарове в България — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,1726 @@
+{
+  "id": "bg-osm-leisure-stadium",
+  "name": "Стадиони в България (OpenStreetMap)",
+  "title": "Стадиони в България (OpenStreetMap)",
+  "description": "Стадиони в България — 185 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `leisure=stadium`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 185,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Юнак\"",
+      "shirina": 44.104721,
+      "dalzhina": 22.762898,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 2,
+      "ime": "23-ти септември",
+      "shirina": 43.037007,
+      "dalzhina": 25.886999,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 3,
+      "ime": "Dolna Gradeshnica",
+      "shirina": 41.683862,
+      "dalzhina": 23.184302,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 4,
+      "ime": "Ezerche Football Stadium - Kuru Göl",
+      "shirina": 43.554121,
+      "dalzhina": 26.323585,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 5,
+      "ime": "Football Ground & Stadium",
+      "shirina": 43.458071,
+      "dalzhina": 25.220634,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 6,
+      "ime": "Speedway",
+      "shirina": 43.251426,
+      "dalzhina": 26.582893,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 7,
+      "ime": "Stadion Sedlovina",
+      "shirina": 41.62986,
+      "dalzhina": 25.432375,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 8,
+      "ime": "Арена Созопол",
+      "shirina": 42.413514,
+      "dalzhina": 27.696844,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 9,
+      "ime": "Армеец",
+      "shirina": 42.672697,
+      "dalzhina": 26.342781,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 10,
+      "ime": "Батмиш",
+      "shirina": 42.67377,
+      "dalzhina": 26.30037,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 11,
+      "ime": "Бонсист",
+      "shirina": 42.649211,
+      "dalzhina": 23.352702,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 12,
+      "ime": "Васил Левски",
+      "shirina": 42.639045,
+      "dalzhina": 24.81278,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 13,
+      "ime": "ГСтадион \"Миньор\"",
+      "shirina": 42.294385,
+      "dalzhina": 25.932101,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 14,
+      "ime": "Георги Бенковски",
+      "shirina": 43.993894,
+      "dalzhina": 22.863453,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 15,
+      "ime": "Градски стадион",
+      "shirina": 42.600069,
+      "dalzhina": 25.21542,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 16,
+      "ime": "Градски стадион",
+      "shirina": 42.837391,
+      "dalzhina": 22.64855,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 17,
+      "ime": "Градски стадион",
+      "shirina": 43.847977,
+      "dalzhina": 25.963105,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 18,
+      "ime": "Градски стадион Ловеч",
+      "shirina": 43.142974,
+      "dalzhina": 24.724765,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 19,
+      "ime": "Градски стадион ФК Спортист Своге",
+      "shirina": 42.962055,
+      "dalzhina": 23.349956,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 20,
+      "ime": "Димитър Пенев",
+      "shirina": 42.788005,
+      "dalzhina": 23.309144,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 21,
+      "ime": "Житница",
+      "shirina": 43.118188,
+      "dalzhina": 27.524627,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 22,
+      "ime": "Калиакра",
+      "shirina": 43.428213,
+      "dalzhina": 28.331113,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 23,
+      "ime": "Колодрум",
+      "shirina": 42.417321,
+      "dalzhina": 25.627663,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 24,
+      "ime": "Колодрум",
+      "shirina": 42.631799,
+      "dalzhina": 25.390538,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 25,
+      "ime": "Колописта",
+      "shirina": 43.410589,
+      "dalzhina": 24.609965,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 26,
+      "ime": "Лавров",
+      "shirina": 43.374942,
+      "dalzhina": 24.353446,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 27,
+      "ime": "Лазур",
+      "shirina": 42.512483,
+      "dalzhina": 27.470464,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 28,
+      "ime": "Лозница",
+      "shirina": 43.375377,
+      "dalzhina": 26.600515,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 29,
+      "ime": "Локомотив",
+      "shirina": 43.123581,
+      "dalzhina": 25.680262,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 30,
+      "ime": "Локомотив",
+      "shirina": 43.221312,
+      "dalzhina": 27.895208,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 31,
+      "ime": "Милковица",
+      "shirina": 43.63319,
+      "dalzhina": 24.736556,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 32,
+      "ime": "Миньор",
+      "shirina": 42.757228,
+      "dalzhina": 23.557448,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 33,
+      "ime": "Национален стадион \"Васил Левски\"",
+      "shirina": 42.687564,
+      "dalzhina": 23.335355,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 34,
+      "ime": "Панайот Волов",
+      "shirina": 43.276805,
+      "dalzhina": 26.944291,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 35,
+      "ime": "Плевен",
+      "shirina": 43.412615,
+      "dalzhina": 24.608412,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 36,
+      "ime": "Равда",
+      "shirina": 42.648558,
+      "dalzhina": 27.674889,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 37,
+      "ime": "Ситово",
+      "shirina": 44.017362,
+      "dalzhina": 27.020549,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 38,
+      "ime": "Спартак",
+      "shirina": 41.843226,
+      "dalzhina": 23.125468,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 39,
+      "ime": "Спартак",
+      "shirina": 43.218652,
+      "dalzhina": 27.91231,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 40,
+      "ime": "Спортен комплекс \"Вихър\"",
+      "shirina": 41.380659,
+      "dalzhina": 25.085446,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 41,
+      "ime": "Спортен комплекс Кремиковци",
+      "shirina": 42.734369,
+      "dalzhina": 23.50406,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 42,
+      "ime": "Спортен комплекс ФК СПАРТАК",
+      "shirina": 42.120237,
+      "dalzhina": 24.753639,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 43,
+      "ime": "Спортист",
+      "shirina": 43.703416,
+      "dalzhina": 28.029518,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 44,
+      "ime": "Стадион",
+      "shirina": 41.635703,
+      "dalzhina": 25.860467,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 45,
+      "ime": "Стадион",
+      "shirina": 41.74399,
+      "dalzhina": 24.377474,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 46,
+      "ime": "Стадион",
+      "shirina": 42.145925,
+      "dalzhina": 26.802744,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 47,
+      "ime": "Стадион",
+      "shirina": 42.181377,
+      "dalzhina": 24.325976,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 48,
+      "ime": "Стадион",
+      "shirina": 42.502106,
+      "dalzhina": 26.264566,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 49,
+      "ime": "Стадион",
+      "shirina": 42.536797,
+      "dalzhina": 24.836635,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 50,
+      "ime": "Стадион",
+      "shirina": 42.565131,
+      "dalzhina": 23.100143,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 51,
+      "ime": "Стадион",
+      "shirina": 42.576564,
+      "dalzhina": 24.871435,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 52,
+      "ime": "Стадион",
+      "shirina": 43.458607,
+      "dalzhina": 25.745889,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 53,
+      "ime": "Стадион",
+      "shirina": 43.542467,
+      "dalzhina": 23.950721,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 54,
+      "ime": "Стадион",
+      "shirina": 43.550281,
+      "dalzhina": 23.190438,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 55,
+      "ime": "Стадион",
+      "shirina": 43.560084,
+      "dalzhina": 26.199006,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 56,
+      "ime": "Стадион",
+      "shirina": 43.815599,
+      "dalzhina": 27.197409,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 57,
+      "ime": "Стадион",
+      "shirina": 43.952996,
+      "dalzhina": 27.015453,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 58,
+      "ime": "Стадион",
+      "shirina": 43.995626,
+      "dalzhina": 26.824056,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 59,
+      "ime": "Стадион \"Априлов\"",
+      "shirina": 42.883367,
+      "dalzhina": 25.313819,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 60,
+      "ime": "Стадион \"Берое\"",
+      "shirina": 42.433243,
+      "dalzhina": 25.614911,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 61,
+      "ime": "Стадион \"Бойчо Желев\"",
+      "shirina": 43.18711,
+      "dalzhina": 27.441162,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 62,
+      "ime": "Стадион \"Бузлуджа\"",
+      "shirina": 42.667434,
+      "dalzhina": 25.398822,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 63,
+      "ime": "Стадион \"Васил Левски\"",
+      "shirina": 42.083384,
+      "dalzhina": 23.058893,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 64,
+      "ime": "Стадион \"Ганчо Панев\"",
+      "shirina": 43.232545,
+      "dalzhina": 25.317294,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 65,
+      "ime": "Стадион \"Георги Бенковски\"",
+      "shirina": 42.644603,
+      "dalzhina": 24.358968,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 66,
+      "ime": "Стадион \"Градски\"",
+      "shirina": 41.571592,
+      "dalzhina": 23.735478,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 67,
+      "ime": "Стадион \"Граничар\"",
+      "shirina": 41.649079,
+      "dalzhina": 24.160577,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 68,
+      "ime": "Стадион \"Димитър Бурков\"",
+      "shirina": 43.235489,
+      "dalzhina": 26.572551,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 69,
+      "ime": "Стадион \"Драгалевци\"",
+      "shirina": 42.637064,
+      "dalzhina": 23.309167,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 70,
+      "ime": "Стадион \"Дружба\"",
+      "shirina": 43.556169,
+      "dalzhina": 27.826772,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 71,
+      "ime": "Стадион \"Дунав\" Русе",
+      "shirina": 43.845478,
+      "dalzhina": 25.976553,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 72,
+      "ime": "Стадион \"Колодрума\"",
+      "shirina": 41.763816,
+      "dalzhina": 26.211602,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 73,
+      "ime": "Стадион \"Локомотив\"",
+      "shirina": 42.439935,
+      "dalzhina": 25.634206,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 74,
+      "ime": "Стадион \"Локомотив\"",
+      "shirina": 42.569644,
+      "dalzhina": 25.5411,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 75,
+      "ime": "Стадион \"Локомотив\"",
+      "shirina": 42.972966,
+      "dalzhina": 25.477053,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 76,
+      "ime": "Стадион \"Миньор\"",
+      "shirina": 42.06581,
+      "dalzhina": 25.587575,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 77,
+      "ime": "Стадион \"Мирково\"",
+      "shirina": 42.696828,
+      "dalzhina": 24.000199,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 78,
+      "ime": "Стадион \"Обзор\"",
+      "shirina": 42.825018,
+      "dalzhina": 27.882439,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 79,
+      "ime": "Стадион \"Олд Трафорд\"",
+      "shirina": 44.132454,
+      "dalzhina": 22.857047,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 80,
+      "ime": "Стадион \"Панайот Хитов\"",
+      "shirina": 44.042579,
+      "dalzhina": 26.594649,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 81,
+      "ime": "Стадион \"Пирин\"",
+      "shirina": 42.484421,
+      "dalzhina": 22.757792,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 82,
+      "ime": "Стадион \"Раковски\"",
+      "shirina": 41.528841,
+      "dalzhina": 26.132643,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 83,
+      "ime": "Стадион \"Раковски\"",
+      "shirina": 42.053138,
+      "dalzhina": 25.575743,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 84,
+      "ime": "Стадион \"Севтополис\"",
+      "shirina": 42.630696,
+      "dalzhina": 25.393072,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 85,
+      "ime": "Стадион \"Славия\"",
+      "shirina": 44.153415,
+      "dalzhina": 22.799246,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 86,
+      "ime": "Стадион \"Спартак\"",
+      "shirina": 42.026844,
+      "dalzhina": 24.314189,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 87,
+      "ime": "Стадион \"Тодор Диев\"",
+      "shirina": 42.131703,
+      "dalzhina": 24.743454,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 88,
+      "ime": "Стадион \"Торпедо\"",
+      "shirina": 43.436272,
+      "dalzhina": 23.752544,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 89,
+      "ime": "Стадион \"Хаджи Димитър\"",
+      "shirina": 42.679568,
+      "dalzhina": 26.336526,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 90,
+      "ime": "Стадион \"Хасково\"",
+      "shirina": 41.927276,
+      "dalzhina": 25.548573,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 91,
+      "ime": "Стадион \"Христо Ботев\"",
+      "shirina": 42.026687,
+      "dalzhina": 23.099975,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 92,
+      "ime": "Стадион \"Христо Ботев\"",
+      "shirina": 42.140064,
+      "dalzhina": 24.764514,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 93,
+      "ime": "Стадион \"Юнак\"",
+      "shirina": 42.18232,
+      "dalzhina": 24.329092,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 94,
+      "ime": "Стадион Академик",
+      "shirina": 42.685515,
+      "dalzhina": 23.368657,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 95,
+      "ime": "Стадион Академик-Плиска",
+      "shirina": 42.67483,
+      "dalzhina": 23.365006,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 96,
+      "ime": "Стадион Ангел Кънчев",
+      "shirina": 42.863313,
+      "dalzhina": 25.4804,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 97,
+      "ime": "Стадион Белица",
+      "shirina": 42.810615,
+      "dalzhina": 23.21857,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 98,
+      "ime": "Стадион Бистрица",
+      "shirina": 42.591256,
+      "dalzhina": 23.363178,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 99,
+      "ime": "Стадион Ботево",
+      "shirina": 42.350929,
+      "dalzhina": 26.354759,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 100,
+      "ime": "Стадион Българска армия",
+      "shirina": 42.684256,
+      "dalzhina": 23.339643,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 101,
+      "ime": "Стадион Виваком Арена – Георги Аспарухов",
+      "shirina": 42.705419,
+      "dalzhina": 23.363234,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 102,
+      "ime": "Стадион Георги Бенковски",
+      "shirina": 42.833007,
+      "dalzhina": 23.18795,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 103,
+      "ime": "Стадион Градски",
+      "shirina": 42.6995,
+      "dalzhina": 25.883236,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 104,
+      "ime": "Стадион Гурково",
+      "shirina": 42.655122,
+      "dalzhina": 25.791442,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 105,
+      "ime": "Стадион Димитровец",
+      "shirina": 42.555039,
+      "dalzhina": 22.815935,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 106,
+      "ime": "Стадион Димитър Лекин",
+      "shirina": 41.513906,
+      "dalzhina": 23.862167,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 107,
+      "ime": "Стадион Димова махала",
+      "shirina": 42.607282,
+      "dalzhina": 23.058337,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 108,
+      "ime": "Стадион Доростол",
+      "shirina": 44.110839,
+      "dalzhina": 27.265527,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 109,
+      "ime": "Стадион Загорец",
+      "shirina": 42.50049,
+      "dalzhina": 26.015827,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 110,
+      "ime": "Стадион Ивайло",
+      "shirina": 43.077146,
+      "dalzhina": 25.62023,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 111,
+      "ime": "Стадион Искра",
+      "shirina": 42.985585,
+      "dalzhina": 23.250328,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 112,
+      "ime": "Стадион Искър",
+      "shirina": 42.322326,
+      "dalzhina": 23.558942,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 113,
+      "ime": "Стадион Искър",
+      "shirina": 43.137874,
+      "dalzhina": 23.931932,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 114,
+      "ime": "Стадион Камено",
+      "shirina": 42.57084,
+      "dalzhina": 27.30459,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 115,
+      "ime": "Стадион Крепост",
+      "shirina": 42.51017,
+      "dalzhina": 24.709268,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 116,
+      "ime": "Стадион Кумарица",
+      "shirina": 42.795962,
+      "dalzhina": 23.345605,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 117,
+      "ime": "Стадион Лозен",
+      "shirina": 42.598781,
+      "dalzhina": 23.488619,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 118,
+      "ime": "Стадион Локомотив",
+      "shirina": 43.860508,
+      "dalzhina": 25.981859,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 119,
+      "ime": "Стадион Луи Айер",
+      "shirina": 44.109115,
+      "dalzhina": 27.256794,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 120,
+      "ime": "Стадион Малко Търново",
+      "shirina": 41.977095,
+      "dalzhina": 27.534753,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 121,
+      "ime": "Стадион Марица",
+      "shirina": 42.155721,
+      "dalzhina": 24.720999,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 122,
+      "ime": "Стадион Металург",
+      "shirina": 42.603042,
+      "dalzhina": 23.119206,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 123,
+      "ime": "Стадион Миньор",
+      "shirina": 42.606665,
+      "dalzhina": 23.023209,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 124,
+      "ime": "Стадион Михаил Алексиев",
+      "shirina": 43.102656,
+      "dalzhina": 25.710705,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 125,
+      "ime": "Стадион Младост",
+      "shirina": 43.232923,
+      "dalzhina": 27.878147,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 126,
+      "ime": "Стадион Мрамор",
+      "shirina": 43.237518,
+      "dalzhina": 23.107476,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 127,
+      "ime": "Стадион Мусала",
+      "shirina": 42.124371,
+      "dalzhina": 23.125675,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 128,
+      "ime": "Стадион Николаево",
+      "shirina": 42.636241,
+      "dalzhina": 25.798297,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 129,
+      "ime": "Стадион Орешак",
+      "shirina": 42.881241,
+      "dalzhina": 24.768372,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 130,
+      "ime": "Стадион Орчо Войвода",
+      "shirina": 42.511644,
+      "dalzhina": 24.190437,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 131,
+      "ime": "Стадион Пловдив",
+      "shirina": 42.149774,
+      "dalzhina": 24.719993,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 132,
+      "ime": "Стадион Приста",
+      "shirina": 43.807785,
+      "dalzhina": 25.937722,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 133,
+      "ime": "Стадион Раковски",
+      "shirina": 42.678125,
+      "dalzhina": 23.304243,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 134,
+      "ime": "Стадион Св. Петър",
+      "shirina": 41.833729,
+      "dalzhina": 23.493413,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 135,
+      "ime": "Стадион Славия",
+      "shirina": 42.675329,
+      "dalzhina": 23.271859,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 136,
+      "ime": "Стадион Стефан Караджа",
+      "shirina": 42.180296,
+      "dalzhina": 26.567883,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 137,
+      "ime": "Стадион Тунджа",
+      "shirina": 42.483576,
+      "dalzhina": 26.494422,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 138,
+      "ime": "Стадион Хр. Ботев",
+      "shirina": 42.435651,
+      "dalzhina": 23.828276,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 139,
+      "ime": "Стадион Христо Ботев",
+      "shirina": 43.200855,
+      "dalzhina": 23.568536,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 140,
+      "ime": "Стадион Христо Ботев",
+      "shirina": 43.217234,
+      "dalzhina": 24.164115,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 141,
+      "ime": "Стадион Царева ливада",
+      "shirina": 42.936811,
+      "dalzhina": 25.449717,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 142,
+      "ime": "Стадион Чавдар",
+      "shirina": 42.882425,
+      "dalzhina": 24.706056,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 143,
+      "ime": "Стадион ”Септември”",
+      "shirina": 41.567702,
+      "dalzhina": 24.739316,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 144,
+      "ime": "Стадион „Дуранкулак“",
+      "shirina": 43.692041,
+      "dalzhina": 28.522537,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 145,
+      "ime": "Стадион „Локомотив“",
+      "shirina": 42.133827,
+      "dalzhina": 24.771566,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 146,
+      "ime": "Стадион „Локомотив“",
+      "shirina": 43.309267,
+      "dalzhina": 27.168037,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 147,
+      "ime": "Стадион „Металик“",
+      "shirina": 42.656973,
+      "dalzhina": 24.749382,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 148,
+      "ime": "Стадион „Негован“",
+      "shirina": 42.768246,
+      "dalzhina": 23.402465,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 149,
+      "ime": "Стадион „Никола Кръстев-Шулц“",
+      "shirina": 42.368469,
+      "dalzhina": 23.003931,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 150,
+      "ime": "Стадион „Осогово“",
+      "shirina": 42.276388,
+      "dalzhina": 22.683283,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 151,
+      "ime": "Стадион „Септември“",
+      "shirina": 42.692231,
+      "dalzhina": 23.28785,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 152,
+      "ime": "Стадион „Тича“",
+      "shirina": 43.215828,
+      "dalzhina": 27.931134,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 153,
+      "ime": "Стадион „Трейс Арена“",
+      "shirina": 42.395886,
+      "dalzhina": 25.645939,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 154,
+      "ime": "Стадион „Христо Ботев“",
+      "shirina": 42.900442,
+      "dalzhina": 23.786506,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 155,
+      "ime": "Старопатица",
+      "shirina": 43.835805,
+      "dalzhina": 22.488639,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 156,
+      "ime": "Тревен",
+      "shirina": 42.641271,
+      "dalzhina": 24.791203,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 157,
+      "ime": "Ученически стадион",
+      "shirina": 43.267679,
+      "dalzhina": 26.939149,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 158,
+      "ime": "Ученически стадион (Колодрума)",
+      "shirina": 43.245401,
+      "dalzhina": 26.570337,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 159,
+      "ime": "ФК Монтана",
+      "shirina": 43.398295,
+      "dalzhina": 23.225236,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 160,
+      "ime": "Футболен комплекс \"БОТЕВ 1912\"",
+      "shirina": 42.107065,
+      "dalzhina": 24.70665,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 161,
+      "ime": "Футболен стадион с. Коняво",
+      "shirina": 42.321718,
+      "dalzhina": 22.774257,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 162,
+      "ime": "Футболно игрище",
+      "shirina": 41.866664,
+      "dalzhina": 25.992888,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 163,
+      "ime": "Футболно игрище",
+      "shirina": 42.141514,
+      "dalzhina": 25.934201,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 164,
+      "ime": "Футболно игрище",
+      "shirina": 42.143044,
+      "dalzhina": 25.215972,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 165,
+      "ime": "Футболно игрище",
+      "shirina": 42.197298,
+      "dalzhina": 25.951044,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 166,
+      "ime": "Футболно игрище",
+      "shirina": 42.242636,
+      "dalzhina": 26.065901,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 167,
+      "ime": "Футболно игрище",
+      "shirina": 42.256862,
+      "dalzhina": 25.32791,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 168,
+      "ime": "Футболно игрище",
+      "shirina": 42.357748,
+      "dalzhina": 25.96347,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 169,
+      "ime": "Футболно игрище",
+      "shirina": 42.44406,
+      "dalzhina": 25.85164,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 170,
+      "ime": "Футболно игрище",
+      "shirina": 42.67155,
+      "dalzhina": 25.378539,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 171,
+      "ime": "Хювефарма Арена",
+      "shirina": 43.534715,
+      "dalzhina": 26.527532,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 172,
+      "ime": "Цанко Церковски",
+      "shirina": 43.189777,
+      "dalzhina": 25.305741,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 173,
+      "ime": "Чавдар",
+      "shirina": 43.477065,
+      "dalzhina": 23.950292,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 174,
+      "ime": "Чепинец",
+      "shirina": 42.035134,
+      "dalzhina": 23.995837,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 175,
+      "ime": "Черноморец",
+      "shirina": 42.490282,
+      "dalzhina": 27.45287,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 176,
+      "ime": "Шипка",
+      "shirina": 42.009947,
+      "dalzhina": 24.865285,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 177,
+      "ime": "Ясна Поляна",
+      "shirina": 42.282056,
+      "dalzhina": 27.614187,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 178,
+      "ime": "колодрум (изоставен)",
+      "shirina": 43.277116,
+      "dalzhina": 26.946271,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 179,
+      "ime": "стадион Вихър",
+      "shirina": 42.701758,
+      "dalzhina": 27.244221,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 180,
+      "ime": "стадион Кошарица",
+      "shirina": 42.748567,
+      "dalzhina": 27.688269,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 181,
+      "ime": "стадион Локомотив",
+      "shirina": 42.737621,
+      "dalzhina": 23.314621,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 182,
+      "ime": "стадион Раковски",
+      "shirina": 43.024117,
+      "dalzhina": 25.111508,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 183,
+      "ime": "стадион Христо Ботев",
+      "shirina": 42.860067,
+      "dalzhina": 25.319829,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 184,
+      "ime": "стадион Цар Самуил",
+      "shirina": 41.389391,
+      "dalzhina": 23.199664,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    },
+    {
+      "id": 185,
+      "ime": "стадион „Бончук“",
+      "shirina": 42.275368,
+      "dalzhina": 23.135577,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "stadium",
+      "osm_klas": "leisure=stadium"
+    }
+  ],
+  "meta": {
+    "title": "Стадиони в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Стадиони в България — 185 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `leisure=stadium`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 185 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Стадиони в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Стадиони в България (OpenStreetMap) — 185 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 185 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

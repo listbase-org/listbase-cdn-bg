@@ -1,0 +1,3427 @@
+{
+  "id": "bg-osm-office-insurance",
+  "name": "Застрахователни офиси в България (OpenStreetMap)",
+  "title": "Застрахователни офиси в България (OpenStreetMap)",
+  "description": "Застрахователни офиси в България — 374 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `office=insurance`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 374,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "24Ins",
+      "shirina": 43.201014,
+      "dalzhina": 27.914251,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 2,
+      "ime": "AP broker",
+      "shirina": 42.664796,
+      "dalzhina": 23.285319,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 3,
+      "ime": "Alliant",
+      "shirina": 42.699264,
+      "dalzhina": 23.342021,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 4,
+      "ime": "Allianz",
+      "shirina": 41.643379,
+      "dalzhina": 25.368478,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 5,
+      "ime": "Allianz",
+      "shirina": 41.932079,
+      "dalzhina": 25.55997,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 6,
+      "ime": "Allianz",
+      "shirina": 42.143126,
+      "dalzhina": 24.748762,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 7,
+      "ime": "Allianz",
+      "shirina": 42.147148,
+      "dalzhina": 24.731545,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 8,
+      "ime": "Allianz",
+      "shirina": 42.15637,
+      "dalzhina": 24.74467,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 9,
+      "ime": "Allianz",
+      "shirina": 42.618188,
+      "dalzhina": 25.394701,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 10,
+      "ime": "Allianz",
+      "shirina": 42.659687,
+      "dalzhina": 23.348799,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 11,
+      "ime": "Allianz",
+      "shirina": 42.66068,
+      "dalzhina": 23.316506,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 12,
+      "ime": "Allianz",
+      "shirina": 42.674934,
+      "dalzhina": 23.356446,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 13,
+      "ime": "Allianz",
+      "shirina": 42.676595,
+      "dalzhina": 23.31991,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 14,
+      "ime": "Allianz",
+      "shirina": 42.678008,
+      "dalzhina": 23.326745,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 15,
+      "ime": "Allianz",
+      "shirina": 42.688614,
+      "dalzhina": 23.317629,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 16,
+      "ime": "Allianz",
+      "shirina": 42.688629,
+      "dalzhina": 23.329806,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 17,
+      "ime": "Allianz",
+      "shirina": 42.690109,
+      "dalzhina": 23.314332,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 18,
+      "ime": "Allianz",
+      "shirina": 42.695053,
+      "dalzhina": 23.329098,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 19,
+      "ime": "Allianz",
+      "shirina": 42.707518,
+      "dalzhina": 23.318209,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 20,
+      "ime": "Allianz",
+      "shirina": 43.199067,
+      "dalzhina": 27.91523,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 21,
+      "ime": "Allianz",
+      "shirina": 43.406585,
+      "dalzhina": 24.620186,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 22,
+      "ime": "Arins",
+      "shirina": 42.665037,
+      "dalzhina": 23.283188,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 23,
+      "ime": "Armeec",
+      "shirina": 42.333925,
+      "dalzhina": 23.555672,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 24,
+      "ime": "Asset Insurance",
+      "shirina": 42.699647,
+      "dalzhina": 23.308873,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 25,
+      "ime": "Asset Insurance",
+      "shirina": 42.702216,
+      "dalzhina": 23.331474,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 26,
+      "ime": "BG Broker",
+      "shirina": 42.671184,
+      "dalzhina": 23.313768,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 27,
+      "ime": "Boleron",
+      "shirina": 42.658097,
+      "dalzhina": 23.315396,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 28,
+      "ime": "Brokerito",
+      "shirina": 42.661745,
+      "dalzhina": 27.714365,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 29,
+      "ime": "Bulins",
+      "shirina": 42.664194,
+      "dalzhina": 23.343532,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 30,
+      "ime": "Bulins",
+      "shirina": 42.665791,
+      "dalzhina": 23.28947,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 31,
+      "ime": "Bulins",
+      "shirina": 42.670609,
+      "dalzhina": 23.316619,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 32,
+      "ime": "Bulins",
+      "shirina": 42.704275,
+      "dalzhina": 23.329793,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 33,
+      "ime": "Bulstrad",
+      "shirina": 43.849941,
+      "dalzhina": 25.956638,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 34,
+      "ime": "Coris Bulgaria",
+      "shirina": 42.689157,
+      "dalzhina": 23.305747,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 35,
+      "ime": "DSB",
+      "shirina": 42.658372,
+      "dalzhina": 23.313258,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 36,
+      "ime": "Delta ins",
+      "shirina": 42.679606,
+      "dalzhina": 23.310183,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 37,
+      "ime": "DeltaStock",
+      "shirina": 42.67207,
+      "dalzhina": 23.322423,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 38,
+      "ime": "Easy Ins",
+      "shirina": 43.210699,
+      "dalzhina": 27.907646,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 39,
+      "ime": "EuroIns",
+      "shirina": 42.626851,
+      "dalzhina": 23.375239,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 40,
+      "ime": "Euroins",
+      "shirina": 42.675041,
+      "dalzhina": 23.308125,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 41,
+      "ime": "Euroins",
+      "shirina": 42.680882,
+      "dalzhina": 23.399861,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 42,
+      "ime": "Evita M",
+      "shirina": 42.675667,
+      "dalzhina": 23.31985,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 43,
+      "ime": "GENERAL BROKER",
+      "shirina": 43.447149,
+      "dalzhina": 26.17421,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 44,
+      "ime": "General",
+      "shirina": 42.643947,
+      "dalzhina": 23.411958,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 45,
+      "ime": "General Broker",
+      "shirina": 42.626704,
+      "dalzhina": 23.384127,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 46,
+      "ime": "General Broker",
+      "shirina": 42.707678,
+      "dalzhina": 23.379809,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 47,
+      "ime": "General Broker Club",
+      "shirina": 42.66609,
+      "dalzhina": 23.354956,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 48,
+      "ime": "General broker",
+      "shirina": 42.672656,
+      "dalzhina": 23.329193,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 49,
+      "ime": "General broker",
+      "shirina": 42.678259,
+      "dalzhina": 23.326227,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 50,
+      "ime": "General brokers club",
+      "shirina": 42.678719,
+      "dalzhina": 23.310923,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 51,
+      "ime": "Generali",
+      "shirina": 41.930984,
+      "dalzhina": 25.561866,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 52,
+      "ime": "Generali",
+      "shirina": 42.144293,
+      "dalzhina": 24.746014,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 53,
+      "ime": "Generali",
+      "shirina": 42.156516,
+      "dalzhina": 24.746471,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 54,
+      "ime": "Generali",
+      "shirina": 42.279624,
+      "dalzhina": 22.687146,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 55,
+      "ime": "Generali",
+      "shirina": 42.414001,
+      "dalzhina": 27.69731,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 56,
+      "ime": "Generali",
+      "shirina": 42.658963,
+      "dalzhina": 23.315288,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 57,
+      "ime": "Generali",
+      "shirina": 42.684721,
+      "dalzhina": 23.315689,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 58,
+      "ime": "Generali",
+      "shirina": 42.692624,
+      "dalzhina": 23.325053,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 59,
+      "ime": "Generali",
+      "shirina": 42.699049,
+      "dalzhina": 23.340163,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 60,
+      "ime": "Generali",
+      "shirina": 42.701709,
+      "dalzhina": 23.336224,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 61,
+      "ime": "Generali",
+      "shirina": 42.710069,
+      "dalzhina": 23.318266,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 62,
+      "ime": "Generali",
+      "shirina": 42.729625,
+      "dalzhina": 23.256465,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 63,
+      "ime": "Generali",
+      "shirina": 43.079324,
+      "dalzhina": 25.633783,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 64,
+      "ime": "Generali",
+      "shirina": 43.210068,
+      "dalzhina": 27.913073,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 65,
+      "ime": "Generali",
+      "shirina": 43.408172,
+      "dalzhina": 24.621031,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 66,
+      "ime": "Generali",
+      "shirina": 43.625232,
+      "dalzhina": 22.681666,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 67,
+      "ime": "Generali",
+      "shirina": 43.64565,
+      "dalzhina": 25.124629,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 68,
+      "ime": "GlobalLife",
+      "shirina": 43.209353,
+      "dalzhina": 27.907391,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 69,
+      "ime": "Grawe",
+      "shirina": 42.686411,
+      "dalzhina": 23.299738,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 70,
+      "ime": "Groupama",
+      "shirina": 42.156564,
+      "dalzhina": 24.746425,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 71,
+      "ime": "Groupama",
+      "shirina": 42.683318,
+      "dalzhina": 23.354859,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 72,
+      "ime": "Groupama",
+      "shirina": 42.687399,
+      "dalzhina": 23.344037,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 73,
+      "ime": "Groupama",
+      "shirina": 42.698351,
+      "dalzhina": 23.328924,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 74,
+      "ime": "Groupama",
+      "shirina": 43.199181,
+      "dalzhina": 27.914598,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 75,
+      "ime": "HC",
+      "shirina": 42.691791,
+      "dalzhina": 23.333077,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 76,
+      "ime": "Hans",
+      "shirina": 42.680294,
+      "dalzhina": 23.284485,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 77,
+      "ime": "I&G",
+      "shirina": 42.156484,
+      "dalzhina": 24.747231,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 78,
+      "ime": "I&G",
+      "shirina": 42.654407,
+      "dalzhina": 27.703752,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 79,
+      "ime": "I&G",
+      "shirina": 42.707062,
+      "dalzhina": 23.324168,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 80,
+      "ime": "I&G Brokers",
+      "shirina": 42.153856,
+      "dalzhina": 24.762176,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 81,
+      "ime": "I&G Brokers",
+      "shirina": 42.640227,
+      "dalzhina": 23.311865,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 82,
+      "ime": "I&G Brokers",
+      "shirina": 42.641,
+      "dalzhina": 23.335055,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 83,
+      "ime": "I&G Brokers",
+      "shirina": 42.647792,
+      "dalzhina": 23.378951,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 84,
+      "ime": "I&G Brokers",
+      "shirina": 42.650354,
+      "dalzhina": 23.341879,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 85,
+      "ime": "I&G Brokers",
+      "shirina": 42.65307,
+      "dalzhina": 23.372739,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 86,
+      "ime": "I&G Brokers",
+      "shirina": 42.664761,
+      "dalzhina": 23.361726,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 87,
+      "ime": "I&G Brokers",
+      "shirina": 42.665674,
+      "dalzhina": 23.280071,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 88,
+      "ime": "I&G Brokers",
+      "shirina": 42.665762,
+      "dalzhina": 23.355477,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 89,
+      "ime": "I&G Brokers",
+      "shirina": 42.666188,
+      "dalzhina": 23.354874,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 90,
+      "ime": "I&G Brokers",
+      "shirina": 42.673671,
+      "dalzhina": 23.291552,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 91,
+      "ime": "I&G Brokers",
+      "shirina": 42.67704,
+      "dalzhina": 23.288621,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 92,
+      "ime": "I&G Brokers",
+      "shirina": 42.677092,
+      "dalzhina": 23.293254,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 93,
+      "ime": "I&G Brokers",
+      "shirina": 42.680948,
+      "dalzhina": 23.361699,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 94,
+      "ime": "I&G Brokers",
+      "shirina": 42.689234,
+      "dalzhina": 23.255042,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 95,
+      "ime": "I&G Brokers",
+      "shirina": 42.692879,
+      "dalzhina": 23.310377,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 96,
+      "ime": "I&G Brokers",
+      "shirina": 42.693474,
+      "dalzhina": 23.352853,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 97,
+      "ime": "I&G Brokers",
+      "shirina": 42.702443,
+      "dalzhina": 23.28498,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 98,
+      "ime": "I&G Brokers",
+      "shirina": 42.719344,
+      "dalzhina": 23.256481,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 99,
+      "ime": "I&G Brokers",
+      "shirina": 42.726377,
+      "dalzhina": 23.302506,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 100,
+      "ime": "I&G Brokers",
+      "shirina": 42.733797,
+      "dalzhina": 23.309908,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 101,
+      "ime": "I&G Brokers",
+      "shirina": 42.909712,
+      "dalzhina": 23.804614,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 102,
+      "ime": "I&G Brokers",
+      "shirina": 43.083928,
+      "dalzhina": 25.621142,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 103,
+      "ime": "I&G Brokers",
+      "shirina": 43.20313,
+      "dalzhina": 27.918929,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 104,
+      "ime": "I&G Brokers",
+      "shirina": 43.216232,
+      "dalzhina": 27.916342,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 105,
+      "ime": "K&E",
+      "shirina": 42.6546,
+      "dalzhina": 23.372566,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 106,
+      "ime": "Karoll",
+      "shirina": 42.696835,
+      "dalzhina": 23.315035,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 107,
+      "ime": "Karoll standard",
+      "shirina": 42.675245,
+      "dalzhina": 23.315126,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 108,
+      "ime": "Karoll standart",
+      "shirina": 42.681152,
+      "dalzhina": 23.289707,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 109,
+      "ime": "Kolhida",
+      "shirina": 43.210516,
+      "dalzhina": 27.924336,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 110,
+      "ime": "Libra",
+      "shirina": 43.216788,
+      "dalzhina": 27.930166,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 111,
+      "ime": "Mussala",
+      "shirina": 42.645303,
+      "dalzhina": 27.676823,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 112,
+      "ime": "Mussala",
+      "shirina": 42.668804,
+      "dalzhina": 23.288968,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 113,
+      "ime": "Mussala",
+      "shirina": 43.572457,
+      "dalzhina": 27.827438,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 114,
+      "ime": "Net ins",
+      "shirina": 42.68931,
+      "dalzhina": 23.323908,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 115,
+      "ime": "OZK Insurance",
+      "shirina": 41.964487,
+      "dalzhina": 26.598722,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 116,
+      "ime": "Orel",
+      "shirina": 42.617385,
+      "dalzhina": 25.392152,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 117,
+      "ime": "Orel",
+      "shirina": 42.662965,
+      "dalzhina": 23.285931,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 118,
+      "ime": "Orel",
+      "shirina": 42.699306,
+      "dalzhina": 23.308027,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 119,
+      "ime": "SDI",
+      "shirina": 41.931039,
+      "dalzhina": 25.565436,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 120,
+      "ime": "SDI",
+      "shirina": 42.122574,
+      "dalzhina": 24.740998,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 121,
+      "ime": "SDI",
+      "shirina": 42.133162,
+      "dalzhina": 24.744599,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 122,
+      "ime": "SDI",
+      "shirina": 42.137768,
+      "dalzhina": 24.740184,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 123,
+      "ime": "SDI",
+      "shirina": 42.463401,
+      "dalzhina": 27.410105,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 124,
+      "ime": "SDI",
+      "shirina": 42.642787,
+      "dalzhina": 23.336286,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 125,
+      "ime": "SDI",
+      "shirina": 42.658895,
+      "dalzhina": 23.34712,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 126,
+      "ime": "SDI",
+      "shirina": 42.662007,
+      "dalzhina": 23.265562,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 127,
+      "ime": "SDI",
+      "shirina": 42.673535,
+      "dalzhina": 23.269679,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 128,
+      "ime": "SDI",
+      "shirina": 42.676533,
+      "dalzhina": 23.322223,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 129,
+      "ime": "SDI",
+      "shirina": 42.686188,
+      "dalzhina": 23.321785,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 130,
+      "ime": "SDI",
+      "shirina": 42.688195,
+      "dalzhina": 23.329288,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 131,
+      "ime": "SDI",
+      "shirina": 42.689063,
+      "dalzhina": 23.364873,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 132,
+      "ime": "SDI",
+      "shirina": 42.689257,
+      "dalzhina": 23.313982,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 133,
+      "ime": "SDI",
+      "shirina": 42.689694,
+      "dalzhina": 23.302595,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 134,
+      "ime": "SDI",
+      "shirina": 42.693636,
+      "dalzhina": 23.328294,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 135,
+      "ime": "SDI",
+      "shirina": 42.701872,
+      "dalzhina": 23.359674,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 136,
+      "ime": "SDI",
+      "shirina": 42.710186,
+      "dalzhina": 23.258773,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 137,
+      "ime": "SDI",
+      "shirina": 42.710997,
+      "dalzhina": 23.302297,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 138,
+      "ime": "SDI",
+      "shirina": 42.729824,
+      "dalzhina": 23.253367,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 139,
+      "ime": "SDI",
+      "shirina": 42.736108,
+      "dalzhina": 23.305663,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 140,
+      "ime": "SDI",
+      "shirina": 43.07913,
+      "dalzhina": 25.628033,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 141,
+      "ime": "SDI Broker",
+      "shirina": 41.940874,
+      "dalzhina": 25.555807,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 142,
+      "ime": "SDI Broker",
+      "shirina": 42.010388,
+      "dalzhina": 23.094304,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 143,
+      "ime": "SDI Broker",
+      "shirina": 42.015757,
+      "dalzhina": 23.095937,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 144,
+      "ime": "SDI Broker",
+      "shirina": 42.058478,
+      "dalzhina": 25.587502,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 145,
+      "ime": "SDI Broker",
+      "shirina": 42.090342,
+      "dalzhina": 25.211486,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 146,
+      "ime": "SDI Broker",
+      "shirina": 42.12493,
+      "dalzhina": 24.71997,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 147,
+      "ime": "SDI Broker",
+      "shirina": 42.133395,
+      "dalzhina": 24.789613,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 148,
+      "ime": "SDI Broker",
+      "shirina": 42.147467,
+      "dalzhina": 24.7406,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 149,
+      "ime": "SDI Broker",
+      "shirina": 42.166483,
+      "dalzhina": 24.75096,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 150,
+      "ime": "SDI Broker",
+      "shirina": 42.258932,
+      "dalzhina": 23.104142,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 151,
+      "ime": "SDI Broker",
+      "shirina": 42.432983,
+      "dalzhina": 25.638211,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 152,
+      "ime": "SDI Broker",
+      "shirina": 42.635475,
+      "dalzhina": 23.310391,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 153,
+      "ime": "SDI Broker",
+      "shirina": 42.638701,
+      "dalzhina": 23.371527,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 154,
+      "ime": "SDI Broker",
+      "shirina": 42.65264,
+      "dalzhina": 23.382233,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 155,
+      "ime": "SDI Broker",
+      "shirina": 42.653694,
+      "dalzhina": 23.360179,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 156,
+      "ime": "SDI Broker",
+      "shirina": 42.657364,
+      "dalzhina": 23.313817,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 157,
+      "ime": "SDI Broker",
+      "shirina": 42.660729,
+      "dalzhina": 23.38272,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 158,
+      "ime": "SDI Broker",
+      "shirina": 42.661551,
+      "dalzhina": 23.346502,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 159,
+      "ime": "SDI Broker",
+      "shirina": 42.663987,
+      "dalzhina": 23.288881,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 160,
+      "ime": "SDI Broker",
+      "shirina": 42.665318,
+      "dalzhina": 23.289308,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 161,
+      "ime": "SDI Broker",
+      "shirina": 42.668679,
+      "dalzhina": 23.394571,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 162,
+      "ime": "SDI Broker",
+      "shirina": 42.670572,
+      "dalzhina": 23.273772,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 163,
+      "ime": "SDI Broker",
+      "shirina": 42.670702,
+      "dalzhina": 23.257937,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 164,
+      "ime": "SDI Broker",
+      "shirina": 42.671012,
+      "dalzhina": 23.295304,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 165,
+      "ime": "SDI Broker",
+      "shirina": 42.677379,
+      "dalzhina": 23.28635,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 166,
+      "ime": "SDI Broker",
+      "shirina": 42.678814,
+      "dalzhina": 23.320329,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 167,
+      "ime": "SDI Broker",
+      "shirina": 42.683267,
+      "dalzhina": 23.267473,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 168,
+      "ime": "SDI Broker",
+      "shirina": 42.684014,
+      "dalzhina": 23.298038,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 169,
+      "ime": "SDI Broker",
+      "shirina": 42.695544,
+      "dalzhina": 23.286746,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 170,
+      "ime": "SDI Broker",
+      "shirina": 42.697327,
+      "dalzhina": 23.329867,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 171,
+      "ime": "SDI Broker",
+      "shirina": 42.699993,
+      "dalzhina": 23.317661,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 172,
+      "ime": "SDI Broker",
+      "shirina": 42.701676,
+      "dalzhina": 23.314293,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 173,
+      "ime": "SDI Broker",
+      "shirina": 42.708822,
+      "dalzhina": 23.458241,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 174,
+      "ime": "SDI Broker",
+      "shirina": 42.710275,
+      "dalzhina": 23.271287,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 175,
+      "ime": "SDI Broker",
+      "shirina": 42.710629,
+      "dalzhina": 23.291869,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 176,
+      "ime": "SDI Broker",
+      "shirina": 42.710942,
+      "dalzhina": 23.292392,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 177,
+      "ime": "SDI Broker",
+      "shirina": 42.712087,
+      "dalzhina": 23.338128,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 178,
+      "ime": "SDI Broker",
+      "shirina": 42.712507,
+      "dalzhina": 23.248456,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 179,
+      "ime": "SDI Broker",
+      "shirina": 42.718188,
+      "dalzhina": 23.278574,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 180,
+      "ime": "SDI Broker",
+      "shirina": 42.719348,
+      "dalzhina": 23.263606,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 181,
+      "ime": "SDI Broker",
+      "shirina": 42.725629,
+      "dalzhina": 23.241407,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 182,
+      "ime": "SDI Broker",
+      "shirina": 42.728624,
+      "dalzhina": 23.285896,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 183,
+      "ime": "SDI Broker",
+      "shirina": 42.735201,
+      "dalzhina": 23.292034,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 184,
+      "ime": "SDI Broker",
+      "shirina": 42.809343,
+      "dalzhina": 23.2128,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 185,
+      "ime": "SDI Broker",
+      "shirina": 43.128215,
+      "dalzhina": 25.683036,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 186,
+      "ime": "SDI Broker",
+      "shirina": 43.221621,
+      "dalzhina": 27.890646,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 187,
+      "ime": "SDI Broker",
+      "shirina": 43.276055,
+      "dalzhina": 26.942704,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 188,
+      "ime": "SDI Broker",
+      "shirina": 43.395131,
+      "dalzhina": 24.621232,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 189,
+      "ime": "SDI Broker",
+      "shirina": 43.41899,
+      "dalzhina": 24.626539,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 190,
+      "ime": "SDI broker",
+      "shirina": 42.676646,
+      "dalzhina": 23.303439,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 191,
+      "ime": "SDI broker",
+      "shirina": 42.911384,
+      "dalzhina": 23.803883,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 192,
+      "ime": "SDI Брокер",
+      "shirina": 43.075706,
+      "dalzhina": 25.611614,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 193,
+      "ime": "SDI Брокер",
+      "shirina": 43.077704,
+      "dalzhina": 25.610759,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 194,
+      "ime": "SMG Brokers",
+      "shirina": 42.671074,
+      "dalzhina": 23.27189,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 195,
+      "ime": "SofiaVipCars",
+      "shirina": 42.695226,
+      "dalzhina": 23.313997,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 196,
+      "ime": "StarIns",
+      "shirina": 42.678513,
+      "dalzhina": 26.318565,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 197,
+      "ime": "Tip In",
+      "shirina": 42.657052,
+      "dalzhina": 23.344822,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 198,
+      "ime": "Trump Capital",
+      "shirina": 42.14688,
+      "dalzhina": 24.764244,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 199,
+      "ime": "Uniqa",
+      "shirina": 42.02039,
+      "dalzhina": 23.094024,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 200,
+      "ime": "Uniqa",
+      "shirina": 42.65808,
+      "dalzhina": 23.336861,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 201,
+      "ime": "Uniqa",
+      "shirina": 42.680094,
+      "dalzhina": 23.299957,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 202,
+      "ime": "Uniqa",
+      "shirina": 42.699396,
+      "dalzhina": 23.326205,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 203,
+      "ime": "Uniqa",
+      "shirina": 43.570825,
+      "dalzhina": 27.827033,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 204,
+      "ime": "Victoria",
+      "shirina": 42.61731,
+      "dalzhina": 25.392109,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 205,
+      "ime": "Vienna Insurance Group",
+      "shirina": 43.423974,
+      "dalzhina": 24.596686,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 206,
+      "ime": "Virtus Advisory",
+      "shirina": 42.676592,
+      "dalzhina": 23.319257,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 207,
+      "ime": "Zastrahovai.Me",
+      "shirina": 42.66057,
+      "dalzhina": 23.314507,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 208,
+      "ime": "bulins",
+      "shirina": 42.670762,
+      "dalzhina": 23.316224,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 209,
+      "ime": "bulins",
+      "shirina": 42.708304,
+      "dalzhina": 23.309068,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 210,
+      "ime": "st & t finance",
+      "shirina": 42.700924,
+      "dalzhina": 23.31061,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 211,
+      "ime": "zastrahovkite.net",
+      "shirina": 42.665114,
+      "dalzhina": 23.298958,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 212,
+      "ime": "Автомобилни застраховки",
+      "shirina": 42.777961,
+      "dalzhina": 23.274568,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 213,
+      "ime": "Аксиом",
+      "shirina": 42.143479,
+      "dalzhina": 24.752703,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 214,
+      "ime": "Аксиом",
+      "shirina": 42.679726,
+      "dalzhina": 23.3109,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 215,
+      "ime": "Акумпатори",
+      "shirina": 42.733261,
+      "dalzhina": 23.301866,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 216,
+      "ime": "Александър брокер",
+      "shirina": 42.702591,
+      "dalzhina": 23.323376,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 217,
+      "ime": "Александър брокер",
+      "shirina": 42.704091,
+      "dalzhina": 23.330359,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 218,
+      "ime": "Алианс",
+      "shirina": 42.139712,
+      "dalzhina": 24.755845,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 219,
+      "ime": "Алианц",
+      "shirina": 42.917908,
+      "dalzhina": 24.261225,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 220,
+      "ime": "Алианц",
+      "shirina": 43.212017,
+      "dalzhina": 27.907062,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 221,
+      "ime": "Амарант",
+      "shirina": 42.144514,
+      "dalzhina": 24.766369,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 222,
+      "ime": "Амарант",
+      "shirina": 42.639652,
+      "dalzhina": 23.381236,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 223,
+      "ime": "Амарант",
+      "shirina": 42.699408,
+      "dalzhina": 23.286673,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 224,
+      "ime": "Амарант",
+      "shirina": 42.714292,
+      "dalzhina": 23.252421,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 225,
+      "ime": "Амарант България",
+      "shirina": 42.665971,
+      "dalzhina": 23.301316,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 226,
+      "ime": "Амарант България",
+      "shirina": 42.675205,
+      "dalzhina": 23.290167,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 227,
+      "ime": "Армеец",
+      "shirina": 41.932877,
+      "dalzhina": 25.56012,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 228,
+      "ime": "Армеец",
+      "shirina": 42.027939,
+      "dalzhina": 23.991241,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 229,
+      "ime": "Армеец",
+      "shirina": 42.653276,
+      "dalzhina": 23.373454,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 230,
+      "ime": "Армеец",
+      "shirina": 42.660384,
+      "dalzhina": 23.349145,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 231,
+      "ime": "Армеец",
+      "shirina": 42.663525,
+      "dalzhina": 23.317028,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 232,
+      "ime": "Армеец",
+      "shirina": 42.678182,
+      "dalzhina": 23.383072,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 233,
+      "ime": "Армеец",
+      "shirina": 42.681326,
+      "dalzhina": 23.321731,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 234,
+      "ime": "Армеец",
+      "shirina": 42.689383,
+      "dalzhina": 23.321316,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 235,
+      "ime": "Армеец",
+      "shirina": 42.692308,
+      "dalzhina": 23.327504,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 236,
+      "ime": "Армеец",
+      "shirina": 42.699896,
+      "dalzhina": 23.302101,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 237,
+      "ime": "Армеец",
+      "shirina": 43.20934,
+      "dalzhina": 27.909578,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 238,
+      "ime": "Армеец",
+      "shirina": 43.565241,
+      "dalzhina": 27.832587,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 239,
+      "ime": "Асет иншурънс",
+      "shirina": 42.680675,
+      "dalzhina": 23.287622,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 240,
+      "ime": "Ахтагон",
+      "shirina": 42.687918,
+      "dalzhina": 23.303612,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 241,
+      "ime": "БКИ брокер",
+      "shirina": 42.669627,
+      "dalzhina": 23.285996,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 242,
+      "ime": "Балкан",
+      "shirina": 42.285674,
+      "dalzhina": 22.683296,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 243,
+      "ime": "Балканска застрахователно-брокерска къща",
+      "shirina": 42.65718,
+      "dalzhina": 23.337422,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 244,
+      "ime": "Балканъ",
+      "shirina": 42.707126,
+      "dalzhina": 23.328392,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 245,
+      "ime": "Балканъ",
+      "shirina": 43.209213,
+      "dalzhina": 27.913879,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 246,
+      "ime": "Брокер Инс",
+      "shirina": 42.693013,
+      "dalzhina": 23.316625,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 247,
+      "ime": "Бул Инс",
+      "shirina": 42.90752,
+      "dalzhina": 23.789006,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 248,
+      "ime": "Бул брокер ООД",
+      "shirina": 42.675762,
+      "dalzhina": 23.265618,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 249,
+      "ime": "Бул инс",
+      "shirina": 42.704081,
+      "dalzhina": 23.330397,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 250,
+      "ime": "Булинс",
+      "shirina": 43.209388,
+      "dalzhina": 27.910646,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 251,
+      "ime": "Булстар",
+      "shirina": 42.694743,
+      "dalzhina": 23.319707,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 252,
+      "ime": "Булстрад",
+      "shirina": 41.930233,
+      "dalzhina": 25.562847,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 253,
+      "ime": "Булстрад",
+      "shirina": 42.66446,
+      "dalzhina": 23.316807,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 254,
+      "ime": "Булстрад",
+      "shirina": 42.688192,
+      "dalzhina": 23.332943,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 255,
+      "ime": "Булстрад",
+      "shirina": 42.695677,
+      "dalzhina": 23.317879,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 256,
+      "ime": "Булстрад",
+      "shirina": 42.696349,
+      "dalzhina": 23.340584,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 257,
+      "ime": "Булстрад",
+      "shirina": 42.702628,
+      "dalzhina": 23.333759,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 258,
+      "ime": "Булстрад - Генерална Агенция",
+      "shirina": 42.695496,
+      "dalzhina": 23.32822,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 259,
+      "ime": "Булстрад - център за застрахователни претенции",
+      "shirina": 42.636721,
+      "dalzhina": 23.402828,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 260,
+      "ime": "Булстрад Живот",
+      "shirina": 42.696332,
+      "dalzhina": 23.320114,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 261,
+      "ime": "Булстрад Парадайс",
+      "shirina": 42.65974,
+      "dalzhina": 23.314292,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 262,
+      "ime": "ВИП застраховане",
+      "shirina": 43.216305,
+      "dalzhina": 27.927997,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 263,
+      "ime": "Вараша",
+      "shirina": 42.146854,
+      "dalzhina": 24.764053,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 264,
+      "ime": "Гарант инс",
+      "shirina": 42.67856,
+      "dalzhina": 23.300318,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 265,
+      "ime": "Грийн брокеридж",
+      "shirina": 42.678331,
+      "dalzhina": 23.286645,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 266,
+      "ime": "ДЗИ",
+      "shirina": 42.142788,
+      "dalzhina": 24.751797,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 267,
+      "ime": "ДЗИ",
+      "shirina": 42.650056,
+      "dalzhina": 23.363011,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 268,
+      "ime": "ДЗИ",
+      "shirina": 42.660285,
+      "dalzhina": 23.348854,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 269,
+      "ime": "ДЗИ",
+      "shirina": 42.666823,
+      "dalzhina": 23.290629,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 270,
+      "ime": "ДЗИ",
+      "shirina": 42.669582,
+      "dalzhina": 23.598803,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 271,
+      "ime": "ДЗИ",
+      "shirina": 42.671294,
+      "dalzhina": 23.322198,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 272,
+      "ime": "ДЗИ",
+      "shirina": 42.67141,
+      "dalzhina": 23.277615,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 273,
+      "ime": "ДЗИ",
+      "shirina": 42.672733,
+      "dalzhina": 23.297161,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 274,
+      "ime": "ДЗИ",
+      "shirina": 42.675621,
+      "dalzhina": 23.30186,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 275,
+      "ime": "ДЗИ",
+      "shirina": 42.676609,
+      "dalzhina": 23.360724,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 276,
+      "ime": "ДЗИ",
+      "shirina": 42.679368,
+      "dalzhina": 26.320034,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 277,
+      "ime": "ДЗИ",
+      "shirina": 42.682497,
+      "dalzhina": 23.314653,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 278,
+      "ime": "ДЗИ",
+      "shirina": 42.685111,
+      "dalzhina": 23.3005,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 279,
+      "ime": "ДЗИ",
+      "shirina": 42.687185,
+      "dalzhina": 23.331354,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 280,
+      "ime": "ДЗИ",
+      "shirina": 42.695426,
+      "dalzhina": 23.328356,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 281,
+      "ime": "ДЗИ",
+      "shirina": 42.695608,
+      "dalzhina": 23.347189,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 282,
+      "ime": "ДЗИ",
+      "shirina": 42.704499,
+      "dalzhina": 23.310263,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 283,
+      "ime": "ДЗИ",
+      "shirina": 42.709558,
+      "dalzhina": 23.313346,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 284,
+      "ime": "ДЗИ",
+      "shirina": 42.709997,
+      "dalzhina": 23.318261,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 285,
+      "ime": "ДЗИ",
+      "shirina": 42.712484,
+      "dalzhina": 23.269123,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 286,
+      "ime": "ДЗИ",
+      "shirina": 42.885065,
+      "dalzhina": 24.710893,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 287,
+      "ime": "ДЗИ",
+      "shirina": 43.42106,
+      "dalzhina": 24.599356,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 288,
+      "ime": "ДЗИ",
+      "shirina": 43.625763,
+      "dalzhina": 22.685457,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 289,
+      "ime": "ДЗИ Ликвидационен център",
+      "shirina": 42.131626,
+      "dalzhina": 24.679593,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 290,
+      "ime": "ДЗИ Стара Загора",
+      "shirina": 42.42183,
+      "dalzhina": 25.628284,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 291,
+      "ime": "Дженерали Застраховане",
+      "shirina": 42.660056,
+      "dalzhina": 23.260296,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 292,
+      "ime": "Доверие",
+      "shirina": 42.667223,
+      "dalzhina": 23.354213,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 293,
+      "ime": "Доверие",
+      "shirina": 42.696486,
+      "dalzhina": 23.337017,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 294,
+      "ime": "Доверие",
+      "shirina": 42.697496,
+      "dalzhina": 23.317622,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 295,
+      "ime": "Доверие",
+      "shirina": 42.707774,
+      "dalzhina": 23.322642,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 296,
+      "ime": "Драбел",
+      "shirina": 42.708992,
+      "dalzhina": 23.313872,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 297,
+      "ime": "ЕвроИнс",
+      "shirina": 41.888263,
+      "dalzhina": 23.468129,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 298,
+      "ime": "Евроинс",
+      "shirina": 42.685328,
+      "dalzhina": 23.312715,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 299,
+      "ime": "Ес Ер Инс",
+      "shirina": 42.669386,
+      "dalzhina": 23.35412,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 300,
+      "ime": "Еуроброкерс груп",
+      "shirina": 42.128677,
+      "dalzhina": 24.743454,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 301,
+      "ime": "Жагрова къща",
+      "shirina": 43.198458,
+      "dalzhina": 27.914878,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 302,
+      "ime": "Застрахователен брокер",
+      "shirina": 41.930388,
+      "dalzhina": 25.564733,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 303,
+      "ime": "Застрахователно дружество Euroins",
+      "shirina": 43.570539,
+      "dalzhina": 27.825772,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 304,
+      "ime": "Зенит",
+      "shirina": 42.654574,
+      "dalzhina": 23.33878,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 305,
+      "ime": "Инс Брокер България",
+      "shirina": 42.547868,
+      "dalzhina": 22.966566,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 306,
+      "ime": "Инстрейд",
+      "shirina": 42.670662,
+      "dalzhina": 23.350804,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 307,
+      "ime": "Инстрейд",
+      "shirina": 42.677323,
+      "dalzhina": 23.292416,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 308,
+      "ime": "Инстроментален цех - ЗТКИ ООД",
+      "shirina": 42.442157,
+      "dalzhina": 26.534641,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 309,
+      "ime": "Интерприма",
+      "shirina": 42.668685,
+      "dalzhina": 23.280598,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 310,
+      "ime": "Йоанна 97",
+      "shirina": 42.67803,
+      "dalzhina": 23.293042,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 311,
+      "ime": "Йоанна Димитрова",
+      "shirina": 42.673282,
+      "dalzhina": 23.299442,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 312,
+      "ime": "Корект брокер",
+      "shirina": 42.660665,
+      "dalzhina": 23.282829,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 313,
+      "ime": "Корпорекс",
+      "shirina": 42.69792,
+      "dalzhina": 23.312314,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 314,
+      "ime": "Кредит Център",
+      "shirina": 42.139604,
+      "dalzhina": 24.751696,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 315,
+      "ime": "Лев Инс",
+      "shirina": 41.378103,
+      "dalzhina": 25.255638,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 316,
+      "ime": "Лев Инс",
+      "shirina": 42.098624,
+      "dalzhina": 25.223774,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 317,
+      "ime": "Лев Инс",
+      "shirina": 42.707431,
+      "dalzhina": 23.317807,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 318,
+      "ime": "Лев Инс",
+      "shirina": 42.709745,
+      "dalzhina": 23.293324,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 319,
+      "ime": "Лев Инс",
+      "shirina": 42.907626,
+      "dalzhina": 23.78898,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 320,
+      "ime": "Лев инс",
+      "shirina": 42.634381,
+      "dalzhina": 23.379715,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 321,
+      "ime": "Лев инс",
+      "shirina": 42.677288,
+      "dalzhina": 23.319948,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 322,
+      "ime": "Лев инс",
+      "shirina": 42.680303,
+      "dalzhina": 23.321968,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 323,
+      "ime": "Лев инс",
+      "shirina": 42.693628,
+      "dalzhina": 23.349899,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 324,
+      "ime": "ЛевИнс",
+      "shirina": 42.156653,
+      "dalzhina": 24.747617,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 325,
+      "ime": "ЛевИнс",
+      "shirina": 42.64472,
+      "dalzhina": 23.334315,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 326,
+      "ime": "ЛевИнс",
+      "shirina": 42.65307,
+      "dalzhina": 23.373632,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 327,
+      "ime": "ЛевИнс",
+      "shirina": 42.668305,
+      "dalzhina": 23.265575,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 328,
+      "ime": "ЛевИнс",
+      "shirina": 42.699788,
+      "dalzhina": 23.327782,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 329,
+      "ime": "ЛевИнс",
+      "shirina": 42.851348,
+      "dalzhina": 23.035201,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 330,
+      "ime": "Левинс",
+      "shirina": 41.835243,
+      "dalzhina": 23.485628,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 331,
+      "ime": "Ленмар",
+      "shirina": 43.22288,
+      "dalzhina": 27.929354,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 332,
+      "ime": "Либра",
+      "shirina": 43.214655,
+      "dalzhina": 27.916159,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 333,
+      "ime": "Либра",
+      "shirina": 43.221591,
+      "dalzhina": 27.934314,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 334,
+      "ime": "Либра Застраховане",
+      "shirina": 43.571739,
+      "dalzhina": 27.832867,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 335,
+      "ime": "Линк ООД",
+      "shirina": 43.203516,
+      "dalzhina": 27.919666,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 336,
+      "ime": "Люлин Трейд Пропъртис",
+      "shirina": 42.713302,
+      "dalzhina": 23.24819,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 337,
+      "ime": "МАТ брокер",
+      "shirina": 42.662447,
+      "dalzhina": 23.315451,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 338,
+      "ime": "МВМ",
+      "shirina": 42.693932,
+      "dalzhina": 23.314289,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 339,
+      "ime": "Мартика брокер",
+      "shirina": 42.662249,
+      "dalzhina": 23.302086,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 340,
+      "ime": "Мегер",
+      "shirina": 42.679842,
+      "dalzhina": 23.324949,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 341,
+      "ime": "Мусала",
+      "shirina": 41.5721,
+      "dalzhina": 24.715284,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 342,
+      "ime": "Мусала",
+      "shirina": 42.141388,
+      "dalzhina": 24.739524,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 343,
+      "ime": "Мусала",
+      "shirina": 42.147489,
+      "dalzhina": 24.778217,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 344,
+      "ime": "Мусала",
+      "shirina": 42.66783,
+      "dalzhina": 23.299083,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 345,
+      "ime": "Мусала",
+      "shirina": 42.673786,
+      "dalzhina": 23.333546,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 346,
+      "ime": "Мусала",
+      "shirina": 43.223381,
+      "dalzhina": 27.914414,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 347,
+      "ime": "Мусала Иншурънс Брокер",
+      "shirina": 41.93363,
+      "dalzhina": 25.55588,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 348,
+      "ime": "Мусала Иншурънс Брокер",
+      "shirina": 43.203705,
+      "dalzhina": 27.919162,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 349,
+      "ime": "ОЗК",
+      "shirina": 42.156238,
+      "dalzhina": 24.74714,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 350,
+      "ime": "ОЗК",
+      "shirina": 42.610676,
+      "dalzhina": 23.039475,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 351,
+      "ime": "ОЗК",
+      "shirina": 42.654812,
+      "dalzhina": 23.369582,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 352,
+      "ime": "ОЗК",
+      "shirina": 42.662432,
+      "dalzhina": 23.285788,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 353,
+      "ime": "ОЗК",
+      "shirina": 42.668449,
+      "dalzhina": 23.319609,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 354,
+      "ime": "ОЗК",
+      "shirina": 42.67252,
+      "dalzhina": 23.293173,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 355,
+      "ime": "ОЗК",
+      "shirina": 42.674796,
+      "dalzhina": 23.360799,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 356,
+      "ime": "ОЗК",
+      "shirina": 42.695951,
+      "dalzhina": 23.316342,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 357,
+      "ime": "ОЗК",
+      "shirina": 42.696291,
+      "dalzhina": 23.341918,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 358,
+      "ime": "ОЗК",
+      "shirina": 42.698284,
+      "dalzhina": 23.328758,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 359,
+      "ime": "ОЗК",
+      "shirina": 42.882568,
+      "dalzhina": 24.709605,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 360,
+      "ime": "ОЗК",
+      "shirina": 43.076517,
+      "dalzhina": 25.602619,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 361,
+      "ime": "ОЗК",
+      "shirina": 43.209744,
+      "dalzhina": 27.911022,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 362,
+      "ime": "ОЗК Застраховане",
+      "shirina": 41.933118,
+      "dalzhina": 25.559419,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 363,
+      "ime": "Пи Брокер",
+      "shirina": 43.268559,
+      "dalzhina": 26.935662,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 364,
+      "ime": "Първа застрахователна посредническа къща",
+      "shirina": 42.140273,
+      "dalzhina": 24.752597,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 365,
+      "ime": "Служба по Трудова медицина",
+      "shirina": 43.845926,
+      "dalzhina": 25.948732,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 366,
+      "ime": "София инс брокер",
+      "shirina": 42.674213,
+      "dalzhina": 23.297627,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 367,
+      "ime": "Съгласие",
+      "shirina": 42.696244,
+      "dalzhina": 23.316665,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 368,
+      "ime": "Тича",
+      "shirina": 43.215216,
+      "dalzhina": 27.932557,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 369,
+      "ime": "Токуда брокер",
+      "shirina": 42.615937,
+      "dalzhina": 23.337942,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 370,
+      "ime": "Уника живот АД",
+      "shirina": 42.69983,
+      "dalzhina": 23.312594,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 371,
+      "ime": "Форуком",
+      "shirina": 42.684291,
+      "dalzhina": 23.354446,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 372,
+      "ime": "Център за социални грижи",
+      "shirina": 41.377847,
+      "dalzhina": 25.256566,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 373,
+      "ime": "Юнайтед брокер",
+      "shirina": 42.667212,
+      "dalzhina": 23.285414,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    },
+    {
+      "id": 374,
+      "ime": "Юримекс",
+      "shirina": 42.677412,
+      "dalzhina": 23.290206,
+      "osm_klyuch": "office",
+      "osm_stoynost": "insurance",
+      "osm_klas": "office=insurance"
+    }
+  ],
+  "meta": {
+    "title": "Застрахователни офиси в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Застрахователни офиси в България — 374 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `office=insurance`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 374 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Застрахователни офиси в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Застрахователни офиси в България (OpenStreetMap) — 374 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 374 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

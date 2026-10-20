@@ -1,0 +1,1474 @@
+{
+  "id": "bg-osm-shop-computer",
+  "name": "Компютърни магазини в България (OpenStreetMap)",
+  "title": "Компютърни магазини в България (OpenStreetMap)",
+  "description": "Компютърни магазини в България — 157 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=computer`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 157,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Ardes",
+      "shirina": 42.658977,
+      "dalzhina": 23.363243,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 2,
+      "ime": "Ardes.bg",
+      "shirina": 42.146512,
+      "dalzhina": 24.758949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 3,
+      "ime": "Ardes.bg - Сливница",
+      "shirina": 43.213248,
+      "dalzhina": 27.908574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 4,
+      "ime": "Ardes.bg Велико Търново",
+      "shirina": 43.073393,
+      "dalzhina": 25.626414,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 5,
+      "ime": "Basic systems",
+      "shirina": 42.691586,
+      "dalzhina": 23.363342,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 6,
+      "ime": "Bergon Computers",
+      "shirina": 43.567989,
+      "dalzhina": 27.830651,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 7,
+      "ime": "BestPC.BG",
+      "shirina": 42.648395,
+      "dalzhina": 23.408946,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 8,
+      "ime": "Binary Systems",
+      "shirina": 42.677646,
+      "dalzhina": 23.300834,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 9,
+      "ime": "Blizoo",
+      "shirina": 43.849164,
+      "dalzhina": 25.952077,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 10,
+      "ime": "ByteCom",
+      "shirina": 43.079573,
+      "dalzhina": 25.627784,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 11,
+      "ime": "CRASH",
+      "shirina": 42.64812,
+      "dalzhina": 23.338172,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 12,
+      "ime": "CompDoctor.eu",
+      "shirina": 43.084824,
+      "dalzhina": 25.635884,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 13,
+      "ime": "Computer Doctors Ltd",
+      "shirina": 42.673319,
+      "dalzhina": 26.337316,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 14,
+      "ime": "Computer Market",
+      "shirina": 42.491458,
+      "dalzhina": 27.474694,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 15,
+      "ime": "Computer Service Vitosha",
+      "shirina": 42.661515,
+      "dalzhina": 23.316689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 16,
+      "ime": "Comshop",
+      "shirina": 42.151829,
+      "dalzhina": 24.739282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 17,
+      "ime": "Comsis",
+      "shirina": 43.074204,
+      "dalzhina": 25.6187,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 18,
+      "ime": "D&G",
+      "shirina": 43.217672,
+      "dalzhina": 27.929174,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 19,
+      "ime": "DATASYS",
+      "shirina": 43.849324,
+      "dalzhina": 25.951042,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 20,
+      "ime": "DVS Computers",
+      "shirina": 42.606487,
+      "dalzhina": 23.034754,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 21,
+      "ime": "Danieli Computers",
+      "shirina": 42.605521,
+      "dalzhina": 23.035655,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 22,
+      "ime": "Data Art",
+      "shirina": 42.700443,
+      "dalzhina": 23.308373,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 23,
+      "ime": "DataCom.bg",
+      "shirina": 42.702047,
+      "dalzhina": 23.332969,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 24,
+      "ime": "Doctor Comp",
+      "shirina": 42.619594,
+      "dalzhina": 25.388555,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 25,
+      "ime": "Dr. Smartcomp",
+      "shirina": 42.692052,
+      "dalzhina": 23.316346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 26,
+      "ime": "GDM Group Dentist help",
+      "shirina": 42.678103,
+      "dalzhina": 23.300499,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 27,
+      "ime": "GT computers",
+      "shirina": 42.700299,
+      "dalzhina": 23.329667,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 28,
+      "ime": "Global Net",
+      "shirina": 41.63878,
+      "dalzhina": 25.373421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 29,
+      "ime": "Hi-tech",
+      "shirina": 43.825896,
+      "dalzhina": 27.140234,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 30,
+      "ime": "Hikvision",
+      "shirina": 42.671498,
+      "dalzhina": 23.288301,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 31,
+      "ime": "Home automation center",
+      "shirina": 42.658175,
+      "dalzhina": 23.339854,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 32,
+      "ime": "Hop.bg",
+      "shirina": 43.233823,
+      "dalzhina": 27.87972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 33,
+      "ime": "IBS",
+      "shirina": 42.66602,
+      "dalzhina": 23.352315,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 34,
+      "ime": "ITR Bulgaria Ltd",
+      "shirina": 42.516016,
+      "dalzhina": 27.445514,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 35,
+      "ime": "Itarea",
+      "shirina": 42.672802,
+      "dalzhina": 23.287539,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 36,
+      "ime": "Izot Computers",
+      "shirina": 42.145862,
+      "dalzhina": 24.75989,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 37,
+      "ime": "JAR Computers",
+      "shirina": 42.504429,
+      "dalzhina": 27.469179,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 38,
+      "ime": "JAR Computers",
+      "shirina": 42.63726,
+      "dalzhina": 24.807345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 39,
+      "ime": "Jar Computers",
+      "shirina": 42.016226,
+      "dalzhina": 23.095607,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 40,
+      "ime": "Jar Computers",
+      "shirina": 42.142716,
+      "dalzhina": 24.744885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 41,
+      "ime": "Jar Computers",
+      "shirina": 43.22118,
+      "dalzhina": 27.925634,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 42,
+      "ime": "Jilanov",
+      "shirina": 42.710727,
+      "dalzhina": 23.377627,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 43,
+      "ime": "KALSET.COM Service",
+      "shirina": 42.610015,
+      "dalzhina": 23.098457,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 44,
+      "ime": "Krios",
+      "shirina": 43.56937,
+      "dalzhina": 27.828512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 45,
+      "ime": "Kyocera Service",
+      "shirina": 42.132709,
+      "dalzhina": 24.798752,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 46,
+      "ime": "LMG Computers",
+      "shirina": 42.689568,
+      "dalzhina": 23.314275,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 47,
+      "ime": "Lenovo",
+      "shirina": 42.666094,
+      "dalzhina": 23.352718,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 48,
+      "ime": "Lynx IT",
+      "shirina": 43.207292,
+      "dalzhina": 27.917834,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 49,
+      "ime": "MARMAX COMPUTER",
+      "shirina": 42.671066,
+      "dalzhina": 23.358223,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 50,
+      "ime": "MG Computers",
+      "shirina": 42.680311,
+      "dalzhina": 26.312991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 51,
+      "ime": "MGC",
+      "shirina": 42.676476,
+      "dalzhina": 23.295494,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 52,
+      "ime": "MM Systems",
+      "shirina": 42.692748,
+      "dalzhina": 23.312108,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 53,
+      "ime": "MOST Computers",
+      "shirina": 42.679885,
+      "dalzhina": 23.358963,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 54,
+      "ime": "MOST Стара Загора",
+      "shirina": 42.421765,
+      "dalzhina": 25.627885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 55,
+      "ime": "MasterComputer",
+      "shirina": 42.697331,
+      "dalzhina": 23.287267,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 56,
+      "ime": "Mobiland",
+      "shirina": 42.140189,
+      "dalzhina": 24.75959,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 57,
+      "ime": "Mobiland",
+      "shirina": 42.157114,
+      "dalzhina": 24.745693,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 58,
+      "ime": "Mrejata",
+      "shirina": 42.671134,
+      "dalzhina": 23.294573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 59,
+      "ime": "NetWorx-BG",
+      "shirina": 43.83069,
+      "dalzhina": 25.970818,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 60,
+      "ime": "Noortech",
+      "shirina": 42.710263,
+      "dalzhina": 23.292305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 61,
+      "ime": "Noxes",
+      "shirina": 42.733146,
+      "dalzhina": 23.299763,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 62,
+      "ime": "PC Shop",
+      "shirina": 43.569057,
+      "dalzhina": 27.827034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 63,
+      "ime": "PC build",
+      "shirina": 42.69294,
+      "dalzhina": 23.359251,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 64,
+      "ime": "PIC Computer",
+      "shirina": 42.14111,
+      "dalzhina": 24.77222,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 65,
+      "ime": "Pctop",
+      "shirina": 42.650802,
+      "dalzhina": 23.340113,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 66,
+      "ime": "Pic.bg",
+      "shirina": 42.662842,
+      "dalzhina": 23.316899,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 67,
+      "ime": "Pimp My PC",
+      "shirina": 43.207124,
+      "dalzhina": 27.903358,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 68,
+      "ime": "Pleven Computers",
+      "shirina": 43.40054,
+      "dalzhina": 24.640907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 69,
+      "ime": "Printerjet/Technojet",
+      "shirina": 42.696791,
+      "dalzhina": 23.317806,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 70,
+      "ime": "Realvision",
+      "shirina": 42.705826,
+      "dalzhina": 23.31665,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 71,
+      "ime": "SMS",
+      "shirina": 42.146614,
+      "dalzhina": 24.760687,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 72,
+      "ime": "Second Parts",
+      "shirina": 42.668642,
+      "dalzhina": 23.289778,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 73,
+      "ime": "Serviz.bg",
+      "shirina": 42.688355,
+      "dalzhina": 23.345259,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 74,
+      "ime": "Seven systems",
+      "shirina": 42.663611,
+      "dalzhina": 23.300684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 75,
+      "ime": "Space devices",
+      "shirina": 42.676925,
+      "dalzhina": 23.325134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 76,
+      "ime": "Stone computers",
+      "shirina": 42.658002,
+      "dalzhina": 23.339922,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 77,
+      "ime": "TM Технологии",
+      "shirina": 43.20331,
+      "dalzhina": 27.907727,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 78,
+      "ime": "Tehnolux",
+      "shirina": 41.638775,
+      "dalzhina": 25.373547,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 79,
+      "ime": "Unicoms",
+      "shirina": 43.213465,
+      "dalzhina": 27.900731,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 80,
+      "ime": "Unit",
+      "shirina": 42.664638,
+      "dalzhina": 23.28517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 81,
+      "ime": "Unitrade electronics",
+      "shirina": 42.683626,
+      "dalzhina": 23.327327,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 82,
+      "ime": "VSVComputers",
+      "shirina": 42.285873,
+      "dalzhina": 24.962868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 83,
+      "ime": "Vali",
+      "shirina": 42.702478,
+      "dalzhina": 23.335547,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 84,
+      "ime": "Vali Computers",
+      "shirina": 43.567157,
+      "dalzhina": 27.823341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 85,
+      "ime": "WaveNet",
+      "shirina": 42.495495,
+      "dalzhina": 27.465868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 86,
+      "ime": "Xtreme",
+      "shirina": 42.664339,
+      "dalzhina": 23.354802,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 87,
+      "ime": "ata computers",
+      "shirina": 42.9066,
+      "dalzhina": 23.788583,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 88,
+      "ime": "bMax",
+      "shirina": 42.136794,
+      "dalzhina": 24.746865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 89,
+      "ime": "bataka",
+      "shirina": 41.919356,
+      "dalzhina": 25.908893,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 90,
+      "ime": "config.bg",
+      "shirina": 42.137554,
+      "dalzhina": 24.756531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 91,
+      "ime": "hop.bg",
+      "shirina": 42.135537,
+      "dalzhina": 24.789563,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 92,
+      "ime": "iZoneBG",
+      "shirina": 42.662347,
+      "dalzhina": 23.352353,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 93,
+      "ime": "nastech.bg",
+      "shirina": 42.618904,
+      "dalzhina": 25.38975,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 94,
+      "ime": "omni.bg",
+      "shirina": 42.653599,
+      "dalzhina": 24.756299,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 95,
+      "ime": "pix-L",
+      "shirina": 42.663787,
+      "dalzhina": 27.71725,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 96,
+      "ime": "promocia.com",
+      "shirina": 42.678253,
+      "dalzhina": 23.291534,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 97,
+      "ime": "serviz.bg",
+      "shirina": 42.701938,
+      "dalzhina": 23.310904,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 98,
+      "ime": "stora computers Ltd",
+      "shirina": 42.043797,
+      "dalzhina": 24.466612,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 99,
+      "ime": "www.LaptopBG.com",
+      "shirina": 42.662408,
+      "dalzhina": 23.315686,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 100,
+      "ime": "www.ngroup.bg",
+      "shirina": 42.699671,
+      "dalzhina": 23.303566,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 101,
+      "ime": "АРИЕЛ 99",
+      "shirina": 42.163105,
+      "dalzhina": 24.749275,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 102,
+      "ime": "АТА Компютърс",
+      "shirina": 42.909198,
+      "dalzhina": 23.788353,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 103,
+      "ime": "Актим",
+      "shirina": 42.423684,
+      "dalzhina": 25.626979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 104,
+      "ime": "Алтер ЕООД",
+      "shirina": 43.406863,
+      "dalzhina": 24.616341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 105,
+      "ime": "Баланс 37",
+      "shirina": 42.482241,
+      "dalzhina": 26.511835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 106,
+      "ime": "Брандкомпютърс",
+      "shirina": 42.719993,
+      "dalzhina": 23.263641,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 107,
+      "ime": "Бул Сис",
+      "shirina": 42.700227,
+      "dalzhina": 23.315079,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 108,
+      "ime": "Валперс",
+      "shirina": 41.931759,
+      "dalzhina": 25.520533,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 109,
+      "ime": "Веспо-41",
+      "shirina": 42.676172,
+      "dalzhina": 23.300581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 110,
+      "ime": "Видело оод",
+      "shirina": 42.673025,
+      "dalzhina": 23.365579,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 111,
+      "ime": "Вудутек Компютри",
+      "shirina": 42.002075,
+      "dalzhina": 23.111044,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 112,
+      "ime": "Вудутек Компютри (VoodooTech Computers)",
+      "shirina": 42.014247,
+      "dalzhina": 23.092101,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 113,
+      "ime": "ГСМ и Компютри",
+      "shirina": 43.427621,
+      "dalzhina": 23.753602,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 114,
+      "ime": "Гигахерц",
+      "shirina": 42.139028,
+      "dalzhina": 24.75083,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 115,
+      "ime": "ДИМОВ КОМПЮТЪРС",
+      "shirina": 43.215337,
+      "dalzhina": 27.901501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 116,
+      "ime": "Диона М",
+      "shirina": 43.566479,
+      "dalzhina": 27.831107,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 117,
+      "ime": "Долфи Сървиз",
+      "shirina": 43.206956,
+      "dalzhina": 27.897326,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 118,
+      "ime": "Екомсофт",
+      "shirina": 43.571002,
+      "dalzhina": 27.826974,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 119,
+      "ime": "ЖАР Компютърс",
+      "shirina": 42.690847,
+      "dalzhina": 23.351909,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 120,
+      "ime": "ЖАР Компютърс",
+      "shirina": 42.691069,
+      "dalzhina": 23.293906,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 121,
+      "ime": "ЖАР Компютърс",
+      "shirina": 43.18929,
+      "dalzhina": 27.446451,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 122,
+      "ime": "ЖАР Компютърс-Руски паметник",
+      "shirina": 42.692339,
+      "dalzhina": 23.305966,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 123,
+      "ime": "Изток",
+      "shirina": 42.672823,
+      "dalzhina": 23.35755,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 124,
+      "ime": "Интерсервиз-20",
+      "shirina": 42.709344,
+      "dalzhina": 23.316964,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 125,
+      "ime": "Ирадеум",
+      "shirina": 42.676261,
+      "dalzhina": 26.322523,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 126,
+      "ime": "КМ Компютри",
+      "shirina": 42.657731,
+      "dalzhina": 23.348734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 127,
+      "ime": "Комексперт",
+      "shirina": 42.69683,
+      "dalzhina": 23.224305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 128,
+      "ime": "Комелсис Груп",
+      "shirina": 42.421318,
+      "dalzhina": 25.610095,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 129,
+      "ime": "Компютри",
+      "shirina": 42.041743,
+      "dalzhina": 24.46979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 130,
+      "ime": "Компютрите",
+      "shirina": 42.195691,
+      "dalzhina": 24.32098,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 131,
+      "ime": "Компютър Консулт",
+      "shirina": 41.931109,
+      "dalzhina": 25.559411,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 132,
+      "ime": "Компютърни Системи ЕООД",
+      "shirina": 42.708894,
+      "dalzhina": 23.346538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 133,
+      "ime": "МД Електрон",
+      "shirina": 42.148905,
+      "dalzhina": 24.74112,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 134,
+      "ime": "Магазин за компютри \"JARComputers\"",
+      "shirina": 42.193578,
+      "dalzhina": 24.332349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 135,
+      "ime": "Магазин за компютри \"JARComputers\"",
+      "shirina": 42.19854,
+      "dalzhina": 24.328558,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 136,
+      "ime": "Мартех",
+      "shirina": 42.619795,
+      "dalzhina": 25.395349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 137,
+      "ime": "Менора",
+      "shirina": 43.569426,
+      "dalzhina": 27.827058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 138,
+      "ime": "Младост компютри",
+      "shirina": 42.661414,
+      "dalzhina": 23.376238,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 139,
+      "ime": "Новотика",
+      "shirina": 43.076866,
+      "dalzhina": 25.622178,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 140,
+      "ime": "Паком-П",
+      "shirina": 42.676426,
+      "dalzhina": 23.310367,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 141,
+      "ime": "Перси ООД",
+      "shirina": 42.691102,
+      "dalzhina": 23.283548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 142,
+      "ime": "Пласико",
+      "shirina": 42.648641,
+      "dalzhina": 23.372734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 143,
+      "ime": "Пласико",
+      "shirina": 43.224348,
+      "dalzhina": 27.880494,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 144,
+      "ime": "Плесио",
+      "shirina": 42.692853,
+      "dalzhina": 23.322517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 145,
+      "ime": "Рива",
+      "shirina": 42.49454,
+      "dalzhina": 27.477226,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 146,
+      "ime": "Рива",
+      "shirina": 42.495962,
+      "dalzhina": 27.47461,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 147,
+      "ime": "Ромит ООД",
+      "shirina": 42.148619,
+      "dalzhina": 24.74092,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 148,
+      "ime": "Сенетик",
+      "shirina": 42.625494,
+      "dalzhina": 23.380987,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 149,
+      "ime": "Сервиз Компютри",
+      "shirina": 42.674614,
+      "dalzhina": 23.295206,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 150,
+      "ime": "Систинг компютри",
+      "shirina": 42.705787,
+      "dalzhina": 23.317226,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 151,
+      "ime": "София компютърс",
+      "shirina": 42.681097,
+      "dalzhina": 23.285391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 152,
+      "ime": "Стилтех компютърс",
+      "shirina": 42.67875,
+      "dalzhina": 23.323265,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 153,
+      "ime": "Терабайт",
+      "shirina": 42.877041,
+      "dalzhina": 25.317778,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 154,
+      "ime": "Тонер Касети Софтком Системс",
+      "shirina": 43.071148,
+      "dalzhina": 25.610117,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 155,
+      "ime": "Уеб студио Вилекс",
+      "shirina": 42.420116,
+      "dalzhina": 25.609259,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 156,
+      "ime": "Финсофт",
+      "shirina": 42.146839,
+      "dalzhina": 24.765932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    },
+    {
+      "id": 157,
+      "ime": "Център за ремонт на компютърни системи и микроконтролери",
+      "shirina": 42.492854,
+      "dalzhina": 23.535724,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "computer",
+      "osm_klas": "shop=computer"
+    }
+  ],
+  "meta": {
+    "title": "Компютърни магазини в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Компютърни магазини в България — 157 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=computer`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 157 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Компютърни магазини в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Компютърни магазини в България (OpenStreetMap) — 157 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 157 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

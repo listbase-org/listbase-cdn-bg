@@ -1,0 +1,169 @@
+{
+  "id": "bg-sliven-obshtini",
+  "name": "Общини — област Сливен (Municipalities of Sliven)",
+  "title": "Общини — област Сливен (Municipalities of Sliven)",
+  "description": "Списък на общините в област Сливен (Sliven oblast). 4 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SLV. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 150,
+      "gisco_id": "BG_SLV11",
+      "oblast_code": "SLV",
+      "oblast_slug": "sliven",
+      "oblast_bg": "Сливен",
+      "oblast_en": "Sliven",
+      "name_bg": "Котел",
+      "name_en": "",
+      "slug": "kotel",
+      "population_2024": 15875,
+      "population_density_2024_per_km2": 18.5021833,
+      "area_km2": 858.00684928,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://kotel.bg/wp-content/uploads/2025/05/plan-bedstviya-02052025.pdf",
+      "comment": ""
+    },
+    {
+      "id": 151,
+      "gisco_id": "BG_SLV16",
+      "oblast_code": "SLV",
+      "oblast_slug": "sliven",
+      "oblast_bg": "Сливен",
+      "oblast_en": "Sliven",
+      "name_bg": "Нова Загора",
+      "name_en": "",
+      "slug": "nova-zagora",
+      "population_2024": 30007,
+      "population_density_2024_per_km2": 34.2205417,
+      "area_km2": 876.87098176,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.nova-zagora.org/sites/default/files/2022/11/17/plan-zashtita-bedstviq.doc",
+      "comment": ""
+    },
+    {
+      "id": 152,
+      "gisco_id": "BG_SLV20",
+      "oblast_code": "SLV",
+      "oblast_slug": "sliven",
+      "oblast_bg": "Сливен",
+      "oblast_en": "Sliven",
+      "name_bg": "Сливен",
+      "name_en": "",
+      "slug": "sliven",
+      "population_2024": 110972,
+      "population_density_2024_per_km2": 81.20079643,
+      "area_km2": 1366.63684195,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://mun.sliven.bg/zashtita-bedstviya",
+      "comment": ""
+    },
+    {
+      "id": 153,
+      "gisco_id": "BG_SLV24",
+      "oblast_code": "SLV",
+      "oblast_slug": "sliven",
+      "oblast_bg": "Сливен",
+      "oblast_en": "Sliven",
+      "name_bg": "Твърдица",
+      "name_en": "",
+      "slug": "tvardica",
+      "population_2024": 13197,
+      "population_density_2024_per_km2": 29.81908155,
+      "area_km2": 442.56896304,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://tvarditsa.bg/inc/service/service-download-file.php?identifier=22153b12-72d6-42e4-9617-ba3576",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Сливен (Municipalities of Sliven) - Безплатно изтегляне",
+    "description": "Списък на общините в област Сливен (Sliven oblast). 4 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SLV. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Сливен (Municipalities of Sliven) | ListBase",
+    "seo_description": "Изтеглете Общини — област Сливен (Municipalities of Sliven) — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

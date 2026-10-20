@@ -1,0 +1,2158 @@
+{
+  "id": "bg-osm-shop-pet",
+  "name": "Зоомагазини в България (OpenStreetMap)",
+  "title": "Зоомагазини в България (OpenStreetMap)",
+  "description": "Зоомагазини в България — 233 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=pet`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 233,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "101 Любимци",
+      "shirina": 42.668111,
+      "dalzhina": 23.278735,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 2,
+      "ime": "Anima",
+      "shirina": 43.20354,
+      "dalzhina": 27.909937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 3,
+      "ime": "Aqua Zoo Lux",
+      "shirina": 42.661233,
+      "dalzhina": 23.349202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 4,
+      "ime": "Aqua Zoo center",
+      "shirina": 42.139709,
+      "dalzhina": 24.762221,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 5,
+      "ime": "Aquarium & iPet",
+      "shirina": 42.667226,
+      "dalzhina": 23.299826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 6,
+      "ime": "BARF Revolution",
+      "shirina": 42.673688,
+      "dalzhina": 23.285564,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 7,
+      "ime": "Beauty Pets",
+      "shirina": 42.692358,
+      "dalzhina": 23.323364,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 8,
+      "ime": "Bruno",
+      "shirina": 42.689166,
+      "dalzhina": 23.313808,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 9,
+      "ime": "Darsy",
+      "shirina": 42.6607,
+      "dalzhina": 23.265236,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 10,
+      "ime": "Discusite.com",
+      "shirina": 42.654899,
+      "dalzhina": 23.37197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 11,
+      "ime": "Divus",
+      "shirina": 42.678119,
+      "dalzhina": 23.32391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 12,
+      "ime": "Dog Spa",
+      "shirina": 42.16407,
+      "dalzhina": 24.742708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 13,
+      "ime": "Downtown groomer",
+      "shirina": 42.678561,
+      "dalzhina": 23.292006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 14,
+      "ime": "Dr. Animals",
+      "shirina": 42.654202,
+      "dalzhina": 23.376819,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 15,
+      "ime": "Flambar",
+      "shirina": 42.650629,
+      "dalzhina": 23.406447,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 16,
+      "ime": "Flambar",
+      "shirina": 42.664514,
+      "dalzhina": 23.398701,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 17,
+      "ime": "Flambar",
+      "shirina": 42.670716,
+      "dalzhina": 23.32144,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 18,
+      "ime": "Flambar",
+      "shirina": 42.680061,
+      "dalzhina": 23.361687,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 19,
+      "ime": "Flambar",
+      "shirina": 42.683047,
+      "dalzhina": 23.363858,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 20,
+      "ime": "Foresto",
+      "shirina": 42.502435,
+      "dalzhina": 27.475614,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 21,
+      "ime": "Fresh",
+      "shirina": 42.136714,
+      "dalzhina": 24.767979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 22,
+      "ime": "Golden pets",
+      "shirina": 42.131971,
+      "dalzhina": 24.717052,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 23,
+      "ime": "Gratis",
+      "shirina": 42.871148,
+      "dalzhina": 24.710888,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 24,
+      "ime": "Gratis",
+      "shirina": 43.421873,
+      "dalzhina": 24.600226,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 25,
+      "ime": "Green",
+      "shirina": 42.672503,
+      "dalzhina": 23.333146,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 26,
+      "ime": "Greencat",
+      "shirina": 42.66085,
+      "dalzhina": 23.299716,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 27,
+      "ime": "HappyPets",
+      "shirina": 42.494624,
+      "dalzhina": 27.463609,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 28,
+      "ime": "Jivaexzotika.com",
+      "shirina": 42.67555,
+      "dalzhina": 23.299291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 29,
+      "ime": "Jumbo",
+      "shirina": 43.195732,
+      "dalzhina": 23.567845,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 30,
+      "ime": "K9",
+      "shirina": 42.137549,
+      "dalzhina": 24.741009,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 31,
+      "ime": "KABET",
+      "shirina": 42.145039,
+      "dalzhina": 24.723689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 32,
+      "ime": "Live Love Bark",
+      "shirina": 42.65979,
+      "dalzhina": 23.314297,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 33,
+      "ime": "Loki",
+      "shirina": 43.421493,
+      "dalzhina": 24.595578,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 34,
+      "ime": "MAXI PET",
+      "shirina": 43.274223,
+      "dalzhina": 26.945128,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 35,
+      "ime": "Mama Lama",
+      "shirina": 42.686929,
+      "dalzhina": 23.295581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 36,
+      "ime": "My Pets",
+      "shirina": 42.673226,
+      "dalzhina": 23.298647,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 37,
+      "ime": "Naturea",
+      "shirina": 42.680733,
+      "dalzhina": 23.287724,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 38,
+      "ime": "Optima nova",
+      "shirina": 42.718482,
+      "dalzhina": 23.252611,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 39,
+      "ime": "Pet Banda",
+      "shirina": 42.627702,
+      "dalzhina": 23.375595,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 40,
+      "ime": "Pet Island",
+      "shirina": 42.68519,
+      "dalzhina": 23.363505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 41,
+      "ime": "Pet Planet",
+      "shirina": 42.663303,
+      "dalzhina": 23.382345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 42,
+      "ime": "Pet Store",
+      "shirina": 42.666501,
+      "dalzhina": 23.281082,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 43,
+      "ime": "Pet Valley",
+      "shirina": 42.640599,
+      "dalzhina": 23.333624,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 44,
+      "ime": "Pet buddy",
+      "shirina": 42.670049,
+      "dalzhina": 23.277291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 45,
+      "ime": "Pet interest",
+      "shirina": 42.676211,
+      "dalzhina": 23.360944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 46,
+      "ime": "Pet net",
+      "shirina": 42.666316,
+      "dalzhina": 23.275563,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 47,
+      "ime": "Pet valley",
+      "shirina": 42.669252,
+      "dalzhina": 23.28309,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 48,
+      "ime": "Pet valley",
+      "shirina": 42.68186,
+      "dalzhina": 23.289783,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 49,
+      "ime": "Petbar",
+      "shirina": 42.703795,
+      "dalzhina": 23.312999,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 50,
+      "ime": "Petify",
+      "shirina": 42.676063,
+      "dalzhina": 23.333591,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 51,
+      "ime": "Petify",
+      "shirina": 42.68901,
+      "dalzhina": 23.320975,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 52,
+      "ime": "Petify",
+      "shirina": 42.695231,
+      "dalzhina": 23.318276,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 53,
+      "ime": "Petify",
+      "shirina": 42.698438,
+      "dalzhina": 23.311302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 54,
+      "ime": "Petmall",
+      "shirina": 42.512222,
+      "dalzhina": 27.45591,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 55,
+      "ime": "Petmall",
+      "shirina": 42.641208,
+      "dalzhina": 23.373937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 56,
+      "ime": "Petmall",
+      "shirina": 42.642082,
+      "dalzhina": 23.336108,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 57,
+      "ime": "Petmall",
+      "shirina": 42.66003,
+      "dalzhina": 23.383345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 58,
+      "ime": "Petmall",
+      "shirina": 42.664156,
+      "dalzhina": 23.288981,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 59,
+      "ime": "Petmall",
+      "shirina": 42.666546,
+      "dalzhina": 23.283271,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 60,
+      "ime": "Petmall",
+      "shirina": 42.668513,
+      "dalzhina": 23.303172,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 61,
+      "ime": "Petmall",
+      "shirina": 42.683137,
+      "dalzhina": 23.330904,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 62,
+      "ime": "Petmall",
+      "shirina": 42.686572,
+      "dalzhina": 23.31795,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 63,
+      "ime": "Petmall",
+      "shirina": 42.689444,
+      "dalzhina": 23.364581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 64,
+      "ime": "Petmall",
+      "shirina": 42.689555,
+      "dalzhina": 23.34322,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 65,
+      "ime": "Petmall",
+      "shirina": 42.689754,
+      "dalzhina": 23.302263,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 66,
+      "ime": "Petmall",
+      "shirina": 42.696431,
+      "dalzhina": 23.338185,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 67,
+      "ime": "Petmall",
+      "shirina": 42.699633,
+      "dalzhina": 23.329493,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 68,
+      "ime": "Petmall",
+      "shirina": 42.717805,
+      "dalzhina": 23.314995,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 69,
+      "ime": "Petpoint",
+      "shirina": 43.222917,
+      "dalzhina": 27.929372,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 70,
+      "ime": "Pets & U",
+      "shirina": 42.690525,
+      "dalzhina": 23.31863,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 71,
+      "ime": "Pets Planet",
+      "shirina": 42.897574,
+      "dalzhina": 23.913576,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 72,
+      "ime": "Petsense",
+      "shirina": 42.665244,
+      "dalzhina": 23.299125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 73,
+      "ime": "Pettify",
+      "shirina": 42.696104,
+      "dalzhina": 23.346055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 74,
+      "ime": "Planet Pet",
+      "shirina": 42.686866,
+      "dalzhina": 23.315709,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 75,
+      "ime": "Pups",
+      "shirina": 42.650547,
+      "dalzhina": 23.312803,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 76,
+      "ime": "Royal Canin",
+      "shirina": 42.718376,
+      "dalzhina": 23.252817,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 77,
+      "ime": "Royal Pets",
+      "shirina": 42.131799,
+      "dalzhina": 24.703268,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 78,
+      "ime": "Small Shop Big Friends",
+      "shirina": 42.695359,
+      "dalzhina": 23.339977,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 79,
+      "ime": "Zoo Center",
+      "shirina": 42.660389,
+      "dalzhina": 23.244836,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 80,
+      "ime": "Zoo Center",
+      "shirina": 42.670929,
+      "dalzhina": 23.295219,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 81,
+      "ime": "Zoo Center",
+      "shirina": 42.671451,
+      "dalzhina": 23.290127,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 82,
+      "ime": "Zoo Center",
+      "shirina": 42.678711,
+      "dalzhina": 23.320807,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 83,
+      "ime": "Zoo Center",
+      "shirina": 42.69625,
+      "dalzhina": 23.342403,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 84,
+      "ime": "Zoo Center",
+      "shirina": 42.710335,
+      "dalzhina": 23.271375,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 85,
+      "ime": "Zoo City Center 2",
+      "shirina": 42.660428,
+      "dalzhina": 23.316474,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 86,
+      "ime": "Zoo Heaven",
+      "shirina": 42.694789,
+      "dalzhina": 23.318362,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 87,
+      "ime": "Zoo Land",
+      "shirina": 42.677523,
+      "dalzhina": 23.300741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 88,
+      "ime": "Zoo Mania",
+      "shirina": 42.124572,
+      "dalzhina": 24.720869,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 89,
+      "ime": "Zoo Mania",
+      "shirina": 42.127685,
+      "dalzhina": 24.720472,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 90,
+      "ime": "Zoo Mania",
+      "shirina": 42.130309,
+      "dalzhina": 24.769954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 91,
+      "ime": "Zoo Mania",
+      "shirina": 42.173947,
+      "dalzhina": 24.741256,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 92,
+      "ime": "Zoo Mania",
+      "shirina": 43.41427,
+      "dalzhina": 24.631938,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 93,
+      "ime": "Zoo Room",
+      "shirina": 42.140681,
+      "dalzhina": 24.789649,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 94,
+      "ime": "Zoo city center",
+      "shirina": 42.683812,
+      "dalzhina": 23.329886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 95,
+      "ime": "Zoo flambar",
+      "shirina": 42.700164,
+      "dalzhina": 23.325334,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 96,
+      "ime": "Zoo king",
+      "shirina": 42.67685,
+      "dalzhina": 23.28479,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 97,
+      "ime": "Zoo king",
+      "shirina": 42.677961,
+      "dalzhina": 23.284296,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 98,
+      "ime": "Zoo planet",
+      "shirina": 42.666835,
+      "dalzhina": 23.300292,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 99,
+      "ime": "ZooHub",
+      "shirina": 42.647139,
+      "dalzhina": 23.367708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 100,
+      "ime": "Zooland",
+      "shirina": 43.56779,
+      "dalzhina": 27.830299,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 101,
+      "ime": "Zoomag",
+      "shirina": 42.116759,
+      "dalzhina": 24.736573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 102,
+      "ime": "Zoomania Megastore",
+      "shirina": 42.711784,
+      "dalzhina": 23.301782,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 103,
+      "ime": "Zootropolis",
+      "shirina": 42.666137,
+      "dalzhina": 23.297187,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 104,
+      "ime": "animall",
+      "shirina": 42.655867,
+      "dalzhina": 23.284851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 105,
+      "ime": "tiger's heart",
+      "shirina": 42.727418,
+      "dalzhina": 23.300282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 106,
+      "ime": "Ава зоо",
+      "shirina": 42.660097,
+      "dalzhina": 23.298973,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 107,
+      "ime": "Аквалайн",
+      "shirina": 43.211437,
+      "dalzhina": 27.921296,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 108,
+      "ime": "Акватика",
+      "shirina": 42.148047,
+      "dalzhina": 24.733698,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 109,
+      "ime": "Акита",
+      "shirina": 42.703075,
+      "dalzhina": 23.328868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 110,
+      "ime": "Аляска",
+      "shirina": 42.735588,
+      "dalzhina": 23.293572,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 111,
+      "ime": "Аляска",
+      "shirina": 42.73588,
+      "dalzhina": 23.294158,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 112,
+      "ime": "Аляска",
+      "shirina": 42.741227,
+      "dalzhina": 23.276284,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 113,
+      "ime": "Амазона",
+      "shirina": 42.696343,
+      "dalzhina": 23.349984,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 114,
+      "ime": "Анималия",
+      "shirina": 43.216766,
+      "dalzhina": 27.916445,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 115,
+      "ime": "Барс и Бела",
+      "shirina": 43.224737,
+      "dalzhina": 27.920417,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 116,
+      "ime": "Бенджи",
+      "shirina": 42.495166,
+      "dalzhina": 27.465621,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 117,
+      "ime": "Веселина",
+      "shirina": 42.499924,
+      "dalzhina": 27.476599,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 118,
+      "ime": "Ветеринарен магазин",
+      "shirina": 41.93338,
+      "dalzhina": 25.550124,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 119,
+      "ime": "Ветеринарна клиника",
+      "shirina": 41.932393,
+      "dalzhina": 25.548731,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 120,
+      "ime": "Ветконсулт",
+      "shirina": 43.522134,
+      "dalzhina": 26.518866,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 121,
+      "ime": "Вип екзотик",
+      "shirina": 42.696689,
+      "dalzhina": 23.353592,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 122,
+      "ime": "Гарфилд",
+      "shirina": 42.710784,
+      "dalzhina": 23.377408,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 123,
+      "ime": "Д-р Стефанов",
+      "shirina": 42.60188,
+      "dalzhina": 23.047741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 124,
+      "ime": "Д-р Стефанов",
+      "shirina": 42.64076,
+      "dalzhina": 23.311753,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 125,
+      "ime": "Д-р Стефанов",
+      "shirina": 42.645547,
+      "dalzhina": 23.379055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 126,
+      "ime": "Д-р Стефанов",
+      "shirina": 42.658007,
+      "dalzhina": 23.314205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 127,
+      "ime": "Д-р Стефанов",
+      "shirina": 42.677817,
+      "dalzhina": 23.322151,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 128,
+      "ime": "Д-р Стефанов",
+      "shirina": 42.689873,
+      "dalzhina": 23.278844,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 129,
+      "ime": "Д-р Стефанов",
+      "shirina": 42.7058,
+      "dalzhina": 23.292774,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 130,
+      "ime": "Д-р Стефанов",
+      "shirina": 42.710458,
+      "dalzhina": 23.378919,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 131,
+      "ime": "Д-р Стефанов",
+      "shirina": 43.072511,
+      "dalzhina": 25.616555,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 132,
+      "ime": "Д-р Стефанов",
+      "shirina": 43.227284,
+      "dalzhina": 27.875738,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 133,
+      "ime": "Данени",
+      "shirina": 42.723236,
+      "dalzhina": 23.252125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 134,
+      "ime": "Дани",
+      "shirina": 42.703415,
+      "dalzhina": 23.320351,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 135,
+      "ime": "Дарг",
+      "shirina": 42.669182,
+      "dalzhina": 23.277231,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 136,
+      "ime": "Дарси",
+      "shirina": 42.648794,
+      "dalzhina": 23.262028,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 137,
+      "ime": "Дейзи",
+      "shirina": 42.680275,
+      "dalzhina": 23.283483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 138,
+      "ime": "Джеси",
+      "shirina": 42.737402,
+      "dalzhina": 23.267812,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 139,
+      "ime": "Джунгла",
+      "shirina": 42.688461,
+      "dalzhina": 23.327304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 140,
+      "ime": "Дианабад",
+      "shirina": 42.664511,
+      "dalzhina": 23.343289,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 141,
+      "ime": "Дъмбо",
+      "shirina": 42.726531,
+      "dalzhina": 23.311962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 142,
+      "ime": "Еврозоовет",
+      "shirina": 42.005129,
+      "dalzhina": 24.872937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 143,
+      "ime": "Здрави лапи",
+      "shirina": 42.652829,
+      "dalzhina": 23.317815,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 144,
+      "ime": "Зи зу",
+      "shirina": 42.657576,
+      "dalzhina": 23.3447,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 145,
+      "ime": "Зоо Груп - БГ",
+      "shirina": 42.63033,
+      "dalzhina": 23.305214,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 146,
+      "ime": "Зоо Груп - БГ",
+      "shirina": 42.671316,
+      "dalzhina": 23.32863,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 147,
+      "ime": "Зоо дарг",
+      "shirina": 42.707875,
+      "dalzhina": 23.298627,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 148,
+      "ime": "Зоо магазин Догифешън",
+      "shirina": 42.62582,
+      "dalzhina": 23.381162,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 149,
+      "ime": "Зоо маркет",
+      "shirina": 42.8899,
+      "dalzhina": 24.712825,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 150,
+      "ime": "Зоо център Аква мания",
+      "shirina": 43.573721,
+      "dalzhina": 27.831764,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 151,
+      "ime": "Зоо-вега",
+      "shirina": 42.693153,
+      "dalzhina": 23.359662,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 152,
+      "ime": "ЗооДарг",
+      "shirina": 42.671328,
+      "dalzhina": 23.25931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 153,
+      "ime": "ЗооМаркет",
+      "shirina": 42.714525,
+      "dalzhina": 23.171941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 154,
+      "ime": "Зооборса Веден",
+      "shirina": 42.702408,
+      "dalzhina": 23.346854,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 155,
+      "ime": "Зооборсичка Княжево",
+      "shirina": 42.659408,
+      "dalzhina": 23.241978,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 156,
+      "ime": "Зоогард",
+      "shirina": 42.664994,
+      "dalzhina": 23.266538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 157,
+      "ime": "Зоогард",
+      "shirina": 42.691261,
+      "dalzhina": 23.315811,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 158,
+      "ime": "Зоозинче",
+      "shirina": 42.658864,
+      "dalzhina": 23.347034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 159,
+      "ime": "Зоозинче Д-р Стефанов",
+      "shirina": 42.627291,
+      "dalzhina": 23.378834,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 160,
+      "ime": "Зоомагазин",
+      "shirina": 42.120397,
+      "dalzhina": 24.732807,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 161,
+      "ime": "Зоомагазин",
+      "shirina": 42.497041,
+      "dalzhina": 27.462699,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 162,
+      "ime": "Зоомагазин",
+      "shirina": 42.648801,
+      "dalzhina": 23.380285,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 163,
+      "ime": "Зоомагазин",
+      "shirina": 43.526399,
+      "dalzhina": 26.525941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 164,
+      "ime": "Зоомагазин Равда",
+      "shirina": 42.644799,
+      "dalzhina": 27.677317,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 165,
+      "ime": "Зоомагазин Стемо",
+      "shirina": 42.71392,
+      "dalzhina": 23.270249,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 166,
+      "ime": "Зоомагазин ХАРИ",
+      "shirina": 43.215447,
+      "dalzhina": 27.919871,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 167,
+      "ime": "Зоомагазин и фуражи",
+      "shirina": 43.276179,
+      "dalzhina": 26.911826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 168,
+      "ime": "Зоомакс",
+      "shirina": 42.146323,
+      "dalzhina": 24.730502,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 169,
+      "ime": "Зоомания",
+      "shirina": 42.426496,
+      "dalzhina": 25.618865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 170,
+      "ime": "Зоомаркет",
+      "shirina": 42.129607,
+      "dalzhina": 24.750102,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 171,
+      "ime": "Зоомаркет",
+      "shirina": 42.267192,
+      "dalzhina": 27.755654,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 172,
+      "ime": "Зоомаркет",
+      "shirina": 42.661057,
+      "dalzhina": 23.293045,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 173,
+      "ime": "Зоопланета",
+      "shirina": 42.665076,
+      "dalzhina": 23.287358,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 174,
+      "ime": "Зоосвят",
+      "shirina": 42.263699,
+      "dalzhina": 23.110857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 175,
+      "ime": "Зоосвят",
+      "shirina": 42.693752,
+      "dalzhina": 23.337832,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 176,
+      "ime": "Зоостраст",
+      "shirina": 42.664045,
+      "dalzhina": 23.362432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 177,
+      "ime": "Зоофамилия",
+      "shirina": 42.673901,
+      "dalzhina": 23.358987,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 178,
+      "ime": "Зоохранител",
+      "shirina": 42.647375,
+      "dalzhina": 23.374234,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 179,
+      "ime": "Интерекзотик",
+      "shirina": 42.675518,
+      "dalzhina": 23.299205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 180,
+      "ime": "Итън",
+      "shirina": 42.695046,
+      "dalzhina": 23.317761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 181,
+      "ime": "Карюк",
+      "shirina": 42.706485,
+      "dalzhina": 23.291781,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 182,
+      "ime": "Клео",
+      "shirina": 43.191843,
+      "dalzhina": 27.707919,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 183,
+      "ime": "Клео",
+      "shirina": 43.199602,
+      "dalzhina": 27.917496,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 184,
+      "ime": "Клео",
+      "shirina": 43.209732,
+      "dalzhina": 27.911758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 185,
+      "ime": "Клео",
+      "shirina": 43.222513,
+      "dalzhina": 27.925117,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 186,
+      "ime": "Кучешката месарница",
+      "shirina": 42.710988,
+      "dalzhina": 23.312501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 187,
+      "ime": "Кучешката пекарна",
+      "shirina": 42.672944,
+      "dalzhina": 23.31281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 188,
+      "ime": "Лапички",
+      "shirina": 42.645798,
+      "dalzhina": 23.376455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 189,
+      "ime": "Лорка",
+      "shirina": 42.427853,
+      "dalzhina": 25.615871,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 190,
+      "ime": "Лорка-2",
+      "shirina": 42.428176,
+      "dalzhina": 25.635249,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 191,
+      "ime": "Лъки",
+      "shirina": 43.217129,
+      "dalzhina": 27.930217,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 192,
+      "ime": "Магазин Акваристика и Домашни Животни",
+      "shirina": 42.192497,
+      "dalzhina": 24.331858,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 193,
+      "ime": "Марли",
+      "shirina": 42.156605,
+      "dalzhina": 24.744948,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 194,
+      "ime": "Младост",
+      "shirina": 42.655241,
+      "dalzhina": 23.373361,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 195,
+      "ime": "Муцунка",
+      "shirina": 42.70605,
+      "dalzhina": 23.32211,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 196,
+      "ime": "Наслада",
+      "shirina": 42.700264,
+      "dalzhina": 23.31865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 197,
+      "ime": "Нечовешки МЕГАзин",
+      "shirina": 42.62411,
+      "dalzhina": 23.37938,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 198,
+      "ime": "Нечовешки МЕГАзин",
+      "shirina": 42.64094,
+      "dalzhina": 23.335182,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 199,
+      "ime": "Нечовешки магазин",
+      "shirina": 42.504356,
+      "dalzhina": 27.473698,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 200,
+      "ime": "Нечовешки магазин",
+      "shirina": 42.6625,
+      "dalzhina": 23.285806,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 201,
+      "ime": "Нечовешки магазин",
+      "shirina": 42.669941,
+      "dalzhina": 23.256279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 202,
+      "ime": "Нечовешки магазин",
+      "shirina": 42.670634,
+      "dalzhina": 23.273167,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 203,
+      "ime": "Нечовешки магазин",
+      "shirina": 42.677668,
+      "dalzhina": 23.290026,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 204,
+      "ime": "Нечовешки магазин",
+      "shirina": 42.69024,
+      "dalzhina": 23.320545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 205,
+      "ime": "Нечовешки магазин",
+      "shirina": 42.708694,
+      "dalzhina": 23.45895,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 206,
+      "ime": "Нечовешки магазин",
+      "shirina": 42.719944,
+      "dalzhina": 23.251618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 207,
+      "ime": "Нечовешки мегазин",
+      "shirina": 43.22342,
+      "dalzhina": 27.873208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 208,
+      "ime": "Опашен чар",
+      "shirina": 42.689391,
+      "dalzhina": 23.32298,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 209,
+      "ime": "Оптима",
+      "shirina": 43.20918,
+      "dalzhina": 27.909979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 210,
+      "ime": "Пекарната на Арис и Кики",
+      "shirina": 42.678543,
+      "dalzhina": 23.287281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 211,
+      "ime": "Петруша",
+      "shirina": 42.134272,
+      "dalzhina": 24.799727,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 212,
+      "ime": "При колето",
+      "shirina": 42.705693,
+      "dalzhina": 23.328663,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 213,
+      "ime": "Приятели",
+      "shirina": 42.683524,
+      "dalzhina": 23.327401,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 214,
+      "ime": "Райз",
+      "shirina": 42.664933,
+      "dalzhina": 23.302631,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 215,
+      "ime": "Сиси",
+      "shirina": 43.701316,
+      "dalzhina": 28.038961,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 216,
+      "ime": "Скалар",
+      "shirina": 42.140882,
+      "dalzhina": 24.743354,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 217,
+      "ime": "Сладурковци 4",
+      "shirina": 42.703051,
+      "dalzhina": 23.300591,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 218,
+      "ime": "Соло",
+      "shirina": 42.693313,
+      "dalzhina": 23.344097,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 219,
+      "ime": "Соло",
+      "shirina": 42.693684,
+      "dalzhina": 23.351065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 220,
+      "ime": "Соло",
+      "shirina": 42.699363,
+      "dalzhina": 23.326821,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 221,
+      "ime": "Сурикат",
+      "shirina": 42.680033,
+      "dalzhina": 23.361307,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 222,
+      "ime": "Съни",
+      "shirina": 42.660263,
+      "dalzhina": 23.316302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 223,
+      "ime": "Съни",
+      "shirina": 42.668741,
+      "dalzhina": 23.318972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 224,
+      "ime": "Феникс",
+      "shirina": 42.656696,
+      "dalzhina": 27.702568,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 225,
+      "ime": "Фидо",
+      "shirina": 42.700876,
+      "dalzhina": 23.310603,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 226,
+      "ime": "Френч 09",
+      "shirina": 42.676179,
+      "dalzhina": 23.30976,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 227,
+      "ime": "Храна за домашни любимци",
+      "shirina": 43.445448,
+      "dalzhina": 26.166562,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 228,
+      "ime": "Чара",
+      "shirina": 42.615785,
+      "dalzhina": 23.337734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 229,
+      "ime": "Чара",
+      "shirina": 42.688865,
+      "dalzhina": 23.331196,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 230,
+      "ime": "Чара-2",
+      "shirina": 42.669269,
+      "dalzhina": 23.279356,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 231,
+      "ime": "д-р Стефанов",
+      "shirina": 42.66906,
+      "dalzhina": 23.353696,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 232,
+      "ime": "зоомагазин",
+      "shirina": 42.139123,
+      "dalzhina": 24.756252,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    },
+    {
+      "id": 233,
+      "ime": "четири лапички",
+      "shirina": 42.499021,
+      "dalzhina": 27.478644,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pet",
+      "osm_klas": "shop=pet"
+    }
+  ],
+  "meta": {
+    "title": "Зоомагазини в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Зоомагазини в България — 233 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=pet`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 233 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Зоомагазини в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Зоомагазини в България (OpenStreetMap) — 233 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 233 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

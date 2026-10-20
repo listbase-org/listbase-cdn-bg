@@ -1,0 +1,288 @@
+{
+  "id": "bg-vidin-obshtini",
+  "name": "Общини — област Видин (Municipalities of Vidin)",
+  "title": "Общини — област Видин (Municipalities of Vidin)",
+  "description": "Списък на общините в област Видин (Vidin oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс VID. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 238,
+      "gisco_id": "BG_VID01",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Белоградчик",
+      "name_en": "",
+      "slug": "belogradchik",
+      "population_2024": 4818,
+      "population_density_2024_per_km2": 11.73853177,
+      "area_km2": 410.44315378,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://belogradchik.egov.bg/wps/portal/municipality-belogradchik/municipality/disaster.accident.pro",
+      "comment": ""
+    },
+    {
+      "id": 239,
+      "gisco_id": "BG_VID03",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Бойница",
+      "name_en": "",
+      "slug": "boynica",
+      "population_2024": 744,
+      "population_density_2024_per_km2": 4.48473093,
+      "area_km2": 165.89624022,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "http://obshtina-boinica.com/bg/wp-content/uploads/2024/06/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC",
+      "comment": ""
+    },
+    {
+      "id": 240,
+      "gisco_id": "BG_VID06",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Брегово",
+      "name_en": "Bregovo",
+      "slug": "bregovo",
+      "population_2024": 3617,
+      "population_density_2024_per_km2": 20.30485162,
+      "area_km2": 178.13476638,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 241,
+      "gisco_id": "BG_VID09",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Видин",
+      "name_en": "",
+      "slug": "vidin",
+      "population_2024": 45186,
+      "population_density_2024_per_km2": 87.64077625,
+      "area_km2": 515.58192356,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://vidin.bg/wps/portal/vidin-municipality/administration/protections",
+      "comment": ""
+    },
+    {
+      "id": 242,
+      "gisco_id": "BG_VID15",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Грамада",
+      "name_en": "",
+      "slug": "gramada",
+      "population_2024": 1269,
+      "population_density_2024_per_km2": 6.88335735,
+      "area_km2": 184.35771038,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://obshtina-gramada.com/bg/2024/04/24/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0-%D0%B7%D",
+      "comment": ""
+    },
+    {
+      "id": 243,
+      "gisco_id": "BG_VID16",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Димово",
+      "name_en": "",
+      "slug": "dimovo",
+      "population_2024": 4717,
+      "population_density_2024_per_km2": 11.66171191,
+      "area_km2": 404.48606833,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://dimovo.bg/wp-content/uploads/2021/01/%D0%9F%D0%A0%D0%9E%D0%93%D0%A0%D0%90%D0%9C%D0%90-1.docx",
+      "comment": ""
+    },
+    {
+      "id": 244,
+      "gisco_id": "BG_VID22",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Кула",
+      "name_en": "",
+      "slug": "kula",
+      "population_2024": 3100,
+      "population_density_2024_per_km2": 11.06438238,
+      "area_km2": 280.17831401,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://kula.egov.bg/wps/portal/municipality-kula/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 245,
+      "gisco_id": "BG_VID25",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Макреш",
+      "name_en": "Makresh",
+      "slug": "makresh",
+      "population_2024": 1204,
+      "population_density_2024_per_km2": 5.26423706,
+      "area_km2": 228.71310426,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "https://makreshbg.com/2021/02/23/%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%b0-%d0%b7%d0%b0-%d0%b",
+      "comment": "They cannot be opened"
+    },
+    {
+      "id": 246,
+      "gisco_id": "BG_VID30",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Ново село",
+      "name_en": "Novo selo",
+      "slug": "novo-selo",
+      "population_2024": 2423,
+      "population_density_2024_per_km2": 22.59148592,
+      "area_km2": 107.25279463,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "http://obshtina-novoselo.com/bg/wp-content/uploads/2021/01/%D0%9F%D0%A0%D0%9E%D0%95%D0%9A%D0%A2-%D0%",
+      "comment": "Bad request"
+    },
+    {
+      "id": 256,
+      "gisco_id": "BG_VID33",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Ружинци",
+      "name_en": "",
+      "slug": "ruzhinci",
+      "population_2024": 3096,
+      "population_density_2024_per_km2": 13.31905695,
+      "area_km2": 232.44888973,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://obshtina-ruzhintsi.com/progr-bed-2021-2025.docx",
+      "comment": ""
+    },
+    {
+      "id": 257,
+      "gisco_id": "BG_VID37",
+      "oblast_code": "VID",
+      "oblast_slug": "vidin",
+      "oblast_bg": "Видин",
+      "oblast_en": "Vidin",
+      "name_bg": "Чупрене",
+      "name_en": "",
+      "slug": "chuprene",
+      "population_2024": 1599,
+      "population_density_2024_per_km2": 4.88596643,
+      "area_km2": 327.26381233,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "http://chuprene.com/wp-content/uploads/2014/10/Plan_za6tita_bedstviq.pdf",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Видин (Municipalities of Vidin) - Безплатно изтегляне",
+    "description": "Списък на общините в област Видин (Vidin oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс VID. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 11 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Видин (Municipalities of Vidin) | ListBase",
+    "seo_description": "Изтеглете Общини — област Видин (Municipalities of Vidin) — 11 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 11 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

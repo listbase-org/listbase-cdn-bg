@@ -1,0 +1,3625 @@
+{
+  "id": "bg-osm-tourism-artwork",
+  "name": "Улично изкуство и пластики в България (OpenStreetMap)",
+  "title": "Улично изкуство и пластики в България (OpenStreetMap)",
+  "description": "Улично изкуство и пластики в България — 396 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=artwork`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 396,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "...от урва на урва и от век на век!",
+      "shirina": 42.693251,
+      "dalzhina": 23.34045,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 2,
+      "ime": "100 години БЗНС",
+      "shirina": 42.426357,
+      "dalzhina": 25.626084,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 3,
+      "ime": "1923 - th",
+      "shirina": 42.190635,
+      "dalzhina": 24.331401,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 4,
+      "ime": "30 лета без бананов дефицит",
+      "shirina": 42.678359,
+      "dalzhina": 23.323518,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 5,
+      "ime": "All Days",
+      "shirina": 42.659283,
+      "dalzhina": 23.316162,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 6,
+      "ime": "Apollo Medicus",
+      "shirina": 42.699932,
+      "dalzhina": 23.324314,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 7,
+      "ime": "Atia",
+      "shirina": 42.453501,
+      "dalzhina": 27.577112,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 8,
+      "ime": "Bear",
+      "shirina": 43.217997,
+      "dalzhina": 27.995615,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 9,
+      "ime": "Change",
+      "shirina": 42.672123,
+      "dalzhina": 23.363907,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 10,
+      "ime": "Country Woman",
+      "shirina": 42.191025,
+      "dalzhina": 24.332068,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 11,
+      "ime": "Damians Atelier Taralesh",
+      "shirina": 43.083991,
+      "dalzhina": 25.64029,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 12,
+      "ime": "David Coverdale",
+      "shirina": 43.433978,
+      "dalzhina": 28.337805,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 13,
+      "ime": "DidosDesign",
+      "shirina": 42.50033,
+      "dalzhina": 27.466869,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 14,
+      "ime": "Eiffel Tower",
+      "shirina": 42.710855,
+      "dalzhina": 27.741188,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 15,
+      "ime": "Embassy make us great again",
+      "shirina": 42.675571,
+      "dalzhina": 23.332335,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 16,
+      "ime": "Energy Centre",
+      "shirina": 43.539929,
+      "dalzhina": 28.606392,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 17,
+      "ime": "Expectation",
+      "shirina": 42.190655,
+      "dalzhina": 24.331283,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 18,
+      "ime": "Figure",
+      "shirina": 42.190182,
+      "dalzhina": 24.332223,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 19,
+      "ime": "Fire Dancer",
+      "shirina": 42.19096,
+      "dalzhina": 24.331925,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 20,
+      "ime": "Girl with a fish",
+      "shirina": 43.300413,
+      "dalzhina": 28.049348,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 21,
+      "ime": "Gladiator",
+      "shirina": 42.190592,
+      "dalzhina": 24.331624,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 22,
+      "ime": "Green Faces Art Box",
+      "shirina": 42.694052,
+      "dalzhina": 23.319888,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 23,
+      "ime": "Hitrini.com",
+      "shirina": 42.715641,
+      "dalzhina": 23.26399,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 24,
+      "ime": "Ivailo",
+      "shirina": 42.189987,
+      "dalzhina": 24.332127,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 25,
+      "ime": "Lion",
+      "shirina": 42.189964,
+      "dalzhina": 24.332299,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 26,
+      "ime": "Mermaid",
+      "shirina": 42.265647,
+      "dalzhina": 27.76638,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 27,
+      "ime": "Monument of Vladimir Dimitrov-master",
+      "shirina": 42.696862,
+      "dalzhina": 23.326835,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 28,
+      "ime": "Motherhood",
+      "shirina": 42.190542,
+      "dalzhina": 24.331739,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 29,
+      "ime": "No Parking",
+      "shirina": 42.692411,
+      "dalzhina": 23.340853,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 30,
+      "ime": "Obzor",
+      "shirina": 42.819313,
+      "dalzhina": 27.882391,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 31,
+      "ime": "Of Mice And Cats",
+      "shirina": 42.148,
+      "dalzhina": 24.748631,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 32,
+      "ime": "Opus Memoria",
+      "shirina": 43.20659,
+      "dalzhina": 27.91885,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 33,
+      "ime": "Orchester",
+      "shirina": 42.694639,
+      "dalzhina": 23.324338,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 34,
+      "ime": "Orpheus",
+      "shirina": 42.191341,
+      "dalzhina": 24.331797,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 35,
+      "ime": "Paisius",
+      "shirina": 42.191077,
+      "dalzhina": 24.331983,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 36,
+      "ime": "Panev Art Studio",
+      "shirina": 43.08407,
+      "dalzhina": 25.640383,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 37,
+      "ime": "Parked Life",
+      "shirina": 42.690003,
+      "dalzhina": 23.317135,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 38,
+      "ime": "Propheticos",
+      "shirina": 42.689286,
+      "dalzhina": 23.332293,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 39,
+      "ime": "Respite",
+      "shirina": 42.19087,
+      "dalzhina": 24.331897,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 40,
+      "ime": "Ronnie James Dio",
+      "shirina": 43.435999,
+      "dalzhina": 28.340409,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 41,
+      "ime": "Scrawl vs. Ementzo",
+      "shirina": 42.68712,
+      "dalzhina": 23.309348,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 42,
+      "ime": "Spartacus",
+      "shirina": 42.190512,
+      "dalzhina": 24.332241,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 43,
+      "ime": "Statuia căpitanului",
+      "shirina": 43.869283,
+      "dalzhina": 25.964087,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 44,
+      "ime": "Stone animals",
+      "shirina": 42.662067,
+      "dalzhina": 23.364533,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 45,
+      "ime": "Stone animals",
+      "shirina": 42.666859,
+      "dalzhina": 23.35482,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 46,
+      "ime": "Stone animals",
+      "shirina": 42.690153,
+      "dalzhina": 23.33339,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 47,
+      "ime": "Stone animals",
+      "shirina": 42.700471,
+      "dalzhina": 23.38528,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 48,
+      "ime": "Stone animals",
+      "shirina": 42.713024,
+      "dalzhina": 23.300098,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 49,
+      "ime": "Stone animals",
+      "shirina": 42.730154,
+      "dalzhina": 23.312601,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 50,
+      "ime": "Street Art",
+      "shirina": 42.701209,
+      "dalzhina": 23.324845,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 51,
+      "ime": "Sun Dance",
+      "shirina": 42.682036,
+      "dalzhina": 23.320162,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 52,
+      "ime": "TOДOP ГРУДОВ 1890-1935",
+      "shirina": 42.49566,
+      "dalzhina": 27.481509,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 53,
+      "ime": "The Lukatnik Battle",
+      "shirina": 42.190772,
+      "dalzhina": 24.331253,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 54,
+      "ime": "Thirst",
+      "shirina": 42.190898,
+      "dalzhina": 24.331291,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 55,
+      "ime": "Ulise",
+      "shirina": 43.870127,
+      "dalzhina": 25.966117,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 56,
+      "ime": "Varna",
+      "shirina": 43.203524,
+      "dalzhina": 27.922932,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 57,
+      "ime": "We all write well",
+      "shirina": 42.100572,
+      "dalzhina": 27.94515,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 58,
+      "ime": "We sign for peace",
+      "shirina": 42.688963,
+      "dalzhina": 23.320642,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 59,
+      "ime": "What about us?",
+      "shirina": 42.679289,
+      "dalzhina": 23.303643,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 60,
+      "ime": "Wild Boar",
+      "shirina": 42.190987,
+      "dalzhina": 24.333104,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 61,
+      "ime": "Woman",
+      "shirina": 42.190422,
+      "dalzhina": 24.331768,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 62,
+      "ime": "Woodcarver master Rumiana",
+      "shirina": 43.083952,
+      "dalzhina": 25.64016,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 63,
+      "ime": "Zo meen ik dat ook jij bent",
+      "shirina": 42.696393,
+      "dalzhina": 23.329076,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 64,
+      "ime": "Абстракция",
+      "shirina": 42.87401,
+      "dalzhina": 27.894773,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 65,
+      "ime": "Адмирал Фьодор Ушаков",
+      "shirina": 43.368322,
+      "dalzhina": 28.464107,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 66,
+      "ime": "Айфеловата кула",
+      "shirina": 43.270849,
+      "dalzhina": 26.944019,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 67,
+      "ime": "Академик Наджаков",
+      "shirina": 42.65316,
+      "dalzhina": 23.388019,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 68,
+      "ime": "Алеко Константинов",
+      "shirina": 42.689203,
+      "dalzhina": 23.319091,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 69,
+      "ime": "Александър Стамболийски 1879-1923",
+      "shirina": 42.494195,
+      "dalzhina": 27.481695,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 70,
+      "ime": "Алея на приказките",
+      "shirina": 42.182914,
+      "dalzhina": 24.329661,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 71,
+      "ime": "Алея на спортаната слава",
+      "shirina": 42.704428,
+      "dalzhina": 23.359673,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 72,
+      "ime": "Алчни за спорт",
+      "shirina": 42.632852,
+      "dalzhina": 23.334066,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 73,
+      "ime": "Алчни за спорт",
+      "shirina": 42.633141,
+      "dalzhina": 23.333351,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 74,
+      "ime": "Ангел покровител",
+      "shirina": 42.890646,
+      "dalzhina": 24.712997,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 75,
+      "ime": "Арт Галерия \"S\"",
+      "shirina": 42.150154,
+      "dalzhina": 24.753547,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 76,
+      "ime": "Архитектурно Ателие Архихол",
+      "shirina": 42.673983,
+      "dalzhina": 23.313875,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 77,
+      "ime": "Асен Златаров 1885 -1936",
+      "shirina": 42.493846,
+      "dalzhina": 27.481671,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 78,
+      "ime": "Атанас Манчев",
+      "shirina": 42.495689,
+      "dalzhina": 27.481965,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 79,
+      "ime": "Ателие за татуировки Светльо",
+      "shirina": 43.84443,
+      "dalzhina": 25.981237,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 80,
+      "ime": "Балканска пастърва",
+      "shirina": 42.65941,
+      "dalzhina": 23.332365,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 81,
+      "ime": "Бан21",
+      "shirina": 42.062378,
+      "dalzhina": 27.977576,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 82,
+      "ime": "Баскетболистка",
+      "shirina": 42.688752,
+      "dalzhina": 23.334427,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 83,
+      "ime": "Белослав",
+      "shirina": 43.193723,
+      "dalzhina": 27.715591,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 84,
+      "ime": "Биковете",
+      "shirina": 42.479979,
+      "dalzhina": 26.507674,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 85,
+      "ime": "Благороден елен",
+      "shirina": 42.659391,
+      "dalzhina": 23.332363,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 86,
+      "ime": "Богинята Диана",
+      "shirina": 42.486577,
+      "dalzhina": 26.50036,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 87,
+      "ime": "Боксьор",
+      "shirina": 42.688268,
+      "dalzhina": 23.333906,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 88,
+      "ime": "Борба за удоволствия",
+      "shirina": 42.668992,
+      "dalzhina": 23.323476,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 89,
+      "ime": "Братя Прошек",
+      "shirina": 42.691936,
+      "dalzhina": 23.338348,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 90,
+      "ime": "Българинът кашля от тютюн, не от COVID-19",
+      "shirina": 42.687445,
+      "dalzhina": 23.330111,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 91,
+      "ime": "България в окови",
+      "shirina": 42.874237,
+      "dalzhina": 25.318,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 92,
+      "ime": "Българско национално радио Русе",
+      "shirina": 43.84706,
+      "dalzhina": 25.949707,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 93,
+      "ime": "Бърдук",
+      "shirina": 42.888758,
+      "dalzhina": 24.712866,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 94,
+      "ime": "Бърдуци",
+      "shirina": 42.885102,
+      "dalzhina": 24.713324,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 95,
+      "ime": "Бюст на Анна Маймункова",
+      "shirina": 42.493664,
+      "dalzhina": 27.475248,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 96,
+      "ime": "Васил Евстатиев Априлов 1789–1847",
+      "shirina": 43.207712,
+      "dalzhina": 27.929557,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 97,
+      "ime": "Васил Левски",
+      "shirina": 41.47674,
+      "dalzhina": 25.653258,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 98,
+      "ime": "Васил Левски",
+      "shirina": 42.420957,
+      "dalzhina": 27.693216,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 99,
+      "ime": "Васил Левски",
+      "shirina": 42.703643,
+      "dalzhina": 23.362347,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 100,
+      "ime": "Васил Левски",
+      "shirina": 42.72162,
+      "dalzhina": 23.241894,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 101,
+      "ime": "Васил Левски",
+      "shirina": 42.738924,
+      "dalzhina": 23.511735,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 102,
+      "ime": "Васил Левски",
+      "shirina": 42.88413,
+      "dalzhina": 24.710431,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 103,
+      "ime": "Васил Левски 1837-1873",
+      "shirina": 43.206929,
+      "dalzhina": 27.928007,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 104,
+      "ime": "Великански стол",
+      "shirina": 42.182294,
+      "dalzhina": 24.32991,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 105,
+      "ime": "Велислав Арамов 1919-1944",
+      "shirina": 42.494075,
+      "dalzhina": 27.481883,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 106,
+      "ime": "Веригата е разкъсана",
+      "shirina": 42.874083,
+      "dalzhina": 25.318009,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 107,
+      "ime": "Взаимовръзки",
+      "shirina": 42.673982,
+      "dalzhina": 23.296235,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 108,
+      "ime": "Владимир Зографов 1894-1925",
+      "shirina": 42.495984,
+      "dalzhina": 27.482039,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 109,
+      "ime": "Влюбените делфини",
+      "shirina": 43.204799,
+      "dalzhina": 27.920831,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 110,
+      "ime": "Водна паша",
+      "shirina": 42.669325,
+      "dalzhina": 23.304641,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 111,
+      "ime": "Волна Идей",
+      "shirina": 43.342027,
+      "dalzhina": 28.05851,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 112,
+      "ime": "Волна Идей",
+      "shirina": 43.342128,
+      "dalzhina": 28.064623,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 113,
+      "ime": "Вълк",
+      "shirina": 42.65937,
+      "dalzhina": 23.332363,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 114,
+      "ime": "Г. С. Раковски",
+      "shirina": 42.688201,
+      "dalzhina": 23.339323,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 115,
+      "ime": "Г.С. Раковски",
+      "shirina": 42.49467,
+      "dalzhina": 27.482076,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 116,
+      "ime": "Газова лампа",
+      "shirina": 42.673723,
+      "dalzhina": 23.299595,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 117,
+      "ime": "Галерия \"Форум\"",
+      "shirina": 41.932075,
+      "dalzhina": 25.553819,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 118,
+      "ime": "Георги Аспарухов - Гунди",
+      "shirina": 42.687006,
+      "dalzhina": 23.364921,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 119,
+      "ime": "Георги Бенковски",
+      "shirina": 42.687798,
+      "dalzhina": 23.339673,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 120,
+      "ime": "Георги Бенковски",
+      "shirina": 42.712182,
+      "dalzhina": 23.269694,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 121,
+      "ime": "Георги Бенковски 1843-1876",
+      "shirina": 43.206246,
+      "dalzhina": 27.927288,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 122,
+      "ime": "Георги Минчев",
+      "shirina": 43.435913,
+      "dalzhina": 28.340303,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 123,
+      "ime": "Георги Раковски (1821–1867)",
+      "shirina": 43.206572,
+      "dalzhina": 27.927923,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 124,
+      "ime": "Герб на Народна република България",
+      "shirina": 42.694131,
+      "dalzhina": 23.314951,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 125,
+      "ime": "Герб на София",
+      "shirina": 42.682895,
+      "dalzhina": 23.347424,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 126,
+      "ime": "Гимнастичка",
+      "shirina": 42.688343,
+      "dalzhina": 23.333814,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 127,
+      "ime": "Гоблин",
+      "shirina": 42.678602,
+      "dalzhina": 23.296648,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 128,
+      "ime": "Гоце Делчев 1872-1903",
+      "shirina": 43.207269,
+      "dalzhina": 27.92928,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 129,
+      "ime": "Граф Николай Павлович Игнатьев",
+      "shirina": 43.20397,
+      "dalzhina": 27.911023,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 130,
+      "ime": "Графитите на Бузлуджа",
+      "shirina": 42.735755,
+      "dalzhina": 25.393219,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 131,
+      "ime": "Графопост",
+      "shirina": 42.698398,
+      "dalzhina": 23.319751,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 132,
+      "ime": "Гунди",
+      "shirina": 42.696869,
+      "dalzhina": 23.358985,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 133,
+      "ime": "Гълъбите",
+      "shirina": 42.67161,
+      "dalzhina": 23.307612,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 134,
+      "ime": "Д-р Райко Даскалов",
+      "shirina": 42.713492,
+      "dalzhina": 23.246834,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 135,
+      "ime": "Да бъдеш добър е страшно уморително",
+      "shirina": 42.688358,
+      "dalzhina": 23.324278,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 136,
+      "ime": "Да дариш живот",
+      "shirina": 42.702944,
+      "dalzhina": 23.311152,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 137,
+      "ime": "Дар Божий",
+      "shirina": 42.686274,
+      "dalzhina": 23.315771,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 138,
+      "ime": "Деметра",
+      "shirina": 42.142093,
+      "dalzhina": 24.748702,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 139,
+      "ime": "Джузепе Гарибалди",
+      "shirina": 42.693874,
+      "dalzhina": 23.322619,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 140,
+      "ime": "Диана с куче",
+      "shirina": 42.490369,
+      "dalzhina": 26.495534,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 141,
+      "ime": "Димитър Добрев 1868 – 1944https://photos.app.goo.gl/74sje6aZYjj16Yfh7",
+      "shirina": 43.199944,
+      "dalzhina": 27.92163,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 142,
+      "ime": "Димитър Икономов",
+      "shirina": 42.88477,
+      "dalzhina": 24.710754,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 143,
+      "ime": "Димитър Николов Асенов и Стефан Тодоров Димов",
+      "shirina": 42.673383,
+      "dalzhina": 23.303743,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 144,
+      "ime": "Димчо Карагьозов 1910-1944",
+      "shirina": 42.493521,
+      "dalzhina": 27.48138,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 145,
+      "ime": "Добри Войников",
+      "shirina": 43.271082,
+      "dalzhina": 26.925463,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 146,
+      "ime": "Добри Христов",
+      "shirina": 43.206529,
+      "dalzhina": 27.91994,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 147,
+      "ime": "Долу НЬОЙ графити",
+      "shirina": 43.41499,
+      "dalzhina": 24.625749,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 148,
+      "ime": "Дряново Рокси",
+      "shirina": 42.975122,
+      "dalzhina": 25.474284,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 149,
+      "ime": "Дъждовник",
+      "shirina": 42.659447,
+      "dalzhina": 23.332369,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 150,
+      "ime": "Дървен кон",
+      "shirina": 42.66019,
+      "dalzhina": 23.333444,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 151,
+      "ime": "Дървена роза",
+      "shirina": 42.707273,
+      "dalzhina": 23.146367,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 152,
+      "ime": "Дървесна жаба",
+      "shirina": 42.659428,
+      "dalzhina": 23.332367,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 153,
+      "ime": "Дървото с животните",
+      "shirina": 42.884776,
+      "dalzhina": 24.712688,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 154,
+      "ime": "Дядо Добри",
+      "shirina": 42.704654,
+      "dalzhina": 23.351645,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 155,
+      "ime": "Дядо Йоцо гледа",
+      "shirina": 43.087712,
+      "dalzhina": 23.474193,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 156,
+      "ime": "Евлоги Георгиев",
+      "shirina": 42.693607,
+      "dalzhina": 23.334633,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 157,
+      "ime": "Екседра",
+      "shirina": 43.419719,
+      "dalzhina": 24.614306,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 158,
+      "ime": "Електропиперка",
+      "shirina": 42.680659,
+      "dalzhina": 23.292636,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 159,
+      "ime": "Елин Пелин",
+      "shirina": 42.687026,
+      "dalzhina": 23.303804,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 160,
+      "ime": "Елисавета Багряна",
+      "shirina": 42.682569,
+      "dalzhina": 23.299401,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 161,
+      "ime": "Жена с носия",
+      "shirina": 42.711873,
+      "dalzhina": 23.280139,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 162,
+      "ime": "Жената с ябълките",
+      "shirina": 42.687217,
+      "dalzhina": 23.326166,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 163,
+      "ime": "Животворна вода",
+      "shirina": 42.361577,
+      "dalzhina": 23.387839,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 164,
+      "ime": "Жорж Папазов",
+      "shirina": 42.482617,
+      "dalzhina": 26.506042,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 165,
+      "ime": "Захарій Стоянов 1850-1889",
+      "shirina": 43.206588,
+      "dalzhina": 27.927336,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 166,
+      "ime": "Знаме на мира",
+      "shirina": 42.663699,
+      "dalzhina": 23.265747,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 167,
+      "ime": "Иван Вазов",
+      "shirina": 41.765996,
+      "dalzhina": 26.201145,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 168,
+      "ime": "Иван Вазов",
+      "shirina": 42.688214,
+      "dalzhina": 23.338808,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 169,
+      "ime": "Иван Вазов",
+      "shirina": 43.204608,
+      "dalzhina": 27.925245,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 170,
+      "ime": "Иван Марчев",
+      "shirina": 41.608171,
+      "dalzhina": 23.796097,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 171,
+      "ime": "Иван Хаджийски",
+      "shirina": 42.884147,
+      "dalzhina": 24.710829,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 172,
+      "ime": "Иван Церов",
+      "shirina": 43.203285,
+      "dalzhina": 27.913006,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 173,
+      "ime": "Изложбена зала \"Сирак Скитник\"",
+      "shirina": 42.679956,
+      "dalzhina": 26.313586,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 174,
+      "ime": "Изненада",
+      "shirina": 42.705547,
+      "dalzhina": 23.351448,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 175,
+      "ime": "Икар",
+      "shirina": 43.206762,
+      "dalzhina": 27.918922,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 176,
+      "ime": "Инвалидна количка",
+      "shirina": 42.688677,
+      "dalzhina": 23.334519,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 177,
+      "ime": "Индийски слон",
+      "shirina": 42.65694,
+      "dalzhina": 23.332628,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 178,
+      "ime": "Иновация за живот",
+      "shirina": 42.690409,
+      "dalzhina": 23.321993,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 179,
+      "ime": "ЙОРГОС ГУНАРОПУЛОС",
+      "shirina": 42.425359,
+      "dalzhina": 27.696429,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 180,
+      "ime": "Каменната градина",
+      "shirina": 43.195169,
+      "dalzhina": 24.071475,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 181,
+      "ime": "Каменни животни",
+      "shirina": 42.66186,
+      "dalzhina": 23.307527,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 182,
+      "ime": "Каменни животни",
+      "shirina": 42.697947,
+      "dalzhina": 23.342958,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 183,
+      "ime": "Каменни животни",
+      "shirina": 42.709118,
+      "dalzhina": 23.317743,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 184,
+      "ime": "Каменните животни",
+      "shirina": 42.672339,
+      "dalzhina": 23.305432,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 185,
+      "ime": "Каменните къщи",
+      "shirina": 43.19948,
+      "dalzhina": 24.067817,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 186,
+      "ime": "Кап. Петко Войвода",
+      "shirina": 42.675672,
+      "dalzhina": 23.300145,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 187,
+      "ime": "Капитан Дядо Никола",
+      "shirina": 42.861937,
+      "dalzhina": 25.323079,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 188,
+      "ime": "Капитан Петко Войвода",
+      "shirina": 42.688256,
+      "dalzhina": 23.338836,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 189,
+      "ime": "Капитан Петко Войвода 1844-1900",
+      "shirina": 42.41747,
+      "dalzhina": 27.69641,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 190,
+      "ime": "Катеричка",
+      "shirina": 42.691817,
+      "dalzhina": 23.33257,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 191,
+      "ime": "Кирил Кръстев",
+      "shirina": 42.481974,
+      "dalzhina": 26.510904,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 192,
+      "ime": "Кирил Шиваров",
+      "shirina": 43.206398,
+      "dalzhina": 27.920099,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 193,
+      "ime": "Китове",
+      "shirina": 42.492099,
+      "dalzhina": 27.473159,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 194,
+      "ime": "Климент Аркадьевич Тимирязев",
+      "shirina": 41.561434,
+      "dalzhina": 23.276501,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 195,
+      "ime": "Клюкарките",
+      "shirina": 42.906597,
+      "dalzhina": 23.79217,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 196,
+      "ime": "Козела",
+      "shirina": 42.135591,
+      "dalzhina": 24.728118,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 197,
+      "ime": "Компаса",
+      "shirina": 42.495302,
+      "dalzhina": 27.471719,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 198,
+      "ime": "Конан Варварина",
+      "shirina": 42.930717,
+      "dalzhina": 25.343163,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 199,
+      "ime": "Константин Величков",
+      "shirina": 42.688024,
+      "dalzhina": 23.339229,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 200,
+      "ime": "Коста Пакев",
+      "shirina": 43.411839,
+      "dalzhina": 24.614622,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 201,
+      "ime": "Костенурката",
+      "shirina": 42.687582,
+      "dalzhina": 23.33939,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 202,
+      "ime": "Котка и мишка",
+      "shirina": 42.678649,
+      "dalzhina": 23.296647,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 203,
+      "ime": "Криви огледала",
+      "shirina": 42.182667,
+      "dalzhina": 24.330022,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 204,
+      "ime": "Криви огледала",
+      "shirina": 42.711291,
+      "dalzhina": 23.282723,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 205,
+      "ime": "Криви огледала",
+      "shirina": 42.711561,
+      "dalzhina": 23.281196,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 206,
+      "ime": "Кукер",
+      "shirina": 42.675529,
+      "dalzhina": 22.873479,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 207,
+      "ime": "Къдроглав пеликан",
+      "shirina": 42.659465,
+      "dalzhina": 23.33237,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 208,
+      "ime": "Кълбото",
+      "shirina": 42.679254,
+      "dalzhina": 26.321626,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 209,
+      "ime": "Къпещата се",
+      "shirina": 42.697411,
+      "dalzhina": 23.343471,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 210,
+      "ime": "Къпещата се",
+      "shirina": 42.69749,
+      "dalzhina": 23.341248,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 211,
+      "ime": "Лале Сердика",
+      "shirina": 42.69884,
+      "dalzhina": 23.32178,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 212,
+      "ime": "Лекарска стена",
+      "shirina": 42.680771,
+      "dalzhina": 23.303469,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 213,
+      "ime": "Летяща чиния",
+      "shirina": 42.497828,
+      "dalzhina": 24.713984,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 214,
+      "ime": "Лили Иванова",
+      "shirina": 42.66776,
+      "dalzhina": 23.278202,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 215,
+      "ime": "Листите на Захари Стоянов",
+      "shirina": 42.186518,
+      "dalzhina": 24.334201,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 216,
+      "ime": "Лъвчето - Непобедимият български дух",
+      "shirina": 42.874088,
+      "dalzhina": 25.318377,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 217,
+      "ime": "Любен Каравелов",
+      "shirina": 42.686649,
+      "dalzhina": 23.341147,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 218,
+      "ime": "Любен Каравелов",
+      "shirina": 43.405897,
+      "dalzhina": 28.166576,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 219,
+      "ime": "Любен Каравелов  1834-1879",
+      "shirina": 43.206775,
+      "dalzhina": 27.927704,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 220,
+      "ime": "Любопитство",
+      "shirina": 42.487614,
+      "dalzhina": 27.481201,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 221,
+      "ime": "МИТРОПОЛИТЪ СИМЕОНЪ",
+      "shirina": 43.206492,
+      "dalzhina": 27.927146,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 222,
+      "ime": "Магазин за художници ЕТЮД",
+      "shirina": 42.427988,
+      "dalzhina": 25.635469,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 223,
+      "ime": "Майката",
+      "shirina": 42.694674,
+      "dalzhina": 23.324491,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 224,
+      "ime": "Майсторите",
+      "shirina": 42.889352,
+      "dalzhina": 24.759792,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 225,
+      "ime": "Майчинство",
+      "shirina": 43.206902,
+      "dalzhina": 27.918593,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 226,
+      "ime": "Максим Горки",
+      "shirina": 42.673601,
+      "dalzhina": 23.286866,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 227,
+      "ime": "Марин Дринов",
+      "shirina": 42.687441,
+      "dalzhina": 23.340101,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 228,
+      "ime": "Мария Грозева",
+      "shirina": 42.697777,
+      "dalzhina": 23.359742,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 229,
+      "ime": "Махатма Ганди",
+      "shirina": 43.20617,
+      "dalzhina": 27.919771,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 230,
+      "ime": "Между миналото което е напът да се случи и бъдещето което вече е било",
+      "shirina": 42.695805,
+      "dalzhina": 23.326267,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 231,
+      "ime": "Мече",
+      "shirina": 42.740255,
+      "dalzhina": 23.299445,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 232,
+      "ime": "Мечка",
+      "shirina": 42.690517,
+      "dalzhina": 23.33654,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 233,
+      "ime": "Мечка",
+      "shirina": 42.825386,
+      "dalzhina": 27.863495,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 234,
+      "ime": "Мечка",
+      "shirina": 42.825944,
+      "dalzhina": 25.482627,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 235,
+      "ime": "Мечката",
+      "shirina": 42.142754,
+      "dalzhina": 24.746235,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 236,
+      "ime": "Мечката",
+      "shirina": 43.266312,
+      "dalzhina": 26.900926,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 237,
+      "ime": "Милко Железов 1872-1955",
+      "shirina": 43.200419,
+      "dalzhina": 27.922035,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 238,
+      "ime": "Мильо",
+      "shirina": 42.145629,
+      "dalzhina": 24.748914,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 239,
+      "ime": "Минион",
+      "shirina": 42.678618,
+      "dalzhina": 23.296704,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 240,
+      "ime": "Михаил Колони",
+      "shirina": 43.203009,
+      "dalzhina": 27.919874,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 241,
+      "ime": "Младост",
+      "shirina": 43.226557,
+      "dalzhina": 27.889407,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 242,
+      "ime": "Мома Богдана",
+      "shirina": 42.573348,
+      "dalzhina": 23.351337,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 243,
+      "ime": "Момичето с тебешира",
+      "shirina": 42.706875,
+      "dalzhina": 23.351486,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 244,
+      "ime": "Монументална стенопис (сграфито)",
+      "shirina": 42.690694,
+      "dalzhina": 23.290804,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 245,
+      "ime": "Муса",
+      "shirina": 42.687459,
+      "dalzhina": 23.326073,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 246,
+      "ime": "Мъдрост",
+      "shirina": 43.408933,
+      "dalzhina": 23.222881,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 247,
+      "ime": "Мъж с гъдулка",
+      "shirina": 42.711948,
+      "dalzhina": 23.279908,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 248,
+      "ime": "НИКОЛАЙ ЛЕСКОВ 1910-1944",
+      "shirina": 42.494248,
+      "dalzhina": 27.482032,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 249,
+      "ime": "На море с окотопод",
+      "shirina": 42.101561,
+      "dalzhina": 27.941927,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 250,
+      "ime": "Народността не пада там, дето знаньето живей!",
+      "shirina": 42.678205,
+      "dalzhina": 23.298329,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 251,
+      "ime": "Началото",
+      "shirina": 43.206495,
+      "dalzhina": 27.91886,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 252,
+      "ime": "Неврокопски митрополит Натанаил",
+      "shirina": 41.57139,
+      "dalzhina": 23.726409,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 253,
+      "ime": "Нептун",
+      "shirina": 42.819321,
+      "dalzhina": 27.884229,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 254,
+      "ime": "Нешо Бончев 1839-1878",
+      "shirina": 42.686536,
+      "dalzhina": 23.341289,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 255,
+      "ime": "Никола Караджов",
+      "shirina": 42.694121,
+      "dalzhina": 24.450173,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 256,
+      "ime": "Никола Котков",
+      "shirina": 42.725636,
+      "dalzhina": 23.302186,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 257,
+      "ime": "Никола Кофарджиев",
+      "shirina": 42.495585,
+      "dalzhina": 27.481836,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 258,
+      "ime": "Николай Станков - Никсъна",
+      "shirina": 42.66612,
+      "dalzhina": 23.30052,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 259,
+      "ime": "Нишава",
+      "shirina": 42.669344,
+      "dalzhina": 23.303557,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 260,
+      "ime": "Нишава",
+      "shirina": 42.669844,
+      "dalzhina": 23.303918,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 261,
+      "ime": "Ножицата",
+      "shirina": 43.208713,
+      "dalzhina": 27.906328,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 262,
+      "ime": "ОПАКА",
+      "shirina": 43.442872,
+      "dalzhina": 26.165246,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 263,
+      "ime": "Обитател",
+      "shirina": 42.626665,
+      "dalzhina": 23.374991,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 264,
+      "ime": "Около София",
+      "shirina": 42.674844,
+      "dalzhina": 23.330082,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 265,
+      "ime": "Опълченец и руски воин",
+      "shirina": 42.686626,
+      "dalzhina": 23.330941,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 266,
+      "ime": "Отець ПАИСИЙ 1762",
+      "shirina": 43.207407,
+      "dalzhina": 27.928953,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 267,
+      "ime": "Очакване",
+      "shirina": 43.195242,
+      "dalzhina": 27.921596,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 268,
+      "ime": "ПЛОЩАД АТЛАНТИЧЕСКА СОЛИДАРНОСТ",
+      "shirina": 43.206745,
+      "dalzhina": 27.918468,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 269,
+      "ime": "Паметник Асеневци",
+      "shirina": 43.082572,
+      "dalzhina": 25.637742,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 270,
+      "ime": "Паметник на \"Св. св. Кирил и Методий\"",
+      "shirina": 42.188996,
+      "dalzhina": 24.333541,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 271,
+      "ime": "Паметник на Атанас Тешовски",
+      "shirina": 41.466447,
+      "dalzhina": 23.69204,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 272,
+      "ime": "Паметник на Васил Левски",
+      "shirina": 42.191544,
+      "dalzhina": 24.335687,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 273,
+      "ime": "Паметник на Одринската епопея",
+      "shirina": 42.702316,
+      "dalzhina": 23.309742,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 274,
+      "ime": "Паметник на Трабант",
+      "shirina": 42.696778,
+      "dalzhina": 23.327081,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 275,
+      "ime": "Паметник на Хан Аспарух",
+      "shirina": 43.715301,
+      "dalzhina": 26.827431,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 276,
+      "ime": "Паметник на Христо Ботев",
+      "shirina": 42.613986,
+      "dalzhina": 24.975646,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 277,
+      "ime": "Паметник на Юрий Гагарин",
+      "shirina": 43.209419,
+      "dalzhina": 27.932754,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 278,
+      "ime": "Паметник на българо-съветската дружба",
+      "shirina": 43.218963,
+      "dalzhina": 27.949019,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 279,
+      "ime": "Партизанин държи деца",
+      "shirina": 42.685082,
+      "dalzhina": 23.34107,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 280,
+      "ime": "Партизанин и съветски воин",
+      "shirina": 42.686473,
+      "dalzhina": 23.330706,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 281,
+      "ime": "Партизански паметник",
+      "shirina": 42.706886,
+      "dalzhina": 24.151979,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 282,
+      "ime": "Патиланчо",
+      "shirina": 42.869161,
+      "dalzhina": 25.32008,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 283,
+      "ime": "Пейо Яворов",
+      "shirina": 42.553291,
+      "dalzhina": 27.643574,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 284,
+      "ime": "Пейо Яворов 1878-1914",
+      "shirina": 43.207883,
+      "dalzhina": 27.930475,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 285,
+      "ime": "Пеликани",
+      "shirina": 44.120066,
+      "dalzhina": 27.258609,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 286,
+      "ime": "Пенчо Петков Славейков",
+      "shirina": 42.686102,
+      "dalzhina": 23.341914,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 287,
+      "ime": "Пералня за пари",
+      "shirina": 42.684245,
+      "dalzhina": 23.33097,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 288,
+      "ime": "Петко Задгорски 1902-1974",
+      "shirina": 42.496454,
+      "dalzhina": 27.481988,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 289,
+      "ime": "Петко Рачов Славейков",
+      "shirina": 42.68614,
+      "dalzhina": 23.34184,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 290,
+      "ime": "Петко Рачов Славейков 1827 -1895",
+      "shirina": 43.208,
+      "dalzhina": 27.930128,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 291,
+      "ime": "Петниста тинтинява",
+      "shirina": 42.672089,
+      "dalzhina": 23.302246,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 292,
+      "ime": "Петър Берон 1799-1871",
+      "shirina": 43.207509,
+      "dalzhina": 27.929747,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 293,
+      "ime": "Пламък",
+      "shirina": 43.206527,
+      "dalzhina": 27.918778,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 294,
+      "ime": "Планинска коза",
+      "shirina": 42.337754,
+      "dalzhina": 23.55763,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 295,
+      "ime": "Плодородие",
+      "shirina": 42.489673,
+      "dalzhina": 26.500794,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 296,
+      "ime": "Плуващи",
+      "shirina": 43.203991,
+      "dalzhina": 27.923223,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 297,
+      "ime": "Полет",
+      "shirina": 43.206399,
+      "dalzhina": 27.919081,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 298,
+      "ime": "Полк. Каварналиев",
+      "shirina": 43.270751,
+      "dalzhina": 26.912796,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 299,
+      "ime": "Полковник Дрангов",
+      "shirina": 42.666222,
+      "dalzhina": 23.354,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 300,
+      "ime": "Портата на 40-те девици",
+      "shirina": 43.370842,
+      "dalzhina": 28.463478,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 301,
+      "ime": "Приказната къщичка",
+      "shirina": 43.217342,
+      "dalzhina": 27.921573,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 302,
+      "ime": "Природни стихии",
+      "shirina": 42.431324,
+      "dalzhina": 25.636284,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 303,
+      "ime": "Приятели",
+      "shirina": 42.694533,
+      "dalzhina": 23.325002,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 304,
+      "ime": "Радко Димитриев",
+      "shirina": 42.685315,
+      "dalzhina": 23.343136,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 305,
+      "ime": "Разходка",
+      "shirina": 43.205409,
+      "dalzhina": 27.91955,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 306,
+      "ime": "Ракета",
+      "shirina": 43.134125,
+      "dalzhina": 24.716442,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 307,
+      "ime": "Ран Босилек",
+      "shirina": 42.869183,
+      "dalzhina": 25.320102,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 308,
+      "ime": "Реката",
+      "shirina": 41.932102,
+      "dalzhina": 25.562944,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 309,
+      "ime": "Релефна карта на България",
+      "shirina": 42.975058,
+      "dalzhina": 25.473514,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 310,
+      "ime": "Репродукция на Айфелова кула",
+      "shirina": 42.497894,
+      "dalzhina": 24.714245,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 311,
+      "ime": "Риба",
+      "shirina": 42.169042,
+      "dalzhina": 27.851553,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 312,
+      "ime": "Рибарят и златната рибка",
+      "shirina": 43.203402,
+      "dalzhina": 27.916982,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 313,
+      "ime": "Румик",
+      "shirina": 42.720329,
+      "dalzhina": 23.341346,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 314,
+      "ime": "Русе–Варна",
+      "shirina": 43.066237,
+      "dalzhina": 24.141079,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 315,
+      "ime": "СТЕФАН КАРАДЖА  1840 – 1868",
+      "shirina": 42.495094,
+      "dalzhina": 27.481509,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 316,
+      "ime": "Сава Катрафилов",
+      "shirina": 42.495141,
+      "dalzhina": 27.482258,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 317,
+      "ime": "Св. Георги и змеят",
+      "shirina": 42.698628,
+      "dalzhina": 23.325063,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 318,
+      "ime": "Св. Патриарх Евтимий",
+      "shirina": 42.692418,
+      "dalzhina": 23.316482,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 319,
+      "ime": "Света София",
+      "shirina": 42.69796,
+      "dalzhina": 23.321395,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 320,
+      "ime": "Свобода в цвят",
+      "shirina": 42.730094,
+      "dalzhina": 23.286298,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 321,
+      "ime": "Свободна графити стена",
+      "shirina": 42.697624,
+      "dalzhina": 23.359488,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 322,
+      "ime": "Седмина музиканти и шестима манифестанти",
+      "shirina": 42.884648,
+      "dalzhina": 24.710138,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 323,
+      "ime": "Сезони",
+      "shirina": 42.665229,
+      "dalzhina": 23.287896,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 324,
+      "ime": "Селянка и колхозничка",
+      "shirina": 42.686238,
+      "dalzhina": 23.330992,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 325,
+      "ime": "Скулптура овен",
+      "shirina": 42.536177,
+      "dalzhina": 26.555962,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 326,
+      "ime": "Слончето",
+      "shirina": 42.687314,
+      "dalzhina": 23.33913,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 327,
+      "ime": "Слънчев Часовник",
+      "shirina": 42.742582,
+      "dalzhina": 23.297102,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 328,
+      "ime": "Слънчев часовник",
+      "shirina": 43.20348,
+      "dalzhina": 27.922542,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 329,
+      "ime": "Слънчевата система",
+      "shirina": 42.668746,
+      "dalzhina": 23.274499,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 330,
+      "ime": "Спас Василев Балевски",
+      "shirina": 42.877508,
+      "dalzhina": 24.710217,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 331,
+      "ime": "Статуя на Станислав Доспевски",
+      "shirina": 42.18643,
+      "dalzhina": 24.325385,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 332,
+      "ime": "Статуя на суетата",
+      "shirina": 42.698913,
+      "dalzhina": 23.317631,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 333,
+      "ime": "Стената на Героите",
+      "shirina": 43.203351,
+      "dalzhina": 27.89905,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 334,
+      "ime": "Стената на Колю Фичето",
+      "shirina": 42.97145,
+      "dalzhina": 25.467848,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 335,
+      "ime": "Стефан Дунов",
+      "shirina": 43.384404,
+      "dalzhina": 22.884476,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 336,
+      "ime": "Стефан Караджа",
+      "shirina": 43.205713,
+      "dalzhina": 27.919506,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 337,
+      "ime": "Стефан Стамболов",
+      "shirina": 42.66422,
+      "dalzhina": 23.290499,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 338,
+      "ime": "Стефан Тошев",
+      "shirina": 42.685697,
+      "dalzhina": 23.342451,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 339,
+      "ime": "Стефка Костадинова",
+      "shirina": 42.68324,
+      "dalzhina": 23.320016,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 340,
+      "ime": "Стомна",
+      "shirina": 42.877155,
+      "dalzhina": 24.710133,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 341,
+      "ime": "Стомна",
+      "shirina": 42.888491,
+      "dalzhina": 24.71285,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 342,
+      "ime": "Стомна",
+      "shirina": 42.8891,
+      "dalzhina": 24.712886,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 343,
+      "ime": "Стомни",
+      "shirina": 42.89664,
+      "dalzhina": 24.713167,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 344,
+      "ime": "Стрийт Арт",
+      "shirina": 42.698736,
+      "dalzhina": 23.321333,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 345,
+      "ime": "Съветски специалист и български техник",
+      "shirina": 42.686363,
+      "dalzhina": 23.331248,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 346,
+      "ime": "Съзерцателят",
+      "shirina": 42.185986,
+      "dalzhina": 24.331173,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 347,
+      "ime": "Съзиданието",
+      "shirina": 42.973636,
+      "dalzhina": 25.473848,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 348,
+      "ime": "Танцуваща балерина",
+      "shirina": 42.694936,
+      "dalzhina": 23.325258,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 349,
+      "ime": "Теодосий Марков",
+      "shirina": 42.641423,
+      "dalzhina": 24.809596,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 350,
+      "ime": "Тодор Попорушев",
+      "shirina": 42.733613,
+      "dalzhina": 23.28866,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 351,
+      "ime": "Тотка Съева (Росица)",
+      "shirina": 42.887548,
+      "dalzhina": 24.716161,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 352,
+      "ime": "Тракийски глиган (реплика)",
+      "shirina": 41.738031,
+      "dalzhina": 26.088221,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 353,
+      "ime": "Троянка",
+      "shirina": 42.885386,
+      "dalzhina": 24.712984,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 354,
+      "ime": "Троянски труженик",
+      "shirina": 42.890936,
+      "dalzhina": 24.714815,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 355,
+      "ime": "Упование",
+      "shirina": 42.676045,
+      "dalzhina": 23.358999,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 356,
+      "ime": "Факлоносец",
+      "shirina": 42.688414,
+      "dalzhina": 23.333723,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 357,
+      "ime": "Физкултурник",
+      "shirina": 42.688186,
+      "dalzhina": 23.334007,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 358,
+      "ime": "Физкултурничка",
+      "shirina": 42.688826,
+      "dalzhina": 23.334344,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 359,
+      "ime": "Фотоалея",
+      "shirina": 42.182216,
+      "dalzhina": 24.330568,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 360,
+      "ime": "Фотоизложба на открито",
+      "shirina": 42.187,
+      "dalzhina": 24.314972,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 361,
+      "ime": "Футболист",
+      "shirina": 42.688595,
+      "dalzhina": 23.33462,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 362,
+      "ime": "Хаджи Димитър",
+      "shirina": 43.206393,
+      "dalzhina": 27.927575,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 363,
+      "ime": "Хаджи Димитър 1840-1868",
+      "shirina": 42.495091,
+      "dalzhina": 27.481945,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 364,
+      "ime": "Хигия",
+      "shirina": 42.706802,
+      "dalzhina": 23.145193,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 365,
+      "ime": "Ходи пеша",
+      "shirina": 42.673652,
+      "dalzhina": 23.328711,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 366,
+      "ime": "Холокоста",
+      "shirina": 43.206826,
+      "dalzhina": 27.918804,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 367,
+      "ime": "Хоризонт на Събитията",
+      "shirina": 42.626128,
+      "dalzhina": 23.37491,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 368,
+      "ime": "Храм Св. Иван Рилски",
+      "shirina": 41.925694,
+      "dalzhina": 25.903935,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 369,
+      "ime": "Храм на поезията",
+      "shirina": 42.681205,
+      "dalzhina": 23.316477,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 370,
+      "ime": "Християнски кръст",
+      "shirina": 42.604849,
+      "dalzhina": 23.583978,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 371,
+      "ime": "Христо Ботев",
+      "shirina": 41.579262,
+      "dalzhina": 24.692888,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 372,
+      "ime": "Христо Ботев",
+      "shirina": 41.933081,
+      "dalzhina": 25.558323,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 373,
+      "ime": "Христо Ботев",
+      "shirina": 42.099907,
+      "dalzhina": 27.943098,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 374,
+      "ime": "Христо Ботев",
+      "shirina": 42.494848,
+      "dalzhina": 27.482058,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 375,
+      "ime": "Христо Ботев 1848-1876",
+      "shirina": 43.206717,
+      "dalzhina": 27.928205,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 376,
+      "ime": "Христо Ботев Графити",
+      "shirina": 43.415084,
+      "dalzhina": 24.625026,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 377,
+      "ime": "Христо Георгиев",
+      "shirina": 42.693362,
+      "dalzhina": 23.334668,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 378,
+      "ime": "Христо Данов",
+      "shirina": 42.727536,
+      "dalzhina": 24.599277,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 379,
+      "ime": "Христо Чивчиев",
+      "shirina": 42.10024,
+      "dalzhina": 27.943283,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 380,
+      "ime": "Цар Иван Асен II",
+      "shirina": 42.008583,
+      "dalzhina": 24.873878,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 381,
+      "ime": "Цар Самуил",
+      "shirina": 42.696297,
+      "dalzhina": 23.330649,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 382,
+      "ime": "Цигуларчето",
+      "shirina": 43.847157,
+      "dalzhina": 25.950899,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 383,
+      "ime": "Червеногуша гъска",
+      "shirina": 42.659484,
+      "dalzhina": 23.332372,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 384,
+      "ime": "Череши",
+      "shirina": 42.186121,
+      "dalzhina": 24.332304,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 385,
+      "ime": "Яна Вазова",
+      "shirina": 42.690557,
+      "dalzhina": 23.323543,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 386,
+      "ime": "Янко Андонов 1892–1925",
+      "shirina": 42.497914,
+      "dalzhina": 27.481904,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 387,
+      "ime": "акад. Благовест Сендов",
+      "shirina": 42.674722,
+      "dalzhina": 23.330168,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 388,
+      "ime": "ген. Владимир Вазов",
+      "shirina": 42.702922,
+      "dalzhina": 23.351924,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 389,
+      "ime": "ген. Владимир Вазов",
+      "shirina": 42.711263,
+      "dalzhina": 23.313357,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 390,
+      "ime": "ген. Павел Карцов",
+      "shirina": 42.883848,
+      "dalzhina": 24.710368,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 391,
+      "ime": "ген.-майор проф. Иван Викторов Тодоров",
+      "shirina": 42.684978,
+      "dalzhina": 23.304116,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 392,
+      "ime": "ген.-майор проф. Иван Костов Копчев",
+      "shirina": 42.68501,
+      "dalzhina": 23.304245,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 393,
+      "ime": "ген.-майор проф. Иван Маринов Иванов",
+      "shirina": 42.684877,
+      "dalzhina": 23.303699,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 394,
+      "ime": "ген.-майор проф. Константин Ангелов Стоянов",
+      "shirina": 42.684907,
+      "dalzhina": 23.303821,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 395,
+      "ime": "деспот Добротица",
+      "shirina": 43.430805,
+      "dalzhina": 28.336794,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    },
+    {
+      "id": 396,
+      "ime": "релефна карта на Черно море",
+      "shirina": 42.427783,
+      "dalzhina": 25.629038,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "artwork",
+      "osm_klas": "tourism=artwork"
+    }
+  ],
+  "meta": {
+    "title": "Улично изкуство и пластики в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Улично изкуство и пластики в България — 396 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=artwork`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 396 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Улично изкуство и пластики в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Улично изкуство и пластики в България (OpenStreetMap) — 396 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 396 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

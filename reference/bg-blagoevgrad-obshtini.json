@@ -1,0 +1,339 @@
+{
+  "id": "bg-blagoevgrad-obshtini",
+  "name": "Общини — област Благоевград (Municipalities of Blagoevgrad)",
+  "title": "Общини — област Благоевград (Municipalities of Blagoevgrad)",
+  "description": "Списък на общините в област Благоевград (Blagoevgrad oblast). 14 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс BLG. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 74,
+      "gisco_id": "BG_BLG01",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Банско",
+      "name_en": "",
+      "slug": "bansko",
+      "population_2024": 13161,
+      "population_density_2024_per_km2": 27.65266698,
+      "area_km2": 475.93962672,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://bansko.bg/za-grazhdanite/bezopasnost-i-zasthita/plan-za-zasthita-pri-bedstviya-na-obsthina-b",
+      "comment": ""
+    },
+    {
+      "id": 75,
+      "gisco_id": "BG_BLG02",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Белица",
+      "name_en": "",
+      "slug": "belica",
+      "population_2024": 8980,
+      "population_density_2024_per_km2": 30.60559281,
+      "area_km2": 293.41042516,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://obshtinabelitsa.com/2021/112021/%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0%BF%D1%8",
+      "comment": ""
+    },
+    {
+      "id": 76,
+      "gisco_id": "BG_BLG03",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Благоевград",
+      "name_en": "",
+      "slug": "blagoevgrad",
+      "population_2024": 69015,
+      "population_density_2024_per_km2": 111.30188318,
+      "area_km2": 620.07037103,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://blagoevgrad.bg/documents/Obshtinski_PZB_-_Blagoevgrad_2021.pdf",
+      "comment": ""
+    },
+    {
+      "id": 77,
+      "gisco_id": "BG_BLG11",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Гоце Делчев",
+      "name_en": "",
+      "slug": "goce-delchev",
+      "population_2024": 28739,
+      "population_density_2024_per_km2": 86.84299035,
+      "area_km2": 330.93056658,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.gotsedelchev.bg/docs/PROGRAMA%20RISK%20BEDSTVIQ%202021-2025.pdf",
+      "comment": ""
+    },
+    {
+      "id": 78,
+      "gisco_id": "BG_BLG13",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Гърмен",
+      "name_en": "",
+      "slug": "garmen",
+      "population_2024": 14772,
+      "population_density_2024_per_km2": 38.02601478,
+      "area_km2": 388.47089509,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.garmen.bg/index.php?pg=24",
+      "comment": ""
+    },
+    {
+      "id": 89,
+      "gisco_id": "BG_BLG28",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Кресна",
+      "name_en": "",
+      "slug": "kresna",
+      "population_2024": 4340,
+      "population_density_2024_per_km2": 12.59464191,
+      "area_km2": 344.59098017,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.kresna-bg.com/inc/service/service-download-file.php?identifier=d808673c-a4c6-495b-bfca-1",
+      "comment": ""
+    },
+    {
+      "id": 90,
+      "gisco_id": "BG_BLG33",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Петрич",
+      "name_en": "",
+      "slug": "petrich",
+      "population_2024": 46708,
+      "population_density_2024_per_km2": 71.80310076,
+      "area_km2": 650.50115533,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://petrich.bg/wps/wcm/connect/petrich.bg-8377/3bc91453-db2e-4e63-916b-ba4cf0b72702/%D0%9F%D0%BB",
+      "comment": ""
+    },
+    {
+      "id": 91,
+      "gisco_id": "BG_BLG37",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Разлог",
+      "name_en": "",
+      "slug": "razlog",
+      "population_2024": 18443,
+      "population_density_2024_per_km2": 41.89825583,
+      "area_km2": 440.18538803,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://razlog.bg/wps/portal/municipality-razlog/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 92,
+      "gisco_id": "BG_BLG40",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Сандански",
+      "name_en": "",
+      "slug": "sandanski",
+      "population_2024": 35036,
+      "population_density_2024_per_km2": 35.17032237,
+      "area_km2": 996.18080359,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://sandanski.bg/wp-content/uploads/2014/05/%D0%9F%D0%97%D0%91-%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0",
+      "comment": ""
+    },
+    {
+      "id": 93,
+      "gisco_id": "BG_BLG42",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Сатовча",
+      "name_en": "",
+      "slug": "satovcha",
+      "population_2024": 12946,
+      "population_density_2024_per_km2": 38.95583655,
+      "area_km2": 332.32504159,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.satovcha.bg/news/551/planpzb",
+      "comment": ""
+    },
+    {
+      "id": 94,
+      "gisco_id": "BG_BLG44",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Симитли",
+      "name_en": "",
+      "slug": "simitli",
+      "population_2024": 12709,
+      "population_density_2024_per_km2": 22.98277734,
+      "area_km2": 552.97929453,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://simitli.bg/1/PBZ%202021.pdf",
+      "comment": ""
+    },
+    {
+      "id": 95,
+      "gisco_id": "BG_BLG49",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Струмяни",
+      "name_en": "",
+      "slug": "strumyani",
+      "population_2024": 4489,
+      "population_density_2024_per_km2": 12.5411261,
+      "area_km2": 357.94233807,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.strumyani.org/assets/2.%20Obshtinski%20syvet/Normativni%20aktove/Planove/2022/Plan%20zas",
+      "comment": ""
+    },
+    {
+      "id": 96,
+      "gisco_id": "BG_BLG52",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Хаджидимово",
+      "name_en": "",
+      "slug": "hadzhidimovo",
+      "population_2024": 8490,
+      "population_density_2024_per_km2": 25.90889202,
+      "area_km2": 327.68672601,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://hadzhidimovo.com/docs/obshtinska-programa-hadzhidimovo.doc",
+      "comment": ""
+    },
+    {
+      "id": 97,
+      "gisco_id": "BG_BLG53",
+      "oblast_code": "BLG",
+      "oblast_slug": "blagoevgrad",
+      "oblast_bg": "Благоевград",
+      "oblast_en": "Blagoevgrad",
+      "name_bg": "Якоруда",
+      "name_en": "",
+      "slug": "yakoruda",
+      "population_2024": 9249,
+      "population_density_2024_per_km2": 27.2578693,
+      "area_km2": 339.31485618,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://yakoruda.bg/wp-content/uploads/2017/11/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8-%D0%",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Благоевград (Municipalities of Blagoevgrad) - Безплатно изтегляне",
+    "description": "Списък на общините в област Благоевград (Blagoevgrad oblast). 14 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс BLG. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 14 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Благоевград (Municipalities of Blagoevgrad) | ListBase",
+    "seo_description": "Изтеглете Общини — област Благоевград (Municipalities of Blagoevgrad) — 14 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 14 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

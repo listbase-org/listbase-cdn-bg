@@ -1,0 +1,288 @@
+{
+  "id": "bg-pleven-obshtini",
+  "name": "Общини — област Плевен (Municipalities of Pleven)",
+  "title": "Общини — област Плевен (Municipalities of Pleven)",
+  "description": "Списък на общините в област Плевен (Pleven oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс PVN. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 34,
+      "gisco_id": "BG_PVN03",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Белене",
+      "name_en": "",
+      "slug": "belene",
+      "population_2024": 7304,
+      "population_density_2024_per_km2": 25.92664575,
+      "area_km2": 281.71789244,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://belene.bg/wp-content/uploads/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D",
+      "comment": ""
+    },
+    {
+      "id": 35,
+      "gisco_id": "BG_PVN08",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Гулянци",
+      "name_en": "",
+      "slug": "gulyanci",
+      "population_2024": 8961,
+      "population_density_2024_per_km2": 19.49889558,
+      "area_km2": 459.56448988,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://gulyantsi.bg/images/%D0%BE%D0%B1%D1%89.%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0_%D0%",
+      "comment": ""
+    },
+    {
+      "id": 36,
+      "gisco_id": "BG_PVN10",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Долна Митрополия",
+      "name_en": "",
+      "slug": "dolna-mitropoliya",
+      "population_2024": 16121,
+      "population_density_2024_per_km2": 24.12455373,
+      "area_km2": 668.24034045,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 37,
+      "gisco_id": "BG_PVN11",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Долни Дъбник",
+      "name_en": "",
+      "slug": "dolni-dabnik",
+      "population_2024": 9693,
+      "population_density_2024_per_km2": 31.540713,
+      "area_km2": 307.31708569,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://dolnidabnik.egov.bg/wps/wcm/connect/dolnidabnik.egov.bg14849/c2228ca9-fee9-44ec-bedc-75f8648",
+      "comment": ""
+    },
+    {
+      "id": 38,
+      "gisco_id": "BG_PVN16",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Левски",
+      "name_en": "",
+      "slug": "levski",
+      "population_2024": 14807,
+      "population_density_2024_per_km2": 35.703673,
+      "area_km2": 414.71923635,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://oblevski.com/images/stories/news/2024/09-08-2024/obshtinska_programa_proekt.pdf",
+      "comment": ""
+    },
+    {
+      "id": 39,
+      "gisco_id": "BG_PVN21",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Никопол",
+      "name_en": "Nikolol",
+      "slug": "nikopol",
+      "population_2024": 6548,
+      "population_density_2024_per_km2": 15.78202654,
+      "area_km2": 414.90235636,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 40,
+      "gisco_id": "BG_PVN23",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Искър",
+      "name_en": "",
+      "slug": "iskar",
+      "population_2024": 5451,
+      "population_density_2024_per_km2": 22.31674007,
+      "area_km2": 244.25610476,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://iskarbg.bg/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B0-%D0%B7%D0%B0-%D0%BD%",
+      "comment": ""
+    },
+    {
+      "id": 44,
+      "gisco_id": "BG_PVN24",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Плевен",
+      "name_en": "",
+      "slug": "pleven",
+      "population_2024": 109767,
+      "population_density_2024_per_km2": 135.55480969,
+      "area_km2": 809.7610129,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.pleven.bg/bg/zashtita-na-naselenieto/",
+      "comment": ""
+    },
+    {
+      "id": 45,
+      "gisco_id": "BG_PVN27",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Пордим",
+      "name_en": "",
+      "slug": "pordim",
+      "population_2024": 4725,
+      "population_density_2024_per_km2": 19.84025698,
+      "area_km2": 238.15215724,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://pordim.bg/wps/portal/municipality-pordim/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 46,
+      "gisco_id": "BG_PVN37",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Червен бряг",
+      "name_en": "Cherven bryag",
+      "slug": "cherven-bryag",
+      "population_2024": 22077,
+      "population_density_2024_per_km2": 45.43904032,
+      "area_km2": 485.85973305,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 47,
+      "gisco_id": "BG_PVN39",
+      "oblast_code": "PVN",
+      "oblast_slug": "pleven",
+      "oblast_bg": "Плевен",
+      "oblast_en": "Pleven",
+      "name_bg": "Кнежа",
+      "name_en": "",
+      "slug": "knezha",
+      "population_2024": 12427,
+      "population_density_2024_per_km2": 39.11032994,
+      "area_km2": 317.74214172,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.knezha.bg/inc/service/service-download-file.php?identifier=d5915392-b9d1-45eb-8e9d-c656e",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Плевен (Municipalities of Pleven) - Безплатно изтегляне",
+    "description": "Списък на общините в област Плевен (Pleven oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс PVN. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 11 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Плевен (Municipalities of Pleven) | ListBase",
+    "seo_description": "Изтеглете Общини — област Плевен (Municipalities of Pleven) — 11 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 11 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

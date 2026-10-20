@@ -1,0 +1,4624 @@
+{
+  "id": "bg-osm-tourism-museum",
+  "name": "Музеи в България (OpenStreetMap)",
+  "title": "Музеи в България (OpenStreetMap)",
+  "description": "Музеи в България — 507 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=museum`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 507,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Archaelogical-historic complex with museum collection Southern Fortress Wall and Tower",
+      "shirina": 42.423729,
+      "dalzhina": 27.695804,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 2,
+      "ime": "Ethnographic Museum",
+      "shirina": 42.658316,
+      "dalzhina": 27.736305,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 3,
+      "ime": "Fantasy - The non-museum of Plovdiv",
+      "shirina": 42.144303,
+      "dalzhina": 24.748522,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 4,
+      "ime": "Georgi Dimitrov's house",
+      "shirina": 42.709179,
+      "dalzhina": 23.140746,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 5,
+      "ime": "Museum",
+      "shirina": 41.941869,
+      "dalzhina": 24.849049,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 6,
+      "ime": "Museum Malko Tarnovo",
+      "shirina": 41.97958,
+      "dalzhina": 27.523853,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 7,
+      "ime": "Regionalen Istoricheski",
+      "shirina": 41.646961,
+      "dalzhina": 25.369546,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 8,
+      "ime": "TT35/XVI/",
+      "shirina": 42.029283,
+      "dalzhina": 24.298859,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 9,
+      "ime": "TechnoMagicLand",
+      "shirina": 42.665799,
+      "dalzhina": 23.373813,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 10,
+      "ime": "Velyanova House",
+      "shirina": 41.835497,
+      "dalzhina": 23.488027,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 11,
+      "ime": "АИР",
+      "shirina": 42.8901,
+      "dalzhina": 24.712846,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 12,
+      "ime": "Абритус",
+      "shirina": 43.523986,
+      "dalzhina": 26.550859,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 13,
+      "ime": "Авиационнен музей",
+      "shirina": 42.565171,
+      "dalzhina": 27.519305,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 14,
+      "ime": "Аладжа манастир музей",
+      "shirina": 43.27726,
+      "dalzhina": 28.0158,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 15,
+      "ime": "Алеко Константинов",
+      "shirina": 43.62055,
+      "dalzhina": 25.340045,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 16,
+      "ime": "Александър Стамболийски",
+      "shirina": 42.314625,
+      "dalzhina": 24.075658,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 17,
+      "ime": "Античен комплекс Бяла",
+      "shirina": 42.855351,
+      "dalzhina": 27.899877,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 18,
+      "ime": "Антична Сердика",
+      "shirina": 42.698826,
+      "dalzhina": 23.322263,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 19,
+      "ime": "Антовата къща",
+      "shirina": 42.146805,
+      "dalzhina": 24.752765,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 20,
+      "ime": "Арт Център Банкя",
+      "shirina": 42.708835,
+      "dalzhina": 23.144524,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 21,
+      "ime": "Археокомплекс \"Долината на тракийските царе\"",
+      "shirina": 42.705765,
+      "dalzhina": 25.342154,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 22,
+      "ime": "Археологическа експозиция Антична Сердика",
+      "shirina": 42.699002,
+      "dalzhina": 23.322294,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 23,
+      "ime": "Археологически музей",
+      "shirina": 42.493647,
+      "dalzhina": 27.475494,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 24,
+      "ime": "Археологически музей",
+      "shirina": 42.501891,
+      "dalzhina": 24.706254,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 25,
+      "ime": "Археологически музей",
+      "shirina": 42.658347,
+      "dalzhina": 27.730728,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 26,
+      "ime": "Археологически музей",
+      "shirina": 42.876155,
+      "dalzhina": 27.884659,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 27,
+      "ime": "Археологически музей",
+      "shirina": 43.080878,
+      "dalzhina": 25.642027,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 28,
+      "ime": "Археологически музей",
+      "shirina": 43.20753,
+      "dalzhina": 27.914883,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 29,
+      "ime": "Археологически музей",
+      "shirina": 43.27719,
+      "dalzhina": 27.116837,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 30,
+      "ime": "Археологически музей \"Велики Преслав\"",
+      "shirina": 43.15334,
+      "dalzhina": 26.814967,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 31,
+      "ime": "Археологически музей \"Проф. Мечислав Домарадски\"",
+      "shirina": 42.210397,
+      "dalzhina": 24.12979,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 32,
+      "ime": "Археологически музей \"проф. Божидар Димитров\"",
+      "shirina": 42.421597,
+      "dalzhina": 27.692705,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 33,
+      "ime": "Археологически музей (Сандански)",
+      "shirina": 41.566343,
+      "dalzhina": 23.280658,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 34,
+      "ime": "Археологически музей Марица Изток",
+      "shirina": 42.288635,
+      "dalzhina": 25.935187,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 35,
+      "ime": "Археологически музей „Професор Рашо Рашев“ Archaeologicla Museum Prof. Rasho Rashev",
+      "shirina": 43.390709,
+      "dalzhina": 27.133639,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 36,
+      "ime": "Археологическо ниво на базиликата „Света София“",
+      "shirina": 42.696624,
+      "dalzhina": 23.331226,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 37,
+      "ime": "Археология и Възраждане",
+      "shirina": 42.950551,
+      "dalzhina": 25.43173,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 38,
+      "ime": "Архиологически музей",
+      "shirina": 42.511708,
+      "dalzhina": 25.914256,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 39,
+      "ime": "Архитектурно-етнографски комплекс \"Етър\"",
+      "shirina": 42.805626,
+      "dalzhina": 25.348551,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 40,
+      "ime": "Атрактивна къща \"Природа и наследство\"",
+      "shirina": 41.838175,
+      "dalzhina": 24.831704,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 41,
+      "ime": "Бакалова къща",
+      "shirina": 42.150886,
+      "dalzhina": 24.752646,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 42,
+      "ime": "Балабанова къща",
+      "shirina": 42.150028,
+      "dalzhina": 24.751796,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 43,
+      "ime": "Баташката църква",
+      "shirina": 41.943536,
+      "dalzhina": 24.218224,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 44,
+      "ime": "Баятова къща",
+      "shirina": 42.150936,
+      "dalzhina": 24.752837,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 45,
+      "ime": "Безистен",
+      "shirina": 42.483748,
+      "dalzhina": 26.505488,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 46,
+      "ime": "Бившата къща музей \"Николай Хрелков\"",
+      "shirina": 43.467795,
+      "dalzhina": 23.94625,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 47,
+      "ime": "Бисероливница",
+      "shirina": 43.357917,
+      "dalzhina": 27.672919,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 48,
+      "ime": "Бонсай градина",
+      "shirina": 43.272201,
+      "dalzhina": 26.909732,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 49,
+      "ime": "Борис Христов",
+      "shirina": 42.693728,
+      "dalzhina": 23.316638,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 50,
+      "ime": "Българската Ясна поляна",
+      "shirina": 42.281473,
+      "dalzhina": 27.613362,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 51,
+      "ime": "Вазов кът",
+      "shirina": 43.093811,
+      "dalzhina": 23.616299,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 52,
+      "ime": "Вехтошарски музей",
+      "shirina": 42.092537,
+      "dalzhina": 23.069668,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 53,
+      "ime": "Взаимно училище",
+      "shirina": 42.055063,
+      "dalzhina": 24.545499,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 54,
+      "ime": "Вила \"Армира\"",
+      "shirina": 41.499158,
+      "dalzhina": 26.106279,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 55,
+      "ime": "Виртуален музей на водата",
+      "shirina": 43.130521,
+      "dalzhina": 24.715602,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 56,
+      "ime": "Владимир Димитров-Майстора",
+      "shirina": 42.350261,
+      "dalzhina": 22.716489,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 57,
+      "ime": "Влаховата къща",
+      "shirina": 42.076917,
+      "dalzhina": 24.594376,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 58,
+      "ime": "Военноморски музей",
+      "shirina": 43.200481,
+      "dalzhina": 27.92164,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 59,
+      "ime": "Възраждане и Учредително събрание",
+      "shirina": 43.080788,
+      "dalzhina": 25.6426,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 60,
+      "ime": "Възрожденски етнографски комплекс",
+      "shirina": 42.479433,
+      "dalzhina": 26.501043,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 61,
+      "ime": "Възрожденски комплекс",
+      "shirina": 43.065359,
+      "dalzhina": 27.012394,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 62,
+      "ime": "Възрожденски музеен комплекс",
+      "shirina": 42.928285,
+      "dalzhina": 25.876006,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 63,
+      "ime": "Въстановка на неолитно селище \"Тополница\"",
+      "shirina": 42.653382,
+      "dalzhina": 24.049589,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 64,
+      "ime": "Галатанско училище",
+      "shirina": 42.889435,
+      "dalzhina": 26.442854,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 65,
+      "ime": "Галерия Джуркови",
+      "shirina": 42.148131,
+      "dalzhina": 24.749651,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 66,
+      "ime": "Гарнизонно стрелбище",
+      "shirina": 42.680782,
+      "dalzhina": 23.317165,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 67,
+      "ime": "Генчовата къща",
+      "shirina": 42.639756,
+      "dalzhina": 24.356574,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 68,
+      "ime": "Границка къща",
+      "shirina": 42.253057,
+      "dalzhina": 22.740538,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 69,
+      "ime": "ДОМ-МУЗЕЙ НА ТЕСНОЛИНЕЙКАТА Гара Цепина",
+      "shirina": 42.106964,
+      "dalzhina": 24.105921,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 70,
+      "ime": "Данчовата къща",
+      "shirina": 42.149158,
+      "dalzhina": 24.75362,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 71,
+      "ime": "Даскаловата къща",
+      "shirina": 42.865094,
+      "dalzhina": 25.486853,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 72,
+      "ime": "Даскалоливница",
+      "shirina": 42.928508,
+      "dalzhina": 25.876381,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 73,
+      "ime": "Дворът На Кирилицата",
+      "shirina": 43.363276,
+      "dalzhina": 27.115343,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 74,
+      "ime": "Дирекция „Национален парк Централен Балкан“",
+      "shirina": 42.840165,
+      "dalzhina": 25.305085,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 75,
+      "ime": "Добруджа и морето",
+      "shirina": 43.432037,
+      "dalzhina": 28.339478,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 76,
+      "ime": "Догановата къща",
+      "shirina": 42.642256,
+      "dalzhina": 24.357637,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 77,
+      "ime": "Дом на хумора и сатирата",
+      "shirina": 42.879552,
+      "dalzhina": 25.318126,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 78,
+      "ime": "Дом-музей Пеньо Пенев",
+      "shirina": 42.056019,
+      "dalzhina": 25.592547,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 79,
+      "ime": "Дом-реликва на Завета на Цветните лъчи",
+      "shirina": 43.096278,
+      "dalzhina": 25.670922,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 80,
+      "ime": "Дринова къща",
+      "shirina": 42.505836,
+      "dalzhina": 24.193268,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 81,
+      "ime": "Дядо Стояновата воденица",
+      "shirina": 42.662158,
+      "dalzhina": 24.748464,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 82,
+      "ime": "Екомузей и аквариум - Русе",
+      "shirina": 43.84464,
+      "dalzhina": 25.947362,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 83,
+      "ime": "Епиграфски музей",
+      "shirina": 43.99359,
+      "dalzhina": 22.88476,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 84,
+      "ime": "Епископска базилика на Филипопол",
+      "shirina": 42.144064,
+      "dalzhina": 24.752595,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 85,
+      "ime": "Етногарфски комплекс",
+      "shirina": 43.430226,
+      "dalzhina": 28.334569,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 86,
+      "ime": "Етнографска къща",
+      "shirina": 43.566333,
+      "dalzhina": 27.83147,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 87,
+      "ime": "Етнографска къща-музей",
+      "shirina": 42.045154,
+      "dalzhina": 27.427514,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 88,
+      "ime": "Етнографска музейна експозиция",
+      "shirina": 42.310519,
+      "dalzhina": 23.764028,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 89,
+      "ime": "Етнографска музейна сбирка",
+      "shirina": 42.152541,
+      "dalzhina": 26.811271,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 90,
+      "ime": "Етнографска музейна сбирка",
+      "shirina": 42.581213,
+      "dalzhina": 26.60332,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 91,
+      "ime": "Етнографски Комплекс Генгер",
+      "shirina": 42.709589,
+      "dalzhina": 27.260336,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 92,
+      "ime": "Етнографски исторически музей",
+      "shirina": 41.819902,
+      "dalzhina": 23.560929,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 93,
+      "ime": "Етнографски комплекс Дамасцена",
+      "shirina": 42.677671,
+      "dalzhina": 25.194758,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 94,
+      "ime": "Етнографски комплекс „Драсова и Рашова къщи“",
+      "shirina": 43.130454,
+      "dalzhina": 24.717925,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 95,
+      "ime": "Етнографски комплекс „Нунките“",
+      "shirina": 42.89047,
+      "dalzhina": 24.714211,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 96,
+      "ime": "Етнографски музей",
+      "shirina": 41.387301,
+      "dalzhina": 25.085945,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 97,
+      "ime": "Етнографски музей",
+      "shirina": 42.003707,
+      "dalzhina": 24.871516,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 98,
+      "ime": "Етнографски музей",
+      "shirina": 42.14999,
+      "dalzhina": 24.753207,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 99,
+      "ime": "Етнографски музей",
+      "shirina": 42.171211,
+      "dalzhina": 26.567082,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 100,
+      "ime": "Етнографски музей",
+      "shirina": 42.263468,
+      "dalzhina": 25.32441,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 101,
+      "ime": "Етнографски музей",
+      "shirina": 42.423815,
+      "dalzhina": 27.695674,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 102,
+      "ime": "Етнографски музей",
+      "shirina": 42.496224,
+      "dalzhina": 27.475041,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 103,
+      "ime": "Етнографски музей",
+      "shirina": 43.129134,
+      "dalzhina": 24.716975,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 104,
+      "ime": "Етнографски музей",
+      "shirina": 43.201005,
+      "dalzhina": 27.913436,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 105,
+      "ime": "Етнографски музей",
+      "shirina": 43.20554,
+      "dalzhina": 25.312576,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 106,
+      "ime": "Етнографски музей",
+      "shirina": 43.238713,
+      "dalzhina": 23.127196,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 107,
+      "ime": "Етнографски музей",
+      "shirina": 43.406968,
+      "dalzhina": 28.162825,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 108,
+      "ime": "Етнографски музей",
+      "shirina": 43.526708,
+      "dalzhina": 26.530572,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 109,
+      "ime": "Етнографски музей \"Дунавски риболов и лодкостроене\"",
+      "shirina": 44.049349,
+      "dalzhina": 26.608001,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 110,
+      "ime": "Етнографски музей \"Кръстата казарма\"",
+      "shirina": 43.990366,
+      "dalzhina": 22.88166,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 111,
+      "ime": "Етнографски музей \"Чирпанлиевата къща\"",
+      "shirina": 42.713143,
+      "dalzhina": 25.333358,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 112,
+      "ime": "Етнографски музей - битова къща",
+      "shirina": 42.890096,
+      "dalzhina": 26.441634,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 113,
+      "ime": "Етнографски музей гр. Берковица",
+      "shirina": 43.238954,
+      "dalzhina": 23.126971,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 114,
+      "ime": "Етнографски музей на открито \"Етър\"",
+      "shirina": 42.803293,
+      "dalzhina": 25.349385,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 115,
+      "ime": "Зала \"Нашенци\"",
+      "shirina": 42.572672,
+      "dalzhina": 25.183991,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 116,
+      "ime": "Затвор",
+      "shirina": 43.080498,
+      "dalzhina": 25.642489,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 117,
+      "ime": "Изложбена зала",
+      "shirina": 41.458762,
+      "dalzhina": 23.264337,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 118,
+      "ime": "Изложбена сграда",
+      "shirina": 43.738735,
+      "dalzhina": 26.752282,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 119,
+      "ime": "Иконна галерия",
+      "shirina": 42.133118,
+      "dalzhina": 23.340497,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 120,
+      "ime": "Икономова къща",
+      "shirina": 42.974931,
+      "dalzhina": 25.473994,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 121,
+      "ime": "Интерактивен музей на индустрията",
+      "shirina": 42.871043,
+      "dalzhina": 25.319766,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 122,
+      "ime": "Историко-етнографски комплекс \"Радонова къща\"",
+      "shirina": 41.833661,
+      "dalzhina": 23.485642,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 123,
+      "ime": "Историческа църква-музей Рождество Христово",
+      "shirina": 43.097317,
+      "dalzhina": 25.663727,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 124,
+      "ime": "Исторически Музей",
+      "shirina": 43.716433,
+      "dalzhina": 26.827778,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 125,
+      "ime": "Исторически Музей Искра Казанлък",
+      "shirina": 42.621263,
+      "dalzhina": 25.39503,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 126,
+      "ime": "Исторически Музей Стрелча",
+      "shirina": 42.507136,
+      "dalzhina": 24.320667,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 127,
+      "ime": "Исторически музей",
+      "shirina": 41.386611,
+      "dalzhina": 25.087386,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 128,
+      "ime": "Исторически музей",
+      "shirina": 41.523426,
+      "dalzhina": 23.39661,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 129,
+      "ime": "Исторически музей",
+      "shirina": 41.523569,
+      "dalzhina": 23.394873,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 130,
+      "ime": "Исторически музей",
+      "shirina": 41.528488,
+      "dalzhina": 26.125759,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 131,
+      "ime": "Исторически музей",
+      "shirina": 41.572965,
+      "dalzhina": 23.726899,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 132,
+      "ime": "Исторически музей",
+      "shirina": 41.662365,
+      "dalzhina": 25.925061,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 133,
+      "ime": "Исторически музей",
+      "shirina": 41.764727,
+      "dalzhina": 26.205339,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 134,
+      "ime": "Исторически музей",
+      "shirina": 41.88581,
+      "dalzhina": 23.460652,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 135,
+      "ime": "Исторически музей",
+      "shirina": 41.942711,
+      "dalzhina": 24.218295,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 136,
+      "ime": "Исторически музей",
+      "shirina": 42.00654,
+      "dalzhina": 24.874465,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 137,
+      "ime": "Исторически музей",
+      "shirina": 42.022907,
+      "dalzhina": 24.374455,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 138,
+      "ime": "Исторически музей",
+      "shirina": 42.029274,
+      "dalzhina": 24.298859,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 139,
+      "ime": "Исторически музей",
+      "shirina": 42.05567,
+      "dalzhina": 24.54552,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 140,
+      "ime": "Исторически музей",
+      "shirina": 42.05751,
+      "dalzhina": 25.596095,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 141,
+      "ime": "Исторически музей",
+      "shirina": 42.171541,
+      "dalzhina": 27.852164,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 142,
+      "ime": "Исторически музей",
+      "shirina": 42.339379,
+      "dalzhina": 23.560262,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 143,
+      "ime": "Исторически музей",
+      "shirina": 42.351256,
+      "dalzhina": 25.965229,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 144,
+      "ime": "Исторически музей",
+      "shirina": 42.437969,
+      "dalzhina": 23.815658,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 145,
+      "ime": "Исторически музей",
+      "shirina": 42.494569,
+      "dalzhina": 27.474452,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 146,
+      "ime": "Исторически музей",
+      "shirina": 42.593286,
+      "dalzhina": 26.691911,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 147,
+      "ime": "Исторически музей",
+      "shirina": 42.636707,
+      "dalzhina": 24.806315,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 148,
+      "ime": "Исторически музей",
+      "shirina": 42.906657,
+      "dalzhina": 23.792729,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 149,
+      "ime": "Исторически музей",
+      "shirina": 43.026023,
+      "dalzhina": 25.103226,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 150,
+      "ime": "Исторически музей",
+      "shirina": 43.121947,
+      "dalzhina": 25.687551,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 151,
+      "ime": "Исторически музей",
+      "shirina": 43.238866,
+      "dalzhina": 25.31123,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 152,
+      "ime": "Исторически музей",
+      "shirina": 43.38351,
+      "dalzhina": 22.878987,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 153,
+      "ime": "Исторически музей",
+      "shirina": 43.407243,
+      "dalzhina": 28.162882,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 154,
+      "ime": "Исторически музей",
+      "shirina": 43.564638,
+      "dalzhina": 27.830306,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 155,
+      "ime": "Исторически музей",
+      "shirina": 43.820032,
+      "dalzhina": 27.141563,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 156,
+      "ime": "Исторически музей",
+      "shirina": 44.050375,
+      "dalzhina": 26.608974,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 157,
+      "ime": "Исторически музей \"Възраждане\"",
+      "shirina": 42.14976,
+      "dalzhina": 24.753358,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 158,
+      "ime": "Исторически музей (Каварна)",
+      "shirina": 43.432195,
+      "dalzhina": 28.340178,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 159,
+      "ime": "Исторически музей - Белица",
+      "shirina": 41.951447,
+      "dalzhina": 23.558288,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 160,
+      "ime": "Исторически музей - Дупница",
+      "shirina": 42.263487,
+      "dalzhina": 23.119447,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 161,
+      "ime": "Исторически музей - Нови Пазар",
+      "shirina": 43.346259,
+      "dalzhina": 27.194489,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 162,
+      "ime": "Исторически музей / Саралиевата къща",
+      "shirina": 42.995837,
+      "dalzhina": 25.62108,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 163,
+      "ime": "Исторически музей Белоградчик",
+      "shirina": 43.624882,
+      "dalzhina": 22.681527,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 164,
+      "ime": "Исторически музей Велинград",
+      "shirina": 42.04385,
+      "dalzhina": 23.986896,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 165,
+      "ime": "Исторически музей Дряново",
+      "shirina": 42.979561,
+      "dalzhina": 25.477432,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 166,
+      "ime": "Исторически музей Етрополе",
+      "shirina": 42.830526,
+      "dalzhina": 23.994079,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 167,
+      "ime": "Исторически музей Панагюрище",
+      "shirina": 42.508179,
+      "dalzhina": 24.185316,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 168,
+      "ime": "Исторически музей Поморие",
+      "shirina": 42.554521,
+      "dalzhina": 27.646352,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 169,
+      "ime": "Исторически музей Провадия",
+      "shirina": 43.175793,
+      "dalzhina": 27.441471,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 170,
+      "ime": "Исторически музей Силистра",
+      "shirina": 44.119442,
+      "dalzhina": 27.264308,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 171,
+      "ime": "Исторически музей Трън",
+      "shirina": 42.835813,
+      "dalzhina": 22.653029,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 172,
+      "ime": "Исторически музей гр. Клисура",
+      "shirina": 42.694254,
+      "dalzhina": 24.44997,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 173,
+      "ime": "Исторически музей гр.Попово",
+      "shirina": 43.349526,
+      "dalzhina": 26.224956,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 174,
+      "ime": "Исторически музей – Полски Тръмбеш",
+      "shirina": 43.373125,
+      "dalzhina": 25.634776,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 175,
+      "ime": "Исторчески музей",
+      "shirina": 43.096216,
+      "dalzhina": 25.667838,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 176,
+      "ime": "Килийно училище",
+      "shirina": 42.046449,
+      "dalzhina": 27.428204,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 177,
+      "ime": "Килийно училище",
+      "shirina": 42.979772,
+      "dalzhina": 25.477245,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 178,
+      "ime": "Килийно училище",
+      "shirina": 43.414719,
+      "dalzhina": 28.164437,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 179,
+      "ime": "Килийно училище Боженица",
+      "shirina": 43.011964,
+      "dalzhina": 23.82079,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 180,
+      "ime": "Киноцентър Бояна",
+      "shirina": 42.640292,
+      "dalzhina": 23.291817,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 181,
+      "ime": "Кирковото училище",
+      "shirina": 41.932957,
+      "dalzhina": 25.550917,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 182,
+      "ime": "Класно училище",
+      "shirina": 42.637864,
+      "dalzhina": 24.358896,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 183,
+      "ime": "Колю Фичето - живот и творчество",
+      "shirina": 42.979497,
+      "dalzhina": 25.47747,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 184,
+      "ime": "Конака",
+      "shirina": 43.988992,
+      "dalzhina": 22.874638,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 185,
+      "ime": "Констанцалиева къща",
+      "shirina": 43.099025,
+      "dalzhina": 25.66539,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 186,
+      "ime": "Кордопулова Къща",
+      "shirina": 41.523198,
+      "dalzhina": 23.398238,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 187,
+      "ime": "Кристална зала",
+      "shirina": 41.498286,
+      "dalzhina": 24.939767,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 188,
+      "ime": "Кръстата казарма",
+      "shirina": 43.99034,
+      "dalzhina": 22.881645,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 189,
+      "ime": "Къкринско Ханче",
+      "shirina": 43.124783,
+      "dalzhina": 24.884422,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 190,
+      "ime": "Къкринско ханче",
+      "shirina": 43.124807,
+      "dalzhina": 24.884477,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 191,
+      "ime": "Късноантичен мавзолей",
+      "shirina": 42.671529,
+      "dalzhina": 23.31085,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 192,
+      "ime": "Късноантична сграда \"Ирини\"",
+      "shirina": 42.145007,
+      "dalzhina": 24.751777,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 193,
+      "ime": "Къща Клианти",
+      "shirina": 42.147527,
+      "dalzhina": 24.752303,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 194,
+      "ime": "Къща д-р Сотир Антониади",
+      "shirina": 42.148956,
+      "dalzhina": 24.752246,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 195,
+      "ime": "Къща д-р Стоян Чомаков",
+      "shirina": 42.149156,
+      "dalzhina": 24.75261,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 196,
+      "ime": "Къща музей \"Баба Райна\"",
+      "shirina": 42.872729,
+      "dalzhina": 25.424855,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 197,
+      "ime": "Къща музей \"Българи\"",
+      "shirina": 42.08712,
+      "dalzhina": 27.727637,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 198,
+      "ime": "Къща музей \"Гео Милев\"",
+      "shirina": 42.423376,
+      "dalzhina": 25.63414,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 199,
+      "ime": "Къща музей \"Георги Димитров\"",
+      "shirina": 42.704129,
+      "dalzhina": 23.311487,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 200,
+      "ime": "Къща музей \"Д-р Миркович\"",
+      "shirina": 42.681189,
+      "dalzhina": 26.310774,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 201,
+      "ime": "Къща музей \"Дончо Попа\"",
+      "shirina": 42.872176,
+      "dalzhina": 25.422207,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 202,
+      "ime": "Къща музей \"Елин Пелин\"",
+      "shirina": 42.65551,
+      "dalzhina": 23.821896,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 203,
+      "ime": "Къща музей \"Иван Вазов\"",
+      "shirina": 42.692976,
+      "dalzhina": 23.327604,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 204,
+      "ime": "Къща музей \"Иван Лазаров\"",
+      "shirina": 42.687241,
+      "dalzhina": 23.327557,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 205,
+      "ime": "Къща музей \"Лайош Кошут\"",
+      "shirina": 43.272095,
+      "dalzhina": 26.92409,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 206,
+      "ime": "Къща музей \"Панчо Владигеров\"",
+      "shirina": 42.672222,
+      "dalzhina": 23.328519,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 207,
+      "ime": "Къща музей \"Петко Р. Славейков\"",
+      "shirina": 42.865255,
+      "dalzhina": 25.485851,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 208,
+      "ime": "Къща музей \"Петър Дънов\" - \"Изворът на доброто\"",
+      "shirina": 42.601555,
+      "dalzhina": 23.172023,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 209,
+      "ime": "Къща музей \"Хаджи Димитър\"",
+      "shirina": 42.678447,
+      "dalzhina": 26.311726,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 210,
+      "ime": "Къща музей \"Христо Смирненски\"",
+      "shirina": 42.702466,
+      "dalzhina": 23.306111,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 211,
+      "ime": "Къща музей \"Чудомир\"",
+      "shirina": 42.572893,
+      "dalzhina": 25.18316,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 212,
+      "ime": "Къща музей \"Юрдан Хаджитодоров\"",
+      "shirina": 42.93033,
+      "dalzhina": 25.878901,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 213,
+      "ime": "Къща музей Ангел Кънчев",
+      "shirina": 42.868362,
+      "dalzhina": 25.493765,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 214,
+      "ime": "Къща музей Вера Недкова",
+      "shirina": 42.697122,
+      "dalzhina": 23.332569,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 215,
+      "ime": "Къща музей Георги Димитров",
+      "shirina": 42.555971,
+      "dalzhina": 22.818544,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 216,
+      "ime": "Къща музей Димчо Дебелянов",
+      "shirina": 42.640855,
+      "dalzhina": 24.356318,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 217,
+      "ime": "Къща музей Желю и Данъ Колувъ",
+      "shirina": 42.994298,
+      "dalzhina": 25.034898,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 218,
+      "ime": "Къща музей Иларион Макариополски",
+      "shirina": 42.930357,
+      "dalzhina": 25.87978,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 219,
+      "ime": "Къща музей Найден Геров",
+      "shirina": 42.641069,
+      "dalzhina": 24.358027,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 220,
+      "ime": "Къща музей Никола Вапцаров",
+      "shirina": 41.837502,
+      "dalzhina": 23.488802,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 221,
+      "ime": "Къща музей Пейо Яворов",
+      "shirina": 42.202059,
+      "dalzhina": 25.326682,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 222,
+      "ime": "Къща музей Хаджи Ненчо Палавеев",
+      "shirina": 42.640774,
+      "dalzhina": 24.356866,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 223,
+      "ime": "Къща музей Яко Доросиев",
+      "shirina": 42.636005,
+      "dalzhina": 24.362085,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 224,
+      "ime": "Къща музей на Райна Попгеоргиева Княгиня",
+      "shirina": 42.707672,
+      "dalzhina": 23.31665,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 225,
+      "ime": "Къща музей “Петко Р. Славейков”",
+      "shirina": 43.0854,
+      "dalzhina": 25.635498,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 226,
+      "ime": "Къща музей „Станке Димитров – Марек“",
+      "shirina": 42.265366,
+      "dalzhina": 23.118227,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 227,
+      "ime": "Къща на Бояджи Оглу",
+      "shirina": 41.935143,
+      "dalzhina": 25.54669,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 228,
+      "ime": "Къща на срещите",
+      "shirina": 44.16011,
+      "dalzhina": 22.788819,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 229,
+      "ime": "Къща-музей",
+      "shirina": 43.390421,
+      "dalzhina": 27.778598,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 230,
+      "ime": "Къща-музей",
+      "shirina": 43.7137,
+      "dalzhina": 26.475932,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 231,
+      "ime": "Къща-музей \"Адриана Будевска\"",
+      "shirina": 43.567416,
+      "dalzhina": 27.820061,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 232,
+      "ime": "Къща-музей \"Баба Ванга\"",
+      "shirina": 41.393438,
+      "dalzhina": 23.207179,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 233,
+      "ime": "Къща-музей \"Баба Тонка\"",
+      "shirina": 43.851904,
+      "dalzhina": 25.950317,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 234,
+      "ime": "Къща-музей \"Васил Левски\"",
+      "shirina": 42.642288,
+      "dalzhina": 24.802962,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 235,
+      "ime": "Къща-музей \"Градски бит 19 век\"",
+      "shirina": 42.426145,
+      "dalzhina": 25.628669,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 236,
+      "ime": "Къща-музей \"Захари Стоянов\"",
+      "shirina": 42.844173,
+      "dalzhina": 26.555845,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 237,
+      "ime": "Къща-музей \"Захари Стоянов\"",
+      "shirina": 43.851421,
+      "dalzhina": 25.949869,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 238,
+      "ime": "Къща-музей \"Иван Вазов\"",
+      "shirina": 43.239123,
+      "dalzhina": 23.126714,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 239,
+      "ime": "Къща-музей \"Йордан Йовков\"",
+      "shirina": 43.564905,
+      "dalzhina": 27.829169,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 240,
+      "ime": "Къща-музей \"Катерци\"",
+      "shirina": 41.597572,
+      "dalzhina": 24.378124,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 241,
+      "ime": "Къща-музей \"Килийно училище\"",
+      "shirina": 43.341789,
+      "dalzhina": 27.199755,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 242,
+      "ime": "Къща-музей \"П. Яворов\"",
+      "shirina": 42.201981,
+      "dalzhina": 25.326823,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 243,
+      "ime": "Къща-музей \"Райна Княгиня\"",
+      "shirina": 42.506641,
+      "dalzhina": 24.183758,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 244,
+      "ime": "Къща-музей \"Станислав Доспевски\"",
+      "shirina": 42.18643,
+      "dalzhina": 24.325212,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 245,
+      "ime": "Къща-музей \"проф. Александър Поплилов\"",
+      "shirina": 43.887129,
+      "dalzhina": 22.519435,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 246,
+      "ime": "Къща-музей Александър Божинов",
+      "shirina": 42.686234,
+      "dalzhina": 23.327915,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 247,
+      "ime": "Къща-музей Баба Илийца",
+      "shirina": 43.131568,
+      "dalzhina": 23.608983,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 248,
+      "ime": "Къща-музей Васил Левски",
+      "shirina": 42.642507,
+      "dalzhina": 24.803145,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 249,
+      "ime": "Къща-музей Георги Парцалев",
+      "shirina": 43.356927,
+      "dalzhina": 25.142923,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 250,
+      "ime": "Къща-музей Дико Илиев",
+      "shirina": 43.737573,
+      "dalzhina": 23.957383,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 251,
+      "ime": "Къща-музей Добри Войников",
+      "shirina": 43.271211,
+      "dalzhina": 26.918731,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 252,
+      "ime": "Къща-музей Добри Чинтулов",
+      "shirina": 42.687718,
+      "dalzhina": 26.318356,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 253,
+      "ime": "Къща-музей Никола Й. Вапцаров",
+      "shirina": 42.689327,
+      "dalzhina": 23.322001,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 254,
+      "ime": "Къща-музей Панайот Волов",
+      "shirina": 43.273602,
+      "dalzhina": 26.932501,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 255,
+      "ime": "Къща-музей Панчо Владигеров",
+      "shirina": 43.271915,
+      "dalzhina": 26.919436,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 256,
+      "ime": "Къща-музей Пейо К. Яворов",
+      "shirina": 42.689614,
+      "dalzhina": 23.323052,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 257,
+      "ime": "Къща-музей Старият Сливен",
+      "shirina": 42.687396,
+      "dalzhina": 26.318837,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 258,
+      "ime": "Къща-музей Стефан Караджа",
+      "shirina": 42.21382,
+      "dalzhina": 26.830776,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 259,
+      "ime": "Къща-музей Трифон Кунев",
+      "shirina": 43.202225,
+      "dalzhina": 24.312862,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 260,
+      "ime": "Къща-музей Цар Освободител Александър II",
+      "shirina": 43.412033,
+      "dalzhina": 24.61669,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 261,
+      "ime": "Къща-музей на Филип Тотю",
+      "shirina": 42.870664,
+      "dalzhina": 25.656173,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 262,
+      "ime": "Къща-музей „Георги Бенковски“",
+      "shirina": 42.636244,
+      "dalzhina": 24.362119,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 263,
+      "ime": "Къща-музей „Иван Вазов“",
+      "shirina": 42.654172,
+      "dalzhina": 24.755985,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 264,
+      "ime": "Къща-музей „Любен и Петко Каравелови”",
+      "shirina": 42.64094,
+      "dalzhina": 24.359207,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 265,
+      "ime": "Къща-музей „Неофит Рилски“",
+      "shirina": 41.835142,
+      "dalzhina": 23.486764,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 266,
+      "ime": "Къща-музей „Тодор Каблешков”",
+      "shirina": 42.638408,
+      "dalzhina": 24.35607,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 267,
+      "ime": "Къщата музей „Васил Демиревски – Жельо“",
+      "shirina": 42.260755,
+      "dalzhina": 23.118821,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 268,
+      "ime": "Къщата на Иван Замбин",
+      "shirina": 43.202104,
+      "dalzhina": 23.550789,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 269,
+      "ime": "Къщата на Калиопа",
+      "shirina": 43.852334,
+      "dalzhina": 25.951704,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 270,
+      "ime": "Къщата на чорбаджи Димитрак",
+      "shirina": 41.934594,
+      "dalzhina": 25.545152,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 271,
+      "ime": "Къщата-музей Димитър Димов",
+      "shirina": 42.679055,
+      "dalzhina": 23.329096,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 272,
+      "ime": "Ламбова къща - Вароша",
+      "shirina": 43.172898,
+      "dalzhina": 27.444026,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 273,
+      "ime": "Лафчиева къща",
+      "shirina": 42.979338,
+      "dalzhina": 25.476604,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 274,
+      "ime": "Литературен музей \"Йордан Йовков\"",
+      "shirina": 43.564751,
+      "dalzhina": 27.832591,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 275,
+      "ime": "Литературно-художовествен мусей Чудомир",
+      "shirina": 42.620149,
+      "dalzhina": 25.398221,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 276,
+      "ime": "Лютовата къща",
+      "shirina": 42.638102,
+      "dalzhina": 24.357688,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 277,
+      "ime": "Мавлеви хане",
+      "shirina": 42.148481,
+      "dalzhina": 24.752843,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 278,
+      "ime": "Малката базилика",
+      "shirina": 42.146318,
+      "dalzhina": 24.757967,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 279,
+      "ime": "Мемориална музейна сбирка “Ласло Наги”",
+      "shirina": 41.566863,
+      "dalzhina": 24.745971,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 280,
+      "ime": "Миноносец Дръзки",
+      "shirina": 43.200116,
+      "dalzhina": 27.921838,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 281,
+      "ime": "Момина могила",
+      "shirina": 42.303792,
+      "dalzhina": 25.221099,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 282,
+      "ime": "Музеен комплекс Деултум",
+      "shirina": 42.387345,
+      "dalzhina": 27.283728,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 283,
+      "ime": "Музеен комплекс Тодор Живков",
+      "shirina": 42.899762,
+      "dalzhina": 23.920428,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 284,
+      "ime": "Музеен комплекс с. Белчин",
+      "shirina": 42.35769,
+      "dalzhina": 23.382375,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 285,
+      "ime": "Музей",
+      "shirina": 41.472503,
+      "dalzhina": 25.651896,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 286,
+      "ime": "Музей",
+      "shirina": 42.100112,
+      "dalzhina": 27.943058,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 287,
+      "ime": "Музей \"Кантарджиевана къща\"",
+      "shirina": 42.63827,
+      "dalzhina": 24.355718,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 288,
+      "ime": "Музей \"Карасура\"",
+      "shirina": 42.247085,
+      "dalzhina": 25.348047,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 289,
+      "ime": "Музей \"Килийно училище\"",
+      "shirina": 41.38101,
+      "dalzhina": 25.091264,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 290,
+      "ime": "Музей \"Литературна Стара Загора\"",
+      "shirina": 42.427362,
+      "dalzhina": 25.628036,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 291,
+      "ime": "Музей \"Скребатно\"",
+      "shirina": 41.661113,
+      "dalzhina": 23.796924,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 292,
+      "ime": "Музей \"Червената църква\"",
+      "shirina": 42.073896,
+      "dalzhina": 24.554929,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 293,
+      "ime": "Музей Азиатско и африканско изкуство",
+      "shirina": 42.868109,
+      "dalzhina": 25.491397,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 294,
+      "ime": "Музей Бусинска керамика",
+      "shirina": 42.782167,
+      "dalzhina": 22.625803,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 295,
+      "ime": "Музей Васил Левски",
+      "shirina": 43.129972,
+      "dalzhina": 24.717426,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 296,
+      "ime": "Музей Владислав Варненчик",
+      "shirina": 43.231077,
+      "dalzhina": 27.868213,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 297,
+      "ime": "Музей Никола Танев",
+      "shirina": 42.687652,
+      "dalzhina": 23.332129,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 298,
+      "ime": "Музей Приморско",
+      "shirina": 42.267599,
+      "dalzhina": 27.751175,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 299,
+      "ime": "Музей Света Анастасия",
+      "shirina": 42.467831,
+      "dalzhina": 27.553072,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 300,
+      "ime": "Музей Стара Варна",
+      "shirina": 43.200846,
+      "dalzhina": 27.91776,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 301,
+      "ime": "Музей Старинен Несебър",
+      "shirina": 42.65958,
+      "dalzhina": 27.728052,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 302,
+      "ime": "Музей Тодор Живков",
+      "shirina": 42.899755,
+      "dalzhina": 23.920235,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 303,
+      "ime": "Музей Тревненска иконописна школа",
+      "shirina": 42.867125,
+      "dalzhina": 25.481931,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 304,
+      "ime": "Музей за история на Варна",
+      "shirina": 43.198666,
+      "dalzhina": 27.917993,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 305,
+      "ime": "Музей за история на София",
+      "shirina": 42.699337,
+      "dalzhina": 23.323648,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 306,
+      "ime": "Музей за история на медицината",
+      "shirina": 43.199831,
+      "dalzhina": 27.920677,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 307,
+      "ime": "Музей за местна история, с. Николаевка",
+      "shirina": 43.355665,
+      "dalzhina": 27.673508,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 308,
+      "ime": "Музей минно дело и рудодобив",
+      "shirina": 41.499239,
+      "dalzhina": 24.940795,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 309,
+      "ime": "Музей на Авиацията",
+      "shirina": 42.067429,
+      "dalzhina": 24.841123,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 310,
+      "ime": "Музей на Виното",
+      "shirina": 41.523742,
+      "dalzhina": 23.395079,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 311,
+      "ime": "Музей на Възраждането",
+      "shirina": 43.201168,
+      "dalzhina": 27.912446,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 312,
+      "ime": "Музей на Гурбетчийското градинарство",
+      "shirina": 43.103588,
+      "dalzhina": 25.715132,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 313,
+      "ime": "Музей на Министерството на вътрешните работи",
+      "shirina": 42.695318,
+      "dalzhina": 23.318937,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 314,
+      "ime": "Музей на бойната слава",
+      "shirina": 42.489352,
+      "dalzhina": 26.50511,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 315,
+      "ime": "Музей на водата",
+      "shirina": 42.020701,
+      "dalzhina": 23.064797,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 316,
+      "ime": "Музей на гайдата",
+      "shirina": 41.653797,
+      "dalzhina": 24.63568,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 317,
+      "ime": "Музей на евангелските църкви в България",
+      "shirina": 42.692861,
+      "dalzhina": 23.31687,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 318,
+      "ime": "Музей на илюзиите",
+      "shirina": 42.700443,
+      "dalzhina": 23.322721,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 319,
+      "ime": "Музей на илюзиите",
+      "shirina": 43.083112,
+      "dalzhina": 25.640316,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 320,
+      "ime": "Музей на киселото мляко",
+      "shirina": 42.79197,
+      "dalzhina": 22.596605,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 321,
+      "ime": "Музей на коня и конния спорт",
+      "shirina": 42.400431,
+      "dalzhina": 25.571645,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 322,
+      "ime": "Музей на котвата",
+      "shirina": 42.097729,
+      "dalzhina": 27.94453,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 323,
+      "ime": "Музей на мечката",
+      "shirina": 41.609281,
+      "dalzhina": 24.381439,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 324,
+      "ime": "Музей на минното дело",
+      "shirina": 42.609562,
+      "dalzhina": 23.029212,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 325,
+      "ime": "Музей на мозайките, БТС10",
+      "shirina": 43.225396,
+      "dalzhina": 27.584883,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 326,
+      "ime": "Музей на народните художествени занаяти и приложните изкуства - Троян",
+      "shirina": 42.884385,
+      "dalzhina": 24.711054,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 327,
+      "ime": "Музей на открито \"Малтепе\"",
+      "shirina": 42.175734,
+      "dalzhina": 24.938094,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 328,
+      "ime": "Музей на пощите и съобщенията",
+      "shirina": 41.38774,
+      "dalzhina": 25.086457,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 329,
+      "ime": "Музей на природата и науката",
+      "shirina": 43.622165,
+      "dalzhina": 22.696348,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 330,
+      "ime": "Музей на пчелата",
+      "shirina": 42.662525,
+      "dalzhina": 23.357508,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 331,
+      "ime": "Музей на ракията",
+      "shirina": 42.688543,
+      "dalzhina": 23.32553,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 332,
+      "ime": "Музей на религиите",
+      "shirina": 42.425057,
+      "dalzhina": 25.629082,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 333,
+      "ime": "Музей на родопската аквакултура",
+      "shirina": 41.610325,
+      "dalzhina": 24.380954,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 334,
+      "ime": "Музей на родопския карст",
+      "shirina": 41.72524,
+      "dalzhina": 24.688295,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 335,
+      "ime": "Музей на розата",
+      "shirina": 42.623197,
+      "dalzhina": 25.388312,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 336,
+      "ime": "Музей на совите",
+      "shirina": 42.62225,
+      "dalzhina": 23.225172,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 337,
+      "ime": "Музей на солта",
+      "shirina": 42.56555,
+      "dalzhina": 27.631777,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 338,
+      "ime": "Музей на социалистическото изкуство",
+      "shirina": 42.665754,
+      "dalzhina": 23.358193,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 339,
+      "ime": "Музей на спорта",
+      "shirina": 42.688189,
+      "dalzhina": 23.334667,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 340,
+      "ime": "Музей на стъклото",
+      "shirina": 43.194333,
+      "dalzhina": 27.712833,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 341,
+      "ime": "Музей на тиквата",
+      "shirina": 43.025198,
+      "dalzhina": 25.101446,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 342,
+      "ime": "Музей на тракийксото изкуство (Могила Александрово)",
+      "shirina": 41.981289,
+      "dalzhina": 25.738509,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 343,
+      "ime": "Музей на фотографията и съвременни визуални изкуства",
+      "shirina": 42.621409,
+      "dalzhina": 25.394945,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 344,
+      "ime": "Музей на християнското изкуство крипта храм-паметник „Св. Александър Невски“",
+      "shirina": 42.695992,
+      "dalzhina": 23.332555,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 345,
+      "ime": "Музей по минералогия, петрология и полезни изкопаеми",
+      "shirina": 42.693071,
+      "dalzhina": 23.335029,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 346,
+      "ime": "Музей по палеонтология и исторична геология",
+      "shirina": 42.694245,
+      "dalzhina": 23.334915,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 347,
+      "ime": "Музей „Адалберт Антонов - Малчика“",
+      "shirina": 43.413651,
+      "dalzhina": 25.108664,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 348,
+      "ime": "Музейко",
+      "shirina": 42.659797,
+      "dalzhina": 23.355012,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 349,
+      "ime": "Музейна експозиция",
+      "shirina": 43.173989,
+      "dalzhina": 27.441805,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 350,
+      "ime": "Музейна експозиция Тома Кърджиев",
+      "shirina": 43.846101,
+      "dalzhina": 25.946876,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 351,
+      "ime": "Музейна сбирка",
+      "shirina": 41.458566,
+      "dalzhina": 23.263721,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 352,
+      "ime": "Музейна сбирка",
+      "shirina": 41.743219,
+      "dalzhina": 24.397983,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 353,
+      "ime": "Музейна сбирка",
+      "shirina": 42.103305,
+      "dalzhina": 27.945789,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 354,
+      "ime": "Музейна сбирка",
+      "shirina": 42.274862,
+      "dalzhina": 24.542022,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 355,
+      "ime": "Музейна сбирка \"Светлоструй\"",
+      "shirina": 43.714238,
+      "dalzhina": 26.041126,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 356,
+      "ime": "Музейна сбирка „Минерали и минерални суровини Атанас и Васил Атанасови“",
+      "shirina": 43.134816,
+      "dalzhina": 24.710134,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 357,
+      "ime": "Музеят на румънския княз Карол I",
+      "shirina": 43.376782,
+      "dalzhina": 24.852813,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 358,
+      "ime": "Мултимедиен Посетителски Център \"Царевград Търнов\"",
+      "shirina": 43.081554,
+      "dalzhina": 25.64393,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 359,
+      "ime": "Мъща-музей Йордан Йовков",
+      "shirina": 42.83255,
+      "dalzhina": 26.456975,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 360,
+      "ime": "НАР Кабиле",
+      "shirina": 42.547312,
+      "dalzhina": 26.484094,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 361,
+      "ime": "Национален антропологичен музей",
+      "shirina": 42.679349,
+      "dalzhina": 23.354533,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 362,
+      "ime": "Национален археологически институт с музей",
+      "shirina": 42.696393,
+      "dalzhina": 23.324558,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 363,
+      "ime": "Национален военноисторически музей",
+      "shirina": 42.688447,
+      "dalzhina": 23.350753,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 364,
+      "ime": "Национален етнографски музей",
+      "shirina": 42.696194,
+      "dalzhina": 23.327391,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 365,
+      "ime": "Национален исторически музей",
+      "shirina": 42.654836,
+      "dalzhina": 23.270738,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 366,
+      "ime": "Национален музей \"Земята и хората\"",
+      "shirina": 42.679845,
+      "dalzhina": 23.320569,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 367,
+      "ime": "Национален музей \"Христо Ботев\"",
+      "shirina": 42.611306,
+      "dalzhina": 24.97711,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 368,
+      "ime": "Национален музей на образованието",
+      "shirina": 42.870402,
+      "dalzhina": 25.316564,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 369,
+      "ime": "Национален музей на текстилната индустрия",
+      "shirina": 42.688762,
+      "dalzhina": 26.318222,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 370,
+      "ime": "Национален музей на текстилната индустрия",
+      "shirina": 42.689715,
+      "dalzhina": 26.317401,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 371,
+      "ime": "Национален музей на транспорта и съобщенията",
+      "shirina": 43.860851,
+      "dalzhina": 25.964032,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 372,
+      "ime": "Национален политехнически музей",
+      "shirina": 42.704129,
+      "dalzhina": 23.311954,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 373,
+      "ime": "Национален природонаучен музей при БАН",
+      "shirina": 42.696049,
+      "dalzhina": 23.328726,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 374,
+      "ime": "Национален църковен историко-археологически музей при Св. Синод",
+      "shirina": 42.69587,
+      "dalzhina": 23.321523,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 375,
+      "ime": "Национална галерия за чуждестранно изкуство",
+      "shirina": 42.696169,
+      "dalzhina": 23.334438,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 376,
+      "ime": "Национална художествена галерия",
+      "shirina": 42.696517,
+      "dalzhina": 23.326764,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 377,
+      "ime": "Националния литературен музей",
+      "shirina": 42.689495,
+      "dalzhina": 23.323108,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 378,
+      "ime": "Неолитни жилища",
+      "shirina": 42.424565,
+      "dalzhina": 25.610676,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 379,
+      "ime": "Неофит Рилски",
+      "shirina": 41.835208,
+      "dalzhina": 23.486521,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 380,
+      "ime": "Нова и най-нова история",
+      "shirina": 43.080415,
+      "dalzhina": 25.642708,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 381,
+      "ime": "Обсерватория АВРЕН",
+      "shirina": 43.119885,
+      "dalzhina": 27.66933,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 382,
+      "ime": "Общински исторически музей",
+      "shirina": 42.0864,
+      "dalzhina": 26.332436,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 383,
+      "ime": "Общински музей",
+      "shirina": 43.193919,
+      "dalzhina": 23.286274,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 384,
+      "ime": "Общински музей \"Алекси Рилец\"",
+      "shirina": 42.130389,
+      "dalzhina": 23.133669,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 385,
+      "ime": "Ослековата къща",
+      "shirina": 42.640149,
+      "dalzhina": 24.357184,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 386,
+      "ime": "Оструша",
+      "shirina": 42.689827,
+      "dalzhina": 25.350977,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 387,
+      "ime": "Паисий Хилендарски",
+      "shirina": 41.835166,
+      "dalzhina": 23.485437,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 388,
+      "ime": "Палеонтологичен музей",
+      "shirina": 42.928728,
+      "dalzhina": 25.875742,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 389,
+      "ime": "Палеонтологически музей",
+      "shirina": 42.008155,
+      "dalzhina": 24.880388,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 390,
+      "ime": "Панорама \"Плевнска Епопея\"",
+      "shirina": 43.398788,
+      "dalzhina": 24.606217,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 391,
+      "ime": "Пантеон на Възрожденците",
+      "shirina": 43.850622,
+      "dalzhina": 25.960707,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 392,
+      "ime": "Пантеон на Г. С. Раковски и Музей на котленските възрожденци",
+      "shirina": 42.888824,
+      "dalzhina": 26.446991,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 393,
+      "ime": "Параклис-мавзолей \"Свети Георги Победоносец\"",
+      "shirina": 43.407418,
+      "dalzhina": 24.619561,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 394,
+      "ime": "Параход Радецки",
+      "shirina": 43.798716,
+      "dalzhina": 23.677146,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 395,
+      "ime": "Паскалевата къща",
+      "shirina": 41.932442,
+      "dalzhina": 25.544502,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 396,
+      "ime": "Плиоценски парк",
+      "shirina": 42.0498,
+      "dalzhina": 24.122231,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 397,
+      "ime": "Подводница \"Слава\"",
+      "shirina": 43.194674,
+      "dalzhina": 27.713034,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 398,
+      "ime": "Попангеловата къща",
+      "shirina": 42.868091,
+      "dalzhina": 25.495627,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 399,
+      "ime": "Поповото ханче",
+      "shirina": 43.651997,
+      "dalzhina": 23.754752,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 400,
+      "ime": "Посетителски център за опазване на Поморийско езеро",
+      "shirina": 42.565535,
+      "dalzhina": 27.630952,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 401,
+      "ime": "Постоянна експозиция „Възраждане“",
+      "shirina": 42.884077,
+      "dalzhina": 24.710957,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 402,
+      "ime": "Постоянна изложба Енчо Пиронков",
+      "shirina": 42.148838,
+      "dalzhina": 24.751031,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 403,
+      "ime": "Постоянна иконна изложба – гр. Банско",
+      "shirina": 41.836146,
+      "dalzhina": 23.488175,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 404,
+      "ime": "Праисторически музей на открито",
+      "shirina": 43.669065,
+      "dalzhina": 28.532414,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 405,
+      "ime": "Природонаучен Музей",
+      "shirina": 42.494449,
+      "dalzhina": 27.474746,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 406,
+      "ime": "Природонаучен музей",
+      "shirina": 42.507027,
+      "dalzhina": 24.185849,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 407,
+      "ime": "Природонаучен музей",
+      "shirina": 42.888288,
+      "dalzhina": 26.42962,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 408,
+      "ime": "Природонаучен музей",
+      "shirina": 43.205651,
+      "dalzhina": 25.3117,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 409,
+      "ime": "Природонаучен музей",
+      "shirina": 43.206679,
+      "dalzhina": 27.932003,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 410,
+      "ime": "Природонаучен музей - Пловдив",
+      "shirina": 42.149112,
+      "dalzhina": 24.742817,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 411,
+      "ime": "Природонаучен музей Сребърна",
+      "shirina": 44.102203,
+      "dalzhina": 27.06223,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 412,
+      "ime": "Природонаучен музей — Черни Осъм",
+      "shirina": 42.841085,
+      "dalzhina": 24.768053,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 413,
+      "ime": "Първото училище в Годеч",
+      "shirina": 43.026157,
+      "dalzhina": 23.0624,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 414,
+      "ime": "Райковата Къща",
+      "shirina": 42.866894,
+      "dalzhina": 25.490293,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 415,
+      "ime": "Райна Княгиня",
+      "shirina": 42.509238,
+      "dalzhina": 24.109523,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 416,
+      "ime": "Регионален Исторически Музей",
+      "shirina": 43.081466,
+      "dalzhina": 25.6443,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 417,
+      "ime": "Регионален Музей Търговище",
+      "shirina": 43.242081,
+      "dalzhina": 26.57139,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 418,
+      "ime": "Регионален археологически музей",
+      "shirina": 42.151674,
+      "dalzhina": 24.745054,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 419,
+      "ime": "Регионален исторически музей",
+      "shirina": 41.932439,
+      "dalzhina": 25.558014,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 420,
+      "ime": "Регионален исторически музей",
+      "shirina": 42.020401,
+      "dalzhina": 23.103099,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 421,
+      "ime": "Регионален исторически музей",
+      "shirina": 42.190595,
+      "dalzhina": 24.332615,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 422,
+      "ime": "Регионален исторически музей",
+      "shirina": 42.426556,
+      "dalzhina": 25.627876,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 423,
+      "ime": "Регионален исторически музей",
+      "shirina": 42.483343,
+      "dalzhina": 26.507879,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 424,
+      "ime": "Регионален исторически музей",
+      "shirina": 42.609167,
+      "dalzhina": 23.029061,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 425,
+      "ime": "Регионален исторически музей",
+      "shirina": 43.403516,
+      "dalzhina": 24.618816,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 426,
+      "ime": "Регионален исторически музей",
+      "shirina": 43.570917,
+      "dalzhina": 27.830466,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 427,
+      "ime": "Регионален исторически музей \"Стою Шишков\"",
+      "shirina": 41.576288,
+      "dalzhina": 24.714753,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 428,
+      "ime": "Регионален исторически музей - Враца",
+      "shirina": 43.20076,
+      "dalzhina": 23.547638,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 429,
+      "ime": "Регионален исторически музей - Монтана",
+      "shirina": 43.405913,
+      "dalzhina": 23.226909,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 430,
+      "ime": "Регионален исторически музей - Пловдив",
+      "shirina": 42.151373,
+      "dalzhina": 24.745231,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 431,
+      "ime": "Регионален исторически музей - Русе",
+      "shirina": 43.844085,
+      "dalzhina": 25.94769,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 432,
+      "ime": "Регионален исторически музей - Шумен",
+      "shirina": 43.270342,
+      "dalzhina": 26.92753,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 433,
+      "ime": "Регионален исторически музей Габрово",
+      "shirina": 42.870358,
+      "dalzhina": 25.319579,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 434,
+      "ime": "Регионален исторически музей Силистра",
+      "shirina": 44.119949,
+      "dalzhina": 27.262159,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 435,
+      "ime": "Регионален исторически музей Сливен",
+      "shirina": 42.680282,
+      "dalzhina": 26.317943,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 436,
+      "ime": "Регионален исторически музей “Акад. Йордан Иванов”",
+      "shirina": 42.287336,
+      "dalzhina": 22.685107,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 437,
+      "ime": "Ретро музей",
+      "shirina": 43.217503,
+      "dalzhina": 27.899403,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 438,
+      "ime": "Ретро музей на социализма",
+      "shirina": 42.030937,
+      "dalzhina": 24.299042,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 439,
+      "ime": "Рилска Света Обител",
+      "shirina": 42.13334,
+      "dalzhina": 23.340722,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 440,
+      "ime": "Римска баня",
+      "shirina": 41.878113,
+      "dalzhina": 23.524586,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 441,
+      "ime": "Римска баня II век",
+      "shirina": 41.614512,
+      "dalzhina": 25.005672,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 442,
+      "ime": "Римски стадион",
+      "shirina": 42.147737,
+      "dalzhina": 24.748105,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 443,
+      "ime": "Родна къща Ал. Стамболийски",
+      "shirina": 42.319317,
+      "dalzhina": 24.034526,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 444,
+      "ime": "Родната къща на Тодор Живков",
+      "shirina": 42.900064,
+      "dalzhina": 23.920539,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 445,
+      "ime": "Румънски мавзолей",
+      "shirina": 43.414274,
+      "dalzhina": 24.694934,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 446,
+      "ime": "Сарафкина къща",
+      "shirina": 43.081997,
+      "dalzhina": 25.640669,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 447,
+      "ime": "Светицата",
+      "shirina": 42.688013,
+      "dalzhina": 25.368822,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 448,
+      "ime": "Софийска градска художествена галерия",
+      "shirina": 42.69452,
+      "dalzhina": 23.324323,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 449,
+      "ime": "Софийски арсенал - музей за съвременно изкуство",
+      "shirina": 42.680433,
+      "dalzhina": 23.320142,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 450,
+      "ime": "Софрониева къща",
+      "shirina": 43.09598,
+      "dalzhina": 25.667433,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 451,
+      "ime": "Старата ЖП гара",
+      "shirina": 43.209264,
+      "dalzhina": 23.556075,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 452,
+      "ime": "Старата мелница",
+      "shirina": 43.404823,
+      "dalzhina": 28.166524,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 453,
+      "ime": "Старо училище Св. Пантелеимон",
+      "shirina": 41.677414,
+      "dalzhina": 24.585341,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 454,
+      "ime": "Старото школо",
+      "shirina": 42.866387,
+      "dalzhina": 25.489796,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 455,
+      "ime": "Творчески център на Калоферската дантела",
+      "shirina": 42.612681,
+      "dalzhina": 24.974808,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 456,
+      "ime": "Тракийска гробница - копие",
+      "shirina": 42.625449,
+      "dalzhina": 25.400018,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 457,
+      "ime": "Тракийска гробница Свещари",
+      "shirina": 43.745146,
+      "dalzhina": 26.766211,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 458,
+      "ime": "Тракийска куполна гробница",
+      "shirina": 42.567376,
+      "dalzhina": 27.596345,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 459,
+      "ime": "Тракийска купулна гробница",
+      "shirina": 41.734833,
+      "dalzhina": 26.102136,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 460,
+      "ime": "Тракийска могила \"Голяма Косматка\"",
+      "shirina": 42.699609,
+      "dalzhina": 25.333496,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 461,
+      "ime": "Тракийска могила \"Хоризонт\"",
+      "shirina": 42.500991,
+      "dalzhina": 24.551286,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 462,
+      "ime": "Тракийски гробници до село Ивански",
+      "shirina": 43.127111,
+      "dalzhina": 27.053393,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 463,
+      "ime": "Тракийски храм \"Четиньова могила\"",
+      "shirina": 42.512143,
+      "dalzhina": 24.546952,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 464,
+      "ime": "Триъгълна кула на Сердика",
+      "shirina": 42.700498,
+      "dalzhina": 23.322742,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 465,
+      "ime": "Тутева къща",
+      "shirina": 42.507126,
+      "dalzhina": 24.186773,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 466,
+      "ime": "Фоклорен център",
+      "shirina": 42.659669,
+      "dalzhina": 24.05519,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 467,
+      "ime": "Хаджиилиевата къща",
+      "shirina": 43.100309,
+      "dalzhina": 25.668334,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 468,
+      "ime": "Хилендарски метох",
+      "shirina": 42.43089,
+      "dalzhina": 25.629358,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 469,
+      "ime": "Храм Паметник \"Шипка\"",
+      "shirina": 42.748123,
+      "dalzhina": 25.321512,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 470,
+      "ime": "Художествена галерия",
+      "shirina": 43.568347,
+      "dalzhina": 27.826495,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 471,
+      "ime": "Художествена галерия \"Борис Георгиев\"",
+      "shirina": 43.206961,
+      "dalzhina": 27.91931,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 472,
+      "ime": "Художествена галерия \"Никола Манев\"",
+      "shirina": 42.201693,
+      "dalzhina": 25.327444,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 473,
+      "ime": "Художествена галерия Дарение Светлин Русев",
+      "shirina": 43.408416,
+      "dalzhina": 24.617505,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 474,
+      "ime": "Църква Св.Св.Константин и Елена",
+      "shirina": 41.372184,
+      "dalzhina": 26.075347,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 475,
+      "ime": "Църква музей",
+      "shirina": 41.970039,
+      "dalzhina": 23.477034,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 476,
+      "ime": "Църква музей \"Свети Никола\"",
+      "shirina": 42.928173,
+      "dalzhina": 25.876104,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 477,
+      "ime": "Църква „Свети Иван Неосветени“",
+      "shirina": 42.65731,
+      "dalzhina": 27.733187,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 478,
+      "ime": "Църква-музей Св. Архангел Михаил",
+      "shirina": 42.055237,
+      "dalzhina": 24.545522,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 479,
+      "ime": "Червеният апартамент",
+      "shirina": 42.693919,
+      "dalzhina": 23.319591,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 480,
+      "ime": "Червеното пони",
+      "shirina": 42.15059,
+      "dalzhina": 24.752367,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 481,
+      "ime": "Школото",
+      "shirina": 42.955394,
+      "dalzhina": 24.108986,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 482,
+      "ime": "аптека Хипократ",
+      "shirina": 42.148957,
+      "dalzhina": 24.752249,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 483,
+      "ime": "етнографски комплекс \"Чифлика Чукурово\"",
+      "shirina": 43.402397,
+      "dalzhina": 27.914132,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 484,
+      "ime": "къша Артин Гидиков",
+      "shirina": 42.150684,
+      "dalzhina": 24.750845,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 485,
+      "ime": "къша д-р Страшимиров",
+      "shirina": 42.149048,
+      "dalzhina": 24.753412,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 486,
+      "ime": "къща - музей Гео Милев",
+      "shirina": 42.289673,
+      "dalzhina": 25.935134,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 487,
+      "ime": "къща Андрей Георгиади",
+      "shirina": 42.147342,
+      "dalzhina": 24.750435,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 488,
+      "ime": "къща Атанас Кръстев",
+      "shirina": 42.150527,
+      "dalzhina": 24.752583,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 489,
+      "ime": "къща Верен Стамболян",
+      "shirina": 42.148861,
+      "dalzhina": 24.753193,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 490,
+      "ime": "къща Георги Павлити",
+      "shirina": 42.149143,
+      "dalzhina": 24.754036,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 491,
+      "ime": "къща Георгиади",
+      "shirina": 42.149805,
+      "dalzhina": 24.7534,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 492,
+      "ime": "къща Иван Фурнаджиев",
+      "shirina": 42.149704,
+      "dalzhina": 24.751468,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 493,
+      "ime": "къща Костадин Кафтанджията",
+      "shirina": 42.148806,
+      "dalzhina": 24.752297,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 494,
+      "ime": "къща Крикор Месробович",
+      "shirina": 42.150372,
+      "dalzhina": 24.750887,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 495,
+      "ime": "къща Куюмджиоглу",
+      "shirina": 42.149979,
+      "dalzhina": 24.753234,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 496,
+      "ime": "къща Мавриди",
+      "shirina": 42.147371,
+      "dalzhina": 24.75258,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 497,
+      "ime": "къща Недкович",
+      "shirina": 42.149836,
+      "dalzhina": 24.753679,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 498,
+      "ime": "къща Ованес Степанян",
+      "shirina": 42.150212,
+      "dalzhina": 24.751882,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 499,
+      "ime": "къща Филипос Хишанян",
+      "shirina": 42.148942,
+      "dalzhina": 24.751537,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 500,
+      "ime": "къща Хиндлиян",
+      "shirina": 42.149934,
+      "dalzhina": 24.751229,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 501,
+      "ime": "къща Хр. Г. Данов",
+      "shirina": 42.147752,
+      "dalzhina": 24.749545,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 502,
+      "ime": "къща Черноземски",
+      "shirina": 42.149851,
+      "dalzhina": 24.753971,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 503,
+      "ime": "къща д-р Бирдас",
+      "shirina": 42.148814,
+      "dalzhina": 24.751793,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 504,
+      "ime": "къща х. Власаки Чохаджията",
+      "shirina": 42.149777,
+      "dalzhina": 24.751758,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 505,
+      "ime": "къща х. Драган - Калофереца",
+      "shirina": 42.148826,
+      "dalzhina": 24.754215,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 506,
+      "ime": "музей Ламартин",
+      "shirina": 42.147313,
+      "dalzhina": 24.752625,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    },
+    {
+      "id": 507,
+      "ime": "частна галерия Обелиск",
+      "shirina": 43.220223,
+      "dalzhina": 27.948728,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "museum",
+      "osm_klas": "tourism=museum"
+    }
+  ],
+  "meta": {
+    "title": "Музеи в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Музеи в България — 507 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=museum`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 507 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Музеи в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Музеи в България (OpenStreetMap) — 507 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 507 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

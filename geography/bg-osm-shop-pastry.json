@@ -1,0 +1,2635 @@
+{
+  "id": "bg-osm-shop-pastry",
+  "name": "Сладкарници в България (OpenStreetMap)",
+  "title": "Сладкарници в България (OpenStreetMap)",
+  "description": "Сладкарници в България — 286 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=pastry`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 286,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "100 грама сладки",
+      "shirina": 42.642062,
+      "dalzhina": 23.334378,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 2,
+      "ime": "100 грама сладки",
+      "shirina": 42.658649,
+      "dalzhina": 23.315719,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 3,
+      "ime": "100 грама сладки",
+      "shirina": 42.670907,
+      "dalzhina": 23.315457,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 4,
+      "ime": "100 грама сладки",
+      "shirina": 42.678732,
+      "dalzhina": 23.320726,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 5,
+      "ime": "100 грама сладки",
+      "shirina": 42.691811,
+      "dalzhina": 23.322048,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 6,
+      "ime": "Alexandra's Cakes",
+      "shirina": 42.691345,
+      "dalzhina": 23.314646,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 7,
+      "ime": "Allora",
+      "shirina": 42.679904,
+      "dalzhina": 23.325497,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 8,
+      "ime": "Allora",
+      "shirina": 42.689389,
+      "dalzhina": 23.306998,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 9,
+      "ime": "Allora",
+      "shirina": 42.701587,
+      "dalzhina": 23.322656,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 10,
+      "ime": "Amarena",
+      "shirina": 42.664723,
+      "dalzhina": 23.275324,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 11,
+      "ime": "Aromas House",
+      "shirina": 42.689865,
+      "dalzhina": 23.322656,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 12,
+      "ime": "Arte",
+      "shirina": 42.662633,
+      "dalzhina": 23.316863,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 13,
+      "ime": "Baci Dolci",
+      "shirina": 42.700667,
+      "dalzhina": 23.333878,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 14,
+      "ime": "Bake & Coffee",
+      "shirina": 42.645435,
+      "dalzhina": 23.333022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 15,
+      "ime": "Bakehunters",
+      "shirina": 42.655549,
+      "dalzhina": 23.341573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 16,
+      "ime": "Bakeology",
+      "shirina": 42.651609,
+      "dalzhina": 23.313732,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 17,
+      "ime": "Beyzade",
+      "shirina": 42.653856,
+      "dalzhina": 23.376717,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 18,
+      "ime": "Beyzade",
+      "shirina": 42.688496,
+      "dalzhina": 23.328658,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 19,
+      "ime": "Beyzade",
+      "shirina": 42.692574,
+      "dalzhina": 23.319901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 20,
+      "ime": "Beyzade",
+      "shirina": 43.202742,
+      "dalzhina": 27.914239,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 21,
+      "ime": "Bluestone Doughnuts",
+      "shirina": 42.145422,
+      "dalzhina": 24.750187,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 22,
+      "ime": "Brimeks Bakery",
+      "shirina": 42.670863,
+      "dalzhina": 23.301826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 23,
+      "ime": "CO-CO sweet and more",
+      "shirina": 42.665987,
+      "dalzhina": 23.356886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 24,
+      "ime": "Caffeteria",
+      "shirina": 42.69825,
+      "dalzhina": 23.321649,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 25,
+      "ime": "Cake Box",
+      "shirina": 42.691709,
+      "dalzhina": 23.318013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 26,
+      "ime": "Cake Collection",
+      "shirina": 42.663764,
+      "dalzhina": 23.288872,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 27,
+      "ime": "Cake Lab",
+      "shirina": 42.693371,
+      "dalzhina": 23.319497,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 28,
+      "ime": "Cake no Bake",
+      "shirina": 42.676393,
+      "dalzhina": 23.36255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 29,
+      "ime": "Cakeybakey",
+      "shirina": 42.666536,
+      "dalzhina": 23.295867,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 30,
+      "ime": "Caramel",
+      "shirina": 42.495742,
+      "dalzhina": 27.471744,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 31,
+      "ime": "Caramel",
+      "shirina": 42.70073,
+      "dalzhina": 23.334804,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 32,
+      "ime": "Caruso focacceria",
+      "shirina": 42.677005,
+      "dalzhina": 23.309475,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 33,
+      "ime": "Celeste",
+      "shirina": 42.686315,
+      "dalzhina": 23.323687,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 34,
+      "ime": "Champs Elysees",
+      "shirina": 42.70087,
+      "dalzhina": 23.312792,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 35,
+      "ime": "Char",
+      "shirina": 42.67846,
+      "dalzhina": 26.327423,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 36,
+      "ime": "Cheese and Fresh",
+      "shirina": 42.698387,
+      "dalzhina": 23.314737,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 37,
+      "ime": "Cherry by Mary",
+      "shirina": 43.226473,
+      "dalzhina": 27.948902,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 38,
+      "ime": "Chez Fefe",
+      "shirina": 42.692719,
+      "dalzhina": 23.321506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 39,
+      "ime": "CinnaMom's",
+      "shirina": 42.688675,
+      "dalzhina": 23.328447,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 40,
+      "ime": "Cremeux",
+      "shirina": 42.679417,
+      "dalzhina": 23.288212,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 41,
+      "ime": "Crouton",
+      "shirina": 42.670187,
+      "dalzhina": 23.318508,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 42,
+      "ime": "Cup n' Cloud",
+      "shirina": 42.659378,
+      "dalzhina": 23.327001,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 43,
+      "ime": "Didy's сладко и солено",
+      "shirina": 42.692766,
+      "dalzhina": 23.323961,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 44,
+      "ime": "Dochinsko Cake",
+      "shirina": 42.69583,
+      "dalzhina": 23.316898,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 45,
+      "ime": "Dolce Rossi",
+      "shirina": 42.695281,
+      "dalzhina": 23.31851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 46,
+      "ime": "Elite Cakes",
+      "shirina": 42.654237,
+      "dalzhina": 23.316033,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 47,
+      "ime": "Emily",
+      "shirina": 42.143744,
+      "dalzhina": 24.749708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 48,
+      "ime": "Emotion",
+      "shirina": 42.707872,
+      "dalzhina": 23.379905,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 49,
+      "ime": "Fit Lounge & Coffee",
+      "shirina": 42.693158,
+      "dalzhina": 23.353429,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 50,
+      "ime": "Flamingo Cake Shop",
+      "shirina": 43.271419,
+      "dalzhina": 26.93323,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 51,
+      "ime": "Freakalicious",
+      "shirina": 42.702736,
+      "dalzhina": 23.329197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 52,
+      "ime": "Gelatiamo",
+      "shirina": 42.687485,
+      "dalzhina": 23.293577,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 53,
+      "ime": "Gelatiamo",
+      "shirina": 42.69272,
+      "dalzhina": 23.323911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 54,
+      "ime": "Gentelman's Cakes",
+      "shirina": 42.676264,
+      "dalzhina": 23.300752,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 55,
+      "ime": "Gery",
+      "shirina": 42.670149,
+      "dalzhina": 23.331531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 56,
+      "ime": "Granatus Bakery & Cafe",
+      "shirina": 42.70019,
+      "dalzhina": 23.330198,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 57,
+      "ime": "Iffs",
+      "shirina": 42.674903,
+      "dalzhina": 23.262144,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 58,
+      "ime": "Just Cakes",
+      "shirina": 42.132617,
+      "dalzhina": 24.798684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 59,
+      "ime": "Kitchen lovestory",
+      "shirina": 43.847511,
+      "dalzhina": 25.953447,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 60,
+      "ime": "Kostis",
+      "shirina": 42.693294,
+      "dalzhina": 23.323057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 61,
+      "ime": "KyND",
+      "shirina": 42.68842,
+      "dalzhina": 23.327147,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 62,
+      "ime": "Kynd",
+      "shirina": 42.702718,
+      "dalzhina": 23.334522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 63,
+      "ime": "LA cakes",
+      "shirina": 42.657517,
+      "dalzhina": 23.348569,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 64,
+      "ime": "Ma Baker",
+      "shirina": 42.678775,
+      "dalzhina": 23.32037,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 65,
+      "ime": "Marconi",
+      "shirina": 43.823097,
+      "dalzhina": 27.142303,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 66,
+      "ime": "Mariya's сладколмбница",
+      "shirina": 42.690339,
+      "dalzhina": 23.358621,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 67,
+      "ime": "Markrit",
+      "shirina": 42.692694,
+      "dalzhina": 23.344106,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 68,
+      "ime": "Medenka",
+      "shirina": 42.678127,
+      "dalzhina": 23.323584,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 69,
+      "ime": "Miss Cake",
+      "shirina": 42.686417,
+      "dalzhina": 23.302674,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 70,
+      "ime": "Mon Bonbon",
+      "shirina": 42.658643,
+      "dalzhina": 23.319981,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 71,
+      "ime": "More pancakes",
+      "shirina": 42.021193,
+      "dalzhina": 23.099439,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 72,
+      "ime": "Nati Cake",
+      "shirina": 42.700261,
+      "dalzhina": 23.315308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 73,
+      "ime": "Nelly's pastry house",
+      "shirina": 42.661983,
+      "dalzhina": 23.31454,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 74,
+      "ime": "Nero",
+      "shirina": 43.204597,
+      "dalzhina": 27.920812,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 75,
+      "ime": "On the Spot",
+      "shirina": 42.695636,
+      "dalzhina": 23.321258,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 76,
+      "ime": "Opera Pasticceria",
+      "shirina": 42.700914,
+      "dalzhina": 23.329273,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 77,
+      "ime": "Pantastic",
+      "shirina": 42.692898,
+      "dalzhina": 23.322248,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 78,
+      "ime": "Pavlova Sweet Studio",
+      "shirina": 42.690854,
+      "dalzhina": 23.330166,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 79,
+      "ime": "Raw & more",
+      "shirina": 42.695596,
+      "dalzhina": 23.34002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 80,
+      "ime": "Rawly",
+      "shirina": 42.669903,
+      "dalzhina": 23.352897,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 81,
+      "ime": "Rolls by Nino",
+      "shirina": 42.690556,
+      "dalzhina": 23.319265,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 82,
+      "ime": "Rolls by Nino",
+      "shirina": 42.691668,
+      "dalzhina": 23.32489,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 83,
+      "ime": "S Bakery",
+      "shirina": 42.697238,
+      "dalzhina": 23.320363,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 84,
+      "ime": "Santé Saloon Vienna",
+      "shirina": 42.015135,
+      "dalzhina": 23.98675,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 85,
+      "ime": "Shazlin",
+      "shirina": 42.702109,
+      "dalzhina": 23.330777,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 86,
+      "ime": "Simit Evi",
+      "shirina": 42.671384,
+      "dalzhina": 23.294947,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 87,
+      "ime": "Simit Evi",
+      "shirina": 42.678719,
+      "dalzhina": 23.310247,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 88,
+      "ime": "SisterCake",
+      "shirina": 42.480079,
+      "dalzhina": 26.502094,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 89,
+      "ime": "Skyline",
+      "shirina": 42.677877,
+      "dalzhina": 23.285411,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 90,
+      "ime": "Skyline",
+      "shirina": 42.688999,
+      "dalzhina": 23.255103,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 91,
+      "ime": "Skyline",
+      "shirina": 42.694741,
+      "dalzhina": 23.316373,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 92,
+      "ime": "Skyline",
+      "shirina": 42.698911,
+      "dalzhina": 23.286809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 93,
+      "ime": "Skyline",
+      "shirina": 42.702332,
+      "dalzhina": 23.301227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 94,
+      "ime": "Skyline",
+      "shirina": 42.710627,
+      "dalzhina": 23.300578,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 95,
+      "ime": "Skyline",
+      "shirina": 42.71084,
+      "dalzhina": 23.257573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 96,
+      "ime": "Skyline",
+      "shirina": 42.716331,
+      "dalzhina": 23.250114,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 97,
+      "ime": "Skyline",
+      "shirina": 42.728012,
+      "dalzhina": 23.301138,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 98,
+      "ime": "Skyline",
+      "shirina": 42.728397,
+      "dalzhina": 23.286105,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 99,
+      "ime": "Skyline",
+      "shirina": 42.810192,
+      "dalzhina": 23.217321,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 100,
+      "ime": "Sladucci",
+      "shirina": 43.223182,
+      "dalzhina": 27.929945,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 101,
+      "ime": "So Baklava",
+      "shirina": 42.65754,
+      "dalzhina": 23.314856,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 102,
+      "ime": "Sweet Box",
+      "shirina": 43.232343,
+      "dalzhina": 28.012844,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 103,
+      "ime": "Sweet Street",
+      "shirina": 43.222332,
+      "dalzhina": 27.924996,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 104,
+      "ime": "Sweet home",
+      "shirina": 42.663356,
+      "dalzhina": 23.363257,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 105,
+      "ime": "Sweet lemon",
+      "shirina": 42.668938,
+      "dalzhina": 23.284317,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 106,
+      "ime": "Sweets",
+      "shirina": 42.484265,
+      "dalzhina": 26.504804,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 107,
+      "ime": "THE BAKER's HEART",
+      "shirina": 43.267368,
+      "dalzhina": 26.934771,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 108,
+      "ime": "Tea & eat сладостта на живота",
+      "shirina": 42.648254,
+      "dalzhina": 23.334135,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 109,
+      "ime": "The Cup Cake & more",
+      "shirina": 42.671138,
+      "dalzhina": 23.31377,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 110,
+      "ime": "The Right Spot",
+      "shirina": 42.664307,
+      "dalzhina": 23.343445,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 111,
+      "ime": "Tita Cakes",
+      "shirina": 42.702967,
+      "dalzhina": 23.32883,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 112,
+      "ime": "Toni's Pastry",
+      "shirina": 42.141936,
+      "dalzhina": 24.739677,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 113,
+      "ime": "VI Cake",
+      "shirina": 42.655321,
+      "dalzhina": 23.340542,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 114,
+      "ime": "Vaflaki",
+      "shirina": 43.232528,
+      "dalzhina": 28.012026,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 115,
+      "ime": "Vanilla",
+      "shirina": 42.142845,
+      "dalzhina": 24.755567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 116,
+      "ime": "Vanilla",
+      "shirina": 43.418912,
+      "dalzhina": 24.615483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 117,
+      "ime": "Yomi Cakes",
+      "shirina": 43.275666,
+      "dalzhina": 26.924837,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 118,
+      "ime": "Zahir",
+      "shirina": 42.70416,
+      "dalzhina": 23.386732,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 119,
+      "ime": "Zoya",
+      "shirina": 42.689981,
+      "dalzhina": 23.325343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 120,
+      "ime": "bitter & sweet",
+      "shirina": 42.676339,
+      "dalzhina": 23.333268,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 121,
+      "ime": "Аби",
+      "shirina": 42.688895,
+      "dalzhina": 23.328157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 122,
+      "ime": "Аби",
+      "shirina": 42.693711,
+      "dalzhina": 23.320273,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 123,
+      "ime": "Абруцо",
+      "shirina": 42.697683,
+      "dalzhina": 23.319012,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 124,
+      "ime": "Ал Амир",
+      "shirina": 42.701803,
+      "dalzhina": 23.319815,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 125,
+      "ime": "Ани",
+      "shirina": 42.016514,
+      "dalzhina": 23.094379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 126,
+      "ime": "Асеновци",
+      "shirina": 43.072934,
+      "dalzhina": 25.61073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 127,
+      "ime": "Бай Бисер",
+      "shirina": 43.207105,
+      "dalzhina": 27.896071,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 128,
+      "ime": "Бай Бисер – Кракра",
+      "shirina": 43.20569,
+      "dalzhina": 27.901751,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 129,
+      "ime": "Баница Милкана",
+      "shirina": 42.712662,
+      "dalzhina": 23.269756,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 130,
+      "ime": "Баничарница",
+      "shirina": 42.782905,
+      "dalzhina": 23.391084,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 131,
+      "ime": "Биософ",
+      "shirina": 42.66996,
+      "dalzhina": 23.302884,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 132,
+      "ime": "Бистро 23",
+      "shirina": 43.21923,
+      "dalzhina": 27.929716,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 133,
+      "ime": "Бонбон",
+      "shirina": 42.679984,
+      "dalzhina": 23.286345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 134,
+      "ime": "Бонбона",
+      "shirina": 42.025745,
+      "dalzhina": 23.99119,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 135,
+      "ime": "Браво",
+      "shirina": 43.211851,
+      "dalzhina": 27.907086,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 136,
+      "ime": "Брънчерия",
+      "shirina": 42.682954,
+      "dalzhina": 23.327549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 137,
+      "ime": "Буратино",
+      "shirina": 42.150247,
+      "dalzhina": 24.792842,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 138,
+      "ime": "Бутер закуски Браво",
+      "shirina": 43.213193,
+      "dalzhina": 27.923709,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 139,
+      "ime": "Ванила Китчън",
+      "shirina": 42.662374,
+      "dalzhina": 23.352454,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 140,
+      "ime": "Вега",
+      "shirina": 42.689072,
+      "dalzhina": 23.332559,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 141,
+      "ime": "Вивиан",
+      "shirina": 42.032389,
+      "dalzhina": 23.990188,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 142,
+      "ime": "Виенска сладкарница Славея",
+      "shirina": 42.883484,
+      "dalzhina": 24.710163,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 143,
+      "ime": "Вила Росиче",
+      "shirina": 42.6903,
+      "dalzhina": 23.317723,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 144,
+      "ime": "Дайски",
+      "shirina": 42.689814,
+      "dalzhina": 23.255186,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 145,
+      "ime": "Дана",
+      "shirina": 43.825777,
+      "dalzhina": 27.139124,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 146,
+      "ime": "Джулиано",
+      "shirina": 42.698813,
+      "dalzhina": 23.334412,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 147,
+      "ime": "Дивото Брашно",
+      "shirina": 43.213473,
+      "dalzhina": 27.923536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 148,
+      "ime": "Домашна сладкарничка 5 o'clock",
+      "shirina": 42.151981,
+      "dalzhina": 24.746758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 149,
+      "ime": "Дорсита",
+      "shirina": 42.673796,
+      "dalzhina": 23.281355,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 150,
+      "ime": "Дъга",
+      "shirina": 43.207854,
+      "dalzhina": 27.921644,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 151,
+      "ime": "Еделвайс",
+      "shirina": 42.684391,
+      "dalzhina": 23.30011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 152,
+      "ime": "Закуски Тракия",
+      "shirina": 43.21097,
+      "dalzhina": 27.906887,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 153,
+      "ime": "Захарен памук",
+      "shirina": 42.675146,
+      "dalzhina": 23.316531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 154,
+      "ime": "Захарната къща",
+      "shirina": 42.192916,
+      "dalzhina": 24.334275,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 155,
+      "ime": "Захарно петле",
+      "shirina": 42.130465,
+      "dalzhina": 24.782548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 156,
+      "ime": "Захаро",
+      "shirina": 42.498505,
+      "dalzhina": 27.46511,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 157,
+      "ime": "Иванилла",
+      "shirina": 43.217275,
+      "dalzhina": 27.918692,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 158,
+      "ime": "Изгрев",
+      "shirina": 43.215216,
+      "dalzhina": 27.941441,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 159,
+      "ime": "Камелия",
+      "shirina": 42.137429,
+      "dalzhina": 24.756466,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 160,
+      "ime": "Карамело",
+      "shirina": 42.694085,
+      "dalzhina": 23.329026,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 161,
+      "ime": "Кармелита",
+      "shirina": 42.676991,
+      "dalzhina": 23.282936,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 162,
+      "ime": "Кафе-сладкарница Делфин",
+      "shirina": 42.646497,
+      "dalzhina": 27.681668,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 163,
+      "ime": "Кериан",
+      "shirina": 42.734658,
+      "dalzhina": 23.303914,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 164,
+      "ime": "Козуначени коминчета",
+      "shirina": 42.69777,
+      "dalzhina": 23.329757,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 165,
+      "ime": "Крамер",
+      "shirina": 43.212031,
+      "dalzhina": 27.922199,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 166,
+      "ime": "Криспи",
+      "shirina": 42.136363,
+      "dalzhina": 24.761306,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 167,
+      "ime": "Кристал",
+      "shirina": 42.673573,
+      "dalzhina": 23.285216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 168,
+      "ime": "Кристал",
+      "shirina": 42.926126,
+      "dalzhina": 22.93464,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 169,
+      "ime": "Кристи",
+      "shirina": 43.570087,
+      "dalzhina": 27.830043,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 170,
+      "ime": "Кукуряк",
+      "shirina": 42.683092,
+      "dalzhina": 23.321109,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 171,
+      "ime": "Кюветоглу",
+      "shirina": 43.271007,
+      "dalzhina": 26.919379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 172,
+      "ime": "Лагуна",
+      "shirina": 42.693316,
+      "dalzhina": 23.321647,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 173,
+      "ime": "Лилан",
+      "shirina": 42.703473,
+      "dalzhina": 23.320058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 174,
+      "ime": "Мадам Силви",
+      "shirina": 42.143667,
+      "dalzhina": 24.750946,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 175,
+      "ime": "Майсторски пици",
+      "shirina": 43.159843,
+      "dalzhina": 26.809316,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 176,
+      "ime": "Малка фурна и шоколад",
+      "shirina": 43.268904,
+      "dalzhina": 26.922635,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 177,
+      "ime": "Маргарита",
+      "shirina": 43.20718,
+      "dalzhina": 27.908117,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 178,
+      "ime": "Маркрит",
+      "shirina": 42.689076,
+      "dalzhina": 23.316592,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 179,
+      "ime": "Марти",
+      "shirina": 42.650543,
+      "dalzhina": 23.406595,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 180,
+      "ime": "Мелла",
+      "shirina": 42.677002,
+      "dalzhina": 23.304035,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 181,
+      "ime": "Милениум",
+      "shirina": 43.847737,
+      "dalzhina": 25.953446,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 182,
+      "ime": "Мини Simit",
+      "shirina": 42.689978,
+      "dalzhina": 23.313609,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 183,
+      "ime": "Миранди",
+      "shirina": 42.676618,
+      "dalzhina": 23.285354,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 184,
+      "ime": "Миранди",
+      "shirina": 42.678069,
+      "dalzhina": 23.320732,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 185,
+      "ime": "Мон Шери",
+      "shirina": 42.139266,
+      "dalzhina": 24.768161,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 186,
+      "ime": "Мустан",
+      "shirina": 42.679272,
+      "dalzhina": 26.3223,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 187,
+      "ime": "Нарцис",
+      "shirina": 43.418928,
+      "dalzhina": 24.615593,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 188,
+      "ime": "Нарцис",
+      "shirina": 43.422372,
+      "dalzhina": 24.600387,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 189,
+      "ime": "Неделя",
+      "shirina": 42.136066,
+      "dalzhina": 24.754036,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 190,
+      "ime": "Неделя",
+      "shirina": 42.145046,
+      "dalzhina": 24.781871,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 191,
+      "ime": "Неделя",
+      "shirina": 42.423927,
+      "dalzhina": 25.62557,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 192,
+      "ime": "Неделя",
+      "shirina": 42.426022,
+      "dalzhina": 25.635854,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 193,
+      "ime": "Неделя",
+      "shirina": 42.498091,
+      "dalzhina": 27.472569,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 194,
+      "ime": "Неделя",
+      "shirina": 42.610979,
+      "dalzhina": 23.040039,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 195,
+      "ime": "Неделя",
+      "shirina": 42.642342,
+      "dalzhina": 23.408119,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 196,
+      "ime": "Неделя",
+      "shirina": 42.65145,
+      "dalzhina": 23.342258,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 197,
+      "ime": "Неделя",
+      "shirina": 42.657171,
+      "dalzhina": 23.313613,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 198,
+      "ime": "Неделя",
+      "shirina": 42.66043,
+      "dalzhina": 23.382358,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 199,
+      "ime": "Неделя",
+      "shirina": 42.665233,
+      "dalzhina": 23.289227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 200,
+      "ime": "Неделя",
+      "shirina": 42.669519,
+      "dalzhina": 23.303383,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 201,
+      "ime": "Неделя",
+      "shirina": 42.675861,
+      "dalzhina": 23.357448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 202,
+      "ime": "Неделя",
+      "shirina": 42.677538,
+      "dalzhina": 23.286908,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 203,
+      "ime": "Неделя",
+      "shirina": 42.681244,
+      "dalzhina": 23.371477,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 204,
+      "ime": "Неделя",
+      "shirina": 42.682145,
+      "dalzhina": 23.356092,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 205,
+      "ime": "Неделя",
+      "shirina": 42.682457,
+      "dalzhina": 23.301163,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 206,
+      "ime": "Неделя",
+      "shirina": 42.686442,
+      "dalzhina": 23.317454,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 207,
+      "ime": "Неделя",
+      "shirina": 42.688466,
+      "dalzhina": 23.255139,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 208,
+      "ime": "Неделя",
+      "shirina": 42.689151,
+      "dalzhina": 23.273442,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 209,
+      "ime": "Неделя",
+      "shirina": 42.689602,
+      "dalzhina": 23.279014,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 210,
+      "ime": "Неделя",
+      "shirina": 42.698957,
+      "dalzhina": 23.308198,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 211,
+      "ime": "Неделя",
+      "shirina": 42.69989,
+      "dalzhina": 23.321423,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 212,
+      "ime": "Неделя",
+      "shirina": 42.700596,
+      "dalzhina": 23.359794,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 213,
+      "ime": "Неделя",
+      "shirina": 42.706525,
+      "dalzhina": 23.28544,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 214,
+      "ime": "Неделя",
+      "shirina": 42.708161,
+      "dalzhina": 23.299103,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 215,
+      "ime": "Неделя",
+      "shirina": 42.708926,
+      "dalzhina": 23.457813,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 216,
+      "ime": "Неделя",
+      "shirina": 42.710338,
+      "dalzhina": 23.312034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 217,
+      "ime": "Неделя",
+      "shirina": 42.716833,
+      "dalzhina": 23.250035,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 218,
+      "ime": "Неделя",
+      "shirina": 42.735632,
+      "dalzhina": 23.291846,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 219,
+      "ime": "Неделя",
+      "shirina": 42.735836,
+      "dalzhina": 23.30543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 220,
+      "ime": "Неделя",
+      "shirina": 43.078169,
+      "dalzhina": 25.62514,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 221,
+      "ime": "Неделя",
+      "shirina": 43.213383,
+      "dalzhina": 27.904396,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 222,
+      "ime": "Неделя",
+      "shirina": 43.419477,
+      "dalzhina": 24.613886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 223,
+      "ime": "Неделя",
+      "shirina": 43.846953,
+      "dalzhina": 25.954003,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 224,
+      "ime": "Нети",
+      "shirina": 42.696309,
+      "dalzhina": 23.319444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 225,
+      "ime": "Нико",
+      "shirina": 42.42647,
+      "dalzhina": 25.638689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 226,
+      "ime": "Нико",
+      "shirina": 42.717895,
+      "dalzhina": 23.244984,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 227,
+      "ime": "Никол 05 ООД",
+      "shirina": 42.617625,
+      "dalzhina": 25.3928,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 228,
+      "ime": "Новият свят на кафето",
+      "shirina": 42.653297,
+      "dalzhina": 23.333069,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 229,
+      "ime": "Оникс",
+      "shirina": 43.569749,
+      "dalzhina": 27.830287,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 230,
+      "ime": "Пармаксъзов",
+      "shirina": 43.202492,
+      "dalzhina": 27.915308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 231,
+      "ime": "Пастане - Антеп Баклава",
+      "shirina": 42.652421,
+      "dalzhina": 23.372882,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 232,
+      "ime": "Пекарна \"Изгрев\"",
+      "shirina": 43.209688,
+      "dalzhina": 27.903515,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 233,
+      "ime": "Пекарна Изгрев",
+      "shirina": 43.198618,
+      "dalzhina": 27.912455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 234,
+      "ime": "Пирожки",
+      "shirina": 42.149181,
+      "dalzhina": 24.74771,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 235,
+      "ime": "Праскова",
+      "shirina": 42.67579,
+      "dalzhina": 23.290536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 236,
+      "ime": "При Жаки",
+      "shirina": 42.669802,
+      "dalzhina": 23.272923,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 237,
+      "ime": "Пчела",
+      "shirina": 42.645188,
+      "dalzhina": 23.376736,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 238,
+      "ime": "Пчела",
+      "shirina": 42.676947,
+      "dalzhina": 23.296692,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 239,
+      "ime": "Пчела",
+      "shirina": 42.677237,
+      "dalzhina": 23.310277,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 240,
+      "ime": "Пчела",
+      "shirina": 42.684296,
+      "dalzhina": 23.330594,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 241,
+      "ime": "Пчела",
+      "shirina": 42.690155,
+      "dalzhina": 23.340069,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 242,
+      "ime": "Пчела",
+      "shirina": 42.691738,
+      "dalzhina": 23.322369,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 243,
+      "ime": "Пчела",
+      "shirina": 42.699678,
+      "dalzhina": 23.328823,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 244,
+      "ime": "Пчела",
+      "shirina": 42.702068,
+      "dalzhina": 23.289482,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 245,
+      "ime": "Пчела",
+      "shirina": 42.711334,
+      "dalzhina": 23.314109,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 246,
+      "ime": "Работилничката на \"Фамилия Любов\"",
+      "shirina": 42.688853,
+      "dalzhina": 23.36277,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 247,
+      "ime": "Розалия",
+      "shirina": 43.270748,
+      "dalzhina": 26.917157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 248,
+      "ime": "Романс",
+      "shirina": 42.613166,
+      "dalzhina": 23.334519,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 249,
+      "ime": "Си кейк",
+      "shirina": 43.223662,
+      "dalzhina": 27.922382,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 250,
+      "ime": "Сладкарница",
+      "shirina": 41.587367,
+      "dalzhina": 24.027475,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 251,
+      "ime": "Сладкарница \"Джими\"",
+      "shirina": 41.93654,
+      "dalzhina": 24.270644,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 252,
+      "ime": "Сладкарница 1001 Торти",
+      "shirina": 41.56526,
+      "dalzhina": 23.28069,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 253,
+      "ime": "Сладкарница Лилан",
+      "shirina": 42.68979,
+      "dalzhina": 23.341649,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 254,
+      "ime": "Сладкарница Целувка",
+      "shirina": 42.052163,
+      "dalzhina": 25.585259,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 255,
+      "ime": "Сладкарска къща",
+      "shirina": 42.426338,
+      "dalzhina": 25.632523,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 256,
+      "ime": "Сладкарска къща Фигаро",
+      "shirina": 42.671493,
+      "dalzhina": 26.326028,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 257,
+      "ime": "Сладкарско ателие Mr. Dino",
+      "shirina": 42.678852,
+      "dalzhina": 23.290613,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 258,
+      "ime": "Сладки Мечти",
+      "shirina": 42.496644,
+      "dalzhina": 27.46508,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 259,
+      "ime": "Сладки идеи",
+      "shirina": 42.669176,
+      "dalzhina": 23.269574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 260,
+      "ime": "Сладки мечти",
+      "shirina": 42.648217,
+      "dalzhina": 26.986365,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 261,
+      "ime": "Сладко и Солено",
+      "shirina": 42.494836,
+      "dalzhina": 27.471772,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 262,
+      "ime": "Сладко и солено",
+      "shirina": 42.688959,
+      "dalzhina": 23.344092,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 263,
+      "ime": "Сладория",
+      "shirina": 43.204441,
+      "dalzhina": 27.921059,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 264,
+      "ime": "Софийска Баница",
+      "shirina": 42.727995,
+      "dalzhina": 23.300646,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 265,
+      "ime": "София Кюнефе",
+      "shirina": 42.701485,
+      "dalzhina": 23.321486,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 266,
+      "ime": "Стената",
+      "shirina": 42.141914,
+      "dalzhina": 24.739039,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 267,
+      "ime": "Съни дрийм",
+      "shirina": 42.665466,
+      "dalzhina": 23.27289,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 268,
+      "ime": "Тортеса",
+      "shirina": 42.668593,
+      "dalzhina": 23.289868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 269,
+      "ime": "Торти Нова",
+      "shirina": 42.676684,
+      "dalzhina": 23.304134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 270,
+      "ime": "Торти Чочко",
+      "shirina": 42.670245,
+      "dalzhina": 23.314333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 271,
+      "ime": "Тужо",
+      "shirina": 43.179008,
+      "dalzhina": 27.893013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 272,
+      "ime": "Флосина",
+      "shirina": 43.206666,
+      "dalzhina": 27.907135,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 273,
+      "ime": "Форнети",
+      "shirina": 43.210364,
+      "dalzhina": 27.90845,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 274,
+      "ime": "Фурна \"Добруджанка\"",
+      "shirina": 43.209875,
+      "dalzhina": 27.903724,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 275,
+      "ime": "Хит",
+      "shirina": 43.421368,
+      "dalzhina": 24.599735,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 276,
+      "ime": "Царина България",
+      "shirina": 42.685998,
+      "dalzhina": 23.297605,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 277,
+      "ime": "Чочо",
+      "shirina": 43.211776,
+      "dalzhina": 27.907062,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 278,
+      "ime": "Шами",
+      "shirina": 42.678743,
+      "dalzhina": 23.321666,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 279,
+      "ime": "Шамони",
+      "shirina": 42.671669,
+      "dalzhina": 23.285656,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 280,
+      "ime": "Шарлот",
+      "shirina": 42.150972,
+      "dalzhina": 24.734506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 281,
+      "ime": "Шоколино",
+      "shirina": 43.700776,
+      "dalzhina": 28.03805,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 282,
+      "ime": "Южен Полъх сладкарницата",
+      "shirina": 42.147563,
+      "dalzhina": 24.769459,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 283,
+      "ime": "сладкарница \"Елдико 1\"",
+      "shirina": 42.868103,
+      "dalzhina": 25.493781,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 284,
+      "ime": "сладкарница Амбелино",
+      "shirina": 43.208832,
+      "dalzhina": 27.913193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 285,
+      "ime": "сладкарницата",
+      "shirina": 42.727704,
+      "dalzhina": 23.299813,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    },
+    {
+      "id": 286,
+      "ime": "торти Чочко",
+      "shirina": 42.13602,
+      "dalzhina": 24.762022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "pastry",
+      "osm_klas": "shop=pastry"
+    }
+  ],
+  "meta": {
+    "title": "Сладкарници в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Сладкарници в България — 286 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=pastry`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 286 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Сладкарници в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Сладкарници в България (OpenStreetMap) — 286 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 286 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

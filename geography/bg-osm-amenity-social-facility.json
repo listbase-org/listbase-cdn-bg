@@ -1,0 +1,1429 @@
+{
+  "id": "bg-osm-amenity-social-facility",
+  "name": "Социални заведения в България (OpenStreetMap)",
+  "title": "Социални заведения в България (OpenStreetMap)",
+  "description": "Социални заведения в България — 152 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=social_facility`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 152,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Caritas",
+      "shirina": 42.668168,
+      "dalzhina": 23.299874,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 2,
+      "ime": "Caritas",
+      "shirina": 42.705495,
+      "dalzhina": 23.321753,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 3,
+      "ime": "Complex Castle Orfey",
+      "shirina": 42.035847,
+      "dalzhina": 24.785012,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 4,
+      "ime": "JAMBA",
+      "shirina": 42.672905,
+      "dalzhina": 23.315407,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 5,
+      "ime": "Lyubimets Detention Centre",
+      "shirina": 41.838044,
+      "dalzhina": 26.091961,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 6,
+      "ime": "Red Cross Bulgaria",
+      "shirina": 42.147923,
+      "dalzhina": 24.760759,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 7,
+      "ime": "Ален Мак",
+      "shirina": 43.250808,
+      "dalzhina": 28.022806,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 8,
+      "ime": "Амброзия",
+      "shirina": 42.676877,
+      "dalzhina": 23.239448,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 9,
+      "ime": "Асистентска подкрепа",
+      "shirina": 42.674961,
+      "dalzhina": 23.306398,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 10,
+      "ime": "БЧК - пункт Белите брези",
+      "shirina": 42.677162,
+      "dalzhina": 23.296705,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 11,
+      "ime": "Банка за майчина кърма",
+      "shirina": 42.707568,
+      "dalzhina": 23.28018,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 12,
+      "ime": "ДА Закрила на детето - Варна",
+      "shirina": 43.212361,
+      "dalzhina": 27.91178,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 13,
+      "ime": "ДДЛРГ Асен Златаров",
+      "shirina": 42.726198,
+      "dalzhina": 23.29471,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 14,
+      "ime": "ДМСГД - Сливен",
+      "shirina": 42.686116,
+      "dalzhina": 26.335493,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 15,
+      "ime": "ДМСГД Юрий Гагарин",
+      "shirina": 42.486809,
+      "dalzhina": 26.532305,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 16,
+      "ime": "ДОВДЛГР \"Дъга\"",
+      "shirina": 43.560102,
+      "dalzhina": 27.847207,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 17,
+      "ime": "Дебелариум Мефисто",
+      "shirina": 42.839388,
+      "dalzhina": 24.377927,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 18,
+      "ime": "Детска кухня",
+      "shirina": 42.672259,
+      "dalzhina": 23.280529,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 19,
+      "ime": "Детска кухня",
+      "shirina": 42.675066,
+      "dalzhina": 23.30602,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 20,
+      "ime": "Детска кухня",
+      "shirina": 43.220651,
+      "dalzhina": 27.931023,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 21,
+      "ime": "Детска кухня",
+      "shirina": 43.242706,
+      "dalzhina": 26.92756,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 22,
+      "ime": "Детска кухня",
+      "shirina": 43.270294,
+      "dalzhina": 26.936021,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 23,
+      "ime": "Детска кухня",
+      "shirina": 43.274803,
+      "dalzhina": 26.952248,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 24,
+      "ime": "Детска кухня",
+      "shirina": 43.277714,
+      "dalzhina": 26.906928,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 25,
+      "ime": "Детска кухня #5",
+      "shirina": 43.213741,
+      "dalzhina": 27.904986,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 26,
+      "ime": "Дирекция Социално Подпомагане - филиал Хисаря",
+      "shirina": 42.502221,
+      "dalzhina": 24.706793,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 27,
+      "ime": "Дирекция бюро по труда",
+      "shirina": 43.625375,
+      "dalzhina": 22.687169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 28,
+      "ime": "Дирекция за социална подпомагане",
+      "shirina": 42.673037,
+      "dalzhina": 23.312508,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 29,
+      "ime": "Дневен Център за Подкрепа на Деца с Увреждания и Техните Семейства",
+      "shirina": 42.916157,
+      "dalzhina": 23.799616,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 30,
+      "ime": "Дневен дом за деца и младежи с умствена изостаналост",
+      "shirina": 42.413241,
+      "dalzhina": 25.607109,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 31,
+      "ime": "Дневен център Свети Стилиян",
+      "shirina": 42.680053,
+      "dalzhina": 26.348084,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 32,
+      "ime": "Дневен център за възрастни с ментални увреждания \"Св. Св. Козма и Дамян\"",
+      "shirina": 42.422681,
+      "dalzhina": 25.609704,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 33,
+      "ime": "Дневен център за деца и младежи с увреждания",
+      "shirina": 42.859303,
+      "dalzhina": 25.322556,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 34,
+      "ime": "Доброволците на Свв. Георги",
+      "shirina": 42.687355,
+      "dalzhina": 23.294776,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 35,
+      "ime": "Дом \"Надежда\"",
+      "shirina": 42.70347,
+      "dalzhina": 23.292911,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 36,
+      "ime": "Дом за Възрастни Хора с Физически Увреждания",
+      "shirina": 42.277732,
+      "dalzhina": 27.612063,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 37,
+      "ime": "Дом за Възрастни с Деменция",
+      "shirina": 42.693287,
+      "dalzhina": 26.822155,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 38,
+      "ime": "Дом за временно настаняване",
+      "shirina": 42.143442,
+      "dalzhina": 24.695449,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 39,
+      "ime": "Дом за възрастни с деменция \"Приста\"",
+      "shirina": 43.797875,
+      "dalzhina": 25.919912,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 40,
+      "ime": "Дом за възрастни хора",
+      "shirina": 41.878069,
+      "dalzhina": 23.473298,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 41,
+      "ime": "Дом за възрастни хора",
+      "shirina": 42.675187,
+      "dalzhina": 23.227716,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 42,
+      "ime": "Дом за възрастни хора",
+      "shirina": 43.228724,
+      "dalzhina": 23.121133,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 43,
+      "ime": "Дом за възрастни хора \"Зафирис - Росица\"",
+      "shirina": 42.660414,
+      "dalzhina": 23.255738,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 44,
+      "ime": "Дом за възрастни хора Божидар",
+      "shirina": 42.717676,
+      "dalzhina": 23.170153,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 45,
+      "ime": "Дом за възрастни хора Ем-Джи Лайф",
+      "shirina": 42.892767,
+      "dalzhina": 23.752221,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 46,
+      "ime": "Дом за възрастни хора Св. Мина",
+      "shirina": 42.709945,
+      "dalzhina": 23.132912,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 47,
+      "ime": "Дом за възрастни хора с психически проблеми",
+      "shirina": 43.287827,
+      "dalzhina": 22.951429,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 48,
+      "ime": "Дом за възрастни хора с физически увреждания",
+      "shirina": 42.007834,
+      "dalzhina": 24.871219,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 49,
+      "ime": "Дом за деца и младежи с умствена изостаналост",
+      "shirina": 43.644108,
+      "dalzhina": 26.487278,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 50,
+      "ime": "Дом за деца и юноши \"Теофано Попова\"",
+      "shirina": 42.438757,
+      "dalzhina": 25.632569,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 51,
+      "ime": "Дом за деца лишени от родителски грижи \"Асен Златаров\"",
+      "shirina": 43.20187,
+      "dalzhina": 23.562029,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 52,
+      "ime": "Дом за деца, лишени от родителска грижа \"Пеню и Мария Велкови\"",
+      "shirina": 43.08065,
+      "dalzhina": 25.62718,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 53,
+      "ime": "Дом за медико - социални грижи за деца",
+      "shirina": 42.517331,
+      "dalzhina": 27.467188,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 54,
+      "ime": "Дом за медико-социални грижи за деца",
+      "shirina": 42.428959,
+      "dalzhina": 25.611065,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 55,
+      "ime": "Дом за медико-социални грижи за деца",
+      "shirina": 43.042468,
+      "dalzhina": 25.618863,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 56,
+      "ime": "Дом за пълнолетни лица с деменция",
+      "shirina": 42.971326,
+      "dalzhina": 25.481749,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 57,
+      "ime": "Дом за сираци Св. София",
+      "shirina": 42.714723,
+      "dalzhina": 23.288215,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 58,
+      "ime": "Дом за стари хора",
+      "shirina": 41.931296,
+      "dalzhina": 23.002145,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 59,
+      "ime": "Дом за стари хора",
+      "shirina": 42.076942,
+      "dalzhina": 26.893225,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 60,
+      "ime": "Дом за стари хора",
+      "shirina": 42.83944,
+      "dalzhina": 23.999161,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 61,
+      "ime": "Дом за стари хора",
+      "shirina": 43.165244,
+      "dalzhina": 27.444625,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 62,
+      "ime": "Дом за стари хора \"Св. Василий Велики\"",
+      "shirina": 42.126635,
+      "dalzhina": 24.71944,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 63,
+      "ime": "Дом за стари хора \"Свети Никола\"",
+      "shirina": 43.427731,
+      "dalzhina": 23.942375,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 64,
+      "ime": "Дом за стари хора ''Йорг''",
+      "shirina": 42.562104,
+      "dalzhina": 27.568828,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 65,
+      "ime": "Дом за стари хора - Нови Пазар",
+      "shirina": 43.347012,
+      "dalzhina": 27.203432,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 66,
+      "ime": "Дом за стари хора Св. арх. Михаил",
+      "shirina": 42.488486,
+      "dalzhina": 26.533253,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 67,
+      "ime": "Дом за стари хора „Кенана“",
+      "shirina": 41.957959,
+      "dalzhina": 25.513859,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 68,
+      "ime": "Дом за стари хора „св. Марина“",
+      "shirina": 42.648969,
+      "dalzhina": 24.816461,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 69,
+      "ime": "Дом за хора с умствена изостаналост",
+      "shirina": 44.20021,
+      "dalzhina": 22.690076,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 70,
+      "ime": "Дом майка и дете",
+      "shirina": 42.86617,
+      "dalzhina": 25.29411,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 71,
+      "ime": "Дом на инвалида",
+      "shirina": 42.449252,
+      "dalzhina": 25.630856,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 72,
+      "ime": "Дома за възрастни хора Секвоя",
+      "shirina": 42.672725,
+      "dalzhina": 23.232541,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 73,
+      "ime": "Домашен социален патронаж",
+      "shirina": 42.132312,
+      "dalzhina": 24.706219,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 74,
+      "ime": "Държавна Психиатрична Клиника",
+      "shirina": 43.039034,
+      "dalzhina": 25.74432,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 75,
+      "ime": "Ела",
+      "shirina": 42.037139,
+      "dalzhina": 23.98942,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 76,
+      "ime": "Жан Гален",
+      "shirina": 43.260149,
+      "dalzhina": 28.025207,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 77,
+      "ime": "ЗСУ",
+      "shirina": 41.83781,
+      "dalzhina": 23.484751,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 78,
+      "ime": "КСУДС (Закрила на детето)",
+      "shirina": 42.685221,
+      "dalzhina": 26.338408,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 79,
+      "ime": "Камионче за топла храна",
+      "shirina": 42.686278,
+      "dalzhina": 23.310216,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 80,
+      "ime": "Карин дом",
+      "shirina": 43.216978,
+      "dalzhina": 27.912963,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 81,
+      "ime": "Княгиня Мариа Луиза",
+      "shirina": 42.153789,
+      "dalzhina": 24.754186,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 82,
+      "ime": "Комплекс за ранно детско развитие",
+      "shirina": 42.151978,
+      "dalzhina": 24.742698,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 83,
+      "ime": "Комплекс за социални услуги",
+      "shirina": 42.608933,
+      "dalzhina": 24.983868,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 84,
+      "ime": "Комплекс за социални услуги",
+      "shirina": 42.706866,
+      "dalzhina": 23.313503,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 85,
+      "ime": "Координационен център за бежанци от Украйна",
+      "shirina": 41.931288,
+      "dalzhina": 25.557623,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 86,
+      "ime": "Координационен център за бежанци от Украйна",
+      "shirina": 42.148095,
+      "dalzhina": 24.729579,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 87,
+      "ime": "Координационен център за бежанци от Украйна",
+      "shirina": 42.281073,
+      "dalzhina": 22.690449,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 88,
+      "ime": "Координационен център за бежанци от Украйна",
+      "shirina": 42.558977,
+      "dalzhina": 27.641935,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 89,
+      "ime": "Координационен център за бежанци от Украйна",
+      "shirina": 42.679431,
+      "dalzhina": 26.320395,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 90,
+      "ime": "Координационен център за бежанци от Украйна",
+      "shirina": 43.082501,
+      "dalzhina": 25.631963,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 91,
+      "ime": "Кухня Лозенец",
+      "shirina": 42.669966,
+      "dalzhina": 23.292953,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 92,
+      "ime": "Лайънс Скрининг Център",
+      "shirina": 43.209263,
+      "dalzhina": 27.91913,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 93,
+      "ime": "МТСП",
+      "shirina": 41.837869,
+      "dalzhina": 23.484631,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 94,
+      "ime": "Майка и дете",
+      "shirina": 42.685277,
+      "dalzhina": 26.338356,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 95,
+      "ime": "Малката къща",
+      "shirina": 42.671018,
+      "dalzhina": 23.261021,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 96,
+      "ime": "Мечтатели",
+      "shirina": 42.674722,
+      "dalzhina": 23.260359,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 97,
+      "ime": "Млечна кухня",
+      "shirina": 43.568728,
+      "dalzhina": 27.832801,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 98,
+      "ime": "Млечна кухня «Лакомник»",
+      "shirina": 43.17902,
+      "dalzhina": 27.892895,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 99,
+      "ime": "Надежда",
+      "shirina": 43.522151,
+      "dalzhina": 24.476844,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 100,
+      "ime": "Национален център за социална рехабилитация",
+      "shirina": 42.715913,
+      "dalzhina": 23.285782,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 101,
+      "ime": "Общинско предприятие Социален патронаж",
+      "shirina": 42.66908,
+      "dalzhina": 23.268539,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 102,
+      "ime": "Олга Скобелева",
+      "shirina": 42.15445,
+      "dalzhina": 24.756078,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 103,
+      "ime": "Пенсионерски клуб \"Тунджа\"",
+      "shirina": 42.565787,
+      "dalzhina": 25.610353,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 104,
+      "ime": "Приют за бездомни",
+      "shirina": 43.226238,
+      "dalzhina": 27.900193,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 105,
+      "ime": "РПЦ - София",
+      "shirina": 42.679912,
+      "dalzhina": 23.251672,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 106,
+      "ime": "Резиденция \"Сердика\"",
+      "shirina": 42.711227,
+      "dalzhina": 23.147072,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 107,
+      "ime": "Резиденция дядо Ради",
+      "shirina": 42.498968,
+      "dalzhina": 24.715128,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 108,
+      "ime": "СИЦ Каритас",
+      "shirina": 42.484941,
+      "dalzhina": 26.490528,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 109,
+      "ime": "Св. Врач",
+      "shirina": 42.146285,
+      "dalzhina": 24.78924,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 110,
+      "ime": "Св. Димитър",
+      "shirina": 42.719854,
+      "dalzhina": 23.239311,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 111,
+      "ime": "Св. Николай",
+      "shirina": 42.606915,
+      "dalzhina": 23.602256,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 112,
+      "ime": "Света Магдалена",
+      "shirina": 43.233049,
+      "dalzhina": 27.999172,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 113,
+      "ime": "Светлини",
+      "shirina": 42.680287,
+      "dalzhina": 23.30077,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 114,
+      "ime": "Сдружение национален център на хората с увреждания",
+      "shirina": 42.707359,
+      "dalzhina": 23.31478,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 115,
+      "ime": "Сезони",
+      "shirina": 42.424122,
+      "dalzhina": 25.689452,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 116,
+      "ime": "Слънчев дом",
+      "shirina": 42.783409,
+      "dalzhina": 23.309095,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 117,
+      "ime": "Социален дом град Твърдица",
+      "shirina": 42.664763,
+      "dalzhina": 25.888071,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 118,
+      "ime": "Социален патронаж",
+      "shirina": 42.68814,
+      "dalzhina": 26.320849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 119,
+      "ime": "Социални грижи",
+      "shirina": 42.67619,
+      "dalzhina": 26.31401,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 120,
+      "ime": "Социално-пердагогически интернат",
+      "shirina": 42.594894,
+      "dalzhina": 26.684067,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 121,
+      "ime": "Старчески дом Възраждане",
+      "shirina": 43.860487,
+      "dalzhina": 25.974065,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 122,
+      "ime": "Фердинанд Урбрих",
+      "shirina": 42.150232,
+      "dalzhina": 24.779667,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 123,
+      "ime": "Фондация \"За нашите деца\"",
+      "shirina": 42.695899,
+      "dalzhina": 23.301589,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 124,
+      "ime": "Христо Райков",
+      "shirina": 42.867928,
+      "dalzhina": 25.303519,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 125,
+      "ime": "ЦНСТ Могилино",
+      "shirina": 43.251913,
+      "dalzhina": 27.851061,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 126,
+      "ime": "ЦНСТ Нови Пазар",
+      "shirina": 43.348591,
+      "dalzhina": 27.18842,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 127,
+      "ime": "ЦНСТ Слънце - гр. Каспичан",
+      "shirina": 43.31114,
+      "dalzhina": 27.156443,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 128,
+      "ime": "ЦНСТ за деца без увреждания - Нови Пазар",
+      "shirina": 43.339097,
+      "dalzhina": 27.19713,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 129,
+      "ime": "ЦНСТЛФУ Балей",
+      "shirina": 44.180593,
+      "dalzhina": 22.643424,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 130,
+      "ime": "ЦОП",
+      "shirina": 43.349361,
+      "dalzhina": 27.198259,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 131,
+      "ime": "ЦОП Другарче",
+      "shirina": 43.225969,
+      "dalzhina": 27.901252,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 132,
+      "ime": "ЦОП Нови Пазар",
+      "shirina": 43.352971,
+      "dalzhina": 27.190146,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 133,
+      "ime": "ЦОП Провадия",
+      "shirina": 43.177541,
+      "dalzhina": 27.441479,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 134,
+      "ime": "ЦПЛР",
+      "shirina": 43.347904,
+      "dalzhina": 27.193259,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 135,
+      "ime": "ЦРД Враца",
+      "shirina": 43.203723,
+      "dalzhina": 23.548206,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 136,
+      "ime": "ЦСОП Хела",
+      "shirina": 43.34286,
+      "dalzhina": 27.190744,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 137,
+      "ime": "Център за Социална Рехабилитация и Интеграция - Провадия",
+      "shirina": 43.179032,
+      "dalzhina": 27.445206,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 138,
+      "ime": "Център за настаняване на пълнолетни лица с деменция",
+      "shirina": 44.165627,
+      "dalzhina": 22.782047,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 139,
+      "ime": "Център за настаняване от семеен тип",
+      "shirina": 43.25203,
+      "dalzhina": 27.851564,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 140,
+      "ime": "Център за настаняване от семеен тип за деца (ЦНСТ)",
+      "shirina": 42.643691,
+      "dalzhina": 23.642732,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 141,
+      "ime": "Център за настаняване от семеен тип за деца и младежи",
+      "shirina": 41.77191,
+      "dalzhina": 26.198358,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 142,
+      "ime": "Център за настаняване от семеен тип за деца и младежи с увреждания",
+      "shirina": 43.56862,
+      "dalzhina": 27.852046,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 143,
+      "ime": "Център за настаняване от семеен тип за деца и младежи с увреждания",
+      "shirina": 43.570676,
+      "dalzhina": 27.852436,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 144,
+      "ime": "Център за подкрепа на деца с увреждания",
+      "shirina": 42.432121,
+      "dalzhina": 25.650632,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 145,
+      "ime": "Център за работа с деца",
+      "shirina": 43.313254,
+      "dalzhina": 27.155931,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 146,
+      "ime": "Център за социална рехабилитация и интеграция за деца и лица с увреждания \"Чудеса\"",
+      "shirina": 42.675042,
+      "dalzhina": 23.302535,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 147,
+      "ime": "Център за социална рехабилитация и интеграция на лица напуснали пенетенциарни заведения",
+      "shirina": 43.222608,
+      "dalzhina": 27.923254,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 148,
+      "ime": "Център за социални услуги",
+      "shirina": 42.479039,
+      "dalzhina": 26.522454,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 149,
+      "ime": "Чекотин Парк",
+      "shirina": 42.99018,
+      "dalzhina": 23.893921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 150,
+      "ime": "дом св. Ана",
+      "shirina": 43.341428,
+      "dalzhina": 27.853871,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 151,
+      "ime": "клуб за пенсионери",
+      "shirina": 43.603859,
+      "dalzhina": 24.998467,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    },
+    {
+      "id": 152,
+      "ime": "комплекс за социално-зфравни услуги \"Света Петка\"",
+      "shirina": 42.143678,
+      "dalzhina": 24.754466,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "social_facility",
+      "osm_klas": "amenity=social_facility"
+    }
+  ],
+  "meta": {
+    "title": "Социални заведения в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Социални заведения в България — 152 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=social_facility`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 152 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Социални заведения в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Социални заведения в България (OpenStreetMap) — 152 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 152 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

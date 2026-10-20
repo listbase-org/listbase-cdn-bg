@@ -1,0 +1,1114 @@
+{
+  "id": "bg-muzei",
+  "name": "Музеи в България (Museums in Bulgaria)",
+  "title": "Музеи в България (Museums in Bulgaria)",
+  "description": "Списък с 117 музея в България от OpenStreetMap — име, град, координати и уебсайт.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 117,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Archaelogical-historic complex with museum collection Southern Fortress Wall and Tower",
+      "name_en": "",
+      "city": "Sozopol",
+      "country": "Bulgaria",
+      "latitude": 42.423729,
+      "longitude": 27.695804,
+      "website": ""
+    },
+    {
+      "name": "Archeological Museum",
+      "name_en": "",
+      "city": "Plovdiv",
+      "country": "Bulgaria",
+      "latitude": 42.151681,
+      "longitude": 24.745128,
+      "website": ""
+    },
+    {
+      "name": "Musée de la nature et de la science",
+      "name_en": "",
+      "city": "Belogradchik",
+      "country": "Bulgaria",
+      "latitude": 43.622171,
+      "longitude": 22.69623,
+      "website": ""
+    },
+    {
+      "name": "Regionalen Istoricheski",
+      "name_en": "",
+      "city": "Kŭrdzhali",
+      "country": "Bulgaria",
+      "latitude": 41.646961,
+      "longitude": 25.369546,
+      "website": ""
+    },
+    {
+      "name": "TT35/XVI/",
+      "name_en": "",
+      "city": "Peshtera",
+      "country": "Bulgaria",
+      "latitude": 42.029283,
+      "longitude": 24.298859,
+      "website": ""
+    },
+    {
+      "name": "Абритус",
+      "name_en": "",
+      "city": "Razgrad",
+      "country": "Bulgaria",
+      "latitude": 43.523986,
+      "longitude": 26.550859,
+      "website": ""
+    },
+    {
+      "name": "Аладжа манастир",
+      "name_en": "Aladja Monastery",
+      "city": "Zlatni Pyasatsi",
+      "country": "Bulgaria",
+      "latitude": 43.278034,
+      "longitude": 28.015397,
+      "website": ""
+    },
+    {
+      "name": "Ангел Кънчев",
+      "name_en": "",
+      "city": "Tryavna",
+      "country": "Bulgaria",
+      "latitude": 42.868397,
+      "longitude": 25.493605,
+      "website": ""
+    },
+    {
+      "name": "аптека Хипократ",
+      "name_en": "",
+      "city": "Plovdiv",
+      "country": "Bulgaria",
+      "latitude": 42.148957,
+      "longitude": 24.752249,
+      "website": ""
+    },
+    {
+      "name": "Археологически музей",
+      "name_en": "",
+      "city": "Nesebar",
+      "country": "Bulgaria",
+      "latitude": 42.658437,
+      "longitude": 27.730731,
+      "website": ""
+    },
+    {
+      "name": "Археологически музей",
+      "name_en": "Archaeological Museum",
+      "city": "Veliko Tŭrnovo",
+      "country": "Bulgaria",
+      "latitude": 43.080878,
+      "longitude": 25.642027,
+      "website": ""
+    },
+    {
+      "name": "Археологически музей",
+      "name_en": "",
+      "city": "Kaspichan",
+      "country": "Bulgaria",
+      "latitude": 43.27719,
+      "longitude": 27.116837,
+      "website": ""
+    },
+    {
+      "name": "Археологически музей Марица Изток",
+      "name_en": "",
+      "city": "Radnevo",
+      "country": "Bulgaria",
+      "latitude": 42.288635,
+      "longitude": 25.935187,
+      "website": ""
+    },
+    {
+      "name": "Археологический музей",
+      "name_en": "",
+      "city": "Byala",
+      "country": "Bulgaria",
+      "latitude": 42.876171,
+      "longitude": 27.884631,
+      "website": ""
+    },
+    {
+      "name": "Баташката църква",
+      "name_en": "",
+      "city": "Batak",
+      "country": "Bulgaria",
+      "latitude": 41.943614,
+      "longitude": 24.21832,
+      "website": ""
+    },
+    {
+      "name": "БТС 77 - Исторически музей",
+      "name_en": "",
+      "city": "Klisura",
+      "country": "Bulgaria",
+      "latitude": 42.6941,
+      "longitude": 24.45,
+      "website": ""
+    },
+    {
+      "name": "Вазов кът",
+      "name_en": "",
+      "city": "Mezdra",
+      "country": "Bulgaria",
+      "latitude": 43.093811,
+      "longitude": 23.616299,
+      "website": ""
+    },
+    {
+      "name": "Вила \"Армира\"",
+      "name_en": "Villa Armira",
+      "city": "Ivaylovgrad",
+      "country": "Bulgaria",
+      "latitude": 41.499161,
+      "longitude": 26.10626,
+      "website": ""
+    },
+    {
+      "name": "Въстановка на неолитно селище \"Тополница\"",
+      "name_en": "",
+      "city": "Chavdar",
+      "country": "Bulgaria",
+      "latitude": 42.653161,
+      "longitude": 24.049545,
+      "website": ""
+    },
+    {
+      "name": "Генчовата къща",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.639756,
+      "longitude": 24.356574,
+      "website": ""
+    },
+    {
+      "name": "Даскаловата къща",
+      "name_en": "Daskalov House",
+      "city": "Tryavna",
+      "country": "Bulgaria",
+      "latitude": 42.865182,
+      "longitude": 25.486808,
+      "website": ""
+    },
+    {
+      "name": "Дом-музей Пеньо Пенев",
+      "name_en": "",
+      "city": "Dimitrovgrad",
+      "country": "Bulgaria",
+      "latitude": 42.056019,
+      "longitude": 25.592547,
+      "website": ""
+    },
+    {
+      "name": "Дудекова къща",
+      "name_en": "",
+      "city": "Panagyurishte",
+      "country": "Bulgaria",
+      "latitude": 42.508286,
+      "longitude": 24.185076,
+      "website": ""
+    },
+    {
+      "name": "Етнографски комплекс „Драсова и Рашова къщи“",
+      "name_en": "",
+      "city": "Lovech",
+      "country": "Bulgaria",
+      "latitude": 43.130454,
+      "longitude": 24.717925,
+      "website": ""
+    },
+    {
+      "name": "Етнографски музей",
+      "name_en": "Ethnographic Museum",
+      "city": "Plovdiv",
+      "country": "Bulgaria",
+      "latitude": 42.149997,
+      "longitude": 24.753031,
+      "website": ""
+    },
+    {
+      "name": "Етнографски музей",
+      "name_en": "Etnographic museum",
+      "city": "Varna",
+      "country": "Bulgaria",
+      "latitude": 43.201005,
+      "longitude": 27.913436,
+      "website": ""
+    },
+    {
+      "name": "Етнографски музей",
+      "name_en": "",
+      "city": "Zlatograd",
+      "country": "Bulgaria",
+      "latitude": 41.387247,
+      "longitude": 25.085633,
+      "website": ""
+    },
+    {
+      "name": "Етнографски музей",
+      "name_en": "",
+      "city": "Batak",
+      "country": "Bulgaria",
+      "latitude": 41.943731,
+      "longitude": 24.217729,
+      "website": ""
+    },
+    {
+      "name": "Изложбена зала",
+      "name_en": "",
+      "city": "Petrich",
+      "country": "Bulgaria",
+      "latitude": 41.458762,
+      "longitude": 23.264337,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Sevlievo",
+      "country": "Bulgaria",
+      "latitude": 43.026023,
+      "longitude": 25.103226,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Kavarna",
+      "country": "Bulgaria",
+      "latitude": 43.431825,
+      "longitude": 28.342758,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Samokov",
+      "country": "Bulgaria",
+      "latitude": 42.339346,
+      "longitude": 23.560253,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Radnevo",
+      "country": "Bulgaria",
+      "latitude": 42.351256,
+      "longitude": 25.965229,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Zlatograd",
+      "country": "Bulgaria",
+      "latitude": 41.386611,
+      "longitude": 25.087386,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Sandanski",
+      "country": "Bulgaria",
+      "latitude": 41.523416,
+      "longitude": 23.396452,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Razlog",
+      "country": "Bulgaria",
+      "latitude": 41.88581,
+      "longitude": 23.460652,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Batak",
+      "country": "Bulgaria",
+      "latitude": 41.9428,
+      "longitude": 24.218478,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей",
+      "name_en": "",
+      "city": "Pernik",
+      "country": "Bulgaria",
+      "latitude": 42.609167,
+      "longitude": 23.029061,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей \"Възраждане\"",
+      "name_en": "",
+      "city": "Plovdiv",
+      "country": "Bulgaria",
+      "latitude": 42.14976,
+      "longitude": 24.753358,
+      "website": ""
+    },
+    {
+      "name": "Исторически Музей Искра Казанлък",
+      "name_en": "Iskra Historical Museum",
+      "city": "Kazanlŭk",
+      "country": "Bulgaria",
+      "latitude": 42.621263,
+      "longitude": 25.39503,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей Панагюрище",
+      "name_en": "History Museum Pabagyurishte",
+      "city": "Panagyurishte",
+      "country": "Bulgaria",
+      "latitude": 42.50815,
+      "longitude": 24.185196,
+      "website": ""
+    },
+    {
+      "name": "Исторически музей Трън",
+      "name_en": "",
+      "city": "Trŭn",
+      "country": "Bulgaria",
+      "latitude": 42.835813,
+      "longitude": 22.653029,
+      "website": "https://www.facebook.com/pages/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B3%D1%80-%D0%A2%D1%80%D1%8A%D0%BD/77904301037"
+    },
+    {
+      "name": "Класно училище",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.637864,
+      "longitude": 24.358896,
+      "website": ""
+    },
+    {
+      "name": "Кордопулова Къща",
+      "name_en": "",
+      "city": "Sandanski",
+      "country": "Bulgaria",
+      "latitude": 41.523144,
+      "longitude": 23.398299,
+      "website": "http://www.kordopulova-house.com"
+    },
+    {
+      "name": "Кръстата казарма",
+      "name_en": "Cruciform barrack",
+      "city": "Vidin",
+      "country": "Bulgaria",
+      "latitude": 43.990488,
+      "longitude": 22.881409,
+      "website": ""
+    },
+    {
+      "name": "къща - музей Гео Милев",
+      "name_en": "",
+      "city": "Radnevo",
+      "country": "Bulgaria",
+      "latitude": 42.289673,
+      "longitude": 25.935134,
+      "website": ""
+    },
+    {
+      "name": "Къща музей \"Д-р Миркович\"",
+      "name_en": "",
+      "city": "Sliven",
+      "country": "Bulgaria",
+      "latitude": 42.681189,
+      "longitude": 26.310774,
+      "website": ""
+    },
+    {
+      "name": "Къща музей \"Хаджи Димитър\"",
+      "name_en": "",
+      "city": "Sliven",
+      "country": "Bulgaria",
+      "latitude": 42.678447,
+      "longitude": 26.311726,
+      "website": ""
+    },
+    {
+      "name": "къща музей Елин Пелин",
+      "name_en": "",
+      "city": "Gorna Malina",
+      "country": "Bulgaria",
+      "latitude": 42.656804,
+      "longitude": 23.820525,
+      "website": ""
+    },
+    {
+      "name": "Къща музей Любен Каравелов",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.64094,
+      "longitude": 24.359207,
+      "website": ""
+    },
+    {
+      "name": "Къща музей Найден Геров",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.641069,
+      "longitude": 24.358027,
+      "website": ""
+    },
+    {
+      "name": "Къща музей Никола Вапцаров",
+      "name_en": "",
+      "city": "Bansko",
+      "country": "Bulgaria",
+      "latitude": 41.837502,
+      "longitude": 23.488802,
+      "website": ""
+    },
+    {
+      "name": "Къща музей Пейо Яворов",
+      "name_en": "",
+      "city": "Chirpan",
+      "country": "Bulgaria",
+      "latitude": 42.202059,
+      "longitude": 25.326682,
+      "website": ""
+    },
+    {
+      "name": "Къща музей Хаджи Ненчо Палавеев",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.640774,
+      "longitude": 24.356866,
+      "website": ""
+    },
+    {
+      "name": "Къща музей Яко Доросиев",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.636005,
+      "longitude": 24.362085,
+      "website": ""
+    },
+    {
+      "name": "Къща музей “Петко Р. Славейков”",
+      "name_en": "House museum Petko R. Slavejkov",
+      "city": "Veliko Tŭrnovo",
+      "country": "Bulgaria",
+      "latitude": 43.0854,
+      "longitude": 25.635498,
+      "website": "http://veliko-tarnovo.net/turizam/zabelejitelnosti/veliko-tarnovo/kashta-muzey-petko-r-slaveykov.html"
+    },
+    {
+      "name": "Къща на Бояджи Оглу",
+      "name_en": "",
+      "city": "Haskovo",
+      "country": "Bulgaria",
+      "latitude": 41.935143,
+      "longitude": 25.54669,
+      "website": ""
+    },
+    {
+      "name": "Къща-музей",
+      "name_en": "",
+      "city": "Aksakovo",
+      "country": "Bulgaria",
+      "latitude": 43.390421,
+      "longitude": 27.778598,
+      "website": ""
+    },
+    {
+      "name": "Къща-музей \"Захари Стоянов\"",
+      "name_en": "",
+      "city": "Kotel",
+      "country": "Bulgaria",
+      "latitude": 42.844173,
+      "longitude": 26.555845,
+      "website": ""
+    },
+    {
+      "name": "Къща-музей \"Ст. Доспевски\"",
+      "name_en": "",
+      "city": "Pazardzhik",
+      "country": "Bulgaria",
+      "latitude": 42.186469,
+      "longitude": 24.32515,
+      "website": ""
+    },
+    {
+      "name": "Къща-музей Иван Вазов",
+      "name_en": "",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.693,
+      "longitude": 23.327569,
+      "website": "http://www.slovo.bg/vazovmuseum/"
+    },
+    {
+      "name": "Къща-музей на Филип Тотю",
+      "name_en": "",
+      "city": "Kilifarevo",
+      "country": "Bulgaria",
+      "latitude": 42.870664,
+      "longitude": 25.656173,
+      "website": ""
+    },
+    {
+      "name": "Къща-музей Пейо К. Яворов",
+      "name_en": "",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.689614,
+      "longitude": 23.323052,
+      "website": ""
+    },
+    {
+      "name": "Къщата на Бенковски",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.636244,
+      "longitude": 24.362119,
+      "website": ""
+    },
+    {
+      "name": "Къщата на Тодор Каблешков",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.638408,
+      "longitude": 24.35607,
+      "website": ""
+    },
+    {
+      "name": "Къщата на чорбаджи Димитрак",
+      "name_en": "",
+      "city": "Haskovo",
+      "country": "Bulgaria",
+      "latitude": 41.934594,
+      "longitude": 25.545152,
+      "website": ""
+    },
+    {
+      "name": "Къщата-музей Димитър Димов",
+      "name_en": "",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.679055,
+      "longitude": 23.329096,
+      "website": ""
+    },
+    {
+      "name": "Литературно-художовествен мусей Чудомир",
+      "name_en": "Chudomir Museum",
+      "city": "Kazanlŭk",
+      "country": "Bulgaria",
+      "latitude": 42.620149,
+      "longitude": 25.398221,
+      "website": ""
+    },
+    {
+      "name": "Лютовската къща",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.638102,
+      "longitude": 24.357688,
+      "website": ""
+    },
+    {
+      "name": "Мавлеви хане",
+      "name_en": "",
+      "city": "Plovdiv",
+      "country": "Bulgaria",
+      "latitude": 42.148481,
+      "longitude": 24.752843,
+      "website": ""
+    },
+    {
+      "name": "Минен музей",
+      "name_en": "",
+      "city": "Pernik",
+      "country": "Bulgaria",
+      "latitude": 42.609708,
+      "longitude": 23.028927,
+      "website": ""
+    },
+    {
+      "name": "Музей",
+      "name_en": "",
+      "city": "Bansko",
+      "country": "Bulgaria",
+      "latitude": 41.819928,
+      "longitude": 23.56095,
+      "website": ""
+    },
+    {
+      "name": "Музей",
+      "name_en": "Museum",
+      "city": "Akhtopol",
+      "country": "Bulgaria",
+      "latitude": 42.100147,
+      "longitude": 27.943574,
+      "website": ""
+    },
+    {
+      "name": "Музей \"Карасура\"",
+      "name_en": "",
+      "city": "Chirpan",
+      "country": "Bulgaria",
+      "latitude": 42.247085,
+      "longitude": 25.348047,
+      "website": ""
+    },
+    {
+      "name": "Музей \"Килийно училище\"",
+      "name_en": "",
+      "city": "Zlatograd",
+      "country": "Bulgaria",
+      "latitude": 41.38101,
+      "longitude": 25.091264,
+      "website": ""
+    },
+    {
+      "name": "Музей Бусинска керамика",
+      "name_en": "",
+      "city": "Trŭn",
+      "country": "Bulgaria",
+      "latitude": 42.782167,
+      "longitude": 22.625803,
+      "website": ""
+    },
+    {
+      "name": "Музей за история на медицината",
+      "name_en": "",
+      "city": "Varna",
+      "country": "Bulgaria",
+      "latitude": 43.199729,
+      "longitude": 27.920867,
+      "website": ""
+    },
+    {
+      "name": "Музей за история на София",
+      "name_en": "",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.699337,
+      "longitude": 23.323648,
+      "website": ""
+    },
+    {
+      "name": "музей Ламартин",
+      "name_en": "",
+      "city": "Plovdiv",
+      "country": "Bulgaria",
+      "latitude": 42.147313,
+      "longitude": 24.752625,
+      "website": ""
+    },
+    {
+      "name": "Музей на виното",
+      "name_en": "",
+      "city": "Pleven",
+      "country": "Bulgaria",
+      "latitude": 43.357266,
+      "longitude": 24.635615,
+      "website": ""
+    },
+    {
+      "name": "Музей на Възраждането",
+      "name_en": "Revival museum",
+      "city": "Varna",
+      "country": "Bulgaria",
+      "latitude": 43.201168,
+      "longitude": 27.912446,
+      "website": "http://revival.museumvarna.com"
+    },
+    {
+      "name": "Музей на киселото мляко",
+      "name_en": "",
+      "city": "Trŭn",
+      "country": "Bulgaria",
+      "latitude": 42.79197,
+      "longitude": 22.596605,
+      "website": ""
+    },
+    {
+      "name": "Музей на мозайките, БТС10",
+      "name_en": "Museum of Mosaics",
+      "city": "Devnya",
+      "country": "Bulgaria",
+      "latitude": 43.22553,
+      "longitude": 27.58508,
+      "website": ""
+    },
+    {
+      "name": "Музей на пощите и съобщенията",
+      "name_en": "",
+      "city": "Zlatograd",
+      "country": "Bulgaria",
+      "latitude": 41.38774,
+      "longitude": 25.086457,
+      "website": ""
+    },
+    {
+      "name": "Музей на розата",
+      "name_en": "Rose Museum",
+      "city": "Kazanlŭk",
+      "country": "Bulgaria",
+      "latitude": 42.623197,
+      "longitude": 25.388312,
+      "website": ""
+    },
+    {
+      "name": "Музей на тракийксото изкуство (Могила Александрово)",
+      "name_en": "Museum of Thracian Art",
+      "city": "Simeonovgrad",
+      "country": "Bulgaria",
+      "latitude": 41.981319,
+      "longitude": 25.738574,
+      "website": ""
+    },
+    {
+      "name": "Музей на фотографията и съвременни визуални изкуства",
+      "name_en": "Museum of Photography and Contemporary Visual Arts",
+      "city": "Kazanlŭk",
+      "country": "Bulgaria",
+      "latitude": 42.621409,
+      "longitude": 25.394945,
+      "website": ""
+    },
+    {
+      "name": "музей Приморско",
+      "name_en": "",
+      "city": "Primorsko",
+      "country": "Bulgaria",
+      "latitude": 42.267689,
+      "longitude": 27.751482,
+      "website": ""
+    },
+    {
+      "name": "Музей Света Анастасия",
+      "name_en": "",
+      "city": "Chernomorets",
+      "country": "Bulgaria",
+      "latitude": 42.467831,
+      "longitude": 27.553072,
+      "website": ""
+    },
+    {
+      "name": "Музей „Васил Левски“",
+      "name_en": "",
+      "city": "Lovech",
+      "country": "Bulgaria",
+      "latitude": 43.129953,
+      "longitude": 24.71762,
+      "website": ""
+    },
+    {
+      "name": "Музейна сбирка",
+      "name_en": "",
+      "city": "Petrich",
+      "country": "Bulgaria",
+      "latitude": 41.458565,
+      "longitude": 23.263725,
+      "website": ""
+    },
+    {
+      "name": "Музейна сбирка",
+      "name_en": "Museum Collection",
+      "city": "Akhtopol",
+      "country": "Bulgaria",
+      "latitude": 42.103377,
+      "longitude": 27.945948,
+      "website": ""
+    },
+    {
+      "name": "Национален антропологичен музей",
+      "name_en": "",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.679349,
+      "longitude": 23.354533,
+      "website": "http://bulgariatravel.org/bg/object/170/Antropologichen_muzej_BAN"
+    },
+    {
+      "name": "Национален етнографски музей",
+      "name_en": "National Ethnographic Museum",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.696194,
+      "longitude": 23.327391,
+      "website": ""
+    },
+    {
+      "name": "Национален музей на образованието",
+      "name_en": "National Museum of Education",
+      "city": "Gabrovo",
+      "country": "Bulgaria",
+      "latitude": 42.869993,
+      "longitude": 25.316674,
+      "website": ""
+    },
+    {
+      "name": "Национален музей на текстилната индустрия",
+      "name_en": "",
+      "city": "Sliven",
+      "country": "Bulgaria",
+      "latitude": 42.688762,
+      "longitude": 26.318222,
+      "website": ""
+    },
+    {
+      "name": "Национален църковен историко-археологически музей при Св. Синод",
+      "name_en": "National Church Museum of History and Archaeology of the Holy Synod",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.695874,
+      "longitude": 23.321473,
+      "website": ""
+    },
+    {
+      "name": "Национална художествена галерия",
+      "name_en": "National Art Gallery",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.696517,
+      "longitude": 23.326764,
+      "website": "http://www.nationalartgallerybg.org/"
+    },
+    {
+      "name": "Националния литературен музей",
+      "name_en": "National Literary Museum",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "latitude": 42.689495,
+      "longitude": 23.323108,
+      "website": "http://nlmuseum.bg/"
+    },
+    {
+      "name": "Ослековата къща",
+      "name_en": "",
+      "city": "Koprivshtitsa",
+      "country": "Bulgaria",
+      "latitude": 42.640149,
+      "longitude": 24.357184,
+      "website": ""
+    },
+    {
+      "name": "Параход Радецки",
+      "name_en": "",
+      "city": "Kozloduy",
+      "country": "Bulgaria",
+      "latitude": 43.798807,
+      "longitude": 23.677146,
+      "website": ""
+    },
+    {
+      "name": "Плиоценски парк",
+      "name_en": "Pliocene Epoch Park",
+      "city": "Rakitovo",
+      "country": "Bulgaria",
+      "latitude": 42.049786,
+      "longitude": 24.122326,
+      "website": ""
+    },
+    {
+      "name": "Природонаучен музей",
+      "name_en": "Museum of Natural History",
+      "city": "Varna",
+      "country": "Bulgaria",
+      "latitude": 43.20668,
+      "longitude": 27.931995,
+      "website": "http://nature.museumvarna.com"
+    },
+    {
+      "name": "Природонаучен Музей",
+      "name_en": "",
+      "city": "Burgas",
+      "country": "Bulgaria",
+      "latitude": 42.494432,
+      "longitude": 27.474832,
+      "website": ""
+    },
+    {
+      "name": "Райковата Къща",
+      "name_en": "Raykov House",
+      "city": "Tryavna",
+      "country": "Bulgaria",
+      "latitude": 42.866894,
+      "longitude": 25.490293,
+      "website": ""
+    },
+    {
+      "name": "Регионален исторически музей",
+      "name_en": "",
+      "city": "Haskovo",
+      "country": "Bulgaria",
+      "latitude": 41.932439,
+      "longitude": 25.558014,
+      "website": ""
+    },
+    {
+      "name": "Регионален исторически музей",
+      "name_en": "",
+      "city": "Vratsa",
+      "country": "Bulgaria",
+      "latitude": 43.20076,
+      "longitude": 23.547638,
+      "website": ""
+    },
+    {
+      "name": "Регионален Исторически Музей",
+      "name_en": "Regional Museum of History",
+      "city": "Veliko Tŭrnovo",
+      "country": "Bulgaria",
+      "latitude": 43.081466,
+      "longitude": 25.6443,
+      "website": "http://www.museumvt.com/"
+    },
+    {
+      "name": "Сарафкина къща",
+      "name_en": "Sarafkina’s House",
+      "city": "Veliko Tŭrnovo",
+      "country": "Bulgaria",
+      "latitude": 43.081997,
+      "longitude": 25.640669,
+      "website": "http://www.museumvt.com/Exhibitions.php?object=5"
+    },
+    {
+      "name": "Старото школо",
+      "name_en": "Old School",
+      "city": "Tryavna",
+      "country": "Bulgaria",
+      "latitude": 42.866387,
+      "longitude": 25.489796,
+      "website": ""
+    },
+    {
+      "name": "Тракийска гробница - копие",
+      "name_en": "",
+      "city": "Kazanlŭk",
+      "country": "Bulgaria",
+      "latitude": 42.625449,
+      "longitude": 25.400018,
+      "website": ""
+    },
+    {
+      "name": "Тракийска купулна гробница",
+      "name_en": "",
+      "city": "Lyubimets",
+      "country": "Bulgaria",
+      "latitude": 41.734856,
+      "longitude": 26.102224,
+      "website": ""
+    },
+    {
+      "name": "Тракийска могила \"Голяма Косматка\"",
+      "name_en": "",
+      "city": "Shipka",
+      "country": "Bulgaria",
+      "latitude": 42.699609,
+      "longitude": 25.333496,
+      "website": ""
+    },
+    {
+      "name": "Тутева къща",
+      "name_en": "",
+      "city": "Panagyurishte",
+      "country": "Bulgaria",
+      "latitude": 42.507113,
+      "longitude": 24.186822,
+      "website": ""
+    },
+    {
+      "name": "Фракийская гробница",
+      "name_en": "Thracian Tomb and Sanctuary",
+      "city": "Pomorie",
+      "country": "Bulgaria",
+      "latitude": 42.56733,
+      "longitude": 27.596396,
+      "website": ""
+    },
+    {
+      "name": "Храм Паметник \"Шипка\"",
+      "name_en": "",
+      "city": "Shipka",
+      "country": "Bulgaria",
+      "latitude": 42.74806,
+      "longitude": 25.32156,
+      "website": "http://www.shipkamuseum.org/"
+    },
+    {
+      "name": "Църква музей",
+      "name_en": "",
+      "city": "Razlog",
+      "country": "Bulgaria",
+      "latitude": 41.970039,
+      "longitude": 23.477034,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Музеи в България (Museums in Bulgaria) - Безплатно изтегляне",
+    "description": "Списък с 117 музея в България от OpenStreetMap — име, град, координати и уебсайт. Съдържа 117 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Музеи в България (Museums in Bulgaria) | ListBase",
+    "seo_description": "Изтеглете Музеи в България (Museums in Bulgaria) — 117 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 117 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "bg-silistra-letishta",
+  "name": "Летища — област Силистра",
+  "title": "Летища — област Силистра",
+  "description": "Списък на летищата в „област Силистра“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Silistra Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_source",
+      "label": "Oblast Source",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LBKJ",
+      "iata": "",
+      "name": "Kainardzha Airport",
+      "name_slug": "kainardzha-airport",
+      "city": "Kainardzha",
+      "oblast": "област Силистра",
+      "oblast_source": "Silistra",
+      "oblast_slug": "silistra",
+      "oblast_en": "Silistra Province",
+      "country": "BG",
+      "elevation_ft": 575,
+      "lat": 43.9704170227,
+      "lon": 27.4695568085,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Летища — област Силистра - Безплатно изтегляне",
+    "description": "Списък на летищата в „област Силистра“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Silistra Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Съдържа 1 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Летища — област Силистра | ListBase",
+    "seo_description": "Изтеглете Летища — област Силистра — 1 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 1 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: https://github.com/mwgg/Airports"
+    ]
+  }
+}

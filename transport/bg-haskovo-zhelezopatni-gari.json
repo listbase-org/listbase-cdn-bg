@@ -1,0 +1,361 @@
+{
+  "id": "bg-haskovo-zhelezopatni-gari",
+  "name": "Железопътни гари — област Хасково",
+  "title": "Железопътни гари — област Хасково",
+  "description": "Железопътни гари и спирки в област Хасково (Haskovo, код HKV) от trainline-eu/stations. 10 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_latin",
+      "label": "Oblast Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_bg",
+      "label": "Nearest Settlement Bg",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_km",
+      "label": "Nearest Settlement Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 27851,
+      "name": "Svilengrad",
+      "slug": "svilengrad",
+      "uic": "5214016",
+      "latitude": 41.774192,
+      "longitude": 26.144242,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Свиленград",
+      "nearest_settlement_km": 4.882,
+      "country": "BG"
+    },
+    {
+      "id": 2,
+      "station_id": 27856,
+      "name": "Dimitrovgrad",
+      "slug": "dimitrovgrad",
+      "uic": "5214000",
+      "latitude": 42.057141,
+      "longitude": 25.586314,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Димитровград",
+      "nearest_settlement_km": 0.737,
+      "country": "BG"
+    },
+    {
+      "id": 3,
+      "station_id": 35376,
+      "name": "Haskovo",
+      "slug": "haskovo",
+      "uic": "",
+      "latitude": 41.932977,
+      "longitude": 25.56142,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Хасково",
+      "nearest_settlement_km": 0.52,
+      "country": "BG"
+    },
+    {
+      "id": 4,
+      "station_id": 38409,
+      "name": "Knjazhevo",
+      "slug": "knjazhevo",
+      "uic": "",
+      "latitude": 42.111945,
+      "longitude": 26.50239,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Княжево",
+      "nearest_settlement_km": 0.19,
+      "country": "BG"
+    },
+    {
+      "id": 5,
+      "station_id": 38412,
+      "name": "Levka",
+      "slug": "levka",
+      "uic": "",
+      "latitude": 41.867438,
+      "longitude": 26.26795,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Левка",
+      "nearest_settlement_km": 0.026,
+      "country": "BG"
+    },
+    {
+      "id": 6,
+      "station_id": 38413,
+      "name": "Pastrogor",
+      "slug": "pastrogor",
+      "uic": "",
+      "latitude": 41.842064,
+      "longitude": 26.19849,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Пъстрогор",
+      "nearest_settlement_km": 0.092,
+      "country": "BG"
+    },
+    {
+      "id": 7,
+      "station_id": 38414,
+      "name": "Studena",
+      "slug": "studena",
+      "uic": "",
+      "latitude": 41.916349,
+      "longitude": 26.40327,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Студена",
+      "nearest_settlement_km": 0.027,
+      "country": "BG"
+    },
+    {
+      "id": 8,
+      "station_id": 38419,
+      "name": "Topolovgrad",
+      "slug": "topolovgrad",
+      "uic": "",
+      "latitude": 42.090081,
+      "longitude": 26.34178,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Тополовград",
+      "nearest_settlement_km": 0.906,
+      "country": "BG"
+    },
+    {
+      "id": 9,
+      "station_id": 38421,
+      "name": "Ustrem",
+      "slug": "ustrem",
+      "uic": "",
+      "latitude": 42.020704,
+      "longitude": 26.46213,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Устрем",
+      "nearest_settlement_km": 0.123,
+      "country": "BG"
+    },
+    {
+      "id": 10,
+      "station_id": 38552,
+      "name": "Srem",
+      "slug": "srem-bg",
+      "uic": "",
+      "latitude": 42.051989,
+      "longitude": 26.48024,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Хасково",
+      "oblast_latin": "Haskovo",
+      "oblast_slug": "haskovo",
+      "oblast_code": "HKV",
+      "nearest_settlement_bg": "Срем",
+      "nearest_settlement_km": 0.332,
+      "country": "BG"
+    }
+  ],
+  "meta": {
+    "title": "Железопътни гари — област Хасково - Безплатно изтегляне",
+    "description": "Железопътни гари и спирки в област Хасково (Haskovo, код HKV) от trainline-eu/stations. 10 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations. Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железопътни гари — област Хасково | ListBase",
+    "seo_description": "Изтеглете Железопътни гари — област Хасково — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

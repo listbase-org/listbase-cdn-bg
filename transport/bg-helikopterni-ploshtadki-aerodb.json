@@ -1,0 +1,168 @@
+{
+  "id": "bg-helikopterni-ploshtadki-aerodb",
+  "name": "Хеликоптерни площадки в България (Heliports of Bulgaria)",
+  "title": "Хеликоптерни площадки в България (Heliports of Bulgaria)",
+  "description": "The 3 facilities classified `heliport` by aero-db for BG, with ICAO codes, coordinates, elevation and operational flags.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "facility_type",
+      "label": "Facility Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "is_private",
+      "label": "Is Private",
+      "type": "boolean"
+    },
+    {
+      "key": "is_military",
+      "label": "Is Military",
+      "type": "boolean"
+    },
+    {
+      "key": "is_civilian",
+      "label": "Is Civilian",
+      "type": "boolean"
+    },
+    {
+      "key": "is_closed",
+      "label": "Is Closed",
+      "type": "boolean"
+    },
+    {
+      "key": "is_vfr",
+      "label": "Is Vfr",
+      "type": "boolean"
+    },
+    {
+      "key": "is_ifr",
+      "label": "Is Ifr",
+      "type": "boolean"
+    },
+    {
+      "key": "ppr_required",
+      "label": "Ppr Required",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "name": "LOZEN",
+      "icao_code": "LBLN",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "heliport",
+      "latitude": 42.6194,
+      "longitude": 23.5015,
+      "elevation_ft": 586,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": true,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": false,
+      "ppr_required": false
+    },
+    {
+      "name": "MARINA DINEVI",
+      "icao_code": "LBMD",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "heliport",
+      "latitude": 42.706388888889,
+      "longitude": 27.766388888889,
+      "elevation_ft": 1,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": true,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": false,
+      "ppr_required": false
+    },
+    {
+      "name": "SVETA MARINA",
+      "icao_code": "LBSV",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "heliport",
+      "latitude": 43.226944444444,
+      "longitude": 27.939444444444,
+      "elevation_ft": 114,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": true,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": false,
+      "ppr_required": false
+    }
+  ],
+  "meta": {
+    "title": "Хеликоптерни площадки в България (Heliports of Bulgaria) - Безплатно изтегляне",
+    "description": "The 3 facilities classified `heliport` by aero-db for BG, with ICAO codes, coordinates, elevation and operational flags. Съдържа 3 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Хеликоптерни площадки в България (Heliports of Bulgaria) | ListBase",
+    "seo_description": "Изтеглете Хеликоптерни площадки в България (Heliports of Bulgaria) — 3 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 3 записа / 17 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

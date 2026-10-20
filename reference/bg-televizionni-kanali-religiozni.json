@@ -1,0 +1,181 @@
+{
+  "id": "bg-televizionni-kanali-religiozni",
+  "name": "Български телевизионни канали — религиозни",
+  "title": "Български телевизионни канали — религиозни",
+  "description": "Български телевизионни канали в категория 'religious' (религиозни) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "BHTV.bg",
+      "name": "BHTV",
+      "alt_names": "БХТВ, BCHTV, Bulgarska Khristiyanska TV, BK TV, Българска Християнска Телевизия, Bulgarian Christian TV",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.bhtv.eu/"
+    },
+    {
+      "id": 2,
+      "channel_id": "EparhiyskiGlasTV.bg",
+      "name": "Eparhiyski Glas TV",
+      "alt_names": "Епархийски глас TV",
+      "network": "",
+      "owners": "Sofiyska Mitropoliya",
+      "country": "BG",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://mitropolia-sofia.org/glastv/"
+    },
+    {
+      "id": 3,
+      "channel_id": "HTV.bg",
+      "name": "HTV",
+      "alt_names": "Harmony TV, Хармония ТВ",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.htv.bg/"
+    },
+    {
+      "id": 4,
+      "channel_id": "HopeChannelBulgaria.bg",
+      "name": "Hope Channel Bulgaria",
+      "alt_names": "",
+      "network": "",
+      "owners": "Seventh-day Adventist Church",
+      "country": "BG",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://hopetv.bg/%d0%b3%d0%bb%d0%b5%d0%b4%d0%b0%d0%b9/"
+    },
+    {
+      "id": 5,
+      "channel_id": "LightChannel.bg",
+      "name": "Light Channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "Gospel Ministries International",
+      "country": "BG",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://ltv.bg/"
+    },
+    {
+      "id": 6,
+      "channel_id": "PlovdivOrthodoxTV.bg",
+      "name": "Plovdiv Orthodox TV",
+      "alt_names": "Пловдивска Православна телевизия, ППТВ",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.plovdivskamitropolia.bg/"
+    }
+  ],
+  "meta": {
+    "title": "Български телевизионни канали — религиозни - Безплатно изтегляне",
+    "description": "Български телевизионни канали в категория 'religious' (религиозни) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт. Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Български телевизионни канали — религиозни | ListBase",
+    "seo_description": "Изтеглете Български телевизионни канали — религиозни — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 13 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

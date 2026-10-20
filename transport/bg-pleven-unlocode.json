@@ -1,0 +1,380 @@
+{
+  "id": "bg-pleven-unlocode",
+  "name": "UN/LOCODE — област Плевен (UN/LOCODE locations in Pleven Province)",
+  "title": "UN/LOCODE — област Плевен (UN/LOCODE locations in Pleven Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Плевен (Pleven), 8 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-15). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Pleven Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 16,
+      "locode": "BGBCP",
+      "country": "BG",
+      "location": "BCP",
+      "name": "Chomakovtsi",
+      "name_wo_diacritics": "Chomakovtsi",
+      "subdivision_code": "15",
+      "subdivision_name": "Pleven",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4319N 02404E",
+      "latitude": 43.3167,
+      "longitude": 24.0667,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "PVN",
+      "oblast_name": "Плевен",
+      "oblast_name_latin": "Pleven",
+      "oblast_slug": "pleven",
+      "oblast_ekatte": "56722",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 2,
+      "parent_index": 23,
+      "locode": "BGBLE",
+      "country": "BG",
+      "location": "BLE",
+      "name": "Belene",
+      "name_wo_diacritics": "Belene",
+      "subdivision_code": "15",
+      "subdivision_name": "Pleven",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4339N 02507E",
+      "latitude": 43.65,
+      "longitude": 25.1167,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "PVN",
+      "oblast_name": "Плевен",
+      "oblast_name_latin": "Pleven",
+      "oblast_slug": "pleven",
+      "oblast_ekatte": "56722",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 3,
+      "parent_index": 48,
+      "locode": "BGCHV",
+      "country": "BG",
+      "location": "CHV",
+      "name": "Cherven Bryag",
+      "name_wo_diacritics": "Cherven Bryag",
+      "subdivision_code": "15",
+      "subdivision_name": "Pleven",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4316N 02404E",
+      "latitude": 43.2667,
+      "longitude": 24.0667,
+      "date_updated": "2017-07",
+      "remarks": "",
+      "oblast_code": "PVN",
+      "oblast_name": "Плевен",
+      "oblast_name_latin": "Pleven",
+      "oblast_slug": "pleven",
+      "oblast_ekatte": "56722",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 4,
+      "parent_index": 116,
+      "locode": "BGKBD",
+      "country": "BG",
+      "location": "KBD",
+      "name": "Dolni Dabnik",
+      "name_wo_diacritics": "Dolni Dabnik",
+      "subdivision_code": "15",
+      "subdivision_name": "Pleven",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4324N 02426E",
+      "latitude": 43.4,
+      "longitude": 24.4333,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "PVN",
+      "oblast_name": "Плевен",
+      "oblast_name_latin": "Pleven",
+      "oblast_slug": "pleven",
+      "oblast_ekatte": "56722",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 5,
+      "parent_index": 127,
+      "locode": "BGKOY",
+      "country": "BG",
+      "location": "KOY",
+      "name": "Koynare",
+      "name_wo_diacritics": "Koynare",
+      "subdivision_code": "15",
+      "subdivision_name": "Pleven",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4321N 02408E",
+      "latitude": 43.35,
+      "longitude": 24.1333,
+      "date_updated": "2018-01",
+      "remarks": "",
+      "oblast_code": "PVN",
+      "oblast_name": "Плевен",
+      "oblast_name_latin": "Pleven",
+      "oblast_slug": "pleven",
+      "oblast_ekatte": "56722",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 6,
+      "parent_index": 178,
+      "locode": "BGNPO",
+      "country": "BG",
+      "location": "NPO",
+      "name": "Nikopol",
+      "name_wo_diacritics": "Nikopol",
+      "subdivision_code": "15",
+      "subdivision_name": "Pleven",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "123-----",
+      "functions": "Maritime transport (sea port), Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4341N 02453E",
+      "latitude": 43.6833,
+      "longitude": 24.8833,
+      "date_updated": "2005-07",
+      "remarks": "",
+      "oblast_code": "PVN",
+      "oblast_name": "Плевен",
+      "oblast_name_latin": "Pleven",
+      "oblast_slug": "pleven",
+      "oblast_ekatte": "56722",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 7,
+      "parent_index": 217,
+      "locode": "BGPTK",
+      "country": "BG",
+      "location": "PTK",
+      "name": "Trastenik",
+      "name_wo_diacritics": "Trastenik",
+      "subdivision_code": "15",
+      "subdivision_name": "Pleven",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4331N 02428E",
+      "latitude": 43.5167,
+      "longitude": 24.4667,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "PVN",
+      "oblast_name": "Плевен",
+      "oblast_name_latin": "Pleven",
+      "oblast_slug": "pleven",
+      "oblast_ekatte": "56722",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 8,
+      "parent_index": 333,
+      "locode": "BGYMP",
+      "country": "BG",
+      "location": "YMP",
+      "name": "Dolna Mitropoliya",
+      "name_wo_diacritics": "Dolna Mitropoliya",
+      "subdivision_code": "15",
+      "subdivision_name": "Pleven",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4328N 02432E",
+      "latitude": 43.4667,
+      "longitude": 24.5333,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "PVN",
+      "oblast_name": "Плевен",
+      "oblast_name_latin": "Pleven",
+      "oblast_slug": "pleven",
+      "oblast_ekatte": "56722",
+      "nuts_region": "BG31"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Плевен (UN/LOCODE locations in Pleven Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Плевен (Pleven), 8 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-15). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Pleven Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Плевен (UN/LOCODE locations in Pleven Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Плевен (UN/LOCODE locations in Pleven Province) — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,5481 @@
+{
+  "id": "bg-poshti",
+  "name": "Пощи в България",
+  "title": "Пощи в България",
+  "description": "Пощенски станции в България (OSM amenity=post_office).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1088,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "10-ти пощенски клон",
+      "latitude": 43.221211,
+      "longitude": 27.934274
+    },
+    {
+      "name": "1298 Пощенска станция",
+      "latitude": 42.774689,
+      "longitude": 23.315691
+    },
+    {
+      "name": "18321 Градина",
+      "latitude": 42.998686,
+      "longitude": 22.831095
+    },
+    {
+      "name": "1836 София",
+      "latitude": 42.710906,
+      "longitude": 23.378495
+    },
+    {
+      "name": "3784 Ново село",
+      "latitude": 44.16246,
+      "longitude": 22.78371
+    },
+    {
+      "name": "6-ти пощенски клон",
+      "latitude": 43.232125,
+      "longitude": 28.012689
+    },
+    {
+      "name": "Bulgarian Post PLC",
+      "latitude": 43.36616,
+      "longitude": 28.073921
+    },
+    {
+      "name": "CDEK",
+      "latitude": 42.661407,
+      "longitude": 23.28166
+    },
+    {
+      "name": "D&D Express",
+      "latitude": 42.666614,
+      "longitude": 26.324466
+    },
+    {
+      "name": "Der Kurier",
+      "latitude": 42.695593,
+      "longitude": 23.357982
+    },
+    {
+      "name": "DHL",
+      "latitude": 41.929819,
+      "longitude": 25.564715
+    },
+    {
+      "name": "DHL",
+      "latitude": 42.142269,
+      "longitude": 24.73293
+    },
+    {
+      "name": "DHL",
+      "latitude": 42.145314,
+      "longitude": 24.731751
+    },
+    {
+      "name": "DHL",
+      "latitude": 42.146702,
+      "longitude": 24.760811
+    },
+    {
+      "name": "DHL",
+      "latitude": 42.510085,
+      "longitude": 27.469638
+    },
+    {
+      "name": "DHL",
+      "latitude": 42.686603,
+      "longitude": 23.410613
+    },
+    {
+      "name": "DHL",
+      "latitude": 42.688342,
+      "longitude": 23.327801
+    },
+    {
+      "name": "DHL",
+      "latitude": 42.695144,
+      "longitude": 23.32843
+    },
+    {
+      "name": "DHL",
+      "latitude": 43.213549,
+      "longitude": 27.901983
+    },
+    {
+      "name": "DHL Нови Пазар",
+      "latitude": 43.340154,
+      "longitude": 27.19858
+    },
+    {
+      "name": "Econt",
+      "latitude": 41.82673,
+      "longitude": 23.486936
+    },
+    {
+      "name": "Express One",
+      "latitude": 41.928485,
+      "longitude": 25.571919
+    },
+    {
+      "name": "Express One",
+      "latitude": 42.649496,
+      "longitude": 23.40909
+    },
+    {
+      "name": "Express One",
+      "latitude": 42.700241,
+      "longitude": 23.301581
+    },
+    {
+      "name": "Express One PUP 1052",
+      "latitude": 42.653479,
+      "longitude": 23.37306
+    },
+    {
+      "name": "Express One.bg",
+      "latitude": 42.702024,
+      "longitude": 23.323498
+    },
+    {
+      "name": "ExpressOne BG",
+      "latitude": 42.649754,
+      "longitude": 23.362067
+    },
+    {
+      "name": "Fedex",
+      "latitude": 42.014926,
+      "longitude": 23.090883
+    },
+    {
+      "name": "Gabco",
+      "latitude": 42.666028,
+      "longitude": 23.380074
+    },
+    {
+      "name": "IN TIME",
+      "latitude": 42.676655,
+      "longitude": 23.398996
+    },
+    {
+      "name": "Interlogistica",
+      "latitude": 42.483587,
+      "longitude": 27.447212
+    },
+    {
+      "name": "Interlogistica",
+      "latitude": 43.569625,
+      "longitude": 27.823216
+    },
+    {
+      "name": "InTime",
+      "latitude": 41.93957,
+      "longitude": 25.556373
+    },
+    {
+      "name": "InTime",
+      "latitude": 42.648695,
+      "longitude": 23.327375
+    },
+    {
+      "name": "Intime UPS",
+      "latitude": 42.686883,
+      "longitude": 23.321629
+    },
+    {
+      "name": "Iskra Port Office",
+      "latitude": 41.93012,
+      "longitude": 25.133383
+    },
+    {
+      "name": "M&BM Express",
+      "latitude": 43.571894,
+      "longitude": 27.831172
+    },
+    {
+      "name": "Mail boxes etc.",
+      "latitude": 42.678752,
+      "longitude": 23.310939
+    },
+    {
+      "name": "Otets Kirilovo Post Office",
+      "latitude": 42.340311,
+      "longitude": 24.997368
+    },
+    {
+      "name": "Parcel Shop Юлек",
+      "latitude": 42.688242,
+      "longitude": 23.325355
+    },
+    {
+      "name": "Pigeon express",
+      "latitude": 42.67324,
+      "longitude": 23.275696
+    },
+    {
+      "name": "Post",
+      "latitude": 43.275416,
+      "longitude": 25.559187
+    },
+    {
+      "name": "Post Office (Kiten)",
+      "latitude": 42.234858,
+      "longitude": 27.774521
+    },
+    {
+      "name": "Post Office 2181",
+      "latitude": 42.831697,
+      "longitude": 23.921565
+    },
+    {
+      "name": "Post office 3742",
+      "latitude": 43.750144,
+      "longitude": 22.804405
+    },
+    {
+      "name": "Post office 3785",
+      "latitude": 44.09741,
+      "longitude": 22.760913
+    },
+    {
+      "name": "Postoffice, Sliven, Retschica",
+      "latitude": 42.628175,
+      "longitude": 26.276125
+    },
+    {
+      "name": "Shopper.bg",
+      "latitude": 42.66412,
+      "longitude": 23.317063
+    },
+    {
+      "name": "shopper.bg",
+      "latitude": 42.722994,
+      "longitude": 23.252766
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.391396,
+      "longitude": 23.207333
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.559403,
+      "longitude": 23.27974
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.575192,
+      "longitude": 24.707337
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.766682,
+      "longitude": 26.198277
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.833908,
+      "longitude": 23.495103
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.843761,
+      "longitude": 23.485307
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.881898,
+      "longitude": 23.460403
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.886366,
+      "longitude": 23.467859
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.921956,
+      "longitude": 25.55885
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.928903,
+      "longitude": 25.561259
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.931989,
+      "longitude": 25.549934
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.932672,
+      "longitude": 25.554538
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.932695,
+      "longitude": 25.603425
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.934317,
+      "longitude": 25.54668
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.939569,
+      "longitude": 25.556455
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.948753,
+      "longitude": 25.557039
+    },
+    {
+      "name": "Speedy",
+      "latitude": 41.9962,
+      "longitude": 23.089502
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.012603,
+      "longitude": 23.090719
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.014211,
+      "longitude": 24.86536
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.024803,
+      "longitude": 23.99485
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.060007,
+      "longitude": 25.588267
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.119434,
+      "longitude": 24.729178
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.128512,
+      "longitude": 24.703798
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.128873,
+      "longitude": 24.724236
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.130035,
+      "longitude": 24.777159
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.133252,
+      "longitude": 24.757774
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.134308,
+      "longitude": 24.736093
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.135711,
+      "longitude": 24.789766
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.137248,
+      "longitude": 24.718494
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.140025,
+      "longitude": 24.729186
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.144301,
+      "longitude": 24.745576
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.144537,
+      "longitude": 24.762867
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.144694,
+      "longitude": 24.798843
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.146375,
+      "longitude": 24.730443
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.148488,
+      "longitude": 24.749536
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.151,
+      "longitude": 24.73762
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.152255,
+      "longitude": 24.756233
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.162423,
+      "longitude": 24.741354
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.172025,
+      "longitude": 26.569488
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.189731,
+      "longitude": 24.352094
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.266623,
+      "longitude": 23.111351
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.283138,
+      "longitude": 22.69097
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.420003,
+      "longitude": 25.632897
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.420916,
+      "longitude": 25.622764
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.426324,
+      "longitude": 25.614906
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.427832,
+      "longitude": 25.64619
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.428154,
+      "longitude": 25.635114
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.452664,
+      "longitude": 27.41775
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.464901,
+      "longitude": 27.4186
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.475108,
+      "longitude": 26.526915
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.479012,
+      "longitude": 27.438056
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.487462,
+      "longitude": 26.504049
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.493899,
+      "longitude": 27.47515
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.495028,
+      "longitude": 27.463964
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.501487,
+      "longitude": 27.47457
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.504954,
+      "longitude": 24.704626
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.512433,
+      "longitude": 27.453955
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.518513,
+      "longitude": 27.409695
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.523782,
+      "longitude": 27.463318
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.548001,
+      "longitude": 22.966663
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.600553,
+      "longitude": 23.023021
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.610778,
+      "longitude": 23.039329
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.61816,
+      "longitude": 23.335157
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.626353,
+      "longitude": 23.384031
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.628451,
+      "longitude": 23.309717
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.628569,
+      "longitude": 23.373724
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.631051,
+      "longitude": 23.373541
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.63562,
+      "longitude": 23.375417
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.640119,
+      "longitude": 24.809811
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.641773,
+      "longitude": 23.408279
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.641944,
+      "longitude": 23.399282
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.643644,
+      "longitude": 23.336915
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.644798,
+      "longitude": 26.984062
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.647829,
+      "longitude": 23.376209
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.648719,
+      "longitude": 23.262929
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.651078,
+      "longitude": 23.359108
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.656079,
+      "longitude": 27.569192
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.656775,
+      "longitude": 23.358138
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.65762,
+      "longitude": 23.376203
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.658997,
+      "longitude": 27.714008
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.659457,
+      "longitude": 27.719283
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.659662,
+      "longitude": 23.287534
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.660115,
+      "longitude": 23.299049
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.660802,
+      "longitude": 23.316523
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.660878,
+      "longitude": 23.349639
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.661783,
+      "longitude": 23.397663
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.664968,
+      "longitude": 23.284259
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.668597,
+      "longitude": 23.290553
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.66861,
+      "longitude": 23.30221
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.668875,
+      "longitude": 23.26796
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.670475,
+      "longitude": 23.277375
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.67335,
+      "longitude": 23.333828
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.673633,
+      "longitude": 23.291596
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.673903,
+      "longitude": 23.357571
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.674055,
+      "longitude": 23.263216
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.674841,
+      "longitude": 23.315826
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.675895,
+      "longitude": 23.309641
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.676456,
+      "longitude": 23.299551
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.677559,
+      "longitude": 26.31785
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.678048,
+      "longitude": 23.29014
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.679333,
+      "longitude": 23.253652
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.680019,
+      "longitude": 23.265608
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.680036,
+      "longitude": 26.319355
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.680082,
+      "longitude": 23.284454
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.680833,
+      "longitude": 23.330304
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.68326,
+      "longitude": 23.297261
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.684414,
+      "longitude": 23.241483
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.68461,
+      "longitude": 23.353215
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.68704,
+      "longitude": 23.325301
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.6873,
+      "longitude": 23.371083
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.687511,
+      "longitude": 23.318149
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.68754,
+      "longitude": 23.303399
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.688477,
+      "longitude": 23.296298
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.688745,
+      "longitude": 23.345288
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.689252,
+      "longitude": 23.328303
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.691131,
+      "longitude": 23.312152
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.691162,
+      "longitude": 23.294106
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.69141,
+      "longitude": 23.33953
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.691901,
+      "longitude": 23.321802
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.692362,
+      "longitude": 23.327351
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.6935,
+      "longitude": 23.359735
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.69359,
+      "longitude": 27.708754
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.694101,
+      "longitude": 23.316772
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.696218,
+      "longitude": 23.343141
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.697203,
+      "longitude": 23.353556
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.697818,
+      "longitude": 23.287131
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.698522,
+      "longitude": 23.329676
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.699067,
+      "longitude": 23.316569
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.700364,
+      "longitude": 23.299164
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.700759,
+      "longitude": 23.324369
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.701763,
+      "longitude": 23.354629
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.702162,
+      "longitude": 23.316115
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.704048,
+      "longitude": 23.336128
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.704236,
+      "longitude": 23.303324
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.705741,
+      "longitude": 23.302689
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.707146,
+      "longitude": 23.318156
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.712159,
+      "longitude": 23.312168
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.714003,
+      "longitude": 23.256055
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.714196,
+      "longitude": 23.266392
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.714518,
+      "longitude": 23.298454
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.714602,
+      "longitude": 23.172331
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.721082,
+      "longitude": 23.25662
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.737322,
+      "longitude": 23.301572
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.737587,
+      "longitude": 23.294798
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.737772,
+      "longitude": 23.270942
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.739826,
+      "longitude": 23.312831
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.747635,
+      "longitude": 23.269908
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.809007,
+      "longitude": 23.212895
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.851637,
+      "longitude": 23.039418
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.871191,
+      "longitude": 24.711535
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.87196,
+      "longitude": 25.314583
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.88252,
+      "longitude": 25.323196
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.885112,
+      "longitude": 24.714474
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.896965,
+      "longitude": 23.913798
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.905986,
+      "longitude": 23.806353
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.90971,
+      "longitude": 23.790137
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.96082,
+      "longitude": 23.345256
+    },
+    {
+      "name": "Speedy",
+      "latitude": 42.977715,
+      "longitude": 25.475863
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.075547,
+      "longitude": 25.629105
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.181142,
+      "longitude": 27.443051
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.198098,
+      "longitude": 27.919614
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.199758,
+      "longitude": 27.911101
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.204243,
+      "longitude": 27.919422
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.204759,
+      "longitude": 27.913892
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.207821,
+      "longitude": 23.547362
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.210649,
+      "longitude": 27.899475
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.210735,
+      "longitude": 27.905558
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.210755,
+      "longitude": 27.923651
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.213419,
+      "longitude": 27.919303
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.215508,
+      "longitude": 27.909631
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.216436,
+      "longitude": 27.916896
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.217452,
+      "longitude": 27.865909
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.218449,
+      "longitude": 27.906881
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.219032,
+      "longitude": 27.927643
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.223383,
+      "longitude": 27.931908
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.224326,
+      "longitude": 27.913436
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.225516,
+      "longitude": 27.901716
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.226512,
+      "longitude": 27.923004
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.232982,
+      "longitude": 27.866124
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.242566,
+      "longitude": 26.560332
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.268401,
+      "longitude": 26.933907
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.270864,
+      "longitude": 26.937427
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.271916,
+      "longitude": 26.936558
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.273767,
+      "longitude": 26.927347
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.342677,
+      "longitude": 27.198033
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.362813,
+      "longitude": 25.144607
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.402397,
+      "longitude": 23.222033
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.409474,
+      "longitude": 24.626148
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.416038,
+      "longitude": 24.615126
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.41667,
+      "longitude": 24.618079
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.421671,
+      "longitude": 24.595101
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.429019,
+      "longitude": 24.601092
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.467592,
+      "longitude": 24.525861
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.474606,
+      "longitude": 23.945858
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.567638,
+      "longitude": 27.829721
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.625239,
+      "longitude": 22.681631
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.643313,
+      "longitude": 25.123898
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.77797,
+      "longitude": 23.727875
+    },
+    {
+      "name": "Speedy",
+      "latitude": 43.825682,
+      "longitude": 27.140905
+    },
+    {
+      "name": "Speedy",
+      "latitude": 44.107202,
+      "longitude": 27.23779
+    },
+    {
+      "name": "UPS",
+      "latitude": 43.566611,
+      "longitude": 27.8358
+    },
+    {
+      "name": "UPS in-time",
+      "latitude": 43.070456,
+      "longitude": 25.589556
+    },
+    {
+      "name": "АБВ",
+      "latitude": 42.011716,
+      "longitude": 24.867549
+    },
+    {
+      "name": "Абонаментни пощенски кутии",
+      "latitude": 42.692846,
+      "longitude": 23.325038
+    },
+    {
+      "name": "Аврора ОМВ",
+      "latitude": 44.111453,
+      "longitude": 27.261156
+    },
+    {
+      "name": "Автогара",
+      "latitude": 42.692962,
+      "longitude": 27.70535
+    },
+    {
+      "name": "Автогара",
+      "latitude": 43.702178,
+      "longitude": 28.039686
+    },
+    {
+      "name": "Аксаков",
+      "latitude": 42.678971,
+      "longitude": 26.315215
+    },
+    {
+      "name": "Антон П. Чехов",
+      "latitude": 42.669259,
+      "longitude": 23.359913
+    },
+    {
+      "name": "Арчаница",
+      "latitude": 42.148725,
+      "longitude": 24.770561
+    },
+    {
+      "name": "Асеновград",
+      "latitude": 42.023294,
+      "longitude": 24.899441
+    },
+    {
+      "name": "Асеново",
+      "latitude": 43.553146,
+      "longitude": 24.864601
+    },
+    {
+      "name": "Аспарухово",
+      "latitude": 43.182201,
+      "longitude": 27.89952
+    },
+    {
+      "name": "Балчик",
+      "latitude": 43.411551,
+      "longitude": 28.16684
+    },
+    {
+      "name": "Баня",
+      "latitude": 42.54946,
+      "longitude": 24.826231
+    },
+    {
+      "name": "Белене",
+      "latitude": 43.648454,
+      "longitude": 25.126829
+    },
+    {
+      "name": "Бели Лом",
+      "latitude": 43.529903,
+      "longitude": 26.518334
+    },
+    {
+      "name": "Белово",
+      "latitude": 42.215663,
+      "longitude": 24.015677
+    },
+    {
+      "name": "Берковица",
+      "latitude": 43.239305,
+      "longitude": 23.127221
+    },
+    {
+      "name": "Благоевград 2",
+      "latitude": 42.010224,
+      "longitude": 23.080419
+    },
+    {
+      "name": "Български",
+      "latitude": 42.857766,
+      "longitude": 22.898791
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 41.942947,
+      "longitude": 24.217232
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 42.086463,
+      "longitude": 23.058925
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 42.486119,
+      "longitude": 23.407358
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 42.565868,
+      "longitude": 25.609337
+    },
+    {
+      "name": "Български Пощи",
+      "latitude": 42.654948,
+      "longitude": 23.348625
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 42.795483,
+      "longitude": 23.447455
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 43.196028,
+      "longitude": 23.569499
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 43.488942,
+      "longitude": 27.476675
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 44.046403,
+      "longitude": 26.617208
+    },
+    {
+      "name": "Български пощи",
+      "latitude": 44.049896,
+      "longitude": 26.608164
+    },
+    {
+      "name": "Български пощи 1101",
+      "latitude": 42.665964,
+      "longitude": 23.354911
+    },
+    {
+      "name": "Български пощи 5312",
+      "latitude": 42.89292,
+      "longitude": 25.313182
+    },
+    {
+      "name": "Български пощи Благоевград Ц",
+      "latitude": 42.022096,
+      "longitude": 23.098197
+    },
+    {
+      "name": "Български пощи клон 1",
+      "latitude": 43.269724,
+      "longitude": 26.940817
+    },
+    {
+      "name": "Български разменно сортировъчен център",
+      "latitude": 42.716949,
+      "longitude": 23.436269
+    },
+    {
+      "name": "Бяла Вода",
+      "latitude": 43.628923,
+      "longitude": 25.042836
+    },
+    {
+      "name": "Бяла Русенско",
+      "latitude": 43.461148,
+      "longitude": 25.736556
+    },
+    {
+      "name": "Варна 9002",
+      "latitude": 43.209927,
+      "longitude": 27.92321
+    },
+    {
+      "name": "Варна, клон 25 (9025)",
+      "latitude": 43.233423,
+      "longitude": 27.893973
+    },
+    {
+      "name": "Васил Левски",
+      "latitude": 42.497047,
+      "longitude": 26.010887
+    },
+    {
+      "name": "Велико Търново",
+      "latitude": 43.081009,
+      "longitude": 25.604305
+    },
+    {
+      "name": "Велико Търново 2",
+      "latitude": 43.080681,
+      "longitude": 25.547483
+    },
+    {
+      "name": "Велинград",
+      "latitude": 42.025014,
+      "longitude": 23.993446
+    },
+    {
+      "name": "Ветово",
+      "latitude": 43.703277,
+      "longitude": 26.263591
+    },
+    {
+      "name": "Вива",
+      "latitude": 42.698147,
+      "longitude": 27.705754
+    },
+    {
+      "name": "Видин 1",
+      "latitude": 43.989359,
+      "longitude": 22.86491
+    },
+    {
+      "name": "Видин 2",
+      "latitude": 43.960274,
+      "longitude": 22.861742
+    },
+    {
+      "name": "ВИП",
+      "latitude": 42.145072,
+      "longitude": 24.760652
+    },
+    {
+      "name": "ВИП",
+      "latitude": 42.91984,
+      "longitude": 24.256076
+    },
+    {
+      "name": "Враца",
+      "latitude": 43.218009,
+      "longitude": 23.555975
+    },
+    {
+      "name": "Враца 2",
+      "latitude": 43.219629,
+      "longitude": 23.560995
+    },
+    {
+      "name": "Горна Оряховица",
+      "latitude": 43.123581,
+      "longitude": 25.688118
+    },
+    {
+      "name": "Гоце Делчев",
+      "latitude": 41.570714,
+      "longitude": 23.722686
+    },
+    {
+      "name": "Гоце Делчев",
+      "latitude": 41.572375,
+      "longitude": 23.730789
+    },
+    {
+      "name": "Градски Площад",
+      "latitude": 43.848336,
+      "longitude": 25.956517
+    },
+    {
+      "name": "Данъци и такси",
+      "latitude": 42.603484,
+      "longitude": 23.028258
+    },
+    {
+      "name": "Девня",
+      "latitude": 43.219494,
+      "longitude": 27.56179
+    },
+    {
+      "name": "Добрич",
+      "latitude": 43.550129,
+      "longitude": 27.825382
+    },
+    {
+      "name": "Добрич",
+      "latitude": 43.577572,
+      "longitude": 27.827754
+    },
+    {
+      "name": "Долни Чифлик",
+      "latitude": 42.99198,
+      "longitude": 27.718855
+    },
+    {
+      "name": "Дружба",
+      "latitude": 43.83132,
+      "longitude": 25.966303
+    },
+    {
+      "name": "Дряново",
+      "latitude": 42.974879,
+      "longitude": 25.478976
+    },
+    {
+      "name": "Дупница",
+      "latitude": 42.263661,
+      "longitude": 23.110802
+    },
+    {
+      "name": "Европът",
+      "latitude": 42.481911,
+      "longitude": 27.443107
+    },
+    {
+      "name": "Европът",
+      "latitude": 43.564769,
+      "longitude": 27.835167
+    },
+    {
+      "name": "Екзарх Йосиф 6",
+      "latitude": 41.644421,
+      "longitude": 25.371276
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.405395,
+      "longitude": 23.203217
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.497292,
+      "longitude": 25.300261
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.524267,
+      "longitude": 25.411755
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.567363,
+      "longitude": 23.279594
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.648448,
+      "longitude": 24.159208
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.726738,
+      "longitude": 24.686088
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.765798,
+      "longitude": 26.199979
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.76655,
+      "longitude": 26.197705
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.843945,
+      "longitude": 23.484826
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.883309,
+      "longitude": 23.460234
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.921964,
+      "longitude": 25.559041
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.928979,
+      "longitude": 25.508127
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.931339,
+      "longitude": 25.587468
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.933521,
+      "longitude": 25.547886
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.935553,
+      "longitude": 25.564358
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.937867,
+      "longitude": 25.536844
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.938638,
+      "longitude": 25.554133
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.943712,
+      "longitude": 25.558385
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.95413,
+      "longitude": 25.557845
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.986838,
+      "longitude": 24.087525
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.988978,
+      "longitude": 23.064277
+    },
+    {
+      "name": "Еконт",
+      "latitude": 41.995974,
+      "longitude": 23.088802
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.005161,
+      "longitude": 23.104594
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.014782,
+      "longitude": 23.084974
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.015284,
+      "longitude": 23.095656
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.020966,
+      "longitude": 23.093733
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.027095,
+      "longitude": 23.996196
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.032196,
+      "longitude": 24.305841
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.035405,
+      "longitude": 24.306747
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.049251,
+      "longitude": 24.469397
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.051572,
+      "longitude": 25.577032
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.057043,
+      "longitude": 24.546538
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.120166,
+      "longitude": 24.729123
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.128518,
+      "longitude": 24.703853
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.12954,
+      "longitude": 24.750085
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.12963,
+      "longitude": 24.726308
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.134315,
+      "longitude": 24.736143
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.135783,
+      "longitude": 24.789839
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.136984,
+      "longitude": 24.74908
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.138937,
+      "longitude": 24.757989
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.138973,
+      "longitude": 24.796894
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.140907,
+      "longitude": 24.740252
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.144617,
+      "longitude": 24.798938
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.146957,
+      "longitude": 24.727463
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.149877,
+      "longitude": 24.724187
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.154199,
+      "longitude": 24.761208
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.156565,
+      "longitude": 24.790811
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.157818,
+      "longitude": 24.739408
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.160196,
+      "longitude": 24.731727
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.172021,
+      "longitude": 26.569888
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.266413,
+      "longitude": 23.110679
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.28175,
+      "longitude": 22.685174
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.282024,
+      "longitude": 22.69139
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.335316,
+      "longitude": 23.558648
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.359311,
+      "longitude": 24.731833
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.413899,
+      "longitude": 27.697368
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.422322,
+      "longitude": 25.631004
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.427776,
+      "longitude": 25.646007
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.452428,
+      "longitude": 27.418804
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.469967,
+      "longitude": 26.521729
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.476503,
+      "longitude": 26.498506
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.48064,
+      "longitude": 26.4882
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.480782,
+      "longitude": 26.5139
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.482199,
+      "longitude": 26.499612
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.487264,
+      "longitude": 26.511965
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.487266,
+      "longitude": 26.488957
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.493144,
+      "longitude": 27.469566
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.497982,
+      "longitude": 27.476755
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.499142,
+      "longitude": 27.464037
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.499556,
+      "longitude": 26.52887
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.508946,
+      "longitude": 27.477013
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.521912,
+      "longitude": 27.463117
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.52245,
+      "longitude": 27.435984
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.524397,
+      "longitude": 27.453723
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.530157,
+      "longitude": 27.464349
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.566792,
+      "longitude": 27.616783
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.574044,
+      "longitude": 27.29267
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.596386,
+      "longitude": 23.411918
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.601899,
+      "longitude": 23.488742
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.6041,
+      "longitude": 23.10893
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.606405,
+      "longitude": 27.382103
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.617253,
+      "longitude": 25.383537
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.622193,
+      "longitude": 23.369735
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.623426,
+      "longitude": 23.582859
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.626247,
+      "longitude": 23.383822
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.631282,
+      "longitude": 23.407195
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.631512,
+      "longitude": 23.374398
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.63152,
+      "longitude": 23.33329
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.637364,
+      "longitude": 23.353571
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.639613,
+      "longitude": 23.3838
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.640326,
+      "longitude": 24.801777
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.641745,
+      "longitude": 23.369701
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.646202,
+      "longitude": 23.341175
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.647182,
+      "longitude": 23.333507
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.647477,
+      "longitude": 23.409462
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.647489,
+      "longitude": 23.402154
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.648155,
+      "longitude": 23.314689
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.650055,
+      "longitude": 23.363143
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.650102,
+      "longitude": 23.380723
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.651413,
+      "longitude": 23.293142
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.651709,
+      "longitude": 24.758175
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.651876,
+      "longitude": 26.984303
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.653446,
+      "longitude": 23.342269
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.654851,
+      "longitude": 23.372906
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.656419,
+      "longitude": 23.387015
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.657097,
+      "longitude": 23.401082
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.657107,
+      "longitude": 23.358237
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.658728,
+      "longitude": 23.412809
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.659157,
+      "longitude": 23.243022
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.659202,
+      "longitude": 27.714
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.660206,
+      "longitude": 23.287937
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.660616,
+      "longitude": 23.298275
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.661237,
+      "longitude": 23.317782
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.661799,
+      "longitude": 23.375814
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.66241,
+      "longitude": 23.277351
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.663539,
+      "longitude": 23.363038
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.664375,
+      "longitude": 23.262039
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.665169,
+      "longitude": 27.706797
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.665304,
+      "longitude": 23.249696
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.666765,
+      "longitude": 26.325244
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.666919,
+      "longitude": 23.35189
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.667174,
+      "longitude": 23.284801
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.668024,
+      "longitude": 23.391881
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.668479,
+      "longitude": 23.602901
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.669379,
+      "longitude": 23.316942
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.670524,
+      "longitude": 23.382572
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.671166,
+      "longitude": 23.327353
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.67173,
+      "longitude": 23.296341
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.672393,
+      "longitude": 23.392446
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.673387,
+      "longitude": 23.242742
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.674027,
+      "longitude": 23.607741
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.674037,
+      "longitude": 23.263198
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.674212,
+      "longitude": 23.282785
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.674394,
+      "longitude": 23.24306
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.677112,
+      "longitude": 23.290502
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.677316,
+      "longitude": 23.320328
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.677443,
+      "longitude": 23.37098
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.677649,
+      "longitude": 26.324178
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.679202,
+      "longitude": 23.253541
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.679894,
+      "longitude": 23.300842
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.680041,
+      "longitude": 23.311248
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.680625,
+      "longitude": 23.332237
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.681092,
+      "longitude": 23.28612
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.681809,
+      "longitude": 26.322927
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.682691,
+      "longitude": 23.271798
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.68285,
+      "longitude": 26.338706
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.683278,
+      "longitude": 23.242687
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.688986,
+      "longitude": 23.250162
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.68976,
+      "longitude": 23.315304
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.689966,
+      "longitude": 23.339951
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.690117,
+      "longitude": 23.311542
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.690508,
+      "longitude": 23.294172
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.692955,
+      "longitude": 23.325493
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.693402,
+      "longitude": 23.331434
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.693768,
+      "longitude": 23.353668
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.695133,
+      "longitude": 23.360396
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.696486,
+      "longitude": 23.337091
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.699245,
+      "longitude": 23.308008
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.699317,
+      "longitude": 23.318554
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.700634,
+      "longitude": 23.294797
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.701824,
+      "longitude": 23.354613
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.701946,
+      "longitude": 23.329353
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.702728,
+      "longitude": 23.312929
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.703017,
+      "longitude": 23.304974
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.703682,
+      "longitude": 23.324353
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.70377,
+      "longitude": 27.253774
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.70438,
+      "longitude": 23.385023
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.7052,
+      "longitude": 23.306009
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.707146,
+      "longitude": 23.298211
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.707317,
+      "longitude": 23.325769
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.708028,
+      "longitude": 23.343032
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.709925,
+      "longitude": 23.29048
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.711331,
+      "longitude": 23.314885
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.713008,
+      "longitude": 24.140417
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.713559,
+      "longitude": 23.245672
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.713927,
+      "longitude": 23.341884
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.71454,
+      "longitude": 23.172017
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.714816,
+      "longitude": 23.298383
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.715871,
+      "longitude": 23.358745
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.716001,
+      "longitude": 23.268519
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.720542,
+      "longitude": 23.242276
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.721419,
+      "longitude": 23.257006
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.724054,
+      "longitude": 23.25951
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.72478,
+      "longitude": 23.271061
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.724909,
+      "longitude": 23.30578
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.729035,
+      "longitude": 23.298693
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.730776,
+      "longitude": 23.252407
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.733411,
+      "longitude": 23.290165
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.737175,
+      "longitude": 23.301572
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.739675,
+      "longitude": 23.313257
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.745097,
+      "longitude": 23.34836
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.765904,
+      "longitude": 23.19606
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.768041,
+      "longitude": 23.407127
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.778122,
+      "longitude": 23.274563
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.808975,
+      "longitude": 23.213259
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.809992,
+      "longitude": 23.215756
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.868658,
+      "longitude": 25.315596
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.871263,
+      "longitude": 24.711077
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.880962,
+      "longitude": 25.31446
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.88215,
+      "longitude": 24.71282
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.884304,
+      "longitude": 25.313333
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.889508,
+      "longitude": 24.709508
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.908782,
+      "longitude": 23.790789
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.930041,
+      "longitude": 25.874675
+    },
+    {
+      "name": "Еконт",
+      "latitude": 42.993119,
+      "longitude": 26.671681
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.032663,
+      "longitude": 24.100075
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.072429,
+      "longitude": 25.605911
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.073655,
+      "longitude": 25.618749
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.078822,
+      "longitude": 25.620311
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.079515,
+      "longitude": 25.633567
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.080568,
+      "longitude": 25.606303
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.084045,
+      "longitude": 25.62265
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.085075,
+      "longitude": 25.635529
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.107016,
+      "longitude": 25.714255
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.122363,
+      "longitude": 25.692521
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.131394,
+      "longitude": 24.716817
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.132647,
+      "longitude": 24.715557
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.181848,
+      "longitude": 27.444308
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.193431,
+      "longitude": 27.710244
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.193521,
+      "longitude": 23.285002
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.199498,
+      "longitude": 27.910907
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.20422,
+      "longitude": 27.918582
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.207555,
+      "longitude": 23.558726
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.210603,
+      "longitude": 27.899236
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.211596,
+      "longitude": 27.919895
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.218235,
+      "longitude": 27.920643
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.218932,
+      "longitude": 27.927518
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.219223,
+      "longitude": 27.863952
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.221674,
+      "longitude": 27.934168
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.22318,
+      "longitude": 27.91282
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.224144,
+      "longitude": 27.880393
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.22508,
+      "longitude": 27.901099
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.226142,
+      "longitude": 27.946652
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.226493,
+      "longitude": 27.923264
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.226606,
+      "longitude": 25.961118
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.230219,
+      "longitude": 27.870452
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.233264,
+      "longitude": 27.896892
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.237177,
+      "longitude": 25.306793
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.237813,
+      "longitude": 25.306439
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.248129,
+      "longitude": 26.570627
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.253224,
+      "longitude": 26.96525
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.253344,
+      "longitude": 26.964395
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.265361,
+      "longitude": 26.932689
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.272423,
+      "longitude": 26.924004
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.342024,
+      "longitude": 27.19775
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.361689,
+      "longitude": 25.14207
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.367386,
+      "longitude": 25.635079
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.400422,
+      "longitude": 24.622219
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.401011,
+      "longitude": 23.232868
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.401399,
+      "longitude": 23.221286
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.407233,
+      "longitude": 24.625036
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.414718,
+      "longitude": 24.623022
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.415664,
+      "longitude": 24.612055
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.471585,
+      "longitude": 23.946387
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.537317,
+      "longitude": 28.534985
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.564316,
+      "longitude": 27.825058
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.570748,
+      "longitude": 27.825671
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.585986,
+      "longitude": 27.820964
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.626975,
+      "longitude": 22.683799
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.695627,
+      "longitude": 23.445088
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.701509,
+      "longitude": 28.038746
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.713624,
+      "longitude": 26.832125
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.818885,
+      "longitude": 27.140008
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.842573,
+      "longitude": 25.953644
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.850012,
+      "longitude": 25.993531
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.85603,
+      "longitude": 25.969531
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.873908,
+      "longitude": 26.009725
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.984943,
+      "longitude": 22.874042
+    },
+    {
+      "name": "Еконт",
+      "latitude": 43.987214,
+      "longitude": 22.8786
+    },
+    {
+      "name": "Еконт - Илиянци - Втора база",
+      "latitude": 42.742243,
+      "longitude": 23.310413
+    },
+    {
+      "name": "Еконт - Офис Кончето",
+      "latitude": 42.019688,
+      "longitude": 23.084561
+    },
+    {
+      "name": "Еконт Горублянско ханче",
+      "latitude": 42.637892,
+      "longitude": 23.415173
+    },
+    {
+      "name": "Еконт офис Козлодуй Георги Димитров",
+      "latitude": 43.78068,
+      "longitude": 23.724698
+    },
+    {
+      "name": "Еконт офис Козлодуй Търговска",
+      "latitude": 43.775947,
+      "longitude": 23.727641
+    },
+    {
+      "name": "Еконт офис Хаджи Димитър Асенов",
+      "latitude": 42.425943,
+      "longitude": 25.624078
+    },
+    {
+      "name": "Железник",
+      "latitude": 42.413958,
+      "longitude": 25.600097
+    },
+    {
+      "name": "Загражден",
+      "latitude": 41.719888,
+      "longitude": 24.994133
+    },
+    {
+      "name": "Златоград",
+      "latitude": 41.380386,
+      "longitude": 25.098422
+    },
+    {
+      "name": "Интерлогистика",
+      "latitude": 41.930569,
+      "longitude": 25.558912
+    },
+    {
+      "name": "Ихтиман",
+      "latitude": 42.44159,
+      "longitude": 23.81374
+    },
+    {
+      "name": "Каварна",
+      "latitude": 43.434,
+      "longitude": 28.335363
+    },
+    {
+      "name": "Казанлък",
+      "latitude": 42.617911,
+      "longitude": 25.390117
+    },
+    {
+      "name": "Казанлък",
+      "latitude": 42.624176,
+      "longitude": 25.385439
+    },
+    {
+      "name": "Казанлък - склад Батенберг",
+      "latitude": 42.615211,
+      "longitude": 25.418164
+    },
+    {
+      "name": "Каменица",
+      "latitude": 42.033301,
+      "longitude": 23.989628
+    },
+    {
+      "name": "Камено",
+      "latitude": 42.563591,
+      "longitude": 27.296097
+    },
+    {
+      "name": "Канала",
+      "latitude": 42.185973,
+      "longitude": 24.328107
+    },
+    {
+      "name": "Карлово",
+      "latitude": 42.647305,
+      "longitude": 24.807954
+    },
+    {
+      "name": "Карнобат",
+      "latitude": 42.648751,
+      "longitude": 26.985118
+    },
+    {
+      "name": "Кирково",
+      "latitude": 41.32905,
+      "longitude": 25.364889
+    },
+    {
+      "name": "Клисура",
+      "latitude": 42.6936,
+      "longitude": 24.449617
+    },
+    {
+      "name": "Клуцохор",
+      "latitude": 42.680295,
+      "longitude": 26.306002
+    },
+    {
+      "name": "Кнежа",
+      "latitude": 43.493198,
+      "longitude": 24.075855
+    },
+    {
+      "name": "Козлодуй",
+      "latitude": 42.707159,
+      "longitude": 23.326103
+    },
+    {
+      "name": "Колетна служба",
+      "latitude": 42.693272,
+      "longitude": 23.32542
+    },
+    {
+      "name": "Костенец",
+      "latitude": 42.308901,
+      "longitude": 23.856934
+    },
+    {
+      "name": "Красава",
+      "latitude": 42.788268,
+      "longitude": 22.867058
+    },
+    {
+      "name": "Криводол",
+      "latitude": 43.371243,
+      "longitude": 23.480204
+    },
+    {
+      "name": "Крум Бъчваров",
+      "latitude": 43.826924,
+      "longitude": 23.236774
+    },
+    {
+      "name": "Крум Бъчваров",
+      "latitude": 43.998974,
+      "longitude": 22.871059
+    },
+    {
+      "name": "Круша",
+      "latitude": 42.899817,
+      "longitude": 22.78626
+    },
+    {
+      "name": "КТМ",
+      "latitude": 43.883601,
+      "longitude": 26.025362
+    },
+    {
+      "name": "Кубрат",
+      "latitude": 43.797095,
+      "longitude": 26.499563
+    },
+    {
+      "name": "Куманово 9153",
+      "latitude": 43.270096,
+      "longitude": 27.936726
+    },
+    {
+      "name": "Кърджали",
+      "latitude": 41.633216,
+      "longitude": 25.382841
+    },
+    {
+      "name": "Левски зона Г 2",
+      "latitude": 42.710809,
+      "longitude": 23.377872
+    },
+    {
+      "name": "Лео Експрес",
+      "latitude": 42.720937,
+      "longitude": 23.329572
+    },
+    {
+      "name": "Леярен",
+      "latitude": 43.568612,
+      "longitude": 27.802264
+    },
+    {
+      "name": "ЛЛЦ Запад",
+      "latitude": 42.685784,
+      "longitude": 23.281947
+    },
+    {
+      "name": "Ловеч",
+      "latitude": 43.137727,
+      "longitude": 24.704368
+    },
+    {
+      "name": "Лом",
+      "latitude": 43.817118,
+      "longitude": 23.238352
+    },
+    {
+      "name": "Луковит",
+      "latitude": 43.206815,
+      "longitude": 24.161478
+    },
+    {
+      "name": "Любимец",
+      "latitude": 41.843533,
+      "longitude": 26.08007
+    },
+    {
+      "name": "Лясковец - склад",
+      "latitude": 43.102882,
+      "longitude": 25.722844
+    },
+    {
+      "name": "Мадара",
+      "latitude": 42.876875,
+      "longitude": 25.320946
+    },
+    {
+      "name": "Македония",
+      "latitude": 44.120445,
+      "longitude": 27.268312
+    },
+    {
+      "name": "Мебелна къща",
+      "latitude": 42.130071,
+      "longitude": 24.777163
+    },
+    {
+      "name": "Мездра",
+      "latitude": 43.14491,
+      "longitude": 23.716488
+    },
+    {
+      "name": "Мизия",
+      "latitude": 43.691731,
+      "longitude": 23.856665
+    },
+    {
+      "name": "Младост",
+      "latitude": 43.227911,
+      "longitude": 27.889501
+    },
+    {
+      "name": "Монопола",
+      "latitude": 41.398563,
+      "longitude": 23.207309
+    },
+    {
+      "name": "Монтана 2",
+      "latitude": 43.403027,
+      "longitude": 23.24732
+    },
+    {
+      "name": "Неделино",
+      "latitude": 41.45445,
+      "longitude": 25.081921
+    },
+    {
+      "name": "Нова Поща",
+      "latitude": 43.575356,
+      "longitude": 27.845696
+    },
+    {
+      "name": "Новата Поща",
+      "latitude": 42.503586,
+      "longitude": 27.470708
+    },
+    {
+      "name": "Обреден дом",
+      "latitude": 43.201415,
+      "longitude": 27.910252
+    },
+    {
+      "name": "Общината",
+      "latitude": 43.496169,
+      "longitude": 24.07926
+    },
+    {
+      "name": "Опака",
+      "latitude": 43.444838,
+      "longitude": 26.165799
+    },
+    {
+      "name": "Оряхово",
+      "latitude": 43.736936,
+      "longitude": 23.959303
+    },
+    {
+      "name": "Осеновлаг",
+      "latitude": 42.967189,
+      "longitude": 23.536494
+    },
+    {
+      "name": "офис Полски Тръмбеш 5180",
+      "latitude": 43.37026,
+      "longitude": 25.636875
+    },
+    {
+      "name": "П.К. 2375",
+      "latitude": 42.659399,
+      "longitude": 22.931192
+    },
+    {
+      "name": "Пазар на производителите",
+      "latitude": 42.639198,
+      "longitude": 26.296512
+    },
+    {
+      "name": "Пазара",
+      "latitude": 42.60568,
+      "longitude": 23.033655
+    },
+    {
+      "name": "Пазара",
+      "latitude": 43.141832,
+      "longitude": 24.717778
+    },
+    {
+      "name": "Пазара",
+      "latitude": 43.250513,
+      "longitude": 26.570748
+    },
+    {
+      "name": "Пазарджик",
+      "latitude": 42.175715,
+      "longitude": 24.330761
+    },
+    {
+      "name": "Пазарджик",
+      "latitude": 42.187445,
+      "longitude": 24.353543
+    },
+    {
+      "name": "Панагюрище",
+      "latitude": 42.504695,
+      "longitude": 24.188444
+    },
+    {
+      "name": "Паспортна служба",
+      "latitude": 41.472852,
+      "longitude": 25.651366
+    },
+    {
+      "name": "Патриарха",
+      "latitude": 43.214782,
+      "longitude": 27.899884
+    },
+    {
+      "name": "Петолини",
+      "latitude": 42.497548,
+      "longitude": 26.003088
+    },
+    {
+      "name": "ПК 2118",
+      "latitude": 42.633672,
+      "longitude": 23.68721
+    },
+    {
+      "name": "ПК №4",
+      "latitude": 41.932843,
+      "longitude": 25.56148
+    },
+    {
+      "name": "ПК6014",
+      "latitude": 42.412921,
+      "longitude": 25.590581
+    },
+    {
+      "name": "пл. Руски",
+      "latitude": 43.207897,
+      "longitude": 23.546474
+    },
+    {
+      "name": "Плевен",
+      "latitude": 43.42717,
+      "longitude": 24.614602
+    },
+    {
+      "name": "Пловдив 1",
+      "latitude": 42.167849,
+      "longitude": 24.750175
+    },
+    {
+      "name": "Пловдив 4",
+      "latitude": 42.119865,
+      "longitude": 24.760668
+    },
+    {
+      "name": "Площада",
+      "latitude": 42.201253,
+      "longitude": 25.325708
+    },
+    {
+      "name": "Площада",
+      "latitude": 43.179613,
+      "longitude": 27.442895
+    },
+    {
+      "name": "Поморие",
+      "latitude": 42.560465,
+      "longitude": 27.63623
+    },
+    {
+      "name": "Попово",
+      "latitude": 43.348759,
+      "longitude": 26.221166
+    },
+    {
+      "name": "Пощ. клон 6500",
+      "latitude": 41.765222,
+      "longitude": 26.20316
+    },
+    {
+      "name": "Пощ. клон 6517",
+      "latitude": 41.775053,
+      "longitude": 26.145585
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.377657,
+      "longitude": 25.257171
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.37938,
+      "longitude": 25.094794
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.498673,
+      "longitude": 24.939179
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.523181,
+      "longitude": 23.39364
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.572949,
+      "longitude": 24.781157
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.583316,
+      "longitude": 25.134079
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.632821,
+      "longitude": 25.860083
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.642534,
+      "longitude": 25.368886
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.684498,
+      "longitude": 23.826455
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.832199,
+      "longitude": 24.830083
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.867424,
+      "longitude": 25.452699
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.900465,
+      "longitude": 25.004994
+    },
+    {
+      "name": "Поща",
+      "latitude": 41.962679,
+      "longitude": 25.347423
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.025474,
+      "longitude": 24.371161
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.075286,
+      "longitude": 24.664473
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.131863,
+      "longitude": 25.49803
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.148193,
+      "longitude": 24.412995
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.191726,
+      "longitude": 23.987969
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.198876,
+      "longitude": 25.6401
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.215362,
+      "longitude": 25.22899
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.270975,
+      "longitude": 23.606145
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.281445,
+      "longitude": 22.687718
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.288867,
+      "longitude": 24.966846
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.341342,
+      "longitude": 24.488579
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.354805,
+      "longitude": 26.360676
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.355716,
+      "longitude": 25.837623
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.362345,
+      "longitude": 26.709361
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.422687,
+      "longitude": 27.694011
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.426345,
+      "longitude": 25.629875
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.434124,
+      "longitude": 25.95028
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.441802,
+      "longitude": 25.846411
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.444539,
+      "longitude": 27.638163
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.505884,
+      "longitude": 24.321887
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.545968,
+      "longitude": 25.996755
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.5607,
+      "longitude": 23.093281
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.566947,
+      "longitude": 23.184413
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.573857,
+      "longitude": 25.546465
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.582172,
+      "longitude": 25.371688
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.597139,
+      "longitude": 25.206977
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.599283,
+      "longitude": 25.032446
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.626784,
+      "longitude": 25.162558
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.634113,
+      "longitude": 25.23205
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.65433,
+      "longitude": 24.75505
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.667206,
+      "longitude": 25.407917
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.671373,
+      "longitude": 25.351165
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.685609,
+      "longitude": 25.319084
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.770735,
+      "longitude": 26.880191
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.779035,
+      "longitude": 23.145645
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.842503,
+      "longitude": 26.557937
+    },
+    {
+      "name": "Поща",
+      "latitude": 42.959399,
+      "longitude": 23.349957
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.021914,
+      "longitude": 24.810669
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.053138,
+      "longitude": 23.409645
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.146797,
+      "longitude": 23.925191
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.157219,
+      "longitude": 24.510469
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.161885,
+      "longitude": 26.809312
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.20565,
+      "longitude": 25.312157
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.215459,
+      "longitude": 27.820671
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.246453,
+      "longitude": 27.982867
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.348915,
+      "longitude": 26.227494
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.408168,
+      "longitude": 25.88019
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.568712,
+      "longitude": 27.830843
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.608905,
+      "longitude": 26.238749
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.624908,
+      "longitude": 28.567327
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.638886,
+      "longitude": 27.831269
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.691171,
+      "longitude": 23.855361
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.693868,
+      "longitude": 23.444833
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.70133,
+      "longitude": 28.038231
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.712402,
+      "longitude": 26.475763
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.825136,
+      "longitude": 27.140869
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.920712,
+      "longitude": 26.082638
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.930967,
+      "longitude": 26.234407
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.982283,
+      "longitude": 26.301998
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.987566,
+      "longitude": 26.245653
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.990582,
+      "longitude": 26.54191
+    },
+    {
+      "name": "Поща",
+      "latitude": 43.996512,
+      "longitude": 26.364335
+    },
+    {
+      "name": "Поща",
+      "latitude": 44.000092,
+      "longitude": 26.463525
+    },
+    {
+      "name": "Поща",
+      "latitude": 44.028771,
+      "longitude": 22.751069
+    },
+    {
+      "name": "Поща - град Смядово",
+      "latitude": 43.064015,
+      "longitude": 27.012929
+    },
+    {
+      "name": "Поща - ж.к. \"Дружба\"",
+      "latitude": 43.404726,
+      "longitude": 24.635441
+    },
+    {
+      "name": "Поща 1271",
+      "latitude": 42.750771,
+      "longitude": 23.318184
+    },
+    {
+      "name": "Поща 2158",
+      "latitude": 43.030127,
+      "longitude": 23.75584
+    },
+    {
+      "name": "Поща 2278",
+      "latitude": 43.019918,
+      "longitude": 23.212045
+    },
+    {
+      "name": "Поща 3540",
+      "latitude": 43.190104,
+      "longitude": 23.283381
+    },
+    {
+      "name": "Поща 3541",
+      "latitude": 43.175745,
+      "longitude": 23.263365
+    },
+    {
+      "name": "Поща 5175 Ново Градище",
+      "latitude": 43.211322,
+      "longitude": 26.058164
+    },
+    {
+      "name": "Поща 6542",
+      "latitude": 41.846579,
+      "longitude": 26.148563
+    },
+    {
+      "name": "Поща 6900",
+      "latitude": 41.471122,
+      "longitude": 25.65371
+    },
+    {
+      "name": "Поща 8658",
+      "latitude": 42.378075,
+      "longitude": 26.744755
+    },
+    {
+      "name": "Поща Ботевград",
+      "latitude": 42.906677,
+      "longitude": 23.790411
+    },
+    {
+      "name": "поща Горно Павлекене",
+      "latitude": 43.102149,
+      "longitude": 24.797173
+    },
+    {
+      "name": "Поща Долапите",
+      "latitude": 43.797521,
+      "longitude": 25.931812
+    },
+    {
+      "name": "Поща Дружаба",
+      "latitude": 43.830337,
+      "longitude": 25.969864
+    },
+    {
+      "name": "поща Игнатица",
+      "latitude": 43.0679,
+      "longitude": 23.59227
+    },
+    {
+      "name": "Поща Карлуково",
+      "latitude": 43.165464,
+      "longitude": 24.066901
+    },
+    {
+      "name": "Поща към Митница София",
+      "latitude": 42.709526,
+      "longitude": 23.324665
+    },
+    {
+      "name": "Поща Ловнидол",
+      "latitude": 42.996626,
+      "longitude": 25.249068
+    },
+    {
+      "name": "Поща Николаево",
+      "latitude": 42.630463,
+      "longitude": 25.792326
+    },
+    {
+      "name": "Поща ПК4701",
+      "latitude": 41.568272,
+      "longitude": 24.73216
+    },
+    {
+      "name": "Поща Равногор",
+      "latitude": 41.952527,
+      "longitude": 24.368027
+    },
+    {
+      "name": "Поща Раднево",
+      "latitude": 42.29042,
+      "longitude": 25.928034
+    },
+    {
+      "name": "Поща с.Езерче",
+      "latitude": 43.557958,
+      "longitude": 26.308648
+    },
+    {
+      "name": "Поща с.Пожарево",
+      "latitude": 42.755392,
+      "longitude": 23.128685
+    },
+    {
+      "name": "Поща Тева 2",
+      "latitude": 42.614871,
+      "longitude": 23.065495
+    },
+    {
+      "name": "Поща Церово",
+      "latitude": 42.358085,
+      "longitude": 24.05166
+    },
+    {
+      "name": "Пощаенски клон",
+      "latitude": 43.849765,
+      "longitude": 25.991591
+    },
+    {
+      "name": "Пощенска служба",
+      "latitude": 42.016684,
+      "longitude": 25.29549
+    },
+    {
+      "name": "Пощенска станция",
+      "latitude": 42.361119,
+      "longitude": 23.380395
+    },
+    {
+      "name": "Пощенска Станция",
+      "latitude": 42.417488,
+      "longitude": 27.696885
+    },
+    {
+      "name": "Пощенска станция",
+      "latitude": 42.580784,
+      "longitude": 23.167284
+    },
+    {
+      "name": "пощенска станция",
+      "latitude": 42.658409,
+      "longitude": 27.73304
+    },
+    {
+      "name": "Пощенска станция",
+      "latitude": 43.044871,
+      "longitude": 25.890181
+    },
+    {
+      "name": "Пощенска станция",
+      "latitude": 43.826951,
+      "longitude": 26.925046
+    },
+    {
+      "name": "Пощенска станция - Варна 1",
+      "latitude": 43.204707,
+      "longitude": 27.922337
+    },
+    {
+      "name": "Пощенска станция - Варна 18",
+      "latitude": 43.210598,
+      "longitude": 27.911481
+    },
+    {
+      "name": "Пощенска станция - Ябланица",
+      "latitude": 43.025245,
+      "longitude": 24.100804
+    },
+    {
+      "name": "Пощенска станция 111",
+      "latitude": 42.819308,
+      "longitude": 23.250782
+    },
+    {
+      "name": "Пощенска станция 1166",
+      "latitude": 42.621215,
+      "longitude": 23.368636
+    },
+    {
+      "name": "пощенска станция 1475 София",
+      "latitude": 42.533545,
+      "longitude": 23.366451
+    },
+    {
+      "name": "Пощенска станция 2111",
+      "latitude": 42.670242,
+      "longitude": 23.651996
+    },
+    {
+      "name": "Пощенска станция 2285",
+      "latitude": 42.92446,
+      "longitude": 23.376765
+    },
+    {
+      "name": "Пощенска станция 2299",
+      "latitude": 42.864867,
+      "longitude": 23.368733
+    },
+    {
+      "name": "Пощенска станция 2897",
+      "latitude": 41.365349,
+      "longitude": 22.999318
+    },
+    {
+      "name": "Пощенска станция 5070",
+      "latitude": 42.929643,
+      "longitude": 25.875232
+    },
+    {
+      "name": "Пощенска станция 5301",
+      "latitude": 42.853558,
+      "longitude": 25.338071
+    },
+    {
+      "name": "Пощенска станция 5306",
+      "latitude": 42.878416,
+      "longitude": 25.315255
+    },
+    {
+      "name": "Пощенска станция 5350",
+      "latitude": 42.866137,
+      "longitude": 25.490735
+    },
+    {
+      "name": "Пощенска станция 5370",
+      "latitude": 42.975462,
+      "longitude": 25.475282
+    },
+    {
+      "name": "Пощенска станция 6280",
+      "latitude": 42.138282,
+      "longitude": 25.867063
+    },
+    {
+      "name": "Пощенска станция 6285",
+      "latitude": 42.145171,
+      "longitude": 25.874446
+    },
+    {
+      "name": "Пощенска станция 9021",
+      "latitude": 43.164854,
+      "longitude": 27.935881
+    },
+    {
+      "name": "Пощенска станция 9410",
+      "latitude": 43.813492,
+      "longitude": 27.754231
+    },
+    {
+      "name": "Пощенска станция Ахтопол",
+      "latitude": 42.09954,
+      "longitude": 27.943045
+    },
+    {
+      "name": "Пощенска станция Видраре 2166",
+      "latitude": 42.993987,
+      "longitude": 24.010324
+    },
+    {
+      "name": "Пощенска станция град Царево",
+      "latitude": 42.17085,
+      "longitude": 27.851318
+    },
+    {
+      "name": "Пощенска станция Етрополе 2180",
+      "latitude": 42.830228,
+      "longitude": 23.993898
+    },
+    {
+      "name": "Пощенска Станция Златосел",
+      "latitude": 42.414668,
+      "longitude": 25.014502
+    },
+    {
+      "name": "Пощенска станция Калугерово 2169",
+      "latitude": 42.990411,
+      "longitude": 23.894896
+    },
+    {
+      "name": "Пощенска станция клон 14",
+      "latitude": 42.44513,
+      "longitude": 27.486891
+    },
+    {
+      "name": "Пощенска станция клон 15",
+      "latitude": 42.532727,
+      "longitude": 27.409219
+    },
+    {
+      "name": "Пощенска станция клон 18",
+      "latitude": 42.516507,
+      "longitude": 27.465516
+    },
+    {
+      "name": "Пощенска станция клон 8",
+      "latitude": 42.523513,
+      "longitude": 27.465046
+    },
+    {
+      "name": "Пощенска станция Кутово",
+      "latitude": 44.030258,
+      "longitude": 22.96614
+    },
+    {
+      "name": "Пощенска станция Манаселска река 2168",
+      "latitude": 43.04165,
+      "longitude": 24.015851
+    },
+    {
+      "name": "Пощенска станция Марикостиново",
+      "latitude": 41.431274,
+      "longitude": 23.338608
+    },
+    {
+      "name": "Пощенска станция Невша",
+      "latitude": 43.271247,
+      "longitude": 27.299713
+    },
+    {
+      "name": "Пощенска станция Осиковица 2164",
+      "latitude": 42.936699,
+      "longitude": 24.010344
+    },
+    {
+      "name": "Пощенска станция Равнище - 2167",
+      "latitude": 42.996326,
+      "longitude": 24.047155
+    },
+    {
+      "name": "Пощенска станция Своде 2171",
+      "latitude": 43.015293,
+      "longitude": 23.879251
+    },
+    {
+      "name": "Пощенска станция София 44",
+      "latitude": 42.585283,
+      "longitude": 23.359784
+    },
+    {
+      "name": "Пощенска станция Сумер 3491",
+      "latitude": 43.33273,
+      "longitude": 23.332427
+    },
+    {
+      "name": "Пощенски клон - Змейово",
+      "latitude": 42.499273,
+      "longitude": 25.616434
+    },
+    {
+      "name": "Пощенски клон - ПК6003",
+      "latitude": 42.421483,
+      "longitude": 25.614743
+    },
+    {
+      "name": "Пощенски клон - ПК6004",
+      "latitude": 42.430726,
+      "longitude": 25.618639
+    },
+    {
+      "name": "Пощенски клон - ПК6011",
+      "latitude": 42.428074,
+      "longitude": 25.685286
+    },
+    {
+      "name": "Пощенски клон -ПК6010",
+      "latitude": 42.417866,
+      "longitude": 25.60418
+    },
+    {
+      "name": "Пощенски клон 23 (9023)",
+      "latitude": 43.246257,
+      "longitude": 27.852654
+    },
+    {
+      "name": "Пощенски клон 2557",
+      "latitude": 42.551257,
+      "longitude": 22.598457
+    },
+    {
+      "name": "Пощенски клон 27 (9027)",
+      "latitude": 43.229408,
+      "longitude": 27.87272
+    },
+    {
+      "name": "Пощенски клон 2815",
+      "latitude": 41.43807,
+      "longitude": 23.504577
+    },
+    {
+      "name": "Пощенски клон 6301",
+      "latitude": 41.93483,
+      "longitude": 25.542381
+    },
+    {
+      "name": "Пощенски клон 9 - ПК 6009",
+      "latitude": 42.430801,
+      "longitude": 25.645866
+    },
+    {
+      "name": "Пощенски клон ПК6002",
+      "latitude": 42.425046,
+      "longitude": 25.616436
+    },
+    {
+      "name": "Приморско",
+      "latitude": 42.266919,
+      "longitude": 27.746965
+    },
+    {
+      "name": "Приселци",
+      "latitude": 42.824177,
+      "longitude": 27.800596
+    },
+    {
+      "name": "Профи",
+      "latitude": 42.193218,
+      "longitude": 24.330216
+    },
+    {
+      "name": "ПС 1261",
+      "latitude": 42.785883,
+      "longitude": 23.274135
+    },
+    {
+      "name": "ПС 1309",
+      "latitude": 42.70927,
+      "longitude": 23.300537
+    },
+    {
+      "name": "ПС 1700",
+      "latitude": 42.649981,
+      "longitude": 23.340618
+    },
+    {
+      "name": "ПС 2100",
+      "latitude": 42.667785,
+      "longitude": 23.600631
+    },
+    {
+      "name": "ПС 2112",
+      "latitude": 42.535128,
+      "longitude": 23.609603
+    },
+    {
+      "name": "ПС 2119",
+      "latitude": 42.642359,
+      "longitude": 23.642319
+    },
+    {
+      "name": "ПС 3797",
+      "latitude": 44.187631,
+      "longitude": 22.646311
+    },
+    {
+      "name": "ПС 9",
+      "latitude": 42.456042,
+      "longitude": 27.409454
+    },
+    {
+      "name": "ПС София - 1616",
+      "latitude": 42.648709,
+      "longitude": 23.263004
+    },
+    {
+      "name": "ПТС 15",
+      "latitude": 43.219575,
+      "longitude": 27.914408
+    },
+    {
+      "name": "ПТС 2400",
+      "latitude": 42.547542,
+      "longitude": 22.966691
+    },
+    {
+      "name": "ПТС 7740 - Надарево",
+      "latitude": 43.23731,
+      "longitude": 26.754476
+    },
+    {
+      "name": "ПТС 9004",
+      "latitude": 43.21339,
+      "longitude": 27.904045
+    },
+    {
+      "name": "ПТС 9019",
+      "latitude": 43.221483,
+      "longitude": 27.879396
+    },
+    {
+      "name": "ПТС 9020",
+      "latitude": 43.233759,
+      "longitude": 27.880691
+    },
+    {
+      "name": "ПТС 9155 Осеново",
+      "latitude": 43.32296,
+      "longitude": 28.010443
+    },
+    {
+      "name": "ПТС 9201",
+      "latitude": 43.188469,
+      "longitude": 27.445687
+    },
+    {
+      "name": "ПТС 9649 Кранево",
+      "latitude": 43.342648,
+      "longitude": 28.054114
+    },
+    {
+      "name": "ПТС Нови Пазар 9900",
+      "latitude": 43.346093,
+      "longitude": 27.194254
+    },
+    {
+      "name": "ПТТС 1202",
+      "latitude": 42.704507,
+      "longitude": 23.324402
+    },
+    {
+      "name": "ПТТС 1221",
+      "latitude": 42.803036,
+      "longitude": 23.403876
+    },
+    {
+      "name": "ПТТС 1289",
+      "latitude": 42.791217,
+      "longitude": 23.304355
+    },
+    {
+      "name": "ПТТС 1594",
+      "latitude": 42.697798,
+      "longitude": 23.324514
+    },
+    {
+      "name": "ПТТС 1614",
+      "latitude": 42.675516,
+      "longitude": 23.240768
+    },
+    {
+      "name": "ПТТС 1618",
+      "latitude": 42.671226,
+      "longitude": 23.272247
+    },
+    {
+      "name": "ПТТС 2282",
+      "latitude": 43.045027,
+      "longitude": 23.296251
+    },
+    {
+      "name": "ПТТС 2284",
+      "latitude": 43.040346,
+      "longitude": 23.329565
+    },
+    {
+      "name": "ПТТС 2415",
+      "latitude": 42.432693,
+      "longitude": 22.89746
+    },
+    {
+      "name": "ПТТС 2440",
+      "latitude": 42.480536,
+      "longitude": 22.748966
+    },
+    {
+      "name": "ПТТС 2630",
+      "latitude": 42.125095,
+      "longitude": 23.132919
+    },
+    {
+      "name": "ПТТС 2850",
+      "latitude": 41.392668,
+      "longitude": 23.209065
+    },
+    {
+      "name": "ПТТС 3051",
+      "latitude": 43.323099,
+      "longitude": 23.522793
+    },
+    {
+      "name": "ПТТС 3110",
+      "latitude": 43.144018,
+      "longitude": 23.715365
+    },
+    {
+      "name": "ПТТС 4016",
+      "latitude": 42.099667,
+      "longitude": 24.702898
+    },
+    {
+      "name": "ПТТС 4023",
+      "latitude": 42.134356,
+      "longitude": 24.788173
+    },
+    {
+      "name": "ПТТС 4030",
+      "latitude": 42.127825,
+      "longitude": 24.748011
+    },
+    {
+      "name": "ПТТС 4180",
+      "latitude": 42.502935,
+      "longitude": 24.706272
+    },
+    {
+      "name": "ПТТС 4224",
+      "latitude": 42.076097,
+      "longitude": 24.595693
+    },
+    {
+      "name": "ПТТС 4225",
+      "latitude": 42.06006,
+      "longitude": 24.548621
+    },
+    {
+      "name": "ПТТС 4370",
+      "latitude": 42.610404,
+      "longitude": 24.978071
+    },
+    {
+      "name": "ПТТС 4444",
+      "latitude": 42.271309,
+      "longitude": 24.316652
+    },
+    {
+      "name": "ПТТС 5004",
+      "latitude": 43.061162,
+      "longitude": 25.599388
+    },
+    {
+      "name": "ПТТС 5007",
+      "latitude": 43.084591,
+      "longitude": 25.620627
+    },
+    {
+      "name": "ПТТС 5008",
+      "latitude": 43.068382,
+      "longitude": 25.612192
+    },
+    {
+      "name": "ПТТС 5050",
+      "latitude": 42.993641,
+      "longitude": 25.622713
+    },
+    {
+      "name": "ПТТС 5200",
+      "latitude": 43.240015,
+      "longitude": 25.306061
+    },
+    {
+      "name": "ПТТС 5239",
+      "latitude": 43.156914,
+      "longitude": 25.300254
+    },
+    {
+      "name": "ПТТС 5310",
+      "latitude": 42.806172,
+      "longitude": 25.368936
+    },
+    {
+      "name": "ПТТС 5360",
+      "latitude": 42.828453,
+      "longitude": 25.480933
+    },
+    {
+      "name": "ПТТС 5380",
+      "latitude": 42.934381,
+      "longitude": 25.453527
+    },
+    {
+      "name": "ПТТС 5770",
+      "latitude": 43.20437,
+      "longitude": 24.165042
+    },
+    {
+      "name": "ПТТС 5900",
+      "latitude": 43.357702,
+      "longitude": 25.141329
+    },
+    {
+      "name": "ПТТС 5970",
+      "latitude": 43.697401,
+      "longitude": 24.482906
+    },
+    {
+      "name": "ПТТС 6102",
+      "latitude": 42.618482,
+      "longitude": 25.404625
+    },
+    {
+      "name": "ПТТС 6401",
+      "latitude": 42.074928,
+      "longitude": 25.567295
+    },
+    {
+      "name": "ПТТС 6404",
+      "latitude": 42.052809,
+      "longitude": 25.579763
+    },
+    {
+      "name": "ПТТС 6560",
+      "latitude": 42.084008,
+      "longitude": 26.337287
+    },
+    {
+      "name": "ПТТС 8127",
+      "latitude": 42.603104,
+      "longitude": 27.385176
+    },
+    {
+      "name": "ПТТС 8300",
+      "latitude": 42.346041,
+      "longitude": 27.180131
+    },
+    {
+      "name": "ПТТС 8314",
+      "latitude": 42.394136,
+      "longitude": 27.264465
+    },
+    {
+      "name": "ПТТС 8400",
+      "latitude": 42.649017,
+      "longitude": 26.984078
+    },
+    {
+      "name": "ПТТС 8600",
+      "latitude": 42.484358,
+      "longitude": 26.506781
+    },
+    {
+      "name": "ПТТС 8601",
+      "latitude": 42.476068,
+      "longitude": 26.497167
+    },
+    {
+      "name": "ПТТС 8602",
+      "latitude": 42.4734,
+      "longitude": 26.522544
+    },
+    {
+      "name": "ПТТС 8604",
+      "latitude": 42.495003,
+      "longitude": 26.491072
+    },
+    {
+      "name": "ПТТС 8606",
+      "latitude": 42.481149,
+      "longitude": 26.489199
+    },
+    {
+      "name": "ПТТС 8607",
+      "latitude": 42.500069,
+      "longitude": 26.526796
+    },
+    {
+      "name": "ПТТС 8637",
+      "latitude": 42.478406,
+      "longitude": 26.398109
+    },
+    {
+      "name": "ПТТС 8661",
+      "latitude": 42.384101,
+      "longitude": 26.820884
+    },
+    {
+      "name": "ПТТС 8673",
+      "latitude": 42.447112,
+      "longitude": 26.538123
+    },
+    {
+      "name": "ПТТС 8680",
+      "latitude": 42.596513,
+      "longitude": 26.690892
+    },
+    {
+      "name": "ПТТС 8700",
+      "latitude": 42.171003,
+      "longitude": 26.566111
+    },
+    {
+      "name": "ПТТС 8750",
+      "latitude": 42.073461,
+      "longitude": 26.896732
+    },
+    {
+      "name": "ПТТС 8804",
+      "latitude": 42.67988,
+      "longitude": 26.332469
+    },
+    {
+      "name": "ПТТС 9152",
+      "latitude": 43.337856,
+      "longitude": 27.892774
+    },
+    {
+      "name": "ПТТС 9154",
+      "latitude": 43.254165,
+      "longitude": 27.82041
+    },
+    {
+      "name": "ПТТС 9157",
+      "latitude": 43.295783,
+      "longitude": 27.850122
+    },
+    {
+      "name": "ПТТС 9178",
+      "latitude": 43.192192,
+      "longitude": 27.705513
+    },
+    {
+      "name": "ПТТС 9200",
+      "latitude": 43.178045,
+      "longitude": 27.444361
+    },
+    {
+      "name": "ПТТС 9202",
+      "latitude": 43.170263,
+      "longitude": 27.442758
+    },
+    {
+      "name": "ПТТС 9250",
+      "latitude": 43.049557,
+      "longitude": 27.343293
+    },
+    {
+      "name": "ПТТС 9930",
+      "latitude": 43.314161,
+      "longitude": 27.158668
+    },
+    {
+      "name": "ПТТС Козарско 4584",
+      "latitude": 42.057969,
+      "longitude": 24.419829
+    },
+    {
+      "name": "ПТТС София 10-1510",
+      "latitude": 42.704903,
+      "longitude": 23.348568
+    },
+    {
+      "name": "ПТТС София 104-1404",
+      "latitude": 42.665743,
+      "longitude": 23.300471
+    },
+    {
+      "name": "ПТТС София 11-1111",
+      "latitude": 42.684812,
+      "longitude": 23.357034
+    },
+    {
+      "name": "ПТТС София 115-1715",
+      "latitude": 42.632086,
+      "longitude": 23.380046
+    },
+    {
+      "name": "ПТТС София 12-1612",
+      "latitude": 42.678775,
+      "longitude": 23.282096
+    },
+    {
+      "name": "ПТТС София 120-1520",
+      "latitude": 42.674757,
+      "longitude": 23.431346
+    },
+    {
+      "name": "ПТТС София 1223",
+      "latitude": 42.801938,
+      "longitude": 23.422693
+    },
+    {
+      "name": "ПТТС София 125–1137",
+      "latitude": 42.596399,
+      "longitude": 23.40984
+    },
+    {
+      "name": "ПТТС София 126-1326",
+      "latitude": 42.743649,
+      "longitude": 23.281819
+    },
+    {
+      "name": "ПТТС София 13-1113",
+      "latitude": 42.676073,
+      "longitude": 23.358914
+    },
+    {
+      "name": "ПТТС София 131-1231",
+      "latitude": 42.736575,
+      "longitude": 23.29407
+    },
+    {
+      "name": "ПТТС София 132-1632",
+      "latitude": 42.688617,
+      "longitude": 23.251668
+    },
+    {
+      "name": "ПТТС София 134-1734",
+      "latitude": 42.645061,
+      "longitude": 23.338605
+    },
+    {
+      "name": "ПТТС София 135-1335",
+      "latitude": 42.714242,
+      "longitude": 23.273962
+    },
+    {
+      "name": "ПТТС София 15-1415",
+      "latitude": 42.629158,
+      "longitude": 23.309907
+    },
+    {
+      "name": "ПТТС София 15-1517",
+      "latitude": 42.70065,
+      "longitude": 23.359375
+    },
+    {
+      "name": "ПТТС София 16-1616",
+      "latitude": 42.647977,
+      "longitude": 23.267307
+    },
+    {
+      "name": "ПТТС София 1696",
+      "latitude": 42.59961,
+      "longitude": 23.169878
+    },
+    {
+      "name": "ПТТС София 17-1517",
+      "latitude": 42.698634,
+      "longitude": 23.364778
+    },
+    {
+      "name": "ПТТС София 1712",
+      "latitude": 42.645345,
+      "longitude": 23.380418
+    },
+    {
+      "name": "ПТТС София 1766",
+      "latitude": 42.626197,
+      "longitude": 23.377525
+    },
+    {
+      "name": "ПТТС София 1797",
+      "latitude": 42.664557,
+      "longitude": 23.36402
+    },
+    {
+      "name": "ПТТС София 19-1619",
+      "latitude": 42.659238,
+      "longitude": 23.243867
+    },
+    {
+      "name": "ПТТС София 20-1220",
+      "latitude": 42.724657,
+      "longitude": 23.306155
+    },
+    {
+      "name": "ПТТС София 21-1421",
+      "latitude": 42.680259,
+      "longitude": 23.321967
+    },
+    {
+      "name": "ПТТС София 24-1324",
+      "latitude": 42.718011,
+      "longitude": 23.268738
+    },
+    {
+      "name": "ПТТС София 25-1225",
+      "latitude": 42.717841,
+      "longitude": 23.342522
+    },
+    {
+      "name": "ПТТС София 28-1528",
+      "latitude": 42.664232,
+      "longitude": 23.411435
+    },
+    {
+      "name": "ПТТС София 29-1229",
+      "latitude": 42.731002,
+      "longitude": 23.294103
+    },
+    {
+      "name": "ПТТС София 3-1303",
+      "latitude": 42.702673,
+      "longitude": 23.311143
+    },
+    {
+      "name": "ПТТС София 30-1330",
+      "latitude": 42.694712,
+      "longitude": 23.283503
+    },
+    {
+      "name": "ПТТС София 31-1331",
+      "latitude": 42.73604,
+      "longitude": 23.240028
+    },
+    {
+      "name": "ПТТС София 31-1431",
+      "latitude": 42.68511,
+      "longitude": 23.307318
+    },
+    {
+      "name": "ПТТС София 33-1233",
+      "latitude": 42.709846,
+      "longitude": 23.314182
+    },
+    {
+      "name": "ПТТС София 34-1434",
+      "latitude": 42.613376,
+      "longitude": 23.33811
+    },
+    {
+      "name": "ПТТС София 36-1336",
+      "latitude": 42.720323,
+      "longitude": 23.252861
+    },
+    {
+      "name": "ПТТС София 38-1138",
+      "latitude": 42.62828,
+      "longitude": 23.407438
+    },
+    {
+      "name": "ПТТС София 4-1504",
+      "latitude": 42.694299,
+      "longitude": 23.344004
+    },
+    {
+      "name": "ПТТС София 40-1540",
+      "latitude": 42.687108,
+      "longitude": 23.402601
+    },
+    {
+      "name": "ПТТС София 42-1142",
+      "latitude": 42.687209,
+      "longitude": 23.329827
+    },
+    {
+      "name": "ПТТС София 45-1345",
+      "latitude": 42.715738,
+      "longitude": 23.287895
+    },
+    {
+      "name": "ПТТС София 50-1750",
+      "latitude": 42.663621,
+      "longitude": 23.374358
+    },
+    {
+      "name": "ПТТС София 51-1151",
+      "latitude": 42.601403,
+      "longitude": 23.486688
+    },
+    {
+      "name": "ПТТС София 59-1359",
+      "latitude": 42.716551,
+      "longitude": 23.242797
+    },
+    {
+      "name": "ПТТС София 60-1360",
+      "latitude": 42.725309,
+      "longitude": 23.272589
+    },
+    {
+      "name": "ПТТС София 62-1362",
+      "latitude": 42.694513,
+      "longitude": 23.2282
+    },
+    {
+      "name": "ПТТС София 63-1463",
+      "latitude": 42.687337,
+      "longitude": 23.316956
+    },
+    {
+      "name": "ПТТС София 64-1164",
+      "latitude": 42.681488,
+      "longitude": 23.332229
+    },
+    {
+      "name": "ПТТС София 65-1165",
+      "latitude": 42.541134,
+      "longitude": 23.497961
+    },
+    {
+      "name": "ПТТС София 68-1268",
+      "latitude": 42.739317,
+      "longitude": 23.315682
+    },
+    {
+      "name": "ПТТС София 7-1407",
+      "latitude": 42.669283,
+      "longitude": 23.319386
+    },
+    {
+      "name": "ПТТС София 70-1870",
+      "latitude": 42.738754,
+      "longitude": 23.511934
+    },
+    {
+      "name": "ПТТС София 70-1870",
+      "latitude": 42.74099,
+      "longitude": 23.508368
+    },
+    {
+      "name": "ПТТС София 71-1271",
+      "latitude": 42.751367,
+      "longitude": 23.318287
+    },
+    {
+      "name": "ПТТС София 72-1172",
+      "latitude": 42.660333,
+      "longitude": 23.346945
+    },
+    {
+      "name": "ПТТС София 73-1373",
+      "latitude": 42.700786,
+      "longitude": 23.277234
+    },
+    {
+      "name": "ПТТС София 74-1574",
+      "latitude": 42.68181,
+      "longitude": 23.370969
+    },
+    {
+      "name": "ПТТС София 78-1278",
+      "latitude": 42.738542,
+      "longitude": 23.345978
+    },
+    {
+      "name": "ПТТС София 79-1379",
+      "latitude": 42.693969,
+      "longitude": 23.29793
+    },
+    {
+      "name": "ПТТС София 8-1408",
+      "latitude": 42.676988,
+      "longitude": 23.305687
+    },
+    {
+      "name": "ПТТС София 80-1680",
+      "latitude": 42.671044,
+      "longitude": 23.29064
+    },
+    {
+      "name": "ПТТС София 82-1582",
+      "latitude": 42.648829,
+      "longitude": 23.408228
+    },
+    {
+      "name": "ПТТС София 84-1784",
+      "latitude": 42.655764,
+      "longitude": 23.370551
+    },
+    {
+      "name": "ПТТС София 86-1186",
+      "latitude": 42.61415,
+      "longitude": 23.414938
+    },
+    {
+      "name": "ПТТС София 87-1387",
+      "latitude": 42.742329,
+      "longitude": 23.266105
+    },
+    {
+      "name": "ПТТС София 90-1390",
+      "latitude": 42.720195,
+      "longitude": 23.220983
+    },
+    {
+      "name": "ПТТС София 91-1191",
+      "latitude": 42.576732,
+      "longitude": 23.414099
+    },
+    {
+      "name": "ПТТС София 92-1592",
+      "latitude": 42.668574,
+      "longitude": 23.395255
+    },
+    {
+      "name": "ПТТС Троян 1-5601",
+      "latitude": 42.871224,
+      "longitude": 24.710731
+    },
+    {
+      "name": "ПТТС Троян-Ц-5600",
+      "latitude": 42.885123,
+      "longitude": 24.710604
+    },
+    {
+      "name": "Първомай",
+      "latitude": 42.096676,
+      "longitude": 25.221652
+    },
+    {
+      "name": "Раднево",
+      "latitude": 42.290388,
+      "longitude": 25.928011
+    },
+    {
+      "name": "Радомир",
+      "latitude": 42.545904,
+      "longitude": 22.962487
+    },
+    {
+      "name": "Разград",
+      "latitude": 43.525136,
+      "longitude": 26.525487
+    },
+    {
+      "name": "Разград",
+      "latitude": 43.530855,
+      "longitude": 26.523796
+    },
+    {
+      "name": "Разлог",
+      "latitude": 41.886578,
+      "longitude": 23.466838
+    },
+    {
+      "name": "Район Южен",
+      "latitude": 42.116374,
+      "longitude": 24.756491
+    },
+    {
+      "name": "Районна пощенска станция",
+      "latitude": 41.930023,
+      "longitude": 25.55326
+    },
+    {
+      "name": "Раковски",
+      "latitude": 42.272891,
+      "longitude": 24.942849
+    },
+    {
+      "name": "Рамус медикал",
+      "latitude": 42.703874,
+      "longitude": 23.334176
+    },
+    {
+      "name": "Рапидо",
+      "latitude": 42.17114,
+      "longitude": 24.742003
+    },
+    {
+      "name": "Родопа",
+      "latitude": 43.259585,
+      "longitude": 26.568058
+    },
+    {
+      "name": "РПУ",
+      "latitude": 42.705705,
+      "longitude": 23.15185
+    },
+    {
+      "name": "Рубикон Шипинг",
+      "latitude": 43.81588,
+      "longitude": 25.977924
+    },
+    {
+      "name": "Рудозем",
+      "latitude": 41.487292,
+      "longitude": 24.847058
+    },
+    {
+      "name": "Русе - Западна зона",
+      "latitude": 43.819797,
+      "longitude": 25.932401
+    },
+    {
+      "name": "Русе 1",
+      "latitude": 43.847171,
+      "longitude": 25.957646
+    },
+    {
+      "name": "Русе 2",
+      "latitude": 43.855929,
+      "longitude": 25.978031
+    },
+    {
+      "name": "Самоков",
+      "latitude": 42.33735,
+      "longitude": 23.549316
+    },
+    {
+      "name": "Самуил",
+      "latitude": 43.515136,
+      "longitude": 26.740632
+    },
+    {
+      "name": "Сандански",
+      "latitude": 41.555244,
+      "longitude": 23.274639
+    },
+    {
+      "name": "Свищов",
+      "latitude": 43.617223,
+      "longitude": 25.348539
+    },
+    {
+      "name": "Свобода",
+      "latitude": 42.142553,
+      "longitude": 24.731611
+    },
+    {
+      "name": "Своге",
+      "latitude": 42.960468,
+      "longitude": 23.345161
+    },
+    {
+      "name": "Севлиево",
+      "latitude": 43.024065,
+      "longitude": 25.101872
+    },
+    {
+      "name": "Севлиево",
+      "latitude": 43.025045,
+      "longitude": 25.09996
+    },
+    {
+      "name": "Симеоновград",
+      "latitude": 42.034361,
+      "longitude": 25.831142
+    },
+    {
+      "name": "Сливен 1",
+      "latitude": 42.650161,
+      "longitude": 26.336925
+    },
+    {
+      "name": "Сливен ПТТС 8802",
+      "latitude": 42.677559,
+      "longitude": 26.305878
+    },
+    {
+      "name": "Слънчев Бряг - складова база",
+      "latitude": 42.688277,
+      "longitude": 27.69947
+    },
+    {
+      "name": "Смирненски",
+      "latitude": 42.134789,
+      "longitude": 24.718217
+    },
+    {
+      "name": "Смолско 2073",
+      "latitude": 42.637138,
+      "longitude": 23.945349
+    },
+    {
+      "name": "Смолян",
+      "latitude": 41.58059,
+      "longitude": 24.692008
+    },
+    {
+      "name": "София 125",
+      "latitude": 42.665072,
+      "longitude": 23.357216
+    },
+    {
+      "name": "София Асен Разцветников",
+      "latitude": 42.647844,
+      "longitude": 23.333685
+    },
+    {
+      "name": "София Обеля 1",
+      "latitude": 42.73966,
+      "longitude": 23.274347
+    },
+    {
+      "name": "София Черни връх",
+      "latitude": 42.653429,
+      "longitude": 23.312368
+    },
+    {
+      "name": "СПИДИ",
+      "latitude": 43.562785,
+      "longitude": 27.845637
+    },
+    {
+      "name": "СПИДИ",
+      "latitude": 43.574267,
+      "longitude": 27.842959
+    },
+    {
+      "name": "Спийди",
+      "latitude": 42.869741,
+      "longitude": 27.887056
+    },
+    {
+      "name": "Стамболийски",
+      "latitude": 42.132353,
+      "longitude": 24.535449
+    },
+    {
+      "name": "Стара Загора",
+      "latitude": 42.414802,
+      "longitude": 25.627162
+    },
+    {
+      "name": "Стара Загора 1",
+      "latitude": 42.422861,
+      "longitude": 25.634972
+    },
+    {
+      "name": "Стара Загора 2",
+      "latitude": 42.416647,
+      "longitude": 25.639027
+    },
+    {
+      "name": "Стара Загора 3",
+      "latitude": 42.420885,
+      "longitude": 25.612975
+    },
+    {
+      "name": "Старата поща",
+      "latitude": 42.491801,
+      "longitude": 27.471333
+    },
+    {
+      "name": "Старата поща",
+      "latitude": 42.618529,
+      "longitude": 25.390716
+    },
+    {
+      "name": "Театъра",
+      "latitude": 43.244619,
+      "longitude": 26.573938
+    },
+    {
+      "name": "Театъра",
+      "latitude": 43.407552,
+      "longitude": 23.222787
+    },
+    {
+      "name": "Тепето",
+      "latitude": 42.140014,
+      "longitude": 24.72915
+    },
+    {
+      "name": "Тервел",
+      "latitude": 43.747742,
+      "longitude": 27.409226
+    },
+    {
+      "name": "Тетевен",
+      "latitude": 42.917572,
+      "longitude": 24.268264
+    },
+    {
+      "name": "Тип Топ Куриер",
+      "latitude": 43.205482,
+      "longitude": 23.559595
+    },
+    {
+      "name": "Тип Топ Куриер АД",
+      "latitude": 43.562655,
+      "longitude": 27.814151
+    },
+    {
+      "name": "Тополовград",
+      "latitude": 42.085381,
+      "longitude": 26.336708
+    },
+    {
+      "name": "Тракия",
+      "latitude": 43.276497,
+      "longitude": 26.952268
+    },
+    {
+      "name": "Три уши",
+      "latitude": 42.695876,
+      "longitude": 23.316331
+    },
+    {
+      "name": "Трявна",
+      "latitude": 42.866806,
+      "longitude": 25.493105
+    },
+    {
+      "name": "Турбо",
+      "latitude": 43.271713,
+      "longitude": 26.917274
+    },
+    {
+      "name": "Тутракан",
+      "latitude": 44.046613,
+      "longitude": 26.62449
+    },
+    {
+      "name": "Търговище",
+      "latitude": 43.259171,
+      "longitude": 26.56691
+    },
+    {
+      "name": "Търговска",
+      "latitude": 43.856109,
+      "longitude": 25.984325
+    },
+    {
+      "name": "Търговска зона",
+      "latitude": 42.164501,
+      "longitude": 24.749761
+    },
+    {
+      "name": "Управление",
+      "latitude": 43.87391,
+      "longitude": 26.010495
+    },
+    {
+      "name": "Фитнес",
+      "latitude": 42.196266,
+      "longitude": 25.326003
+    },
+    {
+      "name": "Хан Аспарух",
+      "latitude": 43.821249,
+      "longitude": 23.237478
+    },
+    {
+      "name": "Хан Крум",
+      "latitude": 42.636687,
+      "longitude": 24.810122
+    },
+    {
+      "name": "Харманли",
+      "latitude": 41.928056,
+      "longitude": 25.90121
+    },
+    {
+      "name": "Хисаря",
+      "latitude": 42.506429,
+      "longitude": 24.701434
+    },
+    {
+      "name": "Христо Ботев",
+      "latitude": 42.00719,
+      "longitude": 24.880448
+    },
+    {
+      "name": "Цар Иван Шишман",
+      "latitude": 42.422871,
+      "longitude": 25.630493
+    },
+    {
+      "name": "Царево",
+      "latitude": 42.167053,
+      "longitude": 27.846832
+    },
+    {
+      "name": "Царска поща",
+      "latitude": 42.642363,
+      "longitude": 23.43159
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 41.575537,
+      "longitude": 24.710381
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 42.030089,
+      "longitude": 24.300189
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 42.606506,
+      "longitude": 23.032022
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 42.618597,
+      "longitude": 25.39014
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 42.682127,
+      "longitude": 26.312771
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 42.693195,
+      "longitude": 23.324731
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 42.866242,
+      "longitude": 25.317222
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 43.082586,
+      "longitude": 25.632946
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 43.135732,
+      "longitude": 24.71765
+    },
+    {
+      "name": "Централна Поща",
+      "latitude": 43.204891,
+      "longitude": 23.549095
+    },
+    {
+      "name": "Централна Поща",
+      "latitude": 43.206758,
+      "longitude": 27.909678
+    },
+    {
+      "name": "Централна поща",
+      "latitude": 43.407394,
+      "longitude": 24.620584
+    },
+    {
+      "name": "Централна Поща",
+      "latitude": 43.40823,
+      "longitude": 28.162462
+    },
+    {
+      "name": "Централна поща 4000",
+      "latitude": 42.1427,
+      "longitude": 24.750254
+    },
+    {
+      "name": "Централна поща 6400",
+      "latitude": 42.05565,
+      "longitude": 25.594316
+    },
+    {
+      "name": "Централна Поща Лясковец",
+      "latitude": 43.105552,
+      "longitude": 25.715961
+    },
+    {
+      "name": "Централна Поща Русе",
+      "latitude": 43.848611,
+      "longitude": 25.950868
+    },
+    {
+      "name": "Чайка",
+      "latitude": 43.215609,
+      "longitude": 27.942886
+    },
+    {
+      "name": "Чародейка",
+      "latitude": 43.832182,
+      "longitude": 25.978011
+    },
+    {
+      "name": "Чепеларе",
+      "latitude": 41.723379,
+      "longitude": 24.684053
+    },
+    {
+      "name": "Червен Бряг",
+      "latitude": 43.284197,
+      "longitude": 24.080846
+    },
+    {
+      "name": "Шумен 1",
+      "latitude": 43.272657,
+      "longitude": 26.932254
+    },
+    {
+      "name": "Шумен 2",
+      "latitude": 43.26805,
+      "longitude": 26.947585
+    },
+    {
+      "name": "Щръклево",
+      "latitude": 43.714562,
+      "longitude": 26.039715
+    },
+    {
+      "name": "Южна индустриална зона",
+      "latitude": 41.916746,
+      "longitude": 25.564517
+    },
+    {
+      "name": "Якоруда",
+      "latitude": 42.018095,
+      "longitude": 23.670441
+    }
+  ],
+  "meta": {
+    "title": "Пощи в България - Безплатно изтегляне",
+    "description": "Пощенски станции в България (OSM amenity=post_office). Съдържа 1088 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Пощи в България | ListBase",
+    "seo_description": "Изтеглете Пощи в България — 1088 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 1088 записа / 3 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

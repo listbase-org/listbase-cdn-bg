@@ -1,0 +1,271 @@
+{
+  "id": "bg-veliko-turnovo-obshtini",
+  "name": "Общини — област Велико Търново (Municipalities of Veliko Tarnovo)",
+  "title": "Общини — област Велико Търново (Municipalities of Veliko Tarnovo)",
+  "description": "Списък на общините в област Велико Търново (Veliko Tarnovo oblast). 10 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс VTR. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 3,
+      "gisco_id": "BG_VTR04",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Велико Търново",
+      "name_en": "Veliko Tarnovo",
+      "slug": "veliko-tarnovo",
+      "population_2024": 76811,
+      "population_density_2024_per_km2": 86.78261768,
+      "area_km2": 885.09660177,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Files available only for the region, not the municipality"
+    },
+    {
+      "id": 4,
+      "gisco_id": "BG_VTR06",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Горна Оряховица",
+      "name_en": "",
+      "slug": "gorna-oryahovica",
+      "population_2024": 36877,
+      "population_density_2024_per_km2": 116.11801216,
+      "area_km2": 317.58208149,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.g-oryahovica.bg/strategii-i-programi",
+      "comment": "There is a separate document, dedicated to Climate Change"
+    },
+    {
+      "id": 5,
+      "gisco_id": "BG_VTR13",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Елена",
+      "name_en": "",
+      "slug": "elena",
+      "population_2024": 7473,
+      "population_density_2024_per_km2": 11.13278232,
+      "area_km2": 671.26076723,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://elena.bg/wps/portal/municipality-elena/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 6,
+      "gisco_id": "BG_VTR14",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Златарица",
+      "name_en": "",
+      "slug": "zlatarica",
+      "population_2024": 3396,
+      "population_density_2024_per_km2": 14.5908307,
+      "area_km2": 232.74891409,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://zlataritsa.bg/wps/portal/municipality-zlataritsa/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 7,
+      "gisco_id": "BG_VTR20",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Лясковец",
+      "name_en": "",
+      "slug": "lyaskovec",
+      "population_2024": 10930,
+      "population_density_2024_per_km2": 61.65555508,
+      "area_km2": 177.27518608,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.lyaskovets.bg/adm_strategy/Plan%20za%20zashtita%20pri%20bedstviya%20v%20Obshtina%20Lyask",
+      "comment": ""
+    },
+    {
+      "id": 8,
+      "gisco_id": "BG_VTR22",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Павликени",
+      "name_en": "",
+      "slug": "pavlikeni",
+      "population_2024": 18018,
+      "population_density_2024_per_km2": 28.96736793,
+      "area_km2": 622.01025792,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://pavlikeni.bg/wps/portal/municipality-pavlikeni/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 29,
+      "gisco_id": "BG_VTR26",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Полски Тръмбеш",
+      "name_en": "Polski Trambesh",
+      "slug": "polski-trambesh",
+      "population_2024": 10726,
+      "population_density_2024_per_km2": 23.1398349,
+      "area_km2": 463.52966857,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 30,
+      "gisco_id": "BG_VTR28",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Свищов",
+      "name_en": "",
+      "slug": "svishtov",
+      "population_2024": 26236,
+      "population_density_2024_per_km2": 41.71006933,
+      "area_km2": 629.0087843,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://svishtov.bg/upload/images/docs/docs_1971012934.pdf",
+      "comment": ""
+    },
+    {
+      "id": 31,
+      "gisco_id": "BG_VTR31",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Стражица",
+      "name_en": "",
+      "slug": "strazhica",
+      "population_2024": 9796,
+      "population_density_2024_per_km2": 19.24922502,
+      "area_km2": 508.90360462,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://strazhitsa.egov.bg/wps/portal/municipality-strazhitsa/municipality/disaster.accident.protect",
+      "comment": ""
+    },
+    {
+      "id": 32,
+      "gisco_id": "BG_VTR32",
+      "oblast_code": "VTR",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_bg": "Велико Търново",
+      "oblast_en": "Veliko Tarnovo",
+      "name_bg": "Сухиндол",
+      "name_en": "",
+      "slug": "suhindol",
+      "population_2024": 1969,
+      "population_density_2024_per_km2": 12.49970922,
+      "area_km2": 157.52366439,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://suhindol.bg/wps/portal/municipality-suhindol/municipality/disaster.accident.protection_0",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Велико Търново (Municipalities of Veliko Tarnovo) - Безплатно изтегляне",
+    "description": "Списък на общините в област Велико Търново (Veliko Tarnovo oblast). 10 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс VTR. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Велико Търново (Municipalities of Veliko Tarnovo) | ListBase",
+    "seo_description": "Изтеглете Общини — област Велико Търново (Municipalities of Veliko Tarnovo) — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

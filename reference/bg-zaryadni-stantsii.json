@@ -1,0 +1,2326 @@
+{
+  "id": "bg-zaryadni-stantsii",
+  "name": "Зарядни станции за електромобили в България",
+  "title": "Зарядни станции за електромобили в България",
+  "description": "Зарядни станции за електромобили в България от данни на OpenStreetMap (amenity=charging_station). Име и координати WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 457,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ChargePoint",
+      "latitude": 43.220873,
+      "longitude": 27.923497
+    },
+    {
+      "name": "Diesoler",
+      "latitude": 43.33955,
+      "longitude": 27.18865
+    },
+    {
+      "name": "ELDRIVE ДКС ВАРНА",
+      "latitude": 43.211389,
+      "longitude": 27.932155
+    },
+    {
+      "name": "ELDrive",
+      "latitude": 42.719663,
+      "longitude": 23.255867
+    },
+    {
+      "name": "ELdrive",
+      "latitude": 42.665839,
+      "longitude": 23.288909
+    },
+    {
+      "name": "EVPoint",
+      "latitude": 41.860323,
+      "longitude": 23.415486
+    },
+    {
+      "name": "EVPoint",
+      "latitude": 42.602794,
+      "longitude": 23.113867
+    },
+    {
+      "name": "EVPoint - Park Hotel Izida",
+      "latitude": 43.561045,
+      "longitude": 27.827838
+    },
+    {
+      "name": "EVPoint Хотел Балканско Бижу",
+      "latitude": 41.855882,
+      "longitude": 23.418355
+    },
+    {
+      "name": "EVlink",
+      "latitude": 43.523972,
+      "longitude": 26.551664
+    },
+    {
+      "name": "Eldrive",
+      "latitude": 42.711004,
+      "longitude": 23.27162
+    },
+    {
+      "name": "Eldrive - Avtotechnika Pleven",
+      "latitude": 43.431309,
+      "longitude": 24.583506
+    },
+    {
+      "name": "Eldrive - Billa SM Bansko",
+      "latitude": 41.840338,
+      "longitude": 23.484521
+    },
+    {
+      "name": "Eldrive - Billa SM Blagoevgrad",
+      "latitude": 42.002662,
+      "longitude": 23.101257
+    },
+    {
+      "name": "Eldrive - Billa SM Montana Center",
+      "latitude": 43.409668,
+      "longitude": 23.226777
+    },
+    {
+      "name": "Eldrive - Billa SM Pazardzhik",
+      "latitude": 42.186223,
+      "longitude": 24.319924
+    },
+    {
+      "name": "Eldrive - Billa SM Samokov",
+      "latitude": 42.334637,
+      "longitude": 23.554877
+    },
+    {
+      "name": "Eldrive - Billa SM Svilengrad",
+      "latitude": 41.76771,
+      "longitude": 26.204997
+    },
+    {
+      "name": "Eldrive - Billa SM Svishtov",
+      "latitude": 43.615516,
+      "longitude": 25.351941
+    },
+    {
+      "name": "Eldrive - Billa SM Velingrad",
+      "latitude": 42.023564,
+      "longitude": 23.995409
+    },
+    {
+      "name": "Eldrive - Billa SM Vidin",
+      "latitude": 43.989586,
+      "longitude": 22.877744
+    },
+    {
+      "name": "Eldrive - Billa SM Vratsa center",
+      "latitude": 43.2048,
+      "longitude": 23.555738
+    },
+    {
+      "name": "Eldrive - Billa SM Vratsa north",
+      "latitude": 43.223102,
+      "longitude": 23.543723
+    },
+    {
+      "name": "Eldrive - Cota 1110",
+      "latitude": 42.2738,
+      "longitude": 23.539555
+    },
+    {
+      "name": "Eldrive - Dimitrovdrad Dimitar Blagoev Blvd",
+      "latitude": 42.056624,
+      "longitude": 25.588277
+    },
+    {
+      "name": "Eldrive - Dimitrovdrad Rakovski Blvd",
+      "latitude": 42.060955,
+      "longitude": 25.589795
+    },
+    {
+      "name": "Eldrive - Fantastico Botevgrad",
+      "latitude": 42.907634,
+      "longitude": 23.78573
+    },
+    {
+      "name": "Eldrive - Gazprom Bansko",
+      "latitude": 41.851386,
+      "longitude": 23.481047
+    },
+    {
+      "name": "Eldrive - Happy House Montana",
+      "latitude": 43.421987,
+      "longitude": 23.225012
+    },
+    {
+      "name": "Eldrive - Holiday Park Haskovo",
+      "latitude": 41.969879,
+      "longitude": 25.560476
+    },
+    {
+      "name": "Eldrive - Holiday Park Pazardzhik",
+      "latitude": 42.183033,
+      "longitude": 24.346499
+    },
+    {
+      "name": "Eldrive - Holiday Park Pernik",
+      "latitude": 42.601972,
+      "longitude": 23.048037
+    },
+    {
+      "name": "Eldrive - Hotel Druzhba Haskovo",
+      "latitude": 41.956658,
+      "longitude": 25.512032
+    },
+    {
+      "name": "Eldrive - Hotel Rila Borovets",
+      "latitude": 42.265434,
+      "longitude": 23.6074
+    },
+    {
+      "name": "Eldrive - Hyatt Regency Pravets",
+      "latitude": 42.90945,
+      "longitude": 23.893604
+    },
+    {
+      "name": "Eldrive - Interpred Gotse Delchev",
+      "latitude": 41.580409,
+      "longitude": 23.744202
+    },
+    {
+      "name": "Eldrive - Moto-Pfohe Pleven",
+      "latitude": 43.431115,
+      "longitude": 24.584814
+    },
+    {
+      "name": "Eldrive - Mr. Bricolage Blagoevgrad",
+      "latitude": 41.996606,
+      "longitude": 23.087567
+    },
+    {
+      "name": "Eldrive - Orpheus Kardzhali",
+      "latitude": 41.613877,
+      "longitude": 25.374926
+    },
+    {
+      "name": "Eldrive - Praktiker Pazardzhik",
+      "latitude": 42.181208,
+      "longitude": 24.345976
+    },
+    {
+      "name": "Eldrive - Praktiker Pleven",
+      "latitude": 43.409756,
+      "longitude": 24.637326
+    },
+    {
+      "name": "Eldrive - Praktiker Ruse",
+      "latitude": 43.847173,
+      "longitude": 25.967182
+    },
+    {
+      "name": "Eldrive - Raya Garden",
+      "latitude": 43.070999,
+      "longitude": 25.648923
+    },
+    {
+      "name": "Eldrive - Retail Park Dupnitsa",
+      "latitude": 42.267404,
+      "longitude": 23.113452
+    },
+    {
+      "name": "Eldrive - Retail Park Smolyan",
+      "latitude": 41.571839,
+      "longitude": 24.715829
+    },
+    {
+      "name": "Eldrive - Retail Park Vidin",
+      "latitude": 44.000807,
+      "longitude": 22.868983
+    },
+    {
+      "name": "Eldrive - Sea Cars Sandanski",
+      "latitude": 41.525577,
+      "longitude": 23.273635
+    },
+    {
+      "name": "Eldrive - Shell Kyustendil",
+      "latitude": 42.28486,
+      "longitude": 22.703432
+    },
+    {
+      "name": "Eldrive - Shell Lyubimets East",
+      "latitude": 41.844931,
+      "longitude": 26.120164
+    },
+    {
+      "name": "Eldrive - Shell Lyubimets West",
+      "latitude": 41.843223,
+      "longitude": 26.122326
+    },
+    {
+      "name": "Eldrive - Shell Pravets",
+      "latitude": 42.908406,
+      "longitude": 23.879825
+    },
+    {
+      "name": "Eldrive - Shell Ruse",
+      "latitude": 43.833391,
+      "longitude": 25.958324
+    },
+    {
+      "name": "Eldrive - Shell Studena",
+      "latitude": 42.539233,
+      "longitude": 23.129109
+    },
+    {
+      "name": "Eldrive - Technopolis Blagoevgrad",
+      "latitude": 42.009881,
+      "longitude": 23.0931
+    },
+    {
+      "name": "Eldrive - Technopolis Haskovo",
+      "latitude": 41.931662,
+      "longitude": 25.605409
+    },
+    {
+      "name": "Eldrive - Technopolis Kardzhali",
+      "latitude": 41.630292,
+      "longitude": 25.37757
+    },
+    {
+      "name": "Eldrive - Technopolis Kyustendil",
+      "latitude": 42.274548,
+      "longitude": 22.668473
+    },
+    {
+      "name": "Eldrive - Technopolis Montana",
+      "latitude": 43.422197,
+      "longitude": 23.228461
+    },
+    {
+      "name": "Eldrive - Technopolis Pleven",
+      "latitude": 43.413941,
+      "longitude": 24.632974
+    },
+    {
+      "name": "Eldrive - Technopolis Ruse",
+      "latitude": 43.831816,
+      "longitude": 25.96991
+    },
+    {
+      "name": "Eldrive - Technostroy Engineering",
+      "latitude": 41.756285,
+      "longitude": 25.353489
+    },
+    {
+      "name": "Eldrive - Torgoterm",
+      "latitude": 42.289437,
+      "longitude": 22.703242
+    },
+    {
+      "name": "Eldrive - Toyota Blagoevgrad",
+      "latitude": 41.947824,
+      "longitude": 23.096631
+    },
+    {
+      "name": "Eldrive - Дамяница",
+      "latitude": 41.503332,
+      "longitude": 23.272157
+    },
+    {
+      "name": "Eldrive - Стоково Тържище Плодекс",
+      "latitude": 43.8555,
+      "longitude": 25.982679
+    },
+    {
+      "name": "Eldrive - Технополис Сандански",
+      "latitude": 41.507193,
+      "longitude": 23.276088
+    },
+    {
+      "name": "Electrip - Acibadem City Clinic",
+      "latitude": 42.640287,
+      "longitude": 23.317985
+    },
+    {
+      "name": "Electrip - Acibadem City Clinic Tokuda",
+      "latitude": 42.665547,
+      "longitude": 23.325166
+    },
+    {
+      "name": "Electrip - Basko city center",
+      "latitude": 41.837191,
+      "longitude": 23.489977
+    },
+    {
+      "name": "Electrip - Complex Komitite Chuchuligovo",
+      "latitude": 41.405307,
+      "longitude": 23.360171
+    },
+    {
+      "name": "Electrip - Complex Kristal",
+      "latitude": 42.743505,
+      "longitude": 23.283627
+    },
+    {
+      "name": "Electrip - Gotse Delchev gas station",
+      "latitude": 41.540053,
+      "longitude": 23.777678
+    },
+    {
+      "name": "Electrip - Hotel Cornelia Deluxe",
+      "latitude": 41.856779,
+      "longitude": 23.415667
+    },
+    {
+      "name": "Electrip - Hotel Yastrebets",
+      "latitude": 42.257737,
+      "longitude": 23.584436
+    },
+    {
+      "name": "Electrip - Karcher clean park",
+      "latitude": 42.652888,
+      "longitude": 23.390818
+    },
+    {
+      "name": "Electrip - Kruiz Blagoevgrad",
+      "latitude": 42.008473,
+      "longitude": 23.086181
+    },
+    {
+      "name": "Electrip - Kruiz Petrich",
+      "latitude": 41.405211,
+      "longitude": 23.204112
+    },
+    {
+      "name": "Electrip - Mall Pernik",
+      "latitude": 42.611018,
+      "longitude": 23.0409
+    },
+    {
+      "name": "Electrip - Petrol 0107 Kulata",
+      "latitude": 41.384162,
+      "longitude": 23.361808
+    },
+    {
+      "name": "Electrip - Petrol Studena 7315",
+      "latitude": 42.583919,
+      "longitude": 23.120159
+    },
+    {
+      "name": "Electrip - Restaurant Peshterata",
+      "latitude": 43.088245,
+      "longitude": 23.383752
+    },
+    {
+      "name": "Electrip - Retail Park Razlog",
+      "latitude": 41.881649,
+      "longitude": 23.47126
+    },
+    {
+      "name": "Electrip - Ruskovets Thermal SPA & Ski Resort",
+      "latitude": 41.825855,
+      "longitude": 23.565797
+    },
+    {
+      "name": "Electrip - Shell 2012 Kalotina",
+      "latitude": 42.992572,
+      "longitude": 22.846378
+    },
+    {
+      "name": "Electrip - Shell 3040 Yablanitsa south",
+      "latitude": 43.027421,
+      "longitude": 24.115516
+    },
+    {
+      "name": "Electrip - Shell 5014 North Tangenta",
+      "latitude": 42.734351,
+      "longitude": 23.374577
+    },
+    {
+      "name": "Electrip - Shell 9004 Levunovo",
+      "latitude": 41.487495,
+      "longitude": 23.296865
+    },
+    {
+      "name": "Electrip - St. Ivan Rilski SPA Resort",
+      "latitude": 41.823701,
+      "longitude": 23.488547
+    },
+    {
+      "name": "Electrip - Tassy Methane station Dolni Dabnik",
+      "latitude": 43.398559,
+      "longitude": 24.433725
+    },
+    {
+      "name": "Electrip - Vitosha Park hotel",
+      "latitude": 42.657006,
+      "longitude": 23.352653
+    },
+    {
+      "name": "Elfinity - Razlog Retail Park",
+      "latitude": 41.879335,
+      "longitude": 23.472381
+    },
+    {
+      "name": "FINES - Hotel City Sandanski",
+      "latitude": 41.540552,
+      "longitude": 23.254487
+    },
+    {
+      "name": "FINES Mantar Resort",
+      "latitude": 41.438792,
+      "longitude": 23.319753
+    },
+    {
+      "name": "FINES Petrol Black Cat",
+      "latitude": 42.63234,
+      "longitude": 23.459285
+    },
+    {
+      "name": "FINES Petrol Studena",
+      "latitude": 42.583604,
+      "longitude": 23.119971
+    },
+    {
+      "name": "FINES Retail Park Dobrich",
+      "latitude": 43.579105,
+      "longitude": 27.830239
+    },
+    {
+      "name": "FINES Аквамарин Слънчев Бряг",
+      "latitude": 42.6792,
+      "longitude": 27.705014
+    },
+    {
+      "name": "FINES Ауди Шоурум",
+      "latitude": 42.431626,
+      "longitude": 25.684536
+    },
+    {
+      "name": "FINES Големаново",
+      "latitude": 42.268288,
+      "longitude": 24.314289
+    },
+    {
+      "name": "FINES Зеления Хълм Хотел",
+      "latitude": 42.422644,
+      "longitude": 25.603872
+    },
+    {
+      "name": "FINES Ихтиман Бургас",
+      "latitude": 42.431955,
+      "longitude": 23.851135
+    },
+    {
+      "name": "FINES Маг Италия",
+      "latitude": 42.632191,
+      "longitude": 23.458096
+    },
+    {
+      "name": "FINES Марикостиново",
+      "latitude": 41.434364,
+      "longitude": 23.3337
+    },
+    {
+      "name": "FINES Мастерхаус Казанлък",
+      "latitude": 42.61516,
+      "longitude": 25.406829
+    },
+    {
+      "name": "FINES Младост 1",
+      "latitude": 42.661398,
+      "longitude": 23.372119
+    },
+    {
+      "name": "FINES Порше София Запад",
+      "latitude": 42.743946,
+      "longitude": 23.230046
+    },
+    {
+      "name": "FINES Пулс България",
+      "latitude": 42.655627,
+      "longitude": 23.281225
+    },
+    {
+      "name": "FINES Рилец",
+      "latitude": 42.137176,
+      "longitude": 23.345525
+    },
+    {
+      "name": "FINES Техномаркет Хасково",
+      "latitude": 41.931115,
+      "longitude": 25.603662
+    },
+    {
+      "name": "FINES Тойота Русе",
+      "latitude": 43.832279,
+      "longitude": 25.972018
+    },
+    {
+      "name": "FINES Тракия Автотрейд",
+      "latitude": 42.587597,
+      "longitude": 27.222748
+    },
+    {
+      "name": "FINES Хасково Бриколаж",
+      "latitude": 41.940065,
+      "longitude": 25.557901
+    },
+    {
+      "name": "FINES Хюндай Бургас",
+      "latitude": 42.540793,
+      "longitude": 27.440859
+    },
+    {
+      "name": "FINES Чикън Груп",
+      "latitude": 42.572962,
+      "longitude": 27.414879
+    },
+    {
+      "name": "FINES Чучулигово",
+      "latitude": 41.397481,
+      "longitude": 23.354097
+    },
+    {
+      "name": "Fines - Advance Trade Gabrovo",
+      "latitude": 42.911124,
+      "longitude": 25.333801
+    },
+    {
+      "name": "Fines - Agroholding Makkena",
+      "latitude": 43.969766,
+      "longitude": 26.326085
+    },
+    {
+      "name": "Fines - Agrola",
+      "latitude": 43.426505,
+      "longitude": 24.504618
+    },
+    {
+      "name": "Fines - Albena",
+      "latitude": 43.367681,
+      "longitude": 28.078617
+    },
+    {
+      "name": "Fines - Albena Bus Station",
+      "latitude": 43.365474,
+      "longitude": 28.067257
+    },
+    {
+      "name": "Fines - Albena Resort Administration",
+      "latitude": 43.365267,
+      "longitude": 28.074448
+    },
+    {
+      "name": "Fines - Aldo Obzor",
+      "latitude": 42.823172,
+      "longitude": 27.87918
+    },
+    {
+      "name": "Fines - Alpha Motors",
+      "latitude": 43.234226,
+      "longitude": 27.859389
+    },
+    {
+      "name": "Fines - Antar Targovishte",
+      "latitude": 43.244667,
+      "longitude": 26.549025
+    },
+    {
+      "name": "Fines - Apteka 1 Dulovo",
+      "latitude": 43.823147,
+      "longitude": 27.13969
+    },
+    {
+      "name": "Fines - Arte Velingrad",
+      "latitude": 42.030609,
+      "longitude": 23.973481
+    },
+    {
+      "name": "Fines - Asenovgrad",
+      "latitude": 42.018893,
+      "longitude": 24.862156
+    },
+    {
+      "name": "Fines - Autohit 2000",
+      "latitude": 42.429164,
+      "longitude": 25.662185
+    },
+    {
+      "name": "Fines - Bagira Stara Zagora",
+      "latitude": 42.414129,
+      "longitude": 25.637626
+    },
+    {
+      "name": "Fines - Balkan chalet",
+      "latitude": 42.840529,
+      "longitude": 25.087476
+    },
+    {
+      "name": "Fines - Beloslav Varna",
+      "latitude": 43.189312,
+      "longitude": 27.705111
+    },
+    {
+      "name": "Fines - Best Coffee",
+      "latitude": 43.822312,
+      "longitude": 25.928118
+    },
+    {
+      "name": "Fines - Bonus Ezerets",
+      "latitude": 43.592358,
+      "longitude": 28.530883
+    },
+    {
+      "name": "Fines - Botevgrad",
+      "latitude": 42.909157,
+      "longitude": 23.801971
+    },
+    {
+      "name": "Fines - Brod",
+      "latitude": 42.047745,
+      "longitude": 25.677238
+    },
+    {
+      "name": "Fines - Bulavto Premium Varna",
+      "latitude": 43.222953,
+      "longitude": 27.87048
+    },
+    {
+      "name": "Fines - Bulgara Nessebar",
+      "latitude": 42.662657,
+      "longitude": 27.69603
+    },
+    {
+      "name": "Fines - Business Center Veliko Tarnovo",
+      "latitude": 43.078339,
+      "longitude": 25.595948
+    },
+    {
+      "name": "Fines - Butcher shop Plovdiv",
+      "latitude": 42.165645,
+      "longitude": 24.751124
+    },
+    {
+      "name": "Fines - Camping Gardenia",
+      "latitude": 42.222569,
+      "longitude": 27.780655
+    },
+    {
+      "name": "Fines - Carwash Aytos",
+      "latitude": 42.695705,
+      "longitude": 27.263673
+    },
+    {
+      "name": "Fines - Carwash Petrovi Brothers",
+      "latitude": 43.993172,
+      "longitude": 26.830681
+    },
+    {
+      "name": "Fines - Carwash Yabylchevo",
+      "latitude": 42.789321,
+      "longitude": 27.253515
+    },
+    {
+      "name": "Fines - Central Park Burgas",
+      "latitude": 42.510907,
+      "longitude": 27.458956
+    },
+    {
+      "name": "Fines - City Oil Plovdiv",
+      "latitude": 42.18297,
+      "longitude": 24.73802
+    },
+    {
+      "name": "Fines - Clean Park Sitovo",
+      "latitude": 44.026671,
+      "longitude": 27.01381
+    },
+    {
+      "name": "Fines - Clima Comfort",
+      "latitude": 43.083974,
+      "longitude": 25.571439
+    },
+    {
+      "name": "Fines - Complex Elinor",
+      "latitude": 42.007322,
+      "longitude": 25.576248
+    },
+    {
+      "name": "Fines - Composite-X",
+      "latitude": 43.311798,
+      "longitude": 25.072713
+    },
+    {
+      "name": "Fines - Debar",
+      "latitude": 42.072163,
+      "longitude": 25.207664
+    },
+    {
+      "name": "Fines - Delta Planet Mall",
+      "latitude": 43.227364,
+      "longitude": 27.874659
+    },
+    {
+      "name": "Fines - Dibich Non-Stop",
+      "latitude": 43.222052,
+      "longitude": 26.995994
+    },
+    {
+      "name": "Fines - Dimitrovgrad",
+      "latitude": 42.053263,
+      "longitude": 25.586427
+    },
+    {
+      "name": "Fines - Djia",
+      "latitude": 43.221521,
+      "longitude": 27.858437
+    },
+    {
+      "name": "Fines - Dobrich",
+      "latitude": 43.550038,
+      "longitude": 27.833522
+    },
+    {
+      "name": "Fines - ELEKTRORESURS Razgrad",
+      "latitude": 43.533003,
+      "longitude": 26.520339
+    },
+    {
+      "name": "Fines - Easy Station",
+      "latitude": 43.871131,
+      "longitude": 25.999691
+    },
+    {
+      "name": "Fines - Eco Complex Sherba",
+      "latitude": 42.989856,
+      "longitude": 27.493573
+    },
+    {
+      "name": "Fines - Electroexpress Pazardzhik",
+      "latitude": 42.180143,
+      "longitude": 24.342525
+    },
+    {
+      "name": "Fines - Elegance Mebel",
+      "latitude": 42.895128,
+      "longitude": 24.754369
+    },
+    {
+      "name": "Fines - Eleya",
+      "latitude": 42.443238,
+      "longitude": 23.126422
+    },
+    {
+      "name": "Fines - Elit Vidin",
+      "latitude": 43.985713,
+      "longitude": 22.829275
+    },
+    {
+      "name": "Fines - Enjoy Dulovo",
+      "latitude": 43.83385,
+      "longitude": 27.139143
+    },
+    {
+      "name": "Fines - Ford Daskalovi",
+      "latitude": 43.079315,
+      "longitude": 25.595022
+    },
+    {
+      "name": "Fines - Forrest Nook Pamporovo",
+      "latitude": 41.63257,
+      "longitude": 24.70156
+    },
+    {
+      "name": "Fines - GUM Sandanski",
+      "latitude": 41.563443,
+      "longitude": 23.279843
+    },
+    {
+      "name": "Fines - Gabrovo Sport Hall",
+      "latitude": 42.879169,
+      "longitude": 25.320962
+    },
+    {
+      "name": "Fines - Gabrovo Town Hall",
+      "latitude": 42.872088,
+      "longitude": 25.315433
+    },
+    {
+      "name": "Fines - Garitage Park",
+      "latitude": 42.622757,
+      "longitude": 23.371946
+    },
+    {
+      "name": "Fines - Gemamex",
+      "latitude": 42.732946,
+      "longitude": 23.325762
+    },
+    {
+      "name": "Fines - Gorhim",
+      "latitude": 42.124407,
+      "longitude": 23.248523
+    },
+    {
+      "name": "Fines - Gorna Oryahovitsa",
+      "latitude": 43.116113,
+      "longitude": 25.697834
+    },
+    {
+      "name": "Fines - Gotse Delchev",
+      "latitude": 41.576032,
+      "longitude": 23.75035
+    },
+    {
+      "name": "Fines - Graf Ignatievo Arbanasi",
+      "latitude": 42.284109,
+      "longitude": 24.733355
+    },
+    {
+      "name": "Fines - Grand Hotel Bansko",
+      "latitude": 41.84402,
+      "longitude": 23.487505
+    },
+    {
+      "name": "Fines - Grand Hotel Sveti Vlas",
+      "latitude": 42.709585,
+      "longitude": 27.746538
+    },
+    {
+      "name": "Fines - Grande Vista",
+      "latitude": 41.955115,
+      "longitude": 24.152679
+    },
+    {
+      "name": "Fines - Han Madonna",
+      "latitude": 43.597627,
+      "longitude": 22.779848
+    },
+    {
+      "name": "Fines - Harmanli",
+      "latitude": 41.92544,
+      "longitude": 25.920916
+    },
+    {
+      "name": "Fines - Harmanli SIMS - 2011",
+      "latitude": 41.927207,
+      "longitude": 25.907567
+    },
+    {
+      "name": "Fines - Himpres BYALA",
+      "latitude": 43.467876,
+      "longitude": 25.712196
+    },
+    {
+      "name": "Fines - Hinovi Hvoyna",
+      "latitude": 41.86973,
+      "longitude": 24.686723
+    },
+    {
+      "name": "Fines - Hlebozavod Dimitrovgrad",
+      "latitude": 42.062922,
+      "longitude": 25.6213
+    },
+    {
+      "name": "Fines - Honda Burgas",
+      "latitude": 42.491143,
+      "longitude": 27.448222
+    },
+    {
+      "name": "Fines - Hotel Alexander",
+      "latitude": 42.595338,
+      "longitude": 25.205475
+    },
+    {
+      "name": "Fines - Hotel Balkan",
+      "latitude": 43.411976,
+      "longitude": 24.629742
+    },
+    {
+      "name": "Fines - Hotel Beatris",
+      "latitude": 42.704612,
+      "longitude": 27.712219
+    },
+    {
+      "name": "Fines - Hotel Chaika",
+      "latitude": 43.191247,
+      "longitude": 23.537212
+    },
+    {
+      "name": "Fines - Hotel Dunav Tutrakan",
+      "latitude": 44.04629,
+      "longitude": 26.600915
+    },
+    {
+      "name": "Fines - Hotel Erma",
+      "latitude": 42.835322,
+      "longitude": 22.651046
+    },
+    {
+      "name": "Fines - Hotel Estilo",
+      "latitude": 42.059159,
+      "longitude": 25.588566
+    },
+    {
+      "name": "Fines - Hotel Forum",
+      "latitude": 42.198084,
+      "longitude": 24.341719
+    },
+    {
+      "name": "Fines - Hotel Marina",
+      "latitude": 43.241312,
+      "longitude": 28.01743
+    },
+    {
+      "name": "Fines - Hotel Perun",
+      "latitude": 42.929502,
+      "longitude": 25.876076
+    },
+    {
+      "name": "Fines - Hotel Rusenski Lom",
+      "latitude": 43.660626,
+      "longitude": 25.995541
+    },
+    {
+      "name": "Fines - Hotel Sahara Svilengrad",
+      "latitude": 41.762835,
+      "longitude": 26.214504
+    },
+    {
+      "name": "Fines - Hotel Sunrise",
+      "latitude": 43.28585,
+      "longitude": 28.039931
+    },
+    {
+      "name": "Fines - Hotel Vigor Haskovo",
+      "latitude": 41.929781,
+      "longitude": 25.569796
+    },
+    {
+      "name": "Fines - Hungry Horse Bar & Grill",
+      "latitude": 42.387717,
+      "longitude": 27.669448
+    },
+    {
+      "name": "Fines - Hyundai Sofia",
+      "latitude": 42.623018,
+      "longitude": 23.379511
+    },
+    {
+      "name": "Fines - Hyundai Varna",
+      "latitude": 43.225043,
+      "longitude": 27.866326
+    },
+    {
+      "name": "Fines - IDA Kardzhali",
+      "latitude": 41.606791,
+      "longitude": 25.375401
+    },
+    {
+      "name": "Fines - Ihtiman Sofia",
+      "latitude": 42.432961,
+      "longitude": 23.852688
+    },
+    {
+      "name": "Fines - Imperial Palace Hotel Svilengrad",
+      "latitude": 41.777572,
+      "longitude": 26.205338
+    },
+    {
+      "name": "Fines - InHouse Sliven",
+      "latitude": 42.665183,
+      "longitude": 26.329879
+    },
+    {
+      "name": "Fines - Ingiliz Peshtera",
+      "latitude": 42.038268,
+      "longitude": 24.3059
+    },
+    {
+      "name": "Fines - Isomat",
+      "latitude": 42.707056,
+      "longitude": 23.455468
+    },
+    {
+      "name": "Fines - KREZ Pazardzhik",
+      "latitude": 42.182698,
+      "longitude": 24.316566
+    },
+    {
+      "name": "Fines - Karnobat",
+      "latitude": 42.651367,
+      "longitude": 26.980984
+    },
+    {
+      "name": "Fines - Konza Konska",
+      "latitude": 42.734975,
+      "longitude": 22.837508
+    },
+    {
+      "name": "Fines - Kostinbrod Rollplast",
+      "latitude": 42.794948,
+      "longitude": 23.215141
+    },
+    {
+      "name": "Fines - Kozloduy",
+      "latitude": 43.758943,
+      "longitude": 23.74338
+    },
+    {
+      "name": "Fines - Krapec",
+      "latitude": 43.625034,
+      "longitude": 28.570654
+    },
+    {
+      "name": "Fines - Kubrat",
+      "latitude": 43.799925,
+      "longitude": 26.514757
+    },
+    {
+      "name": "Fines - Kyosevtsi",
+      "latitude": 43.108308,
+      "longitude": 26.265506
+    },
+    {
+      "name": "Fines - Leksi Grand Mall",
+      "latitude": 42.141502,
+      "longitude": 24.756158
+    },
+    {
+      "name": "Fines - Leksi Maritsa",
+      "latitude": 42.154864,
+      "longitude": 24.729691
+    },
+    {
+      "name": "Fines - Leksi Peshtersko",
+      "latitude": 42.134568,
+      "longitude": 24.710044
+    },
+    {
+      "name": "Fines - Lovech",
+      "latitude": 43.163984,
+      "longitude": 24.722824
+    },
+    {
+      "name": "Fines - Lovna Sreshta Restaurant",
+      "latitude": 43.206517,
+      "longitude": 26.516504
+    },
+    {
+      "name": "Fines - Lukoil Sofia Ring",
+      "latitude": 42.701617,
+      "longitude": 23.449744
+    },
+    {
+      "name": "Fines - M Car Plovdiv",
+      "latitude": 42.200873,
+      "longitude": 24.735344
+    },
+    {
+      "name": "Fines - MAN Service Ruse",
+      "latitude": 43.81612,
+      "longitude": 25.977188
+    },
+    {
+      "name": "Fines - MM Auto",
+      "latitude": 42.6577,
+      "longitude": 23.274226
+    },
+    {
+      "name": "Fines - Malko Tarnovo",
+      "latitude": 41.982701,
+      "longitude": 27.517781
+    },
+    {
+      "name": "Fines - Mall Ruse",
+      "latitude": 43.854249,
+      "longitude": 25.991224
+    },
+    {
+      "name": "Fines - Mall Varna",
+      "latitude": 43.220633,
+      "longitude": 27.889588
+    },
+    {
+      "name": "Fines - Markoni Hotel",
+      "latitude": 41.655983,
+      "longitude": 24.681542
+    },
+    {
+      "name": "Fines - Masterhaus Aytos",
+      "latitude": 42.710115,
+      "longitude": 27.255124
+    },
+    {
+      "name": "Fines - Masterhaus Primorsko",
+      "latitude": 42.264324,
+      "longitude": 27.741743
+    },
+    {
+      "name": "Fines - Masterhaus Ravda",
+      "latitude": 42.653467,
+      "longitude": 27.672937
+    },
+    {
+      "name": "Fines - Medicus Varshets",
+      "latitude": 43.190829,
+      "longitude": 23.284289
+    },
+    {
+      "name": "Fines - Metalinvest Remko Radnevo",
+      "latitude": 42.300155,
+      "longitude": 25.942178
+    },
+    {
+      "name": "Fines - Mikre",
+      "latitude": 43.040054,
+      "longitude": 24.53012
+    },
+    {
+      "name": "Fines - Mitako Petrich",
+      "latitude": 41.396096,
+      "longitude": 23.178419
+    },
+    {
+      "name": "Fines - Montecito Hotel Sofia",
+      "latitude": 42.63875,
+      "longitude": 23.41354
+    },
+    {
+      "name": "Fines - Morski Ribolov Nesebar",
+      "latitude": 42.663583,
+      "longitude": 27.696071
+    },
+    {
+      "name": "Fines - Moskoiani Hotel",
+      "latitude": 42.879468,
+      "longitude": 27.890488
+    },
+    {
+      "name": "Fines - Mr. Bricolage Blagoevgrad",
+      "latitude": 41.996582,
+      "longitude": 23.087707
+    },
+    {
+      "name": "Fines - Mr. Bricolage Burgas",
+      "latitude": 42.472196,
+      "longitude": 27.432883
+    },
+    {
+      "name": "Fines - Mr. Bricolage Dobrich",
+      "latitude": 43.550004,
+      "longitude": 27.837086
+    },
+    {
+      "name": "Fines - Mr. Bricolage Plovdiv",
+      "latitude": 42.153284,
+      "longitude": 24.769192
+    },
+    {
+      "name": "Fines - Mr. Bricolage Ruse",
+      "latitude": 43.845859,
+      "longitude": 25.96226
+    },
+    {
+      "name": "Fines - Mura Hotel Borovets",
+      "latitude": 42.26804,
+      "longitude": 23.605119
+    },
+    {
+      "name": "Fines - NRJSoft Auto Plus",
+      "latitude": 43.250183,
+      "longitude": 26.553486
+    },
+    {
+      "name": "Fines - NRJSoft Contrast Haskovo",
+      "latitude": 41.948811,
+      "longitude": 25.557584
+    },
+    {
+      "name": "Fines - NRJSoft Han Dalboka",
+      "latitude": 44.011786,
+      "longitude": 26.68715
+    },
+    {
+      "name": "Fines - NRJSoft Hotel Kirkovo",
+      "latitude": 41.332079,
+      "longitude": 25.364513
+    },
+    {
+      "name": "Fines - NRJSoft Hotel Phoenix",
+      "latitude": 42.23449,
+      "longitude": 27.768923
+    },
+    {
+      "name": "Fines - NRJSoft Hotel Tyulenovo",
+      "latitude": 43.494895,
+      "longitude": 28.584734
+    },
+    {
+      "name": "Fines - NRJSoft Kubrat",
+      "latitude": 43.785504,
+      "longitude": 26.499316
+    },
+    {
+      "name": "Fines - NRJSoft Mall Ruse 2",
+      "latitude": 43.854093,
+      "longitude": 25.989594
+    },
+    {
+      "name": "Fines - NRJSoft Opalchenska",
+      "latitude": 43.838583,
+      "longitude": 25.972618
+    },
+    {
+      "name": "Fines - NRJSoft Petrovi Brothers Grill",
+      "latitude": 44.009593,
+      "longitude": 26.503082
+    },
+    {
+      "name": "Fines - NRJSoft Radomir Retail Park",
+      "latitude": 42.54298,
+      "longitude": 22.960466
+    },
+    {
+      "name": "Fines - NRJSoft River Side Bansko",
+      "latitude": 41.839505,
+      "longitude": 23.485764
+    },
+    {
+      "name": "Fines - Nadezhda",
+      "latitude": 42.730516,
+      "longitude": 23.301844
+    },
+    {
+      "name": "Fines - Neracom Glavinitsa",
+      "latitude": 43.911104,
+      "longitude": 26.834951
+    },
+    {
+      "name": "Fines - Nova Zagora Fenix",
+      "latitude": 42.49257,
+      "longitude": 26.001404
+    },
+    {
+      "name": "Fines - Novotehprom",
+      "latitude": 42.41238,
+      "longitude": 25.621244
+    },
+    {
+      "name": "Fines - Obnova",
+      "latitude": 43.439498,
+      "longitude": 24.992335
+    },
+    {
+      "name": "Fines - Obzor Cherno More",
+      "latitude": 42.825275,
+      "longitude": 27.879028
+    },
+    {
+      "name": "Fines - PARKMAXX Plovdiv",
+      "latitude": 42.122464,
+      "longitude": 24.757377
+    },
+    {
+      "name": "Fines - PROMax Maglizh",
+      "latitude": 42.606847,
+      "longitude": 25.557236
+    },
+    {
+      "name": "Fines - PROmax Invest Tulovo",
+      "latitude": 42.56981,
+      "longitude": 25.546422
+    },
+    {
+      "name": "Fines - Pamporovo DC Wallbox",
+      "latitude": 41.6543,
+      "longitude": 24.685598
+    },
+    {
+      "name": "Fines - Pamporovo Kamelia",
+      "latitude": 41.645163,
+      "longitude": 24.692753
+    },
+    {
+      "name": "Fines - Panacea Gas Station",
+      "latitude": 43.03192,
+      "longitude": 25.080527
+    },
+    {
+      "name": "Fines - Paradise Bay",
+      "latitude": 42.406092,
+      "longitude": 27.712415
+    },
+    {
+      "name": "Fines - Paradise Garden",
+      "latitude": 42.428629,
+      "longitude": 27.641426
+    },
+    {
+      "name": "Fines - Paradiso Dreams Hotel",
+      "latitude": 42.6653,
+      "longitude": 27.716261
+    },
+    {
+      "name": "Fines - Park Hotel Kyustendil",
+      "latitude": 42.274615,
+      "longitude": 22.68095
+    },
+    {
+      "name": "Fines - Parvomai",
+      "latitude": 42.109132,
+      "longitude": 25.227544
+    },
+    {
+      "name": "Fines - Pavlikeni",
+      "latitude": 43.232958,
+      "longitude": 25.307243
+    },
+    {
+      "name": "Fines - Petrich",
+      "latitude": 41.40531,
+      "longitude": 23.201717
+    },
+    {
+      "name": "Fines - Petrol Dragichevo",
+      "latitude": 42.600871,
+      "longitude": 23.13063
+    },
+    {
+      "name": "Fines - Petrol Eleshnitsa",
+      "latitude": 42.73417,
+      "longitude": 23.610709
+    },
+    {
+      "name": "Fines - Petrol Tserovo",
+      "latitude": 42.33641,
+      "longitude": 24.079885
+    },
+    {
+      "name": "Fines - Petrol Vidin",
+      "latitude": 44.020418,
+      "longitude": 22.939359
+    },
+    {
+      "name": "Fines - Petrol Yablanitsa",
+      "latitude": 43.023752,
+      "longitude": 24.109257
+    },
+    {
+      "name": "Fines - Petrov Service",
+      "latitude": 42.432829,
+      "longitude": 25.68764
+    },
+    {
+      "name": "Fines - Pirin Golf Club House",
+      "latitude": 41.852739,
+      "longitude": 23.421999
+    },
+    {
+      "name": "Fines - Pirin Golf Downtown",
+      "latitude": 41.853449,
+      "longitude": 23.410305
+    },
+    {
+      "name": "Fines - Pirin Sense Bansko",
+      "latitude": 41.824828,
+      "longitude": 23.484073
+    },
+    {
+      "name": "Fines - Plovdiv BG Supermarket",
+      "latitude": 42.148182,
+      "longitude": 24.787618
+    },
+    {
+      "name": "Fines - Plovdiv KAM 919",
+      "latitude": 42.095535,
+      "longitude": 24.69692
+    },
+    {
+      "name": "Fines - Plovdiv Tsarigradsko",
+      "latitude": 42.149554,
+      "longitude": 24.797529
+    },
+    {
+      "name": "Fines - Popovitsa",
+      "latitude": 42.134869,
+      "longitude": 25.065831
+    },
+    {
+      "name": "Fines - Porsche Center Plovdiv",
+      "latitude": 42.191999,
+      "longitude": 24.670198
+    },
+    {
+      "name": "Fines - Porsche Center Sofia",
+      "latitude": 42.636272,
+      "longitude": 23.421464
+    },
+    {
+      "name": "Fines - Power Plant Kadievo",
+      "latitude": 42.134581,
+      "longitude": 24.59714
+    },
+    {
+      "name": "Fines - Prestige City 2",
+      "latitude": 42.256418,
+      "longitude": 27.74772
+    },
+    {
+      "name": "Fines - Primorsko Del Sol",
+      "latitude": 42.273324,
+      "longitude": 27.751497
+    },
+    {
+      "name": "Fines - Provadia Avtotransport",
+      "latitude": 43.197796,
+      "longitude": 27.443684
+    },
+    {
+      "name": "Fines - Pulse Arena",
+      "latitude": 42.66806,
+      "longitude": 23.367195
+    },
+    {
+      "name": "Fines - Pulse Hadzhi Dimitar",
+      "latitude": 42.70948,
+      "longitude": 23.365949
+    },
+    {
+      "name": "Fines - Pulse Lulin",
+      "latitude": 42.709716,
+      "longitude": 23.257746
+    },
+    {
+      "name": "Fines - Pulse Mladost",
+      "latitude": 42.624431,
+      "longitude": 23.372806
+    },
+    {
+      "name": "Fines - Pulse Plovdiv",
+      "latitude": 42.135888,
+      "longitude": 24.7457
+    },
+    {
+      "name": "Fines - Pulse Therme",
+      "latitude": 41.876896,
+      "longitude": 23.530676
+    },
+    {
+      "name": "Fines - Raikov Ski Lodge",
+      "latitude": 41.633212,
+      "longitude": 24.703797
+    },
+    {
+      "name": "Fines - Raya Garden",
+      "latitude": 43.071445,
+      "longitude": 25.649533
+    },
+    {
+      "name": "Fines - Rayski Kat Radievo",
+      "latitude": 42.092526,
+      "longitude": 25.62324
+    },
+    {
+      "name": "Fines - Razgrad",
+      "latitude": 43.529613,
+      "longitude": 26.501048
+    },
+    {
+      "name": "Fines - Retail Park Chirpan",
+      "latitude": 42.199487,
+      "longitude": 25.334587
+    },
+    {
+      "name": "Fines - Retail Park Dimitrovgrad AC1",
+      "latitude": 42.055618,
+      "longitude": 25.587448
+    },
+    {
+      "name": "Fines - Retail Park Dimitrovgrad AC2",
+      "latitude": 42.055105,
+      "longitude": 25.586583
+    },
+    {
+      "name": "Fines - Retail Park Haskovo DC",
+      "latitude": 41.94095,
+      "longitude": 25.555183
+    },
+    {
+      "name": "Fines - Retail Park Velingrad",
+      "latitude": 42.031091,
+      "longitude": 24.00402
+    },
+    {
+      "name": "Fines - Rio Grill",
+      "latitude": 43.339375,
+      "longitude": 26.222757
+    },
+    {
+      "name": "Fines - Rompetrol Burgas",
+      "latitude": 42.499722,
+      "longitude": 27.455109
+    },
+    {
+      "name": "Fines - Rompetrol Vratsa",
+      "latitude": 43.174145,
+      "longitude": 23.610224
+    },
+    {
+      "name": "Fines - Route 80",
+      "latitude": 42.783856,
+      "longitude": 23.166956
+    },
+    {
+      "name": "Fines - Roza Emayl",
+      "latitude": 42.018894,
+      "longitude": 24.893327
+    },
+    {
+      "name": "Fines - Rumiana Hinkova",
+      "latitude": 43.001173,
+      "longitude": 25.620412
+    },
+    {
+      "name": "Fines - RuralMED Radnevo",
+      "latitude": 42.288474,
+      "longitude": 25.933657
+    },
+    {
+      "name": "Fines - S MALL Sliven",
+      "latitude": 42.68051,
+      "longitude": 26.314941
+    },
+    {
+      "name": "Fines - S&I Group Kotel",
+      "latitude": 42.883454,
+      "longitude": 26.436206
+    },
+    {
+      "name": "Fines - SL Market Pomorie",
+      "latitude": 42.563986,
+      "longitude": 27.631343
+    },
+    {
+      "name": "Fines - Samokov Elitsa",
+      "latitude": 42.332113,
+      "longitude": 23.548978
+    },
+    {
+      "name": "Fines - Sea Sense Hotel",
+      "latitude": 42.408405,
+      "longitude": 27.705968
+    },
+    {
+      "name": "Fines - See Me Beach",
+      "latitude": 42.95492,
+      "longitude": 27.89768
+    },
+    {
+      "name": "Fines - Selo Trakia",
+      "latitude": 42.193135,
+      "longitude": 25.640415
+    },
+    {
+      "name": "Fines - Sevlievo",
+      "latitude": 43.004636,
+      "longitude": 25.102947
+    },
+    {
+      "name": "Fines - Shans Polikraishte",
+      "latitude": 43.18552,
+      "longitude": 25.620342
+    },
+    {
+      "name": "Fines - Shell Redenka",
+      "latitude": 41.875568,
+      "longitude": 23.41296
+    },
+    {
+      "name": "Fines - Shell Yambol Mogila",
+      "latitude": 42.497071,
+      "longitude": 26.591975
+    },
+    {
+      "name": "Fines - Shkorpilovtsi",
+      "latitude": 42.95496,
+      "longitude": 27.896646
+    },
+    {
+      "name": "Fines - Shumen GS",
+      "latitude": 43.281103,
+      "longitude": 26.973571
+    },
+    {
+      "name": "Fines - Silistra",
+      "latitude": 44.10717,
+      "longitude": 27.251326
+    },
+    {
+      "name": "Fines - Silver Beach Resort",
+      "latitude": 42.868976,
+      "longitude": 27.896841
+    },
+    {
+      "name": "Fines - Slatina",
+      "latitude": 42.681113,
+      "longitude": 23.374393
+    },
+    {
+      "name": "Fines - Smart Sped Business Park Rousse",
+      "latitude": 43.853352,
+      "longitude": 25.991568
+    },
+    {
+      "name": "Fines - Smart Sped Ivan Vazov School",
+      "latitude": 43.845926,
+      "longitude": 25.955637
+    },
+    {
+      "name": "Fines - Smart Sped Kladenetsa Guest House",
+      "latitude": 43.68389,
+      "longitude": 25.956482
+    },
+    {
+      "name": "Fines - Smart Sped Zavet",
+      "latitude": 43.757302,
+      "longitude": 26.666576
+    },
+    {
+      "name": "Fines - Softelectronic Varna",
+      "latitude": 43.224311,
+      "longitude": 27.86883
+    },
+    {
+      "name": "Fines - Solar Service Sliven",
+      "latitude": 42.633332,
+      "longitude": 26.349973
+    },
+    {
+      "name": "Fines - Stop Shop Veliko Tarnovo",
+      "latitude": 43.071662,
+      "longitude": 25.637278
+    },
+    {
+      "name": "Fines - Stream Resort",
+      "latitude": 41.656499,
+      "longitude": 24.685747
+    },
+    {
+      "name": "Fines - Sunny View Central Hotel",
+      "latitude": 42.673257,
+      "longitude": 27.702702
+    },
+    {
+      "name": "Fines - T Market Gevgelyiski",
+      "latitude": 42.708298,
+      "longitude": 23.280387
+    },
+    {
+      "name": "Fines - T Market Krasna Polyana",
+      "latitude": 42.696853,
+      "longitude": 23.27636
+    },
+    {
+      "name": "Fines - T Market Lulin 5",
+      "latitude": 42.717312,
+      "longitude": 23.241446
+    },
+    {
+      "name": "Fines - T Market Motopista",
+      "latitude": 42.67003,
+      "longitude": 23.295842
+    },
+    {
+      "name": "Fines - T Market Storgozia",
+      "latitude": 43.423924,
+      "longitude": 24.598851
+    },
+    {
+      "name": "Fines - T Market Svishtov",
+      "latitude": 43.6131,
+      "longitude": 25.346333
+    },
+    {
+      "name": "Fines - T Market Vidin",
+      "latitude": 43.98428,
+      "longitude": 22.872724
+    },
+    {
+      "name": "Fines - Tango Pazardzhik",
+      "latitude": 42.197682,
+      "longitude": 24.321966
+    },
+    {
+      "name": "Fines - TeMAX Gotse Delchev",
+      "latitude": 41.583671,
+      "longitude": 23.744004
+    },
+    {
+      "name": "Fines - Technostroy Drujba 1",
+      "latitude": 42.656338,
+      "longitude": 23.406345
+    },
+    {
+      "name": "Fines - Terminal B",
+      "latitude": 41.997059,
+      "longitude": 23.059791
+    },
+    {
+      "name": "Fines - The Palace Hotel",
+      "latitude": 43.245208,
+      "longitude": 28.019774
+    },
+    {
+      "name": "Fines - Therma Numera SPA",
+      "latitude": 42.61256,
+      "longitude": 27.38881
+    },
+    {
+      "name": "Fines - Tomov Plaza Plovdiv",
+      "latitude": 42.1269,
+      "longitude": 24.770815
+    },
+    {
+      "name": "Fines - Tomsy Burgas",
+      "latitude": 42.518332,
+      "longitude": 27.423382
+    },
+    {
+      "name": "Fines - Toyota Pazardzhik",
+      "latitude": 42.185237,
+      "longitude": 24.351128
+    },
+    {
+      "name": "Fines - Trakia 122 Petrol",
+      "latitude": 42.203977,
+      "longitude": 24.673996
+    },
+    {
+      "name": "Fines - Trakia 243 Sofia",
+      "latitude": 42.453755,
+      "longitude": 26.051135
+    },
+    {
+      "name": "Fines - Tron Petolachka",
+      "latitude": 42.646724,
+      "longitude": 26.670808
+    },
+    {
+      "name": "Fines - Tutrakan Bus Station",
+      "latitude": 44.046015,
+      "longitude": 26.629278
+    },
+    {
+      "name": "Fines - Twin Park",
+      "latitude": 42.131864,
+      "longitude": 24.695173
+    },
+    {
+      "name": "Fines - Varna Billa",
+      "latitude": 43.220841,
+      "longitude": 27.898684
+    },
+    {
+      "name": "Fines - Veliki Preslav",
+      "latitude": 43.162167,
+      "longitude": 26.816322
+    },
+    {
+      "name": "Fines - Veliko Tarnovo",
+      "latitude": 43.0728,
+      "longitude": 25.61606
+    },
+    {
+      "name": "Fines - Veselina Trade LTD",
+      "latitude": 43.587375,
+      "longitude": 27.824873
+    },
+    {
+      "name": "Fines - Via Antiqua",
+      "latitude": 42.848109,
+      "longitude": 27.10052
+    },
+    {
+      "name": "Fines - Videnov Sunny Beach",
+      "latitude": 42.694545,
+      "longitude": 27.700986
+    },
+    {
+      "name": "Fines - Vidin",
+      "latitude": 43.975676,
+      "longitude": 22.869736
+    },
+    {
+      "name": "Fines - Vidin Impulse Hotel & Spa",
+      "latitude": 43.983926,
+      "longitude": 22.869925
+    },
+    {
+      "name": "Fines - Viking Motel",
+      "latitude": 42.772014,
+      "longitude": 23.274903
+    },
+    {
+      "name": "Fines - Villa Edea",
+      "latitude": 43.242398,
+      "longitude": 27.897162
+    },
+    {
+      "name": "Fines - Villa Quiet Bay",
+      "latitude": 42.401739,
+      "longitude": 27.714405
+    },
+    {
+      "name": "Fines - Vita Hospital Parking",
+      "latitude": 42.656235,
+      "longitude": 23.320295
+    },
+    {
+      "name": "Fines - Volkswagen Hobby Car",
+      "latitude": 43.834788,
+      "longitude": 25.967312
+    },
+    {
+      "name": "Fines - Volkswagen Varna",
+      "latitude": 43.241693,
+      "longitude": 27.854759
+    },
+    {
+      "name": "Fines - Wild Duck Ezerets",
+      "latitude": 43.596662,
+      "longitude": 28.532911
+    },
+    {
+      "name": "Fines - Wine Cellar Varna",
+      "latitude": 43.352273,
+      "longitude": 28.008119
+    },
+    {
+      "name": "Fines - Yambol Car Wash South",
+      "latitude": 42.470037,
+      "longitude": 26.510352
+    },
+    {
+      "name": "Fines - ZAI Berkovitsa",
+      "latitude": 43.243144,
+      "longitude": 23.142852
+    },
+    {
+      "name": "Fines - ZEKO Tserovo",
+      "latitude": 42.337161,
+      "longitude": 24.080701
+    },
+    {
+      "name": "Fines - ZS Tsarevo",
+      "latitude": 42.166061,
+      "longitude": 27.845712
+    },
+    {
+      "name": "Fines - ZTA Bansko",
+      "latitude": 41.834023,
+      "longitude": 23.495472
+    },
+    {
+      "name": "Fines - Zaara Estate",
+      "latitude": 42.057545,
+      "longitude": 26.110163
+    },
+    {
+      "name": "Fines - Zlati Voyvoda",
+      "latitude": 42.590435,
+      "longitude": 26.185544
+    },
+    {
+      "name": "Fines - Брацигово",
+      "latitude": 42.031417,
+      "longitude": 24.368604
+    },
+    {
+      "name": "Fines - Девин",
+      "latitude": 41.742496,
+      "longitude": 24.394952
+    },
+    {
+      "name": "Fines - Долно Вършило",
+      "latitude": 42.330408,
+      "longitude": 23.988127
+    },
+    {
+      "name": "Fines - Златоград",
+      "latitude": 41.339883,
+      "longitude": 25.358213
+    },
+    {
+      "name": "Fines - Златоград",
+      "latitude": 41.379287,
+      "longitude": 25.101947
+    },
+    {
+      "name": "Fines - Карлово",
+      "latitude": 42.6329,
+      "longitude": 24.815567
+    },
+    {
+      "name": "Fines - Панагюрище",
+      "latitude": 42.495945,
+      "longitude": 24.193989
+    },
+    {
+      "name": "Fines - Рудозем",
+      "latitude": 41.489141,
+      "longitude": 24.850027
+    },
+    {
+      "name": "Fines - Смолян",
+      "latitude": 41.574395,
+      "longitude": 24.713422
+    },
+    {
+      "name": "Fines - Смолян Стар център",
+      "latitude": 41.579845,
+      "longitude": 24.691566
+    },
+    {
+      "name": "Fines - Тракия 243 Бургас",
+      "latitude": 42.453128,
+      "longitude": 26.052205
+    },
+    {
+      "name": "Fines - Хисаря",
+      "latitude": 42.500486,
+      "longitude": 24.702413
+    },
+    {
+      "name": "Fines Apolonia",
+      "latitude": 42.421324,
+      "longitude": 27.692964
+    },
+    {
+      "name": "Fines Charging",
+      "latitude": 42.406092,
+      "longitude": 27.712415
+    },
+    {
+      "name": "Fines Charging",
+      "latitude": 42.408405,
+      "longitude": 27.705968
+    },
+    {
+      "name": "Fines Charging",
+      "latitude": 42.519926,
+      "longitude": 27.437109
+    },
+    {
+      "name": "Fines Charging",
+      "latitude": 43.232235,
+      "longitude": 27.894879
+    },
+    {
+      "name": "Fines Charging",
+      "latitude": 43.901187,
+      "longitude": 26.062425
+    },
+    {
+      "name": "Fines Charging (150 kW)",
+      "latitude": 42.193645,
+      "longitude": 25.15725
+    },
+    {
+      "name": "Fines Charging (300 kW)",
+      "latitude": 42.193573,
+      "longitude": 25.157238
+    },
+    {
+      "name": "Fines Charging 120kW",
+      "latitude": 43.174138,
+      "longitude": 23.610251
+    },
+    {
+      "name": "GigaCharger",
+      "latitude": 42.661339,
+      "longitude": 23.26515
+    },
+    {
+      "name": "GigaCharger",
+      "latitude": 42.669195,
+      "longitude": 23.277429
+    },
+    {
+      "name": "GigaCharger",
+      "latitude": 42.672323,
+      "longitude": 23.293286
+    },
+    {
+      "name": "GigaCharger",
+      "latitude": 42.684541,
+      "longitude": 23.330639
+    },
+    {
+      "name": "GigaCharger",
+      "latitude": 42.68582,
+      "longitude": 23.295017
+    },
+    {
+      "name": "GigaCharger",
+      "latitude": 42.687888,
+      "longitude": 23.311581
+    },
+    {
+      "name": "GigaCharger",
+      "latitude": 43.376528,
+      "longitude": 24.620814
+    },
+    {
+      "name": "GigaCharger",
+      "latitude": 43.901028,
+      "longitude": 26.062658
+    },
+    {
+      "name": "GigaCharger - Hotel Famil",
+      "latitude": 41.835634,
+      "longitude": 23.481658
+    },
+    {
+      "name": "GigaCharger - Hotel Grami",
+      "latitude": 41.828059,
+      "longitude": 23.482784
+    },
+    {
+      "name": "GigaCharger - Mehomia Restaurant",
+      "latitude": 41.887638,
+      "longitude": 23.465633
+    },
+    {
+      "name": "GigaCharger - Park Hotel Gardenia",
+      "latitude": 41.83569,
+      "longitude": 23.491776
+    },
+    {
+      "name": "GigaCharger - PeHa Blagoevgrad",
+      "latitude": 41.98712,
+      "longitude": 23.080859
+    },
+    {
+      "name": "GigaCharger - Restaurant Merina",
+      "latitude": 41.78314,
+      "longitude": 23.155202
+    },
+    {
+      "name": "Hypercharger",
+      "latitude": 42.711214,
+      "longitude": 23.272264
+    },
+    {
+      "name": "KIA Станция за зареждане",
+      "latitude": 42.636746,
+      "longitude": 23.415116
+    },
+    {
+      "name": "Kaufland",
+      "latitude": 41.549936,
+      "longitude": 23.270161
+    },
+    {
+      "name": "Kaufland Manastirski Livadi",
+      "latitude": 42.655237,
+      "longitude": 23.28754
+    },
+    {
+      "name": "Kaufland Voenna Rampa",
+      "latitude": 42.731998,
+      "longitude": 23.315174
+    },
+    {
+      "name": "Lidl",
+      "latitude": 42.334068,
+      "longitude": 23.556032
+    },
+    {
+      "name": "Plovdiv Supercharger",
+      "latitude": 42.144587,
+      "longitude": 24.768972
+    },
+    {
+      "name": "Porsche Destination Charging",
+      "latitude": 41.857894,
+      "longitude": 23.411595
+    },
+    {
+      "name": "ProCredit Bank",
+      "latitude": 41.550139,
+      "longitude": 23.268391
+    },
+    {
+      "name": "ProCredit Bank",
+      "latitude": 42.147582,
+      "longitude": 24.769864
+    },
+    {
+      "name": "ProCredit Bank",
+      "latitude": 42.640496,
+      "longitude": 23.411006
+    },
+    {
+      "name": "ProCredit Bank",
+      "latitude": 42.67091,
+      "longitude": 23.26741
+    },
+    {
+      "name": "Renault",
+      "latitude": 42.626034,
+      "longitude": 23.352204
+    },
+    {
+      "name": "Renault",
+      "latitude": 42.694709,
+      "longitude": 23.23075
+    },
+    {
+      "name": "Renault",
+      "latitude": 42.711371,
+      "longitude": 23.352381
+    },
+    {
+      "name": "Sofia Supercharger",
+      "latitude": 42.657822,
+      "longitude": 23.313693
+    },
+    {
+      "name": "Sofia Supercharger",
+      "latitude": 42.663952,
+      "longitude": 23.289661
+    },
+    {
+      "name": "The Mall",
+      "latitude": 42.660687,
+      "longitude": 23.381322
+    },
+    {
+      "name": "Top Group +",
+      "latitude": 42.622498,
+      "longitude": 23.358393
+    },
+    {
+      "name": "Villa Sintica",
+      "latitude": 41.550142,
+      "longitude": 23.268335
+    },
+    {
+      "name": "Wink Durankulak",
+      "latitude": 43.690144,
+      "longitude": 28.531781
+    },
+    {
+      "name": "ePlug.gb",
+      "latitude": 42.674436,
+      "longitude": 23.25009
+    },
+    {
+      "name": "Градска болница",
+      "latitude": 43.206542,
+      "longitude": 27.909487
+    },
+    {
+      "name": "Драган Цанков",
+      "latitude": 43.2049,
+      "longitude": 27.913848
+    },
+    {
+      "name": "ЕКО",
+      "latitude": 42.680971,
+      "longitude": 23.308486
+    },
+    {
+      "name": "Електромобили Вг",
+      "latitude": 42.694769,
+      "longitude": 23.230672
+    },
+    {
+      "name": "Електромобили бг",
+      "latitude": 41.382638,
+      "longitude": 23.361715
+    },
+    {
+      "name": "Електромобили бг",
+      "latitude": 42.005837,
+      "longitude": 23.079514
+    },
+    {
+      "name": "Зарядна екостанция за електромобили",
+      "latitude": 42.649264,
+      "longitude": 23.394566
+    },
+    {
+      "name": "Мусала",
+      "latitude": 43.202636,
+      "longitude": 27.915294
+    },
+    {
+      "name": "Петриц",
+      "latitude": 41.432889,
+      "longitude": 23.334338
+    },
+    {
+      "name": "Русе",
+      "latitude": 43.203444,
+      "longitude": 27.911845
+    },
+    {
+      "name": "Станция за зареждане",
+      "latitude": 42.710055,
+      "longitude": 23.271543
+    },
+    {
+      "name": "Стефан Караджа",
+      "latitude": 43.206149,
+      "longitude": 27.922728
+    },
+    {
+      "name": "Цариброд",
+      "latitude": 43.200008,
+      "longitude": 27.91277
+    },
+    {
+      "name": "пазар Чаталджа",
+      "latitude": 43.214578,
+      "longitude": 27.923628
+    },
+    {
+      "name": "ул. Пирот 22",
+      "latitude": 43.201911,
+      "longitude": 27.910429
+    }
+  ],
+  "meta": {
+    "title": "Зарядни станции за електромобили в България - Безплатно изтегляне",
+    "description": "Зарядни станции за електромобили в България от данни на OpenStreetMap (amenity=charging_station). Име и координати WGS84. Съдържа 457 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Зарядни станции за електромобили в България | ListBase",
+    "seo_description": "Изтеглете Зарядни станции за електромобили в България — 457 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 457 записа / 3 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

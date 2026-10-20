@@ -1,0 +1,506 @@
+{
+  "id": "bg-merni-edinitsi-volume",
+  "name": "Мерни единици: volume (44)",
+  "title": "Мерни единици: volume (44)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'volume'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "volume-acre-foot",
+      "kategoriya": "volume",
+      "nazvanie": "акър-футове",
+      "shablon_edinstveno": "{0} акър-фут",
+      "shablon_mnozhestveno": "{0} акър-фута",
+      "kratak_shablon": "{0} ac ft",
+      "tesen_shablon": "{0} ac ft"
+    },
+    {
+      "id": 2,
+      "unit_code": "volume-barrel",
+      "kategoriya": "volume",
+      "nazvanie": "барели",
+      "shablon_edinstveno": "{0} барел",
+      "shablon_mnozhestveno": "{0} барела",
+      "kratak_shablon": "{0} bbl",
+      "tesen_shablon": "{0} bbl"
+    },
+    {
+      "id": 3,
+      "unit_code": "volume-bushel",
+      "kategoriya": "volume",
+      "nazvanie": "бушели",
+      "shablon_edinstveno": "{0} бушел",
+      "shablon_mnozhestveno": "{0} бушела",
+      "kratak_shablon": "{0} bu",
+      "tesen_shablon": "{0} bu"
+    },
+    {
+      "id": 4,
+      "unit_code": "volume-centiliter",
+      "kategoriya": "volume",
+      "nazvanie": "сентилитри",
+      "shablon_edinstveno": "{0} сентилитър",
+      "shablon_mnozhestveno": "{0} сентилитра",
+      "kratak_shablon": "{0} cl",
+      "tesen_shablon": "{0} cl"
+    },
+    {
+      "id": 5,
+      "unit_code": "volume-cubic-centimeter",
+      "kategoriya": "volume",
+      "nazvanie": "кубически сантиметри",
+      "shablon_edinstveno": "{0} кубически сантиметър",
+      "shablon_mnozhestveno": "{0} кубически сантиметра",
+      "kratak_shablon": "{0} cm³",
+      "tesen_shablon": "{0} cm³"
+    },
+    {
+      "id": 6,
+      "unit_code": "volume-cubic-foot",
+      "kategoriya": "volume",
+      "nazvanie": "кубически футове",
+      "shablon_edinstveno": "{0} кубически фут",
+      "shablon_mnozhestveno": "{0} кубически фута",
+      "kratak_shablon": "{0} ft³",
+      "tesen_shablon": "{0} ft³"
+    },
+    {
+      "id": 7,
+      "unit_code": "volume-cubic-inch",
+      "kategoriya": "volume",
+      "nazvanie": "кубически инчове",
+      "shablon_edinstveno": "{0} кубически инч",
+      "shablon_mnozhestveno": "{0} кубически инча",
+      "kratak_shablon": "{0} in³",
+      "tesen_shablon": "{0} in³"
+    },
+    {
+      "id": 8,
+      "unit_code": "volume-cubic-kilometer",
+      "kategoriya": "volume",
+      "nazvanie": "кубически километри",
+      "shablon_edinstveno": "{0} кубически километър",
+      "shablon_mnozhestveno": "{0} кубически километра",
+      "kratak_shablon": "{0} km³",
+      "tesen_shablon": "{0} km³"
+    },
+    {
+      "id": 9,
+      "unit_code": "volume-cubic-meter",
+      "kategoriya": "volume",
+      "nazvanie": "кубически метри",
+      "shablon_edinstveno": "{0} кубически метър",
+      "shablon_mnozhestveno": "{0} кубически метра",
+      "kratak_shablon": "{0} m³",
+      "tesen_shablon": "{0} m³"
+    },
+    {
+      "id": 10,
+      "unit_code": "volume-cubic-mile",
+      "kategoriya": "volume",
+      "nazvanie": "кубически мили",
+      "shablon_edinstveno": "{0} кубическа миля",
+      "shablon_mnozhestveno": "{0} кубически мили",
+      "kratak_shablon": "{0} mi³",
+      "tesen_shablon": "{0} mi³"
+    },
+    {
+      "id": 11,
+      "unit_code": "volume-cubic-yard",
+      "kategoriya": "volume",
+      "nazvanie": "кубически ярдове",
+      "shablon_edinstveno": "{0} кубически ярд",
+      "shablon_mnozhestveno": "{0} кубически ярда",
+      "kratak_shablon": "{0} yd³",
+      "tesen_shablon": "{0} yd³"
+    },
+    {
+      "id": 12,
+      "unit_code": "volume-cup",
+      "kategoriya": "volume",
+      "nazvanie": "чаши",
+      "shablon_edinstveno": "{0} чаша",
+      "shablon_mnozhestveno": "{0} чаши",
+      "kratak_shablon": "{0} ч.",
+      "tesen_shablon": "{0} ч."
+    },
+    {
+      "id": 13,
+      "unit_code": "volume-cup-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "cup Imp.",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} cup Imp.",
+      "kratak_shablon": "{0} cup Imp.",
+      "tesen_shablon": "{0} cup Imp."
+    },
+    {
+      "id": 14,
+      "unit_code": "volume-cup-jp",
+      "kategoriya": "volume",
+      "nazvanie": "cup [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} cup [JP]",
+      "kratak_shablon": "{0} cup [JP]",
+      "tesen_shablon": "{0} cup [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "volume-cup-metric",
+      "kategoriya": "volume",
+      "nazvanie": "метрични чаши",
+      "shablon_edinstveno": "{0} метрична чаша",
+      "shablon_mnozhestveno": "{0} метрични чаши",
+      "kratak_shablon": "{0} mc",
+      "tesen_shablon": "{0} mc"
+    },
+    {
+      "id": 16,
+      "unit_code": "volume-deciliter",
+      "kategoriya": "volume",
+      "nazvanie": "децилитри",
+      "shablon_edinstveno": "{0} децилитър",
+      "shablon_mnozhestveno": "{0} децилитра",
+      "kratak_shablon": "{0} dl",
+      "tesen_shablon": "{0} dl"
+    },
+    {
+      "id": 17,
+      "unit_code": "volume-dessert-spoon",
+      "kategoriya": "volume",
+      "nazvanie": "десертна лъжица",
+      "shablon_edinstveno": "{0} десертна лъжица",
+      "shablon_mnozhestveno": "{0} десертни лъжици",
+      "kratak_shablon": "{0} дес. лъжици",
+      "tesen_shablon": "{0} дес. лъж."
+    },
+    {
+      "id": 18,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "брит. дес. лъжици",
+      "shablon_edinstveno": "{0} брит. дес. лъжица",
+      "shablon_mnozhestveno": "{0} брит. дес. лъжици",
+      "kratak_shablon": "{0} брит. дес. лъжици",
+      "tesen_shablon": "{0} брит. дес. лъж."
+    },
+    {
+      "id": 19,
+      "unit_code": "volume-dram",
+      "kategoriya": "volume",
+      "nazvanie": "драм",
+      "shablon_edinstveno": "{0} драм",
+      "shablon_mnozhestveno": "{0} драма",
+      "kratak_shablon": "{0} теч. драма",
+      "tesen_shablon": "{0} теч. драма"
+    },
+    {
+      "id": 20,
+      "unit_code": "volume-drop",
+      "kategoriya": "volume",
+      "nazvanie": "капки",
+      "shablon_edinstveno": "{0} капка",
+      "shablon_mnozhestveno": "{0} капки",
+      "kratak_shablon": "{0} капки",
+      "tesen_shablon": "{0} капки"
+    },
+    {
+      "id": 21,
+      "unit_code": "volume-fluid-ounce",
+      "kategoriya": "volume",
+      "nazvanie": "течни унции",
+      "shablon_edinstveno": "{0} течна унция",
+      "shablon_mnozhestveno": "{0} течни унции",
+      "kratak_shablon": "{0} fl oz US",
+      "tesen_shablon": "{0} fl oz US"
+    },
+    {
+      "id": 22,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "имперски течни унции",
+      "shablon_edinstveno": "{0} имперска течна унция",
+      "shablon_mnozhestveno": "{0} имперски течни унции",
+      "kratak_shablon": "{0} fl oz Imp.",
+      "tesen_shablon": "{0} fl oz Imp."
+    },
+    {
+      "id": 23,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategoriya": "volume",
+      "nazvanie": "метрични течни унции",
+      "shablon_edinstveno": "{0} метрична течна унция",
+      "shablon_mnozhestveno": "{0} метрични течни унции",
+      "kratak_shablon": "{0} fl oz m.",
+      "tesen_shablon": "{0} fl oz m."
+    },
+    {
+      "id": 24,
+      "unit_code": "volume-gallon",
+      "kategoriya": "volume",
+      "nazvanie": "галони",
+      "shablon_edinstveno": "{0} галон",
+      "shablon_mnozhestveno": "{0} галона",
+      "kratak_shablon": "{0} gal US",
+      "tesen_shablon": "{0} gal US"
+    },
+    {
+      "id": 25,
+      "unit_code": "volume-gallon-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "имперски галони",
+      "shablon_edinstveno": "{0} имперски галон",
+      "shablon_mnozhestveno": "{0} имперски галона",
+      "kratak_shablon": "{0} имп. галона",
+      "tesen_shablon": "{0} имп. галона"
+    },
+    {
+      "id": 26,
+      "unit_code": "volume-hectoliter",
+      "kategoriya": "volume",
+      "nazvanie": "хектолитри",
+      "shablon_edinstveno": "{0} хектолитър",
+      "shablon_mnozhestveno": "{0} хектолитра",
+      "kratak_shablon": "{0} hl",
+      "tesen_shablon": "{0} hl"
+    },
+    {
+      "id": 27,
+      "unit_code": "volume-jigger",
+      "kategoriya": "volume",
+      "nazvanie": "джигър",
+      "shablon_edinstveno": "{0} джигър",
+      "shablon_mnozhestveno": "{0} джигъра",
+      "kratak_shablon": "{0} джигъра",
+      "tesen_shablon": "{0} джигъра"
+    },
+    {
+      "id": 28,
+      "unit_code": "volume-koku",
+      "kategoriya": "volume",
+      "nazvanie": "koku [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} koku [JP]",
+      "kratak_shablon": "{0} koku [JP]",
+      "tesen_shablon": "{0} koku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "volume-kosaji",
+      "kategoriya": "volume",
+      "nazvanie": "kosaji [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} kosaji [JP]",
+      "kratak_shablon": "{0} kosaji [JP]",
+      "tesen_shablon": "{0} kosaji [JP]"
+    },
+    {
+      "id": 30,
+      "unit_code": "volume-liter",
+      "kategoriya": "volume",
+      "nazvanie": "литри",
+      "shablon_edinstveno": "{0} литър",
+      "shablon_mnozhestveno": "{0} литра",
+      "kratak_shablon": "{0} l",
+      "tesen_shablon": "{0} l"
+    },
+    {
+      "id": 31,
+      "unit_code": "volume-megaliter",
+      "kategoriya": "volume",
+      "nazvanie": "мегалитри",
+      "shablon_edinstveno": "{0} мегалитър",
+      "shablon_mnozhestveno": "{0} мегалитра",
+      "kratak_shablon": "{0} Ml",
+      "tesen_shablon": "{0} Ml"
+    },
+    {
+      "id": 32,
+      "unit_code": "volume-milliliter",
+      "kategoriya": "volume",
+      "nazvanie": "милилитри",
+      "shablon_edinstveno": "{0} милилитър",
+      "shablon_mnozhestveno": "{0} милилитра",
+      "kratak_shablon": "{0} ml",
+      "tesen_shablon": "{0} ml"
+    },
+    {
+      "id": 33,
+      "unit_code": "volume-osaji",
+      "kategoriya": "volume",
+      "nazvanie": "osaji [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} osaji [JP]",
+      "kratak_shablon": "{0} osaji [JP]",
+      "tesen_shablon": "{0} osaji [JP]"
+    },
+    {
+      "id": 34,
+      "unit_code": "volume-pinch",
+      "kategoriya": "volume",
+      "nazvanie": "щипка",
+      "shablon_edinstveno": "{0} щипка",
+      "shablon_mnozhestveno": "{0} щипки",
+      "kratak_shablon": "{0} щипки",
+      "tesen_shablon": "{0} щипки"
+    },
+    {
+      "id": 35,
+      "unit_code": "volume-pint",
+      "kategoriya": "volume",
+      "nazvanie": "пинти",
+      "shablon_edinstveno": "{0} пинта",
+      "shablon_mnozhestveno": "{0} пинти",
+      "kratak_shablon": "{0} pt",
+      "tesen_shablon": "{0} pt"
+    },
+    {
+      "id": 36,
+      "unit_code": "volume-pint-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "pint Imp.",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} pt Imp.",
+      "kratak_shablon": "{0} pt Imp.",
+      "tesen_shablon": "{0} pt Imp."
+    },
+    {
+      "id": 37,
+      "unit_code": "volume-pint-metric",
+      "kategoriya": "volume",
+      "nazvanie": "метрични пинти",
+      "shablon_edinstveno": "{0} метрична пинта",
+      "shablon_mnozhestveno": "{0} метрични пинти",
+      "kratak_shablon": "{0} mpt",
+      "tesen_shablon": "{0} mpt"
+    },
+    {
+      "id": 38,
+      "unit_code": "volume-quart",
+      "kategoriya": "volume",
+      "nazvanie": "кварти",
+      "shablon_edinstveno": "{0} кварта",
+      "shablon_mnozhestveno": "{0} кварти",
+      "kratak_shablon": "{0} qt",
+      "tesen_shablon": "{0} qt"
+    },
+    {
+      "id": 39,
+      "unit_code": "volume-quart-imperial",
+      "kategoriya": "volume",
+      "nazvanie": "имперски кварти",
+      "shablon_edinstveno": "{0} имперска кварта",
+      "shablon_mnozhestveno": "{0} имперски кварти",
+      "kratak_shablon": "{0} имп. кварти",
+      "tesen_shablon": "{0} имп. кварти"
+    },
+    {
+      "id": 40,
+      "unit_code": "volume-sai",
+      "kategoriya": "volume",
+      "nazvanie": "sai [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} sai [JP]",
+      "kratak_shablon": "{0} sai [JP]",
+      "tesen_shablon": "{0} sai [JP]"
+    },
+    {
+      "id": 41,
+      "unit_code": "volume-shaku",
+      "kategoriya": "volume",
+      "nazvanie": "shaku [vol, JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} shaku [vol, JP]",
+      "kratak_shablon": "{0} shaku [vol, JP]",
+      "tesen_shablon": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 42,
+      "unit_code": "volume-tablespoon",
+      "kategoriya": "volume",
+      "nazvanie": "супени лъжици",
+      "shablon_edinstveno": "{0} супена лъжица",
+      "shablon_mnozhestveno": "{0} супени лъжици",
+      "kratak_shablon": "{0} с. л.",
+      "tesen_shablon": "{0} с. л."
+    },
+    {
+      "id": 43,
+      "unit_code": "volume-teaspoon",
+      "kategoriya": "volume",
+      "nazvanie": "чаени лъжици",
+      "shablon_edinstveno": "{0} чаена лъжица",
+      "shablon_mnozhestveno": "{0} чаени лъжици",
+      "kratak_shablon": "{0} ч. л.",
+      "tesen_shablon": "{0} ч. л."
+    },
+    {
+      "id": 44,
+      "unit_code": "volume-to-jp",
+      "kategoriya": "volume",
+      "nazvanie": "to [JP]",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} to [JP]",
+      "kratak_shablon": "{0} to [JP]",
+      "tesen_shablon": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: volume (44) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'volume'. Съдържа 44 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: volume (44) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: volume (44) — 44 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 44 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

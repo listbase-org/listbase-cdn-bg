@@ -1,0 +1,1870 @@
+{
+  "id": "bg-osm-shop-books",
+  "name": "Книжарници в България (OpenStreetMap)",
+  "title": "Книжарници в България (OpenStreetMap)",
+  "description": "Книжарници в България — 201 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=books`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 201,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Alba",
+      "shirina": 42.691224,
+      "dalzhina": 23.330506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 2,
+      "ime": "Art Plus",
+      "shirina": 42.672476,
+      "dalzhina": 23.300057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 3,
+      "ime": "Avrtikl",
+      "shirina": 42.697351,
+      "dalzhina": 23.319542,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 4,
+      "ime": "Best choice",
+      "shirina": 42.701618,
+      "dalzhina": 23.297905,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 5,
+      "ime": "Big shop",
+      "shirina": 42.618049,
+      "dalzhina": 25.384831,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 6,
+      "ime": "Book Point",
+      "shirina": 42.496065,
+      "dalzhina": 27.471558,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 7,
+      "ime": "Book ли",
+      "shirina": 42.71228,
+      "dalzhina": 23.267598,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 8,
+      "ime": "Bookpoint",
+      "shirina": 42.423602,
+      "dalzhina": 25.623691,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 9,
+      "ime": "Booktrading",
+      "shirina": 42.12785,
+      "dalzhina": 24.7206,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 10,
+      "ime": "Booktrading",
+      "shirina": 42.664259,
+      "dalzhina": 23.28898,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 11,
+      "ime": "Booktrading",
+      "shirina": 42.679584,
+      "dalzhina": 23.367261,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 12,
+      "ime": "Booktrading",
+      "shirina": 42.691248,
+      "dalzhina": 23.325374,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 13,
+      "ime": "Bucherstube",
+      "shirina": 42.68922,
+      "dalzhina": 23.329393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 14,
+      "ime": "CLC",
+      "shirina": 42.701084,
+      "dalzhina": 23.325972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 15,
+      "ime": "Ciela",
+      "shirina": 42.145406,
+      "dalzhina": 24.781421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 16,
+      "ime": "Ciela",
+      "shirina": 42.61101,
+      "dalzhina": 23.040167,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 17,
+      "ime": "Ciela",
+      "shirina": 42.658003,
+      "dalzhina": 23.314502,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 18,
+      "ime": "Ciela",
+      "shirina": 42.661087,
+      "dalzhina": 23.383549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 19,
+      "ime": "Ciela",
+      "shirina": 42.6785,
+      "dalzhina": 23.320388,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 20,
+      "ime": "Ciela",
+      "shirina": 42.68944,
+      "dalzhina": 23.318916,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 21,
+      "ime": "Ciela",
+      "shirina": 42.689687,
+      "dalzhina": 23.326822,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 22,
+      "ime": "Ciela",
+      "shirina": 42.689817,
+      "dalzhina": 23.279069,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 23,
+      "ime": "Ciela",
+      "shirina": 42.692895,
+      "dalzhina": 23.323445,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 24,
+      "ime": "Ciela",
+      "shirina": 42.69298,
+      "dalzhina": 23.334539,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 25,
+      "ime": "Ciela",
+      "shirina": 43.854522,
+      "dalzhina": 25.990177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 26,
+      "ime": "Coffee-Bookstore Dobrota",
+      "shirina": 42.120777,
+      "dalzhina": 24.731809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 27,
+      "ime": "Colibri",
+      "shirina": 42.691292,
+      "dalzhina": 23.330392,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 28,
+      "ime": "Educational centre",
+      "shirina": 42.689228,
+      "dalzhina": 23.323085,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 29,
+      "ime": "Elephant Bookstore",
+      "shirina": 42.690028,
+      "dalzhina": 23.328493,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 30,
+      "ime": "Fox book cafe",
+      "shirina": 42.691604,
+      "dalzhina": 23.318998,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 31,
+      "ime": "Greenwich",
+      "shirina": 42.700051,
+      "dalzhina": 23.321851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 32,
+      "ime": "Hippocrates",
+      "shirina": 42.683379,
+      "dalzhina": 23.313145,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 33,
+      "ime": "Millennium",
+      "shirina": 42.691843,
+      "dalzhina": 23.330207,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 34,
+      "ime": "Orange",
+      "shirina": 42.145173,
+      "dalzhina": 24.749343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 35,
+      "ime": "Orange",
+      "shirina": 42.145371,
+      "dalzhina": 24.782068,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 36,
+      "ime": "Orange",
+      "shirina": 42.49542,
+      "dalzhina": 27.471522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 37,
+      "ime": "Orange",
+      "shirina": 42.504039,
+      "dalzhina": 27.47003,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 38,
+      "ime": "Orange",
+      "shirina": 42.641018,
+      "dalzhina": 23.335202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 39,
+      "ime": "Orange",
+      "shirina": 42.657763,
+      "dalzhina": 23.314136,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 40,
+      "ime": "Orange",
+      "shirina": 42.660431,
+      "dalzhina": 23.383443,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 41,
+      "ime": "Orange",
+      "shirina": 42.679678,
+      "dalzhina": 23.367572,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 42,
+      "ime": "Orange",
+      "shirina": 42.69239,
+      "dalzhina": 23.324202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 43,
+      "ime": "Ortograph.com",
+      "shirina": 42.688608,
+      "dalzhina": 23.324927,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 44,
+      "ime": "Oxford BookHouse",
+      "shirina": 42.692094,
+      "dalzhina": 23.318037,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 45,
+      "ime": "Ozone",
+      "shirina": 43.218141,
+      "dalzhina": 27.898343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 46,
+      "ime": "Roel 98",
+      "shirina": 42.692345,
+      "dalzhina": 23.355636,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 47,
+      "ime": "Sezam Books",
+      "shirina": 42.650523,
+      "dalzhina": 23.402013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 48,
+      "ime": "Shakespear",
+      "shirina": 43.205399,
+      "dalzhina": 27.913536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 49,
+      "ime": "Sunday Habit",
+      "shirina": 42.657229,
+      "dalzhina": 23.315697,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 50,
+      "ime": "Wild & Happy Kids",
+      "shirina": 42.683979,
+      "dalzhina": 23.329856,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 51,
+      "ime": "Youshop.bg",
+      "shirina": 42.626404,
+      "dalzhina": 23.377522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 52,
+      "ime": "АБВ",
+      "shirina": 42.132925,
+      "dalzhina": 24.794851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 53,
+      "ime": "АБВ",
+      "shirina": 43.207055,
+      "dalzhina": 27.921731,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 54,
+      "ime": "АБВ Техническа книжарница",
+      "shirina": 43.199742,
+      "dalzhina": 27.917243,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 55,
+      "ime": "АБВ книжарница К.Кондов",
+      "shirina": 43.202191,
+      "dalzhina": 27.914761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 56,
+      "ime": "Адис",
+      "shirina": 42.744269,
+      "dalzhina": 23.278653,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 57,
+      "ime": "АлиВал",
+      "shirina": 42.616131,
+      "dalzhina": 23.337474,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 58,
+      "ime": "Алфа Трейд 2016",
+      "shirina": 42.699528,
+      "dalzhina": 23.302465,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 59,
+      "ime": "Амита",
+      "shirina": 42.677234,
+      "dalzhina": 23.323593,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 60,
+      "ime": "Анджело Ронкали",
+      "shirina": 42.694843,
+      "dalzhina": 23.344421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 61,
+      "ime": "Анико",
+      "shirina": 42.619415,
+      "dalzhina": 25.39799,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 62,
+      "ime": "Антикварица",
+      "shirina": 42.691355,
+      "dalzhina": 23.323444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 63,
+      "ime": "Антикварница",
+      "shirina": 42.68968,
+      "dalzhina": 23.33111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 64,
+      "ime": "Белканто",
+      "shirina": 42.490772,
+      "dalzhina": 27.475905,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 65,
+      "ime": "Бестселър",
+      "shirina": 42.695099,
+      "dalzhina": 23.321557,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 66,
+      "ime": "Борса учебници",
+      "shirina": 42.691967,
+      "dalzhina": 23.324832,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 67,
+      "ime": "Бултериер",
+      "shirina": 42.689478,
+      "dalzhina": 23.32912,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 68,
+      "ime": "Буратино",
+      "shirina": 42.713942,
+      "dalzhina": 27.759216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 69,
+      "ime": "Български Композитор",
+      "shirina": 42.693961,
+      "dalzhina": 23.325841,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 70,
+      "ime": "Български книжици",
+      "shirina": 42.694017,
+      "dalzhina": 23.329183,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 71,
+      "ime": "Ведомствена Книжарница",
+      "shirina": 42.139229,
+      "dalzhina": 24.746139,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 72,
+      "ime": "Ведомствена книжарница Коев дизайн",
+      "shirina": 42.421772,
+      "dalzhina": 25.629191,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 73,
+      "ime": "Верен",
+      "shirina": 42.692183,
+      "dalzhina": 23.323505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 74,
+      "ime": "Вержи-2007",
+      "shirina": 42.693281,
+      "dalzhina": 23.311783,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 75,
+      "ime": "Военно издателство",
+      "shirina": 42.692801,
+      "dalzhina": 23.327848,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 76,
+      "ime": "Втора употреба",
+      "shirina": 43.20669,
+      "dalzhina": 27.917108,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 77,
+      "ime": "Вълшебен свят",
+      "shirina": 42.65189,
+      "dalzhina": 23.333034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 78,
+      "ime": "Галактика",
+      "shirina": 42.693889,
+      "dalzhina": 23.349556,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 79,
+      "ime": "Графити",
+      "shirina": 43.571587,
+      "dalzhina": 27.827953,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 80,
+      "ime": "Гринуич",
+      "shirina": 42.69231,
+      "dalzhina": 23.320463,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 81,
+      "ime": "Дженесис",
+      "shirina": 42.689612,
+      "dalzhina": 23.343046,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 82,
+      "ime": "Дом на книгата",
+      "shirina": 42.191657,
+      "dalzhina": 24.332463,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 83,
+      "ime": "Домино",
+      "shirina": 43.075919,
+      "dalzhina": 25.630968,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 84,
+      "ime": "Дъга",
+      "shirina": 42.677261,
+      "dalzhina": 23.2925,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 85,
+      "ime": "Елрид",
+      "shirina": 42.692303,
+      "dalzhina": 23.323148,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 86,
+      "ime": "Здравец",
+      "shirina": 42.482046,
+      "dalzhina": 26.510534,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 87,
+      "ime": "Здравец",
+      "shirina": 42.483164,
+      "dalzhina": 26.506172,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 88,
+      "ime": "Златно моливче",
+      "shirina": 42.686418,
+      "dalzhina": 23.324111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 89,
+      "ime": "Идея",
+      "shirina": 41.569345,
+      "dalzhina": 24.731839,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 90,
+      "ime": "Издателство Бяло Братство",
+      "shirina": 42.671419,
+      "dalzhina": 23.348168,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 91,
+      "ime": "КООП",
+      "shirina": 42.694175,
+      "dalzhina": 23.705711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 92,
+      "ime": "Кибеа",
+      "shirina": 42.689625,
+      "dalzhina": 23.325596,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 93,
+      "ime": "Класика",
+      "shirina": 43.210333,
+      "dalzhina": 27.908464,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 94,
+      "ime": "Книги, преса &",
+      "shirina": 42.687389,
+      "dalzhina": 23.329604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 95,
+      "ime": "Книгомания",
+      "shirina": 42.68648,
+      "dalzhina": 23.324362,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 96,
+      "ime": "Книгомания",
+      "shirina": 42.687666,
+      "dalzhina": 23.31171,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 97,
+      "ime": "Книгофилница",
+      "shirina": 42.692431,
+      "dalzhina": 23.324553,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 98,
+      "ime": "Книжарница",
+      "shirina": 42.267131,
+      "dalzhina": 27.75566,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 99,
+      "ime": "Книжарница",
+      "shirina": 43.192187,
+      "dalzhina": 27.704948,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 100,
+      "ime": "Книжарница",
+      "shirina": 43.203517,
+      "dalzhina": 27.918237,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 101,
+      "ime": "Книжарница \"Всичко за Ученика\"",
+      "shirina": 42.14115,
+      "dalzhina": 24.794167,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 102,
+      "ime": "Книжарница \"Гаджева\"",
+      "shirina": 43.224207,
+      "dalzhina": 27.913488,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 103,
+      "ime": "Книжарница \"Деал\"",
+      "shirina": 42.705612,
+      "dalzhina": 23.283678,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 104,
+      "ime": "Книжарница \"Ели\"",
+      "shirina": 43.74193,
+      "dalzhina": 27.414004,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 105,
+      "ime": "Книжарница \"Тоана\"",
+      "shirina": 42.503724,
+      "dalzhina": 24.188264,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 106,
+      "ime": "Книжарница 57",
+      "shirina": 42.70136,
+      "dalzhina": 23.308242,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 107,
+      "ime": "Книжарница BookPoint",
+      "shirina": 43.204832,
+      "dalzhina": 27.91774,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 108,
+      "ime": "Книжарница АБВ",
+      "shirina": 43.206749,
+      "dalzhina": 27.910568,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 109,
+      "ime": "Книжарница Галактика",
+      "shirina": 43.236577,
+      "dalzhina": 25.307191,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 110,
+      "ime": "Книжарница Просвета Пловдив",
+      "shirina": 42.13141,
+      "dalzhina": 24.783015,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 111,
+      "ime": "Книжарница Рамита",
+      "shirina": 42.615965,
+      "dalzhina": 25.391769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 112,
+      "ime": "Книжарница Хермес",
+      "shirina": 42.493578,
+      "dalzhina": 27.474766,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 113,
+      "ime": "Книжарница и книжна борса Сова-ЛМ",
+      "shirina": 42.151494,
+      "dalzhina": 24.735604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 114,
+      "ime": "Книжарница на БАН",
+      "shirina": 42.694885,
+      "dalzhina": 23.332174,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 115,
+      "ime": "Книжарница от А до Я",
+      "shirina": 42.670715,
+      "dalzhina": 23.321306,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 116,
+      "ime": "Книжарницата",
+      "shirina": 42.782828,
+      "dalzhina": 23.391061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 117,
+      "ime": "Книжарници Миртани",
+      "shirina": 42.144653,
+      "dalzhina": 24.758184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 118,
+      "ime": "Книжен Ъгъл",
+      "shirina": 42.693385,
+      "dalzhina": 23.353303,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 119,
+      "ime": "Книжна борса",
+      "shirina": 42.141134,
+      "dalzhina": 24.756304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 120,
+      "ime": "Култовица",
+      "shirina": 42.700222,
+      "dalzhina": 23.315526,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 121,
+      "ime": "Къща за птици",
+      "shirina": 42.693919,
+      "dalzhina": 23.343961,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 122,
+      "ime": "Литературен клуб Перото",
+      "shirina": 42.684747,
+      "dalzhina": 23.319622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 123,
+      "ime": "Люпен",
+      "shirina": 42.694032,
+      "dalzhina": 23.348098,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 124,
+      "ime": "Манастирска книжарница",
+      "shirina": 42.133398,
+      "dalzhina": 23.339625,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 125,
+      "ime": "Махала",
+      "shirina": 42.700428,
+      "dalzhina": 23.328338,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 126,
+      "ime": "Мери",
+      "shirina": 42.691263,
+      "dalzhina": 23.322177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 127,
+      "ime": "Микена",
+      "shirina": 42.692344,
+      "dalzhina": 23.323604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 128,
+      "ime": "Милеа",
+      "shirina": 43.081172,
+      "dalzhina": 25.627125,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 129,
+      "ime": "Моливко",
+      "shirina": 42.472387,
+      "dalzhina": 26.521728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 130,
+      "ime": "Моливчето",
+      "shirina": 43.080412,
+      "dalzhina": 25.633475,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 131,
+      "ime": "Моята книжарница",
+      "shirina": 42.691052,
+      "dalzhina": 23.311575,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 132,
+      "ime": "Моята книжарница",
+      "shirina": 42.698629,
+      "dalzhina": 23.332635,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 133,
+      "ime": "НИМБ",
+      "shirina": 42.429648,
+      "dalzhina": 25.643428,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 134,
+      "ime": "Надежда",
+      "shirina": 42.151288,
+      "dalzhina": 24.746951,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 135,
+      "ime": "Надежда",
+      "shirina": 43.203502,
+      "dalzhina": 27.917673,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 136,
+      "ime": "Научна литература",
+      "shirina": 42.674811,
+      "dalzhina": 23.36962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 137,
+      "ime": "Нашата книжарница",
+      "shirina": 42.701241,
+      "dalzhina": 23.327206,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 138,
+      "ime": "Нисим",
+      "shirina": 42.689047,
+      "dalzhina": 23.329734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 139,
+      "ime": "Нова епоха",
+      "shirina": 42.689442,
+      "dalzhina": 23.325118,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 140,
+      "ime": "Они",
+      "shirina": 42.701251,
+      "dalzhina": 23.326421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 141,
+      "ime": "Пасер",
+      "shirina": 42.69086,
+      "dalzhina": 23.315677,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 142,
+      "ime": "Пегас",
+      "shirina": 42.141216,
+      "dalzhina": 24.756911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 143,
+      "ime": "Пегас",
+      "shirina": 43.268169,
+      "dalzhina": 26.937297,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 144,
+      "ime": "Персеиди",
+      "shirina": 42.664831,
+      "dalzhina": 23.28508,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 145,
+      "ime": "Петър Берон",
+      "shirina": 42.693121,
+      "dalzhina": 23.331616,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 146,
+      "ime": "Пингвините",
+      "shirina": 43.524727,
+      "dalzhina": 26.527548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 147,
+      "ime": "Просвета",
+      "shirina": 42.688781,
+      "dalzhina": 23.345207,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 148,
+      "ime": "Пчела",
+      "shirina": 43.421497,
+      "dalzhina": 24.595016,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 149,
+      "ime": "Рай",
+      "shirina": 42.688391,
+      "dalzhina": 23.370779,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 150,
+      "ime": "Рики - всичко за ученика",
+      "shirina": 42.547816,
+      "dalzhina": 22.966349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 151,
+      "ime": "Русская Книга",
+      "shirina": 42.494031,
+      "dalzhina": 27.475898,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 152,
+      "ime": "Русская книга",
+      "shirina": 42.557602,
+      "dalzhina": 27.640859,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 153,
+      "ime": "Светофар",
+      "shirina": 42.691981,
+      "dalzhina": 23.324865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 154,
+      "ime": "Селена",
+      "shirina": 43.079616,
+      "dalzhina": 25.628855,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 155,
+      "ime": "Сиела",
+      "shirina": 43.204251,
+      "dalzhina": 27.922213,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 156,
+      "ime": "София Т.",
+      "shirina": 42.148662,
+      "dalzhina": 24.749522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 157,
+      "ime": "Татко Фин",
+      "shirina": 42.670778,
+      "dalzhina": 23.301922,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 158,
+      "ime": "Татко Фин",
+      "shirina": 42.677678,
+      "dalzhina": 23.286063,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 159,
+      "ime": "Татко фин",
+      "shirina": 42.68956,
+      "dalzhina": 23.364138,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 160,
+      "ime": "Твоята книжарница",
+      "shirina": 42.691005,
+      "dalzhina": 23.311631,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 161,
+      "ime": "Университетска книжарница",
+      "shirina": 43.854552,
+      "dalzhina": 25.970199,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 162,
+      "ime": "Университетска книжарница - Габрово",
+      "shirina": 42.875252,
+      "dalzhina": 25.316733,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 163,
+      "ime": "Учителят и Ученикът",
+      "shirina": 42.687142,
+      "dalzhina": 23.327053,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 164,
+      "ime": "Фон-Фон",
+      "shirina": 42.671394,
+      "dalzhina": 23.295468,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 165,
+      "ime": "Хеликон",
+      "shirina": 41.932007,
+      "dalzhina": 25.555809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 166,
+      "ime": "Хеликон",
+      "shirina": 42.01689,
+      "dalzhina": 23.094814,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 167,
+      "ime": "Хеликон",
+      "shirina": 42.145345,
+      "dalzhina": 24.749288,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 168,
+      "ime": "Хеликон",
+      "shirina": 42.148559,
+      "dalzhina": 24.747652,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 169,
+      "ime": "Хеликон",
+      "shirina": 42.265039,
+      "dalzhina": 23.606339,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 170,
+      "ime": "Хеликон",
+      "shirina": 42.42417,
+      "dalzhina": 25.627034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 171,
+      "ime": "Хеликон",
+      "shirina": 42.426133,
+      "dalzhina": 25.636701,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 172,
+      "ime": "Хеликон",
+      "shirina": 42.482094,
+      "dalzhina": 26.511406,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 173,
+      "ime": "Хеликон",
+      "shirina": 42.494257,
+      "dalzhina": 27.472319,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 174,
+      "ime": "Хеликон",
+      "shirina": 42.497304,
+      "dalzhina": 27.470418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 175,
+      "ime": "Хеликон",
+      "shirina": 42.680205,
+      "dalzhina": 26.319228,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 176,
+      "ime": "Хеликон",
+      "shirina": 42.690335,
+      "dalzhina": 23.319638,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 177,
+      "ime": "Хеликон",
+      "shirina": 42.690387,
+      "dalzhina": 23.328879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 178,
+      "ime": "Хеликон",
+      "shirina": 42.692342,
+      "dalzhina": 23.323645,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 179,
+      "ime": "Хеликон",
+      "shirina": 42.693995,
+      "dalzhina": 23.322214,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 180,
+      "ime": "Хеликон",
+      "shirina": 42.872679,
+      "dalzhina": 25.318976,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 181,
+      "ime": "Хеликон",
+      "shirina": 43.080116,
+      "dalzhina": 25.630042,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 182,
+      "ime": "Хеликон",
+      "shirina": 43.203355,
+      "dalzhina": 27.915762,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 183,
+      "ime": "Хеликон",
+      "shirina": 43.205789,
+      "dalzhina": 27.920079,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 184,
+      "ime": "Хеликон",
+      "shirina": 43.270985,
+      "dalzhina": 26.924055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 185,
+      "ime": "Хеликон",
+      "shirina": 43.566543,
+      "dalzhina": 27.83109,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 186,
+      "ime": "Хеликон",
+      "shirina": 43.850044,
+      "dalzhina": 25.954654,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 187,
+      "ime": "Хермес",
+      "shirina": 41.932219,
+      "dalzhina": 25.555022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 188,
+      "ime": "Хермес",
+      "shirina": 42.138233,
+      "dalzhina": 24.790706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 189,
+      "ime": "Хермес",
+      "shirina": 42.14404,
+      "dalzhina": 24.749659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 190,
+      "ime": "Хермес",
+      "shirina": 42.680377,
+      "dalzhina": 26.317797,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 191,
+      "ime": "Хермес",
+      "shirina": 42.697035,
+      "dalzhina": 23.318438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 192,
+      "ime": "Хермес",
+      "shirina": 43.208845,
+      "dalzhina": 27.919081,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 193,
+      "ime": "Хирон",
+      "shirina": 43.215275,
+      "dalzhina": 27.909087,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 194,
+      "ime": "Хирон 2000",
+      "shirina": 43.21103,
+      "dalzhina": 27.913938,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 195,
+      "ime": "Христянски книжен център",
+      "shirina": 42.69268,
+      "dalzhina": 23.321882,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 196,
+      "ime": "Цар лъв",
+      "shirina": 42.717008,
+      "dalzhina": 23.268659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 197,
+      "ime": "Център за правна литература",
+      "shirina": 42.699384,
+      "dalzhina": 23.320752,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 198,
+      "ime": "Център за ученика",
+      "shirina": 42.906463,
+      "dalzhina": 23.791881,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 199,
+      "ime": "антикварна книжарница",
+      "shirina": 43.20479,
+      "dalzhina": 27.915654,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 200,
+      "ime": "книжарница към МГУ",
+      "shirina": 42.659297,
+      "dalzhina": 23.353454,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    },
+    {
+      "id": 201,
+      "ime": "читАлнЯта",
+      "shirina": 42.694916,
+      "dalzhina": 23.324713,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "books",
+      "osm_klas": "shop=books"
+    }
+  ],
+  "meta": {
+    "title": "Книжарници в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Книжарници в България — 201 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=books`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 201 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Книжарници в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Книжарници в България (OpenStreetMap) — 201 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 201 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

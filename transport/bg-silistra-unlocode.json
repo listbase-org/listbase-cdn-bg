@@ -1,0 +1,296 @@
+{
+  "id": "bg-silistra-unlocode",
+  "name": "UN/LOCODE — област Силистра (UN/LOCODE locations in Silistra Province)",
+  "title": "UN/LOCODE — област Силистра (UN/LOCODE locations in Silistra Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Силистра (Silistra), 5 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-19). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Silistra Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 53,
+      "locode": "BGDBA",
+      "country": "BG",
+      "location": "DBA",
+      "name": "Dobrotitsa",
+      "name_wo_diacritics": "Dobrotitsa",
+      "subdivision_code": "19",
+      "subdivision_name": "Silistra",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4357N 02701E",
+      "latitude": 43.95,
+      "longitude": 27.0167,
+      "date_updated": "2022-07",
+      "remarks": "",
+      "oblast_code": "SLS",
+      "oblast_name": "Силистра",
+      "oblast_name_latin": "Silistra",
+      "oblast_slug": "silistra",
+      "oblast_ekatte": "66425",
+      "nuts_region": "BG32"
+    },
+    {
+      "id": 2,
+      "parent_index": 114,
+      "locode": "BGKAV",
+      "country": "BG",
+      "location": "KAV",
+      "name": "Kalipetrovo",
+      "name_wo_diacritics": "Kalipetrovo",
+      "subdivision_code": "19",
+      "subdivision_name": "Silistra",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4405N 02714E",
+      "latitude": 44.0833,
+      "longitude": 27.2333,
+      "date_updated": "2011-01",
+      "remarks": "",
+      "oblast_code": "SLS",
+      "oblast_name": "Силистра",
+      "oblast_name_latin": "Silistra",
+      "oblast_slug": "silistra",
+      "oblast_ekatte": "66425",
+      "nuts_region": "BG32"
+    },
+    {
+      "id": 3,
+      "parent_index": 226,
+      "locode": "BGRAN",
+      "country": "BG",
+      "location": "RAN",
+      "name": "Grancharovo",
+      "name_wo_diacritics": "Grancharovo",
+      "subdivision_code": "19",
+      "subdivision_name": "Silistra",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4343N 02707E",
+      "latitude": 43.7167,
+      "longitude": 27.1167,
+      "date_updated": "2020-01",
+      "remarks": "",
+      "oblast_code": "SLS",
+      "oblast_name": "Силистра",
+      "oblast_name_latin": "Silistra",
+      "oblast_slug": "silistra",
+      "oblast_ekatte": "66425",
+      "nuts_region": "BG32"
+    },
+    {
+      "id": 4,
+      "parent_index": 252,
+      "locode": "BGSIL",
+      "country": "BG",
+      "location": "SIL",
+      "name": "Paisievo",
+      "name_wo_diacritics": "Paisievo",
+      "subdivision_code": "19",
+      "subdivision_name": "Silistra",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4347N 02658E",
+      "latitude": 43.7833,
+      "longitude": 26.9667,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "SLS",
+      "oblast_name": "Силистра",
+      "oblast_name_latin": "Silistra",
+      "oblast_slug": "silistra",
+      "oblast_ekatte": "66425",
+      "nuts_region": "BG32"
+    },
+    {
+      "id": 5,
+      "parent_index": 334,
+      "locode": "BGZHA",
+      "country": "BG",
+      "location": "ZHA",
+      "name": "Kaynardzha",
+      "name_wo_diacritics": "Kaynardzha",
+      "subdivision_code": "19",
+      "subdivision_name": "Silistra",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4359N 02730E",
+      "latitude": 43.9833,
+      "longitude": 27.5,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "SLS",
+      "oblast_name": "Силистра",
+      "oblast_name_latin": "Silistra",
+      "oblast_slug": "silistra",
+      "oblast_ekatte": "66425",
+      "nuts_region": "BG32"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Силистра (UN/LOCODE locations in Silistra Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Силистра (Silistra), 5 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-19). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Silistra Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Силистра (UN/LOCODE locations in Silistra Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Силистра (UN/LOCODE locations in Silistra Province) — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

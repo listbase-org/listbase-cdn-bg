@@ -1,0 +1,271 @@
+{
+  "id": "bg-smoljan-obshtini",
+  "name": "Общини — област Смолян (Municipalities of Smolyan)",
+  "title": "Общини — област Смолян (Municipalities of Smolyan)",
+  "description": "Списък на общините в област Смолян (Smolyan oblast). 10 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SML. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 154,
+      "gisco_id": "BG_SML02",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Баните",
+      "name_en": "",
+      "slug": "banite",
+      "population_2024": 3078,
+      "population_density_2024_per_km2": 10.21982954,
+      "area_km2": 301.17919163,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://banite.egov.bg/wps/wcm/connect/banite.egov.bg-18421/09d7513c-1f98-4420-873f-0b9f5ab1d4fe/%D0",
+      "comment": ""
+    },
+    {
+      "id": 155,
+      "gisco_id": "BG_SML05",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Борино",
+      "name_en": "",
+      "slug": "borino",
+      "population_2024": 2435,
+      "population_density_2024_per_km2": 14.08389156,
+      "area_km2": 172.89255528,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.borino.bg/Libraries/%D0%9E%D0%B1%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F3/%D0%9E%D0%B1",
+      "comment": ""
+    },
+    {
+      "id": 156,
+      "gisco_id": "BG_SML09",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Девин",
+      "name_en": "",
+      "slug": "devin",
+      "population_2024": 9275,
+      "population_density_2024_per_km2": 16.16360379,
+      "area_km2": 573.82005393,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.devin.bg/files/2025/F_Proekt.pdf",
+      "comment": ""
+    },
+    {
+      "id": 165,
+      "gisco_id": "BG_SML10",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Доспат",
+      "name_en": "",
+      "slug": "dospat",
+      "population_2024": 7132,
+      "population_density_2024_per_km2": 25.2458376,
+      "area_km2": 282.50201532,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://dospat.bg/wps/portal/municipality-dospat/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 166,
+      "gisco_id": "BG_SML11",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Златоград",
+      "name_en": "",
+      "slug": "zlatograd",
+      "population_2024": 9304,
+      "population_density_2024_per_km2": 53.6043224,
+      "area_km2": 173.56809271,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://zlatograd.bg/uploads/news_docs/Obsht.PNRB-Zlatograd.doc",
+      "comment": ""
+    },
+    {
+      "id": 167,
+      "gisco_id": "BG_SML16",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Мадан",
+      "name_en": "",
+      "slug": "madan",
+      "population_2024": 9603,
+      "population_density_2024_per_km2": 54.91646716,
+      "area_km2": 174.86558215,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.obs.madan.bg/images/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0%9F%D0%9D%D0%A0%",
+      "comment": ""
+    },
+    {
+      "id": 168,
+      "gisco_id": "BG_SML18",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Неделино",
+      "name_en": "Nedelino",
+      "slug": "nedelino",
+      "population_2024": 4844,
+      "population_density_2024_per_km2": 47.37506652,
+      "area_km2": 102.24787754,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 169,
+      "gisco_id": "BG_SML27",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Рудозем",
+      "name_en": "Rudozem",
+      "slug": "rudozem",
+      "population_2024": 8362,
+      "population_density_2024_per_km2": 44.93126607,
+      "area_km2": 186.10648512,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 170,
+      "gisco_id": "BG_SML31",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Смолян",
+      "name_en": "",
+      "slug": "smolyan",
+      "population_2024": 32351,
+      "population_density_2024_per_km2": 38.06568717,
+      "area_km2": 849.87300651,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.smolyan.bg/media/content_files/file/0%20-%20%D0%94%D0%9D%D0%95%D0%92%D0%95%D0%9D%20%D0%A",
+      "comment": ""
+    },
+    {
+      "id": 171,
+      "gisco_id": "BG_SML38",
+      "oblast_code": "SML",
+      "oblast_slug": "smoljan",
+      "oblast_bg": "Смолян",
+      "oblast_en": "Smolyan",
+      "name_bg": "Чепеларе",
+      "name_en": "",
+      "slug": "chepelare",
+      "population_2024": 5723,
+      "population_density_2024_per_km2": 14.75283392,
+      "area_km2": 387.92546784,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "http://chepelare.org/index.php?page=pages&id=5945#",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Смолян (Municipalities of Smolyan) - Безплатно изтегляне",
+    "description": "Списък на общините в област Смолян (Smolyan oblast). 10 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SML. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Смолян (Municipalities of Smolyan) | ListBase",
+    "seo_description": "Изтеглете Общини — област Смолян (Municipalities of Smolyan) — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

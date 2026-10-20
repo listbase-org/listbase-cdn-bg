@@ -1,0 +1,352 @@
+{
+  "id": "bg-blagoevgrad-unlocode",
+  "name": "UN/LOCODE — област Благоевград (UN/LOCODE locations in Blagoevgrad Province)",
+  "title": "UN/LOCODE — област Благоевград (UN/LOCODE locations in Blagoevgrad Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Благоевград (Blagoevgrad), 7 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-01). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Blagoevgrad Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 51,
+      "locode": "BGDA3",
+      "country": "BG",
+      "location": "DA3",
+      "name": "Garmen",
+      "name_wo_diacritics": "Garmen",
+      "subdivision_code": "01",
+      "subdivision_name": "Blagoevgrad",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4136N 02349E",
+      "latitude": 41.6,
+      "longitude": 23.8167,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "oblast_code": "BLG",
+      "oblast_name": "Благоевград",
+      "oblast_name_latin": "Blagoevgrad",
+      "oblast_slug": "blagoevgrad",
+      "oblast_ekatte": "04279",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 2,
+      "parent_index": 54,
+      "locode": "BGDBD",
+      "country": "BG",
+      "location": "DBD",
+      "name": "Damyanitsa",
+      "name_wo_diacritics": "Damyanitsa",
+      "subdivision_code": "01",
+      "subdivision_name": "Blagoevgrad",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4131N 02316E",
+      "latitude": 41.5167,
+      "longitude": 23.2667,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "BLG",
+      "oblast_name": "Благоевград",
+      "oblast_name_latin": "Blagoevgrad",
+      "oblast_slug": "blagoevgrad",
+      "oblast_ekatte": "04279",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 3,
+      "parent_index": 124,
+      "locode": "BGKOL",
+      "country": "BG",
+      "location": "KOL",
+      "name": "Kulata",
+      "name_wo_diacritics": "Kulata",
+      "subdivision_code": "01",
+      "subdivision_name": "Blagoevgrad",
+      "subdivision_type": "Region",
+      "status": "AS",
+      "status_description": "Approved by national standardisation body",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4123N 02322E",
+      "latitude": 41.3833,
+      "longitude": 23.3667,
+      "date_updated": "1982-01",
+      "remarks": "",
+      "oblast_code": "BLG",
+      "oblast_name": "Благоевград",
+      "oblast_name_latin": "Blagoevgrad",
+      "oblast_slug": "blagoevgrad",
+      "oblast_ekatte": "04279",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 4,
+      "parent_index": 159,
+      "locode": "BGMAB",
+      "country": "BG",
+      "location": "MAB",
+      "name": "Marchevo",
+      "name_wo_diacritics": "Marchevo",
+      "subdivision_code": "01",
+      "subdivision_name": "Blagoevgrad",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "1----6--",
+      "functions": "Maritime transport (sea port), Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4136N 02348E",
+      "latitude": 41.6,
+      "longitude": 23.8,
+      "date_updated": "2012-01",
+      "remarks": "",
+      "oblast_code": "BLG",
+      "oblast_name": "Благоевград",
+      "oblast_name_latin": "Blagoevgrad",
+      "oblast_slug": "blagoevgrad",
+      "oblast_ekatte": "04279",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 5,
+      "parent_index": 161,
+      "locode": "BGMAI",
+      "country": "BG",
+      "location": "MAI",
+      "name": "Marikostinovo",
+      "name_wo_diacritics": "Marikostinovo",
+      "subdivision_code": "01",
+      "subdivision_name": "Blagoevgrad",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4126N 02320E",
+      "latitude": 41.4333,
+      "longitude": 23.3333,
+      "date_updated": "2021-07",
+      "remarks": "",
+      "oblast_code": "BLG",
+      "oblast_name": "Благоевград",
+      "oblast_name_latin": "Blagoevgrad",
+      "oblast_slug": "blagoevgrad",
+      "oblast_ekatte": "04279",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 6,
+      "parent_index": 269,
+      "locode": "BGSOV",
+      "country": "BG",
+      "location": "SOV",
+      "name": "Samuilovo",
+      "name_wo_diacritics": "Samuilovo",
+      "subdivision_code": "01",
+      "subdivision_name": "Blagoevgrad",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4122N 02305E",
+      "latitude": 41.3667,
+      "longitude": 23.0833,
+      "date_updated": "2022-01",
+      "remarks": "",
+      "oblast_code": "BLG",
+      "oblast_name": "Благоевград",
+      "oblast_name_latin": "Blagoevgrad",
+      "oblast_slug": "blagoevgrad",
+      "oblast_ekatte": "04279",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 7,
+      "parent_index": 329,
+      "locode": "BGYAK",
+      "country": "BG",
+      "location": "YAK",
+      "name": "Yakoruda",
+      "name_wo_diacritics": "Yakoruda",
+      "subdivision_code": "01",
+      "subdivision_name": "Blagoevgrad",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4202N 02368E",
+      "latitude": 42.0333,
+      "longitude": 24.1333,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "BLG",
+      "oblast_name": "Благоевград",
+      "oblast_name_latin": "Blagoevgrad",
+      "oblast_slug": "blagoevgrad",
+      "oblast_ekatte": "04279",
+      "nuts_region": "BG41"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Благоевград (UN/LOCODE locations in Blagoevgrad Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Благоевград (Blagoevgrad), 7 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-01). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Blagoevgrad Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Благоевград (UN/LOCODE locations in Blagoevgrad Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Благоевград (UN/LOCODE locations in Blagoevgrad Province) — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

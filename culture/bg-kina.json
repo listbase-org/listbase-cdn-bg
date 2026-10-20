@@ -1,0 +1,269 @@
+{
+  "id": "bg-kina",
+  "name": "Кина в България",
+  "title": "Кина в България",
+  "description": "Cinemas in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q105664675",
+      "name_bg": "Балкан",
+      "name_en": "Kino Balkan",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.144684648,
+      "longitude": 24.749205481,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105664675"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q88798843",
+      "name_bg": "Влайкова",
+      "name_en": "Vlaykova Cinema",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.690277777,
+      "longitude": 23.340555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q88798843"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q28464493",
+      "name_bg": "Дом на киното",
+      "name_en": "Dom na kinoto",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.700277777,
+      "longitude": 23.323888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28464493"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q74250619",
+      "name_bg": "Кино CineLux Видин",
+      "name_en": "CineLux Vidin",
+      "admin_area_bg": "Видин",
+      "admin_area_en": "Vidin",
+      "latitude": 43.990736,
+      "longitude": 22.875046,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q74250619"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q73626472",
+      "name_bg": "Кино Добрич",
+      "name_en": "Kino Dobrich",
+      "admin_area_bg": "Добрич",
+      "admin_area_en": "Dobrich",
+      "latitude": 43.56762,
+      "longitude": 27.82267,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73626472"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q60194241",
+      "name_bg": "Кино Иван Вазов",
+      "name_en": "Kino Ivan Vazov",
+      "admin_area_bg": "Берковица",
+      "admin_area_en": "Berkovitsa",
+      "latitude": 43.23529,
+      "longitude": 23.12539,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60194241"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q117116518",
+      "name_bg": "Кино Иван Димов",
+      "name_en": "Kino Ivan Dimov",
+      "admin_area_bg": "Чирпан",
+      "admin_area_en": "Chirpan",
+      "latitude": 42.20007,
+      "longitude": 25.32464,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117116518"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q73626287",
+      "name_bg": "Кино Икар",
+      "name_en": "Kino Ikar",
+      "admin_area_bg": "Добрич",
+      "admin_area_en": "Dobrich",
+      "latitude": 43.5646429,
+      "longitude": 27.832643,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73626287"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q118147563",
+      "name_bg": "Кино Одеон",
+      "name_en": "Kino Odeon",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.68794,
+      "longitude": 23.32842,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118147563"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q107355758",
+      "name_bg": "кино Разград",
+      "name_en": "Kino Razgrad",
+      "admin_area_bg": "Разград",
+      "admin_area_en": "Razgrad",
+      "latitude": 43.525893117,
+      "longitude": 26.529140251,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107355758"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q125462481",
+      "name_bg": "кино „Българка“",
+      "name_en": "Cinema Balgarka",
+      "admin_area_bg": "Сливен",
+      "admin_area_en": "Sliven",
+      "latitude": 42.680362242,
+      "longitude": 26.32049995,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125462481"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q37977675",
+      "name_bg": "Кино „Ранков“",
+      "name_en": "",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.203611111,
+      "longitude": 27.915555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q37977675"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q98107925",
+      "name_bg": "Кинотеатър Сплендид",
+      "name_en": "Kinoteatr Splendid",
+      "admin_area_bg": "Добрич",
+      "admin_area_en": "Dobrich",
+      "latitude": 43.5680765,
+      "longitude": 27.830635888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q98107925"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q86827586",
+      "name_bg": "летният театр Златни Пясъци",
+      "name_en": "Golden Sands Summer Theatre",
+      "admin_area_bg": "Златни пясъци",
+      "admin_area_en": "Golden Sands",
+      "latitude": 43.3017,
+      "longitude": 28.05078,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q86827586"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q73375473",
+      "name_bg": "Летният театър Белоградчик",
+      "name_en": "Summer Theatre Belogradchik",
+      "admin_area_bg": "Белоградчик",
+      "admin_area_en": "Belogradchik",
+      "latitude": 43.62352,
+      "longitude": 22.68498,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73375473"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q57909403",
+      "name_bg": "Лятно кино (Пловдив)",
+      "name_en": "Open-air cinema, Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.145177,
+      "longitude": 24.74611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57909403"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q56583660",
+      "name_bg": "Модерен театър",
+      "name_en": "Modern Theater, Sofia",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.7015782,
+      "longitude": 23.3230707,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56583660"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q73417548",
+      "name_bg": "Христо Ботев - 1902",
+      "name_en": "Hristo Botev - 1902",
+      "admin_area_bg": "Димитровград",
+      "admin_area_en": "Dimitrovgrad",
+      "latitude": 42.05181,
+      "longitude": 25.58521,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73417548"
+    }
+  ],
+  "meta": {
+    "title": "Кина в България - Безплатно изтегляне",
+    "description": "Cinemas in Bulgaria with coordinates, sourced from Wikidata. Съдържа 18 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Кина в България | ListBase",
+    "seo_description": "Изтеглете Кина в България — 18 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 18 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

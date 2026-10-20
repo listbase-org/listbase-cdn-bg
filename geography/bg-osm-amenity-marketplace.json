@@ -1,0 +1,1537 @@
+{
+  "id": "bg-osm-amenity-marketplace",
+  "name": "Пазари в България (OpenStreetMap)",
+  "title": "Пазари в България (OpenStreetMap)",
+  "description": "Пазари в България — 164 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=marketplace`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 164,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Aмериканското пазарче",
+      "shirina": 43.845884,
+      "dalzhina": 25.951825,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 2,
+      "ime": "Bitak",
+      "shirina": 43.255797,
+      "dalzhina": 26.571675,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 3,
+      "ime": "Blagoevgrad Market",
+      "shirina": 42.016227,
+      "dalzhina": 23.09776,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 4,
+      "ime": "Iskra Marketplace",
+      "shirina": 41.929536,
+      "dalzhina": 25.132566,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 5,
+      "ime": "Mini Market",
+      "shirina": 41.643679,
+      "dalzhina": 24.57272,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 6,
+      "ime": "Netcom",
+      "shirina": 42.132455,
+      "dalzhina": 24.79883,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 7,
+      "ime": "OKC",
+      "shirina": 43.217471,
+      "dalzhina": 23.553273,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 8,
+      "ime": "Sozopol marketplace",
+      "shirina": 42.419389,
+      "dalzhina": 27.692169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 9,
+      "ime": "TT82A",
+      "shirina": 42.421792,
+      "dalzhina": 23.735404,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 10,
+      "ime": "TT82A",
+      "shirina": 42.422634,
+      "dalzhina": 23.735252,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 11,
+      "ime": "Антикварен и сувенирен пазар",
+      "shirina": 42.695831,
+      "dalzhina": 23.330725,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 12,
+      "ime": "Аспарухово Център",
+      "shirina": 43.179417,
+      "dalzhina": 27.89665,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 13,
+      "ime": "Базар",
+      "shirina": 42.862517,
+      "dalzhina": 24.780698,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 14,
+      "ime": "Базар Бели Дунав",
+      "shirina": 42.735551,
+      "dalzhina": 23.29385,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 15,
+      "ime": "Базар Вихрен",
+      "shirina": 42.66574,
+      "dalzhina": 23.27203,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 16,
+      "ime": "Базар на книгата",
+      "shirina": 42.677631,
+      "dalzhina": 23.286074,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 17,
+      "ime": "Битак",
+      "shirina": 42.720122,
+      "dalzhina": 23.357665,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 18,
+      "ime": "Битака",
+      "shirina": 43.214244,
+      "dalzhina": 27.884239,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 19,
+      "ime": "Битпазар",
+      "shirina": 43.789277,
+      "dalzhina": 26.499322,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 20,
+      "ime": "Борса \"Къра\"",
+      "shirina": 42.670726,
+      "dalzhina": 23.382107,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 21,
+      "ime": "Бургаски Пазари",
+      "shirina": 42.506409,
+      "dalzhina": 27.474276,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 22,
+      "ime": "Ванесимо",
+      "shirina": 42.123129,
+      "dalzhina": 24.731771,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 23,
+      "ime": "Васил Шаханов",
+      "shirina": 42.416664,
+      "dalzhina": 25.608277,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 24,
+      "ime": "ГУМ",
+      "shirina": 43.121912,
+      "dalzhina": 25.688159,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 25,
+      "ime": "Градски пазар-Сливница",
+      "shirina": 42.849586,
+      "dalzhina": 23.039271,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 26,
+      "ime": "Женски пазар",
+      "shirina": 42.703063,
+      "dalzhina": 23.3205,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 27,
+      "ime": "Женския пазар",
+      "shirina": 43.406341,
+      "dalzhina": 23.228529,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 28,
+      "ime": "Закрит пазар",
+      "shirina": 42.011686,
+      "dalzhina": 24.876433,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 29,
+      "ime": "Зеленчуков пазар",
+      "shirina": 41.93389,
+      "dalzhina": 25.551065,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 30,
+      "ime": "Зеленчуков пазар",
+      "shirina": 42.056723,
+      "dalzhina": 25.594377,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 31,
+      "ime": "Зеленчуков пазар",
+      "shirina": 42.41869,
+      "dalzhina": 25.622919,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 32,
+      "ime": "Зеленчукова борса",
+      "shirina": 42.141441,
+      "dalzhina": 24.413379,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 33,
+      "ime": "Зеленчукова борса",
+      "shirina": 42.653946,
+      "dalzhina": 23.409807,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 34,
+      "ime": "Зеленчукова борса",
+      "shirina": 43.216849,
+      "dalzhina": 27.882973,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 35,
+      "ime": "Зеленчукова борса Плодовитово",
+      "shirina": 42.176805,
+      "dalzhina": 25.205468,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 36,
+      "ime": "Зимен пазар Национален стадион",
+      "shirina": 42.686936,
+      "dalzhina": 23.332763,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 37,
+      "ime": "Зита ЕООД",
+      "shirina": 42.020812,
+      "dalzhina": 23.093816,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 38,
+      "ime": "Илиянци",
+      "shirina": 42.167838,
+      "dalzhina": 24.753262,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 39,
+      "ime": "Книжния пазар",
+      "shirina": 42.425193,
+      "dalzhina": 25.628572,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 40,
+      "ime": "Комплекс Буратино",
+      "shirina": 41.99597,
+      "dalzhina": 23.093545,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 41,
+      "ime": "Кооперативен пазар",
+      "shirina": 42.263032,
+      "dalzhina": 23.113463,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 42,
+      "ime": "Кооперативен пазар",
+      "shirina": 42.365318,
+      "dalzhina": 23.004091,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 43,
+      "ime": "Левчето",
+      "shirina": 41.866549,
+      "dalzhina": 23.621106,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 44,
+      "ime": "Макс Марк",
+      "shirina": 43.127888,
+      "dalzhina": 25.683648,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 45,
+      "ime": "Малък пазар",
+      "shirina": 42.888759,
+      "dalzhina": 24.712842,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 46,
+      "ime": "Мездра пазар",
+      "shirina": 43.142517,
+      "dalzhina": 23.705598,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 47,
+      "ime": "Метали и ламарини",
+      "shirina": 43.420419,
+      "dalzhina": 24.61206,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 48,
+      "ime": "Неделен Пазар",
+      "shirina": 42.058327,
+      "dalzhina": 25.582961,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 49,
+      "ime": "Общински Пазар",
+      "shirina": 42.291061,
+      "dalzhina": 25.936551,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 50,
+      "ime": "Общински Пазар - Момчилград",
+      "shirina": 41.525644,
+      "dalzhina": 25.41352,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 51,
+      "ime": "Общински пазар",
+      "shirina": 41.569049,
+      "dalzhina": 23.729298,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 52,
+      "ime": "Общински пазар",
+      "shirina": 41.932779,
+      "dalzhina": 25.900346,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 53,
+      "ime": "Общински пазар",
+      "shirina": 42.147013,
+      "dalzhina": 24.721197,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 54,
+      "ime": "Общински пазар",
+      "shirina": 42.425928,
+      "dalzhina": 25.63129,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 55,
+      "ime": "Общински пазар",
+      "shirina": 42.558042,
+      "dalzhina": 27.643001,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 56,
+      "ime": "Общински пазар",
+      "shirina": 42.617921,
+      "dalzhina": 25.378497,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 57,
+      "ime": "Общински пазар",
+      "shirina": 42.678141,
+      "dalzhina": 26.314691,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 58,
+      "ime": "Общински пазар",
+      "shirina": 42.808118,
+      "dalzhina": 23.200168,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 59,
+      "ime": "Общински пазар",
+      "shirina": 42.929264,
+      "dalzhina": 25.877279,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 60,
+      "ime": "Общински пазар",
+      "shirina": 43.56969,
+      "dalzhina": 27.833671,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 61,
+      "ime": "Общински пазар",
+      "shirina": 43.621613,
+      "dalzhina": 22.823896,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 62,
+      "ime": "Общински пазар",
+      "shirina": 43.696531,
+      "dalzhina": 23.444718,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 63,
+      "ime": "Общински пазар",
+      "shirina": 43.887491,
+      "dalzhina": 22.521511,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 64,
+      "ime": "Общински пазар",
+      "shirina": 44.024528,
+      "dalzhina": 27.022287,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 65,
+      "ime": "Общински пазар",
+      "shirina": 44.042019,
+      "dalzhina": 26.61494,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 66,
+      "ime": "Общински пазар Свиленград",
+      "shirina": 41.764982,
+      "dalzhina": 26.201947,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 67,
+      "ime": "Общински пазар за плодове и зеленчуци",
+      "shirina": 42.594787,
+      "dalzhina": 25.208819,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 68,
+      "ime": "Пазар",
+      "shirina": 42.172431,
+      "dalzhina": 26.564797,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 69,
+      "ime": "Пазар",
+      "shirina": 42.648714,
+      "dalzhina": 26.98177,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 70,
+      "ime": "Пазар",
+      "shirina": 43.275022,
+      "dalzhina": 26.933644,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 71,
+      "ime": "Пазар",
+      "shirina": 43.347499,
+      "dalzhina": 26.223516,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 72,
+      "ime": "Пазар",
+      "shirina": 43.426457,
+      "dalzhina": 23.754654,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 73,
+      "ime": "Пазар",
+      "shirina": 43.436162,
+      "dalzhina": 28.338147,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 74,
+      "ime": "Пазар",
+      "shirina": 43.472555,
+      "dalzhina": 23.944188,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 75,
+      "ime": "Пазар",
+      "shirina": 43.574545,
+      "dalzhina": 27.841559,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 76,
+      "ime": "Пазар ''Шивара''",
+      "shirina": 42.860886,
+      "dalzhina": 25.323903,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 77,
+      "ime": "Пазар Асеновград",
+      "shirina": 42.011938,
+      "dalzhina": 24.874313,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 78,
+      "ime": "Пазар Баба Вида",
+      "shirina": 42.708701,
+      "dalzhina": 23.355042,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 79,
+      "ime": "Пазар Божурище",
+      "shirina": 42.763474,
+      "dalzhina": 23.198689,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 80,
+      "ime": "Пазар Болница",
+      "shirina": 43.196861,
+      "dalzhina": 23.562206,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 81,
+      "ime": "Пазар Борово",
+      "shirina": 42.669107,
+      "dalzhina": 23.27943,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 82,
+      "ime": "Пазар Владиславово",
+      "shirina": 43.246661,
+      "dalzhina": 27.848675,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 83,
+      "ime": "Пазар Връбница",
+      "shirina": 42.735919,
+      "dalzhina": 23.293082,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 84,
+      "ime": "Пазар Герена",
+      "shirina": 42.70288,
+      "dalzhina": 23.360125,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 85,
+      "ime": "Пазар Горубляне",
+      "shirina": 42.628281,
+      "dalzhina": 23.408201,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 86,
+      "ime": "Пазар Гривата",
+      "shirina": 42.012554,
+      "dalzhina": 24.88088,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 87,
+      "ime": "Пазар Димитър Петков",
+      "shirina": 42.700498,
+      "dalzhina": 23.30043,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 88,
+      "ime": "Пазар Долни Богров",
+      "shirina": 42.705805,
+      "dalzhina": 23.492962,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 89,
+      "ime": "Пазар Дружба 1",
+      "shirina": 42.668012,
+      "dalzhina": 23.39591,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 90,
+      "ime": "Пазар Дружба 2",
+      "shirina": 42.652211,
+      "dalzhina": 23.401178,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 91,
+      "ime": "Пазар Елин Пелин",
+      "shirina": 42.671822,
+      "dalzhina": 23.598463,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 92,
+      "ime": "Пазар Иван Вазов",
+      "shirina": 42.676753,
+      "dalzhina": 23.304012,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 93,
+      "ime": "Пазар Илинден",
+      "shirina": 42.710691,
+      "dalzhina": 23.291079,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 94,
+      "ime": "Пазар Красно село",
+      "shirina": 42.67799,
+      "dalzhina": 23.285183,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 95,
+      "ime": "Пазар Левски",
+      "shirina": 43.219568,
+      "dalzhina": 27.930755,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 96,
+      "ime": "Пазар Лозенец",
+      "shirina": 42.668302,
+      "dalzhina": 23.319368,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 97,
+      "ime": "Пазар Люлин 1",
+      "shirina": 42.728608,
+      "dalzhina": 23.249787,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 98,
+      "ime": "Пазар Люлин 3",
+      "shirina": 42.720641,
+      "dalzhina": 23.243495,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 99,
+      "ime": "Пазар Люлин 4",
+      "shirina": 42.715945,
+      "dalzhina": 23.250523,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 100,
+      "ime": "Пазар Младост 1",
+      "shirina": 42.652307,
+      "dalzhina": 23.373173,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 101,
+      "ime": "Пазар Младост 4",
+      "shirina": 42.635743,
+      "dalzhina": 23.381391,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 102,
+      "ime": "Пазар Мусагеница",
+      "shirina": 42.664978,
+      "dalzhina": 23.362008,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 103,
+      "ime": "Пазар Нови Искър",
+      "shirina": 42.822466,
+      "dalzhina": 23.354442,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 104,
+      "ime": "Пазар Овча Купел 1",
+      "shirina": 42.689011,
+      "dalzhina": 23.254641,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 105,
+      "ime": "Пазар Овча Купел 2",
+      "shirina": 42.68439,
+      "dalzhina": 23.241564,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 106,
+      "ime": "Пазар Орел",
+      "shirina": 43.517179,
+      "dalzhina": 26.516777,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 107,
+      "ime": "Пазар Орландовци",
+      "shirina": 42.715955,
+      "dalzhina": 23.340136,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 108,
+      "ime": "Пазар Римска стена",
+      "shirina": 42.68393,
+      "dalzhina": 23.330135,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 109,
+      "ime": "Пазар Росица",
+      "shirina": 42.696497,
+      "dalzhina": 23.286563,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 110,
+      "ime": "Пазар Ситняково",
+      "shirina": 42.684749,
+      "dalzhina": 23.352973,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 111,
+      "ime": "Пазар Слатина",
+      "shirina": 42.681315,
+      "dalzhina": 23.374286,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 112,
+      "ime": "Пазар Сребърна",
+      "shirina": 42.660441,
+      "dalzhina": 23.318038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 113,
+      "ime": "Пазар Толстой",
+      "shirina": 42.727215,
+      "dalzhina": 23.311056,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 114,
+      "ime": "Пазар Хаджи Димитър",
+      "shirina": 42.706694,
+      "dalzhina": 23.351205,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 115,
+      "ime": "Пазар Хан Кубрат",
+      "shirina": 42.723802,
+      "dalzhina": 23.30349,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 116,
+      "ime": "Пазар Чаталджа",
+      "shirina": 43.213914,
+      "dalzhina": 27.923309,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 117,
+      "ime": "Пазар Щросмайер",
+      "shirina": 42.712088,
+      "dalzhina": 23.299632,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 118,
+      "ime": "Пазар за цветя",
+      "shirina": 41.933424,
+      "dalzhina": 25.55857,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 119,
+      "ime": "Пазар на производителите",
+      "shirina": 41.644046,
+      "dalzhina": 25.365676,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 120,
+      "ime": "Пазар на цветята",
+      "shirina": 42.733864,
+      "dalzhina": 23.303275,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 121,
+      "ime": "Пазар пред 58 блок",
+      "shirina": 42.64368,
+      "dalzhina": 23.341695,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 122,
+      "ime": "Пазар „Котва“",
+      "shirina": 43.199258,
+      "dalzhina": 27.918067,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 123,
+      "ime": "Пазар „Лъгът“",
+      "shirina": 42.871056,
+      "dalzhina": 24.7122,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 124,
+      "ime": "Пазар „Тракия 2”",
+      "shirina": 42.12965,
+      "dalzhina": 24.786192,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 125,
+      "ime": "Пазар „Часовника“",
+      "shirina": 43.203981,
+      "dalzhina": 27.909866,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 126,
+      "ime": "Пазара",
+      "shirina": 42.149932,
+      "dalzhina": 24.789131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 127,
+      "ime": "Пазара",
+      "shirina": 43.159766,
+      "dalzhina": 26.809553,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 128,
+      "ime": "Пазара",
+      "shirina": 43.178576,
+      "dalzhina": 27.441889,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 129,
+      "ime": "Пазара на Бузлуджа",
+      "shirina": 43.069838,
+      "dalzhina": 25.608121,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 130,
+      "ime": "Пазара на Дряново",
+      "shirina": 42.976279,
+      "dalzhina": 25.478701,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 131,
+      "ime": "Пазарче Чинара",
+      "shirina": 42.005201,
+      "dalzhina": 24.870389,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 132,
+      "ime": "Покрит пазар",
+      "shirina": 43.411673,
+      "dalzhina": 24.61805,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 133,
+      "ime": "Покрит пазар",
+      "shirina": 43.714991,
+      "dalzhina": 26.040898,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 134,
+      "ime": "Покрит пазар",
+      "shirina": 43.85734,
+      "dalzhina": 25.975886,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 135,
+      "ime": "Понеделник пазар",
+      "shirina": 42.145833,
+      "dalzhina": 24.753244,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 136,
+      "ime": "Промишлен пазар",
+      "shirina": 41.93413,
+      "dalzhina": 25.54721,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 137,
+      "ime": "Промишлен пазар „Лачев“",
+      "shirina": 41.932007,
+      "dalzhina": 25.56146,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 138,
+      "ime": "Руски пазар",
+      "shirina": 43.418362,
+      "dalzhina": 23.22322,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 139,
+      "ime": "Руския пазар",
+      "shirina": 42.16332,
+      "dalzhina": 24.718192,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 140,
+      "ime": "Селскостопански пазар",
+      "shirina": 43.941286,
+      "dalzhina": 26.19796,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 141,
+      "ime": "Славейково Пазарче",
+      "shirina": 42.495323,
+      "dalzhina": 27.477828,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 142,
+      "ime": "Стоков Базар Илиянци",
+      "shirina": 42.740364,
+      "dalzhina": 23.315772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 143,
+      "ime": "Стокова борса Кърналово",
+      "shirina": 41.453052,
+      "dalzhina": 23.228894,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 144,
+      "ime": "Стоково тържище Троян",
+      "shirina": 42.884252,
+      "dalzhina": 24.714711,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 145,
+      "ime": "Събота пазар",
+      "shirina": 42.130912,
+      "dalzhina": 24.750019,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 146,
+      "ime": "Съботен пазар",
+      "shirina": 42.362502,
+      "dalzhina": 24.729073,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 147,
+      "ime": "Съботен пазар",
+      "shirina": 42.921494,
+      "dalzhina": 22.92902,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 148,
+      "ime": "Съботен пазар",
+      "shirina": 43.334109,
+      "dalzhina": 27.600011,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 149,
+      "ime": "Съботен пазар",
+      "shirina": 43.993834,
+      "dalzhina": 22.865974,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 150,
+      "ime": "Съботен фермерски пазар Римската стена на Хранкооп",
+      "shirina": 42.684157,
+      "dalzhina": 23.330639,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 151,
+      "ime": "Търговски комплекс \"Подход към Технически Университет\"",
+      "shirina": 42.656886,
+      "dalzhina": 23.357798,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 152,
+      "ime": "Търговски център Олимп",
+      "shirina": 43.850186,
+      "dalzhina": 25.979116,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 153,
+      "ime": "Търговски център Сан Марино",
+      "shirina": 42.718344,
+      "dalzhina": 23.251749,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 154,
+      "ime": "Фермерски пазар",
+      "shirina": 43.203072,
+      "dalzhina": 27.915578,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 155,
+      "ime": "Халите",
+      "shirina": 43.120814,
+      "dalzhina": 25.691457,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 156,
+      "ime": "Централен Кооперативен пазар",
+      "shirina": 42.621554,
+      "dalzhina": 25.396881,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 157,
+      "ime": "Централен пазар",
+      "shirina": 42.884914,
+      "dalzhina": 24.714024,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 158,
+      "ime": "Централен пазар",
+      "shirina": 43.209503,
+      "dalzhina": 27.903133,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 159,
+      "ime": "Църковен магазин",
+      "shirina": 42.442986,
+      "dalzhina": 25.669855,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 160,
+      "ime": "Четвъртък пазара",
+      "shirina": 42.150664,
+      "dalzhina": 24.742767,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 161,
+      "ime": "закрит пазар",
+      "shirina": 42.135447,
+      "dalzhina": 24.796186,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 162,
+      "ime": "пазар",
+      "shirina": 42.650833,
+      "dalzhina": 26.985829,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 163,
+      "ime": "пазар",
+      "shirina": 44.02895,
+      "dalzhina": 22.753268,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    },
+    {
+      "id": 164,
+      "ime": "плод и зеленчук",
+      "shirina": 42.689316,
+      "dalzhina": 26.337581,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "marketplace",
+      "osm_klas": "amenity=marketplace"
+    }
+  ],
+  "meta": {
+    "title": "Пазари в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Пазари в България — 164 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=marketplace`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 164 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Пазари в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Пазари в България (OpenStreetMap) — 164 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 164 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

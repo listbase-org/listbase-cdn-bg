@@ -1,0 +1,135 @@
+{
+  "id": "bg-veliko-turnovo-letishta",
+  "name": "Летища — област Велико Търново",
+  "title": "Летища — област Велико Търново",
+  "description": "Списък на летищата в „област Велико Търново“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Veliko Tarnovo Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_source",
+      "label": "Oblast Source",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LB29",
+      "iata": "",
+      "name": "Maslarevo Airport",
+      "name_slug": "maslarevo-airport",
+      "city": "Maslarevo",
+      "oblast": "област Велико Търново",
+      "oblast_source": "Veliko-Turnovo",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_en": "Veliko Tarnovo Province",
+      "country": "BG",
+      "elevation_ft": 349,
+      "lat": 43.4053993225,
+      "lon": 25.4740009308,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LBGO",
+      "iata": "GOZ",
+      "name": "Gorna Oryahovitsa Airport",
+      "name_slug": "gorna-oryahovitsa-airport",
+      "city": "Gorna Oryahovitsa",
+      "oblast": "област Велико Търново",
+      "oblast_source": "Veliko-Turnovo",
+      "oblast_slug": "veliko-turnovo",
+      "oblast_en": "Veliko Tarnovo Province",
+      "country": "BG",
+      "elevation_ft": 285,
+      "lat": 43.1514015198,
+      "lon": 25.7129001617,
+      "timezone": "Europe/Sofia",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Летища — област Велико Търново - Безплатно изтегляне",
+    "description": "Списък на летищата в „област Велико Търново“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Veliko Tarnovo Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Съдържа 2 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Летища — област Велико Търново | ListBase",
+    "seo_description": "Изтеглете Летища — област Велико Търново — 2 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 2 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: https://github.com/mwgg/Airports"
+    ]
+  }
+}

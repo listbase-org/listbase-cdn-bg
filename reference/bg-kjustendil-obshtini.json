@@ -1,0 +1,254 @@
+{
+  "id": "bg-kjustendil-obshtini",
+  "name": "Общини — област Кюстендил (Municipalities of Kyustendil)",
+  "title": "Общини — област Кюстендил (Municipalities of Kyustendil)",
+  "description": "Списък на общините в област Кюстендил (Kyustendil oblast). 9 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс KNL. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 161,
+      "gisco_id": "BG_KNL04",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Бобов дол",
+      "name_en": "",
+      "slug": "bobov-dol",
+      "population_2024": 6517,
+      "population_density_2024_per_km2": 31.58757758,
+      "area_km2": 206.31528274,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://bobovdol.egov.bg/wps/portal/municipality-bobovdol/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 162,
+      "gisco_id": "BG_KNL05",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Бобошево",
+      "name_en": "",
+      "slug": "boboshevo",
+      "population_2024": 2282,
+      "population_density_2024_per_km2": 16.87565791,
+      "area_km2": 135.2243576,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://obshtina-boboshevo.eu/%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%",
+      "comment": ""
+    },
+    {
+      "id": 163,
+      "gisco_id": "BG_KNL27",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Кочериново",
+      "name_en": "",
+      "slug": "kocherinovo",
+      "population_2024": 4075,
+      "population_density_2024_per_km2": 22.38183729,
+      "area_km2": 182.06726941,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "http://kocherinovo.bg/images/stories/docs/2024/16-04-2024/op-risk-b-2024.pdf",
+      "comment": ""
+    },
+    {
+      "id": 164,
+      "gisco_id": "BG_KNL29",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Кюстендил",
+      "name_en": "",
+      "slug": "kyustendil",
+      "population_2024": 47337,
+      "population_density_2024_per_km2": 49.29983757,
+      "area_km2": 960.18571934,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.kustendil.bg/index.php?option=com_jdownloads&view=download&id=1847&catid=12&lang=bg",
+      "comment": ""
+    },
+    {
+      "id": 174,
+      "gisco_id": "BG_KNL31",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Невестино",
+      "name_en": "Nevestino",
+      "slug": "nevestino",
+      "population_2024": 1769,
+      "population_density_2024_per_km2": 4.02439966,
+      "area_km2": 439.56866861,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 175,
+      "gisco_id": "BG_KNL38",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Рила",
+      "name_en": "",
+      "slug": "rila",
+      "population_2024": 2328,
+      "population_density_2024_per_km2": 6.42624368,
+      "area_km2": 362.26450741,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.grad-rila.bg/images/stories/Programi/programiistrategii2022/%D0%9E%D0%B1%D1%89%D0%B8%D0%",
+      "comment": ""
+    },
+    {
+      "id": 176,
+      "gisco_id": "BG_KNL41",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Сапарева баня",
+      "name_en": "",
+      "slug": "sapareva-banya",
+      "population_2024": 6508,
+      "population_density_2024_per_km2": 36.01445601,
+      "area_km2": 180.70521452,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://saparevabanya.bg/download.php?id=5369",
+      "comment": ""
+    },
+    {
+      "id": 177,
+      "gisco_id": "BG_KNL48",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Дупница",
+      "name_en": "",
+      "slug": "dupnica",
+      "population_2024": 36305,
+      "population_density_2024_per_km2": 110.31143761,
+      "area_km2": 329.11365119,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.dupnitsa.bg/currentNews-76-newitem.html",
+      "comment": ""
+    },
+    {
+      "id": 178,
+      "gisco_id": "BG_KNL50",
+      "oblast_code": "KNL",
+      "oblast_slug": "kjustendil",
+      "oblast_bg": "Кюстендил",
+      "oblast_en": "Kyustendil",
+      "name_bg": "Трекляно",
+      "name_en": "Treklyano",
+      "slug": "treklyano",
+      "population_2024": 552,
+      "population_density_2024_per_km2": 2.14130014,
+      "area_km2": 257.78730851,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Кюстендил (Municipalities of Kyustendil) - Безплатно изтегляне",
+    "description": "Списък на общините в област Кюстендил (Kyustendil oblast). 9 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс KNL. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 9 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Кюстендил (Municipalities of Kyustendil) | ListBase",
+    "seo_description": "Изтеглете Общини — област Кюстендил (Municipalities of Kyustendil) — 9 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 9 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

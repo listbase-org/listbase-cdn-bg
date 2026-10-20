@@ -1,0 +1,86 @@
+{
+  "id": "bg-plovdiv-banki",
+  "name": "Банки в Пловдив — SWIFT/BIC кодове (Plovdiv bank SWIFT/BIC codes)",
+  "title": "Банки в Пловдив — SWIFT/BIC кодове (Plovdiv bank SWIFT/BIC codes)",
+  "description": "Списък: 5 банкови институции в Пловдив (Plovdiv) със SWIFT/BIC кодове — име на банката, град, клон и SWIFT код. Разделен по градове от националния набор bg-banki (132 записа) на PeterNotenboom/SwiftCodes. Per-city split of the Bulgarian SWIFT/BIC list.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 8,
+      "bank": "ARCUS ASSET MANAGEMENT JSC",
+      "city": "PLOVDIV",
+      "branch": "",
+      "swift_code": "AAAJBG21"
+    },
+    {
+      "id": 114,
+      "bank": "TIC SAEDINENIE PLC",
+      "city": "PLOVDIV",
+      "branch": "",
+      "swift_code": "TICEBG21"
+    },
+    {
+      "id": 119,
+      "bank": "UG MARKET FUND MANAGEMENT JSC",
+      "city": "PLOVDIV",
+      "branch": "",
+      "swift_code": "UGMJBG21"
+    },
+    {
+      "id": 120,
+      "bank": "UG MARKET JSC",
+      "city": "PLOVDIV",
+      "branch": "",
+      "swift_code": "MAJSBG21"
+    },
+    {
+      "id": 121,
+      "bank": "UNICREDIT BULBANK AD",
+      "city": "PLOVDIV",
+      "branch": "(PLOVDIV BRANCH)",
+      "swift_code": "UNCRBGSF720"
+    }
+  ],
+  "meta": {
+    "title": "Банки в Пловдив — SWIFT/BIC кодове (Plovdiv bank SWIFT/BIC codes) - Безплатно изтегляне",
+    "description": "Списък: 5 банкови институции в Пловдив (Plovdiv) със SWIFT/BIC кодове — име на банката, град, клон и SWIFT код. Разделен по градове от националния набор bg-banki (132 записа) на PeterNotenboom/SwiftCodes. Per-city split of the Bulgarian SWIFT/BIC list. Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Банки в Пловдив — SWIFT/BIC кодове (Plovdiv bank SWIFT/BIC codes) | ListBase",
+    "seo_description": "Изтеглете Банки в Пловдив — SWIFT/BIC кодове (Plovdiv bank SWIFT/BIC codes) — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 5 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

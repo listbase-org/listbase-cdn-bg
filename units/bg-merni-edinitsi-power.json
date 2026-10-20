@@ -1,0 +1,126 @@
+{
+  "id": "bg-merni-edinitsi-power",
+  "name": "Мерни единици: power (6)",
+  "title": "Мерни единици: power (6)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'power'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "kategoriya": "power",
+      "nazvanie": "гигавати",
+      "shablon_edinstveno": "{0} гигават",
+      "shablon_mnozhestveno": "{0} гигавата",
+      "kratak_shablon": "{0} GW",
+      "tesen_shablon": "{0} GW"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "kategoriya": "power",
+      "nazvanie": "конски сили",
+      "shablon_edinstveno": "{0} конска сила",
+      "shablon_mnozhestveno": "{0} конски сили",
+      "kratak_shablon": "{0} к. с.",
+      "tesen_shablon": "{0} к.с."
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "kategoriya": "power",
+      "nazvanie": "киловати",
+      "shablon_edinstveno": "{0} киловат",
+      "shablon_mnozhestveno": "{0} киловата",
+      "kratak_shablon": "{0} kW",
+      "tesen_shablon": "{0} kW"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "kategoriya": "power",
+      "nazvanie": "мегавати",
+      "shablon_edinstveno": "{0} мегават",
+      "shablon_mnozhestveno": "{0} мегавата",
+      "kratak_shablon": "{0} MW",
+      "tesen_shablon": "{0} MW"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "kategoriya": "power",
+      "nazvanie": "миливати",
+      "shablon_edinstveno": "{0} миливат",
+      "shablon_mnozhestveno": "{0} миливата",
+      "kratak_shablon": "{0} mW",
+      "tesen_shablon": "{0} mW"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "kategoriya": "power",
+      "nazvanie": "ватове",
+      "shablon_edinstveno": "{0} ват",
+      "shablon_mnozhestveno": "{0} вата",
+      "kratak_shablon": "{0} W",
+      "tesen_shablon": "{0} W"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: power (6) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'power'. Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: power (6) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: power (6) — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

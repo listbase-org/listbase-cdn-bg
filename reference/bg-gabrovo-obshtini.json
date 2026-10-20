@@ -1,0 +1,169 @@
+{
+  "id": "bg-gabrovo-obshtini",
+  "name": "Общини — област Габрово (Municipalities of Gabrovo)",
+  "title": "Общини — област Габрово (Municipalities of Gabrovo)",
+  "description": "Списък на общините в област Габрово (Gabrovo oblast). 4 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс GAB. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 117,
+      "gisco_id": "BG_GAB05",
+      "oblast_code": "GAB",
+      "oblast_slug": "gabrovo",
+      "oblast_bg": "Габрово",
+      "oblast_en": "Gabrovo",
+      "name_bg": "Габрово",
+      "name_en": "",
+      "slug": "gabrovo",
+      "population_2024": 49996,
+      "population_density_2024_per_km2": 90.02697728,
+      "area_km2": 555.34464788,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.gabrovo.bg/files/O%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B3%",
+      "comment": ""
+    },
+    {
+      "id": 127,
+      "gisco_id": "BG_GAB12",
+      "oblast_code": "GAB",
+      "oblast_slug": "gabrovo",
+      "oblast_bg": "Габрово",
+      "oblast_en": "Gabrovo",
+      "name_bg": "Дряново",
+      "name_en": "",
+      "slug": "dryanovo",
+      "population_2024": 7369,
+      "population_density_2024_per_km2": 29.65986686,
+      "area_km2": 248.45020498,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.dryanovo.bg/uploads/docs/5979_bg_Resh.640-%D0%9E%D0%B1%D1%89.%D0%BF%D1%80%D0%BE%D0%B3%D1",
+      "comment": ""
+    },
+    {
+      "id": 128,
+      "gisco_id": "BG_GAB29",
+      "oblast_code": "GAB",
+      "oblast_slug": "gabrovo",
+      "oblast_bg": "Габрово",
+      "oblast_en": "Gabrovo",
+      "name_bg": "Севлиево",
+      "name_en": "",
+      "slug": "sevlievo",
+      "population_2024": 28711,
+      "population_density_2024_per_km2": 29.77989382,
+      "area_km2": 964.10686274,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.sevlievo.bg/uploads/docs/1843_bg_1843_bg_%D0%B7%D0%B5%D0%BC%D0%B5%D1%82%D0%B5%D1%81%D0%B",
+      "comment": ""
+    },
+    {
+      "id": 129,
+      "gisco_id": "BG_GAB35",
+      "oblast_code": "GAB",
+      "oblast_slug": "gabrovo",
+      "oblast_bg": "Габрово",
+      "oblast_en": "Gabrovo",
+      "name_bg": "Трявна",
+      "name_en": "",
+      "slug": "tryavna",
+      "population_2024": 8786,
+      "population_density_2024_per_km2": 34.47580799,
+      "area_km2": 254.84536878,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://tryavna.bg/wp-content/uploads/2022/07/OBSHTINSKA-PROGRAMA-ZA-NAMALYAVANE-NA-RISKA-OT-BEDSTVI",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Габрово (Municipalities of Gabrovo) - Безплатно изтегляне",
+    "description": "Списък на общините в област Габрово (Gabrovo oblast). 4 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс GAB. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Габрово (Municipalities of Gabrovo) | ListBase",
+    "seo_description": "Изтеглете Общини — област Габрово (Municipalities of Gabrovo) — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

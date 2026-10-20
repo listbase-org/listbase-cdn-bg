@@ -1,0 +1,216 @@
+{
+  "id": "bg-merni-edinitsi-duration",
+  "name": "Мерни единици: duration (15)",
+  "title": "Мерни единици: duration (15)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'duration'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "kategoriya": "duration",
+      "nazvanie": "векове",
+      "shablon_edinstveno": "{0} век",
+      "shablon_mnozhestveno": "{0} века",
+      "kratak_shablon": "{0} в.",
+      "tesen_shablon": "{0} в."
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "kategoriya": "duration",
+      "nazvanie": "дни",
+      "shablon_edinstveno": "{0} ден",
+      "shablon_mnozhestveno": "{0} дни",
+      "kratak_shablon": "{0} д",
+      "tesen_shablon": "{0} д"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "kategoriya": "duration",
+      "nazvanie": "десетилетия",
+      "shablon_edinstveno": "{0} десетилетие",
+      "shablon_mnozhestveno": "{0} десетилетия",
+      "kratak_shablon": "{0} декади",
+      "tesen_shablon": "{0} декади"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "kategoriya": "duration",
+      "nazvanie": "fortnight",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} fw",
+      "kratak_shablon": "{0} fw",
+      "tesen_shablon": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "kategoriya": "duration",
+      "nazvanie": "часове",
+      "shablon_edinstveno": "{0} час",
+      "shablon_mnozhestveno": "{0} часа",
+      "kratak_shablon": "{0} ч",
+      "tesen_shablon": "{0} ч"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "kategoriya": "duration",
+      "nazvanie": "микросекунди",
+      "shablon_edinstveno": "{0} микросекунда",
+      "shablon_mnozhestveno": "{0} микросекунди",
+      "kratak_shablon": "{0} μs",
+      "tesen_shablon": "{0} μs"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "kategoriya": "duration",
+      "nazvanie": "милисекунди",
+      "shablon_edinstveno": "{0} милисекунда",
+      "shablon_mnozhestveno": "{0} милисекунди",
+      "kratak_shablon": "{0} мсек",
+      "tesen_shablon": "{0} мсек"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "kategoriya": "duration",
+      "nazvanie": "минути",
+      "shablon_edinstveno": "{0} минута",
+      "shablon_mnozhestveno": "{0} минути",
+      "kratak_shablon": "{0} мин",
+      "tesen_shablon": "{0} мин"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "kategoriya": "duration",
+      "nazvanie": "месеци",
+      "shablon_edinstveno": "{0} месец",
+      "shablon_mnozhestveno": "{0} месеца",
+      "kratak_shablon": "{0} мес.",
+      "tesen_shablon": "{0} мес."
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "kategoriya": "duration",
+      "nazvanie": "наносекунди",
+      "shablon_edinstveno": "{0} наносекунда",
+      "shablon_mnozhestveno": "{0} наносекунди",
+      "kratak_shablon": "{0} ns",
+      "tesen_shablon": "{0} ns"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "kategoriya": "duration",
+      "nazvanie": "нощи",
+      "shablon_edinstveno": "{0} нощ",
+      "shablon_mnozhestveno": "{0} нощи",
+      "kratak_shablon": "{0} нощи",
+      "tesen_shablon": "{0} нощи"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "kategoriya": "duration",
+      "nazvanie": "тримесечия",
+      "shablon_edinstveno": "{0} тримесечие",
+      "shablon_mnozhestveno": "{0} тримесечия",
+      "kratak_shablon": "{0} тримес.",
+      "tesen_shablon": "{0} трим."
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "kategoriya": "duration",
+      "nazvanie": "секунди",
+      "shablon_edinstveno": "{0} секунда",
+      "shablon_mnozhestveno": "{0} секунди",
+      "kratak_shablon": "{0} сек",
+      "tesen_shablon": "{0} с"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "kategoriya": "duration",
+      "nazvanie": "седмици",
+      "shablon_edinstveno": "{0} седмица",
+      "shablon_mnozhestveno": "{0} седмици",
+      "kratak_shablon": "{0} седм.",
+      "tesen_shablon": "{0} седм."
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "kategoriya": "duration",
+      "nazvanie": "години",
+      "shablon_edinstveno": "{0} година",
+      "shablon_mnozhestveno": "{0} години",
+      "kratak_shablon": "{0} год.",
+      "tesen_shablon": "{0} г."
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: duration (15) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'duration'. Съдържа 15 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: duration (15) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: duration (15) — 15 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 15 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

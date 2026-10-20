@@ -1,0 +1,220 @@
+{
+  "id": "bg-kurdzhali-obshtini",
+  "name": "Общини — област Кърджали (Municipalities of Kardzhali)",
+  "title": "Общини — област Кърджали (Municipalities of Kardzhali)",
+  "description": "Списък на общините в област Кърджали (Kardzhali oblast). 7 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс KRZ. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 179,
+      "gisco_id": "BG_KRZ02",
+      "oblast_code": "KRZ",
+      "oblast_slug": "kurdzhali",
+      "oblast_bg": "Кърджали",
+      "oblast_en": "Kardzhali",
+      "name_bg": "Ардино",
+      "name_en": "Ardino",
+      "slug": "ardino",
+      "population_2024": 11785,
+      "population_density_2024_per_km2": 34.69505805,
+      "area_km2": 339.67373631,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 180,
+      "gisco_id": "BG_KRZ08",
+      "oblast_code": "KRZ",
+      "oblast_slug": "kurdzhali",
+      "oblast_bg": "Кърджали",
+      "oblast_en": "Kardzhali",
+      "name_bg": "Джебел",
+      "name_en": "",
+      "slug": "dzhebel",
+      "population_2024": 8837,
+      "population_density_2024_per_km2": 38.48156823,
+      "area_km2": 229.64240818,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://dzhebel.bg/wp-content/themes/dzhebel_official_template/docs/Plan_bedstviq.pdf",
+      "comment": ""
+    },
+    {
+      "id": 181,
+      "gisco_id": "BG_KRZ14",
+      "oblast_code": "KRZ",
+      "oblast_slug": "kurdzhali",
+      "oblast_bg": "Кърджали",
+      "oblast_en": "Kardzhali",
+      "name_bg": "Кирково",
+      "name_en": "Kirkovo",
+      "slug": "kirkovo",
+      "population_2024": 20927,
+      "population_density_2024_per_km2": 38.95564793,
+      "area_km2": 537.20066569,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 182,
+      "gisco_id": "BG_KRZ15",
+      "oblast_code": "KRZ",
+      "oblast_slug": "kurdzhali",
+      "oblast_bg": "Кърджали",
+      "oblast_en": "Kardzhali",
+      "name_bg": "Крумовград",
+      "name_en": "Krumovgrad",
+      "slug": "krumovgrad",
+      "population_2024": 17584,
+      "population_density_2024_per_km2": 20.85838822,
+      "area_km2": 843.01815715,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 191,
+      "gisco_id": "BG_KRZ16",
+      "oblast_code": "KRZ",
+      "oblast_slug": "kurdzhali",
+      "oblast_bg": "Кърджали",
+      "oblast_en": "Kardzhali",
+      "name_bg": "Кърджали",
+      "name_en": "",
+      "slug": "kardzhali",
+      "population_2024": 64690,
+      "population_density_2024_per_km2": 112.58506948,
+      "area_km2": 574.58773438,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.kardjali.bg/docs/normativni_documenti/Plan_za_zastita_pri_bedastvie_2016.pdf",
+      "comment": ""
+    },
+    {
+      "id": 192,
+      "gisco_id": "BG_KRZ21",
+      "oblast_code": "KRZ",
+      "oblast_slug": "kurdzhali",
+      "oblast_bg": "Кърджали",
+      "oblast_en": "Kardzhali",
+      "name_bg": "Момчилград",
+      "name_en": "",
+      "slug": "momchilgrad",
+      "population_2024": 15038,
+      "population_density_2024_per_km2": 41.74700084,
+      "area_km2": 360.21749338,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.momchilgrad.bg/plan-za-bedstvii-avarii.html",
+      "comment": ""
+    },
+    {
+      "id": 193,
+      "gisco_id": "BG_KRZ35",
+      "oblast_code": "KRZ",
+      "oblast_slug": "kurdzhali",
+      "oblast_bg": "Кърджали",
+      "oblast_en": "Kardzhali",
+      "name_bg": "Черноочене",
+      "name_en": "",
+      "slug": "chernoochene",
+      "population_2024": 7701,
+      "population_density_2024_per_km2": 23.53487446,
+      "area_km2": 327.21653198,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://chernoochene.com/?p=14151",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Кърджали (Municipalities of Kardzhali) - Безплатно изтегляне",
+    "description": "Списък на общините в област Кърджали (Kardzhali oblast). 7 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс KRZ. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Кърджали (Municipalities of Kardzhali) | ListBase",
+    "seo_description": "Изтеглете Общини — област Кърджали (Municipalities of Kardzhali) — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

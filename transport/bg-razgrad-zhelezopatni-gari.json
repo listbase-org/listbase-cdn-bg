@@ -1,0 +1,246 @@
+{
+  "id": "bg-razgrad-zhelezopatni-gari",
+  "name": "Железопътни гари — област Разград",
+  "title": "Железопътни гари — област Разград",
+  "description": "Железопътни гари и спирки в област Разград (Razgrad, код RAZ) от trainline-eu/stations. 5 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_latin",
+      "label": "Oblast Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_bg",
+      "label": "Nearest Settlement Bg",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_km",
+      "label": "Nearest Settlement Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 32235,
+      "name": "Razgrad",
+      "slug": "razgrad",
+      "uic": "",
+      "latitude": 43.533672,
+      "longitude": 26.541117,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Разград",
+      "oblast_latin": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_code": "RAZ",
+      "nearest_settlement_bg": "Разград",
+      "nearest_settlement_km": 1.969,
+      "country": "BG"
+    },
+    {
+      "id": 2,
+      "station_id": 37790,
+      "name": "Isperih",
+      "slug": "isperih",
+      "uic": "",
+      "latitude": 43.713855,
+      "longitude": 26.83209,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Разград",
+      "oblast_latin": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_code": "RAZ",
+      "nearest_settlement_bg": "Исперих",
+      "nearest_settlement_km": 0.284,
+      "country": "BG"
+    },
+    {
+      "id": 3,
+      "station_id": 37802,
+      "name": "Kubrat",
+      "slug": "kubrat",
+      "uic": "",
+      "latitude": 43.794234,
+      "longitude": 26.502048,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Разград",
+      "oblast_latin": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_code": "RAZ",
+      "nearest_settlement_bg": "Кубрат",
+      "nearest_settlement_km": 0.244,
+      "country": "BG"
+    },
+    {
+      "id": 4,
+      "station_id": 38440,
+      "name": "Manastirsko",
+      "slug": "manastirsko",
+      "uic": "",
+      "latitude": 43.422088,
+      "longitude": 26.546373,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Разград",
+      "oblast_latin": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_code": "RAZ",
+      "nearest_settlement_bg": "Манастирско",
+      "nearest_settlement_km": 0.037,
+      "country": "BG"
+    },
+    {
+      "id": 5,
+      "station_id": 38441,
+      "name": "Tsar Kaloyan",
+      "slug": "tsar-kaloyan",
+      "uic": "",
+      "latitude": 43.606954,
+      "longitude": 26.239042,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Разград",
+      "oblast_latin": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_code": "RAZ",
+      "nearest_settlement_bg": "Цар Калоян",
+      "nearest_settlement_km": 0.254,
+      "country": "BG"
+    }
+  ],
+  "meta": {
+    "title": "Железопътни гари — област Разград - Безплатно изтегляне",
+    "description": "Железопътни гари и спирки в област Разград (Razgrad, код RAZ) от trainline-eu/stations. 5 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations. Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железопътни гари — област Разград | ListBase",
+    "seo_description": "Изтеглете Железопътни гари — област Разград — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

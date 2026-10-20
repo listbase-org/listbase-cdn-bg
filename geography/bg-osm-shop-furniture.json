@@ -1,0 +1,4075 @@
+{
+  "id": "bg-osm-shop-furniture",
+  "name": "Магазини за мебели в България (OpenStreetMap)",
+  "title": "Магазини за мебели в България (OpenStreetMap)",
+  "description": "Магазини за мебели в България — 446 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=furniture`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 446,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "1000 Бани",
+      "shirina": 42.481183,
+      "dalzhina": 27.439055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 2,
+      "ime": "2D Design",
+      "shirina": 42.674823,
+      "dalzhina": 23.297671,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 3,
+      "ime": "ALNO",
+      "shirina": 42.434046,
+      "dalzhina": 25.631695,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 4,
+      "ime": "ARON",
+      "shirina": 43.846155,
+      "dalzhina": 25.949484,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 5,
+      "ime": "Aiko XXXL",
+      "shirina": 42.123329,
+      "dalzhina": 24.771663,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 6,
+      "ime": "Aiko XXXL",
+      "shirina": 42.413415,
+      "dalzhina": 25.640535,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 7,
+      "ime": "Aiko XXXL",
+      "shirina": 42.51382,
+      "dalzhina": 27.452698,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 8,
+      "ime": "Aiko XXXL",
+      "shirina": 42.63927,
+      "dalzhina": 23.319937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 9,
+      "ime": "Aiko XXXL",
+      "shirina": 42.739604,
+      "dalzhina": 23.237519,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 10,
+      "ime": "Aiko XXXL",
+      "shirina": 43.221116,
+      "dalzhina": 27.872111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 11,
+      "ime": "Albida",
+      "shirina": 42.705099,
+      "dalzhina": 23.316583,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 12,
+      "ime": "Aleti",
+      "shirina": 42.662335,
+      "dalzhina": 23.353983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 13,
+      "ime": "Arreda",
+      "shirina": 42.64381,
+      "dalzhina": 23.334352,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 14,
+      "ime": "Artefino",
+      "shirina": 42.6492,
+      "dalzhina": 23.335325,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 15,
+      "ime": "BMD Interiors",
+      "shirina": 42.149125,
+      "dalzhina": 24.74684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 16,
+      "ime": "Bibtex",
+      "shirina": 42.69333,
+      "dalzhina": 23.298676,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 17,
+      "ime": "Biond",
+      "shirina": 42.644786,
+      "dalzhina": 23.313546,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 18,
+      "ime": "Boge",
+      "shirina": 42.661462,
+      "dalzhina": 23.285375,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 19,
+      "ime": "Bonita Creations",
+      "shirina": 42.654935,
+      "dalzhina": 23.320722,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 20,
+      "ime": "Bora Bora",
+      "shirina": 42.659631,
+      "dalzhina": 27.688647,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 21,
+      "ime": "Box Home",
+      "shirina": 42.648728,
+      "dalzhina": 23.335307,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 22,
+      "ime": "Bulplus",
+      "shirina": 42.663053,
+      "dalzhina": 23.287051,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 23,
+      "ime": "Casa",
+      "shirina": 43.21434,
+      "dalzhina": 27.914043,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 24,
+      "ime": "Casa Divani",
+      "shirina": 42.635481,
+      "dalzhina": 23.333784,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 25,
+      "ime": "Casa Nuova",
+      "shirina": 42.695217,
+      "dalzhina": 23.351508,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 26,
+      "ime": "Casa art",
+      "shirina": 42.670172,
+      "dalzhina": 23.312244,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 27,
+      "ime": "ChairPro",
+      "shirina": 42.648001,
+      "dalzhina": 23.396278,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 28,
+      "ime": "Chuchuline",
+      "shirina": 42.685713,
+      "dalzhina": 23.32769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 29,
+      "ime": "Classa",
+      "shirina": 42.692954,
+      "dalzhina": 23.312393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 30,
+      "ime": "Cortner Design",
+      "shirina": 42.657073,
+      "dalzhina": 23.349184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 31,
+      "ime": "Curtains Bulgaria",
+      "shirina": 42.688465,
+      "dalzhina": 23.312846,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 32,
+      "ime": "Curtains Bulgaria",
+      "shirina": 42.696389,
+      "dalzhina": 23.348451,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 33,
+      "ime": "Dada Project Studio",
+      "shirina": 42.694319,
+      "dalzhina": 23.317199,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 34,
+      "ime": "Divanidea",
+      "shirina": 42.670717,
+      "dalzhina": 23.313769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 35,
+      "ime": "Divanidea",
+      "shirina": 42.673253,
+      "dalzhina": 23.335252,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 36,
+      "ime": "Doimo Salotti",
+      "shirina": 42.636214,
+      "dalzhina": 23.334349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 37,
+      "ime": "Domko",
+      "shirina": 42.155516,
+      "dalzhina": 24.706498,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 38,
+      "ime": "Domko",
+      "shirina": 42.412867,
+      "dalzhina": 25.639295,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 39,
+      "ime": "Domko",
+      "shirina": 43.408219,
+      "dalzhina": 24.636766,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 40,
+      "ime": "Duga",
+      "shirina": 41.623047,
+      "dalzhina": 25.377681,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 41,
+      "ime": "Duomo",
+      "shirina": 42.637341,
+      "dalzhina": 23.323854,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 42,
+      "ime": "Elegant Living",
+      "shirina": 42.686716,
+      "dalzhina": 23.323985,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 43,
+      "ime": "Engin style",
+      "shirina": 43.820785,
+      "dalzhina": 27.136954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 44,
+      "ime": "Enikom",
+      "shirina": 42.633772,
+      "dalzhina": 23.333314,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 45,
+      "ime": "Essenziale design",
+      "shirina": 42.662801,
+      "dalzhina": 23.285492,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 46,
+      "ime": "Exotic Market",
+      "shirina": 42.638943,
+      "dalzhina": 23.334193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 47,
+      "ime": "Exotic market",
+      "shirina": 43.216062,
+      "dalzhina": 27.95512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 48,
+      "ime": "Feydom",
+      "shirina": 42.649726,
+      "dalzhina": 23.360694,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 49,
+      "ime": "Feydom",
+      "shirina": 42.660034,
+      "dalzhina": 23.313539,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 50,
+      "ime": "Feydom Sofia",
+      "shirina": 42.701289,
+      "dalzhina": 23.323134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 51,
+      "ime": "Flandria Antique",
+      "shirina": 42.700198,
+      "dalzhina": 23.302777,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 52,
+      "ime": "Fria Fire & Fria Home",
+      "shirina": 42.673502,
+      "dalzhina": 23.381774,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 53,
+      "ime": "G&G",
+      "shirina": 42.687384,
+      "dalzhina": 23.323059,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 54,
+      "ime": "GTC Design",
+      "shirina": 42.66995,
+      "dalzhina": 23.302972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 55,
+      "ime": "Gala Collezione",
+      "shirina": 42.531512,
+      "dalzhina": 27.46313,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 56,
+      "ime": "Gala Collezione",
+      "shirina": 42.624045,
+      "dalzhina": 23.358272,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 57,
+      "ime": "Gautier",
+      "shirina": 42.678133,
+      "dalzhina": 23.293837,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 58,
+      "ime": "Glossary Depot",
+      "shirina": 42.675676,
+      "dalzhina": 23.33068,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 59,
+      "ime": "Haddad studio",
+      "shirina": 42.672214,
+      "dalzhina": 23.335187,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 60,
+      "ime": "Home of Wool",
+      "shirina": 42.65517,
+      "dalzhina": 23.33589,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 61,
+      "ime": "Hometex",
+      "shirina": 42.711742,
+      "dalzhina": 27.76479,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 62,
+      "ime": "Horos",
+      "shirina": 43.209315,
+      "dalzhina": 27.910393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 63,
+      "ime": "IDEYA",
+      "shirina": 43.185105,
+      "dalzhina": 23.586549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 64,
+      "ime": "IKEA",
+      "shirina": 42.145429,
+      "dalzhina": 24.78022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 65,
+      "ime": "IKEA",
+      "shirina": 42.512668,
+      "dalzhina": 27.455382,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 66,
+      "ime": "IKEA",
+      "shirina": 42.623344,
+      "dalzhina": 23.355812,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 67,
+      "ime": "IKEA",
+      "shirina": 43.227259,
+      "dalzhina": 27.874202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 68,
+      "ime": "Italy Sofa Home",
+      "shirina": 42.643044,
+      "dalzhina": 23.334602,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 69,
+      "ime": "Italy sofa home",
+      "shirina": 42.702084,
+      "dalzhina": 23.32279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 70,
+      "ime": "JYSK",
+      "shirina": 41.572434,
+      "dalzhina": 24.715073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 71,
+      "ime": "JYSK",
+      "shirina": 41.614799,
+      "dalzhina": 25.37579,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 72,
+      "ime": "JYSK",
+      "shirina": 41.881692,
+      "dalzhina": 23.470839,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 73,
+      "ime": "JYSK",
+      "shirina": 41.931665,
+      "dalzhina": 25.603569,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 74,
+      "ime": "JYSK",
+      "shirina": 42.009908,
+      "dalzhina": 23.091931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 75,
+      "ime": "JYSK",
+      "shirina": 42.013466,
+      "dalzhina": 24.870618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 76,
+      "ime": "JYSK",
+      "shirina": 42.030841,
+      "dalzhina": 24.002857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 77,
+      "ime": "JYSK",
+      "shirina": 42.121173,
+      "dalzhina": 24.756904,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 78,
+      "ime": "JYSK",
+      "shirina": 42.122824,
+      "dalzhina": 24.741496,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 79,
+      "ime": "JYSK",
+      "shirina": 42.144405,
+      "dalzhina": 24.781367,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 80,
+      "ime": "JYSK",
+      "shirina": 42.156792,
+      "dalzhina": 24.72874,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 81,
+      "ime": "JYSK",
+      "shirina": 42.174061,
+      "dalzhina": 24.741236,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 82,
+      "ime": "JYSK",
+      "shirina": 42.183295,
+      "dalzhina": 24.344846,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 83,
+      "ime": "JYSK",
+      "shirina": 42.273353,
+      "dalzhina": 23.129273,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 84,
+      "ime": "JYSK",
+      "shirina": 42.28264,
+      "dalzhina": 22.696919,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 85,
+      "ime": "JYSK",
+      "shirina": 42.419787,
+      "dalzhina": 25.607867,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 86,
+      "ime": "JYSK",
+      "shirina": 42.450748,
+      "dalzhina": 27.413048,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 87,
+      "ime": "JYSK",
+      "shirina": 42.477867,
+      "dalzhina": 26.517717,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 88,
+      "ime": "JYSK",
+      "shirina": 42.503263,
+      "dalzhina": 27.460225,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 89,
+      "ime": "JYSK",
+      "shirina": 42.610248,
+      "dalzhina": 23.037955,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 90,
+      "ime": "JYSK",
+      "shirina": 42.617511,
+      "dalzhina": 25.370595,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 91,
+      "ime": "JYSK",
+      "shirina": 42.625224,
+      "dalzhina": 23.351362,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 92,
+      "ime": "JYSK",
+      "shirina": 42.638124,
+      "dalzhina": 23.372484,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 93,
+      "ime": "JYSK",
+      "shirina": 42.642493,
+      "dalzhina": 23.407913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 94,
+      "ime": "JYSK",
+      "shirina": 42.652801,
+      "dalzhina": 27.672634,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 95,
+      "ime": "JYSK",
+      "shirina": 42.656504,
+      "dalzhina": 23.590975,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 96,
+      "ime": "JYSK",
+      "shirina": 42.660966,
+      "dalzhina": 23.38359,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 97,
+      "ime": "JYSK",
+      "shirina": 42.664073,
+      "dalzhina": 23.288706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 98,
+      "ime": "JYSK",
+      "shirina": 42.675942,
+      "dalzhina": 26.321412,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 99,
+      "ime": "JYSK",
+      "shirina": 42.679884,
+      "dalzhina": 23.367836,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 100,
+      "ime": "JYSK",
+      "shirina": 42.68216,
+      "dalzhina": 26.341003,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 101,
+      "ime": "JYSK",
+      "shirina": 42.689695,
+      "dalzhina": 23.278971,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 102,
+      "ime": "JYSK",
+      "shirina": 42.702565,
+      "dalzhina": 23.284073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 103,
+      "ime": "JYSK",
+      "shirina": 42.703676,
+      "dalzhina": 24.162157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 104,
+      "ime": "JYSK",
+      "shirina": 42.709542,
+      "dalzhina": 23.457349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 105,
+      "ime": "JYSK",
+      "shirina": 42.709777,
+      "dalzhina": 23.345101,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 106,
+      "ime": "JYSK",
+      "shirina": 42.717865,
+      "dalzhina": 23.314677,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 107,
+      "ime": "JYSK",
+      "shirina": 42.799192,
+      "dalzhina": 23.22995,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 108,
+      "ime": "JYSK",
+      "shirina": 42.892752,
+      "dalzhina": 24.717088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 109,
+      "ime": "JYSK",
+      "shirina": 42.908621,
+      "dalzhina": 23.802499,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 110,
+      "ime": "JYSK",
+      "shirina": 43.023044,
+      "dalzhina": 25.094566,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 111,
+      "ime": "JYSK",
+      "shirina": 43.132224,
+      "dalzhina": 25.683906,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 112,
+      "ime": "JYSK",
+      "shirina": 43.222719,
+      "dalzhina": 23.544155,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 113,
+      "ime": "JYSK",
+      "shirina": 43.223298,
+      "dalzhina": 27.87317,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 114,
+      "ime": "JYSK",
+      "shirina": 43.241833,
+      "dalzhina": 26.557936,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 115,
+      "ime": "JYSK",
+      "shirina": 43.279648,
+      "dalzhina": 26.92792,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 116,
+      "ime": "JYSK",
+      "shirina": 43.419523,
+      "dalzhina": 24.610501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 117,
+      "ime": "JYSK",
+      "shirina": 43.422331,
+      "dalzhina": 23.22886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 118,
+      "ime": "JYSK",
+      "shirina": 43.551009,
+      "dalzhina": 27.838025,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 119,
+      "ime": "JYSK",
+      "shirina": 43.851663,
+      "dalzhina": 25.983694,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 120,
+      "ime": "JYSK",
+      "shirina": 44.007256,
+      "dalzhina": 22.881759,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 121,
+      "ime": "JYSK",
+      "shirina": 44.113088,
+      "dalzhina": 27.25277,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 122,
+      "ime": "K&K",
+      "shirina": 43.827503,
+      "dalzhina": 27.14606,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 123,
+      "ime": "K2 Interior Solutions",
+      "shirina": 42.208361,
+      "dalzhina": 24.732781,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 124,
+      "ime": "KARE Design",
+      "shirina": 42.623727,
+      "dalzhina": 23.374332,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 125,
+      "ime": "Kare",
+      "shirina": 42.147438,
+      "dalzhina": 24.76847,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 126,
+      "ime": "Kare",
+      "shirina": 42.70863,
+      "dalzhina": 27.723437,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 127,
+      "ime": "Karis",
+      "shirina": 42.639158,
+      "dalzhina": 23.33422,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 128,
+      "ime": "Kave home",
+      "shirina": 42.6776,
+      "dalzhina": 23.310325,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 129,
+      "ime": "Kinnarps",
+      "shirina": 42.677898,
+      "dalzhina": 23.320415,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 130,
+      "ime": "Kocamanlar",
+      "shirina": 41.635967,
+      "dalzhina": 25.35738,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 131,
+      "ime": "Komoder",
+      "shirina": 42.697096,
+      "dalzhina": 23.330302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 132,
+      "ime": "Koto Design",
+      "shirina": 42.688976,
+      "dalzhina": 23.304688,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 133,
+      "ime": "Kristiano Brussardi",
+      "shirina": 42.635995,
+      "dalzhina": 23.334407,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 134,
+      "ime": "Light Factor",
+      "shirina": 42.677978,
+      "dalzhina": 23.32995,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 135,
+      "ime": "Ligne Roset",
+      "shirina": 42.686981,
+      "dalzhina": 23.313808,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 136,
+      "ime": "Living Space",
+      "shirina": 42.678492,
+      "dalzhina": 23.332173,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 137,
+      "ime": "LuxDesign",
+      "shirina": 42.677113,
+      "dalzhina": 23.332504,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 138,
+      "ime": "M mobili",
+      "shirina": 42.679988,
+      "dalzhina": 23.3111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 139,
+      "ime": "MF+F",
+      "shirina": 42.702853,
+      "dalzhina": 23.299948,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 140,
+      "ime": "Magniflex & isleep",
+      "shirina": 42.623733,
+      "dalzhina": 23.374205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 141,
+      "ime": "MakHome",
+      "shirina": 42.643428,
+      "dalzhina": 23.333892,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 142,
+      "ime": "Markov Uniques",
+      "shirina": 42.69929,
+      "dalzhina": 27.703472,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 143,
+      "ime": "Martineli",
+      "shirina": 42.129792,
+      "dalzhina": 24.769045,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 144,
+      "ime": "Martineli",
+      "shirina": 42.640536,
+      "dalzhina": 23.334337,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 145,
+      "ime": "Martineli",
+      "shirina": 42.66798,
+      "dalzhina": 23.289828,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 146,
+      "ime": "Master KENT",
+      "shirina": 42.50487,
+      "dalzhina": 27.459809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 147,
+      "ime": "Masterhaus",
+      "shirina": 42.264349,
+      "dalzhina": 27.741137,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 148,
+      "ime": "Mebel Plus",
+      "shirina": 42.140349,
+      "dalzhina": 24.762803,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 149,
+      "ime": "Mebelex",
+      "shirina": 42.704797,
+      "dalzhina": 27.709876,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 150,
+      "ime": "Mebelisimo",
+      "shirina": 41.847901,
+      "dalzhina": 23.482166,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 151,
+      "ime": "Mebelor",
+      "shirina": 42.179122,
+      "dalzhina": 24.741023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 152,
+      "ime": "Meshe",
+      "shirina": 42.48409,
+      "dalzhina": 27.444975,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 153,
+      "ime": "Modena design",
+      "shirina": 42.666225,
+      "dalzhina": 23.297172,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 154,
+      "ime": "Mondo",
+      "shirina": 41.631572,
+      "dalzhina": 25.378633,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 155,
+      "ime": "My Soul Depot",
+      "shirina": 42.66844,
+      "dalzhina": 23.268937,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 156,
+      "ime": "Mömax",
+      "shirina": 42.413028,
+      "dalzhina": 25.640464,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 157,
+      "ime": "Mömax",
+      "shirina": 42.513607,
+      "dalzhina": 27.453123,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 158,
+      "ime": "Mömax",
+      "shirina": 42.712311,
+      "dalzhina": 23.30308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 159,
+      "ime": "Mömax",
+      "shirina": 42.740059,
+      "dalzhina": 23.236885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 160,
+      "ime": "Mömax",
+      "shirina": 43.221057,
+      "dalzhina": 27.87255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 161,
+      "ime": "NURUS",
+      "shirina": 42.746904,
+      "dalzhina": 23.230487,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 162,
+      "ime": "Nani Home",
+      "shirina": 42.153577,
+      "dalzhina": 24.750487,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 163,
+      "ime": "Nani Home",
+      "shirina": 42.634519,
+      "dalzhina": 23.328901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 164,
+      "ime": "Nani home",
+      "shirina": 42.664656,
+      "dalzhina": 23.298282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 165,
+      "ime": "Nani home",
+      "shirina": 43.072074,
+      "dalzhina": 25.622452,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 166,
+      "ime": "Natuzzi",
+      "shirina": 42.656664,
+      "dalzhina": 23.336168,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 167,
+      "ime": "Negova Style",
+      "shirina": 42.701357,
+      "dalzhina": 23.30875,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 168,
+      "ime": "New Domus Sofa showroom",
+      "shirina": 42.642576,
+      "dalzhina": 23.309001,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 169,
+      "ime": "Nido",
+      "shirina": 42.651562,
+      "dalzhina": 23.315597,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 170,
+      "ime": "Niksen",
+      "shirina": 42.686526,
+      "dalzhina": 23.312052,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 171,
+      "ime": "Nino",
+      "shirina": 41.637509,
+      "dalzhina": 25.354529,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 172,
+      "ime": "Nino",
+      "shirina": 42.150958,
+      "dalzhina": 24.774739,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 173,
+      "ime": "Nov dom",
+      "shirina": 41.633227,
+      "dalzhina": 25.356509,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 174,
+      "ime": "Nowy style group",
+      "shirina": 42.656663,
+      "dalzhina": 23.336961,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 175,
+      "ime": "NowyStyl",
+      "shirina": 43.231485,
+      "dalzhina": 27.869073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 176,
+      "ime": "Offisphera",
+      "shirina": 42.678647,
+      "dalzhina": 23.365522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 177,
+      "ime": "Orvi",
+      "shirina": 42.65363,
+      "dalzhina": 23.336331,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 178,
+      "ime": "Platan",
+      "shirina": 42.673313,
+      "dalzhina": 23.285689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 179,
+      "ime": "Profi Inox",
+      "shirina": 42.704198,
+      "dalzhina": 23.343707,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 180,
+      "ime": "RK Design",
+      "shirina": 42.672356,
+      "dalzhina": 23.335343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 181,
+      "ime": "Ralica",
+      "shirina": 42.640993,
+      "dalzhina": 23.334376,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 182,
+      "ime": "Ralica",
+      "shirina": 42.641633,
+      "dalzhina": 23.334391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 183,
+      "ime": "Rea4",
+      "shirina": 42.692786,
+      "dalzhina": 23.343708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 184,
+      "ime": "Ros-med-design",
+      "shirina": 42.697429,
+      "dalzhina": 23.319567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 185,
+      "ime": "Safe Expert",
+      "shirina": 42.708328,
+      "dalzhina": 23.310708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 186,
+      "ime": "Saviani Casa",
+      "shirina": 42.657626,
+      "dalzhina": 23.344772,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 187,
+      "ime": "Selamore",
+      "shirina": 42.637022,
+      "dalzhina": 23.333957,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 188,
+      "ime": "Sia design",
+      "shirina": 42.659939,
+      "dalzhina": 27.702255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 189,
+      "ime": "Sogal",
+      "shirina": 42.656914,
+      "dalzhina": 23.349281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 190,
+      "ime": "Solis",
+      "shirina": 42.13943,
+      "dalzhina": 24.73777,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 191,
+      "ime": "Soyora",
+      "shirina": 42.700994,
+      "dalzhina": 23.292685,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 192,
+      "ime": "Spanehris",
+      "shirina": 42.705008,
+      "dalzhina": 23.327376,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 193,
+      "ime": "Stemar",
+      "shirina": 42.622101,
+      "dalzhina": 23.406186,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 194,
+      "ime": "Stimex",
+      "shirina": 42.625746,
+      "dalzhina": 23.376799,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 195,
+      "ime": "Stol",
+      "shirina": 42.661814,
+      "dalzhina": 23.265559,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 196,
+      "ime": "Systema Nova",
+      "shirina": 42.684658,
+      "dalzhina": 23.321507,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 197,
+      "ime": "The Center",
+      "shirina": 42.728328,
+      "dalzhina": 23.32294,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 198,
+      "ime": "The Project",
+      "shirina": 42.636439,
+      "dalzhina": 23.333782,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 199,
+      "ime": "Turquoise",
+      "shirina": 42.699035,
+      "dalzhina": 23.307688,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 200,
+      "ime": "Univers",
+      "shirina": 42.664231,
+      "dalzhina": 23.343504,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 201,
+      "ime": "Uzani",
+      "shirina": 42.710644,
+      "dalzhina": 23.318354,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 202,
+      "ime": "Vanessa Dreams",
+      "shirina": 43.416482,
+      "dalzhina": 24.612254,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 203,
+      "ime": "Verona",
+      "shirina": 42.681874,
+      "dalzhina": 27.699185,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 204,
+      "ime": "Versus",
+      "shirina": 42.636411,
+      "dalzhina": 23.333867,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 205,
+      "ime": "Vestony",
+      "shirina": 42.66677,
+      "dalzhina": 23.297389,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 206,
+      "ime": "Vidra",
+      "shirina": 43.221506,
+      "dalzhina": 27.938817,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 207,
+      "ime": "Volturno&Mebeli",
+      "shirina": 42.668371,
+      "dalzhina": 23.290281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 208,
+      "ime": "Vugizza",
+      "shirina": 42.139658,
+      "dalzhina": 24.774416,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 209,
+      "ime": "We mat",
+      "shirina": 42.686473,
+      "dalzhina": 23.299862,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 210,
+      "ime": "ZARRA",
+      "shirina": 42.145807,
+      "dalzhina": 24.756748,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 211,
+      "ime": "ZonaComfort",
+      "shirina": 42.709844,
+      "dalzhina": 23.263054,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 212,
+      "ime": "como",
+      "shirina": 42.624274,
+      "dalzhina": 23.380985,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 213,
+      "ime": "em design",
+      "shirina": 43.41985,
+      "dalzhina": 24.610958,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 214,
+      "ime": "sd Home Gallery",
+      "shirina": 42.645139,
+      "dalzhina": 23.313926,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 215,
+      "ime": "АБВ и син",
+      "shirina": 42.563174,
+      "dalzhina": 27.527342,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 216,
+      "ime": "АМИК-Интер",
+      "shirina": 42.70343,
+      "dalzhina": 23.309761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 217,
+      "ime": "Аделит",
+      "shirina": 42.708217,
+      "dalzhina": 23.312218,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 218,
+      "ime": "Ар деко",
+      "shirina": 42.667834,
+      "dalzhina": 23.284321,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 219,
+      "ime": "Арексим Гарден",
+      "shirina": 42.152008,
+      "dalzhina": 24.757022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 220,
+      "ime": "Арексим гарден",
+      "shirina": 42.698101,
+      "dalzhina": 23.317944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 221,
+      "ime": "Арт Модул ООД",
+      "shirina": 42.497775,
+      "dalzhina": 27.46508,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 222,
+      "ime": "Арте Италиана",
+      "shirina": 42.934246,
+      "dalzhina": 24.220483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 223,
+      "ime": "Бали",
+      "shirina": 43.209623,
+      "dalzhina": 27.910501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 224,
+      "ime": "Банко",
+      "shirina": 42.689745,
+      "dalzhina": 23.251197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 225,
+      "ime": "Барбарон",
+      "shirina": 42.692037,
+      "dalzhina": 23.314409,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 226,
+      "ime": "Бета",
+      "shirina": 41.569053,
+      "dalzhina": 24.734826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 227,
+      "ime": "Бета",
+      "shirina": 42.158667,
+      "dalzhina": 24.733084,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 228,
+      "ime": "Бит",
+      "shirina": 43.854944,
+      "dalzhina": 25.953585,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 229,
+      "ime": "Бодомекс",
+      "shirina": 42.617889,
+      "dalzhina": 25.368595,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 230,
+      "ime": "Брилянт",
+      "shirina": 42.429498,
+      "dalzhina": 25.616982,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 231,
+      "ime": "Буратино",
+      "shirina": 42.138359,
+      "dalzhina": 24.79194,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 232,
+      "ime": "Валдом",
+      "shirina": 42.708785,
+      "dalzhina": 23.313011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 233,
+      "ime": "Валиани",
+      "shirina": 43.217249,
+      "dalzhina": 27.919389,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 234,
+      "ime": "Ви ей стайл",
+      "shirina": 42.705076,
+      "dalzhina": 23.311866,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 235,
+      "ime": "Виденов",
+      "shirina": 42.337011,
+      "dalzhina": 23.556452,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 236,
+      "ime": "Вилаз",
+      "shirina": 42.721974,
+      "dalzhina": 23.251778,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 237,
+      "ime": "Витро Варна",
+      "shirina": 43.221607,
+      "dalzhina": 27.938911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 238,
+      "ime": "Врати",
+      "shirina": 42.151898,
+      "dalzhina": 24.756618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 239,
+      "ime": "Врати Expert",
+      "shirina": 42.699106,
+      "dalzhina": 23.34715,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 240,
+      "ime": "Вселена",
+      "shirina": 41.742685,
+      "dalzhina": 24.39608,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 241,
+      "ime": "Вълчев",
+      "shirina": 42.683041,
+      "dalzhina": 23.355237,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 242,
+      "ime": "Вълчев МебелЪ",
+      "shirina": 42.673175,
+      "dalzhina": 23.275559,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 243,
+      "ime": "Вълчевъ Мебелъ",
+      "shirina": 42.658131,
+      "dalzhina": 23.343969,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 244,
+      "ime": "ГАЛАКС-М ЕООД",
+      "shirina": 43.225702,
+      "dalzhina": 24.839022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 245,
+      "ime": "Гидулски",
+      "shirina": 42.699518,
+      "dalzhina": 23.334671,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 246,
+      "ime": "Даниста",
+      "shirina": 42.348585,
+      "dalzhina": 27.180741,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 247,
+      "ime": "Даниста",
+      "shirina": 42.505841,
+      "dalzhina": 27.460698,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 248,
+      "ime": "Девора",
+      "shirina": 43.827848,
+      "dalzhina": 27.143926,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 249,
+      "ime": "Денев",
+      "shirina": 42.687869,
+      "dalzhina": 23.302536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 250,
+      "ime": "Дени",
+      "shirina": 42.68111,
+      "dalzhina": 23.2885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 251,
+      "ime": "Джордани Продакшън",
+      "shirina": 43.869214,
+      "dalzhina": 26.0062,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 252,
+      "ime": "Диалог А ЕООД",
+      "shirina": 42.717382,
+      "dalzhina": 23.298969,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 253,
+      "ime": "Дизма",
+      "shirina": 42.136883,
+      "dalzhina": 24.714983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 254,
+      "ime": "Дизма",
+      "shirina": 42.151501,
+      "dalzhina": 24.774757,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 255,
+      "ime": "Дизма",
+      "shirina": 42.153418,
+      "dalzhina": 24.678849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 256,
+      "ime": "Динимекс ООД | Мебели",
+      "shirina": 42.851855,
+      "dalzhina": 24.66627,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 257,
+      "ime": "Дискрет",
+      "shirina": 41.936276,
+      "dalzhina": 25.554902,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 258,
+      "ime": "Дияна7",
+      "shirina": 43.437736,
+      "dalzhina": 24.592835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 259,
+      "ime": "Домко",
+      "shirina": 42.637806,
+      "dalzhina": 23.323065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 260,
+      "ime": "Домко",
+      "shirina": 42.712006,
+      "dalzhina": 23.380306,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 261,
+      "ime": "Домко",
+      "shirina": 43.219482,
+      "dalzhina": 27.926307,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 262,
+      "ime": "Домко",
+      "shirina": 43.851591,
+      "dalzhina": 25.983958,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 263,
+      "ime": "Домузов и синове",
+      "shirina": 42.702404,
+      "dalzhina": 23.352458,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 264,
+      "ime": "Елегандо",
+      "shirina": 42.692434,
+      "dalzhina": 23.314939,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 265,
+      "ime": "Енгин Стайл",
+      "shirina": 43.826705,
+      "dalzhina": 27.141148,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 266,
+      "ime": "Еником М",
+      "shirina": 42.661048,
+      "dalzhina": 23.392432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 267,
+      "ime": "Еником М",
+      "shirina": 42.72347,
+      "dalzhina": 23.24961,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 268,
+      "ime": "Ера стил",
+      "shirina": 42.67774,
+      "dalzhina": 23.301301,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 269,
+      "ime": "Зона",
+      "shirina": 42.519958,
+      "dalzhina": 27.456756,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 270,
+      "ime": "ИДЕА",
+      "shirina": 42.520987,
+      "dalzhina": 27.439749,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 271,
+      "ime": "Ивели",
+      "shirina": 42.150748,
+      "dalzhina": 24.77516,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 272,
+      "ime": "Ивели",
+      "shirina": 42.69031,
+      "dalzhina": 23.252577,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 273,
+      "ime": "Идеал",
+      "shirina": 43.567154,
+      "dalzhina": 27.823215,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 274,
+      "ime": "Изабела",
+      "shirina": 42.911775,
+      "dalzhina": 23.812664,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 275,
+      "ime": "Интериор",
+      "shirina": 42.280254,
+      "dalzhina": 22.686538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 276,
+      "ime": "Интериор-и",
+      "shirina": 42.702946,
+      "dalzhina": 23.354004,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 277,
+      "ime": "Интериорни врати",
+      "shirina": 42.263655,
+      "dalzhina": 23.111085,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 278,
+      "ime": "Кавръков Мебел",
+      "shirina": 42.700754,
+      "dalzhina": 23.313531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 279,
+      "ime": "Камбера и син",
+      "shirina": 42.684295,
+      "dalzhina": 23.279258,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 280,
+      "ime": "Камекс М",
+      "shirina": 42.663411,
+      "dalzhina": 23.302379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 281,
+      "ime": "Камко",
+      "shirina": 42.636605,
+      "dalzhina": 23.325908,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 282,
+      "ime": "Канор",
+      "shirina": 42.674077,
+      "dalzhina": 23.360195,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 283,
+      "ime": "Кейс ООД",
+      "shirina": 43.217259,
+      "dalzhina": 27.95823,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 284,
+      "ime": "Класик",
+      "shirina": 42.68649,
+      "dalzhina": 23.321588,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 285,
+      "ime": "Комбина Бар",
+      "shirina": 42.662427,
+      "dalzhina": 23.352601,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 286,
+      "ime": "Комфорт",
+      "shirina": 42.128891,
+      "dalzhina": 24.748339,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 287,
+      "ime": "Корадо",
+      "shirina": 43.217536,
+      "dalzhina": 25.953521,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 288,
+      "ime": "Коркова къща",
+      "shirina": 42.702559,
+      "dalzhina": 23.329235,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 289,
+      "ime": "Крома",
+      "shirina": 42.702287,
+      "dalzhina": 23.329292,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 290,
+      "ime": "Кухни Prego",
+      "shirina": 43.270432,
+      "dalzhina": 26.919093,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 291,
+      "ime": "Лабиринт",
+      "shirina": 42.711271,
+      "dalzhina": 23.27243,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 292,
+      "ime": "Ламини ЕООД",
+      "shirina": 42.678548,
+      "dalzhina": 23.405028,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 293,
+      "ime": "Лекс груп",
+      "shirina": 42.699316,
+      "dalzhina": 23.36336,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 294,
+      "ime": "Лемез",
+      "shirina": 42.671478,
+      "dalzhina": 23.259695,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 295,
+      "ime": "Лима",
+      "shirina": 42.7006,
+      "dalzhina": 23.314223,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 296,
+      "ime": "Ломбардо",
+      "shirina": 42.661032,
+      "dalzhina": 23.34931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 297,
+      "ime": "МАКРОНЕКС",
+      "shirina": 42.520185,
+      "dalzhina": 27.437048,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 298,
+      "ime": "МОНДО",
+      "shirina": 42.687223,
+      "dalzhina": 26.341141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 299,
+      "ime": "МОНДО 3",
+      "shirina": 42.701178,
+      "dalzhina": 25.898551,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 300,
+      "ime": "Магазин за мебели Феникс",
+      "shirina": 42.621396,
+      "dalzhina": 25.390818,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 301,
+      "ime": "Мак Мебел",
+      "shirina": 43.081704,
+      "dalzhina": 25.611561,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 302,
+      "ime": "Макропод",
+      "shirina": 43.583337,
+      "dalzhina": 27.814616,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 303,
+      "ime": "Марая мебели",
+      "shirina": 42.689841,
+      "dalzhina": 23.36338,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 304,
+      "ime": "Марка.bg",
+      "shirina": 42.702354,
+      "dalzhina": 23.333367,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 305,
+      "ime": "Масив",
+      "shirina": 42.688429,
+      "dalzhina": 23.345932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 306,
+      "ime": "Матраци",
+      "shirina": 43.218395,
+      "dalzhina": 27.928325,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 307,
+      "ime": "Матраци ТЕД",
+      "shirina": 42.152805,
+      "dalzhina": 24.760247,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 308,
+      "ime": "Мебел Велков",
+      "shirina": 42.701673,
+      "dalzhina": 23.30681,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 309,
+      "ime": "Мебел Дизайн",
+      "shirina": 42.15198,
+      "dalzhina": 24.773773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 310,
+      "ime": "Мебел пласт дизайн",
+      "shirina": 42.672265,
+      "dalzhina": 23.293543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 311,
+      "ime": "МебелМаг",
+      "shirina": 42.705084,
+      "dalzhina": 23.326246,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 312,
+      "ime": "Мебелен магазин Мондо",
+      "shirina": 42.409936,
+      "dalzhina": 25.639188,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 313,
+      "ime": "Мебели",
+      "shirina": 41.930018,
+      "dalzhina": 25.564888,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 314,
+      "ime": "Мебели \"Антар\"",
+      "shirina": 43.244579,
+      "dalzhina": 26.548351,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 315,
+      "ime": "Мебели \"Бордо\"",
+      "shirina": 42.029222,
+      "dalzhina": 24.853261,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 316,
+      "ime": "Мебели Aron",
+      "shirina": 42.619018,
+      "dalzhina": 25.390102,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 317,
+      "ime": "Мебели Decorini",
+      "shirina": 41.604412,
+      "dalzhina": 25.375974,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 318,
+      "ime": "Мебели Анита",
+      "shirina": 41.578099,
+      "dalzhina": 24.686293,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 319,
+      "ime": "Мебели Валдо",
+      "shirina": 42.521476,
+      "dalzhina": 27.441124,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 320,
+      "ime": "Мебели Виденов",
+      "shirina": 41.563166,
+      "dalzhina": 23.276967,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 321,
+      "ime": "Мебели Виденов",
+      "shirina": 41.633091,
+      "dalzhina": 25.357225,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 322,
+      "ime": "Мебели Виденов",
+      "shirina": 41.93128,
+      "dalzhina": 25.561995,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 323,
+      "ime": "Мебели Виденов",
+      "shirina": 42.019483,
+      "dalzhina": 23.093485,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 324,
+      "ime": "Мебели Виденов",
+      "shirina": 42.153184,
+      "dalzhina": 24.771973,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 325,
+      "ime": "Мебели Виденов",
+      "shirina": 42.414192,
+      "dalzhina": 25.610083,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 326,
+      "ime": "Мебели Виденов",
+      "shirina": 42.427574,
+      "dalzhina": 25.662399,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 327,
+      "ime": "Мебели Виденов",
+      "shirina": 42.485113,
+      "dalzhina": 27.446545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 328,
+      "ime": "Мебели Виденов",
+      "shirina": 42.486949,
+      "dalzhina": 26.504241,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 329,
+      "ime": "Мебели Виденов",
+      "shirina": 42.511397,
+      "dalzhina": 27.458991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 330,
+      "ime": "Мебели Виденов",
+      "shirina": 42.602419,
+      "dalzhina": 23.046895,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 331,
+      "ime": "Мебели Виденов",
+      "shirina": 42.636413,
+      "dalzhina": 23.324063,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 332,
+      "ime": "Мебели Виденов",
+      "shirina": 42.694544,
+      "dalzhina": 27.700818,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 333,
+      "ime": "Мебели Виденов",
+      "shirina": 42.703582,
+      "dalzhina": 24.162397,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 334,
+      "ime": "Мебели Виденов",
+      "shirina": 42.709105,
+      "dalzhina": 23.294792,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 335,
+      "ime": "Мебели Виденов",
+      "shirina": 42.878376,
+      "dalzhina": 25.315364,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 336,
+      "ime": "Мебели Виденов",
+      "shirina": 42.908012,
+      "dalzhina": 23.796139,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 337,
+      "ime": "Мебели Виденов",
+      "shirina": 42.91067,
+      "dalzhina": 23.803438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 338,
+      "ime": "Мебели Виденов",
+      "shirina": 43.022929,
+      "dalzhina": 25.094674,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 339,
+      "ime": "Мебели Виденов",
+      "shirina": 43.223722,
+      "dalzhina": 27.8733,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 340,
+      "ime": "Мебели Виденов",
+      "shirina": 43.232977,
+      "dalzhina": 27.865607,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 341,
+      "ime": "Мебели Виденов",
+      "shirina": 43.572572,
+      "dalzhina": 27.828428,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 342,
+      "ime": "Мебели Вики",
+      "shirina": 42.573274,
+      "dalzhina": 23.112834,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 343,
+      "ime": "Мебели Дриймс",
+      "shirina": 42.48173,
+      "dalzhina": 27.443343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 344,
+      "ime": "Мебели Еврика",
+      "shirina": 42.670336,
+      "dalzhina": 23.33303,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 345,
+      "ime": "Мебели Евродом",
+      "shirina": 42.525406,
+      "dalzhina": 27.467982,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 346,
+      "ime": "Мебели Ергодизайн",
+      "shirina": 43.854039,
+      "dalzhina": 25.991121,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 347,
+      "ime": "Мебели Камбо",
+      "shirina": 41.930516,
+      "dalzhina": 25.602488,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 348,
+      "ime": "Мебели Комфорт",
+      "shirina": 43.840339,
+      "dalzhina": 25.955069,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 349,
+      "ime": "Мебели Комфорт-1",
+      "shirina": 43.423956,
+      "dalzhina": 23.224193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 350,
+      "ime": "Мебели Конфорт",
+      "shirina": 42.668609,
+      "dalzhina": 26.323536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 351,
+      "ime": "Мебели Краси",
+      "shirina": 42.672903,
+      "dalzhina": 23.285022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 352,
+      "ime": "Мебели Лукс",
+      "shirina": 42.6707,
+      "dalzhina": 26.322431,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 353,
+      "ime": "Мебели Мондо",
+      "shirina": 42.090421,
+      "dalzhina": 25.211613,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 354,
+      "ime": "Мебели Мондо",
+      "shirina": 42.149451,
+      "dalzhina": 24.776462,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 355,
+      "ime": "Мебели Мондо",
+      "shirina": 42.470282,
+      "dalzhina": 26.523957,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 356,
+      "ime": "Мебели Мондо",
+      "shirina": 42.675968,
+      "dalzhina": 26.322139,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 357,
+      "ime": "Мебели СТИЛ-2",
+      "shirina": 43.412231,
+      "dalzhina": 23.225995,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 358,
+      "ime": "Мебели Стил",
+      "shirina": 42.678369,
+      "dalzhina": 26.316514,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 359,
+      "ime": "Мебели Тико",
+      "shirina": 43.206099,
+      "dalzhina": 23.567177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 360,
+      "ime": "Мебели Триди",
+      "shirina": 42.671026,
+      "dalzhina": 23.352545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 361,
+      "ime": "Мебели Финес",
+      "shirina": 43.570064,
+      "dalzhina": 27.834656,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 362,
+      "ime": "Мебели Хелиос",
+      "shirina": 42.567923,
+      "dalzhina": 27.619568,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 363,
+      "ime": "Мебели Хрис",
+      "shirina": 42.009536,
+      "dalzhina": 24.872427,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 364,
+      "ime": "Мебелина",
+      "shirina": 42.659439,
+      "dalzhina": 23.272582,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 365,
+      "ime": "Мебелна къща \"Болярка\"",
+      "shirina": 43.076076,
+      "dalzhina": 25.622421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 366,
+      "ime": "Мебелна къща \"Дейзи\"",
+      "shirina": 42.416545,
+      "dalzhina": 25.601047,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 367,
+      "ime": "Мебелна къща Боровец",
+      "shirina": 42.487954,
+      "dalzhina": 26.511764,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 368,
+      "ime": "Мебелна къща Никора",
+      "shirina": 43.55037,
+      "dalzhina": 27.824896,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 369,
+      "ime": "Мебелна фабрика Мела",
+      "shirina": 43.229404,
+      "dalzhina": 27.90631,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 370,
+      "ime": "Мебелни Къщи Ralica",
+      "shirina": 43.223901,
+      "dalzhina": 27.873344,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 371,
+      "ime": "Мебелни Фабрики Мицикулеви, Велинград",
+      "shirina": 42.016668,
+      "dalzhina": 23.997142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 372,
+      "ime": "Меблик",
+      "shirina": 42.623705,
+      "dalzhina": 23.357869,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 373,
+      "ime": "Метаксакис България",
+      "shirina": 42.644685,
+      "dalzhina": 23.305829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 374,
+      "ime": "Метрон",
+      "shirina": 42.688074,
+      "dalzhina": 23.322915,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 375,
+      "ime": "Молдавия",
+      "shirina": 42.132078,
+      "dalzhina": 24.746173,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 376,
+      "ime": "Мондо",
+      "shirina": 43.074307,
+      "dalzhina": 25.611226,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 377,
+      "ime": "Мондо",
+      "shirina": 43.216174,
+      "dalzhina": 27.908939,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 378,
+      "ime": "Мондо 12",
+      "shirina": 41.917569,
+      "dalzhina": 25.561234,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 379,
+      "ime": "Моят Матрак",
+      "shirina": 42.457122,
+      "dalzhina": 27.416722,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 380,
+      "ime": "Нино",
+      "shirina": 43.528158,
+      "dalzhina": 26.517706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 381,
+      "ime": "Нипо",
+      "shirina": 43.215278,
+      "dalzhina": 27.921814,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 382,
+      "ime": "Нов Дом",
+      "shirina": 42.480089,
+      "dalzhina": 27.440296,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 383,
+      "ime": "Нов Дом",
+      "shirina": 43.032559,
+      "dalzhina": 25.081055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 384,
+      "ime": "Нов дом",
+      "shirina": 42.172746,
+      "dalzhina": 26.569949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 385,
+      "ime": "Нов дом",
+      "shirina": 42.695424,
+      "dalzhina": 23.285994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 386,
+      "ime": "Нов дом",
+      "shirina": 43.07898,
+      "dalzhina": 25.598263,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 387,
+      "ime": "Оникс",
+      "shirina": 42.665854,
+      "dalzhina": 23.353229,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 388,
+      "ime": "Орхидея",
+      "shirina": 43.409293,
+      "dalzhina": 24.608487,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 389,
+      "ime": "Паргони Дизайн",
+      "shirina": 42.704821,
+      "dalzhina": 23.320984,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 390,
+      "ime": "Перфект",
+      "shirina": 42.703893,
+      "dalzhina": 23.376494,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 391,
+      "ime": "Перфект мебел",
+      "shirina": 42.673812,
+      "dalzhina": 23.26358,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 392,
+      "ime": "Пипонков",
+      "shirina": 42.65724,
+      "dalzhina": 23.336982,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 393,
+      "ime": "Прамен ООД",
+      "shirina": 42.708588,
+      "dalzhina": 23.308605,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 394,
+      "ime": "Производител на мебели Дабора",
+      "shirina": 42.832064,
+      "dalzhina": 24.923438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 395,
+      "ime": "Производство на осветителни тела Ася - Сливен",
+      "shirina": 42.677942,
+      "dalzhina": 26.323594,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 396,
+      "ime": "РОСИ",
+      "shirina": 42.734095,
+      "dalzhina": 23.324832,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 397,
+      "ime": "Ралица",
+      "shirina": 42.639593,
+      "dalzhina": 23.319142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 398,
+      "ime": "Ралица",
+      "shirina": 42.655762,
+      "dalzhina": 23.278229,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 399,
+      "ime": "Ремонт мебели",
+      "shirina": 42.732116,
+      "dalzhina": 23.301234,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 400,
+      "ime": "Росал",
+      "shirina": 41.930772,
+      "dalzhina": 25.553216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 401,
+      "ime": "Роси",
+      "shirina": 42.471947,
+      "dalzhina": 27.430373,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 402,
+      "ime": "Роси",
+      "shirina": 43.215984,
+      "dalzhina": 27.870201,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 403,
+      "ime": "Руди-Ан",
+      "shirina": 43.229869,
+      "dalzhina": 27.871091,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 404,
+      "ime": "Рустикал",
+      "shirina": 42.690483,
+      "dalzhina": 23.339928,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 405,
+      "ime": "СТАВИО ООД",
+      "shirina": 42.047229,
+      "dalzhina": 25.585018,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 406,
+      "ime": "Севджан",
+      "shirina": 42.680768,
+      "dalzhina": 23.289113,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 407,
+      "ime": "Сеником М",
+      "shirina": 42.147438,
+      "dalzhina": 24.768684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 408,
+      "ime": "Спални СЕТ",
+      "shirina": 42.146114,
+      "dalzhina": 24.754145,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 409,
+      "ime": "Старата мебелна къща",
+      "shirina": 42.683233,
+      "dalzhina": 26.346994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 410,
+      "ime": "Стенимакс",
+      "shirina": 42.498946,
+      "dalzhina": 27.479199,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 411,
+      "ime": "Стенимакс Троян",
+      "shirina": 42.678606,
+      "dalzhina": 23.310205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 412,
+      "ime": "Стил М",
+      "shirina": 43.209661,
+      "dalzhina": 27.911522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 413,
+      "ime": "Стил-М",
+      "shirina": 42.65714,
+      "dalzhina": 23.309657,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 414,
+      "ime": "Стимекс",
+      "shirina": 42.626036,
+      "dalzhina": 23.376446,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 415,
+      "ime": "Съни",
+      "shirina": 42.648719,
+      "dalzhina": 23.372571,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 416,
+      "ime": "Таня",
+      "shirina": 42.720032,
+      "dalzhina": 23.244232,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 417,
+      "ime": "ТеМакс",
+      "shirina": 42.88945,
+      "dalzhina": 25.29444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 418,
+      "ime": "Тед",
+      "shirina": 42.487629,
+      "dalzhina": 26.509861,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 419,
+      "ime": "Тедива",
+      "shirina": 43.587907,
+      "dalzhina": 27.813785,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 420,
+      "ime": "Текрида",
+      "shirina": 42.138214,
+      "dalzhina": 24.791922,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 421,
+      "ime": "ТеоМебел",
+      "shirina": 43.840851,
+      "dalzhina": 25.948157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 422,
+      "ime": "Торо",
+      "shirina": 42.137865,
+      "dalzhina": 24.791879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 423,
+      "ime": "Траяна",
+      "shirina": 42.428202,
+      "dalzhina": 25.635392,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 424,
+      "ime": "Троянски Мебели",
+      "shirina": 42.158534,
+      "dalzhina": 24.732142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 425,
+      "ime": "Троянски мебели",
+      "shirina": 42.158043,
+      "dalzhina": 24.732291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 426,
+      "ime": "Търговска къща Мебел",
+      "shirina": 42.714251,
+      "dalzhina": 23.248753,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 427,
+      "ime": "Уют",
+      "shirina": 42.568013,
+      "dalzhina": 27.619347,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 428,
+      "ime": "Фабрика Вълчев Мебель",
+      "shirina": 42.673423,
+      "dalzhina": 23.276006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 429,
+      "ime": "Форест ООД",
+      "shirina": 42.660348,
+      "dalzhina": 23.414581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 430,
+      "ime": "Хеликс",
+      "shirina": 42.674742,
+      "dalzhina": 23.360876,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 431,
+      "ime": "Хелиос",
+      "shirina": 42.654185,
+      "dalzhina": 27.67543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 432,
+      "ime": "Хенделс",
+      "shirina": 42.4947,
+      "dalzhina": 27.463252,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 433,
+      "ime": "Хера",
+      "shirina": 43.233117,
+      "dalzhina": 27.867173,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 434,
+      "ime": "Хералд мебели",
+      "shirina": 42.90441,
+      "dalzhina": 25.330744,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 435,
+      "ime": "Хермес MD",
+      "shirina": 42.711946,
+      "dalzhina": 23.311738,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 436,
+      "ime": "Хикови",
+      "shirina": 42.673541,
+      "dalzhina": 26.336777,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 437,
+      "ime": "Хит Дизайн",
+      "shirina": 43.21494,
+      "dalzhina": 27.907371,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 438,
+      "ime": "Хитрон",
+      "shirina": 42.518276,
+      "dalzhina": 27.44103,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 439,
+      "ime": "Хоп Мебели",
+      "shirina": 42.730741,
+      "dalzhina": 23.268093,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 440,
+      "ime": "Хоп мебели",
+      "shirina": 42.654311,
+      "dalzhina": 23.397054,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 441,
+      "ime": "ЯВОР",
+      "shirina": 42.18118,
+      "dalzhina": 24.347675,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 442,
+      "ime": "Явор",
+      "shirina": 42.126708,
+      "dalzhina": 24.771005,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 443,
+      "ime": "Явор",
+      "shirina": 42.716679,
+      "dalzhina": 23.317477,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 444,
+      "ime": "Явор",
+      "shirina": 43.232368,
+      "dalzhina": 27.854046,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 445,
+      "ime": "валиян",
+      "shirina": 42.675071,
+      "dalzhina": 23.356665,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    },
+    {
+      "id": 446,
+      "ime": "матраци БРАВА",
+      "shirina": 43.265183,
+      "dalzhina": 26.950831,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "furniture",
+      "osm_klas": "shop=furniture"
+    }
+  ],
+  "meta": {
+    "title": "Магазини за мебели в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Магазини за мебели в България — 446 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=furniture`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 446 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Магазини за мебели в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Магазини за мебели в България (OpenStreetMap) — 446 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 446 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

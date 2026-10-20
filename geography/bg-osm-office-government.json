@@ -1,0 +1,4210 @@
+{
+  "id": "bg-osm-office-government",
+  "name": "Държавни учреждения в България (OpenStreetMap)",
+  "title": "Държавни учреждения в България (OpenStreetMap)",
+  "description": "Държавни учреждения в България — 461 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `office=government`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 461,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"ЕНЕРГОРАЗПРЕДЕЛЕНИЕ ПЛОВДИВ\" ЕАД",
+      "shirina": 41.929383,
+      "dalzhina": 25.555691,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 2,
+      "ime": "04 РУ СДВР Звено \"Български документи за самоличност\"",
+      "shirina": 42.679796,
+      "dalzhina": 23.325705,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 3,
+      "ime": "Border Control",
+      "shirina": 43.787266,
+      "dalzhina": 28.149218,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 4,
+      "ime": "CUSTOM&PASSKONTROL",
+      "shirina": 43.193011,
+      "dalzhina": 27.921044,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 5,
+      "ime": "Compania Națională Administrația Porturilor Dunării Fluviale S.A. Giurgiu",
+      "shirina": 43.869507,
+      "dalzhina": 25.964316,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 6,
+      "ime": "Cultural Center",
+      "shirina": 43.192246,
+      "dalzhina": 23.284214,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 7,
+      "ime": "Customs office - Vratsa",
+      "shirina": 43.206736,
+      "dalzhina": 23.561724,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 8,
+      "ime": "HMO",
+      "shirina": 43.073389,
+      "dalzhina": 25.617952,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 9,
+      "ime": "Hamzabeyli Sınır Kapısı",
+      "shirina": 41.957549,
+      "dalzhina": 26.612351,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 10,
+      "ime": "Kapıkule Sınır Kapısı",
+      "shirina": 41.716356,
+      "dalzhina": 26.360408,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 11,
+      "ime": "NFIU",
+      "shirina": 42.689681,
+      "dalzhina": 23.304799,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 12,
+      "ime": "Oбластно пътно управление Бургас",
+      "shirina": 42.492997,
+      "dalzhina": 27.465769,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 13,
+      "ime": "Passport Office",
+      "shirina": 43.242896,
+      "dalzhina": 26.563316,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 14,
+      "ime": "Punct trecere frontieră Vama Veche",
+      "shirina": 43.739234,
+      "dalzhina": 28.560907,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 15,
+      "ime": "Pегионална Cлужба по Заетостта",
+      "shirina": 43.204029,
+      "dalzhina": 27.915534,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 16,
+      "ime": "АРХИВ НОИ",
+      "shirina": 42.669127,
+      "dalzhina": 26.324824,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 17,
+      "ime": "Агенция \"Митници\"",
+      "shirina": 42.704029,
+      "dalzhina": 23.329308,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 18,
+      "ime": "Агенция \"Пътна инфраструктура\"",
+      "shirina": 42.194781,
+      "dalzhina": 24.330093,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 19,
+      "ime": "Агенция \"Пътна инфраструктура\"",
+      "shirina": 42.694165,
+      "dalzhina": 23.314842,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 20,
+      "ime": "Агенция за Държавна Финансова Инспекция",
+      "shirina": 41.932673,
+      "dalzhina": 25.560574,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 21,
+      "ime": "Агенция за Социално Подпомагане",
+      "shirina": 43.419369,
+      "dalzhina": 24.615806,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 22,
+      "ime": "Агенция за публичните предприятия и контрол",
+      "shirina": 42.667304,
+      "dalzhina": 23.350747,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 23,
+      "ime": "Агенция за социално подпомагане",
+      "shirina": 43.195441,
+      "dalzhina": 23.2884,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 24,
+      "ime": "Агенция за устойчиво енергийно развитие",
+      "shirina": 42.700586,
+      "dalzhina": 23.324155,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 25,
+      "ime": "Агенция за финансово разузнаване",
+      "shirina": 42.693757,
+      "dalzhina": 23.327493,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 26,
+      "ime": "Агенция по безопасност на храните",
+      "shirina": 42.908279,
+      "dalzhina": 23.799325,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 27,
+      "ime": "Агенция по вписвания",
+      "shirina": 42.680259,
+      "dalzhina": 23.360645,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 28,
+      "ime": "Агенция по геодезия, картография и кадастър",
+      "shirina": 42.667977,
+      "dalzhina": 23.268159,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 29,
+      "ime": "Агенция по заетоста",
+      "shirina": 42.697815,
+      "dalzhina": 23.324565,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 30,
+      "ime": "Агенция пътна инфраструктура - дирекция пътни такси и разрешителни",
+      "shirina": 42.694702,
+      "dalzhina": 23.316738,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 31,
+      "ime": "Административен Съд",
+      "shirina": 41.930907,
+      "dalzhina": 25.552065,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 32,
+      "ime": "Антидопингов център",
+      "shirina": 42.663953,
+      "dalzhina": 23.344554,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 33,
+      "ime": "Апелативна прокуратура - София",
+      "shirina": 42.698514,
+      "dalzhina": 23.313408,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 34,
+      "ime": "Апелативна прокуратура Бургас",
+      "shirina": 42.498258,
+      "dalzhina": 27.471593,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 35,
+      "ime": "Апелативна прокуратура София",
+      "shirina": 42.691628,
+      "dalzhina": 23.350503,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 36,
+      "ime": "Банксервиз АД",
+      "shirina": 41.931229,
+      "dalzhina": 25.552267,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 37,
+      "ime": "Басейнова дирекция - Черноморски район",
+      "shirina": 43.202789,
+      "dalzhina": 27.904891,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 38,
+      "ime": "Бизнес център",
+      "shirina": 43.406748,
+      "dalzhina": 23.229087,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 39,
+      "ime": "Бизнес център",
+      "shirina": 43.409563,
+      "dalzhina": 23.227661,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 40,
+      "ime": "Българска Национална Филмотека - Филмова База Стара Загора",
+      "shirina": 42.420518,
+      "dalzhina": 25.626584,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 41,
+      "ime": "Българска агенция за инвестиции",
+      "shirina": 42.692051,
+      "dalzhina": 23.328114,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 42,
+      "ime": "Българска агенция по безопасност на храните",
+      "shirina": 42.688177,
+      "dalzhina": 23.309305,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 43,
+      "ime": "Българска агенция по безопасност на храните",
+      "shirina": 43.5708,
+      "dalzhina": 27.827332,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 44,
+      "ime": "Българска агенция по безопасност на храните - отдел КПРЗТ и РЗ",
+      "shirina": 43.573879,
+      "dalzhina": 27.830585,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 45,
+      "ime": "Българска народна банка",
+      "shirina": 42.696142,
+      "dalzhina": 23.324929,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 46,
+      "ime": "Български Документи за Самоличност",
+      "shirina": 43.406319,
+      "dalzhina": 24.620652,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 47,
+      "ime": "Бюро за исдаване на преференциални транспортни карти",
+      "shirina": 42.147324,
+      "dalzhina": 24.762775,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 48,
+      "ime": "Бюро за социални услуги Надежда",
+      "shirina": 42.72722,
+      "dalzhina": 23.303402,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 49,
+      "ime": "Бюро за социални услуги Подуяне",
+      "shirina": 42.704246,
+      "dalzhina": 23.327217,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 50,
+      "ime": "Бюро за социални услуги Сердика-Надежда",
+      "shirina": 42.708852,
+      "dalzhina": 23.310212,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 51,
+      "ime": "Бюро по труда",
+      "shirina": 41.885482,
+      "dalzhina": 23.466876,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 52,
+      "ime": "Бюро по труда",
+      "shirina": 42.143989,
+      "dalzhina": 24.724536,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 53,
+      "ime": "Бюро по труда",
+      "shirina": 42.68121,
+      "dalzhina": 26.312548,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 54,
+      "ime": "Бюро по труда",
+      "shirina": 42.70993,
+      "dalzhina": 23.382768,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 55,
+      "ime": "Бюро по труда",
+      "shirina": 42.810258,
+      "dalzhina": 23.202186,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 56,
+      "ime": "Бюро по труда",
+      "shirina": 42.93069,
+      "dalzhina": 25.876667,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 57,
+      "ime": "Бюро по труда",
+      "shirina": 43.015046,
+      "dalzhina": 23.047635,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 58,
+      "ime": "Бюро по труда",
+      "shirina": 43.207686,
+      "dalzhina": 23.551428,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 59,
+      "ime": "Бюро по труда",
+      "shirina": 43.259075,
+      "dalzhina": 27.817903,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 60,
+      "ime": "Бюро по труда",
+      "shirina": 43.829529,
+      "dalzhina": 27.137248,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 61,
+      "ime": "Бюро по труда",
+      "shirina": 43.844876,
+      "dalzhina": 25.946012,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 62,
+      "ime": "Бюро по труда - Сердика",
+      "shirina": 42.70621,
+      "dalzhina": 23.329357,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 63,
+      "ime": "Бюро по труда - филиал Хисаря",
+      "shirina": 42.505982,
+      "dalzhina": 24.710296,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 64,
+      "ime": "Бюро по труда Изток",
+      "shirina": 42.628735,
+      "dalzhina": 23.381484,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 65,
+      "ime": "Висш съдебен съвет",
+      "shirina": 42.696089,
+      "dalzhina": 23.323476,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 66,
+      "ime": "Военно окръжие Айтос",
+      "shirina": 42.703274,
+      "dalzhina": 27.251854,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 67,
+      "ime": "Военно окръжие Сливен",
+      "shirina": 42.681769,
+      "dalzhina": 26.313225,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 68,
+      "ime": "Военно-окръжна прокуратура - София",
+      "shirina": 42.696468,
+      "dalzhina": 23.317733,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 69,
+      "ime": "ГБС - Пловдив АД",
+      "shirina": 41.933785,
+      "dalzhina": 25.557486,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 70,
+      "ime": "ГКПП Гюешево",
+      "shirina": 42.218584,
+      "dalzhina": 22.462573,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 71,
+      "ime": "ГКПП Калотина",
+      "shirina": 42.995584,
+      "dalzhina": 22.837438,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 72,
+      "ime": "ГКПП Капитан Андреево",
+      "shirina": 41.719045,
+      "dalzhina": 26.347469,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 73,
+      "ime": "ГКПП Кардам (БГ)",
+      "shirina": 43.784883,
+      "dalzhina": 28.147249,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 74,
+      "ime": "ГКПП Кулата",
+      "shirina": 41.380539,
+      "dalzhina": 23.362505,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 75,
+      "ime": "ГКПП Лесово",
+      "shirina": 41.961323,
+      "dalzhina": 26.605766,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 76,
+      "ime": "ГКПП Малко Търново",
+      "shirina": 41.969696,
+      "dalzhina": 27.461736,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 77,
+      "ime": "Главна Дирекция \"Мерки и измервателни уреди\" - Варна",
+      "shirina": 43.238495,
+      "dalzhina": 27.865904,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 78,
+      "ime": "Главна Дирекция Митници",
+      "shirina": 43.851646,
+      "dalzhina": 25.982447,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 79,
+      "ime": "Главна дирекция \"Национална полиция\"",
+      "shirina": 42.633023,
+      "dalzhina": 23.370556,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 80,
+      "ime": "Гражданска въздухоплавателна администрация",
+      "shirina": 42.686449,
+      "dalzhina": 23.403201,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 81,
+      "ime": "Гражданска защита - Айтос",
+      "shirina": 42.703438,
+      "dalzhina": 27.259721,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 82,
+      "ime": "Гранична полиция",
+      "shirina": 42.17191,
+      "dalzhina": 27.857446,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 83,
+      "ime": "ДАМНТ",
+      "shirina": 43.197637,
+      "dalzhina": 23.563417,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 84,
+      "ime": "ДАМТН",
+      "shirina": 41.929762,
+      "dalzhina": 25.533643,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 85,
+      "ime": "ДБТ Каспичан",
+      "shirina": 43.31402,
+      "dalzhina": 27.158875,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 86,
+      "ime": "ДГС Звездец",
+      "shirina": 42.10924,
+      "dalzhina": 27.418405,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 87,
+      "ime": "ДНСК",
+      "shirina": 42.694896,
+      "dalzhina": 23.314947,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 88,
+      "ime": "ДП \"РВД\"",
+      "shirina": 42.684921,
+      "dalzhina": 23.409283,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 89,
+      "ime": "ДП Национална компания „Железопътна инфраструктура“",
+      "shirina": 42.713484,
+      "dalzhina": 23.316018,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 90,
+      "ime": "ДСП Красно село",
+      "shirina": 42.684813,
+      "dalzhina": 23.298157,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 91,
+      "ime": "ДФ Земеделие",
+      "shirina": 43.203256,
+      "dalzhina": 23.546245,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 92,
+      "ime": "Данъчна служба",
+      "shirina": 42.061136,
+      "dalzhina": 25.591342,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 93,
+      "ime": "Данъчна служба - район \"Надежда\"",
+      "shirina": 42.731756,
+      "dalzhina": 23.307371,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 94,
+      "ime": "Данъчно подразделение - Аспарухово",
+      "shirina": 43.183507,
+      "dalzhina": 27.896921,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 95,
+      "ime": "Делта-ДЗ ЕООД",
+      "shirina": 41.933956,
+      "dalzhina": 25.555621,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 96,
+      "ime": "Дирекция \"Бюро по труда - Възраждане\", филиал \"Триадица\"",
+      "shirina": 42.672591,
+      "dalzhina": 23.300255,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 97,
+      "ime": "Дирекция \"Комуникационни и информационни системи\" - МВР",
+      "shirina": 42.722419,
+      "dalzhina": 23.172357,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 98,
+      "ime": "Дирекция \"Местни данъци и такси\"",
+      "shirina": 43.228517,
+      "dalzhina": 27.869686,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 99,
+      "ime": "Дирекция \"Миграция\"",
+      "shirina": 42.703374,
+      "dalzhina": 23.32361,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 100,
+      "ime": "Дирекция \"Миграция\"",
+      "shirina": 43.082878,
+      "dalzhina": 25.611978,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 101,
+      "ime": "Дирекция \"Обжалване и данъчно-осигурителна практика\"",
+      "shirina": 42.692892,
+      "dalzhina": 23.333067,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 102,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 42.557462,
+      "dalzhina": 27.64302,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 103,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 42.595968,
+      "dalzhina": 23.407849,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 104,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 42.656188,
+      "dalzhina": 23.348995,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 105,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 42.672585,
+      "dalzhina": 23.300243,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 106,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 42.699805,
+      "dalzhina": 23.300532,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 107,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 42.708352,
+      "dalzhina": 23.141413,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 108,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 42.908206,
+      "dalzhina": 23.794663,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 109,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 43.216267,
+      "dalzhina": 27.892613,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 110,
+      "ime": "Дирекция \"Социално подпомагане\"",
+      "shirina": 43.821483,
+      "dalzhina": 27.141198,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 111,
+      "ime": "Дирекция \"Средни данъкоплатци и осигурители\"",
+      "shirina": 42.691773,
+      "dalzhina": 23.327449,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 112,
+      "ime": "Дирекция Бюро по Труда",
+      "shirina": 43.17204,
+      "dalzhina": 27.44314,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 113,
+      "ime": "Дирекция Бюро по Труда - Айтос",
+      "shirina": 42.70473,
+      "dalzhina": 27.251755,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 114,
+      "ime": "Дирекция Бюро по Труда - Нови Пазар",
+      "shirina": 43.348451,
+      "dalzhina": 27.197004,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 115,
+      "ime": "Дирекция Местни данъци и такси",
+      "shirina": 42.139637,
+      "dalzhina": 24.739321,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 116,
+      "ime": "Дирекция за социално подпомагане",
+      "shirina": 42.668743,
+      "dalzhina": 23.265471,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 117,
+      "ime": "Дирекция за социално подпомагане",
+      "shirina": 42.67637,
+      "dalzhina": 23.28765,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 118,
+      "ime": "Дирекция на природен парк \"Витоша\"",
+      "shirina": 42.698437,
+      "dalzhina": 23.313385,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 119,
+      "ime": "Дирекция „Консулски отношения”, сектор „Легализации и заверки”",
+      "shirina": 42.679762,
+      "dalzhina": 23.356156,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 120,
+      "ime": "Дирекция „Транспортна инфраструктура“",
+      "shirina": 42.700277,
+      "dalzhina": 23.327445,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 121,
+      "ime": "Дирекция „Транспорт“",
+      "shirina": 42.700244,
+      "dalzhina": 23.327394,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 122,
+      "ime": "Държавен архив Видин",
+      "shirina": 43.991513,
+      "dalzhina": 22.881822,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 123,
+      "ime": "Държавен културен институт МВнР",
+      "shirina": 42.679788,
+      "dalzhina": 23.356157,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 124,
+      "ime": "Държавен фонд \"Земеделие\"",
+      "shirina": 42.669598,
+      "dalzhina": 23.267335,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 125,
+      "ime": "Държавна агенция \"Архиви\"",
+      "shirina": 42.697291,
+      "dalzhina": 23.326673,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 126,
+      "ime": "Държавна агенция \"Архиви\"",
+      "shirina": 43.402282,
+      "dalzhina": 24.618642,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 127,
+      "ime": "Държавна агенция за бежанците",
+      "shirina": 42.714303,
+      "dalzhina": 23.314567,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 128,
+      "ime": "Държавна агенция за българите в чужбина",
+      "shirina": 42.696669,
+      "dalzhina": 23.323676,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 129,
+      "ime": "Държавна агенция „Държавен резерв и военновременни запаси“",
+      "shirina": 42.697409,
+      "dalzhina": 23.326365,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 130,
+      "ime": "Държавната комисия по сигурността на информацията",
+      "shirina": 42.708002,
+      "dalzhina": 23.328693,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 131,
+      "ime": "Държавно Горско Стопанство",
+      "shirina": 41.933591,
+      "dalzhina": 25.555719,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 132,
+      "ime": "Държавно Горско Стопанство Айтос",
+      "shirina": 42.70882,
+      "dalzhina": 27.253254,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 133,
+      "ime": "Държавно горско стопанство",
+      "shirina": 43.015995,
+      "dalzhina": 23.046882,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 134,
+      "ime": "Държавно горско стопанство \"Ботевград\"",
+      "shirina": 42.909135,
+      "dalzhina": 23.803067,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 135,
+      "ime": "Държавно горско стопанство \"Тетевен\"",
+      "shirina": 42.917694,
+      "dalzhina": 24.263796,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 136,
+      "ime": "Държавно горско стопанство „Троян“",
+      "shirina": 42.88935,
+      "dalzhina": 24.70938,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 137,
+      "ime": "Държавно лесничейство",
+      "shirina": 41.648193,
+      "dalzhina": 24.15744,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 138,
+      "ime": "Държавно ловно стопанство - Каракуз",
+      "shirina": 43.821002,
+      "dalzhina": 27.141436,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 139,
+      "ime": "Европейска комисия в България",
+      "shirina": 42.690787,
+      "dalzhina": 23.323532,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 140,
+      "ime": "Зала \"Катя Попова\"",
+      "shirina": 43.406963,
+      "dalzhina": 24.620841,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 141,
+      "ime": "Здравен медиатор към община Айтос",
+      "shirina": 42.697606,
+      "dalzhina": 27.263415,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 142,
+      "ime": "ИАРА",
+      "shirina": 42.490428,
+      "dalzhina": 27.475881,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 143,
+      "ime": "ИЛ \"Екзотични и особено опасни инфекции\"",
+      "shirina": 42.738752,
+      "dalzhina": 23.289627,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 144,
+      "ime": "Изнесено работно място на Агенция за социално подпомагане",
+      "shirina": 42.693036,
+      "dalzhina": 23.98787,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 145,
+      "ime": "Изпълнителна агенция \"Автомобилна администрация\"",
+      "shirina": 42.693604,
+      "dalzhina": 23.32553,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 146,
+      "ime": "Изпълнителна агенция \"Главна инспекция по труда\"",
+      "shirina": 42.697826,
+      "dalzhina": 23.324663,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 147,
+      "ime": "Изпълнителна агенция \"Инфраструктура на електронното управление\"",
+      "shirina": 42.693117,
+      "dalzhina": 23.32472,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 148,
+      "ime": "Изпълнителна агенция по околната среда",
+      "shirina": 42.670121,
+      "dalzhina": 23.268032,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 149,
+      "ime": "Изпълнителна агенция „Автомобилна администрация“",
+      "shirina": 41.913733,
+      "dalzhina": 25.562774,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 150,
+      "ime": "Изпълнителна агенция „Автомобина администрация“",
+      "shirina": 41.913824,
+      "dalzhina": 25.562764,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 151,
+      "ime": "Изчислителен център",
+      "shirina": 41.929852,
+      "dalzhina": 25.558404,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 152,
+      "ime": "Инвеститорски контрол",
+      "shirina": 42.702247,
+      "dalzhina": 27.709716,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 153,
+      "ime": "Инспекторат към ВСС",
+      "shirina": 42.699867,
+      "dalzhina": 23.321047,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 154,
+      "ime": "Инспекция по труда - Софийска област",
+      "shirina": 42.694651,
+      "dalzhina": 23.320393,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 155,
+      "ime": "Институт по публична администрация",
+      "shirina": 42.700258,
+      "dalzhina": 23.327446,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 156,
+      "ime": "Институт по пътища и мостове",
+      "shirina": 42.712891,
+      "dalzhina": 23.369839,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 157,
+      "ime": "Информационен център на Министерство на отбраната",
+      "shirina": 42.693094,
+      "dalzhina": 23.326582,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 158,
+      "ime": "КАТ СЛИВЕН",
+      "shirina": 42.657125,
+      "dalzhina": 26.323395,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 159,
+      "ime": "КВК",
+      "shirina": 41.931875,
+      "dalzhina": 25.558536,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 160,
+      "ime": "Каса Пазари Възраждане",
+      "shirina": 42.702587,
+      "dalzhina": 23.319536,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 161,
+      "ime": "Каса на \"Община Варна\", Информационно обслужване",
+      "shirina": 43.202865,
+      "dalzhina": 27.91549,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 162,
+      "ime": "Кметсво",
+      "shirina": 42.157104,
+      "dalzhina": 26.185802,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 163,
+      "ime": "Кметство",
+      "shirina": 41.868712,
+      "dalzhina": 22.955404,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 164,
+      "ime": "Кметство",
+      "shirina": 41.93267,
+      "dalzhina": 22.975413,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 165,
+      "ime": "Кметство",
+      "shirina": 42.659481,
+      "dalzhina": 22.931114,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 166,
+      "ime": "Кметство",
+      "shirina": 42.945848,
+      "dalzhina": 23.078312,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 167,
+      "ime": "Кметство",
+      "shirina": 42.977445,
+      "dalzhina": 24.464185,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 168,
+      "ime": "Кметство",
+      "shirina": 43.0218,
+      "dalzhina": 24.81102,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 169,
+      "ime": "Кметство",
+      "shirina": 43.247637,
+      "dalzhina": 24.199454,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 170,
+      "ime": "Кметство",
+      "shirina": 43.270788,
+      "dalzhina": 24.271264,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 171,
+      "ime": "Кметство",
+      "shirina": 43.272213,
+      "dalzhina": 24.144943,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 172,
+      "ime": "Кметство",
+      "shirina": 43.306519,
+      "dalzhina": 24.349755,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 173,
+      "ime": "Кметство Белопопци",
+      "shirina": 42.668926,
+      "dalzhina": 23.767423,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 174,
+      "ime": "Кметство Белчин",
+      "shirina": 42.361116,
+      "dalzhina": 23.380334,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 175,
+      "ime": "Кметство Варвара",
+      "shirina": 42.12005,
+      "dalzhina": 27.900696,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 176,
+      "ime": "Кметство Горно Трапе",
+      "shirina": 42.876915,
+      "dalzhina": 24.647751,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 177,
+      "ime": "Кметство Грозден",
+      "shirina": 42.719997,
+      "dalzhina": 26.752232,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 178,
+      "ime": "Кметство Лакатник",
+      "shirina": 43.053223,
+      "dalzhina": 23.408885,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 179,
+      "ime": "Кметство Мокрен",
+      "shirina": 42.74047,
+      "dalzhina": 26.632265,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 180,
+      "ime": "Кметство Орешак",
+      "shirina": 42.875841,
+      "dalzhina": 24.775582,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 181,
+      "ime": "Кметство с.Въгларово",
+      "shirina": 41.906793,
+      "dalzhina": 25.45097,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 182,
+      "ime": "Комисия за защита на конкуренцията",
+      "shirina": 42.693121,
+      "dalzhina": 23.320047,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 183,
+      "ime": "Комисия за защита на потребителите",
+      "shirina": 42.492006,
+      "dalzhina": 27.464189,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 184,
+      "ime": "Комисия за защита на потребителите",
+      "shirina": 43.213547,
+      "dalzhina": 27.902121,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 185,
+      "ime": "Комисия за защита на потребителите",
+      "shirina": 43.408625,
+      "dalzhina": 23.228374,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 186,
+      "ime": "Комисия за финансов надзор",
+      "shirina": 42.699138,
+      "dalzhina": 23.327939,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 187,
+      "ime": "Комплекс \"21 ВЕК\"",
+      "shirina": 41.930378,
+      "dalzhina": 25.556729,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 188,
+      "ime": "Културен център Артиум",
+      "shirina": 42.663201,
+      "dalzhina": 27.718669,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 189,
+      "ime": "МВР",
+      "shirina": 41.930082,
+      "dalzhina": 25.559678,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 190,
+      "ime": "МВР",
+      "shirina": 42.675602,
+      "dalzhina": 23.324849,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 191,
+      "ime": "МО 2 - Щаб по отбраната",
+      "shirina": 42.690398,
+      "dalzhina": 23.304556,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 192,
+      "ime": "Местна инициативна група – Троян, Априлци, Угърчин",
+      "shirina": 42.886823,
+      "dalzhina": 24.710284,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 193,
+      "ime": "Миграция",
+      "shirina": 41.641061,
+      "dalzhina": 25.369588,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 194,
+      "ime": "Министерски съвет",
+      "shirina": 42.698291,
+      "dalzhina": 23.323562,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 195,
+      "ime": "Министерство на външните работи",
+      "shirina": 42.680281,
+      "dalzhina": 23.354743,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 196,
+      "ime": "Министерство на външните работи",
+      "shirina": 42.68056,
+      "dalzhina": 23.3541,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 197,
+      "ime": "Министерство на вътрешните работи",
+      "shirina": 41.929852,
+      "dalzhina": 25.560297,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 198,
+      "ime": "Министерство на вътрешните работи",
+      "shirina": 42.69108,
+      "dalzhina": 23.327792,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 199,
+      "ime": "Министерство на вътрешните работи",
+      "shirina": 42.696546,
+      "dalzhina": 23.318923,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 200,
+      "ime": "Министерство на електронното управление",
+      "shirina": 42.693464,
+      "dalzhina": 23.324973,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 201,
+      "ime": "Министерство на енергетиката",
+      "shirina": 42.698473,
+      "dalzhina": 23.325351,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 202,
+      "ime": "Министерство на здравеопазването",
+      "shirina": 42.697201,
+      "dalzhina": 23.320613,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 203,
+      "ime": "Министерство на здравеопазването",
+      "shirina": 42.697249,
+      "dalzhina": 23.317222,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 204,
+      "ime": "Министерство на земеделието и храните- Областна дирекция София-град",
+      "shirina": 42.680658,
+      "dalzhina": 23.31164,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 205,
+      "ime": "Министерство на земеделието, храните и горите",
+      "shirina": 42.695918,
+      "dalzhina": 23.314732,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 206,
+      "ime": "Министерство на икономиката",
+      "shirina": 42.692145,
+      "dalzhina": 23.32825,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 207,
+      "ime": "Министерство на икономиката",
+      "shirina": 42.695424,
+      "dalzhina": 23.323839,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 208,
+      "ime": "Министерство на икономиката и индустрията",
+      "shirina": 42.693365,
+      "dalzhina": 23.328217,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 209,
+      "ime": "Министерство на културата",
+      "shirina": 42.696729,
+      "dalzhina": 23.320077,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 210,
+      "ime": "Министерство на младежта и спорта",
+      "shirina": 42.690513,
+      "dalzhina": 23.331117,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 211,
+      "ime": "Министерство на образованието и науката - център за административно обслужване",
+      "shirina": 42.697283,
+      "dalzhina": 23.322832,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 212,
+      "ime": "Министерство на околната среда и водите",
+      "shirina": 42.691755,
+      "dalzhina": 23.323741,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 213,
+      "ime": "Министерство на околната среда и водите",
+      "shirina": 42.701012,
+      "dalzhina": 23.322886,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 214,
+      "ime": "Министерство на отбраната",
+      "shirina": 42.69479,
+      "dalzhina": 23.326986,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 215,
+      "ime": "Министерство на правосъдието",
+      "shirina": 42.694306,
+      "dalzhina": 23.327169,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 216,
+      "ime": "Министерство на правосъдието",
+      "shirina": 42.694896,
+      "dalzhina": 23.32792,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 217,
+      "ime": "Министерство на правосъдието - държавно предприятие - фонд затворно дело",
+      "shirina": 42.708376,
+      "dalzhina": 23.30476,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 218,
+      "ime": "Министерство на регионалното развитие и благоустройството",
+      "shirina": 42.702772,
+      "dalzhina": 23.331113,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 219,
+      "ime": "Министерство на транспорта и съобщенията",
+      "shirina": 42.69391,
+      "dalzhina": 23.325408,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 220,
+      "ime": "Министерство на труда и социалната политика",
+      "shirina": 42.698606,
+      "dalzhina": 23.324222,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 221,
+      "ime": "Министерство на туризма",
+      "shirina": 42.69563,
+      "dalzhina": 23.324511,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 222,
+      "ime": "Министерство на финансите",
+      "shirina": 42.693722,
+      "dalzhina": 23.327553,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 223,
+      "ime": "Министерство на финансите",
+      "shirina": 42.694154,
+      "dalzhina": 23.327996,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 224,
+      "ime": "Министерство на финансите",
+      "shirina": 42.695076,
+      "dalzhina": 23.327486,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 225,
+      "ime": "Митница",
+      "shirina": 42.490331,
+      "dalzhina": 27.474844,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 226,
+      "ime": "Митница",
+      "shirina": 42.688595,
+      "dalzhina": 23.403908,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 227,
+      "ime": "Митница Драгоман",
+      "shirina": 42.922935,
+      "dalzhina": 22.932691,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 228,
+      "ime": "Митница Пловдив",
+      "shirina": 42.10514,
+      "dalzhina": 24.758804,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 229,
+      "ime": "Митница Свиленград",
+      "shirina": 41.773997,
+      "dalzhina": 26.144965,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 230,
+      "ime": "Митница Хасково",
+      "shirina": 41.933354,
+      "dalzhina": 25.570121,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 231,
+      "ime": "Митническо бюро София - Запад",
+      "shirina": 42.745968,
+      "dalzhina": 23.317544,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 232,
+      "ime": "Митническо бюро Троян",
+      "shirina": 42.927928,
+      "dalzhina": 24.698634,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 233,
+      "ime": "Митническо бюро Шумен",
+      "shirina": 43.262994,
+      "dalzhina": 26.943829,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 234,
+      "ime": "Митническо обслужване",
+      "shirina": 42.71638,
+      "dalzhina": 23.435538,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 235,
+      "ime": "Морска Администрация",
+      "shirina": 42.49045,
+      "dalzhina": 27.476383,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 236,
+      "ime": "Морска администрация",
+      "shirina": 43.198413,
+      "dalzhina": 27.91646,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 237,
+      "ime": "НАП",
+      "shirina": 43.406391,
+      "dalzhina": 23.22875,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 238,
+      "ime": "НАП",
+      "shirina": 43.856192,
+      "dalzhina": 25.960699,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 239,
+      "ime": "НАП Благоевград",
+      "shirina": 42.022358,
+      "dalzhina": 23.099982,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 240,
+      "ime": "НАП Видин",
+      "shirina": 43.987347,
+      "dalzhina": 22.876121,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 241,
+      "ime": "НАП фронт офис",
+      "shirina": 42.493074,
+      "dalzhina": 27.472347,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 242,
+      "ime": "НЗК",
+      "shirina": 42.670247,
+      "dalzhina": 23.318175,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 243,
+      "ime": "НЗОК",
+      "shirina": 42.670775,
+      "dalzhina": 23.32168,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 244,
+      "ime": "НОИ",
+      "shirina": 41.472967,
+      "dalzhina": 25.655891,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 245,
+      "ime": "НОИ Кърджали",
+      "shirina": 41.645831,
+      "dalzhina": 25.367137,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 246,
+      "ime": "НОИ Перник",
+      "shirina": 42.601843,
+      "dalzhina": 23.029451,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 247,
+      "ime": "НСИ",
+      "shirina": 41.575429,
+      "dalzhina": 24.706997,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 248,
+      "ime": "Направление „Градско планиране и развитие“",
+      "shirina": 42.699395,
+      "dalzhina": 23.324364,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 249,
+      "ime": "Народно събрание",
+      "shirina": 42.697378,
+      "dalzhina": 23.325228,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 250,
+      "ime": "Народно събрание на Република България",
+      "shirina": 42.694501,
+      "dalzhina": 23.332847,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 251,
+      "ime": "Национален Институт по Метеорология и Хидрология",
+      "shirina": 43.212499,
+      "dalzhina": 27.951995,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 252,
+      "ime": "Национален Осигурителен Институт",
+      "shirina": 41.937116,
+      "dalzhina": 25.554038,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 253,
+      "ime": "Национален Осигурителен Институт",
+      "shirina": 43.419307,
+      "dalzhina": 24.615825,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 254,
+      "ime": "Национален осигурителен институт",
+      "shirina": 42.148663,
+      "dalzhina": 24.74693,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 255,
+      "ime": "Национален осигурителен институт",
+      "shirina": 42.697829,
+      "dalzhina": 23.315713,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 256,
+      "ime": "Национален осигурителен институт",
+      "shirina": 42.698611,
+      "dalzhina": 23.311843,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 257,
+      "ime": "Национален осигурителен институт, НОИ",
+      "shirina": 42.139791,
+      "dalzhina": 24.740332,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 258,
+      "ime": "Национален център за териториално развитие",
+      "shirina": 42.694694,
+      "dalzhina": 23.316648,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 259,
+      "ime": "Национална агенция за приходите",
+      "shirina": 43.412129,
+      "dalzhina": 24.615629,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 260,
+      "ime": "Национална следствена служба",
+      "shirina": 42.665445,
+      "dalzhina": 23.361116,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 261,
+      "ime": "Национално тол управление",
+      "shirina": 42.671227,
+      "dalzhina": 23.252827,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 262,
+      "ime": "Областен информационен център",
+      "shirina": 42.67826,
+      "dalzhina": 23.310696,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 263,
+      "ime": "Областна администрация Пазарджик",
+      "shirina": 42.189466,
+      "dalzhina": 24.331651,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 264,
+      "ime": "Областна дирекция на МВР",
+      "shirina": 43.078079,
+      "dalzhina": 25.631117,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 265,
+      "ime": "Областна дирекция по безопасност на храните",
+      "shirina": 43.074445,
+      "dalzhina": 25.622501,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 266,
+      "ime": "Областна дирекция по безопасност на храните - гр.Варна",
+      "shirina": 43.200096,
+      "dalzhina": 27.913994,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 267,
+      "ime": "Областна прибационна служба град София",
+      "shirina": 42.679732,
+      "dalzhina": 23.326148,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 268,
+      "ime": "Областна пробационна служба Софийска област",
+      "shirina": 42.906057,
+      "dalzhina": 23.793031,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 269,
+      "ime": "Областно пътно управление",
+      "shirina": 42.148287,
+      "dalzhina": 24.745508,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 270,
+      "ime": "Областно пътно управление Кърджали",
+      "shirina": 41.636538,
+      "dalzhina": 25.377695,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 271,
+      "ime": "Областно пътно управление София",
+      "shirina": 42.66853,
+      "dalzhina": 23.26776,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 272,
+      "ime": "Областно пътно управление Търговище",
+      "shirina": 43.248256,
+      "dalzhina": 26.57131,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 273,
+      "ime": "Областно пътно управление Хасково",
+      "shirina": 41.931361,
+      "dalzhina": 25.56429,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 274,
+      "ime": "Обреден Дом",
+      "shirina": 41.642248,
+      "dalzhina": 25.367036,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 275,
+      "ime": "Обществен посредник",
+      "shirina": 42.671696,
+      "dalzhina": 23.28406,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 276,
+      "ime": "Община Плевен - Механизъм лична помощ",
+      "shirina": 43.40278,
+      "dalzhina": 24.617035,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 277,
+      "ime": "Община Родопи - Данъчна служба",
+      "shirina": 42.14886,
+      "dalzhina": 24.746871,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 278,
+      "ime": "Община Созопол, отдел \"местни данъци и такси\"",
+      "shirina": 42.41915,
+      "dalzhina": 27.693911,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 279,
+      "ime": "Общинска администрация Балчик",
+      "shirina": 43.405932,
+      "dalzhina": 28.16577,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 280,
+      "ime": "Общинска служба по земеделие",
+      "shirina": 44.162359,
+      "dalzhina": 22.783945,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 281,
+      "ime": "Общинска служба по земеделие Полски Тръмбеш",
+      "shirina": 43.368651,
+      "dalzhina": 25.635475,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 282,
+      "ime": "Общински архив",
+      "shirina": 43.406093,
+      "dalzhina": 23.22917,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 283,
+      "ime": "Общински приходи \"Възраждане\"",
+      "shirina": 42.701227,
+      "dalzhina": 23.311048,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 284,
+      "ime": "Общинско радио Русе",
+      "shirina": 43.845163,
+      "dalzhina": 25.953812,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 285,
+      "ime": "Озеленяване",
+      "shirina": 42.659345,
+      "dalzhina": 23.328398,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 286,
+      "ime": "Окръжена прокуратура Бургас",
+      "shirina": 42.498617,
+      "dalzhina": 27.47111,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 287,
+      "ime": "Окръжна прокуратура - Перник",
+      "shirina": 42.602088,
+      "dalzhina": 23.030071,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 288,
+      "ime": "Окръжна прокуратура - София",
+      "shirina": 42.696098,
+      "dalzhina": 23.323427,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 289,
+      "ime": "Окръжна следствена служба",
+      "shirina": 43.205705,
+      "dalzhina": 23.555005,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 290,
+      "ime": "Омбудсман на република България",
+      "shirina": 42.702005,
+      "dalzhina": 23.321869,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 291,
+      "ime": "Оплата налогов на недвижимость",
+      "shirina": 42.510312,
+      "dalzhina": 27.469084,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 292,
+      "ime": "Организация на движението и АСУД",
+      "shirina": 42.667152,
+      "dalzhina": 23.357513,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 293,
+      "ime": "Паспортна служба",
+      "shirina": 41.643188,
+      "dalzhina": 25.367821,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 294,
+      "ime": "Паспортна служба",
+      "shirina": 43.200462,
+      "dalzhina": 27.916792,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 295,
+      "ime": "Паспортна служба",
+      "shirina": 43.846266,
+      "dalzhina": 25.959454,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 296,
+      "ime": "Паспортна служба към I РУ МВР Варна",
+      "shirina": 43.206396,
+      "dalzhina": 27.904461,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 297,
+      "ime": "Патентно ведомство",
+      "shirina": 42.664364,
+      "dalzhina": 23.358162,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 298,
+      "ime": "Пловдив Отдел \"Образование\" и Министерство на образованието и науката",
+      "shirina": 42.14762,
+      "dalzhina": 24.747608,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 299,
+      "ime": "Поделение „Паркиране и мобилност\"",
+      "shirina": 42.700273,
+      "dalzhina": 23.327389,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 300,
+      "ime": "Полиция",
+      "shirina": 42.23457,
+      "dalzhina": 27.770325,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 301,
+      "ime": "Президентство",
+      "shirina": 42.696962,
+      "dalzhina": 23.323692,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 302,
+      "ime": "Пристанищен комплекс Русе ЕАД",
+      "shirina": 43.847716,
+      "dalzhina": 25.946056,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 303,
+      "ime": "Прогрес-Агро",
+      "shirina": 43.443654,
+      "dalzhina": 26.164628,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 304,
+      "ime": "Прокуратура",
+      "shirina": 42.680761,
+      "dalzhina": 26.310981,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 305,
+      "ime": "Прокуратура на Република България",
+      "shirina": 42.695763,
+      "dalzhina": 23.320397,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 306,
+      "ime": "Промяна на собственост",
+      "shirina": 42.66704,
+      "dalzhina": 23.357818,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 307,
+      "ime": "Пътна служба",
+      "shirina": 43.625433,
+      "dalzhina": 22.681129,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 308,
+      "ime": "Р'ДСП София област",
+      "shirina": 42.711618,
+      "dalzhina": 23.317618,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 309,
+      "ime": "РД Социално подпомагане",
+      "shirina": 43.216898,
+      "dalzhina": 27.912573,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 310,
+      "ime": "РДНСК Бургас",
+      "shirina": 42.509281,
+      "dalzhina": 27.466852,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 311,
+      "ime": "РДНСК Варна",
+      "shirina": 43.216656,
+      "dalzhina": 27.912121,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 312,
+      "ime": "РДНСК Софийска област",
+      "shirina": 42.694925,
+      "dalzhina": 23.322002,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 313,
+      "ime": "РДНСК София",
+      "shirina": 42.694927,
+      "dalzhina": 23.321973,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 314,
+      "ime": "РДПБЗН Бургас",
+      "shirina": 42.495047,
+      "dalzhina": 27.46636,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 315,
+      "ime": "РДПБЗН Варна",
+      "shirina": 43.2183,
+      "dalzhina": 27.900479,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 316,
+      "ime": "РДПБЗН Пловдив",
+      "shirina": 42.145465,
+      "dalzhina": 24.743074,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 317,
+      "ime": "РДПБЗН София",
+      "shirina": 42.682234,
+      "dalzhina": 23.369237,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 318,
+      "ime": "РЗИ Благоевград",
+      "shirina": 42.022257,
+      "dalzhina": 23.095038,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 319,
+      "ime": "РЗИ Бургас",
+      "shirina": 42.502464,
+      "dalzhina": 27.468577,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 320,
+      "ime": "РЗИ Варна",
+      "shirina": 43.220279,
+      "dalzhina": 27.915506,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 321,
+      "ime": "РЗИ Велико Търново",
+      "shirina": 43.079991,
+      "dalzhina": 25.636825,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 322,
+      "ime": "РЗИ Добрич",
+      "shirina": 43.563409,
+      "dalzhina": 27.817586,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 323,
+      "ime": "РЗИ Ловеч",
+      "shirina": 43.133201,
+      "dalzhina": 24.708409,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 324,
+      "ime": "РЗИ Плевен",
+      "shirina": 43.418652,
+      "dalzhina": 24.613145,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 325,
+      "ime": "РЗИ Пловдив",
+      "shirina": 42.13863,
+      "dalzhina": 24.719297,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 326,
+      "ime": "РЗИ Сливен",
+      "shirina": 42.681881,
+      "dalzhina": 26.332119,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 327,
+      "ime": "РЗИ Смолян",
+      "shirina": 41.576289,
+      "dalzhina": 24.706725,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 328,
+      "ime": "РЗИ София-област",
+      "shirina": 42.683335,
+      "dalzhina": 23.302453,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 329,
+      "ime": "РЗИ Стара Загора",
+      "shirina": 42.423169,
+      "dalzhina": 25.641173,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 330,
+      "ime": "РЗИ Хасково",
+      "shirina": 41.930836,
+      "dalzhina": 25.557572,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 331,
+      "ime": "РЗОК - Тополовград",
+      "shirina": 42.084123,
+      "dalzhina": 26.335459,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 332,
+      "ime": "РЗОК - офис Ивайловград",
+      "shirina": 41.527399,
+      "dalzhina": 26.126404,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 333,
+      "ime": "РЗОК Бургас",
+      "shirina": 42.513606,
+      "dalzhina": 27.474659,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 334,
+      "ime": "РЗОК Варна",
+      "shirina": 43.21659,
+      "dalzhina": 27.912215,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 335,
+      "ime": "РЗОК Велико Търново",
+      "shirina": 43.081373,
+      "dalzhina": 25.633318,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 336,
+      "ime": "РЗОК Враца",
+      "shirina": 43.20218,
+      "dalzhina": 23.556122,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 337,
+      "ime": "РЗОК Габрово",
+      "shirina": 42.87423,
+      "dalzhina": 25.321357,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 338,
+      "ime": "РЗОК Димитровград",
+      "shirina": 42.054483,
+      "dalzhina": 25.587518,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 339,
+      "ime": "РЗОК Добрич",
+      "shirina": 43.568655,
+      "dalzhina": 27.826686,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 340,
+      "ime": "РЗОК Ловеч",
+      "shirina": 43.144501,
+      "dalzhina": 24.723635,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 341,
+      "ime": "РЗОК Монтана",
+      "shirina": 43.406142,
+      "dalzhina": 23.224481,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 342,
+      "ime": "РЗОК Пазарджик",
+      "shirina": 42.189056,
+      "dalzhina": 24.331452,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 343,
+      "ime": "РЗОК Плевен",
+      "shirina": 43.418578,
+      "dalzhina": 24.612749,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 344,
+      "ime": "РЗОК Пловдив",
+      "shirina": 42.147158,
+      "dalzhina": 24.729818,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 345,
+      "ime": "РЗОК Разград",
+      "shirina": 43.525335,
+      "dalzhina": 26.524669,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 346,
+      "ime": "РЗОК Русе",
+      "shirina": 43.850771,
+      "dalzhina": 25.953673,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 347,
+      "ime": "РЗОК Свиленград",
+      "shirina": 41.765367,
+      "dalzhina": 26.204111,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 348,
+      "ime": "РЗОК Силистра",
+      "shirina": 44.11581,
+      "dalzhina": 27.259156,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 349,
+      "ime": "РЗОК Смолян",
+      "shirina": 41.575436,
+      "dalzhina": 24.707423,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 350,
+      "ime": "РЗОК София-град",
+      "shirina": 42.677956,
+      "dalzhina": 23.30001,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 351,
+      "ime": "РЗОК София-област",
+      "shirina": 42.677984,
+      "dalzhina": 23.30003,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 352,
+      "ime": "РЗОК Стара Загора",
+      "shirina": 42.429957,
+      "dalzhina": 25.628801,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 353,
+      "ime": "РЗОК Търговище",
+      "shirina": 43.241187,
+      "dalzhina": 26.564177,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 354,
+      "ime": "РЗОК Харманли",
+      "shirina": 41.926701,
+      "dalzhina": 25.910095,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 355,
+      "ime": "РЗОК Хасково",
+      "shirina": 41.930237,
+      "dalzhina": 25.556871,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 356,
+      "ime": "РЗОК Шумен",
+      "shirina": 43.272634,
+      "dalzhina": 26.92603,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 357,
+      "ime": "РЗОК Ямбол",
+      "shirina": 42.481303,
+      "dalzhina": 26.503884,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 358,
+      "ime": "РИОСВ",
+      "shirina": 41.578454,
+      "dalzhina": 24.710601,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 359,
+      "ime": "РИОСВ",
+      "shirina": 43.074129,
+      "dalzhina": 25.60483,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 360,
+      "ime": "РИОСВ Монтана",
+      "shirina": 43.409824,
+      "dalzhina": 23.223964,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 361,
+      "ime": "РИОСВ, Агенция по заетостта",
+      "shirina": 42.51027,
+      "dalzhina": 27.468927,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 362,
+      "ime": "РКМЕ",
+      "shirina": 42.697726,
+      "dalzhina": 23.345709,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 363,
+      "ime": "РУ \"Социално осигуряване\" - филиал",
+      "shirina": 44.049176,
+      "dalzhina": 26.607264,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 364,
+      "ime": "РУО Варна",
+      "shirina": 43.199681,
+      "dalzhina": 27.912879,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 365,
+      "ime": "РУО София-град",
+      "shirina": 42.698471,
+      "dalzhina": 23.313395,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 366,
+      "ime": "Район \"Витоша\" Столична община",
+      "shirina": 42.664862,
+      "dalzhina": 23.269445,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 367,
+      "ime": "Районна прокуратура",
+      "shirina": 42.558744,
+      "dalzhina": 27.638838,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 368,
+      "ime": "Районна прокуратура - Перник",
+      "shirina": 42.602128,
+      "dalzhina": 23.030119,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 369,
+      "ime": "Районна прокуратура Бургас",
+      "shirina": 42.498261,
+      "dalzhina": 27.471133,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 370,
+      "ime": "Регионален инспекторат по образованието",
+      "shirina": 42.502611,
+      "dalzhina": 27.46325,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 371,
+      "ime": "Регионална ветеринарно-медицинска служба",
+      "shirina": 43.590167,
+      "dalzhina": 27.854696,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 372,
+      "ime": "Регионална дирекция \"Автомобилна администрация\" - Бургас",
+      "shirina": 42.471879,
+      "dalzhina": 27.440528,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 373,
+      "ime": "Регионална дирекция \"Автомобилна администрация\" - Варна",
+      "shirina": 43.229554,
+      "dalzhina": 27.890852,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 374,
+      "ime": "Регионална дирекция \"Автомобилна администрация\" - Враца",
+      "shirina": 43.207214,
+      "dalzhina": 23.560113,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 375,
+      "ime": "Регионална дирекция \"Автомобилна администрация\" - Плевен",
+      "shirina": 43.42083,
+      "dalzhina": 24.61583,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 376,
+      "ime": "Регионална дирекция \"Автомобилна администрация\" - Пловдив",
+      "shirina": 42.135466,
+      "dalzhina": 24.74957,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 377,
+      "ime": "Регионална дирекция \"Автомобилна администрация\" - Русе",
+      "shirina": 43.85064,
+      "dalzhina": 25.984967,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 378,
+      "ime": "Регионална дирекция \"Автомобилна администрация\" - София",
+      "shirina": 42.711349,
+      "dalzhina": 23.369795,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 379,
+      "ime": "Регионална дирекция \"Автомобилна администрация\" - Стара Загора",
+      "shirina": 42.412373,
+      "dalzhina": 25.621782,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 380,
+      "ime": "Регионална дирекция за национален строителен контрол Пловдив",
+      "shirina": 42.137017,
+      "dalzhina": 24.747193,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 381,
+      "ime": "Регионална здравна инспекция",
+      "shirina": 43.075421,
+      "dalzhina": 25.624008,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 382,
+      "ime": "Регионална служба по заетостта",
+      "shirina": 42.711617,
+      "dalzhina": 23.317653,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 383,
+      "ime": "Регионално Бюро по Труда",
+      "shirina": 41.930098,
+      "dalzhina": 25.556472,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 384,
+      "ime": "Регистрация и отчет на превозни средства",
+      "shirina": 42.666408,
+      "dalzhina": 23.356921,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 385,
+      "ime": "Резиденция \"Лозенец\"",
+      "shirina": 42.675729,
+      "dalzhina": 23.326476,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 386,
+      "ime": "СГКК Видин - ИРМ Ново село",
+      "shirina": 44.16213,
+      "dalzhina": 22.784679,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 387,
+      "ime": "СГКК Кърджали",
+      "shirina": 41.636523,
+      "dalzhina": 25.377611,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 388,
+      "ime": "СГКК Кюстендил",
+      "shirina": 42.280341,
+      "dalzhina": 22.686909,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 389,
+      "ime": "СДПБЗН",
+      "shirina": 42.70049,
+      "dalzhina": 23.32917,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 390,
+      "ime": "СО Район \"Витоша\" Столичен инспекторат",
+      "shirina": 42.665427,
+      "dalzhina": 23.272536,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 391,
+      "ime": "СРЗИ",
+      "shirina": 42.706884,
+      "dalzhina": 23.312168,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 392,
+      "ime": "СРЗИ - Лабораторен изпитвателен комплекс",
+      "shirina": 42.703939,
+      "dalzhina": 23.305159,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 393,
+      "ime": "СУМПС и наказателна дейност",
+      "shirina": 42.667021,
+      "dalzhina": 23.358177,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 394,
+      "ime": "Сектор Миграция",
+      "shirina": 43.200477,
+      "dalzhina": 27.916438,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 395,
+      "ime": "Следствен отдел към Окръжна Прокуратура София",
+      "shirina": 42.708655,
+      "dalzhina": 23.30321,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 396,
+      "ime": "Сметна палата на Република България",
+      "shirina": 42.700276,
+      "dalzhina": 23.324244,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 397,
+      "ime": "Софийска градска прокуратура",
+      "shirina": 42.691548,
+      "dalzhina": 23.35047,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 398,
+      "ime": "Софийска районна прокуратура",
+      "shirina": 42.687693,
+      "dalzhina": 23.314377,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 399,
+      "ime": "Софпроект",
+      "shirina": 42.698525,
+      "dalzhina": 23.30423,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 400,
+      "ime": "Социална служба Община Айтос",
+      "shirina": 42.702499,
+      "dalzhina": 27.257134,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 401,
+      "ime": "Столичен инспекторат",
+      "shirina": 42.697807,
+      "dalzhina": 23.331106,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 402,
+      "ime": "Столичен инспекторат район „Възраждане“",
+      "shirina": 42.697661,
+      "dalzhina": 23.308042,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 403,
+      "ime": "Столична община ОП \"Гробищни паркове\"",
+      "shirina": 42.711057,
+      "dalzhina": 23.332718,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 404,
+      "ime": "Столична община. Дирекция ревизии и събиране на вземания",
+      "shirina": 42.699205,
+      "dalzhina": 23.346447,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 405,
+      "ime": "Съдебна Палата",
+      "shirina": 41.930757,
+      "dalzhina": 25.552126,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 406,
+      "ime": "ТД Големи данъкоплатци и осигурители",
+      "shirina": 42.692805,
+      "dalzhina": 23.333362,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 407,
+      "ime": "ТД НАП",
+      "shirina": 43.206657,
+      "dalzhina": 23.56167,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 408,
+      "ime": "ТД НАП Нови Пазар",
+      "shirina": 43.34857,
+      "dalzhina": 27.198715,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 409,
+      "ime": "ТД на НАП",
+      "shirina": 42.492587,
+      "dalzhina": 27.471963,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 410,
+      "ime": "ТД на НАП Айтос",
+      "shirina": 42.702657,
+      "dalzhina": 27.25541,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 411,
+      "ime": "ТД на НАП Велико Търново",
+      "shirina": 43.080406,
+      "dalzhina": 25.636193,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 412,
+      "ime": "ТД на НАП Кърджали",
+      "shirina": 41.643474,
+      "dalzhina": 25.368167,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 413,
+      "ime": "ТД на НАП Пазарджик",
+      "shirina": 42.191784,
+      "dalzhina": 24.332668,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 414,
+      "ime": "ТД на НАП Пловдив",
+      "shirina": 42.12555,
+      "dalzhina": 24.753956,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 415,
+      "ime": "ТД на НАП Разград",
+      "shirina": 43.527121,
+      "dalzhina": 26.522226,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 416,
+      "ime": "ТД на НАП Сливен",
+      "shirina": 42.681186,
+      "dalzhina": 26.320776,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 417,
+      "ime": "ТД на НАП София",
+      "shirina": 42.692909,
+      "dalzhina": 23.333015,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 418,
+      "ime": "ТД на НАП София - София област",
+      "shirina": 42.694616,
+      "dalzhina": 23.32035,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 419,
+      "ime": "ТД на НАП София - офис Витоша",
+      "shirina": 42.668564,
+      "dalzhina": 23.267727,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 420,
+      "ime": "ТД на НАП София - офис Изток",
+      "shirina": 42.677636,
+      "dalzhina": 23.369413,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 421,
+      "ime": "ТД на НАП София - офис Илинден",
+      "shirina": 42.714871,
+      "dalzhina": 23.288941,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 422,
+      "ime": "ТД на НАП София - офис Красна Поляна",
+      "shirina": 42.693399,
+      "dalzhina": 23.292709,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 423,
+      "ime": "ТД на НАП София - офис Красно село",
+      "shirina": 42.694111,
+      "dalzhina": 23.31467,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 424,
+      "ime": "ТД на НАП София - офис Люлин",
+      "shirina": 42.717529,
+      "dalzhina": 23.249217,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 425,
+      "ime": "ТД на НАП София - офис Младост",
+      "shirina": 42.668227,
+      "dalzhina": 23.371064,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 426,
+      "ime": "ТД на НАП София - офис Надежда",
+      "shirina": 42.737094,
+      "dalzhina": 23.318054,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 427,
+      "ime": "ТД на НАП София - офис Оборище",
+      "shirina": 42.698933,
+      "dalzhina": 23.346063,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 428,
+      "ime": "ТД на НАП София - офис Подуяне",
+      "shirina": 42.701128,
+      "dalzhina": 23.361851,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 429,
+      "ime": "ТД на НАП София - офис Сердика",
+      "shirina": 42.708407,
+      "dalzhina": 23.32333,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 430,
+      "ime": "ТД на НАП София - офис Център",
+      "shirina": 42.691725,
+      "dalzhina": 23.327401,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 431,
+      "ime": "ТД на НАП Стара Загора",
+      "shirina": 42.43721,
+      "dalzhina": 25.626987,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 432,
+      "ime": "ТД на НАП Хасково",
+      "shirina": 41.933071,
+      "dalzhina": 25.555138,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 433,
+      "ime": "ТО Сливница към РП Костинброд",
+      "shirina": 42.856533,
+      "dalzhina": 23.033602,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 434,
+      "ime": "ТП НОИ Провадия",
+      "shirina": 43.172139,
+      "dalzhina": 27.442842,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 435,
+      "ime": "Тд на НАП Варна",
+      "shirina": 43.214988,
+      "dalzhina": 27.929854,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 436,
+      "ime": "Териториален статистически център",
+      "shirina": 42.42098,
+      "dalzhina": 25.609707,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 437,
+      "ime": "Териториална дирекция София",
+      "shirina": 42.692893,
+      "dalzhina": 23.333533,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 438,
+      "ime": "Териториална дирекция Югозападна",
+      "shirina": 42.709471,
+      "dalzhina": 23.324883,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 439,
+      "ime": "Териториална дирекция на НАП София, дирекция контрол",
+      "shirina": 42.692563,
+      "dalzhina": 23.333658,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 440,
+      "ime": "Териториална дирекция „Държавен резерв“ – София",
+      "shirina": 42.700601,
+      "dalzhina": 23.302207,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 441,
+      "ime": "Териториално статистическо бюро - юг",
+      "shirina": 42.138368,
+      "dalzhina": 24.770575,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 442,
+      "ime": "Топливо АД - Топливо ГАЗ",
+      "shirina": 41.93242,
+      "dalzhina": 25.560184,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 443,
+      "ime": "Транспортна Полиция",
+      "shirina": 42.491083,
+      "dalzhina": 27.471616,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 444,
+      "ime": "Управление Пазари Възраждане",
+      "shirina": 42.702643,
+      "dalzhina": 23.319543,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 445,
+      "ime": "Царински терминал Деве Баир",
+      "shirina": 42.220265,
+      "dalzhina": 22.457378,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 446,
+      "ime": "Централен архив на Комисията по досиетата",
+      "shirina": 42.705019,
+      "dalzhina": 23.122051,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 447,
+      "ime": "Централна лаборатория за окачествяване на зърно и фуражи",
+      "shirina": 42.665857,
+      "dalzhina": 23.276237,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 448,
+      "ime": "Централно управление на НАП",
+      "shirina": 42.698408,
+      "dalzhina": 23.333899,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 449,
+      "ime": "Център за Градска Мобилност",
+      "shirina": 42.698057,
+      "dalzhina": 23.314352,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 450,
+      "ime": "Център за административно обслужване",
+      "shirina": 42.630685,
+      "dalzhina": 25.792877,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 451,
+      "ime": "Център за административно обслужване",
+      "shirina": 43.369249,
+      "dalzhina": 25.636672,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 452,
+      "ime": "Център за административно обслужване МВР",
+      "shirina": 42.705771,
+      "dalzhina": 23.323284,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 453,
+      "ime": "Център за заетост и социално подпомагане",
+      "shirina": 43.368906,
+      "dalzhina": 25.636611,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 454,
+      "ime": "Център за обществена подкрепа",
+      "shirina": 43.706571,
+      "dalzhina": 24.895585,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 455,
+      "ime": "Център за оценка на риска по хранителната верига",
+      "shirina": 42.670256,
+      "dalzhina": 23.267878,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 456,
+      "ime": "Язовирна охрана",
+      "shirina": 41.757531,
+      "dalzhina": 25.145589,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 457,
+      "ime": "Язовирна охрана",
+      "shirina": 42.420278,
+      "dalzhina": 23.999397,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 458,
+      "ime": "Язовирна охрана",
+      "shirina": 42.515034,
+      "dalzhina": 23.535887,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 459,
+      "ime": "Язовирна охрана",
+      "shirina": 42.516631,
+      "dalzhina": 23.529044,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 460,
+      "ime": "служба ГРАО",
+      "shirina": 43.567263,
+      "dalzhina": 27.82191,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    },
+    {
+      "id": 461,
+      "ime": "служба по земеделие, горско стопанство",
+      "shirina": 42.491972,
+      "dalzhina": 27.47042,
+      "osm_klyuch": "office",
+      "osm_stoynost": "government",
+      "osm_klas": "office=government"
+    }
+  ],
+  "meta": {
+    "title": "Държавни учреждения в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Държавни учреждения в България — 461 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `office=government`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 461 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Държавни учреждения в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Държавни учреждения в България (OpenStreetMap) — 461 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 461 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

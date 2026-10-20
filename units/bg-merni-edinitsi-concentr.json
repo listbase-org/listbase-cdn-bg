@@ -1,0 +1,196 @@
+{
+  "id": "bg-merni-edinitsi-concentr",
+  "name": "Мерни единици: concentr (13)",
+  "title": "Мерни единици: concentr (13)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'concentr'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "concentr-item",
+      "kategoriya": "concentr",
+      "nazvanie": "единици",
+      "shablon_edinstveno": "{0} единица",
+      "shablon_mnozhestveno": "{0} единици",
+      "kratak_shablon": "{0} ед.",
+      "tesen_shablon": "{0} ед."
+    },
+    {
+      "id": 2,
+      "unit_code": "concentr-karat",
+      "kategoriya": "concentr",
+      "nazvanie": "карати",
+      "shablon_edinstveno": "{0} карат",
+      "shablon_mnozhestveno": "{0} карата",
+      "kratak_shablon": "{0} kt",
+      "tesen_shablon": "{0} kt"
+    },
+    {
+      "id": 3,
+      "unit_code": "concentr-katal",
+      "kategoriya": "concentr",
+      "nazvanie": "катали",
+      "shablon_edinstveno": "{0} катал",
+      "shablon_mnozhestveno": "{0} катала",
+      "kratak_shablon": "{0} kat",
+      "tesen_shablon": "{0} kat"
+    },
+    {
+      "id": 4,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategoriya": "concentr",
+      "nazvanie": "милиграми на децилитър",
+      "shablon_edinstveno": "{0} милиграм на децилитър",
+      "shablon_mnozhestveno": "{0} милиграма на децилитър",
+      "kratak_shablon": "{0} mg/dl",
+      "tesen_shablon": "{0} mg/dl"
+    },
+    {
+      "id": 5,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategoriya": "concentr",
+      "nazvanie": "милимоли на литър",
+      "shablon_edinstveno": "{0} милимол на литър",
+      "shablon_mnozhestveno": "{0} милимола на литър",
+      "kratak_shablon": "{0} mmol/L",
+      "tesen_shablon": "{0} mmol/L"
+    },
+    {
+      "id": 6,
+      "unit_code": "concentr-mole",
+      "kategoriya": "concentr",
+      "nazvanie": "молове",
+      "shablon_edinstveno": "{0} mol",
+      "shablon_mnozhestveno": "{0} мола",
+      "kratak_shablon": "{0} mol",
+      "tesen_shablon": "{0} mol"
+    },
+    {
+      "id": 7,
+      "unit_code": "concentr-ofglucose",
+      "kategoriya": "concentr",
+      "nazvanie": "глюкоза",
+      "shablon_edinstveno": "{0} глюкоза",
+      "shablon_mnozhestveno": "{0} глюкоза",
+      "kratak_shablon": "{0} Glc",
+      "tesen_shablon": "{0} Glc"
+    },
+    {
+      "id": 8,
+      "unit_code": "concentr-part",
+      "kategoriya": "concentr",
+      "nazvanie": "части",
+      "shablon_edinstveno": "{0} част",
+      "shablon_mnozhestveno": "{0} части",
+      "kratak_shablon": "{0} част",
+      "tesen_shablon": "{0} част"
+    },
+    {
+      "id": 9,
+      "unit_code": "concentr-part-per-1e6",
+      "kategoriya": "concentr",
+      "nazvanie": "части на милион",
+      "shablon_edinstveno": "{0} част на милион",
+      "shablon_mnozhestveno": "{0} части на милион",
+      "kratak_shablon": "{0} ppm",
+      "tesen_shablon": "{0} ppm"
+    },
+    {
+      "id": 10,
+      "unit_code": "concentr-part-per-1e9",
+      "kategoriya": "concentr",
+      "nazvanie": "части на милиард",
+      "shablon_edinstveno": "{0} част на милиард",
+      "shablon_mnozhestveno": "{0} части на милиард",
+      "kratak_shablon": "{0} ppb",
+      "tesen_shablon": "{0} ppb"
+    },
+    {
+      "id": 11,
+      "unit_code": "concentr-percent",
+      "kategoriya": "concentr",
+      "nazvanie": "процент",
+      "shablon_edinstveno": "{0} процент",
+      "shablon_mnozhestveno": "{0} процента",
+      "kratak_shablon": "{0}%",
+      "tesen_shablon": "{0}%"
+    },
+    {
+      "id": 12,
+      "unit_code": "concentr-permille",
+      "kategoriya": "concentr",
+      "nazvanie": "промил",
+      "shablon_edinstveno": "{0} промил",
+      "shablon_mnozhestveno": "{0} промила",
+      "kratak_shablon": "{0}‰",
+      "tesen_shablon": "{0}‰"
+    },
+    {
+      "id": 13,
+      "unit_code": "concentr-permyriad",
+      "kategoriya": "concentr",
+      "nazvanie": "базисен пункт",
+      "shablon_edinstveno": "{0} базисен пункт",
+      "shablon_mnozhestveno": "{0} базисни пункта",
+      "kratak_shablon": "{0}‱",
+      "tesen_shablon": "{0}‱"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: concentr (13) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'concentr'. Съдържа 13 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: concentr (13) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: concentr (13) — 13 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 13 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

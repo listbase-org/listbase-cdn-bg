@@ -1,0 +1,1987 @@
+{
+  "id": "bg-osm-shop-florist",
+  "name": "Цветарски магазини в България (OpenStreetMap)",
+  "title": "Цветарски магазини в България (OpenStreetMap)",
+  "description": "Цветарски магазини в България — 214 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=florist`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 214,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "A&G The Flower Bar",
+      "shirina": 42.657774,
+      "dalzhina": 23.348761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 2,
+      "ime": "Abi flowers",
+      "shirina": 42.664771,
+      "dalzhina": 23.298432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 3,
+      "ime": "Accacia flowers",
+      "shirina": 42.679662,
+      "dalzhina": 23.284453,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 4,
+      "ime": "Aquarelle",
+      "shirina": 42.66642,
+      "dalzhina": 23.296597,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 5,
+      "ime": "Beauté",
+      "shirina": 42.650097,
+      "dalzhina": 23.362474,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 6,
+      "ime": "Best flowers.bg",
+      "shirina": 42.699179,
+      "dalzhina": 23.33824,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 7,
+      "ime": "Bloom Room",
+      "shirina": 42.693435,
+      "dalzhina": 23.31332,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 8,
+      "ime": "Buketite.net",
+      "shirina": 42.69724,
+      "dalzhina": 23.319158,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 9,
+      "ime": "Dany",
+      "shirina": 42.68131,
+      "dalzhina": 23.332307,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 10,
+      "ime": "Decoranti",
+      "shirina": 42.676119,
+      "dalzhina": 23.361582,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 11,
+      "ime": "Elf garden",
+      "shirina": 42.676426,
+      "dalzhina": 23.33336,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 12,
+      "ime": "Elfite",
+      "shirina": 42.670824,
+      "dalzhina": 23.352686,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 13,
+      "ime": "Emily",
+      "shirina": 42.676192,
+      "dalzhina": 23.303521,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 14,
+      "ime": "Everglow",
+      "shirina": 42.696822,
+      "dalzhina": 23.336033,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 15,
+      "ime": "F & R",
+      "shirina": 42.160981,
+      "dalzhina": 24.756308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 16,
+      "ime": "FLO GALLery",
+      "shirina": 42.906052,
+      "dalzhina": 23.790219,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 17,
+      "ime": "Fairy Flower",
+      "shirina": 42.684754,
+      "dalzhina": 23.3166,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 18,
+      "ime": "Fairy flower",
+      "shirina": 42.679026,
+      "dalzhina": 23.322233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 19,
+      "ime": "Fiore",
+      "shirina": 42.654589,
+      "dalzhina": 23.375999,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 20,
+      "ime": "Fiore",
+      "shirina": 42.694693,
+      "dalzhina": 23.351513,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 21,
+      "ime": "Fiori",
+      "shirina": 42.622286,
+      "dalzhina": 25.39169,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 22,
+      "ime": "Fiori",
+      "shirina": 42.671786,
+      "dalzhina": 23.351587,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 23,
+      "ime": "Flirt",
+      "shirina": 42.692634,
+      "dalzhina": 23.331467,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 24,
+      "ime": "Flomix",
+      "shirina": 42.693156,
+      "dalzhina": 23.318932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 25,
+      "ime": "Florans",
+      "shirina": 42.6624,
+      "dalzhina": 23.316822,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 26,
+      "ime": "Florarte",
+      "shirina": 42.677595,
+      "dalzhina": 23.292406,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 27,
+      "ime": "Florence",
+      "shirina": 42.658464,
+      "dalzhina": 23.315666,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 28,
+      "ime": "Flower Dreams",
+      "shirina": 43.223707,
+      "dalzhina": 27.914396,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 29,
+      "ime": "Flower Studio",
+      "shirina": 42.652724,
+      "dalzhina": 23.374087,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 30,
+      "ime": "Flowerland",
+      "shirina": 42.616024,
+      "dalzhina": 23.337921,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 31,
+      "ime": "Flowers Angely",
+      "shirina": 42.68616,
+      "dalzhina": 23.299242,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 32,
+      "ime": "Flowers With Love",
+      "shirina": 42.687347,
+      "dalzhina": 23.318198,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 33,
+      "ime": "Flowers design",
+      "shirina": 42.689509,
+      "dalzhina": 23.314983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 34,
+      "ime": "Flowers shop Romance",
+      "shirina": 43.21704,
+      "dalzhina": 27.897389,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 35,
+      "ime": "Gebov",
+      "shirina": 42.663983,
+      "dalzhina": 23.317127,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 36,
+      "ime": "Gifts",
+      "shirina": 42.692871,
+      "dalzhina": 23.318328,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 37,
+      "ime": "Green garden",
+      "shirina": 42.679528,
+      "dalzhina": 23.360214,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 38,
+      "ime": "Happy Flowers",
+      "shirina": 42.647393,
+      "dalzhina": 23.374136,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 39,
+      "ime": "Hit flowers",
+      "shirina": 42.700863,
+      "dalzhina": 23.31285,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 40,
+      "ime": "Iri's Flora",
+      "shirina": 42.660453,
+      "dalzhina": 23.315978,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 41,
+      "ime": "Jungle",
+      "shirina": 43.202069,
+      "dalzhina": 27.915898,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 42,
+      "ime": "Kodama",
+      "shirina": 42.143754,
+      "dalzhina": 24.750809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 43,
+      "ime": "L'amore Decoration",
+      "shirina": 42.693465,
+      "dalzhina": 23.339188,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 44,
+      "ime": "L'amour des fleurs",
+      "shirina": 42.688997,
+      "dalzhina": 23.321124,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 45,
+      "ime": "Lavandea",
+      "shirina": 43.2434,
+      "dalzhina": 26.562394,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 46,
+      "ime": "Lavender",
+      "shirina": 43.199495,
+      "dalzhina": 27.918059,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 47,
+      "ime": "Lusso",
+      "shirina": 42.65166,
+      "dalzhina": 23.309642,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 48,
+      "ime": "MMPlants",
+      "shirina": 42.667019,
+      "dalzhina": 23.266368,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 49,
+      "ime": "Magic Bloom",
+      "shirina": 42.652782,
+      "dalzhina": 23.342776,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 50,
+      "ime": "Maison des fleurs",
+      "shirina": 42.675917,
+      "dalzhina": 23.265298,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 51,
+      "ime": "Margarita Flowers",
+      "shirina": 42.714302,
+      "dalzhina": 23.253267,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 52,
+      "ime": "Master Flo",
+      "shirina": 42.702909,
+      "dalzhina": 23.333683,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 53,
+      "ime": "Maylea",
+      "shirina": 42.672682,
+      "dalzhina": 23.314012,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 54,
+      "ime": "Medinilla",
+      "shirina": 42.691629,
+      "dalzhina": 23.325503,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 55,
+      "ime": "Mimosa",
+      "shirina": 42.691511,
+      "dalzhina": 23.311083,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 56,
+      "ime": "Moon Flowers",
+      "shirina": 42.653256,
+      "dalzhina": 23.367603,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 57,
+      "ime": "Nataly AngelCraft",
+      "shirina": 42.671781,
+      "dalzhina": 23.333259,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 58,
+      "ime": "Nea",
+      "shirina": 42.69024,
+      "dalzhina": 23.321989,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 59,
+      "ime": "New garden",
+      "shirina": 42.66509,
+      "dalzhina": 23.28911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 60,
+      "ime": "No. 1",
+      "shirina": 42.662031,
+      "dalzhina": 23.376137,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 61,
+      "ime": "Pizzafiori",
+      "shirina": 42.689993,
+      "dalzhina": 23.340829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 62,
+      "ime": "Pro Plants Market",
+      "shirina": 42.680093,
+      "dalzhina": 23.379043,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 63,
+      "ime": "Romeo & Juliet",
+      "shirina": 42.651811,
+      "dalzhina": 23.345809,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 64,
+      "ime": "Roses are red",
+      "shirina": 42.67165,
+      "dalzhina": 23.32629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 65,
+      "ime": "Sara",
+      "shirina": 42.15828,
+      "dalzhina": 24.737872,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 66,
+      "ime": "Select",
+      "shirina": 42.700393,
+      "dalzhina": 23.326109,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 67,
+      "ime": "Silvi",
+      "shirina": 42.684931,
+      "dalzhina": 23.323208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 68,
+      "ime": "Smile Like A Flower",
+      "shirina": 42.664488,
+      "dalzhina": 23.285065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 69,
+      "ime": "Sunflower",
+      "shirina": 42.671057,
+      "dalzhina": 23.295304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 70,
+      "ime": "The Bunny's flowers",
+      "shirina": 42.662302,
+      "dalzhina": 23.292138,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 71,
+      "ime": "Tony's Flowers",
+      "shirina": 42.657154,
+      "dalzhina": 23.349142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 72,
+      "ime": "Top flowers",
+      "shirina": 42.651932,
+      "dalzhina": 23.381832,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 73,
+      "ime": "Vessi's flowers",
+      "shirina": 42.696086,
+      "dalzhina": 23.348268,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 74,
+      "ime": "Vogue",
+      "shirina": 42.653193,
+      "dalzhina": 27.671925,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 75,
+      "ime": "Vrizeia",
+      "shirina": 42.730874,
+      "dalzhina": 23.298039,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 76,
+      "ime": "Wisteria Lane",
+      "shirina": 42.690836,
+      "dalzhina": 23.315906,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 77,
+      "ime": "fleur",
+      "shirina": 43.565964,
+      "dalzhina": 27.830963,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 78,
+      "ime": "Азалея",
+      "shirina": 43.210523,
+      "dalzhina": 27.915454,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 79,
+      "ime": "Азалея",
+      "shirina": 43.822536,
+      "dalzhina": 27.139495,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 80,
+      "ime": "Ама-Но",
+      "shirina": 43.211875,
+      "dalzhina": 27.912465,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 81,
+      "ime": "Анжели",
+      "shirina": 42.68589,
+      "dalzhina": 23.297393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 82,
+      "ime": "Анжели",
+      "shirina": 42.686694,
+      "dalzhina": 23.298955,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 83,
+      "ime": "Арт бутик цветя",
+      "shirina": 42.62712,
+      "dalzhina": 23.379933,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 84,
+      "ime": "Арт студио Bella Donna",
+      "shirina": 42.689528,
+      "dalzhina": 23.35783,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 85,
+      "ime": "Ателие Вероника",
+      "shirina": 42.689706,
+      "dalzhina": 23.308729,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 86,
+      "ime": "Ателие Ивен",
+      "shirina": 42.67336,
+      "dalzhina": 23.312931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 87,
+      "ime": "Афродита флора",
+      "shirina": 43.082146,
+      "dalzhina": 25.614303,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 88,
+      "ime": "Букетчето",
+      "shirina": 42.68548,
+      "dalzhina": 23.316775,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 89,
+      "ime": "Бутик Женя",
+      "shirina": 42.498652,
+      "dalzhina": 27.472095,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 90,
+      "ime": "Бутик за цветя Гардения",
+      "shirina": 42.140754,
+      "dalzhina": 24.732252,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 91,
+      "ime": "Васко 2009",
+      "shirina": 42.717638,
+      "dalzhina": 23.339186,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 92,
+      "ime": "Вашите цветя",
+      "shirina": 42.711297,
+      "dalzhina": 23.311824,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 93,
+      "ime": "Вендела Ателие",
+      "shirina": 42.144303,
+      "dalzhina": 24.7542,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 94,
+      "ime": "Виктория",
+      "shirina": 42.675216,
+      "dalzhina": 23.287729,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 95,
+      "ime": "Вриезия",
+      "shirina": 43.570233,
+      "dalzhina": 27.830244,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 96,
+      "ime": "Галина",
+      "shirina": 43.212342,
+      "dalzhina": 27.913006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 97,
+      "ime": "Гардения",
+      "shirina": 42.141245,
+      "dalzhina": 24.732387,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 98,
+      "ime": "Гардения",
+      "shirina": 42.148075,
+      "dalzhina": 24.733934,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 99,
+      "ime": "Горската",
+      "shirina": 42.680644,
+      "dalzhina": 23.331746,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 100,
+      "ime": "Градински център",
+      "shirina": 42.602018,
+      "dalzhina": 23.13878,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 101,
+      "ime": "Градински център Алис-84",
+      "shirina": 42.704332,
+      "dalzhina": 23.302821,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 102,
+      "ime": "Грандефлора",
+      "shirina": 42.600684,
+      "dalzhina": 25.559954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 103,
+      "ime": "Далия",
+      "shirina": 42.728096,
+      "dalzhina": 23.249949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 104,
+      "ime": "Далия",
+      "shirina": 43.56916,
+      "dalzhina": 27.827995,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 105,
+      "ime": "Далия",
+      "shirina": 43.57011,
+      "dalzhina": 27.829033,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 106,
+      "ime": "Дивна цвета",
+      "shirina": 42.696347,
+      "dalzhina": 23.340549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 107,
+      "ime": "Дилянка",
+      "shirina": 42.664614,
+      "dalzhina": 23.274802,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 108,
+      "ime": "Димелина",
+      "shirina": 42.701733,
+      "dalzhina": 23.329379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 109,
+      "ime": "Дюкян за цветя",
+      "shirina": 42.868278,
+      "dalzhina": 25.493727,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 110,
+      "ime": "Еделвайс Арт",
+      "shirina": 42.688939,
+      "dalzhina": 23.317836,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 111,
+      "ime": "Елфите",
+      "shirina": 42.670806,
+      "dalzhina": 23.352084,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 112,
+      "ime": "Елфите",
+      "shirina": 42.671003,
+      "dalzhina": 23.352843,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 113,
+      "ime": "Емоция",
+      "shirina": 42.665147,
+      "dalzhina": 23.299,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 114,
+      "ime": "Емоция",
+      "shirina": 42.676263,
+      "dalzhina": 23.289117,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 115,
+      "ime": "Ени и Изи",
+      "shirina": 42.918414,
+      "dalzhina": 24.266022,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 116,
+      "ime": "Калина",
+      "shirina": 42.023568,
+      "dalzhina": 23.990581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 117,
+      "ime": "Красива",
+      "shirina": 42.66503,
+      "dalzhina": 23.36265,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 118,
+      "ime": "Красива сватба",
+      "shirina": 42.698926,
+      "dalzhina": 23.321397,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 119,
+      "ime": "Купи ѝ цветя",
+      "shirina": 42.66991,
+      "dalzhina": 23.296538,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 120,
+      "ime": "Къщата на цветята",
+      "shirina": 42.689877,
+      "dalzhina": 23.3414,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 121,
+      "ime": "Ла Роз",
+      "shirina": 42.643658,
+      "dalzhina": 23.341552,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 122,
+      "ime": "Лантана",
+      "shirina": 43.222526,
+      "dalzhina": 27.928399,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 123,
+      "ime": "Лили",
+      "shirina": 43.626022,
+      "dalzhina": 22.684496,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 124,
+      "ime": "Лилия",
+      "shirina": 42.696475,
+      "dalzhina": 23.337309,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 125,
+      "ime": "Лора дизайн",
+      "shirina": 42.667908,
+      "dalzhina": 23.319058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 126,
+      "ime": "Магазин за цветя",
+      "shirina": 42.170848,
+      "dalzhina": 27.849426,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 127,
+      "ime": "Магазин за цветя",
+      "shirina": 43.421441,
+      "dalzhina": 28.162464,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 128,
+      "ime": "Магазин за цветя №42",
+      "shirina": 42.70438,
+      "dalzhina": 23.301589,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 129,
+      "ime": "Магнолия",
+      "shirina": 42.14056,
+      "dalzhina": 24.755553,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 130,
+      "ime": "Майстора и Маргаритите",
+      "shirina": 42.692008,
+      "dalzhina": 23.330645,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 131,
+      "ime": "Малката цветарка",
+      "shirina": 42.700413,
+      "dalzhina": 23.315346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 132,
+      "ime": "Мариета",
+      "shirina": 42.142448,
+      "dalzhina": 24.765132,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 133,
+      "ime": "Мая",
+      "shirina": 42.015926,
+      "dalzhina": 23.097849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 134,
+      "ime": "Меджик",
+      "shirina": 42.660535,
+      "dalzhina": 23.347272,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 135,
+      "ime": "Моите цветя",
+      "shirina": 42.667395,
+      "dalzhina": 23.266954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 136,
+      "ime": "Незабравка",
+      "shirina": 42.688034,
+      "dalzhina": 23.327904,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 137,
+      "ime": "Нолина",
+      "shirina": 42.503002,
+      "dalzhina": 24.70286,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 138,
+      "ime": "Обича ме, не ме обича",
+      "shirina": 42.658656,
+      "dalzhina": 23.315456,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 139,
+      "ime": "Обича ме, не ме обича",
+      "shirina": 42.678712,
+      "dalzhina": 23.320282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 140,
+      "ime": "Оксалия",
+      "shirina": 43.568717,
+      "dalzhina": 27.826181,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 141,
+      "ime": "Орхидея",
+      "shirina": 42.68027,
+      "dalzhina": 23.357789,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 142,
+      "ime": "Пазар за цветя",
+      "shirina": 42.443053,
+      "dalzhina": 25.670016,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 143,
+      "ime": "Пазар за цветя",
+      "shirina": 42.445722,
+      "dalzhina": 25.675952,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 144,
+      "ime": "Пеперуден свят",
+      "shirina": 42.711468,
+      "dalzhina": 23.31492,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 145,
+      "ime": "Повече от думи",
+      "shirina": 42.6446,
+      "dalzhina": 23.341776,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 146,
+      "ime": "Подари Любов",
+      "shirina": 42.689027,
+      "dalzhina": 23.319286,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 147,
+      "ime": "Пол Флор",
+      "shirina": 43.566181,
+      "dalzhina": 27.833044,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 148,
+      "ime": "При Гери",
+      "shirina": 43.281731,
+      "dalzhina": 24.082996,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 149,
+      "ime": "Приказна работилница",
+      "shirina": 42.662023,
+      "dalzhina": 23.316756,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 150,
+      "ime": "Ралица",
+      "shirina": 43.568222,
+      "dalzhina": 27.823292,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 151,
+      "ime": "Роза",
+      "shirina": 42.691965,
+      "dalzhina": 23.325977,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 152,
+      "ime": "Роси",
+      "shirina": 42.67934,
+      "dalzhina": 23.310657,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 153,
+      "ime": "Сити",
+      "shirina": 42.698591,
+      "dalzhina": 23.310399,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 154,
+      "ime": "Слънчеви цветя",
+      "shirina": 42.713399,
+      "dalzhina": 23.27011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 155,
+      "ime": "Татяна Иванова Петрова",
+      "shirina": 43.854475,
+      "dalzhina": 25.967483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 156,
+      "ime": "Твоето цвете",
+      "shirina": 42.678267,
+      "dalzhina": 23.290991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 157,
+      "ime": "Тозоника",
+      "shirina": 42.654549,
+      "dalzhina": 23.338743,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 158,
+      "ime": "Университетски ботаническа градини",
+      "shirina": 42.69738,
+      "dalzhina": 23.334905,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 159,
+      "ime": "Ухание",
+      "shirina": 42.675969,
+      "dalzhina": 23.309653,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 160,
+      "ime": "Ухания",
+      "shirina": 43.570339,
+      "dalzhina": 27.830547,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 161,
+      "ime": "Ферукт гарден",
+      "shirina": 42.663318,
+      "dalzhina": 23.274203,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 162,
+      "ime": "Фея на цветята",
+      "shirina": 42.694485,
+      "dalzhina": 23.328543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 163,
+      "ime": "Фиоре",
+      "shirina": 42.680497,
+      "dalzhina": 23.373346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 164,
+      "ime": "Фиоричитá",
+      "shirina": 42.691848,
+      "dalzhina": 23.322354,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 165,
+      "ime": "Флирален дизайн",
+      "shirina": 42.670501,
+      "dalzhina": 23.320078,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 166,
+      "ime": "Фло Дизайн СА",
+      "shirina": 42.664471,
+      "dalzhina": 23.316757,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 167,
+      "ime": "Флора",
+      "shirina": 42.42387,
+      "dalzhina": 25.623425,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 168,
+      "ime": "Флора Комерс",
+      "shirina": 42.691052,
+      "dalzhina": 23.307514,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 169,
+      "ime": "Флора мотив",
+      "shirina": 42.670802,
+      "dalzhina": 23.320304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 170,
+      "ime": "Флоранс",
+      "shirina": 42.501957,
+      "dalzhina": 27.464122,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 171,
+      "ime": "Флоренция",
+      "shirina": 42.653698,
+      "dalzhina": 23.332193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 172,
+      "ime": "Флореста",
+      "shirina": 43.213722,
+      "dalzhina": 27.919714,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 173,
+      "ime": "Флорисима",
+      "shirina": 42.142391,
+      "dalzhina": 24.742976,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 174,
+      "ime": "Химера88",
+      "shirina": 42.643927,
+      "dalzhina": 23.414092,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 175,
+      "ime": "Хоум Гарден ТТ",
+      "shirina": 42.680262,
+      "dalzhina": 23.256868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 176,
+      "ime": "Хрома",
+      "shirina": 43.421598,
+      "dalzhina": 24.596761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 177,
+      "ime": "Царството на феите",
+      "shirina": 42.692646,
+      "dalzhina": 23.355598,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 178,
+      "ime": "ЦветарникЪ",
+      "shirina": 42.124738,
+      "dalzhina": 24.738313,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 179,
+      "ime": "Цветарница",
+      "shirina": 42.734547,
+      "dalzhina": 23.291775,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 180,
+      "ime": "Цветарница \"Тисиа\"",
+      "shirina": 42.685658,
+      "dalzhina": 23.296944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 181,
+      "ime": "Цветарница Двете Ю",
+      "shirina": 42.687294,
+      "dalzhina": 26.330391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 182,
+      "ime": "Цветарничката",
+      "shirina": 42.676457,
+      "dalzhina": 23.239183,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 183,
+      "ime": "Цветарски пазар",
+      "shirina": 43.271161,
+      "dalzhina": 26.933374,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 184,
+      "ime": "Цвете за теб",
+      "shirina": 42.664575,
+      "dalzhina": 23.266361,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 185,
+      "ime": "Цвете мое",
+      "shirina": 42.664761,
+      "dalzhina": 23.285449,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 186,
+      "ime": "Цветен Рай",
+      "shirina": 41.840167,
+      "dalzhina": 23.485869,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 187,
+      "ime": "Цветен блус",
+      "shirina": 42.659307,
+      "dalzhina": 23.299246,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 188,
+      "ime": "Цветен рай",
+      "shirina": 42.670162,
+      "dalzhina": 23.257742,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 189,
+      "ime": "Цветна борса",
+      "shirina": 42.70449,
+      "dalzhina": 23.389514,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 190,
+      "ime": "Цветна магия",
+      "shirina": 42.696092,
+      "dalzhina": 23.318545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 191,
+      "ime": "Цветна работилница",
+      "shirina": 42.694019,
+      "dalzhina": 23.313246,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 192,
+      "ime": "Цветна хармония",
+      "shirina": 42.713746,
+      "dalzhina": 23.269706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 193,
+      "ime": "Цветни фантазии",
+      "shirina": 42.677635,
+      "dalzhina": 23.285282,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 194,
+      "ime": "Цветно Ухание",
+      "shirina": 42.65285,
+      "dalzhina": 23.359998,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 195,
+      "ime": "Цветя",
+      "shirina": 42.291244,
+      "dalzhina": 25.93602,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 196,
+      "ime": "Цветя",
+      "shirina": 42.426406,
+      "dalzhina": 25.63226,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 197,
+      "ime": "Цветя",
+      "shirina": 42.491581,
+      "dalzhina": 27.473395,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 198,
+      "ime": "Цветя",
+      "shirina": 42.496938,
+      "dalzhina": 27.462723,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 199,
+      "ime": "Цветя",
+      "shirina": 42.509889,
+      "dalzhina": 27.469237,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 200,
+      "ime": "Цветя",
+      "shirina": 42.655115,
+      "dalzhina": 23.39935,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 201,
+      "ime": "Цветя",
+      "shirina": 42.691899,
+      "dalzhina": 23.333231,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 202,
+      "ime": "Цветя",
+      "shirina": 43.206283,
+      "dalzhina": 27.919151,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 203,
+      "ime": "Цветя",
+      "shirina": 43.221487,
+      "dalzhina": 23.546301,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 204,
+      "ime": "Цветя Диана",
+      "shirina": 42.158767,
+      "dalzhina": 24.739785,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 205,
+      "ime": "Цветя Диана 79",
+      "shirina": 42.1416,
+      "dalzhina": 24.755649,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 206,
+      "ime": "Цветя Кафе",
+      "shirina": 42.648185,
+      "dalzhina": 23.280092,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 207,
+      "ime": "Цветя и Усмивки Безброй",
+      "shirina": 42.659848,
+      "dalzhina": 23.287364,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 208,
+      "ime": "Цветята на Вазов",
+      "shirina": 42.139671,
+      "dalzhina": 24.747107,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 209,
+      "ime": "Цветята на Мария",
+      "shirina": 42.689449,
+      "dalzhina": 23.325356,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 210,
+      "ime": "Цветята на Мери",
+      "shirina": 42.697299,
+      "dalzhina": 23.319527,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 211,
+      "ime": "Цъфти",
+      "shirina": 42.700265,
+      "dalzhina": 23.326434,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 212,
+      "ime": "Четири Сезона",
+      "shirina": 42.622683,
+      "dalzhina": 23.371115,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 213,
+      "ime": "кажи го с цветя",
+      "shirina": 42.693075,
+      "dalzhina": 23.344049,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    },
+    {
+      "id": 214,
+      "ime": "разсадник за цветя с. Ряховци",
+      "shirina": 43.023905,
+      "dalzhina": 25.004806,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "florist",
+      "osm_klas": "shop=florist"
+    }
+  ],
+  "meta": {
+    "title": "Цветарски магазини в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Цветарски магазини в България — 214 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=florist`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 214 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Цветарски магазини в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Цветарски магазини в България (OpenStreetMap) — 214 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 214 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

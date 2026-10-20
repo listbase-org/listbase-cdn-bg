@@ -1,0 +1,237 @@
+{
+  "id": "bg-ruse-obshtini",
+  "name": "Общини — област Русе (Municipalities of Ruse)",
+  "title": "Общини — област Русе (Municipalities of Ruse)",
+  "description": "Списък на общините в област Русе (Ruse oblast). 8 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс RSE. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 62,
+      "gisco_id": "BG_RSE03",
+      "oblast_code": "RSE",
+      "oblast_slug": "ruse",
+      "oblast_bg": "Русе",
+      "oblast_en": "Ruse",
+      "name_bg": "Борово",
+      "name_en": "",
+      "slug": "borovo",
+      "population_2024": 3855,
+      "population_density_2024_per_km2": 15.43716271,
+      "area_km2": 249.72205525,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.borovo.org/bg/Docs/2012/07/13-07/PLAN_bedstvia.doc",
+      "comment": ""
+    },
+    {
+      "id": 63,
+      "gisco_id": "BG_RSE04",
+      "oblast_code": "RSE",
+      "oblast_slug": "ruse",
+      "oblast_bg": "Русе",
+      "oblast_en": "Ruse",
+      "name_bg": "Бяла",
+      "name_en": "",
+      "slug": "byala",
+      "population_2024": 10073,
+      "population_density_2024_per_km2": 29.59712111,
+      "area_km2": 340.33715517,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://byala.bg/files/5f963027b7ed3c76c7790428cd73230e.pdf",
+      "comment": ""
+    },
+    {
+      "id": 64,
+      "gisco_id": "BG_RSE05",
+      "oblast_code": "RSE",
+      "oblast_slug": "ruse",
+      "oblast_bg": "Русе",
+      "oblast_en": "Ruse",
+      "name_bg": "Ветово",
+      "name_en": "",
+      "slug": "vetovo",
+      "population_2024": 9748,
+      "population_density_2024_per_km2": 29.73444848,
+      "area_km2": 327.83523819,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://vetovo.bg/obshtinski-savet-za-namalyavane-na-riska-ot-bedstviya/proekt-na-obshtinska-program",
+      "comment": ""
+    },
+    {
+      "id": 65,
+      "gisco_id": "BG_RSE08",
+      "oblast_code": "RSE",
+      "oblast_slug": "ruse",
+      "oblast_bg": "Русе",
+      "oblast_en": "Ruse",
+      "name_bg": "Две могили",
+      "name_en": "",
+      "slug": "dve-mogili",
+      "population_2024": 6672,
+      "population_density_2024_per_km2": 19.49514718,
+      "area_km2": 342.23901665,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://dvemogili.egov.bg/wps/portal/municipality-dve-mogili/municipality/disaster.accident.protecti",
+      "comment": ""
+    },
+    {
+      "id": 66,
+      "gisco_id": "BG_RSE13",
+      "oblast_code": "RSE",
+      "oblast_slug": "ruse",
+      "oblast_bg": "Русе",
+      "oblast_en": "Ruse",
+      "name_bg": "Иваново",
+      "name_en": "",
+      "slug": "ivanovo",
+      "population_2024": 7171,
+      "population_density_2024_per_km2": 14.37599614,
+      "area_km2": 498.81760735,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.ivanovo.bg/files/63d38431f4d3d53d7befa2e30b08b396.docx",
+      "comment": ""
+    },
+    {
+      "id": 67,
+      "gisco_id": "BG_RSE27",
+      "oblast_code": "RSE",
+      "oblast_slug": "ruse",
+      "oblast_bg": "Русе",
+      "oblast_en": "Ruse",
+      "name_bg": "Русе",
+      "name_en": "",
+      "slug": "ruse",
+      "population_2024": 138084,
+      "population_density_2024_per_km2": 242.70988488,
+      "area_km2": 568.92614847,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://obshtinaruse.bg/editor/files/%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D0%B8%2C%20%D0",
+      "comment": ""
+    },
+    {
+      "id": 68,
+      "gisco_id": "BG_RSE33",
+      "oblast_code": "RSE",
+      "oblast_slug": "ruse",
+      "oblast_bg": "Русе",
+      "oblast_en": "Ruse",
+      "name_bg": "Сливо поле",
+      "name_en": "",
+      "slug": "slivo-pole",
+      "population_2024": 8156,
+      "population_density_2024_per_km2": 29.42672295,
+      "area_km2": 277.16304037,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.slivopole.bg/uploads/wysiwyg/files/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0%D0%9",
+      "comment": ""
+    },
+    {
+      "id": 69,
+      "gisco_id": "BG_RSE37",
+      "oblast_code": "RSE",
+      "oblast_slug": "ruse",
+      "oblast_bg": "Русе",
+      "oblast_en": "Ruse",
+      "name_bg": "Ценово",
+      "name_en": "",
+      "slug": "cenovo",
+      "population_2024": 4071,
+      "population_density_2024_per_km2": 15.67500548,
+      "area_km2": 259.7128278,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.tsenovo.eu/sites/default/files/documents/Plan_ZB_2020.rar",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Русе (Municipalities of Ruse) - Безплатно изтегляне",
+    "description": "Списък на общините в област Русе (Ruse oblast). 8 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс RSE. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Русе (Municipalities of Ruse) | ListBase",
+    "seo_description": "Изтеглете Общини — област Русе (Municipalities of Ruse) — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

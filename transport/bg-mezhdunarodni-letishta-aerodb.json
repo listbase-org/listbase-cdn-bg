@@ -1,0 +1,187 @@
+{
+  "id": "bg-mezhdunarodni-letishta-aerodb",
+  "name": "Международни летища в България (International airports of Bulgaria)",
+  "title": "Международни летища в България (International airports of Bulgaria)",
+  "description": "The 4 facilities classified `internationalAirport` by aero-db for BG, with ICAO/IATA codes, coordinates, elevation and operational flags.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "facility_type",
+      "label": "Facility Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "is_private",
+      "label": "Is Private",
+      "type": "boolean"
+    },
+    {
+      "key": "is_military",
+      "label": "Is Military",
+      "type": "boolean"
+    },
+    {
+      "key": "is_civilian",
+      "label": "Is Civilian",
+      "type": "boolean"
+    },
+    {
+      "key": "is_closed",
+      "label": "Is Closed",
+      "type": "boolean"
+    },
+    {
+      "key": "is_vfr",
+      "label": "Is Vfr",
+      "type": "boolean"
+    },
+    {
+      "key": "is_ifr",
+      "label": "Is Ifr",
+      "type": "boolean"
+    },
+    {
+      "key": "ppr_required",
+      "label": "Ppr Required",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "name": "BURGAS",
+      "icao_code": "LBBG",
+      "iata_code": "BOJ",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 42.5696,
+      "longitude": 27.5152,
+      "elevation_ft": 41,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "PLOVDIV",
+      "icao_code": "LBPD",
+      "iata_code": "PDV",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 42.0678,
+      "longitude": 24.8508,
+      "elevation_ft": 184,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "SOFIA",
+      "icao_code": "LBSF",
+      "iata_code": "SOF",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 42.696388888889,
+      "longitude": 23.418055555556,
+      "elevation_ft": 531,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "VARNA",
+      "icao_code": "LBWN",
+      "iata_code": "VAR",
+      "local_code": "",
+      "facility_type": "internationalAirport",
+      "latitude": 43.231944444444,
+      "longitude": 27.825277777778,
+      "elevation_ft": 70,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    }
+  ],
+  "meta": {
+    "title": "Международни летища в България (International airports of Bulgaria) - Безплатно изтегляне",
+    "description": "The 4 facilities classified `internationalAirport` by aero-db for BG, with ICAO/IATA codes, coordinates, elevation and operational flags. Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Международни летища в България (International airports of Bulgaria) | ListBase",
+    "seo_description": "Изтеглете Международни летища в България (International airports of Bulgaria) — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 17 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

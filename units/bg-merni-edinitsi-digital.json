@@ -1,0 +1,176 @@
+{
+  "id": "bg-merni-edinitsi-digital",
+  "name": "Мерни единици: digital (11)",
+  "title": "Мерни единици: digital (11)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'digital'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "kategoriya": "digital",
+      "nazvanie": "битове",
+      "shablon_edinstveno": "{0} бит",
+      "shablon_mnozhestveno": "{0} бита",
+      "kratak_shablon": "{0} b",
+      "tesen_shablon": "{0} b"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "kategoriya": "digital",
+      "nazvanie": "байтове",
+      "shablon_edinstveno": "{0} байт",
+      "shablon_mnozhestveno": "{0} байта",
+      "kratak_shablon": "{0} B",
+      "tesen_shablon": "{0} B"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "kategoriya": "digital",
+      "nazvanie": "гигабити",
+      "shablon_edinstveno": "{0} гигабит",
+      "shablon_mnozhestveno": "{0} гигабита",
+      "kratak_shablon": "{0} Gb",
+      "tesen_shablon": "{0} Gb"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "kategoriya": "digital",
+      "nazvanie": "гигабайти",
+      "shablon_edinstveno": "{0} гигабайт",
+      "shablon_mnozhestveno": "{0} гигабайта",
+      "kratak_shablon": "{0} GB",
+      "tesen_shablon": "{0} GB"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "kategoriya": "digital",
+      "nazvanie": "килобитове",
+      "shablon_edinstveno": "{0} килобит",
+      "shablon_mnozhestveno": "{0} килобита",
+      "kratak_shablon": "{0} kb",
+      "tesen_shablon": "{0} kb"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "kategoriya": "digital",
+      "nazvanie": "килобайтове",
+      "shablon_edinstveno": "{0} килобайт",
+      "shablon_mnozhestveno": "{0} килобайта",
+      "kratak_shablon": "{0} kB",
+      "tesen_shablon": "{0} kB"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "kategoriya": "digital",
+      "nazvanie": "мегабитове",
+      "shablon_edinstveno": "{0} мегабит",
+      "shablon_mnozhestveno": "{0} мегабита",
+      "kratak_shablon": "{0} Mb",
+      "tesen_shablon": "{0} Mb"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "kategoriya": "digital",
+      "nazvanie": "мегабайти",
+      "shablon_edinstveno": "{0} мегабайт",
+      "shablon_mnozhestveno": "{0} мегабайта",
+      "kratak_shablon": "{0} MB",
+      "tesen_shablon": "{0} MB"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "kategoriya": "digital",
+      "nazvanie": "петабайти",
+      "shablon_edinstveno": "{0} петабайт",
+      "shablon_mnozhestveno": "{0} петабайта",
+      "kratak_shablon": "{0} PB",
+      "tesen_shablon": "{0} PB"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "kategoriya": "digital",
+      "nazvanie": "терабитове",
+      "shablon_edinstveno": "{0} терабит",
+      "shablon_mnozhestveno": "{0} терабита",
+      "kratak_shablon": "{0} Tb",
+      "tesen_shablon": "{0} Tb"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "kategoriya": "digital",
+      "nazvanie": "терабайтове",
+      "shablon_edinstveno": "{0} терабайт",
+      "shablon_mnozhestveno": "{0} терабайта",
+      "kratak_shablon": "{0} TB",
+      "tesen_shablon": "{0} TB"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: digital (11) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'digital'. Съдържа 11 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: digital (11) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: digital (11) — 11 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 11 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

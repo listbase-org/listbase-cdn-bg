@@ -1,0 +1,106 @@
+{
+  "id": "bg-merni-edinitsi-light",
+  "name": "Мерни единици: light (4)",
+  "title": "Мерни единици: light (4)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'light'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "kategoriya": "light",
+      "nazvanie": "кандела",
+      "shablon_edinstveno": "{0} кандела",
+      "shablon_mnozhestveno": "{0} кандели",
+      "kratak_shablon": "{0} cd",
+      "tesen_shablon": "{0} cd"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "kategoriya": "light",
+      "nazvanie": "лумен",
+      "shablon_edinstveno": "{0} лумен",
+      "shablon_mnozhestveno": "{0} лумена",
+      "kratak_shablon": "{0} lm",
+      "tesen_shablon": "{0} lm"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "kategoriya": "light",
+      "nazvanie": "луксове",
+      "shablon_edinstveno": "{0} лукс",
+      "shablon_mnozhestveno": "{0} лукса",
+      "kratak_shablon": "{0} lx",
+      "tesen_shablon": "{0} lx"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "kategoriya": "light",
+      "nazvanie": "слънчеви светимости",
+      "shablon_edinstveno": "{0} слънчева светимост",
+      "shablon_mnozhestveno": "{0} слънчеви светимости",
+      "kratak_shablon": "{0} L☉",
+      "tesen_shablon": "{0} L☉"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: light (4) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'light'. Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: light (4) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: light (4) — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

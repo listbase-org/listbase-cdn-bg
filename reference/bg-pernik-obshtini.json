@@ -1,0 +1,203 @@
+{
+  "id": "bg-pernik-obshtini",
+  "name": "Общини — област Перник (Municipalities of Pernik)",
+  "title": "Общини — област Перник (Municipalities of Pernik)",
+  "description": "Списък на общините в област Перник (Pernik oblast). 6 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс PER. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 24,
+      "gisco_id": "BG_PER08",
+      "oblast_code": "PER",
+      "oblast_slug": "pernik",
+      "oblast_bg": "Перник",
+      "oblast_en": "Pernik",
+      "name_bg": "Брезник",
+      "name_en": "",
+      "slug": "breznik",
+      "population_2024": 5550,
+      "population_density_2024_per_km2": 13.78249463,
+      "area_km2": 402.68472062,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://breznik.egov.bg/wps/portal/municipality-breznik/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 25,
+      "gisco_id": "BG_PER19",
+      "oblast_code": "PER",
+      "oblast_slug": "pernik",
+      "oblast_bg": "Перник",
+      "oblast_en": "Pernik",
+      "name_bg": "Земен",
+      "name_en": "Zemen",
+      "slug": "zemen",
+      "population_2024": 2138,
+      "population_density_2024_per_km2": 8.65467698,
+      "area_km2": 247.03406087,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 26,
+      "gisco_id": "BG_PER22",
+      "oblast_code": "PER",
+      "oblast_slug": "pernik",
+      "oblast_bg": "Перник",
+      "oblast_en": "Pernik",
+      "name_bg": "Ковачевци",
+      "name_en": "",
+      "slug": "kovachevci",
+      "population_2024": 1332,
+      "population_density_2024_per_km2": 9.27847102,
+      "area_km2": 143.55813545,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://kovachevtsi.bg/wps/portal/municipality-kovachevtsi/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 27,
+      "gisco_id": "BG_PER32",
+      "oblast_code": "PER",
+      "oblast_slug": "pernik",
+      "oblast_bg": "Перник",
+      "oblast_en": "Pernik",
+      "name_bg": "Перник",
+      "name_en": "",
+      "slug": "pernik",
+      "population_2024": 81819,
+      "population_density_2024_per_km2": 169.00316719,
+      "area_km2": 484.12702177,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://pernik.bg/%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8-%D0%BF%D0%BB%D0%B0%D0%BD%D0%BE%D0",
+      "comment": ""
+    },
+    {
+      "id": 28,
+      "gisco_id": "BG_PER36",
+      "oblast_code": "PER",
+      "oblast_slug": "pernik",
+      "oblast_bg": "Перник",
+      "oblast_en": "Pernik",
+      "name_bg": "Радомир",
+      "name_en": "",
+      "slug": "radomir",
+      "population_2024": 16792,
+      "population_density_2024_per_km2": 31.06603889,
+      "area_km2": 540.52594403,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://radomir.bg/proekt-na-obshtinska-programa-za-namalyavane-riska-ot-bedstvia-na-obshtina-radomi",
+      "comment": ""
+    },
+    {
+      "id": 33,
+      "gisco_id": "BG_PER51",
+      "oblast_code": "PER",
+      "oblast_slug": "pernik",
+      "oblast_bg": "Перник",
+      "oblast_en": "Pernik",
+      "name_bg": "Трън",
+      "name_en": "",
+      "slug": "tran",
+      "population_2024": 3401,
+      "population_density_2024_per_km2": 5.92583323,
+      "area_km2": 573.92772774,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://tran.egov.bg/wps/portal/municipality-tran/municipality/disaster.accident.protection",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Перник (Municipalities of Pernik) - Безплатно изтегляне",
+    "description": "Списък на общините в област Перник (Pernik oblast). 6 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс PER. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Перник (Municipalities of Pernik) | ListBase",
+    "seo_description": "Изтеглете Общини — област Перник (Municipalities of Pernik) — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

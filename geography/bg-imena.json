@@ -1,0 +1,224 @@
+{
+  "id": "bg-imena",
+  "name": "Най-популярни лични имена в България (Popular Bulgarian Forenames)",
+  "title": "Най-популярни лични имена в България (Popular Bulgarian Forenames)",
+  "description": "Най-разпространените мъжки и женски лични имена в България (референтна година 2021), разделени по пол и подредени по популярност, с кирилски и латиничен (романизиран) запис.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "O-BG-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Виктория",
+      "romanized": "Viktoria",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Мария",
+      "romanized": "Maria",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Никол",
+      "romanized": "Nikol",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Рая",
+      "romanized": "Raya",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "София",
+      "romanized": "Sofia",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Йоана",
+      "romanized": "Yoana",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Дария",
+      "romanized": "Dragana",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Габриела",
+      "romanized": "Gabriela",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Александра",
+      "romanized": "Aleksandra",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Симона",
+      "romanized": "Simona",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Александър",
+      "romanized": "Aleksandar",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Георги",
+      "romanized": "Georgi",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Мартин",
+      "romanized": "Martin",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Калоян",
+      "romanized": "Kaloyan",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Борис",
+      "romanized": "Boris",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Димитър",
+      "romanized": "Dimitar",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Теодор",
+      "romanized": "Teodor",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Даниел",
+      "romanized": "Daniel",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Иван",
+      "romanized": "Ivan",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Никола",
+      "romanized": "Nikola",
+      "year": 2021
+    },
+    {
+      "name_group": "O-BG-1-M-11",
+      "gender": "M",
+      "rank": 11,
+      "localized": "Виктор",
+      "romanized": "Viktor",
+      "year": 2021
+    }
+  ],
+  "meta": {
+    "title": "Най-популярни лични имена в България (Popular Bulgarian Forenames) - Безплатно изтегляне",
+    "description": "Най-разпространените мъжки и женски лични имена в България (референтна година 2021), разделени по пол и подредени по популярност, с кирилски и латиничен (романизиран) запис. Съдържа 21 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Най-популярни лични имена в България (Popular Bulgarian Forenames) | ListBase",
+    "seo_description": "Изтеглете Най-популярни лични имена в България (Popular Bulgarian Forenames) — 21 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 21 записа / 6 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

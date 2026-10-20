@@ -1,0 +1,288 @@
+{
+  "id": "bg-stara-zagora-obshtini",
+  "name": "Общини — област Стара Загора (Municipalities of Stara Zagora)",
+  "title": "Общини — област Стара Загора (Municipalities of Stara Zagora)",
+  "description": "Списък на общините в област Стара Загора (Stara Zagora oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SZR. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 173,
+      "gisco_id": "BG_SZR04",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Братя Даскалови",
+      "name_en": "",
+      "slug": "bratya-daskalovi",
+      "population_2024": 7093,
+      "population_density_2024_per_km2": 14.70765291,
+      "area_km2": 482.26593606,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://bratya-daskalovi.bg/images/2025/07.2025/%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0",
+      "comment": ""
+    },
+    {
+      "id": 183,
+      "gisco_id": "BG_SZR07",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Гълъбово",
+      "name_en": "Galabovo",
+      "slug": "galabovo",
+      "population_2024": 10402,
+      "population_density_2024_per_km2": 29.8970407,
+      "area_km2": 347.92741204,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 184,
+      "gisco_id": "BG_SZR12",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Казанлък",
+      "name_en": "",
+      "slug": "kazanlak",
+      "population_2024": 64041,
+      "population_density_2024_per_km2": 100.95141493,
+      "area_km2": 634.37446661,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://obs.kazanlak.bg/common/docs/2020-03/Po_t_33_340_2020.pdf",
+      "comment": ""
+    },
+    {
+      "id": 185,
+      "gisco_id": "BG_SZR22",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Мъглиж",
+      "name_en": "",
+      "slug": "maglizh",
+      "population_2024": 9659,
+      "population_density_2024_per_km2": 24.8404785,
+      "area_km2": 388.84114093,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://maglizh.bg/%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8-%D0%B4%D0%BE%D0%BA%D",
+      "comment": ""
+    },
+    {
+      "id": 186,
+      "gisco_id": "BG_SZR23",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Опан",
+      "name_en": "Opan",
+      "slug": "opan",
+      "population_2024": 2313,
+      "population_density_2024_per_km2": 8.98196591,
+      "area_km2": 257.51600751,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 187,
+      "gisco_id": "BG_SZR24",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Павел баня",
+      "name_en": "",
+      "slug": "pavel-banya",
+      "population_2024": 12339,
+      "population_density_2024_per_km2": 23.71337655,
+      "area_km2": 520.33922606,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://pavelbanya.bg/wp-content/uploads/2025/02/%D0%9E%D0%B1%D0%9F%D1%80-%D0%B7%D0%B0-%D0%9D%D0%A0%",
+      "comment": ""
+    },
+    {
+      "id": 188,
+      "gisco_id": "BG_SZR27",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Раднево",
+      "name_en": "",
+      "slug": "radnevo",
+      "population_2024": 15977,
+      "population_density_2024_per_km2": 29.31298501,
+      "area_km2": 545.04855074,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.strategy.bg/FileHandler.ashx?fileId=38968",
+      "comment": ""
+    },
+    {
+      "id": 189,
+      "gisco_id": "BG_SZR31",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Стара Загора",
+      "name_en": "",
+      "slug": "stara-zagora",
+      "population_2024": 142348,
+      "population_density_2024_per_km2": 130.15006859,
+      "area_km2": 1093.72205133,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.starazagora.bg/bg/preventsiya-i-zashtita-pri-bedstviya",
+      "comment": ""
+    },
+    {
+      "id": 190,
+      "gisco_id": "BG_SZR36",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Чирпан",
+      "name_en": "",
+      "slug": "chirpan",
+      "population_2024": 17564,
+      "population_density_2024_per_km2": 35.74310567,
+      "area_km2": 491.39546412,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.chirpan.bg/uploads/pages/2025/opnrb1.pdf",
+      "comment": ""
+    },
+    {
+      "id": 199,
+      "gisco_id": "BG_SZR37",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Гурково",
+      "name_en": "",
+      "slug": "gurkovo",
+      "population_2024": 4356,
+      "population_density_2024_per_km2": 14.90871585,
+      "area_km2": 292.17808191,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://gurkovo.bg/storage/app/public/uploads/files/RAZNI/programa-bedstwiq.pdf",
+      "comment": ""
+    },
+    {
+      "id": 200,
+      "gisco_id": "BG_SZR38",
+      "oblast_code": "SZR",
+      "oblast_slug": "stara-zagora",
+      "oblast_bg": "Стара Загора",
+      "oblast_en": "Stara Zagora",
+      "name_bg": "Николаево",
+      "name_en": "",
+      "slug": "nikolaevo",
+      "population_2024": 4258,
+      "population_density_2024_per_km2": 44.08503856,
+      "area_km2": 96.58605593,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://nikolaevo.bg/uploads/2025/03/proekt-na-programa-za-namalqvane-na-riska-ot-bestviq-v-obshtina",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Стара Загора (Municipalities of Stara Zagora) - Безплатно изтегляне",
+    "description": "Списък на общините в област Стара Загора (Stara Zagora oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SZR. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 11 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Стара Загора (Municipalities of Stara Zagora) | ListBase",
+    "seo_description": "Изтеглете Общини — област Стара Загора (Municipalities of Stara Zagora) — 11 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 11 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

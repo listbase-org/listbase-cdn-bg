@@ -1,0 +1,305 @@
+{
+  "id": "bg-varna-obshtini",
+  "name": "Общини — област Варна (Municipalities of Varna)",
+  "title": "Общини — област Варна (Municipalities of Varna)",
+  "description": "Списък на общините в област Варна (Varna oblast). 12 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс VAR. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 206,
+      "gisco_id": "BG_VAR01",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Аврен",
+      "name_en": "Avren",
+      "slug": "avren",
+      "population_2024": 8188,
+      "population_density_2024_per_km2": 23.11080121,
+      "area_km2": 354.29321239,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 217,
+      "gisco_id": "BG_VAR02",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Аксаково",
+      "name_en": "",
+      "slug": "aksakovo",
+      "population_2024": 19294,
+      "population_density_2024_per_km2": 41.89335934,
+      "area_km2": 460.55031881,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "http://obs.aksakovo.bg/?p=1290",
+      "comment": ""
+    },
+    {
+      "id": 218,
+      "gisco_id": "BG_VAR04",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Белослав",
+      "name_en": "",
+      "slug": "beloslav",
+      "population_2024": 9519,
+      "population_density_2024_per_km2": 158.67554084,
+      "area_km2": 59.99034224,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://beloslav.org/inc/service/service-download-file.php?identifier=c002a901-df30-438c-a3ba-09d99b",
+      "comment": ""
+    },
+    {
+      "id": 219,
+      "gisco_id": "BG_VAR05",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Бяла",
+      "name_en": "",
+      "slug": "byala",
+      "population_2024": 3284,
+      "population_density_2024_per_km2": 20.23367332,
+      "area_km2": 162.30369777,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://byala.bg/files/5f963027b7ed3c76c7790428cd73230e.pdf",
+      "comment": ""
+    },
+    {
+      "id": 220,
+      "gisco_id": "BG_VAR06",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Варна",
+      "name_en": "",
+      "slug": "varna",
+      "population_2024": 323386,
+      "population_density_2024_per_km2": 1357.49524221,
+      "area_km2": 238.22256605,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.varna.bg/upload/707/Plan_zba.pdf",
+      "comment": ""
+    },
+    {
+      "id": 221,
+      "gisco_id": "BG_VAR08",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Ветрино",
+      "name_en": "",
+      "slug": "vetrino",
+      "population_2024": 4929,
+      "population_density_2024_per_km2": 16.82820066,
+      "area_km2": 292.90118999,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.vetrino.bg/vid2/1104.doc",
+      "comment": ""
+    },
+    {
+      "id": 222,
+      "gisco_id": "BG_VAR09",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Вълчи дол",
+      "name_en": "",
+      "slug": "valchi-dol",
+      "population_2024": 7391,
+      "population_density_2024_per_km2": 15.66670419,
+      "area_km2": 471.7648274,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.valchidol.bg/docs/2022/zashtita/plan_pri_bedstvia_i_avarii.pdf",
+      "comment": ""
+    },
+    {
+      "id": 223,
+      "gisco_id": "BG_VAR13",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Долни чифлик",
+      "name_en": "",
+      "slug": "dolni-chiflik",
+      "population_2024": 15432,
+      "population_density_2024_per_km2": 31.78749103,
+      "area_km2": 485.47398671,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://dolnichiflik.bg/wps/portal/municipality-dolni-chiflik/municipality/disaster.accident.protect",
+      "comment": ""
+    },
+    {
+      "id": 224,
+      "gisco_id": "BG_VAR14",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Девня",
+      "name_en": "",
+      "slug": "devnya",
+      "population_2024": 7143,
+      "population_density_2024_per_km2": 58.74930122,
+      "area_km2": 121.58442487,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.devnya.bg/inc/service/service-download-file.php?identifier=06cee041-8fce-4abd-96be-7ca61",
+      "comment": ""
+    },
+    {
+      "id": 225,
+      "gisco_id": "BG_VAR16",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Дългопол",
+      "name_en": "Dalgopol",
+      "slug": "dalgopol",
+      "population_2024": 11637,
+      "population_density_2024_per_km2": 26.39595875,
+      "area_km2": 440.86294077,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Only appendixes to the plan, but not the plan itself  https://www.dalgopol.bg/vid2/4280.pdf"
+    },
+    {
+      "id": 226,
+      "gisco_id": "BG_VAR24",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Провадия",
+      "name_en": "",
+      "slug": "provadiya",
+      "population_2024": 17655,
+      "population_density_2024_per_km2": 34.09481847,
+      "area_km2": 517.82061892,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://provadia.bg/vid1/139.pdf",
+      "comment": ""
+    },
+    {
+      "id": 237,
+      "gisco_id": "BG_VAR26",
+      "oblast_code": "VAR",
+      "oblast_slug": "varna",
+      "oblast_bg": "Варна",
+      "oblast_en": "Varna",
+      "name_bg": "Суворово",
+      "name_en": "",
+      "slug": "suvorovo",
+      "population_2024": 6333,
+      "population_density_2024_per_km2": 29.34525859,
+      "area_km2": 215.80999125,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://suvorovo.bg/eedryngy/2022/05/%D0%9F%D0%BB%D0%B0%D0%BD-%D0%B7%D0%B0-%D0%B7%D0%B0%D1%89%D0%B8%",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Варна (Municipalities of Varna) - Безплатно изтегляне",
+    "description": "Списък на общините в област Варна (Varna oblast). 12 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс VAR. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 12 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Варна (Municipalities of Varna) | ListBase",
+    "seo_description": "Изтеглете Общини — област Варна (Municipalities of Varna) — 12 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 12 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

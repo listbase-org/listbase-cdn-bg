@@ -1,0 +1,237 @@
+{
+  "id": "bg-lovech-obshtini",
+  "name": "Общини — област Ловеч (Municipalities of Lovech)",
+  "title": "Общини — област Ловеч (Municipalities of Lovech)",
+  "description": "Списък на общините в област Ловеч (Lovech oblast). 8 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс LOV. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 194,
+      "gisco_id": "BG_LOV02",
+      "oblast_code": "LOV",
+      "oblast_slug": "lovech",
+      "oblast_bg": "Ловеч",
+      "oblast_en": "Lovech",
+      "name_bg": "Априлци",
+      "name_en": "",
+      "slug": "aprilci",
+      "population_2024": 2665,
+      "population_density_2024_per_km2": 11.19341221,
+      "area_km2": 238.08646999,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.obshtina-apriltsi.com/inc/service/service-download-file.php?identifier=46f6fcd5-dbcb-4de",
+      "comment": ""
+    },
+    {
+      "id": 195,
+      "gisco_id": "BG_LOV17",
+      "oblast_code": "LOV",
+      "oblast_slug": "lovech",
+      "oblast_bg": "Ловеч",
+      "oblast_en": "Lovech",
+      "name_bg": "Летница",
+      "name_en": "",
+      "slug": "letnica",
+      "population_2024": 3551,
+      "population_density_2024_per_km2": 19.97806135,
+      "area_km2": 177.74497426,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.letnitsa.bg/bg/node/5931",
+      "comment": ""
+    },
+    {
+      "id": 196,
+      "gisco_id": "BG_LOV18",
+      "oblast_code": "LOV",
+      "oblast_slug": "lovech",
+      "oblast_bg": "Ловеч",
+      "oblast_en": "Lovech",
+      "name_bg": "Ловеч",
+      "name_en": "",
+      "slug": "lovech",
+      "population_2024": 36873,
+      "population_density_2024_per_km2": 38.96456347,
+      "area_km2": 946.32139357,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://os.lovech.bg/bg/resheniya/reshenie-1047/",
+      "comment": ""
+    },
+    {
+      "id": 197,
+      "gisco_id": "BG_LOV19",
+      "oblast_code": "LOV",
+      "oblast_slug": "lovech",
+      "oblast_bg": "Ловеч",
+      "oblast_en": "Lovech",
+      "name_bg": "Луковит",
+      "name_en": "",
+      "slug": "lukovit",
+      "population_2024": 15382,
+      "population_density_2024_per_km2": 33.95577581,
+      "area_km2": 453.0009883,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.lukovit.bg/bg/programi/programa-za-namalyavane-na-riska-ot-bedstviya-v-obshtina-lukovit-",
+      "comment": ""
+    },
+    {
+      "id": 198,
+      "gisco_id": "BG_LOV33",
+      "oblast_code": "LOV",
+      "oblast_slug": "lovech",
+      "oblast_bg": "Ловеч",
+      "oblast_en": "Lovech",
+      "name_bg": "Тетевен",
+      "name_en": "Teteven",
+      "slug": "teteven",
+      "population_2024": 17311,
+      "population_density_2024_per_km2": 24.83155865,
+      "area_km2": 697.13706846,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Only news and yearly report available https://www.teteven.bg/index.php/info-services/obshtinsk"
+    },
+    {
+      "id": 207,
+      "gisco_id": "BG_LOV34",
+      "oblast_code": "LOV",
+      "oblast_slug": "lovech",
+      "oblast_bg": "Ловеч",
+      "oblast_en": "Lovech",
+      "name_bg": "Троян",
+      "name_en": "",
+      "slug": "troyan",
+      "population_2024": 25835,
+      "population_density_2024_per_km2": 28.89941039,
+      "area_km2": 893.96287509,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.troyan.bg/bg/planove-za-zashtita/",
+      "comment": ""
+    },
+    {
+      "id": 208,
+      "gisco_id": "BG_LOV36",
+      "oblast_code": "LOV",
+      "oblast_slug": "lovech",
+      "oblast_bg": "Ловеч",
+      "oblast_en": "Lovech",
+      "name_bg": "Угърчин",
+      "name_en": "",
+      "slug": "ugarchin",
+      "population_2024": 5075,
+      "population_density_2024_per_km2": 9.70232121,
+      "area_km2": 523.07070572,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.ugarchin.bg/inc/service/service-download-file.php?identifier=12b63435-9d38-4dbf-bca0-05f",
+      "comment": ""
+    },
+    {
+      "id": 209,
+      "gisco_id": "BG_LOV38",
+      "oblast_code": "LOV",
+      "oblast_slug": "lovech",
+      "oblast_bg": "Ловеч",
+      "oblast_en": "Lovech",
+      "name_bg": "Ябланица",
+      "name_en": "",
+      "slug": "yablanica",
+      "population_2024": 5533,
+      "population_density_2024_per_km2": 27.108801,
+      "area_km2": 204.10345701,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://yablanitsa.bg/upload/_documents/%2026,%203%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BD%D",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Ловеч (Municipalities of Lovech) - Безплатно изтегляне",
+    "description": "Списък на общините в област Ловеч (Lovech oblast). 8 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс LOV. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Ловеч (Municipalities of Lovech) | ListBase",
+    "seo_description": "Изтеглете Общини — област Ловеч (Municipalities of Lovech) — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

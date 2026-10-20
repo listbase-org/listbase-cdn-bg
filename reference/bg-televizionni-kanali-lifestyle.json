@@ -1,0 +1,211 @@
+{
+  "id": "bg-televizionni-kanali-lifestyle",
+  "name": "Български телевизионни канали — лайфстайл",
+  "title": "Български телевизионни канали — лайфстайл",
+  "description": "Български телевизионни канали в категория 'lifestyle' (лайфстайл) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "string"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "BGDnesTV.bg",
+      "name": "BG-Dnes TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://bg-dnes.tv/"
+    },
+    {
+      "id": 2,
+      "channel_id": "CodeFashionTV.bg",
+      "name": "Code Fashion TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv.codefashion.bg/"
+    },
+    {
+      "id": 3,
+      "channel_id": "CodeHealthTV.bg",
+      "name": "Code Health TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.codehealth.bg/"
+    },
+    {
+      "id": 4,
+      "channel_id": "DrFit.bg",
+      "name": "Dr. Fit",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.intheboxtv.eu/"
+    },
+    {
+      "id": 5,
+      "channel_id": "HobbyTV.bg",
+      "name": "Hobby TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.hobbytv.bg/"
+    },
+    {
+      "id": 6,
+      "channel_id": "MUVitv.bg",
+      "name": "MU-Vi.tv",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://mu-vi.tv/"
+    },
+    {
+      "id": 7,
+      "channel_id": "TLC.bg",
+      "name": "TLC",
+      "alt_names": "TLC България",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 8,
+      "channel_id": "WnessTV.bg",
+      "name": "Wness TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "lifestyle",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.wnesstv.com/"
+    }
+  ],
+  "meta": {
+    "title": "Български телевизионни канали — лайфстайл - Безплатно изтегляне",
+    "description": "Български телевизионни канали в категория 'lifestyle' (лайфстайл) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт. Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Български телевизионни канали — лайфстайл | ListBase",
+    "seo_description": "Изтеглете Български телевизионни канали — лайфстайл — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 13 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,1676 @@
+{
+  "id": "bg-balgariya-na-svetovni-parvenstva-sastavi",
+  "name": "Състави на България на световните първенства по футбол 1962–1998 (161)",
+  "title": "Състави на България на световните първенства по футбол 1962–1998 (161)",
+  "description": "Повиканите играчи (и треньорът) на България за финалните турнири на световните първенства, 1962, 1966, 1970, 1974, 1986, 1994, 1998: номер, име, пост, дата на раждане. Имената са точно както в източника (латиница, без диакритика, фамилия с главни букви). post_kod = GK/DF/MF/FW/MG от източника; post = български еквивалент. Източник: more/ГГГГ_squads.txt от openfootball/worldcup (CC0). Броят играчи на отбор е проверен спрямо заглавието \"# N Players\" в източника.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 161,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "otbor",
+      "label": "Otbor",
+      "type": "string"
+    },
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "post_kod",
+      "label": "Post Kod",
+      "type": "string"
+    },
+    {
+      "key": "post",
+      "label": "Post",
+      "type": "string"
+    },
+    {
+      "key": "data_na_razhdane",
+      "label": "Data Na Razhdane",
+      "type": "date"
+    },
+    {
+      "key": "nacionalnost_trenyor",
+      "label": "Nacionalnost Trenyor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 1,
+      "ime": "Georgi NAIDENOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1931-12-21",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 18,
+      "ime": "Ivan IVANOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1942-04-10",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 20,
+      "ime": "Nikola PARCHANOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1930-06-19",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 2,
+      "ime": "Kiril RAKAROV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1932-05-24",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 3,
+      "ime": "Ivan DIMITROV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1935-05-14",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 4,
+      "ime": "Stoyan KITOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1938-08-27",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 5,
+      "ime": "Dimitar KOSTOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1936-07-27",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 8,
+      "ime": "Dimitar DIMOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1937-12-13",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 12,
+      "ime": "Dobromir JECHEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1942-11-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 22,
+      "ime": "Georgi NIKOLOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1937-06-11",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 6,
+      "ime": "Nikola KOVACHEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1934-06-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 7,
+      "ime": "Todor DIEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1934-01-28",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 16,
+      "ime": "Aleksandar KOSTOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1938-03-05",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 17,
+      "ime": "Pantelei DIMITROV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1940-11-02",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 9,
+      "ime": "Hristo ILIEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1936-05-11",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 10,
+      "ime": "Ivan KOLEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1930-11-01",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 11,
+      "ime": "Dimitar YAKIMOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1941-08-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 13,
+      "ime": "Petar VELICHKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1940-08-08",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 14,
+      "ime": "Georgi SOKOLOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1942-06-19",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 15,
+      "ime": "Georgi ASPARUKHOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1943-05-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 19,
+      "ime": "Dinko DERMENDZHIEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1941-06-02",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": 21,
+      "ime": "Panayot PANAYOTOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1930-12-30",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1962,
+      "otbor": "Bulgaria",
+      "nomer": "",
+      "ime": "Georgi PACHEDZHIEV",
+      "post_kod": "MG",
+      "post": "треньор",
+      "data_na_razhdane": "1916-03-01",
+      "nacionalnost_trenyor": "BUL"
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 1,
+      "ime": "Georgi NAIDENOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1931-12-21",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 21,
+      "ime": "Simeon SIMEONOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1946-04-26",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 22,
+      "ime": "Ivan DEYANOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1937-12-16",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 2,
+      "ime": "Aleksandar SHALAMANOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1941-09-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 3,
+      "ime": "Ivan VUTSOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1939-12-14",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 4,
+      "ime": "Boris GAGANELOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1941-10-07",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 5,
+      "ime": "Dimitar PENEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1945-07-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 12,
+      "ime": "Vasil METODIEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1935-01-06",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 15,
+      "ime": "Dimitar LARGOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1936-09-10",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 19,
+      "ime": "Vidin APOSTOLOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1941-10-17",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 7,
+      "ime": "Dinko DERMENDZHIEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1941-06-02",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 8,
+      "ime": "Stoyan KITOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1938-08-27",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 18,
+      "ime": "Evgeni YANCHOVSKI",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1939-09-05",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 20,
+      "ime": "Ivan DAVIDOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1943-10-05",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 6,
+      "ime": "Dobromir JECHEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1942-11-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 9,
+      "ime": "Georgi ASPARUKHOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1943-05-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 10,
+      "ime": "Petar ZHEKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1944-10-10",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 11,
+      "ime": "Ivan KOLEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1930-11-01",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 13,
+      "ime": "Dimitar YAKIMOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1941-08-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 14,
+      "ime": "Nikola KOTKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1938-12-09",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 16,
+      "ime": "Aleksandar KOSTOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1938-03-05",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": 17,
+      "ime": "Stefan ABADZHIEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1934-07-03",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1966,
+      "otbor": "Bulgaria",
+      "nomer": "",
+      "ime": "Rudolf VYTLACIL",
+      "post_kod": "MG",
+      "post": "треньор",
+      "data_na_razhdane": "1912-02-09",
+      "nacionalnost_trenyor": "TCH"
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 1,
+      "ime": "Simeon SIMEONOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1946-04-26",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 13,
+      "ime": "Stoyan YORDANOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1944-01-29",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 22,
+      "ime": "Georgi KAMENSKI",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1947-09-03",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 2,
+      "ime": "Aleksandar SHALAMANOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1941-09-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 3,
+      "ime": "Ivan DIMITROV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1935-05-14",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 4,
+      "ime": "Stefan ALADZHOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1947-10-18",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 6,
+      "ime": "Dimitar PENEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1945-07-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 12,
+      "ime": "Milko GAIDARSKI",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1946-03-18",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 14,
+      "ime": "Dobromir JECHEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1942-11-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 15,
+      "ime": "Boris GAGANELOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1941-10-07",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 5,
+      "ime": "Ivan DAVIDOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1943-10-05",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 8,
+      "ime": "Hristo BONEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1947-02-03",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 11,
+      "ime": "Dinko DERMENDZHIEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1941-06-02",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 16,
+      "ime": "Asparukh NIKODIMOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1945-08-21",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 17,
+      "ime": "Todor KOLEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1942-04-29",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 7,
+      "ime": "Georgi POPOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1944-07-14",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 9,
+      "ime": "Petar ZHEKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1944-10-10",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 10,
+      "ime": "Dimitar YAKIMOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1941-08-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 18,
+      "ime": "Dimitar MARASHLIEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1947-08-31",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 19,
+      "ime": "Georgi ASPARUKHOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1943-05-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 20,
+      "ime": "Vasil MITKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1943-09-17",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": 21,
+      "ime": "Bozhidar GRIGOROV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1945-07-27",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1970,
+      "otbor": "Bulgaria",
+      "nomer": "",
+      "ime": "Stefan BOZHKOV",
+      "post_kod": "MG",
+      "post": "треньор",
+      "data_na_razhdane": "1923-09-20",
+      "nacionalnost_trenyor": "BUL"
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 1,
+      "ime": "Rumen GORANOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1950-03-17",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 21,
+      "ime": "Stefan STAIKOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1949-10-03",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 22,
+      "ime": "Simeon SIMEONOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1946-04-26",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 2,
+      "ime": "Ivan ZAFIROV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1947-12-30",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 3,
+      "ime": "Dobromir JECHEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1942-11-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 4,
+      "ime": "Stefan VELICHKOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1949-02-15",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 6,
+      "ime": "Dimitar PENEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1945-07-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 12,
+      "ime": "Stefan ALADZHOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1947-10-18",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 17,
+      "ime": "Asparukh NIKODIMOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1945-08-21",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 18,
+      "ime": "Tsonyo VASILEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1952-01-07",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 19,
+      "ime": "Kiril IVKOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1946-06-21",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 5,
+      "ime": "Bozhil KOLEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1949-05-20",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 8,
+      "ime": "Hristo BONEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1947-02-03",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 10,
+      "ime": "Ivan STOYANOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1949-01-20",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 7,
+      "ime": "Voin VOINOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1952-09-07",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 9,
+      "ime": "Atanas MIKHAILOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1949-07-05",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 11,
+      "ime": "Georgi DENEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1950-04-18",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 13,
+      "ime": "Mladen VASILEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1947-07-29",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 14,
+      "ime": "Kiril MILANOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1948-10-17",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 15,
+      "ime": "Pavel PANOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1950-09-14",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 16,
+      "ime": "Bozhidar GRIGOROV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1945-07-27",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": 20,
+      "ime": "Krasimir BORISOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1950-04-08",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1974,
+      "otbor": "Bulgaria",
+      "nomer": "",
+      "ime": "Hristo MLADENOV",
+      "post_kod": "MG",
+      "post": "треньор",
+      "data_na_razhdane": "1928-01-07",
+      "nacionalnost_trenyor": "BUL"
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 1,
+      "ime": "Borislav MIHAYLOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1963-02-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 22,
+      "ime": "Ilia VALOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1961-12-29",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 3,
+      "ime": "Nikolai ARABOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1953-11-14",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 4,
+      "ime": "Petar PETROV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1961-02-20",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 5,
+      "ime": "Georgi DIMITROV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1959-01-14",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 12,
+      "ime": "Radoslav ZDRAVKOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1956-07-30",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 13,
+      "ime": "Aleksandar MARKOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1961-08-17",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 21,
+      "ime": "Ilia DYAKOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1963-09-28",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 2,
+      "ime": "Nasko SIRAKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1962-04-26",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 6,
+      "ime": "Andrei ZHELYAZKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1952-07-09",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 8,
+      "ime": "Ayan SADKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1961-09-26",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 10,
+      "ime": "Zhivko GOSPODINOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1957-09-06",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 11,
+      "ime": "Plamen GETOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1959-03-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 14,
+      "ime": "Plamen MARKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1957-09-11",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 15,
+      "ime": "Georgi YORDANOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1963-07-21",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 17,
+      "ime": "Hristo KOLEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1964-09-21",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 19,
+      "ime": "Atanas PASHEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1963-11-21",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 7,
+      "ime": "Bozhidar ISKRENOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1962-08-01",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 9,
+      "ime": "Stoicho MLADENOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1957-04-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 16,
+      "ime": "Vasil DRAGOLOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1962-08-17",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 18,
+      "ime": "Boycho VELICHKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1958-08-13",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": 20,
+      "ime": "Kostadin KOSTADINOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1959-06-25",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1986,
+      "otbor": "Bulgaria",
+      "nomer": "",
+      "ime": "Ivan VUTSOV",
+      "post_kod": "MG",
+      "post": "треньор",
+      "data_na_razhdane": "1939-12-14",
+      "nacionalnost_trenyor": "BUL"
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 1,
+      "ime": "Borislav MIHAYLOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1963-02-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 12,
+      "ime": "Plamen NIKOLOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1961-08-20",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 2,
+      "ime": "Emil KREMENLIEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1969-08-13",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 3,
+      "ime": "Trifon IVANOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1965-07-27",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 4,
+      "ime": "Tsanko TSVETANOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1970-01-06",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 5,
+      "ime": "Petar HUBCHEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1964-02-26",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 15,
+      "ime": "Nikolai ILIEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1964-03-31",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 16,
+      "ime": "Ilian KIRYAKOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1967-08-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 6,
+      "ime": "Zlatko YANKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1966-06-07",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 9,
+      "ime": "Iordan LETCHKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1967-07-09",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 11,
+      "ime": "Daniel BORIMIROV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1970-01-15",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 13,
+      "ime": "Ivaylo YORDANOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1968-04-22",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 14,
+      "ime": "Boncho GENCHEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1964-07-07",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 19,
+      "ime": "Georgi GEORGIEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1963-10-10",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 20,
+      "ime": "Krassimir BALAKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1966-03-29",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 7,
+      "ime": "Emil KOSTADINOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1967-08-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 8,
+      "ime": "Hristo STOICHKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1966-02-08",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 10,
+      "ime": "Nasko SIRAKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1962-04-26",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 17,
+      "ime": "Petar MIKHTARSKI",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1966-07-15",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 18,
+      "ime": "Petar ALEXANDROV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1962-12-07",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 21,
+      "ime": "Velko YOTOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1970-08-26",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": 22,
+      "ime": "Ivaylo ANDONOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1967-08-14",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1994,
+      "otbor": "Bulgaria",
+      "nomer": "",
+      "ime": "Dimitar PENEV",
+      "post_kod": "MG",
+      "post": "треньор",
+      "data_na_razhdane": "1945-07-12",
+      "nacionalnost_trenyor": "BUL"
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 1,
+      "ime": "Zdravko ZDRAVKOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1970-10-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 12,
+      "ime": "Borislav MIHAYLOV",
+      "post_kod": "GK",
+      "post": "вратар",
+      "data_na_razhdane": "1963-02-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 2,
+      "ime": "Radostin KISHISHEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1974-07-30",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 3,
+      "ime": "Trifon IVANOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1965-07-27",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 4,
+      "ime": "Ivaylo PETKOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1976-03-24",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 13,
+      "ime": "Gosho GINCHEV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1969-02-02",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 15,
+      "ime": "Adalbert ZAFIROV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1969-09-29",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 21,
+      "ime": "Rosen KIRILOV",
+      "post_kod": "DF",
+      "post": "защитник",
+      "data_na_razhdane": "1973-01-04",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 5,
+      "ime": "Ivaylo YORDANOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1968-04-22",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 6,
+      "ime": "Zlatko YANKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1966-06-07",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 10,
+      "ime": "Krassimir BALAKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1966-03-29",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 11,
+      "ime": "Ilian ILIEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1968-07-02",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 14,
+      "ime": "Marian HRISTOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1973-07-29",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 16,
+      "ime": "Anatoli NANKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1969-07-15",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 17,
+      "ime": "Stoicho STOILOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1971-10-15",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 18,
+      "ime": "Daniel BORIMIROV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1970-01-15",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 19,
+      "ime": "Georgi BACHEV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1977-04-18",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 22,
+      "ime": "Milen PETKOV",
+      "post_kod": "MF",
+      "post": "полузащитник",
+      "data_na_razhdane": "1974-01-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 7,
+      "ime": "Emil KOSTADINOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1967-08-12",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 8,
+      "ime": "Hristo STOICHKOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1966-02-08",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 9,
+      "ime": "Lyuboslav PENEV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1966-08-31",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": 20,
+      "ime": "Georgi IVANOV",
+      "post_kod": "FW",
+      "post": "нападател",
+      "data_na_razhdane": "1976-07-02",
+      "nacionalnost_trenyor": ""
+    },
+    {
+      "godina": 1998,
+      "otbor": "Bulgaria",
+      "nomer": "",
+      "ime": "Hristo BONEV",
+      "post_kod": "MG",
+      "post": "треньор",
+      "data_na_razhdane": "1947-02-03",
+      "nacionalnost_trenyor": "BUL"
+    }
+  ],
+  "meta": {
+    "title": "Състави на България на световните първенства по футбол 1962–1998 (161) - Безплатно изтегляне",
+    "description": "Повиканите играчи (и треньорът) на България за финалните турнири на световните първенства, 1962, 1966, 1970, 1974, 1986, 1994, 1998: номер, име, пост, дата на раждане. Имената са точно както в източника (латиница, без диакритика, фамилия с главни букви). post_kod = GK/DF/MF/FW/MG от източника; post = български еквивалент. Източник: more/ГГГГ_squads.txt от openfootball/worldcup (CC0). Броят играчи на отбор е проверен спрямо заглавието \"# N Players\" в източника. Съдържа 161 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Състави на България на световните първенства по футбол 1962–1998 (161) | ListBase",
+    "seo_description": "Изтеглете Състави на България на световните първенства по футбол 1962–1998 (161) — 161 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 161 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

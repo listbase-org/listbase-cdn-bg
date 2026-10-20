@@ -1,0 +1,225 @@
+{
+  "id": "bg-letishta-aerodb",
+  "name": "Летища в България (Airports of Bulgaria)",
+  "title": "Летища в България (Airports of Bulgaria)",
+  "description": "The 6 facilities classified `airport` by aero-db for BG, with ICAO/IATA codes, coordinates, elevation and operational flags.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "facility_type",
+      "label": "Facility Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "is_private",
+      "label": "Is Private",
+      "type": "boolean"
+    },
+    {
+      "key": "is_military",
+      "label": "Is Military",
+      "type": "boolean"
+    },
+    {
+      "key": "is_civilian",
+      "label": "Is Civilian",
+      "type": "boolean"
+    },
+    {
+      "key": "is_closed",
+      "label": "Is Closed",
+      "type": "boolean"
+    },
+    {
+      "key": "is_vfr",
+      "label": "Is Vfr",
+      "type": "boolean"
+    },
+    {
+      "key": "is_ifr",
+      "label": "Is Ifr",
+      "type": "boolean"
+    },
+    {
+      "key": "ppr_required",
+      "label": "Ppr Required",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "name": "BEZMER",
+      "icao_code": "LBIA",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "airport",
+      "latitude": 42.455555555556,
+      "longitude": 26.350833333333,
+      "elevation_ft": 155,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": true,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "BREZNIK",
+      "icao_code": "LBBR",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "airport",
+      "latitude": 42.693333333333,
+      "longitude": 22.896666666667,
+      "elevation_ft": 699,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": true,
+      "is_vfr": true,
+      "is_ifr": false,
+      "ppr_required": false
+    },
+    {
+      "name": "DOLNA MITROPOLIA",
+      "icao_code": "LBPL",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "airport",
+      "latitude": 43.4514,
+      "longitude": 24.5028,
+      "elevation_ft": 90,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": true,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "GORNA ORYAHOVITSA",
+      "icao_code": "LBGO",
+      "iata_code": "GOZ",
+      "local_code": "",
+      "facility_type": "airport",
+      "latitude": 43.151666666667,
+      "longitude": 25.711944444444,
+      "elevation_ft": 87,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": false,
+      "ppr_required": false
+    },
+    {
+      "name": "GRAF IGNATIEVO",
+      "icao_code": "LBPG",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "airport",
+      "latitude": 42.290833333333,
+      "longitude": 24.714166666667,
+      "elevation_ft": 199,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": true,
+      "is_civilian": false,
+      "is_closed": false,
+      "is_vfr": true,
+      "is_ifr": true,
+      "ppr_required": false
+    },
+    {
+      "name": "VRATSA",
+      "icao_code": "LBVR",
+      "iata_code": "",
+      "local_code": "",
+      "facility_type": "airport",
+      "latitude": 43.2558333333,
+      "longitude": 23.5325,
+      "elevation_ft": 283,
+      "country_code": "BG",
+      "timezone": "",
+      "is_private": false,
+      "is_military": false,
+      "is_civilian": false,
+      "is_closed": true,
+      "is_vfr": true,
+      "is_ifr": false,
+      "ppr_required": false
+    }
+  ],
+  "meta": {
+    "title": "Летища в България (Airports of Bulgaria) - Безплатно изтегляне",
+    "description": "The 6 facilities classified `airport` by aero-db for BG, with ICAO/IATA codes, coordinates, elevation and operational flags. Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Летища в България (Airports of Bulgaria) | ListBase",
+    "seo_description": "Изтеглете Летища в България (Airports of Bulgaria) — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 17 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

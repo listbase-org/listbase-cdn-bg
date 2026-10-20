@@ -1,0 +1,654 @@
+{
+  "id": "bg-mostove",
+  "name": "Мостове в България",
+  "title": "Мостове в България",
+  "description": "Bridges in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 53,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q111200307",
+      "name_bg": "",
+      "name_en": "Bridge of Grebna baza, Plovdiv",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.142972,
+      "longitude": 24.705833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111200307"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q56616556",
+      "name_bg": "Адата",
+      "name_en": "Adata Bridge, Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.156254,
+      "longitude": 24.765463,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56616556"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q12271386",
+      "name_bg": "Александров мост",
+      "name_en": "Alexandrov most",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.650945,
+      "longitude": 23.219904,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12271386"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q2654734",
+      "name_bg": "Аспарухов мост",
+      "name_en": "Asparuhov most",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.190369444,
+      "longitude": 27.884630555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2654734"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q14193545",
+      "name_bg": "Атеренски мост",
+      "name_en": "Aterenski most",
+      "admin_area_bg": "Ивайловград",
+      "admin_area_en": "Ivaylovgrad",
+      "latitude": 41.5104,
+      "longitude": 26.0806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14193545"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q115912726",
+      "name_bg": "Банянски мост",
+      "name_en": "Banyan Bridge",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.623111111,
+      "longitude": 23.952333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115912726"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3658776",
+      "name_bg": "Бебреш",
+      "name_en": "Bebresh Viaduct",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.828,
+      "longitude": 23.796,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3658776"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q2466319",
+      "name_bg": "Беленски мост",
+      "name_en": "Belenski most",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.469633333,
+      "longitude": 25.725041666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2466319"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q57074230",
+      "name_bg": "Бетонен мост (Пловдив)",
+      "name_en": "",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.134935,
+      "longitude": 24.74497,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57074230"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q12275217",
+      "name_bg": "Виадукт на километър 56 по АМ „Хемус“",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.922206,
+      "longitude": 23.921291,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12275217"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q83278953",
+      "name_bg": "Владишки мост",
+      "name_en": "Bishop's Bridge",
+      "admin_area_bg": "Велико Търново",
+      "admin_area_en": "Veliko Tarnovo",
+      "latitude": 43.0866083,
+      "longitude": 25.6489509,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q83278953"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q56550368",
+      "name_bg": "Въжен мост (Поповица-Чалъкови)",
+      "name_en": "",
+      "admin_area_bg": "Чалъкови",
+      "admin_area_en": "Chalakovi",
+      "latitude": 42.141138888,
+      "longitude": 25.028972222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56550368"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q106094129",
+      "name_bg": "Вълчанов мост",
+      "name_en": "",
+      "admin_area_bg": "Малко Търново",
+      "admin_area_en": "Malko Tarnovo",
+      "latitude": 41.944194444,
+      "longitude": 27.600222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106094129"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q56636017",
+      "name_bg": "Герджика",
+      "name_en": "Gerdzhika Bridge",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.15347,
+      "longitude": 24.738627,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56636017"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q28058963",
+      "name_bg": "Гърбав мост",
+      "name_en": "Garbav most, Harmanli",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.9320571,
+      "longitude": 25.8998284,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28058963"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q123698787",
+      "name_bg": "Гърбав мост (Трявна)",
+      "name_en": "Garbav most, Tryavna",
+      "admin_area_bg": "Трявна",
+      "admin_area_en": "Tryavna",
+      "latitude": 42.866262,
+      "longitude": 25.4889097,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123698787"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q68575601",
+      "name_bg": "Дуков мост",
+      "name_en": "Duko's Bridge",
+      "admin_area_bg": "Пещера",
+      "admin_area_en": "Peshtera",
+      "latitude": 42.04575,
+      "longitude": 24.330722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q68575601"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q203004",
+      "name_bg": "Дунав мост",
+      "name_en": "Danube Bridge",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.8875,
+      "longitude": 26.007222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q203004"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q2458142",
+      "name_bg": "Дяволски мост",
+      "name_en": "Dyavolski most",
+      "admin_area_bg": "Кърджали",
+      "admin_area_en": "Kardzhali",
+      "latitude": 41.620616,
+      "longitude": 25.11421,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2458142"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q12280079",
+      "name_bg": "Железен мост (Кюстендил)",
+      "name_en": "",
+      "admin_area_bg": "Кюстендил",
+      "admin_area_en": "Kyustendil",
+      "latitude": 42.284127777,
+      "longitude": 22.686161111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12280079"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q56601275",
+      "name_bg": "Железен мост (Пловдив)",
+      "name_en": "Iron Bridge in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.153416,
+      "longitude": 24.722182,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56601275"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q56632059",
+      "name_bg": "Зелен мост",
+      "name_en": "Green Bridge in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.153247,
+      "longitude": 24.731085,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56632059"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q267104",
+      "name_bg": "Кадин мост",
+      "name_en": "Kadin most",
+      "admin_area_bg": "Невестино",
+      "admin_area_en": "Nevestino",
+      "latitude": 42.25611111,
+      "longitude": 22.85361111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q267104"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q107524707",
+      "name_bg": "Калъчев мост",
+      "name_en": "First Shot bridge",
+      "admin_area_bg": "Копривщица",
+      "admin_area_en": "Koprivshtitsa",
+      "latitude": 42.6375,
+      "longitude": 24.356388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107524707"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q114853065",
+      "name_bg": "Кереков мост",
+      "name_en": "",
+      "admin_area_bg": "Копривщица",
+      "admin_area_en": "Koprivshtitsa",
+      "latitude": 42.6394413,
+      "longitude": 24.3593757,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114853065"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q3063225",
+      "name_bg": "Константинов мост",
+      "name_en": "Constantine's Bridge",
+      "admin_area_bg": "Сукидава",
+      "admin_area_en": "Sucidava",
+      "latitude": 43.76361111,
+      "longitude": 24.45694444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3063225"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q12283720",
+      "name_bg": "Коренишки дол",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.808058,
+      "longitude": 23.804926,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12283720"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1138538",
+      "name_bg": "Лъвов мост",
+      "name_en": "Lions' Bridge",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.705,
+      "longitude": 23.32388889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1138538"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q105062408",
+      "name_bg": "Модър-Царевец (подлез)",
+      "name_en": "",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.129780119,
+      "longitude": 24.717423664,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105062408"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q20500059",
+      "name_bg": "Моравенов мост",
+      "name_en": "Moravenov bridge",
+      "admin_area_bg": "Копривщица",
+      "admin_area_en": "Koprivshtitsa",
+      "latitude": 42.634166666,
+      "longitude": 24.359444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500059"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q12287398",
+      "name_bg": "Мост на влюбените",
+      "name_en": "NDK footbridge",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.6828,
+      "longitude": 23.3202,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287398"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q99653973",
+      "name_bg": "Мост на героите",
+      "name_en": "Heroes Bridge",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.699444444,
+      "longitude": 23.302777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q99653973"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q12287396",
+      "name_bg": "Мост на Гребна база „Пловдив“",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.142946,
+      "longitude": 24.705902,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287396"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q125085513",
+      "name_bg": "Мост на дружбата",
+      "name_en": "Friendship Bridge",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.6828,
+      "longitude": 23.320161,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125085513"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q136231190",
+      "name_bg": "Мост на желанията",
+      "name_en": "",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.205825,
+      "longitude": 27.925642,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136231190"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q3555796",
+      "name_bg": "Мост на Мустафа паша",
+      "name_en": "Old Bridge",
+      "admin_area_bg": "Свиленград",
+      "admin_area_en": "Svilengrad",
+      "latitude": 41.76878,
+      "longitude": 26.19351,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3555796"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q113631778",
+      "name_bg": "Мост на свободата",
+      "name_en": "",
+      "admin_area_bg": "Копривщица",
+      "admin_area_en": "Koprivshtitsa",
+      "latitude": 42.6402956,
+      "longitude": 24.3582619,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113631778"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q12287397",
+      "name_bg": "Мост на Четвърти километър",
+      "name_en": "",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.668943,
+      "longitude": 23.367952,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287397"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q107338666",
+      "name_bg": "Мост над Дряновска река",
+      "name_en": "Dryanovo bridge",
+      "admin_area_bg": "Дряново",
+      "admin_area_en": "Dryanovo",
+      "latitude": 42.971111111,
+      "longitude": 25.467222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107338666"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q56590319",
+      "name_bg": "Мост над река Марица (Пазарджик)",
+      "name_en": "",
+      "admin_area_bg": "Пазарджик",
+      "admin_area_en": "Pazardzhik",
+      "latitude": 42.184658,
+      "longitude": 24.321285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56590319"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q56562843",
+      "name_bg": "Мост над река Стряма (Брезово – Пловдив)",
+      "name_en": "Stryama Bridge",
+      "admin_area_bg": "Раковски",
+      "admin_area_en": "Rakovski",
+      "latitude": 42.249034,
+      "longitude": 24.841843,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56562843"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q108874569",
+      "name_bg": "Мост над Стара река",
+      "name_en": "",
+      "admin_area_bg": "Стеврек",
+      "admin_area_en": "Stevrek",
+      "latitude": 43.004166666,
+      "longitude": 26.126388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108874569"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q1077240",
+      "name_bg": "Мост „Нова Европа“",
+      "name_en": "New Europe Bridge",
+      "admin_area_bg": "Видин",
+      "admin_area_en": "Vidin",
+      "latitude": 44.005,
+      "longitude": 22.9475,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1077240"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q56613441",
+      "name_bg": "Моста на Панаира",
+      "name_en": "Fairground Bridge",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.154944444,
+      "longitude": 24.749666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56613441"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q358267",
+      "name_bg": "Орлов мост",
+      "name_en": "Eagles' Bridge",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.690555555,
+      "longitude": 23.3375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q358267"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q136357567",
+      "name_bg": "Панчоолу мост",
+      "name_en": "Panchoolu Most",
+      "admin_area_bg": "Разград",
+      "admin_area_en": "Razgrad",
+      "latitude": 43.525820076,
+      "longitude": 26.527775173,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136357567"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q56633803",
+      "name_bg": "Пешеходен мост (Пловдив)",
+      "name_en": "Pedestrian Bridge in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.153934,
+      "longitude": 24.744915,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56633803"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q3394134",
+      "name_bg": "Покритият мост в Ловеч",
+      "name_en": "Covered Bridge",
+      "admin_area_bg": "Ловеч",
+      "admin_area_en": "Lovech",
+      "latitude": 43.1324,
+      "longitude": 24.7165,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3394134"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q131468029",
+      "name_bg": "Римски мост",
+      "name_en": "",
+      "admin_area_bg": "Мъглиж",
+      "admin_area_en": "Maglizh",
+      "latitude": 42.6377887,
+      "longitude": 25.6451154,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131468029"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q57069714",
+      "name_bg": "Родопи (надлез)",
+      "name_en": "Rhodope overpass in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.13285,
+      "longitude": 24.755785,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57069714"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q25480595",
+      "name_bg": "Стамболов мост",
+      "name_en": "Stambolov Bridge",
+      "admin_area_bg": "Велико Търново",
+      "admin_area_en": "Veliko Tarnovo",
+      "latitude": 43.081758333,
+      "longitude": 25.637213888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25480595"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q83365717",
+      "name_bg": "Цар Борис ІІІ",
+      "name_en": "",
+      "admin_area_bg": "Велико Търново",
+      "admin_area_en": "Veliko Tarnovo",
+      "latitude": 43.0850706,
+      "longitude": 25.6491508,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q83365717"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q12298958",
+      "name_bg": "Чавдар",
+      "name_en": "Chavdar bridge, Sofia",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.700367,
+      "longitude": 23.345539,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12298958"
+    }
+  ],
+  "meta": {
+    "title": "Мостове в България - Безплатно изтегляне",
+    "description": "Bridges in Bulgaria with coordinates, sourced from Wikidata. Съдържа 53 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мостове в България | ListBase",
+    "seo_description": "Изтеглете Мостове в България — 53 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 53 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

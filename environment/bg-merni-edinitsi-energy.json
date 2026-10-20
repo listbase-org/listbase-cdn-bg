@@ -1,0 +1,206 @@
+{
+  "id": "bg-merni-edinitsi-energy",
+  "name": "Мерни единици: energy (14)",
+  "title": "Мерни единици: energy (14)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'energy'.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "kategoriya": "energy",
+      "nazvanie": "бекерели",
+      "shablon_edinstveno": "{0} бекерел",
+      "shablon_mnozhestveno": "{0} бекерела",
+      "kratak_shablon": "{0} Bq",
+      "tesen_shablon": "{0} Bq"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "kategoriya": "energy",
+      "nazvanie": "британски термални единици",
+      "shablon_edinstveno": "{0} британска термална единица",
+      "shablon_mnozhestveno": "{0} британски термални единици",
+      "kratak_shablon": "{0} BTU",
+      "tesen_shablon": "{0} BTU"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategoriya": "energy",
+      "nazvanie": "BTU-IT",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} BTU-IT",
+      "kratak_shablon": "{0} BTU-IT",
+      "tesen_shablon": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "kategoriya": "energy",
+      "nazvanie": "калории",
+      "shablon_edinstveno": "{0} калория",
+      "shablon_mnozhestveno": "{0} калории",
+      "kratak_shablon": "{0} cal",
+      "tesen_shablon": "{0} cal"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "kategoriya": "energy",
+      "nazvanie": "калории [IT]",
+      "shablon_edinstveno": "{0} калория [IT]",
+      "shablon_mnozhestveno": "{0} калории [IT]",
+      "kratak_shablon": "{0} cal-IT",
+      "tesen_shablon": "{0} cal-IT"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "kategoriya": "energy",
+      "nazvanie": "електронволтове",
+      "shablon_edinstveno": "{0} електронволт",
+      "shablon_mnozhestveno": "{0} електронволта",
+      "kratak_shablon": "{0} eV",
+      "tesen_shablon": "{0} eV"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "kategoriya": "energy",
+      "nazvanie": "калории",
+      "shablon_edinstveno": "{0} калория",
+      "shablon_mnozhestveno": "{0} калории",
+      "kratak_shablon": "{0} cal",
+      "tesen_shablon": "{0} cal"
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "kategoriya": "energy",
+      "nazvanie": "грей",
+      "shablon_edinstveno": "{0} грей",
+      "shablon_mnozhestveno": "{0} грея",
+      "kratak_shablon": "{0} Gy",
+      "tesen_shablon": "{0} Gy"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "kategoriya": "energy",
+      "nazvanie": "джаули",
+      "shablon_edinstveno": "{0} джаул",
+      "shablon_mnozhestveno": "{0} джаула",
+      "kratak_shablon": "{0} J",
+      "tesen_shablon": "{0} J"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "kategoriya": "energy",
+      "nazvanie": "килокалории",
+      "shablon_edinstveno": "{0} килокалория",
+      "shablon_mnozhestveno": "{0} килокалории",
+      "kratak_shablon": "{0} kcal",
+      "tesen_shablon": "{0} kcal"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "kategoriya": "energy",
+      "nazvanie": "килоджаули",
+      "shablon_edinstveno": "{0} килоджаул",
+      "shablon_mnozhestveno": "{0} килоджаула",
+      "kratak_shablon": "{0} kJ",
+      "tesen_shablon": "{0} kJ"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "kategoriya": "energy",
+      "nazvanie": "киловатчасове",
+      "shablon_edinstveno": "{0} киловатчас",
+      "shablon_mnozhestveno": "{0} киловатчаса",
+      "kratak_shablon": "{0} kWh",
+      "tesen_shablon": "{0} kWh"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "kategoriya": "energy",
+      "nazvanie": "сиверти",
+      "shablon_edinstveno": "{0} сиверт",
+      "shablon_mnozhestveno": "{0} сиверта",
+      "kratak_shablon": "{0} Sv",
+      "tesen_shablon": "{0} Sv"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "kategoriya": "energy",
+      "nazvanie": "американски термални единици",
+      "shablon_edinstveno": "{0} американска термална единица",
+      "shablon_mnozhestveno": "{0} американски термални единици",
+      "kratak_shablon": "{0} амер. терм. ед.",
+      "tesen_shablon": "{0} амер. терм. ед."
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: energy (14) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'energy'. Съдържа 14 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: energy (14) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: energy (14) — 14 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 14 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

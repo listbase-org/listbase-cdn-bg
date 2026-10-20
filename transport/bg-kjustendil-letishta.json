@@ -1,0 +1,135 @@
+{
+  "id": "bg-kjustendil-letishta",
+  "name": "Летища — област Кюстендил",
+  "title": "Летища — област Кюстендил",
+  "description": "Списък на летищата в „област Кюстендил“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Kyustendil Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_source",
+      "label": "Oblast Source",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LB22",
+      "iata": "",
+      "name": "Stanke Dimitrov Airport",
+      "name_slug": "stanke-dimitrov-airport",
+      "city": "Sapareva Banya",
+      "oblast": "област Кюстендил",
+      "oblast_source": "Kyustendil",
+      "oblast_slug": "kjustendil",
+      "oblast_en": "Kyustendil Province",
+      "country": "BG",
+      "elevation_ft": 2149,
+      "lat": 42.3116989136,
+      "lon": 23.2469005585,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LB37",
+      "iata": "",
+      "name": "Stanke Dimitrov Highway Strip",
+      "name_slug": "stanke-dimitrov-highway-strip",
+      "city": "Boboshevo",
+      "oblast": "област Кюстендил",
+      "oblast_source": "Kyustendil",
+      "oblast_slug": "kjustendil",
+      "oblast_en": "Kyustendil Province",
+      "country": "BG",
+      "elevation_ft": 3447,
+      "lat": 42.1757011414,
+      "lon": 23.0508995056,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Летища — област Кюстендил - Безплатно изтегляне",
+    "description": "Списък на летищата в „област Кюстендил“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Kyustendil Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Съдържа 2 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Летища — област Кюстендил | ListBase",
+    "seo_description": "Изтеглете Летища — област Кюстендил — 2 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 2 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: https://github.com/mwgg/Airports"
+    ]
+  }
+}

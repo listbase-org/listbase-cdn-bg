@@ -1,0 +1,288 @@
+{
+  "id": "bg-montana-obshtini",
+  "name": "Общини — област Монтана (Municipalities of Montana)",
+  "title": "Общини — област Монтана (Municipalities of Montana)",
+  "description": "Списък на общините в област Монтана (Montana oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс MON. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 210,
+      "gisco_id": "BG_MON02",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Берковица",
+      "name_en": "",
+      "slug": "berkovica",
+      "population_2024": 13848,
+      "population_density_2024_per_km2": 29.8858101,
+      "area_km2": 463.36371522,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.berkovitsa.bg/wp-content/uploads/2024/04/%D0%A7%D0%90%D0%A1%D0%A2-IV-%D0%97%D0%90%D0%A9%",
+      "comment": ""
+    },
+    {
+      "id": 211,
+      "gisco_id": "BG_MON04",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Бойчиновци",
+      "name_en": "",
+      "slug": "boychinovci",
+      "population_2024": 7553,
+      "population_density_2024_per_km2": 24.58139609,
+      "area_km2": 307.2648914,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.boychinovtsi.bg/inc/service/service-download-file.php?identifier=6f669708-4669-4d57-8c34",
+      "comment": ""
+    },
+    {
+      "id": 212,
+      "gisco_id": "BG_MON07",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Брусарци",
+      "name_en": "Brusartsi",
+      "slug": "brusarci",
+      "population_2024": 3951,
+      "population_density_2024_per_km2": 20.29972079,
+      "area_km2": 194.63321894,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 213,
+      "gisco_id": "BG_MON11",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Вълчедръм",
+      "name_en": "",
+      "slug": "valchedram",
+      "population_2024": 7326,
+      "population_density_2024_per_km2": 17.20300837,
+      "area_km2": 425.85574828,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://valchedram.egov.bg/wps/portal/municipality-valchedram/municipality/disaster.accident.protect",
+      "comment": ""
+    },
+    {
+      "id": 214,
+      "gisco_id": "BG_MON12",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Вършец",
+      "name_en": "Varshets",
+      "slug": "varshec",
+      "population_2024": 6663,
+      "population_density_2024_per_km2": 27.72544152,
+      "area_km2": 240.32078968,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 215,
+      "gisco_id": "BG_MON14",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Георги Дамяново",
+      "name_en": "",
+      "slug": "georgi-damyanovo",
+      "population_2024": 1961,
+      "population_density_2024_per_km2": 6.59559506,
+      "area_km2": 297.31964763,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://georgidamyanovo.com/wp-content/uploads/2018/05/%D0%9F%D0%BB%D0%B0%D0%BD-%D0%B7%D0%B0-%D0%B7%",
+      "comment": ""
+    },
+    {
+      "id": 216,
+      "gisco_id": "BG_MON24",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Лом",
+      "name_en": "",
+      "slug": "lom",
+      "population_2024": 20087,
+      "population_density_2024_per_km2": 61.31446486,
+      "area_km2": 327.60621893,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.lom.bg/section-384-content.html",
+      "comment": ""
+    },
+    {
+      "id": 227,
+      "gisco_id": "BG_MON26",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Медковец",
+      "name_en": "Medkovets",
+      "slug": "medkovec",
+      "population_2024": 2988,
+      "population_density_2024_per_km2": 15.63536729,
+      "area_km2": 191.10520041,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 228,
+      "gisco_id": "BG_MON29",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Монтана",
+      "name_en": "",
+      "slug": "montana",
+      "population_2024": 43938,
+      "population_density_2024_per_km2": 65.00741248,
+      "area_km2": 675.89215328,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.montana.bg/%D1%81%D0%B2%D0%B0%D0%BB%D0%B8/%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B5-%D0%BD%D0",
+      "comment": ""
+    },
+    {
+      "id": 229,
+      "gisco_id": "BG_MON36",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Чипровци",
+      "name_en": "Chiprovtsi",
+      "slug": "chiprovci",
+      "population_2024": 2738,
+      "population_density_2024_per_km2": 9.61267511,
+      "area_km2": 284.83226244,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 230,
+      "gisco_id": "BG_MON38",
+      "oblast_code": "MON",
+      "oblast_slug": "montana",
+      "oblast_bg": "Монтана",
+      "oblast_en": "Montana",
+      "name_bg": "Якимово",
+      "name_en": "",
+      "slug": "yakimovo",
+      "population_2024": 3473,
+      "population_density_2024_per_km2": 15.72295473,
+      "area_km2": 220.8872352,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.iakimovo.org/images/stories/documents/plan_zashtita_bedstviya_2024_compressed.pdf",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Монтана (Municipalities of Montana) - Безплатно изтегляне",
+    "description": "Списък на общините в област Монтана (Montana oblast). 11 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс MON. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 11 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Монтана (Municipalities of Montana) | ListBase",
+    "seo_description": "Изтеглете Общини — област Монтана (Municipalities of Montana) — 11 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 11 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "id": "bg-sinagogi",
+  "name": "Синагоги в България",
+  "title": "Синагоги в България",
+  "description": "Synagogues in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q28143047",
+      "name_bg": "",
+      "name_en": "Ashkenazi Synagogue in Rousse",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.845833333,
+      "longitude": 25.953611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28143047"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q138411982",
+      "name_bg": "Cинагога в Казанлък",
+      "name_en": "Synagogue in Kazanlak",
+      "admin_area_bg": "Казанлък",
+      "admin_area_en": "Kazanlak",
+      "latitude": 42.622497222,
+      "longitude": 25.393730555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138411982"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q66311674",
+      "name_bg": "",
+      "name_en": "Former Synagogue in Yambol",
+      "admin_area_bg": "Ямбол",
+      "admin_area_en": "Yambol",
+      "latitude": 42.482777777,
+      "longitude": 26.506111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66311674"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q105946150",
+      "name_bg": "",
+      "name_en": "Grand Synagogue of Ruse",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.839444444,
+      "longitude": 25.951666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105946150"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q28133939",
+      "name_bg": "",
+      "name_en": "Synagogue in Burgas",
+      "admin_area_bg": "Бургас",
+      "admin_area_en": "Burgas",
+      "latitude": 42.49305556,
+      "longitude": 27.47555556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28133939"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q28141772",
+      "name_bg": "",
+      "name_en": "Synagogue in Dobrich",
+      "admin_area_bg": "Добрич",
+      "admin_area_en": "Dobrich",
+      "latitude": 43.568055555,
+      "longitude": 27.834444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28141772"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q28143361",
+      "name_bg": "",
+      "name_en": "Synagogue in Samokov",
+      "admin_area_bg": "Самоков",
+      "admin_area_en": "Samokov",
+      "latitude": 42.3418,
+      "longitude": 23.559,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28143361"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q20499146",
+      "name_bg": "Антична синагога",
+      "name_en": "Synagogue of Philippopolis",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.1453,
+      "longitude": 24.7553,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20499146"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q3702610",
+      "name_bg": "Видинска синагога",
+      "name_en": "Vidin Synagogue",
+      "admin_area_bg": "Видин",
+      "admin_area_en": "Vidin",
+      "latitude": 43.9912452,
+      "longitude": 22.8838934,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3702610"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q28142075",
+      "name_bg": "Гоцеделчевска синагога",
+      "name_en": "Gotse Delchev Synagogue",
+      "admin_area_bg": "Гоце Делчев",
+      "admin_area_en": "Gotse Delchev",
+      "latitude": 41.571111111,
+      "longitude": 23.728611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28142075"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q9349993",
+      "name_bg": "Пазарджишка голяма синагога",
+      "name_en": "Pazardzhik Synagogues",
+      "admin_area_bg": "Пазарджик",
+      "admin_area_en": "Pazardzhik",
+      "latitude": 42.191944444,
+      "longitude": 24.333888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q9349993"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q58157869",
+      "name_bg": "Пазарджишка малка синагога",
+      "name_en": "Small Synagogue of Pazardzhik",
+      "admin_area_bg": "Пазарджик",
+      "admin_area_en": "Pazardzhik",
+      "latitude": 42.191944444,
+      "longitude": 24.333888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58157869"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q7205169",
+      "name_bg": "Пловдивска синагога",
+      "name_en": "Plovdiv Synagogue",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.15055556,
+      "longitude": 24.74083333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7205169"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q942127",
+      "name_bg": "Софийска синагога",
+      "name_en": "Central Synagogue of Sofia",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.70027778,
+      "longitude": 23.32101111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q942127"
+    }
+  ],
+  "meta": {
+    "title": "Синагоги в България - Безплатно изтегляне",
+    "description": "Synagogues in Bulgaria with coordinates, sourced from Wikidata. Съдържа 14 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Синагоги в България | ListBase",
+    "seo_description": "Изтеглете Синагоги в България — 14 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 14 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

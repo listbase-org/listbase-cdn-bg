@@ -1,0 +1,1438 @@
+{
+  "id": "bg-osm-shop-doityourself",
+  "name": "Магазини „Направи си сам“ в България (OpenStreetMap)",
+  "title": "Магазини „Направи си сам“ в България (OpenStreetMap)",
+  "description": "Магазини „Направи си сам“ в България — 153 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=doityourself`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Кралев\"",
+      "shirina": 42.688354,
+      "dalzhina": 23.240868,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 2,
+      "ime": "\"ПРО КРАС СЕРВИЗ\" ЕООД",
+      "shirina": 43.216795,
+      "dalzhina": 27.908507,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 3,
+      "ime": "Baucentrum",
+      "shirina": 42.64093,
+      "dalzhina": 23.408499,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 4,
+      "ime": "Bauhaus",
+      "shirina": 42.716965,
+      "dalzhina": 23.316468,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 5,
+      "ime": "Bravite.com",
+      "shirina": 43.211165,
+      "dalzhina": 27.916279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 6,
+      "ime": "Cvetec",
+      "shirina": 42.648964,
+      "dalzhina": 23.334424,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 7,
+      "ime": "DIANA",
+      "shirina": 43.218083,
+      "dalzhina": 27.874408,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 8,
+      "ime": "Dosev Impex",
+      "shirina": 42.158019,
+      "dalzhina": 24.732137,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 9,
+      "ime": "Euromaster",
+      "shirina": 42.658572,
+      "dalzhina": 23.314445,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 10,
+      "ime": "Farben",
+      "shirina": 42.654802,
+      "dalzhina": 23.329985,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 11,
+      "ime": "Festool България",
+      "shirina": 42.638875,
+      "dalzhina": 23.314758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 12,
+      "ime": "Frotcom Bulgaria",
+      "shirina": 42.14175,
+      "dalzhina": 24.755979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 13,
+      "ime": "GP store",
+      "shirina": 42.656172,
+      "dalzhina": 23.375143,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 14,
+      "ime": "HomeMax",
+      "shirina": 42.129179,
+      "dalzhina": 24.770138,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 15,
+      "ime": "HomeMax",
+      "shirina": 42.41442,
+      "dalzhina": 25.640023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 16,
+      "ime": "HomeMax",
+      "shirina": 42.533532,
+      "dalzhina": 27.448684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 17,
+      "ime": "HomeMax",
+      "shirina": 42.710478,
+      "dalzhina": 23.397227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 18,
+      "ime": "HomeMax",
+      "shirina": 42.725081,
+      "dalzhina": 23.236967,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 19,
+      "ime": "HomeMax",
+      "shirina": 43.854761,
+      "dalzhina": 26.000394,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 20,
+      "ime": "Homemax",
+      "shirina": 43.220298,
+      "dalzhina": 27.876436,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 21,
+      "ime": "M2",
+      "shirina": 42.63667,
+      "dalzhina": 23.333913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 22,
+      "ime": "MPEL",
+      "shirina": 42.718621,
+      "dalzhina": 23.257833,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 23,
+      "ime": "Masterhaus",
+      "shirina": 42.519815,
+      "dalzhina": 27.436648,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 24,
+      "ime": "Mr. Bricolage",
+      "shirina": 41.940259,
+      "dalzhina": 25.55742,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 25,
+      "ime": "Mr. Bricolage",
+      "shirina": 41.996366,
+      "dalzhina": 23.088046,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 26,
+      "ime": "Mr. Bricolage",
+      "shirina": 42.153589,
+      "dalzhina": 24.769795,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 27,
+      "ime": "Mr. Bricolage",
+      "shirina": 42.471825,
+      "dalzhina": 27.432099,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 28,
+      "ime": "Mr. Bricolage",
+      "shirina": 42.606067,
+      "dalzhina": 23.056499,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 29,
+      "ime": "Mr. Bricolage",
+      "shirina": 42.624607,
+      "dalzhina": 23.352408,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 30,
+      "ime": "Mr. Bricolage",
+      "shirina": 42.663952,
+      "dalzhina": 23.378761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 31,
+      "ime": "Mr. Bricolage",
+      "shirina": 42.712059,
+      "dalzhina": 23.450651,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 32,
+      "ime": "Mr. Bricolage",
+      "shirina": 42.733183,
+      "dalzhina": 23.248163,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 33,
+      "ime": "Mr. Bricolage",
+      "shirina": 43.228187,
+      "dalzhina": 27.887959,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 34,
+      "ime": "Mr. Bricolage",
+      "shirina": 43.418172,
+      "dalzhina": 24.612978,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 35,
+      "ime": "Mr. Bricolage",
+      "shirina": 43.550214,
+      "dalzhina": 27.836386,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 36,
+      "ime": "Mr. Bricolage",
+      "shirina": 43.845579,
+      "dalzhina": 25.96247,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 37,
+      "ime": "Osmo",
+      "shirina": 42.663415,
+      "dalzhina": 23.285589,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 38,
+      "ime": "P&I",
+      "shirina": 42.676851,
+      "dalzhina": 23.286108,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 39,
+      "ime": "Praktiker",
+      "shirina": 41.971011,
+      "dalzhina": 25.559942,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 40,
+      "ime": "Praktiker",
+      "shirina": 42.126656,
+      "dalzhina": 24.758599,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 41,
+      "ime": "Praktiker",
+      "shirina": 42.18134,
+      "dalzhina": 24.345369,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 42,
+      "ime": "Praktiker",
+      "shirina": 42.426794,
+      "dalzhina": 25.660221,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 43,
+      "ime": "Praktiker",
+      "shirina": 42.467544,
+      "dalzhina": 26.525989,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 44,
+      "ime": "Praktiker",
+      "shirina": 42.513743,
+      "dalzhina": 27.451259,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 45,
+      "ime": "Praktiker",
+      "shirina": 42.601764,
+      "dalzhina": 23.048573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 46,
+      "ime": "Praktiker",
+      "shirina": 42.640522,
+      "dalzhina": 23.410082,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 47,
+      "ime": "Praktiker",
+      "shirina": 42.688061,
+      "dalzhina": 23.277688,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 48,
+      "ime": "Praktiker",
+      "shirina": 42.729612,
+      "dalzhina": 23.267025,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 49,
+      "ime": "Praktiker",
+      "shirina": 43.073036,
+      "dalzhina": 25.613717,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 50,
+      "ime": "Praktiker",
+      "shirina": 43.186831,
+      "dalzhina": 23.579676,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 51,
+      "ime": "Praktiker",
+      "shirina": 43.220565,
+      "dalzhina": 27.873085,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 52,
+      "ime": "Praktiker",
+      "shirina": 43.274353,
+      "dalzhina": 26.942517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 53,
+      "ime": "Praktiker",
+      "shirina": 43.409113,
+      "dalzhina": 24.637749,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 54,
+      "ime": "Praktiker",
+      "shirina": 43.55018,
+      "dalzhina": 27.838702,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 55,
+      "ime": "Praktiker",
+      "shirina": 43.846847,
+      "dalzhina": 25.967474,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 56,
+      "ime": "Praktis",
+      "shirina": 41.930451,
+      "dalzhina": 25.60349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 57,
+      "ime": "Praktis",
+      "shirina": 42.155946,
+      "dalzhina": 24.708544,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 58,
+      "ime": "Praktis",
+      "shirina": 42.420306,
+      "dalzhina": 25.635745,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 59,
+      "ime": "Praktis",
+      "shirina": 42.708705,
+      "dalzhina": 23.460843,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 60,
+      "ime": "Praktis",
+      "shirina": 42.710474,
+      "dalzhina": 23.350657,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 61,
+      "ime": "Praktis",
+      "shirina": 43.830788,
+      "dalzhina": 25.969292,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 62,
+      "ime": "Praktis",
+      "shirina": 43.965998,
+      "dalzhina": 22.862529,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 63,
+      "ime": "ProfiStore",
+      "shirina": 42.656845,
+      "dalzhina": 23.59108,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 64,
+      "ime": "Promax",
+      "shirina": 42.569716,
+      "dalzhina": 25.546145,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 65,
+      "ime": "Roni",
+      "shirina": 43.224078,
+      "dalzhina": 27.92496,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 66,
+      "ime": "SuperMastoro",
+      "shirina": 42.653644,
+      "dalzhina": 23.334503,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 67,
+      "ime": "TeMax",
+      "shirina": 42.273205,
+      "dalzhina": 23.12917,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 68,
+      "ime": "TeMax",
+      "shirina": 42.703814,
+      "dalzhina": 24.161595,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 69,
+      "ime": "TeMax",
+      "shirina": 43.066825,
+      "dalzhina": 25.609491,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 70,
+      "ime": "TeMax",
+      "shirina": 43.193084,
+      "dalzhina": 23.575424,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 71,
+      "ime": "TeMax",
+      "shirina": 43.256673,
+      "dalzhina": 26.94852,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 72,
+      "ime": "TeMax",
+      "shirina": 43.533376,
+      "dalzhina": 26.521032,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 73,
+      "ime": "TeMax",
+      "shirina": 43.57689,
+      "dalzhina": 27.827457,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 74,
+      "ime": "VarnaC.bg Auto Accessories",
+      "shirina": 43.223691,
+      "dalzhina": 27.858787,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 75,
+      "ime": "tools",
+      "shirina": 42.132675,
+      "dalzhina": 24.79846,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 76,
+      "ime": "АЛФА - ХИМ",
+      "shirina": 43.530569,
+      "dalzhina": 26.506456,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 77,
+      "ime": "Алати",
+      "shirina": 42.155186,
+      "dalzhina": 24.712647,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 78,
+      "ime": "Ангро",
+      "shirina": 42.727439,
+      "dalzhina": 23.261319,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 79,
+      "ime": "Анди",
+      "shirina": 42.161794,
+      "dalzhina": 24.313477,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 80,
+      "ime": "Аргон",
+      "shirina": 42.513661,
+      "dalzhina": 27.44287,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 81,
+      "ime": "БУРГАС ЛИФТ ООД",
+      "shirina": 42.46499,
+      "dalzhina": 27.4184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 82,
+      "ime": "Билдо",
+      "shirina": 42.11991,
+      "dalzhina": 24.729471,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 83,
+      "ime": "Билдо",
+      "shirina": 42.129854,
+      "dalzhina": 24.79913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 84,
+      "ime": "Бои и химикали",
+      "shirina": 42.430541,
+      "dalzhina": 25.63324,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 85,
+      "ime": "ВЕКСИ 07 ЕООД",
+      "shirina": 42.460572,
+      "dalzhina": 22.906096,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 86,
+      "ime": "ВЕМИ ЕООД",
+      "shirina": 42.439508,
+      "dalzhina": 22.893705,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 87,
+      "ime": "Витоша",
+      "shirina": 42.646634,
+      "dalzhina": 23.328074,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 88,
+      "ime": "Всичко за дома",
+      "shirina": 42.724768,
+      "dalzhina": 23.304205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 89,
+      "ime": "Вулкан 3",
+      "shirina": 43.20631,
+      "dalzhina": 27.906235,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 90,
+      "ime": "Глазура",
+      "shirina": 42.870944,
+      "dalzhina": 24.712649,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 91,
+      "ime": "Гутов Груп ЕООД",
+      "shirina": 42.638085,
+      "dalzhina": 26.324403,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 92,
+      "ime": "ДВТ",
+      "shirina": 42.652609,
+      "dalzhina": 23.332981,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 93,
+      "ime": "Дилета",
+      "shirina": 43.829738,
+      "dalzhina": 23.234418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 94,
+      "ime": "ЕЛ. Материали",
+      "shirina": 43.423609,
+      "dalzhina": 24.596992,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 95,
+      "ime": "Елба",
+      "shirina": 43.218283,
+      "dalzhina": 27.955305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 96,
+      "ime": "Елба",
+      "shirina": 43.223993,
+      "dalzhina": 27.925357,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 97,
+      "ime": "Железария",
+      "shirina": 42.416577,
+      "dalzhina": 27.696784,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 98,
+      "ime": "Железария",
+      "shirina": 42.650205,
+      "dalzhina": 23.633661,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 99,
+      "ime": "Железария",
+      "shirina": 43.850329,
+      "dalzhina": 25.980892,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 100,
+      "ime": "Железария - \"Лазар Додов ЕТ\"",
+      "shirina": 42.642793,
+      "dalzhina": 23.639912,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 101,
+      "ime": "Железария Миро",
+      "shirina": 42.126336,
+      "dalzhina": 23.133901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 102,
+      "ime": "За всеки майстор",
+      "shirina": 42.664333,
+      "dalzhina": 23.362088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 103,
+      "ime": "Кадемлия",
+      "shirina": 42.693457,
+      "dalzhina": 23.353027,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 104,
+      "ime": "Кид Груп - електроматериали",
+      "shirina": 42.143345,
+      "dalzhina": 24.760332,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 105,
+      "ime": "Ковко",
+      "shirina": 42.632591,
+      "dalzhina": 23.374569,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 106,
+      "ime": "Колор шоп",
+      "shirina": 42.700842,
+      "dalzhina": 23.325348,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 107,
+      "ime": "Магазин VarnaC.bg - бул. Васил Левски 72",
+      "shirina": 43.21728,
+      "dalzhina": 27.948406,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 108,
+      "ime": "Магазин VarnaC.bg - ул. Вяра 6А",
+      "shirina": 43.228828,
+      "dalzhina": 27.889725,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 109,
+      "ime": "Магазин за крепежни елементи",
+      "shirina": 43.847764,
+      "dalzhina": 25.986187,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 110,
+      "ime": "Магазин склад за Строителни материали",
+      "shirina": 41.381001,
+      "dalzhina": 25.256709,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 111,
+      "ime": "Майстор Митко",
+      "shirina": 42.665763,
+      "dalzhina": 23.296267,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 112,
+      "ime": "Марев Маркет",
+      "shirina": 42.286065,
+      "dalzhina": 25.932372,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 113,
+      "ime": "Маркита",
+      "shirina": 42.128706,
+      "dalzhina": 24.720676,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 114,
+      "ime": "Мастерхаус",
+      "shirina": 42.65333,
+      "dalzhina": 27.673451,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 115,
+      "ime": "Механик Орешков",
+      "shirina": 42.657305,
+      "dalzhina": 23.302135,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 116,
+      "ime": "Микимак ЕООД",
+      "shirina": 42.73862,
+      "dalzhina": 23.317232,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 117,
+      "ime": "Милков Маркет",
+      "shirina": 42.677125,
+      "dalzhina": 26.304517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 118,
+      "ime": "Мистър Стройко",
+      "shirina": 42.621624,
+      "dalzhina": 25.390377,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 119,
+      "ime": "Монтажи-64",
+      "shirina": 42.341977,
+      "dalzhina": 23.552343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 120,
+      "ime": "Моята железария",
+      "shirina": 42.710555,
+      "dalzhina": 23.350055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 121,
+      "ime": "Никра",
+      "shirina": 41.572054,
+      "dalzhina": 24.783164,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 122,
+      "ime": "Палисандър БГ ЕООД",
+      "shirina": 42.495216,
+      "dalzhina": 26.260057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 123,
+      "ime": "Петстрой",
+      "shirina": 43.523987,
+      "dalzhina": 26.52083,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 124,
+      "ime": "Поправи си сам",
+      "shirina": 42.693182,
+      "dalzhina": 23.329213,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 125,
+      "ime": "Сико",
+      "shirina": 42.710002,
+      "dalzhina": 23.334017,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 126,
+      "ime": "Склад ТОПЛИВО - строителни материали",
+      "shirina": 42.09665,
+      "dalzhina": 27.939204,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 127,
+      "ime": "Строителен хипермаркет ABC",
+      "shirina": 42.476028,
+      "dalzhina": 26.504157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 128,
+      "ime": "Строителен хипермаркет, домашни потреби",
+      "shirina": 42.879242,
+      "dalzhina": 27.19023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 129,
+      "ime": "Строителни Материали",
+      "shirina": 41.38113,
+      "dalzhina": 25.254453,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 130,
+      "ime": "Строителни Материали",
+      "shirina": 43.536169,
+      "dalzhina": 26.528537,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 131,
+      "ime": "Строителни материали",
+      "shirina": 42.365977,
+      "dalzhina": 23.408228,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 132,
+      "ime": "Строителни материали",
+      "shirina": 42.578955,
+      "dalzhina": 23.171056,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 133,
+      "ime": "Строителни материали",
+      "shirina": 42.834556,
+      "dalzhina": 22.649234,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 134,
+      "ime": "Строителни материали БЕНИ-2010",
+      "shirina": 43.010264,
+      "dalzhina": 23.045746,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 135,
+      "ime": "Стройдом",
+      "shirina": 42.699364,
+      "dalzhina": 23.303433,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 136,
+      "ime": "Твоя железария",
+      "shirina": 42.739144,
+      "dalzhina": 23.273849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 137,
+      "ime": "ТеМакс",
+      "shirina": 42.637706,
+      "dalzhina": 23.402001,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 138,
+      "ime": "ТеМах",
+      "shirina": 42.891923,
+      "dalzhina": 24.717642,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 139,
+      "ime": "Текра",
+      "shirina": 42.147566,
+      "dalzhina": 24.769543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 140,
+      "ime": "Техномаг",
+      "shirina": 43.179481,
+      "dalzhina": 27.896517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 141,
+      "ime": "Тони",
+      "shirina": 42.653952,
+      "dalzhina": 23.315609,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 142,
+      "ime": "Топливо - склад Бенковски",
+      "shirina": 41.380759,
+      "dalzhina": 25.254157,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 143,
+      "ime": "Тренчев",
+      "shirina": 42.344226,
+      "dalzhina": 23.547209,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 144,
+      "ime": "Феонекс ЕООД",
+      "shirina": 43.427618,
+      "dalzhina": 28.163702,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 145,
+      "ime": "Фиал",
+      "shirina": 42.650369,
+      "dalzhina": 23.340169,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 146,
+      "ime": "Хари-М-09",
+      "shirina": 43.003987,
+      "dalzhina": 23.348118,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 147,
+      "ime": "Хес 2000",
+      "shirina": 42.711177,
+      "dalzhina": 23.318484,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 148,
+      "ime": "Хрома",
+      "shirina": 43.421594,
+      "dalzhina": 24.596865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 149,
+      "ime": "Чечосан",
+      "shirina": 41.569053,
+      "dalzhina": 24.723392,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 150,
+      "ime": "Чичо Сам",
+      "shirina": 42.49341,
+      "dalzhina": 27.46605,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 151,
+      "ime": "ЮБИС",
+      "shirina": 42.672926,
+      "dalzhina": 23.593459,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 152,
+      "ime": "железария Тонак",
+      "shirina": 42.002089,
+      "dalzhina": 23.112008,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    },
+    {
+      "id": 153,
+      "ime": "магазин Макита",
+      "shirina": 42.716929,
+      "dalzhina": 23.287408,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "doityourself",
+      "osm_klas": "shop=doityourself"
+    }
+  ],
+  "meta": {
+    "title": "Магазини „Направи си сам“ в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Магазини „Направи си сам“ в България — 153 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=doityourself`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 153 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Магазини „Направи си сам“ в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Магазини „Направи си сам“ в България (OpenStreetMap) — 153 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 153 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

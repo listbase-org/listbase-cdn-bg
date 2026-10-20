@@ -1,0 +1,2635 @@
+{
+  "id": "bg-osm-amenity-doctors",
+  "name": "Лекарски практики в България (OpenStreetMap)",
+  "title": "Лекарски практики в България (OpenStreetMap)",
+  "description": "Лекарски практики в България — 286 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=doctors`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 286,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "21-ви ДКЦ",
+      "shirina": 42.682906,
+      "dalzhina": 23.254791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 2,
+      "ime": "Aestheline",
+      "shirina": 42.65342,
+      "dalzhina": 23.346745,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 3,
+      "ime": "Angelic Glow",
+      "shirina": 42.662238,
+      "dalzhina": 23.291078,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 4,
+      "ime": "ArtMedica",
+      "shirina": 43.409623,
+      "dalzhina": 24.62058,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 5,
+      "ime": "Bodimed",
+      "shirina": 41.560338,
+      "dalzhina": 23.27748,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 6,
+      "ime": "Bodimed",
+      "shirina": 42.009725,
+      "dalzhina": 24.870418,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 7,
+      "ime": "Bodimed",
+      "shirina": 42.125724,
+      "dalzhina": 24.719224,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 8,
+      "ime": "Bodimed",
+      "shirina": 42.128717,
+      "dalzhina": 24.743641,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 9,
+      "ime": "Bodimed",
+      "shirina": 42.134613,
+      "dalzhina": 24.797494,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 10,
+      "ime": "Bodimed",
+      "shirina": 42.140086,
+      "dalzhina": 24.737813,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 11,
+      "ime": "Bodimed",
+      "shirina": 42.142252,
+      "dalzhina": 24.755909,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 12,
+      "ime": "Bodimed",
+      "shirina": 42.145013,
+      "dalzhina": 24.722863,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 13,
+      "ime": "Bodimed",
+      "shirina": 42.147556,
+      "dalzhina": 24.730599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 14,
+      "ime": "Bodimed",
+      "shirina": 42.158772,
+      "dalzhina": 24.739736,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 15,
+      "ime": "Bodimed",
+      "shirina": 42.188514,
+      "dalzhina": 24.324169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 16,
+      "ime": "Bodimed",
+      "shirina": 42.265577,
+      "dalzhina": 23.117718,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 17,
+      "ime": "Bodimed",
+      "shirina": 42.337474,
+      "dalzhina": 23.55322,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 18,
+      "ime": "Bodimed",
+      "shirina": 42.425227,
+      "dalzhina": 25.643452,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 19,
+      "ime": "Bodimed",
+      "shirina": 42.429751,
+      "dalzhina": 25.628757,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 20,
+      "ime": "Bodimed",
+      "shirina": 42.433419,
+      "dalzhina": 25.64371,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 21,
+      "ime": "Bodimed",
+      "shirina": 42.490442,
+      "dalzhina": 26.01459,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 22,
+      "ime": "Bodimed",
+      "shirina": 42.505369,
+      "dalzhina": 27.469007,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 23,
+      "ime": "Bodimed",
+      "shirina": 42.523447,
+      "dalzhina": 27.452028,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 24,
+      "ime": "Bodimed",
+      "shirina": 42.639536,
+      "dalzhina": 23.384351,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 25,
+      "ime": "Bodimed",
+      "shirina": 42.652378,
+      "dalzhina": 23.346581,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 26,
+      "ime": "Bodimed",
+      "shirina": 42.65606,
+      "dalzhina": 23.372328,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 27,
+      "ime": "Bodimed",
+      "shirina": 42.658001,
+      "dalzhina": 23.395477,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 28,
+      "ime": "Bodimed",
+      "shirina": 42.662833,
+      "dalzhina": 23.380097,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 29,
+      "ime": "Bodimed",
+      "shirina": 42.664063,
+      "dalzhina": 23.343641,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 30,
+      "ime": "Bodimed",
+      "shirina": 42.664512,
+      "dalzhina": 23.284997,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 31,
+      "ime": "Bodimed",
+      "shirina": 42.677868,
+      "dalzhina": 23.360104,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 32,
+      "ime": "Bodimed",
+      "shirina": 42.683157,
+      "dalzhina": 23.312852,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 33,
+      "ime": "Bodimed",
+      "shirina": 42.684767,
+      "dalzhina": 23.248127,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 34,
+      "ime": "Bodimed",
+      "shirina": 42.689338,
+      "dalzhina": 23.312939,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 35,
+      "ime": "Bodimed",
+      "shirina": 42.692987,
+      "dalzhina": 23.314305,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 36,
+      "ime": "Bodimed",
+      "shirina": 42.6964,
+      "dalzhina": 23.317874,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 37,
+      "ime": "Bodimed",
+      "shirina": 42.701251,
+      "dalzhina": 23.369052,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 38,
+      "ime": "Bodimed",
+      "shirina": 42.718877,
+      "dalzhina": 23.257984,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 39,
+      "ime": "Bodimed",
+      "shirina": 42.737084,
+      "dalzhina": 23.301734,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 40,
+      "ime": "Bodimed",
+      "shirina": 42.813859,
+      "dalzhina": 23.221176,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 41,
+      "ime": "Bodimed",
+      "shirina": 43.409705,
+      "dalzhina": 24.616901,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 42,
+      "ime": "Bodimed",
+      "shirina": 43.418827,
+      "dalzhina": 24.625248,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 43,
+      "ime": "Body & mind",
+      "shirina": 42.672366,
+      "dalzhina": 23.331034,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 44,
+      "ime": "Derma-Act",
+      "shirina": 42.642837,
+      "dalzhina": 23.313321,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 45,
+      "ime": "Dermaclinic south park",
+      "shirina": 42.670263,
+      "dalzhina": 23.312556,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 46,
+      "ime": "Diomed",
+      "shirina": 42.673687,
+      "dalzhina": 23.334832,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 47,
+      "ime": "Doctor",
+      "shirina": 42.707132,
+      "dalzhina": 27.720472,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 48,
+      "ime": "Dr. Hachik Magardichqn",
+      "shirina": 43.561527,
+      "dalzhina": 26.314546,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 49,
+      "ime": "Dr. Sorucheva",
+      "shirina": 42.654324,
+      "dalzhina": 23.329536,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 50,
+      "ime": "Dr. Vaneska",
+      "shirina": 42.673713,
+      "dalzhina": 23.317735,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 51,
+      "ime": "Encho Stoyanov Ortoped Travmatology",
+      "shirina": 42.498424,
+      "dalzhina": 27.474131,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 52,
+      "ime": "Excelsior",
+      "shirina": 42.677861,
+      "dalzhina": 23.360208,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 53,
+      "ime": "Ippmp - D-R Marieta Dimitrova",
+      "shirina": 42.427429,
+      "dalzhina": 25.686838,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 54,
+      "ime": "Ippmp D-R Nina Georgieva",
+      "shirina": 42.425904,
+      "dalzhina": 25.68825,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 55,
+      "ime": "Jewel Skin",
+      "shirina": 42.671985,
+      "dalzhina": 23.309512,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 56,
+      "ime": "Just Look",
+      "shirina": 42.659191,
+      "dalzhina": 23.314217,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 57,
+      "ime": "M Esthetic",
+      "shirina": 42.664311,
+      "dalzhina": 23.263789,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 58,
+      "ime": "Medical Arts - Медико-Дентален център",
+      "shirina": 42.674965,
+      "dalzhina": 23.262308,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 59,
+      "ime": "Medical Center",
+      "shirina": 42.371043,
+      "dalzhina": 27.707854,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 60,
+      "ime": "Medical Center DermaVision",
+      "shirina": 42.14672,
+      "dalzhina": 24.726339,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 61,
+      "ime": "ORTOPED.BG",
+      "shirina": 42.662453,
+      "dalzhina": 23.283192,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 62,
+      "ime": "Perfect Smile",
+      "shirina": 42.653404,
+      "dalzhina": 23.345029,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 63,
+      "ime": "Pro Art",
+      "shirina": 42.146087,
+      "dalzhina": 24.780454,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 64,
+      "ime": "Skin & Scalpel",
+      "shirina": 42.685523,
+      "dalzhina": 23.299527,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 65,
+      "ime": "Smartdiet",
+      "shirina": 42.676928,
+      "dalzhina": 23.333053,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 66,
+      "ime": "VDerm",
+      "shirina": 42.655313,
+      "dalzhina": 23.315401,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 67,
+      "ime": "VIP Clinic",
+      "shirina": 42.674588,
+      "dalzhina": 23.292147,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 68,
+      "ime": "VO dent",
+      "shirina": 42.677402,
+      "dalzhina": 23.320543,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 69,
+      "ime": "Whole again",
+      "shirina": 42.684199,
+      "dalzhina": 23.329533,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 70,
+      "ime": "Yanko Yankov, MD, PhD",
+      "shirina": 43.215802,
+      "dalzhina": 27.943178,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 71,
+      "ime": "doctors gonovski",
+      "shirina": 42.134029,
+      "dalzhina": 24.798707,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 72,
+      "ime": "local doctor",
+      "shirina": 43.042686,
+      "dalzhina": 25.89151,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 73,
+      "ime": "АПМП - Д-р Ирина Антонова",
+      "shirina": 43.827326,
+      "dalzhina": 26.925594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 74,
+      "ime": "АПМП-ИП Д-Р МИЛЕН БОБЧЕВ ЕООД",
+      "shirina": 43.78683,
+      "dalzhina": 26.95143,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 75,
+      "ime": "Авокадо",
+      "shirina": 43.42136,
+      "dalzhina": 24.59707,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 76,
+      "ime": "Албена Аракчиева",
+      "shirina": 42.676987,
+      "dalzhina": 23.286478,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 77,
+      "ime": "Алерголог Педиатър д-р Йордан Мирчев",
+      "shirina": 42.705145,
+      "dalzhina": 23.345973,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 78,
+      "ime": "Амброаз Паре",
+      "shirina": 42.669008,
+      "dalzhina": 26.334406,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 79,
+      "ime": "Амбулатория за обща медицинска помощ",
+      "shirina": 41.46508,
+      "dalzhina": 25.646949,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 80,
+      "ime": "Амбулатория по детски болести",
+      "shirina": 42.677619,
+      "dalzhina": 23.288639,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 81,
+      "ime": "Биочек",
+      "shirina": 42.700207,
+      "dalzhina": 23.323032,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 82,
+      "ime": "Ваня Дункова Виолета Спирова",
+      "shirina": 42.672802,
+      "dalzhina": 23.316804,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 83,
+      "ime": "Венелин Викторов",
+      "shirina": 42.698787,
+      "dalzhina": 23.319378,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 84,
+      "ime": "Д-р А. Здравкова",
+      "shirina": 42.654841,
+      "dalzhina": 23.311576,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 85,
+      "ime": "Д-р А. Начева",
+      "shirina": 42.671323,
+      "dalzhina": 23.314623,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 86,
+      "ime": "Д-р А. Носиков",
+      "shirina": 42.654815,
+      "dalzhina": 23.311571,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 87,
+      "ime": "Д-р Александрова",
+      "shirina": 42.666488,
+      "dalzhina": 23.319749,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 88,
+      "ime": "Д-р Анастас Стойков",
+      "shirina": 42.679181,
+      "dalzhina": 23.360261,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 89,
+      "ime": "Д-р Ангелов",
+      "shirina": 43.701654,
+      "dalzhina": 28.306091,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 90,
+      "ime": "Д-р Арабаджиев Кардиолог",
+      "shirina": 43.567036,
+      "dalzhina": 27.827012,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 91,
+      "ime": "Д-р Аргир Аргиров",
+      "shirina": 42.65287,
+      "dalzhina": 23.317605,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 92,
+      "ime": "Д-р Атова Д-р Тонкин",
+      "shirina": 42.687359,
+      "dalzhina": 23.32664,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 93,
+      "ime": "Д-р Богдан Руйчев",
+      "shirina": 42.656189,
+      "dalzhina": 23.372073,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 94,
+      "ime": "Д-р Божидар Славчев",
+      "shirina": 42.668921,
+      "dalzhina": 23.302014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 95,
+      "ime": "Д-р Божкова",
+      "shirina": 42.654903,
+      "dalzhina": 23.372754,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 96,
+      "ime": "Д-р Валентина Николова",
+      "shirina": 42.698693,
+      "dalzhina": 23.321182,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 97,
+      "ime": "Д-р Васил Ангелов",
+      "shirina": 42.137947,
+      "dalzhina": 24.740054,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 98,
+      "ime": "Д-р Величка Терзиева",
+      "shirina": 42.650835,
+      "dalzhina": 23.340761,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 99,
+      "ime": "Д-р Венислава Александрова",
+      "shirina": 42.691862,
+      "dalzhina": 23.307465,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 100,
+      "ime": "Д-р Веселина Грозева",
+      "shirina": 42.700782,
+      "dalzhina": 23.333016,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 101,
+      "ime": "Д-р Вилиан Марков",
+      "shirina": 42.100425,
+      "dalzhina": 27.939218,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 102,
+      "ime": "Д-р Виолета Николаева",
+      "shirina": 42.671951,
+      "dalzhina": 23.281031,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 103,
+      "ime": "Д-р Георги Георгиев",
+      "shirina": 43.216375,
+      "dalzhina": 27.916366,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 104,
+      "ime": "Д-р Георги Минков",
+      "shirina": 42.692943,
+      "dalzhina": 23.321476,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 105,
+      "ime": "Д-р Демерджиева",
+      "shirina": 42.67278,
+      "dalzhina": 23.316725,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 106,
+      "ime": "Д-р Диана Христова",
+      "shirina": 42.696383,
+      "dalzhina": 23.3394,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 107,
+      "ime": "Д-р Димитров",
+      "shirina": 42.675526,
+      "dalzhina": 23.31993,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 108,
+      "ime": "Д-р Димитър Брънков",
+      "shirina": 42.479969,
+      "dalzhina": 26.50018,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 109,
+      "ime": "Д-р Дойчева",
+      "shirina": 42.66245,
+      "dalzhina": 23.277194,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 110,
+      "ime": "Д-р Домусчиев",
+      "shirina": 42.70678,
+      "dalzhina": 23.319672,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 111,
+      "ime": "Д-р Драгнев",
+      "shirina": 43.210896,
+      "dalzhina": 27.917762,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 112,
+      "ime": "Д-р Емилия Кирязова",
+      "shirina": 43.274417,
+      "dalzhina": 26.920198,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 113,
+      "ime": "Д-р Златев",
+      "shirina": 42.159856,
+      "dalzhina": 24.728681,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 114,
+      "ime": "Д-р Илиев",
+      "shirina": 42.680993,
+      "dalzhina": 23.327875,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 115,
+      "ime": "Д-р Илиян Савов",
+      "shirina": 42.674321,
+      "dalzhina": 23.284525,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 116,
+      "ime": "Д-р Кадева",
+      "shirina": 41.840732,
+      "dalzhina": 23.481863,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 117,
+      "ime": "Д-р Клечоров",
+      "shirina": 42.654914,
+      "dalzhina": 23.37275,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 118,
+      "ime": "Д-р Костова и д-р Тодорова",
+      "shirina": 42.833721,
+      "dalzhina": 22.654859,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 119,
+      "ime": "Д-р Крушарски",
+      "shirina": 42.669157,
+      "dalzhina": 23.274699,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 120,
+      "ime": "Д-р М. Маркова",
+      "shirina": 42.690262,
+      "dalzhina": 23.31518,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 121,
+      "ime": "Д-р Максим Митев",
+      "shirina": 42.661343,
+      "dalzhina": 23.278277,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 122,
+      "ime": "Д-р Мария Велева-Якова",
+      "shirina": 41.397858,
+      "dalzhina": 23.201972,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 123,
+      "ime": "Д-р Маруся Катева",
+      "shirina": 43.207508,
+      "dalzhina": 27.900754,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 124,
+      "ime": "Д-р Мечкарови",
+      "shirina": 42.160984,
+      "dalzhina": 24.735808,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 125,
+      "ime": "Д-р Милева",
+      "shirina": 42.666013,
+      "dalzhina": 23.292215,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 126,
+      "ime": "Д-р Мирена Гугуткова",
+      "shirina": 42.495531,
+      "dalzhina": 27.474806,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 127,
+      "ime": "Д-р Мирослав Спасов",
+      "shirina": 42.631835,
+      "dalzhina": 23.312338,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 128,
+      "ime": "Д-р Никола Поптодоров",
+      "shirina": 42.680599,
+      "dalzhina": 23.325642,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 129,
+      "ime": "Д-р Нина Тодорова",
+      "shirina": 43.068359,
+      "dalzhina": 25.61219,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 130,
+      "ime": "Д-р Опаранови",
+      "shirina": 42.687114,
+      "dalzhina": 23.305046,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 131,
+      "ime": "Д-р Павлина Джамбазова",
+      "shirina": 42.631927,
+      "dalzhina": 23.312291,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 132,
+      "ime": "Д-р Павлова",
+      "shirina": 42.654906,
+      "dalzhina": 23.372741,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 133,
+      "ime": "Д-р Патрикова",
+      "shirina": 42.699227,
+      "dalzhina": 23.310724,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 134,
+      "ime": "Д-р Пащиева (невролог)",
+      "shirina": 43.566979,
+      "dalzhina": 27.820049,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 135,
+      "ime": "Д-р Петър Самарев",
+      "shirina": 42.676494,
+      "dalzhina": 23.301361,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 136,
+      "ime": "Д-р Пламен Стефанов Попов",
+      "shirina": 42.653918,
+      "dalzhina": 23.330015,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 137,
+      "ime": "Д-р Попова",
+      "shirina": 42.668111,
+      "dalzhina": 23.284603,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 138,
+      "ime": "Д-р Радев",
+      "shirina": 42.673982,
+      "dalzhina": 23.284761,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 139,
+      "ime": "Д-р Райна Томова",
+      "shirina": 42.670884,
+      "dalzhina": 23.314231,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 140,
+      "ime": "Д-р Русков",
+      "shirina": 41.842447,
+      "dalzhina": 23.483239,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 141,
+      "ime": "Д-р Сашка Йорданова",
+      "shirina": 42.676385,
+      "dalzhina": 23.292476,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 142,
+      "ime": "Д-р Сибирски",
+      "shirina": 42.671701,
+      "dalzhina": 23.293662,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 143,
+      "ime": "Д-р Симона Пантелеева",
+      "shirina": 42.680727,
+      "dalzhina": 23.326593,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 144,
+      "ime": "Д-р Сюзан Арифова",
+      "shirina": 43.636703,
+      "dalzhina": 24.851737,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 145,
+      "ime": "Д-р Талева",
+      "shirina": 42.666491,
+      "dalzhina": 23.319777,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 146,
+      "ime": "Д-р Таня Калинова",
+      "shirina": 42.673971,
+      "dalzhina": 23.282873,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 147,
+      "ime": "Д-р Хайтови",
+      "shirina": 42.132876,
+      "dalzhina": 24.78772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 148,
+      "ime": "Д-р Чалашканов",
+      "shirina": 42.67966,
+      "dalzhina": 23.287357,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 149,
+      "ime": "Д-р Чалманов",
+      "shirina": 42.67281,
+      "dalzhina": 23.316771,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 150,
+      "ime": "Д-р Юксел Ахмед",
+      "shirina": 43.827583,
+      "dalzhina": 27.143046,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 151,
+      "ime": "Д-р Юли Цветков",
+      "shirina": 43.384602,
+      "dalzhina": 22.882795,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 152,
+      "ime": "Д-р Ямболиева",
+      "shirina": 42.675944,
+      "dalzhina": 23.299464,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 153,
+      "ime": "Д-р. Иван Кючуков",
+      "shirina": 42.686592,
+      "dalzhina": 23.301169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 154,
+      "ime": "Д-рНелкова",
+      "shirina": 42.522225,
+      "dalzhina": 27.4557,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 155,
+      "ime": "Детски кабинет Южен Парк",
+      "shirina": 42.672048,
+      "dalzhina": 23.310436,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 156,
+      "ime": "Детско-юношеска психиатрична клиника",
+      "shirina": 42.660246,
+      "dalzhina": 23.256405,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 157,
+      "ime": "Диана Василева",
+      "shirina": 42.687481,
+      "dalzhina": 23.303595,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 158,
+      "ime": "Доктор",
+      "shirina": 41.380604,
+      "dalzhina": 25.255079,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 159,
+      "ime": "Доц. Николай Белев",
+      "shirina": 42.143427,
+      "dalzhina": 24.757103,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 160,
+      "ime": "Др. Колева",
+      "shirina": 43.075897,
+      "dalzhina": 25.623107,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 161,
+      "ime": "Ертоп Хюсеин",
+      "shirina": 43.820152,
+      "dalzhina": 27.144917,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 162,
+      "ime": "Здравна Служба",
+      "shirina": 43.602597,
+      "dalzhina": 24.996713,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 163,
+      "ime": "Здравна служба",
+      "shirina": 41.38059,
+      "dalzhina": 25.255399,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 164,
+      "ime": "Здравна служба",
+      "shirina": 42.182194,
+      "dalzhina": 24.86436,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 165,
+      "ime": "Здравна служба",
+      "shirina": 42.258625,
+      "dalzhina": 26.627572,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 166,
+      "ime": "Здравна служба",
+      "shirina": 42.310142,
+      "dalzhina": 25.672951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 167,
+      "ime": "Здравна служба",
+      "shirina": 42.351165,
+      "dalzhina": 25.965518,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 168,
+      "ime": "Здравна служба",
+      "shirina": 42.355679,
+      "dalzhina": 25.837346,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 169,
+      "ime": "Здравна служба",
+      "shirina": 42.386698,
+      "dalzhina": 26.818211,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 170,
+      "ime": "Здравна служба",
+      "shirina": 42.420495,
+      "dalzhina": 25.238706,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 171,
+      "ime": "Здравна служба",
+      "shirina": 42.541234,
+      "dalzhina": 25.448585,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 172,
+      "ime": "Здравна служба",
+      "shirina": 42.560493,
+      "dalzhina": 25.415354,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 173,
+      "ime": "Здравна служба",
+      "shirina": 42.572639,
+      "dalzhina": 25.182751,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 174,
+      "ime": "Здравна служба",
+      "shirina": 42.572936,
+      "dalzhina": 25.543722,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 175,
+      "ime": "Здравна служба",
+      "shirina": 42.588251,
+      "dalzhina": 25.81483,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 176,
+      "ime": "Здравна служба",
+      "shirina": 42.596537,
+      "dalzhina": 23.111366,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 177,
+      "ime": "Здравна служба",
+      "shirina": 42.634371,
+      "dalzhina": 25.232532,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 178,
+      "ime": "Здравна служба",
+      "shirina": 42.655324,
+      "dalzhina": 25.197959,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 179,
+      "ime": "Здравна служба",
+      "shirina": 42.667729,
+      "dalzhina": 25.409823,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 180,
+      "ime": "Здравна служба",
+      "shirina": 42.709795,
+      "dalzhina": 25.336169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 181,
+      "ime": "Здравна служба",
+      "shirina": 42.864747,
+      "dalzhina": 23.36859,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 182,
+      "ime": "Здравна служба",
+      "shirina": 43.612305,
+      "dalzhina": 24.941619,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 183,
+      "ime": "Здравна служба",
+      "shirina": 43.712961,
+      "dalzhina": 26.040366,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 184,
+      "ime": "Здравна служба",
+      "shirina": 43.733542,
+      "dalzhina": 27.646217,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 185,
+      "ime": "Здравна служба с.Лозен",
+      "shirina": 42.602024,
+      "dalzhina": 23.486802,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 186,
+      "ime": "Здравпункт",
+      "shirina": 41.505156,
+      "dalzhina": 24.731338,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 187,
+      "ime": "Ивайло Динков",
+      "shirina": 42.660428,
+      "dalzhina": 23.299368,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 188,
+      "ime": "Иво Близнашки",
+      "shirina": 42.698999,
+      "dalzhina": 23.302474,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 189,
+      "ime": "Индивидуална практика за специализирана медицинска помощ по психиатрия / ИПСМП по психиатрия/ Д-р Керстин Кацарска",
+      "shirina": 42.016838,
+      "dalzhina": 23.095944,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 190,
+      "ime": "Институтска СБАЛ по ендокринология, нефрология и геронтология",
+      "shirina": 42.696407,
+      "dalzhina": 23.313985,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 191,
+      "ime": "Ира Маркова",
+      "shirina": 42.666508,
+      "dalzhina": 23.319762,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 192,
+      "ime": "Кабинет \"Детско развитие\"",
+      "shirina": 42.66438,
+      "dalzhina": 23.298331,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 193,
+      "ime": "Касърова",
+      "shirina": 43.854429,
+      "dalzhina": 25.964577,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 194,
+      "ime": "Клиника Вистамед",
+      "shirina": 42.672371,
+      "dalzhina": 23.284926,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 195,
+      "ime": "Кожно-венерически заболявания ЕООД",
+      "shirina": 42.664914,
+      "dalzhina": 23.296706,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 196,
+      "ime": "Л-мед",
+      "shirina": 42.670911,
+      "dalzhina": 23.333637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 197,
+      "ime": "Лаборатория Кандиларов",
+      "shirina": 42.686045,
+      "dalzhina": 23.312491,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 198,
+      "ime": "Лекарска къща Възраждане",
+      "shirina": 42.497442,
+      "dalzhina": 27.461585,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 199,
+      "ime": "Лилия Методиева",
+      "shirina": 42.673446,
+      "dalzhina": 23.318627,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 200,
+      "ime": "Логопед",
+      "shirina": 42.694416,
+      "dalzhina": 23.360734,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 201,
+      "ime": "Луксор",
+      "shirina": 42.158498,
+      "dalzhina": 24.740855,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 202,
+      "ime": "Люлин мед",
+      "shirina": 42.685062,
+      "dalzhina": 23.315355,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 203,
+      "ime": "МБАЛ \"Тримонцуим\"",
+      "shirina": 42.140313,
+      "dalzhina": 24.751514,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 204,
+      "ime": "МЦ Бадемова гора",
+      "shirina": 42.66905,
+      "dalzhina": 23.301041,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 205,
+      "ime": "МЦ Мед Консулт",
+      "shirina": 42.496963,
+      "dalzhina": 27.46405,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 206,
+      "ime": "Малчовците",
+      "shirina": 42.657866,
+      "dalzhina": 23.282576,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 207,
+      "ime": "Мамолог - Д-р Иван Инков",
+      "shirina": 42.622282,
+      "dalzhina": 23.374756,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 208,
+      "ime": "Мамолог - Д-р Иван Инков",
+      "shirina": 42.662429,
+      "dalzhina": 23.380284,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 209,
+      "ime": "Марина Панева",
+      "shirina": 42.664148,
+      "dalzhina": 23.315781,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 210,
+      "ime": "Медастра",
+      "shirina": 42.68004,
+      "dalzhina": 23.285331,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 211,
+      "ime": "Медик Консулт",
+      "shirina": 43.854881,
+      "dalzhina": 25.963811,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 212,
+      "ime": "Медикаконсулторто",
+      "shirina": 42.687672,
+      "dalzhina": 23.304496,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 213,
+      "ime": "Медико-диагностична лаборатория Кандиларов",
+      "shirina": 42.686325,
+      "dalzhina": 23.316375,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 214,
+      "ime": "Медихоуп",
+      "shirina": 42.160159,
+      "dalzhina": 24.731634,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 215,
+      "ime": "Медицинская помощь",
+      "shirina": 42.704182,
+      "dalzhina": 27.793176,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 216,
+      "ime": "Медицински Център Балканмед",
+      "shirina": 42.701779,
+      "dalzhina": 23.323937,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 217,
+      "ime": "Медицински Център Св. Николай",
+      "shirina": 42.691099,
+      "dalzhina": 27.709926,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 218,
+      "ime": "Медицински Център Тара",
+      "shirina": 43.080262,
+      "dalzhina": 25.631185,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 219,
+      "ime": "Медицински център",
+      "shirina": 42.596696,
+      "dalzhina": 25.204991,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 220,
+      "ime": "Медицински център \"Ритъм\"",
+      "shirina": 42.423762,
+      "dalzhina": 25.628059,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 221,
+      "ime": "Медицински център \"Св. Пантелеймон\"",
+      "shirina": 42.425069,
+      "dalzhina": 25.636604,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 222,
+      "ime": "Медицински център FiHealth",
+      "shirina": 42.650855,
+      "dalzhina": 23.340501,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 223,
+      "ime": "Медицински център Анаста",
+      "shirina": 42.674306,
+      "dalzhina": 23.370035,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 224,
+      "ime": "Медицински център Гина",
+      "shirina": 42.686344,
+      "dalzhina": 23.313963,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 225,
+      "ime": "Медицински център Гургулят",
+      "shirina": 42.694408,
+      "dalzhina": 23.311626,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 226,
+      "ime": "Медицински център Д-р Й. С. Грийнберг",
+      "shirina": 42.673835,
+      "dalzhina": 23.368201,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 227,
+      "ime": "Медицински център Деца с проблеми в развитието",
+      "shirina": 42.650804,
+      "dalzhina": 23.345255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 228,
+      "ime": "Медицински център Лора",
+      "shirina": 42.690745,
+      "dalzhina": 23.31484,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 229,
+      "ime": "Медицински център Панацея",
+      "shirina": 42.68636,
+      "dalzhina": 23.30727,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 230,
+      "ime": "Медицински център Покров Богородичен",
+      "shirina": 42.681907,
+      "dalzhina": 23.324483,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 231,
+      "ime": "Медицински център д-р Стайков",
+      "shirina": 42.529472,
+      "dalzhina": 27.456893,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 232,
+      "ime": "Метаморфоза",
+      "shirina": 42.693711,
+      "dalzhina": 23.313813,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 233,
+      "ime": "Моето здраве",
+      "shirina": 42.670879,
+      "dalzhina": 23.288186,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 234,
+      "ime": "Национален център за здравна информация",
+      "shirina": 42.682465,
+      "dalzhina": 23.302142,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 235,
+      "ime": "Национален център по наркомании",
+      "shirina": 42.696007,
+      "dalzhina": 23.224368,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 236,
+      "ime": "Национален център по хематология и трансфузиология",
+      "shirina": 42.660486,
+      "dalzhina": 23.35936,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 237,
+      "ime": "Невролог Д-р Юлияна Данаилова",
+      "shirina": 42.42671,
+      "dalzhina": 25.621409,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 238,
+      "ime": "Неврологичен кабинет д-р Бързински",
+      "shirina": 42.160852,
+      "dalzhina": 24.741098,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 239,
+      "ime": "Областен диспансер за психични болести",
+      "shirina": 42.705571,
+      "dalzhina": 23.332999,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 240,
+      "ime": "Областен диспансер по белодробни болести",
+      "shirina": 42.705911,
+      "dalzhina": 23.333494,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 241,
+      "ime": "Областен кожновенерологичен диспансер",
+      "shirina": 42.705671,
+      "dalzhina": 23.333091,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 242,
+      "ime": "Орбидент",
+      "shirina": 42.700054,
+      "dalzhina": 23.312105,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 243,
+      "ime": "Очен доктор",
+      "shirina": 41.380762,
+      "dalzhina": 25.2553,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 244,
+      "ime": "Очна клиника \"Трошев\"",
+      "shirina": 42.430401,
+      "dalzhina": 25.624419,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 245,
+      "ime": "Очна клиника Света Петка",
+      "shirina": 43.08116,
+      "dalzhina": 25.625669,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 246,
+      "ime": "Очна оптика и корекция АД",
+      "shirina": 42.708169,
+      "dalzhina": 23.32057,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 247,
+      "ime": "ПТБ-МЕД",
+      "shirina": 42.71095,
+      "dalzhina": 23.272809,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 248,
+      "ime": "Петинка Цветкова",
+      "shirina": 43.208148,
+      "dalzhina": 27.889903,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 249,
+      "ime": "Поликлиника",
+      "shirina": 42.459099,
+      "dalzhina": 27.422324,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 250,
+      "ime": "Проф. Д-р Милко Сираков",
+      "shirina": 42.693439,
+      "dalzhina": 23.314121,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 251,
+      "ime": "Проф. Румен Пандев д.м.",
+      "shirina": 42.67436,
+      "dalzhina": 23.284467,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 252,
+      "ime": "Проф. д-р Георги Чернев",
+      "shirina": 42.690052,
+      "dalzhina": 23.313616,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 253,
+      "ime": "Психотест",
+      "shirina": 42.72085,
+      "dalzhina": 23.25756,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 254,
+      "ime": "Ринопластика Д-р Кулов",
+      "shirina": 42.131104,
+      "dalzhina": 24.720903,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 255,
+      "ime": "СЕЛСКИ ЗДРАВЕН УЧАСТЪК",
+      "shirina": 41.930921,
+      "dalzhina": 23.001711,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 256,
+      "ime": "Св. Пантелеймон",
+      "shirina": 42.686737,
+      "dalzhina": 23.314092,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 257,
+      "ime": "Синапс плюс",
+      "shirina": 42.672431,
+      "dalzhina": 23.332299,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 258,
+      "ime": "Специализирана болница за долекуване, продължително лечение и рехабилитация на деца с церебрална парализа \"Света София\"",
+      "shirina": 42.693929,
+      "dalzhina": 23.292338,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 259,
+      "ime": "Специализирана болница за рехабилитация",
+      "shirina": 42.599772,
+      "dalzhina": 25.211378,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 260,
+      "ime": "Специалист вътрешни болести Д-р Бедросян",
+      "shirina": 43.215271,
+      "dalzhina": 27.916255,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 261,
+      "ime": "Сърдечно-съдов Център “Кардиопревент”",
+      "shirina": 42.662573,
+      "dalzhina": 23.380397,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 262,
+      "ime": "Т. Монов",
+      "shirina": 42.67698,
+      "dalzhina": 23.286491,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 263,
+      "ime": "ТЕЛК - IV МБАЛ",
+      "shirina": 42.672294,
+      "dalzhina": 23.283891,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 264,
+      "ime": "ТЕЛК - УМБАЛ Св. Анна",
+      "shirina": 42.659605,
+      "dalzhina": 23.373594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 265,
+      "ime": "Уролог Д-р Василев",
+      "shirina": 42.426155,
+      "dalzhina": 25.611241,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 266,
+      "ime": "Физиотерапия",
+      "shirina": 42.674161,
+      "dalzhina": 23.292485,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 267,
+      "ime": "Хелиос",
+      "shirina": 43.214332,
+      "dalzhina": 27.916156,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 268,
+      "ime": "Хипократ-Н",
+      "shirina": 42.158903,
+      "dalzhina": 24.738588,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 269,
+      "ime": "Център за Лечение на Хемороиди и анална фисура Д-р МАТЕВ",
+      "shirina": 42.42648,
+      "dalzhina": 25.622305,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 270,
+      "ime": "Център за зрение д-р Групчеви",
+      "shirina": 43.220791,
+      "dalzhina": 27.920984,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 271,
+      "ime": "Център за рехабилитация Диел",
+      "shirina": 42.68921,
+      "dalzhina": 23.307165,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 272,
+      "ime": "Център за хемодиализа на диабетно болни",
+      "shirina": 42.696494,
+      "dalzhina": 23.314214,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 273,
+      "ime": "Юлия Тасевска",
+      "shirina": 43.212922,
+      "dalzhina": 27.90211,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 274,
+      "ime": "Яна Аврамова Атанасова",
+      "shirina": 42.642751,
+      "dalzhina": 23.368966,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 275,
+      "ime": "Янчо Делчев",
+      "shirina": 42.674067,
+      "dalzhina": 23.322267,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 276,
+      "ime": "д-р Антония Бакалова",
+      "shirina": 42.699712,
+      "dalzhina": 23.315696,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 277,
+      "ime": "д-р Галина Бодичева",
+      "shirina": 43.568405,
+      "dalzhina": 27.828102,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 278,
+      "ime": "д-р Галина Горанова",
+      "shirina": 43.573395,
+      "dalzhina": 27.829258,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 279,
+      "ime": "д-р Галина Христова (педиатър)",
+      "shirina": 43.211192,
+      "dalzhina": 27.924602,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 280,
+      "ime": "д-р Йовко Нанев",
+      "shirina": 42.419385,
+      "dalzhina": 25.626092,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 281,
+      "ime": "д-р Малева",
+      "shirina": 42.42356,
+      "dalzhina": 25.614588,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 282,
+      "ime": "д-р Митко Желязков",
+      "shirina": 43.568416,
+      "dalzhina": 27.828118,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 283,
+      "ime": "д-р Нецов",
+      "shirina": 42.677368,
+      "dalzhina": 23.306463,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 284,
+      "ime": "д-р Петър Руев",
+      "shirina": 42.429155,
+      "dalzhina": 25.633256,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 285,
+      "ime": "д-р Румен Накев",
+      "shirina": 43.570593,
+      "dalzhina": 27.81772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    },
+    {
+      "id": 286,
+      "ime": "здравна служба",
+      "shirina": 43.407845,
+      "dalzhina": 25.880878,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "doctors",
+      "osm_klas": "amenity=doctors"
+    }
+  ],
+  "meta": {
+    "title": "Лекарски практики в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Лекарски практики в България — 286 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=doctors`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 286 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Лекарски практики в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Лекарски практики в България (OpenStreetMap) — 286 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 286 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

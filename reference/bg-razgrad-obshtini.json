@@ -1,0 +1,220 @@
+{
+  "id": "bg-razgrad-obshtini",
+  "name": "Общини — област Разград (Municipalities of Razgrad)",
+  "title": "Общини — област Разград (Municipalities of Razgrad)",
+  "description": "Списък на общините в област Разград (Razgrad oblast). 7 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс RAZ. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 48,
+      "gisco_id": "BG_RAZ11",
+      "oblast_code": "RAZ",
+      "oblast_slug": "razgrad",
+      "oblast_bg": "Разград",
+      "oblast_en": "Razgrad",
+      "name_bg": "Завет",
+      "name_en": "",
+      "slug": "zavet",
+      "population_2024": 7793,
+      "population_density_2024_per_km2": 28.45242326,
+      "area_km2": 273.89582706,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://zavet-bg.com/zavetbgcom/e107_files/downloads/pr_risk_2125.pdf",
+      "comment": ""
+    },
+    {
+      "id": 49,
+      "gisco_id": "BG_RAZ14",
+      "oblast_code": "RAZ",
+      "oblast_slug": "razgrad",
+      "oblast_bg": "Разград",
+      "oblast_en": "Razgrad",
+      "name_bg": "Исперих",
+      "name_en": "Isperih",
+      "slug": "isperih",
+      "population_2024": 18843,
+      "population_density_2024_per_km2": 46.85924272,
+      "area_km2": 402.11917453,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 50,
+      "gisco_id": "BG_RAZ16",
+      "oblast_code": "RAZ",
+      "oblast_slug": "razgrad",
+      "oblast_bg": "Разград",
+      "oblast_en": "Razgrad",
+      "name_bg": "Кубрат",
+      "name_en": "",
+      "slug": "kubrat",
+      "population_2024": 13704,
+      "population_density_2024_per_km2": 31.64768471,
+      "area_km2": 433.01745852,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.kubrat.bg/bg/practs/2024/plan_disaster_protection_2023.pdf",
+      "comment": ""
+    },
+    {
+      "id": 51,
+      "gisco_id": "BG_RAZ17",
+      "oblast_code": "RAZ",
+      "oblast_slug": "razgrad",
+      "oblast_bg": "Разград",
+      "oblast_en": "Razgrad",
+      "name_bg": "Лозница",
+      "name_en": "",
+      "slug": "loznica",
+      "population_2024": 7602,
+      "population_density_2024_per_km2": 31.59600728,
+      "area_km2": 240.6000205,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://old.loznitsa.bg/viewpage.php?page_id=45",
+      "comment": ""
+    },
+    {
+      "id": 52,
+      "gisco_id": "BG_RAZ26",
+      "oblast_code": "RAZ",
+      "oblast_slug": "razgrad",
+      "oblast_bg": "Разград",
+      "oblast_en": "Razgrad",
+      "name_bg": "Разград",
+      "name_en": "",
+      "slug": "razgrad",
+      "population_2024": 42507,
+      "population_density_2024_per_km2": 65.12553164,
+      "area_km2": 652.69332829,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.razgrad.bg/%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B0-%D0%B0%D0%B4%D0%BC%D0%B8%D0%",
+      "comment": ""
+    },
+    {
+      "id": 53,
+      "gisco_id": "BG_RAZ29",
+      "oblast_code": "RAZ",
+      "oblast_slug": "razgrad",
+      "oblast_bg": "Разград",
+      "oblast_en": "Razgrad",
+      "name_bg": "Самуил",
+      "name_en": "",
+      "slug": "samuil",
+      "population_2024": 5862,
+      "population_density_2024_per_km2": 23.41777576,
+      "area_km2": 250.32266346,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://samuil.bg/images/profil-kupuvach/razni/%D0%BF%D0%BB%D0%B0%D0%BD%20%D0%B7%D0%B0%20%D0%B7%D0%B",
+      "comment": ""
+    },
+    {
+      "id": 61,
+      "gisco_id": "BG_RAZ36",
+      "oblast_code": "RAZ",
+      "oblast_slug": "razgrad",
+      "oblast_bg": "Разград",
+      "oblast_en": "Razgrad",
+      "name_bg": "Цар Калоян",
+      "name_en": "",
+      "slug": "car-kaloyan",
+      "population_2024": 4385,
+      "population_density_2024_per_km2": 27.18340155,
+      "area_km2": 161.31167368,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://tsarkaloyan.bg/images/FILES/Obyavleniya/%D0%9E%D0%91%D0%A9%D0%98%D0%9D%D0%A1%D0%9A%D0%90_%D0",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Разград (Municipalities of Razgrad) - Безплатно изтегляне",
+    "description": "Списък на общините в област Разград (Razgrad oblast). 7 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс RAZ. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Разград (Municipalities of Razgrad) | ListBase",
+    "seo_description": "Изтеглете Общини — област Разград (Municipalities of Razgrad) — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

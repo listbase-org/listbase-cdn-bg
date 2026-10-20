@@ -1,0 +1,2581 @@
+{
+  "id": "bg-osm-shop-telecommunication",
+  "name": "Магазини за телекомуникации в България (OpenStreetMap)",
+  "title": "Магазини за телекомуникации в България (OpenStreetMap)",
+  "description": "Магазини за телекомуникации в България — 280 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=telecommunication`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 280,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "A1",
+      "shirina": 41.571389,
+      "dalzhina": 23.729309,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 2,
+      "ime": "A1",
+      "shirina": 41.578503,
+      "dalzhina": 24.695115,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 3,
+      "ime": "A1",
+      "shirina": 41.644022,
+      "dalzhina": 25.36653,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 4,
+      "ime": "A1",
+      "shirina": 41.644757,
+      "dalzhina": 25.368753,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 5,
+      "ime": "A1",
+      "shirina": 41.742837,
+      "dalzhina": 24.39442,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 6,
+      "ime": "A1",
+      "shirina": 42.020174,
+      "dalzhina": 23.100327,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 7,
+      "ime": "A1",
+      "shirina": 42.025557,
+      "dalzhina": 23.991196,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 8,
+      "ime": "A1",
+      "shirina": 42.126615,
+      "dalzhina": 24.740246,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 9,
+      "ime": "A1",
+      "shirina": 42.14157,
+      "dalzhina": 24.740996,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 10,
+      "ime": "A1",
+      "shirina": 42.144999,
+      "dalzhina": 24.756542,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 11,
+      "ime": "A1",
+      "shirina": 42.145194,
+      "dalzhina": 24.731824,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 12,
+      "ime": "A1",
+      "shirina": 42.145624,
+      "dalzhina": 24.749136,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 13,
+      "ime": "A1",
+      "shirina": 42.150194,
+      "dalzhina": 24.746907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 14,
+      "ime": "A1",
+      "shirina": 42.158779,
+      "dalzhina": 24.743969,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 15,
+      "ime": "A1",
+      "shirina": 42.166256,
+      "dalzhina": 24.749114,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 16,
+      "ime": "A1",
+      "shirina": 42.264232,
+      "dalzhina": 23.114086,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 17,
+      "ime": "A1",
+      "shirina": 42.266461,
+      "dalzhina": 27.748596,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 18,
+      "ime": "A1",
+      "shirina": 42.424151,
+      "dalzhina": 25.624931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 19,
+      "ime": "A1",
+      "shirina": 42.425043,
+      "dalzhina": 25.629853,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 20,
+      "ime": "A1",
+      "shirina": 42.426071,
+      "dalzhina": 25.630284,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 21,
+      "ime": "A1",
+      "shirina": 42.494749,
+      "dalzhina": 27.472106,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 22,
+      "ime": "A1",
+      "shirina": 42.495767,
+      "dalzhina": 27.471387,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 23,
+      "ime": "A1",
+      "shirina": 42.50344,
+      "dalzhina": 24.703437,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 24,
+      "ime": "A1",
+      "shirina": 42.503449,
+      "dalzhina": 27.473779,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 25,
+      "ime": "A1",
+      "shirina": 42.547541,
+      "dalzhina": 22.965136,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 26,
+      "ime": "A1",
+      "shirina": 42.618589,
+      "dalzhina": 25.393896,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 27,
+      "ime": "A1",
+      "shirina": 42.618677,
+      "dalzhina": 25.395826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 28,
+      "ime": "A1",
+      "shirina": 42.624038,
+      "dalzhina": 23.352238,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 29,
+      "ime": "A1",
+      "shirina": 42.644926,
+      "dalzhina": 23.342248,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 30,
+      "ime": "A1",
+      "shirina": 42.652636,
+      "dalzhina": 23.37343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 31,
+      "ime": "A1",
+      "shirina": 42.653418,
+      "dalzhina": 23.342465,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 32,
+      "ime": "A1",
+      "shirina": 42.653573,
+      "dalzhina": 24.756368,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 33,
+      "ime": "A1",
+      "shirina": 42.65721,
+      "dalzhina": 23.313707,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 34,
+      "ime": "A1",
+      "shirina": 42.660502,
+      "dalzhina": 23.383002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 35,
+      "ime": "A1",
+      "shirina": 42.663809,
+      "dalzhina": 27.716576,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 36,
+      "ime": "A1",
+      "shirina": 42.664463,
+      "dalzhina": 23.28851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 37,
+      "ime": "A1",
+      "shirina": 42.670495,
+      "dalzhina": 23.600249,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 38,
+      "ime": "A1",
+      "shirina": 42.670757,
+      "dalzhina": 23.273183,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 39,
+      "ime": "A1",
+      "shirina": 42.674737,
+      "dalzhina": 23.359274,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 40,
+      "ime": "A1",
+      "shirina": 42.678085,
+      "dalzhina": 23.285408,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 41,
+      "ime": "A1",
+      "shirina": 42.678505,
+      "dalzhina": 23.320462,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 42,
+      "ime": "A1",
+      "shirina": 42.687493,
+      "dalzhina": 23.318243,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 43,
+      "ime": "A1",
+      "shirina": 42.688454,
+      "dalzhina": 23.254739,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 44,
+      "ime": "A1",
+      "shirina": 42.691261,
+      "dalzhina": 23.324956,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 45,
+      "ime": "A1",
+      "shirina": 42.691367,
+      "dalzhina": 23.311883,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 46,
+      "ime": "A1",
+      "shirina": 42.693918,
+      "dalzhina": 27.709124,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 47,
+      "ime": "A1",
+      "shirina": 42.695944,
+      "dalzhina": 23.287023,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 48,
+      "ime": "A1",
+      "shirina": 42.696172,
+      "dalzhina": 23.348824,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 49,
+      "ime": "A1",
+      "shirina": 42.698131,
+      "dalzhina": 23.331036,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 50,
+      "ime": "A1",
+      "shirina": 42.698182,
+      "dalzhina": 23.309176,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 51,
+      "ime": "A1",
+      "shirina": 42.700061,
+      "dalzhina": 23.321634,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 52,
+      "ime": "A1",
+      "shirina": 42.701987,
+      "dalzhina": 23.359429,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 53,
+      "ime": "A1",
+      "shirina": 42.703447,
+      "dalzhina": 27.254154,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 54,
+      "ime": "A1",
+      "shirina": 42.706009,
+      "dalzhina": 23.324067,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 55,
+      "ime": "A1",
+      "shirina": 42.70967,
+      "dalzhina": 23.293533,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 56,
+      "ime": "A1",
+      "shirina": 42.710519,
+      "dalzhina": 23.257753,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 57,
+      "ime": "A1",
+      "shirina": 42.711513,
+      "dalzhina": 23.302628,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 58,
+      "ime": "A1",
+      "shirina": 42.712941,
+      "dalzhina": 23.268332,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 59,
+      "ime": "A1",
+      "shirina": 42.71653,
+      "dalzhina": 23.250432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 60,
+      "ime": "A1",
+      "shirina": 42.717725,
+      "dalzhina": 23.339094,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 61,
+      "ime": "A1",
+      "shirina": 42.726321,
+      "dalzhina": 23.302035,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 62,
+      "ime": "A1",
+      "shirina": 42.739896,
+      "dalzhina": 23.316994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 63,
+      "ime": "A1",
+      "shirina": 42.74151,
+      "dalzhina": 23.276804,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 64,
+      "ime": "A1",
+      "shirina": 42.810279,
+      "dalzhina": 23.217202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 65,
+      "ime": "A1",
+      "shirina": 42.87244,
+      "dalzhina": 25.31907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 66,
+      "ime": "A1",
+      "shirina": 42.88667,
+      "dalzhina": 24.712682,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 67,
+      "ime": "A1",
+      "shirina": 42.889708,
+      "dalzhina": 26.44345,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 68,
+      "ime": "A1",
+      "shirina": 42.907328,
+      "dalzhina": 23.792879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 69,
+      "ime": "A1",
+      "shirina": 43.075495,
+      "dalzhina": 25.621482,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 70,
+      "ime": "A1",
+      "shirina": 43.080518,
+      "dalzhina": 25.630061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 71,
+      "ime": "A1",
+      "shirina": 43.108492,
+      "dalzhina": 26.417516,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 72,
+      "ime": "A1",
+      "shirina": 43.140346,
+      "dalzhina": 24.718542,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 73,
+      "ime": "A1",
+      "shirina": 43.180966,
+      "dalzhina": 27.443084,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 74,
+      "ime": "A1",
+      "shirina": 43.206169,
+      "dalzhina": 24.163676,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 75,
+      "ime": "A1",
+      "shirina": 43.208849,
+      "dalzhina": 27.904227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 76,
+      "ime": "A1",
+      "shirina": 43.208925,
+      "dalzhina": 27.919186,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 77,
+      "ime": "A1",
+      "shirina": 43.209391,
+      "dalzhina": 27.909055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 78,
+      "ime": "A1",
+      "shirina": 43.212976,
+      "dalzhina": 27.923372,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 79,
+      "ime": "A1",
+      "shirina": 43.21691,
+      "dalzhina": 27.89769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 80,
+      "ime": "A1",
+      "shirina": 43.223052,
+      "dalzhina": 27.872533,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 81,
+      "ime": "A1",
+      "shirina": 43.244931,
+      "dalzhina": 27.980994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 82,
+      "ime": "A1",
+      "shirina": 43.250768,
+      "dalzhina": 26.571396,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 83,
+      "ime": "A1",
+      "shirina": 43.41972,
+      "dalzhina": 24.613742,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 84,
+      "ime": "A1",
+      "shirina": 43.495414,
+      "dalzhina": 24.079681,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 85,
+      "ime": "A1",
+      "shirina": 43.569344,
+      "dalzhina": 27.829979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 86,
+      "ime": "A1",
+      "shirina": 43.569497,
+      "dalzhina": 27.827388,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 87,
+      "ime": "A1",
+      "shirina": 43.823507,
+      "dalzhina": 27.141012,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 88,
+      "ime": "A1",
+      "shirina": 43.832389,
+      "dalzhina": 25.968907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 89,
+      "ime": "Black peak",
+      "shirina": 42.66456,
+      "dalzhina": 23.317256,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 90,
+      "ime": "DC Corporation",
+      "shirina": 42.125465,
+      "dalzhina": 24.736987,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 91,
+      "ime": "M SAT",
+      "shirina": 43.213557,
+      "dalzhina": 27.904766,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 92,
+      "ime": "NETGUARD",
+      "shirina": 42.043301,
+      "dalzhina": 24.46747,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 93,
+      "ime": "NetLan",
+      "shirina": 43.195179,
+      "dalzhina": 23.56761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 94,
+      "ime": "Optic-com",
+      "shirina": 42.666766,
+      "dalzhina": 23.266313,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 95,
+      "ime": "Optic.com",
+      "shirina": 42.671781,
+      "dalzhina": 23.261095,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 96,
+      "ime": "ProLan",
+      "shirina": 42.614771,
+      "dalzhina": 23.338951,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 97,
+      "ime": "SKAT-Retecom OOD",
+      "shirina": 42.715201,
+      "dalzhina": 27.753649,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 98,
+      "ime": "SkyNet",
+      "shirina": 42.669215,
+      "dalzhina": 23.274734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 99,
+      "ime": "Skynet",
+      "shirina": 42.679628,
+      "dalzhina": 23.299646,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 100,
+      "ime": "TV Net",
+      "shirina": 42.664445,
+      "dalzhina": 23.292351,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 101,
+      "ime": "TVNet",
+      "shirina": 42.662554,
+      "dalzhina": 23.302315,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 102,
+      "ime": "Vivacom",
+      "shirina": 41.498895,
+      "dalzhina": 24.939242,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 103,
+      "ime": "Vivacom",
+      "shirina": 41.644351,
+      "dalzhina": 25.368634,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 104,
+      "ime": "Vivacom",
+      "shirina": 41.742807,
+      "dalzhina": 24.398693,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 105,
+      "ime": "Vivacom",
+      "shirina": 41.931809,
+      "dalzhina": 25.558798,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 106,
+      "ime": "Vivacom",
+      "shirina": 42.020173,
+      "dalzhina": 23.094376,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 107,
+      "ime": "Vivacom",
+      "shirina": 42.02581,
+      "dalzhina": 23.991188,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 108,
+      "ime": "Vivacom",
+      "shirina": 42.058827,
+      "dalzhina": 25.587371,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 109,
+      "ime": "Vivacom",
+      "shirina": 42.124977,
+      "dalzhina": 24.738469,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 110,
+      "ime": "Vivacom",
+      "shirina": 42.141481,
+      "dalzhina": 24.74101,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 111,
+      "ime": "Vivacom",
+      "shirina": 42.144743,
+      "dalzhina": 24.755621,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 112,
+      "ime": "Vivacom",
+      "shirina": 42.145136,
+      "dalzhina": 24.781431,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 113,
+      "ime": "Vivacom",
+      "shirina": 42.145686,
+      "dalzhina": 24.731555,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 114,
+      "ime": "Vivacom",
+      "shirina": 42.149262,
+      "dalzhina": 24.747328,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 115,
+      "ime": "Vivacom",
+      "shirina": 42.158884,
+      "dalzhina": 24.738415,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 116,
+      "ime": "Vivacom",
+      "shirina": 42.418413,
+      "dalzhina": 27.69499,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 117,
+      "ime": "Vivacom",
+      "shirina": 42.419624,
+      "dalzhina": 25.608261,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 118,
+      "ime": "Vivacom",
+      "shirina": 42.425039,
+      "dalzhina": 25.632082,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 119,
+      "ime": "Vivacom",
+      "shirina": 42.426367,
+      "dalzhina": 25.630403,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 120,
+      "ime": "Vivacom",
+      "shirina": 42.48148,
+      "dalzhina": 26.513181,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 121,
+      "ime": "Vivacom",
+      "shirina": 42.493245,
+      "dalzhina": 27.470015,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 122,
+      "ime": "Vivacom",
+      "shirina": 42.494325,
+      "dalzhina": 26.012118,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 123,
+      "ime": "Vivacom",
+      "shirina": 42.495417,
+      "dalzhina": 27.471853,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 124,
+      "ime": "Vivacom",
+      "shirina": 42.503809,
+      "dalzhina": 24.188279,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 125,
+      "ime": "Vivacom",
+      "shirina": 42.517293,
+      "dalzhina": 27.454655,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 126,
+      "ime": "Vivacom",
+      "shirina": 42.547525,
+      "dalzhina": 22.965002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 127,
+      "ime": "Vivacom",
+      "shirina": 42.557123,
+      "dalzhina": 27.639827,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 128,
+      "ime": "Vivacom",
+      "shirina": 42.604177,
+      "dalzhina": 23.030185,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 129,
+      "ime": "Vivacom",
+      "shirina": 42.626069,
+      "dalzhina": 23.376796,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 130,
+      "ime": "Vivacom",
+      "shirina": 42.645592,
+      "dalzhina": 23.378744,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 131,
+      "ime": "Vivacom",
+      "shirina": 42.650579,
+      "dalzhina": 23.341851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 132,
+      "ime": "Vivacom",
+      "shirina": 42.657756,
+      "dalzhina": 23.314195,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 133,
+      "ime": "Vivacom",
+      "shirina": 42.660794,
+      "dalzhina": 23.382598,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 134,
+      "ime": "Vivacom",
+      "shirina": 42.664061,
+      "dalzhina": 27.716183,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 135,
+      "ime": "Vivacom",
+      "shirina": 42.664421,
+      "dalzhina": 23.288598,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 136,
+      "ime": "Vivacom",
+      "shirina": 42.671461,
+      "dalzhina": 23.272628,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 137,
+      "ime": "Vivacom",
+      "shirina": 42.674866,
+      "dalzhina": 23.358592,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 138,
+      "ime": "Vivacom",
+      "shirina": 42.677805,
+      "dalzhina": 23.286496,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 139,
+      "ime": "Vivacom",
+      "shirina": 42.678754,
+      "dalzhina": 23.32045,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 140,
+      "ime": "Vivacom",
+      "shirina": 42.687673,
+      "dalzhina": 23.32968,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 141,
+      "ime": "Vivacom",
+      "shirina": 42.688097,
+      "dalzhina": 23.254759,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 142,
+      "ime": "Vivacom",
+      "shirina": 42.689371,
+      "dalzhina": 23.319321,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 143,
+      "ime": "Vivacom",
+      "shirina": 42.689573,
+      "dalzhina": 23.314208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 144,
+      "ime": "Vivacom",
+      "shirina": 42.693862,
+      "dalzhina": 27.709092,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 145,
+      "ime": "Vivacom",
+      "shirina": 42.696135,
+      "dalzhina": 23.348642,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 146,
+      "ime": "Vivacom",
+      "shirina": 42.696545,
+      "dalzhina": 23.286865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 147,
+      "ime": "Vivacom",
+      "shirina": 42.69807,
+      "dalzhina": 23.330077,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 148,
+      "ime": "Vivacom",
+      "shirina": 42.698133,
+      "dalzhina": 23.309121,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 149,
+      "ime": "Vivacom",
+      "shirina": 42.699584,
+      "dalzhina": 23.320471,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 150,
+      "ime": "Vivacom",
+      "shirina": 42.702008,
+      "dalzhina": 23.359543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 151,
+      "ime": "Vivacom",
+      "shirina": 42.706769,
+      "dalzhina": 23.32385,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 152,
+      "ime": "Vivacom",
+      "shirina": 42.711479,
+      "dalzhina": 23.302544,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 153,
+      "ime": "Vivacom",
+      "shirina": 42.712751,
+      "dalzhina": 23.26857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 154,
+      "ime": "Vivacom",
+      "shirina": 42.713409,
+      "dalzhina": 23.248294,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 155,
+      "ime": "Vivacom",
+      "shirina": 42.715421,
+      "dalzhina": 23.251339,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 156,
+      "ime": "Vivacom",
+      "shirina": 42.726059,
+      "dalzhina": 23.302323,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 157,
+      "ime": "Vivacom",
+      "shirina": 42.728369,
+      "dalzhina": 23.286189,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 158,
+      "ime": "Vivacom",
+      "shirina": 42.808473,
+      "dalzhina": 23.201287,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 159,
+      "ime": "Vivacom",
+      "shirina": 42.810341,
+      "dalzhina": 23.21711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 160,
+      "ime": "Vivacom",
+      "shirina": 42.87137,
+      "dalzhina": 25.319413,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 161,
+      "ime": "Vivacom",
+      "shirina": 42.889466,
+      "dalzhina": 26.445927,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 162,
+      "ime": "Vivacom",
+      "shirina": 42.907039,
+      "dalzhina": 23.792571,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 163,
+      "ime": "Vivacom",
+      "shirina": 42.917969,
+      "dalzhina": 24.263027,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 164,
+      "ime": "Vivacom",
+      "shirina": 43.074835,
+      "dalzhina": 25.618551,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 165,
+      "ime": "Vivacom",
+      "shirina": 43.108006,
+      "dalzhina": 26.418129,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 166,
+      "ime": "Vivacom",
+      "shirina": 43.140434,
+      "dalzhina": 24.718568,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 167,
+      "ime": "Vivacom",
+      "shirina": 43.178406,
+      "dalzhina": 27.443127,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 168,
+      "ime": "Vivacom",
+      "shirina": 43.191856,
+      "dalzhina": 27.707676,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 169,
+      "ime": "Vivacom",
+      "shirina": 43.206041,
+      "dalzhina": 24.163671,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 170,
+      "ime": "Vivacom",
+      "shirina": 43.208986,
+      "dalzhina": 27.904178,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 171,
+      "ime": "Vivacom",
+      "shirina": 43.209059,
+      "dalzhina": 27.919363,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 172,
+      "ime": "Vivacom",
+      "shirina": 43.271409,
+      "dalzhina": 26.933093,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 173,
+      "ime": "Vivacom",
+      "shirina": 43.419776,
+      "dalzhina": 24.612992,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 174,
+      "ime": "Vivacom",
+      "shirina": 43.470171,
+      "dalzhina": 23.944177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 175,
+      "ime": "Vivacom",
+      "shirina": 43.524912,
+      "dalzhina": 26.525397,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 176,
+      "ime": "Vivacom",
+      "shirina": 43.56928,
+      "dalzhina": 27.830233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 177,
+      "ime": "Vivacom",
+      "shirina": 43.569339,
+      "dalzhina": 27.827517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 178,
+      "ime": "Vivacom",
+      "shirina": 43.825631,
+      "dalzhina": 27.141245,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 179,
+      "ime": "Yettel",
+      "shirina": 41.379063,
+      "dalzhina": 25.097215,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 180,
+      "ime": "Yettel",
+      "shirina": 41.57139,
+      "dalzhina": 23.729127,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 181,
+      "ime": "Yettel",
+      "shirina": 41.578809,
+      "dalzhina": 24.694758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 182,
+      "ime": "Yettel",
+      "shirina": 41.644079,
+      "dalzhina": 25.366511,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 183,
+      "ime": "Yettel",
+      "shirina": 41.644935,
+      "dalzhina": 25.36911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 184,
+      "ime": "Yettel",
+      "shirina": 41.647159,
+      "dalzhina": 24.158885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 185,
+      "ime": "Yettel",
+      "shirina": 41.742929,
+      "dalzhina": 24.395191,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 186,
+      "ime": "Yettel",
+      "shirina": 41.932091,
+      "dalzhina": 25.556145,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 187,
+      "ime": "Yettel",
+      "shirina": 42.020107,
+      "dalzhina": 23.100248,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 188,
+      "ime": "Yettel",
+      "shirina": 42.02014,
+      "dalzhina": 23.094337,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 189,
+      "ime": "Yettel",
+      "shirina": 42.141534,
+      "dalzhina": 24.741002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 190,
+      "ime": "Yettel",
+      "shirina": 42.14492,
+      "dalzhina": 24.749455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 191,
+      "ime": "Yettel",
+      "shirina": 42.14539,
+      "dalzhina": 24.731702,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 192,
+      "ime": "Yettel",
+      "shirina": 42.150435,
+      "dalzhina": 24.747051,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 193,
+      "ime": "Yettel",
+      "shirina": 42.15888,
+      "dalzhina": 24.738344,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 194,
+      "ime": "Yettel",
+      "shirina": 42.166255,
+      "dalzhina": 24.749056,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 195,
+      "ime": "Yettel",
+      "shirina": 42.264497,
+      "dalzhina": 23.116057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 196,
+      "ime": "Yettel",
+      "shirina": 42.418499,
+      "dalzhina": 27.6949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 197,
+      "ime": "Yettel",
+      "shirina": 42.423629,
+      "dalzhina": 25.624007,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 198,
+      "ime": "Yettel",
+      "shirina": 42.425251,
+      "dalzhina": 25.631484,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 199,
+      "ime": "Yettel",
+      "shirina": 42.42627,
+      "dalzhina": 25.631459,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 200,
+      "ime": "Yettel",
+      "shirina": 42.438158,
+      "dalzhina": 25.631982,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 201,
+      "ime": "Yettel",
+      "shirina": 42.481927,
+      "dalzhina": 26.511123,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 202,
+      "ime": "Yettel",
+      "shirina": 42.491417,
+      "dalzhina": 27.473183,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 203,
+      "ime": "Yettel",
+      "shirina": 42.499241,
+      "dalzhina": 27.470247,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 204,
+      "ime": "Yettel",
+      "shirina": 42.500487,
+      "dalzhina": 24.187785,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 205,
+      "ime": "Yettel",
+      "shirina": 42.503174,
+      "dalzhina": 24.703816,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 206,
+      "ime": "Yettel",
+      "shirina": 42.54745,
+      "dalzhina": 22.964504,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 207,
+      "ime": "Yettel",
+      "shirina": 42.604728,
+      "dalzhina": 23.030389,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 208,
+      "ime": "Yettel",
+      "shirina": 42.618956,
+      "dalzhina": 25.394278,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 209,
+      "ime": "Yettel",
+      "shirina": 42.619477,
+      "dalzhina": 25.392801,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 210,
+      "ime": "Yettel",
+      "shirina": 42.628187,
+      "dalzhina": 23.373848,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 211,
+      "ime": "Yettel",
+      "shirina": 42.6508,
+      "dalzhina": 23.341929,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 212,
+      "ime": "Yettel",
+      "shirina": 42.657715,
+      "dalzhina": 23.314123,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 213,
+      "ime": "Yettel",
+      "shirina": 42.660838,
+      "dalzhina": 23.38253,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 214,
+      "ime": "Yettel",
+      "shirina": 42.66243,
+      "dalzhina": 27.718835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 215,
+      "ime": "Yettel",
+      "shirina": 42.664238,
+      "dalzhina": 23.288253,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 216,
+      "ime": "Yettel",
+      "shirina": 42.671369,
+      "dalzhina": 23.598879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 217,
+      "ime": "Yettel",
+      "shirina": 42.674648,
+      "dalzhina": 23.359438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 218,
+      "ime": "Yettel",
+      "shirina": 42.677968,
+      "dalzhina": 23.286219,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 219,
+      "ime": "Yettel",
+      "shirina": 42.678788,
+      "dalzhina": 23.320525,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 220,
+      "ime": "Yettel",
+      "shirina": 42.67961,
+      "dalzhina": 23.367685,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 221,
+      "ime": "Yettel",
+      "shirina": 42.688174,
+      "dalzhina": 23.254687,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 222,
+      "ime": "Yettel",
+      "shirina": 42.688858,
+      "dalzhina": 23.318703,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 223,
+      "ime": "Yettel",
+      "shirina": 42.690783,
+      "dalzhina": 23.325612,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 224,
+      "ime": "Yettel",
+      "shirina": 42.694218,
+      "dalzhina": 27.710024,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 225,
+      "ime": "Yettel",
+      "shirina": 42.694258,
+      "dalzhina": 23.320424,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 226,
+      "ime": "Yettel",
+      "shirina": 42.696079,
+      "dalzhina": 23.348369,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 227,
+      "ime": "Yettel",
+      "shirina": 42.696395,
+      "dalzhina": 23.286899,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 228,
+      "ime": "Yettel",
+      "shirina": 42.700116,
+      "dalzhina": 23.321651,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 229,
+      "ime": "Yettel",
+      "shirina": 42.701941,
+      "dalzhina": 23.359573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 230,
+      "ime": "Yettel",
+      "shirina": 42.71187,
+      "dalzhina": 23.338544,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 231,
+      "ime": "Yettel",
+      "shirina": 42.715165,
+      "dalzhina": 23.252032,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 232,
+      "ime": "Yettel",
+      "shirina": 42.726481,
+      "dalzhina": 23.301861,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 233,
+      "ime": "Yettel",
+      "shirina": 42.729767,
+      "dalzhina": 23.253478,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 234,
+      "ime": "Yettel",
+      "shirina": 42.808242,
+      "dalzhina": 23.201355,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 235,
+      "ime": "Yettel",
+      "shirina": 42.809035,
+      "dalzhina": 23.212888,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 236,
+      "ime": "Yettel",
+      "shirina": 42.852481,
+      "dalzhina": 23.038087,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 237,
+      "ime": "Yettel",
+      "shirina": 42.872113,
+      "dalzhina": 25.319236,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 238,
+      "ime": "Yettel",
+      "shirina": 42.907919,
+      "dalzhina": 23.794185,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 239,
+      "ime": "Yettel",
+      "shirina": 43.108576,
+      "dalzhina": 26.417316,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 240,
+      "ime": "Yettel",
+      "shirina": 43.140702,
+      "dalzhina": 24.718629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 241,
+      "ime": "Yettel",
+      "shirina": 43.206101,
+      "dalzhina": 24.163674,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 242,
+      "ime": "Yettel",
+      "shirina": 43.208582,
+      "dalzhina": 27.919407,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 243,
+      "ime": "Yettel",
+      "shirina": 43.212409,
+      "dalzhina": 27.904066,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 244,
+      "ime": "Yettel",
+      "shirina": 43.224207,
+      "dalzhina": 27.930401,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 245,
+      "ime": "Yettel",
+      "shirina": 43.250652,
+      "dalzhina": 26.571518,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 246,
+      "ime": "Yettel",
+      "shirina": 43.271023,
+      "dalzhina": 26.9281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 247,
+      "ime": "Yettel",
+      "shirina": 43.276234,
+      "dalzhina": 26.942787,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 248,
+      "ime": "Yettel",
+      "shirina": 43.346059,
+      "dalzhina": 27.19476,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 249,
+      "ime": "Yettel",
+      "shirina": 43.419756,
+      "dalzhina": 24.61361,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 250,
+      "ime": "Yettel",
+      "shirina": 43.495462,
+      "dalzhina": 24.079849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 251,
+      "ime": "Yettel",
+      "shirina": 43.568866,
+      "dalzhina": 27.829398,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 252,
+      "ime": "Yettel",
+      "shirina": 43.569374,
+      "dalzhina": 27.827483,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 253,
+      "ime": "Yettel",
+      "shirina": 43.570475,
+      "dalzhina": 27.833087,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 254,
+      "ime": "Yettel",
+      "shirina": 43.82369,
+      "dalzhina": 27.141009,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 255,
+      "ime": "Yettel",
+      "shirina": 43.849735,
+      "dalzhina": 25.954246,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 256,
+      "ime": "Yettel",
+      "shirina": 43.853595,
+      "dalzhina": 25.990323,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 257,
+      "ime": "Булсатком",
+      "shirina": 41.930393,
+      "dalzhina": 25.564784,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 258,
+      "ime": "Булсатком",
+      "shirina": 41.933264,
+      "dalzhina": 25.553013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 259,
+      "ime": "Булсатком",
+      "shirina": 42.128588,
+      "dalzhina": 24.725169,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 260,
+      "ime": "Булсатком",
+      "shirina": 42.152237,
+      "dalzhina": 24.756154,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 261,
+      "ime": "Булсатком",
+      "shirina": 42.337158,
+      "dalzhina": 23.551983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 262,
+      "ime": "Булсатком",
+      "shirina": 42.423962,
+      "dalzhina": 25.628507,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 263,
+      "ime": "Булсатком",
+      "shirina": 42.426273,
+      "dalzhina": 25.639094,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 264,
+      "ime": "Булсатком",
+      "shirina": 42.430194,
+      "dalzhina": 25.638865,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 265,
+      "ime": "Булсатком",
+      "shirina": 42.648449,
+      "dalzhina": 23.378712,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 266,
+      "ime": "Булсатком",
+      "shirina": 42.693787,
+      "dalzhina": 23.313984,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 267,
+      "ime": "Булсатком",
+      "shirina": 42.699663,
+      "dalzhina": 27.711383,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 268,
+      "ime": "Булсатком",
+      "shirina": 42.704599,
+      "dalzhina": 23.298271,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 269,
+      "ime": "Булсатком",
+      "shirina": 42.713371,
+      "dalzhina": 23.248262,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 270,
+      "ime": "Булсатком",
+      "shirina": 42.730519,
+      "dalzhina": 23.298524,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 271,
+      "ime": "Булсатком",
+      "shirina": 42.895884,
+      "dalzhina": 25.309174,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 272,
+      "ime": "Булсатком",
+      "shirina": 43.210275,
+      "dalzhina": 27.921072,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 273,
+      "ime": "Булсатком",
+      "shirina": 43.213084,
+      "dalzhina": 27.903398,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 274,
+      "ime": "Булсатком",
+      "shirina": 43.226795,
+      "dalzhina": 25.961298,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 275,
+      "ime": "Булсатком",
+      "shirina": 43.423974,
+      "dalzhina": 24.596745,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 276,
+      "ime": "Булсатком",
+      "shirina": 43.568718,
+      "dalzhina": 27.826598,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 277,
+      "ime": "Булсатком",
+      "shirina": 43.57061,
+      "dalzhina": 27.830199,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 278,
+      "ime": "Булсатком",
+      "shirina": 43.825108,
+      "dalzhina": 27.141499,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 279,
+      "ime": "Видеосат",
+      "shirina": 43.369847,
+      "dalzhina": 25.634641,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    },
+    {
+      "id": 280,
+      "ime": "Кабелна телевизия",
+      "shirina": 42.905976,
+      "dalzhina": 23.791327,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "telecommunication",
+      "osm_klas": "shop=telecommunication"
+    }
+  ],
+  "meta": {
+    "title": "Магазини за телекомуникации в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Магазини за телекомуникации в България — 280 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=telecommunication`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 280 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Магазини за телекомуникации в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Магазини за телекомуникации в България (OpenStreetMap) — 280 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 280 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

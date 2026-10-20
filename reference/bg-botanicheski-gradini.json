@@ -1,0 +1,148 @@
+{
+  "id": "bg-botanicheski-gradini",
+  "name": "Ботанически градини в България",
+  "title": "Ботанически градини в България",
+  "description": "Botanical gardens in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q12273822",
+      "name_bg": "Ботаническа градина",
+      "name_en": "Botanical garden, Balchik",
+      "admin_area_bg": "Балчик",
+      "admin_area_en": "Balchik",
+      "latitude": 43.404672222,
+      "longitude": 28.147755555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12273822"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q56850397",
+      "name_bg": "Ботаническа градина (Пловдив)",
+      "name_en": "",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.145784,
+      "longitude": 24.792049,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56850397"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q85302683",
+      "name_bg": "Ботаническа градина Hortus Australis",
+      "name_en": "Hortus Australis",
+      "admin_area_bg": "Шабла",
+      "admin_area_en": "Shabla",
+      "latitude": 43.622287,
+      "longitude": 28.56698,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q85302683"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q105585475",
+      "name_bg": "Ботаническа градина Маргарита",
+      "name_en": "Botanical garden Margarita",
+      "admin_area_bg": "Гроздьово",
+      "admin_area_en": "Grozdyovo",
+      "latitude": 43.027159,
+      "longitude": 27.533727,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105585475"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12273823",
+      "name_bg": "Ботаническа градина на БАН",
+      "name_en": "Botanical garden of the Bulgarian Academy of Sciences",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.643333333,
+      "longitude": 23.299444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12273823"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q29584002",
+      "name_bg": "Ботаническа градина, Борика",
+      "name_en": "Borika Bothanical garden",
+      "admin_area_bg": "Ихтиман",
+      "admin_area_en": "Ihtiman",
+      "latitude": 42.48625,
+      "longitude": 23.661666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29584002"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12297237",
+      "name_bg": "Университетска ботаническа градина, Варна",
+      "name_en": "Sofia University botanical garden, Varna",
+      "admin_area_bg": "Златни пясъци",
+      "admin_area_en": "Golden Sands",
+      "latitude": 43.233730555,
+      "longitude": 28.005352777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12297237"
+    }
+  ],
+  "meta": {
+    "title": "Ботанически градини в България - Безплатно изтегляне",
+    "description": "Botanical gardens in Bulgaria with coordinates, sourced from Wikidata. Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Ботанически градини в България | ListBase",
+    "seo_description": "Изтеглете Ботанически градини в България — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "id": "bg-vodopadi",
+  "name": "Водопади в България",
+  "title": "Водопади в България",
+  "description": "Waterfalls in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q117272482",
+      "name_bg": "",
+      "name_en": "Vrachanska Skaklya",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.186377777,
+      "longitude": 23.552136111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117272482"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q101251388",
+      "name_bg": "Алекови водопади",
+      "name_en": "Aleko's waterfalls",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.61115296,
+      "longitude": 23.31480682,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101251388"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q4838033",
+      "name_bg": "Бабско пръскало",
+      "name_en": "Babsko Praskalo",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.7275,
+      "longitude": 25.025555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4838033"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12273015",
+      "name_bg": "Бачковски водопад",
+      "name_en": "Bachkovo waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.943694,
+      "longitude": 24.856472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12273015"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q126000688",
+      "name_bg": "Бигора",
+      "name_en": "Bigora",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.12495,
+      "longitude": 23.543658333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126000688"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q106762221",
+      "name_bg": "Бовски водопад",
+      "name_en": "Bov Waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.029828,
+      "longitude": 23.378491,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106762221"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q4946372",
+      "name_bg": "Боров камък",
+      "name_en": "Borov Kamak",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.153055555,
+      "longitude": 23.505,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4946372"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12273882",
+      "name_bg": "Боянски водопад",
+      "name_en": "Boyana waterfall",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.629444444,
+      "longitude": 23.254361111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12273882"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12274051",
+      "name_bg": "Бучалото",
+      "name_en": "Buchaloto",
+      "admin_area_bg": "Радомир",
+      "admin_area_en": "Radomir",
+      "latitude": 42.551361111,
+      "longitude": 22.968722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12274051"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q12275229",
+      "name_bg": "Видимското пръскало",
+      "name_en": "Vidimsko praskalo",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.736417,
+      "longitude": 24.953167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12275229"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q21534708",
+      "name_bg": "Влахински водопад",
+      "name_en": "Vlahi Waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.743888888,
+      "longitude": 23.236944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21534708"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q101564223",
+      "name_bg": "Водопад Котлите",
+      "name_en": "Kotlite waterfall",
+      "admin_area_bg": "Годеч",
+      "admin_area_en": "Godech",
+      "latitude": 43.003305555,
+      "longitude": 22.958166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101564223"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q20500967",
+      "name_bg": "Врабчански водопад",
+      "name_en": "Vrabcha waterfall",
+      "admin_area_bg": "Врабча",
+      "admin_area_en": "Vrabcha",
+      "latitude": 42.8625,
+      "longitude": 22.702222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500967"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q12293862",
+      "name_bg": "Врачанска скакля",
+      "name_en": "Vrachanska skaklya",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.182056111,
+      "longitude": 23.549833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12293862"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q56640730",
+      "name_bg": "Добравишка скакля",
+      "name_en": "Dobravishka skaklya",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.013575445,
+      "longitude": 23.252562348,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56640730"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q12279236",
+      "name_bg": "Дуршин скок",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.35,
+      "longitude": 22.8834,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12279236"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q37872530",
+      "name_bg": "Дяволското гърло",
+      "name_en": "Devil's Throat Waterfall",
+      "admin_area_bg": "Смолян",
+      "admin_area_en": "Smolyan",
+      "latitude": 41.612705555,
+      "longitude": 24.380058333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q37872530"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q38106",
+      "name_bg": "Етрополски водопад “Варовитец”",
+      "name_en": "Etropole waterfall “Varovitets”",
+      "admin_area_bg": "Софийска",
+      "admin_area_en": "Sofia Oblast",
+      "latitude": 42.824264802,
+      "longitude": 24.038884181,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38106"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q12293861",
+      "name_bg": "Заселска скакля",
+      "name_en": "Zaselska skaklya",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.035388888,
+      "longitude": 23.331111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12293861"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q111802336",
+      "name_bg": "Казаните",
+      "name_en": "Kazanite waterfall",
+      "admin_area_bg": "Чавдар",
+      "admin_area_en": "Chavdar",
+      "latitude": 42.612342644,
+      "longitude": 24.06290109,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111802336"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q20500607",
+      "name_bg": "Капиновски водопад",
+      "name_en": "Kapinovski waterfall",
+      "admin_area_bg": "Велико Търново",
+      "admin_area_en": "Veliko Tarnovo",
+      "latitude": 43.017,
+      "longitude": 25.783,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500607"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q12282664",
+      "name_bg": "Карловски водопад",
+      "name_en": "Karlovo waterfall",
+      "admin_area_bg": "Карлово",
+      "admin_area_en": "Karlovo",
+      "latitude": 42.653333333,
+      "longitude": 24.808888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12282664"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q38100",
+      "name_bg": "Карловско пръскало",
+      "name_en": "Karlovsko Praskalo",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.71,
+      "longitude": 24.853055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38100"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q12283898",
+      "name_bg": "Костенски водопад",
+      "name_en": "Kostenets waterfall",
+      "admin_area_bg": "Костенец",
+      "admin_area_en": "Kostenets",
+      "latitude": 42.248889,
+      "longitude": 23.805028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12283898"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q6439432",
+      "name_bg": "Крушунски водопад",
+      "name_en": "Krushuna Falls",
+      "admin_area_bg": "Крушуна",
+      "admin_area_en": "Krushuna",
+      "latitude": 43.243056,
+      "longitude": 25.033333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6439432"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q19706037",
+      "name_bg": "Лешнишки водопад",
+      "name_en": "Leshnishki waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.360325,
+      "longitude": 23.180927777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19706037"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q12289138",
+      "name_bg": "Овчарченски водопад",
+      "name_en": "Ovcharchenski Waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.267623,
+      "longitude": 23.228778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12289138"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q12291012",
+      "name_bg": "Полска скакавица",
+      "name_en": "Polska skakavitsa",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.412873,
+      "longitude": 22.684934,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12291012"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q3364161",
+      "name_bg": "Попинолъшки водопад",
+      "name_en": "Popinolashki waterfall",
+      "admin_area_bg": "Лиляново",
+      "admin_area_en": "Lilyanovo",
+      "latitude": 41.673333333,
+      "longitude": 23.393611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3364161"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q3494207",
+      "name_bg": "Райско пръскало",
+      "name_en": "Raysko Praskalo",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.711936111,
+      "longitude": 24.924438888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3494207"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q24461356",
+      "name_bg": "Самодивско пръскало",
+      "name_en": "Samodivsko praskalo",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.7525,
+      "longitude": 24.352222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24461356"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q101251387",
+      "name_bg": "Самоковището",
+      "name_en": "Samokovishteto",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.56709654,
+      "longitude": 23.32012632,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q101251387"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q6980116",
+      "name_bg": "Скакавица",
+      "name_en": "Skakavitsa Waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.221666666,
+      "longitude": 23.304722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6980116"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q12293868",
+      "name_bg": "Скаловитец",
+      "name_en": "Skalovitets",
+      "admin_area_bg": "Костенец",
+      "admin_area_en": "Kostenets",
+      "latitude": 42.234194444,
+      "longitude": 23.834916666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12293868"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q100891997",
+      "name_bg": "Скока (Тетевен)",
+      "name_en": "Skoka waterfall, Teteven",
+      "admin_area_bg": "Тетевен",
+      "admin_area_en": "Teteven",
+      "latitude": 42.8899404,
+      "longitude": 24.2508589,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100891997"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q12294033",
+      "name_bg": "Сливовдолско падало",
+      "name_en": "Slivodolsko padalo",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.916667,
+      "longitude": 24.860833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12294033"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q12295753",
+      "name_bg": "Сувчарско пръскало",
+      "name_en": "Suvcharsko praskalo",
+      "admin_area_bg": "Христо Даново",
+      "admin_area_en": "Hristo Danovo",
+      "latitude": 42.758972222,
+      "longitude": 24.607972222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12295753"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q30062176",
+      "name_bg": "Фотински водопад",
+      "name_en": "Fotinski Waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.895181,
+      "longitude": 24.395794,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q30062176"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q127451236",
+      "name_bg": "Футула",
+      "name_en": "Futula",
+      "admin_area_bg": "Сливен",
+      "admin_area_en": "Sliven",
+      "latitude": 42.717609635,
+      "longitude": 26.356757992,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127451236"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q20500518",
+      "name_bg": "Хотнишки водопад",
+      "name_en": "Hotnishki waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.146136111,
+      "longitude": 25.514888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500518"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q20500537",
+      "name_bg": "Христовски водопад",
+      "name_en": "Hristovski waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.917,
+      "longitude": 25.95,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20500537"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q117225536",
+      "name_bg": "Церовски водопад",
+      "name_en": "Tserovo Waterfall",
+      "admin_area_bg": "Софийска",
+      "admin_area_en": "Sofia Oblast",
+      "latitude": 43.009731849,
+      "longitude": 23.340277468,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117225536"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q32829675",
+      "name_bg": "Чипровски водопад",
+      "name_en": "Chiprovtsi waterfall",
+      "admin_area_bg": "Чипровци",
+      "admin_area_en": "Chiprovtsi",
+      "latitude": 43.356986111,
+      "longitude": 22.817036111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32829675"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q19768220",
+      "name_bg": "Яворнишки водопад",
+      "name_en": "Yavornishki waterfall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 41.353202777,
+      "longitude": 23.048994444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19768220"
+    }
+  ],
+  "meta": {
+    "title": "Водопади в България - Безплатно изтегляне",
+    "description": "Waterfalls in Bulgaria with coordinates, sourced from Wikidata. Съдържа 44 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Водопади в България | ListBase",
+    "seo_description": "Изтеглете Водопади в България — 44 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 44 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

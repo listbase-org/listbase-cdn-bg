@@ -1,0 +1,3121 @@
+{
+  "id": "bg-osm-shop-car",
+  "name": "Автосалони в България (OpenStreetMap)",
+  "title": "Автосалони в България (OpenStreetMap)",
+  "description": "Автосалони в България — 340 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=car`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 340,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Васко Ауто 92\"",
+      "shirina": 42.047948,
+      "dalzhina": 23.05039,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 2,
+      "ime": "A7auto",
+      "shirina": 42.768914,
+      "dalzhina": 23.315767,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 3,
+      "ime": "AK K&R",
+      "shirina": 42.290814,
+      "dalzhina": 23.119371,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 4,
+      "ime": "AK Vas Auto",
+      "shirina": 42.290826,
+      "dalzhina": 23.117548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 5,
+      "ime": "APEX3",
+      "shirina": 42.699529,
+      "dalzhina": 23.305475,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 6,
+      "ime": "AWD Cars",
+      "shirina": 42.649014,
+      "dalzhina": 23.371367,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 7,
+      "ime": "Antonia Auto",
+      "shirina": 42.531652,
+      "dalzhina": 27.455568,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 8,
+      "ime": "Audi",
+      "shirina": 42.155748,
+      "dalzhina": 24.710061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 9,
+      "ime": "Audi",
+      "shirina": 43.224157,
+      "dalzhina": 27.868974,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 10,
+      "ime": "Auto GLORY",
+      "shirina": 44.003085,
+      "dalzhina": 22.875089,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 11,
+      "ime": "Auto Market",
+      "shirina": 42.641633,
+      "dalzhina": 23.311629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 12,
+      "ime": "Auto glory",
+      "shirina": 42.669537,
+      "dalzhina": 23.255305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 13,
+      "ime": "AutoGold",
+      "shirina": 42.638822,
+      "dalzhina": 23.412544,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 14,
+      "ime": "Autohit 2000 - Volkswagen Authorized Partner",
+      "shirina": 42.429561,
+      "dalzhina": 25.66254,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 15,
+      "ime": "Autookazion",
+      "shirina": 43.076524,
+      "dalzhina": 25.69016,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 16,
+      "ime": "Autostrada",
+      "shirina": 42.68892,
+      "dalzhina": 23.231182,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 17,
+      "ime": "Aвтоморга \"Даро\"",
+      "shirina": 42.602579,
+      "dalzhina": 23.627991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 18,
+      "ime": "BMW",
+      "shirina": 42.524346,
+      "dalzhina": 27.445782,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 19,
+      "ime": "BMW",
+      "shirina": 43.227827,
+      "dalzhina": 27.861667,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 20,
+      "ime": "BMW Пловдив",
+      "shirina": 42.201101,
+      "dalzhina": 24.73555,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 21,
+      "ime": "Bibi cars",
+      "shirina": 42.634784,
+      "dalzhina": 23.310175,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 22,
+      "ime": "CITROEN",
+      "shirina": 41.579412,
+      "dalzhina": 24.684107,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 23,
+      "ime": "Candex",
+      "shirina": 42.649918,
+      "dalzhina": 23.293684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 24,
+      "ime": "Cars 57",
+      "shirina": 42.648783,
+      "dalzhina": 23.295944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 25,
+      "ime": "Citroen",
+      "shirina": 42.553617,
+      "dalzhina": 27.474372,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 26,
+      "ime": "Citroen",
+      "shirina": 43.535804,
+      "dalzhina": 27.820148,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 27,
+      "ime": "Citroen",
+      "shirina": 43.813858,
+      "dalzhina": 25.980593,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 28,
+      "ime": "Citroën",
+      "shirina": 42.674315,
+      "dalzhina": 26.346204,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 29,
+      "ime": "Citroën",
+      "shirina": 42.70948,
+      "dalzhina": 23.429904,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 30,
+      "ime": "Citroën",
+      "shirina": 42.895177,
+      "dalzhina": 25.328271,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 31,
+      "ime": "Citroën",
+      "shirina": 43.073296,
+      "dalzhina": 25.608949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 32,
+      "ime": "Citroën",
+      "shirina": 43.223111,
+      "dalzhina": 27.870799,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 33,
+      "ime": "Dacia",
+      "shirina": 42.132981,
+      "dalzhina": 24.75795,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 34,
+      "ime": "Diyana Auto",
+      "shirina": 42.700646,
+      "dalzhina": 23.303879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 35,
+      "ime": "Dobrich Honda Club",
+      "shirina": 43.598316,
+      "dalzhina": 27.83123,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 36,
+      "ime": "Dongfeng",
+      "shirina": 42.680552,
+      "dalzhina": 23.400101,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 37,
+      "ime": "Easy Car",
+      "shirina": 42.655181,
+      "dalzhina": 23.2312,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 38,
+      "ime": "Euro 07",
+      "shirina": 42.135973,
+      "dalzhina": 24.745426,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 39,
+      "ime": "Euroauto",
+      "shirina": 42.680642,
+      "dalzhina": 23.318357,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 40,
+      "ime": "Ford",
+      "shirina": 41.5756,
+      "dalzhina": 24.695836,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 41,
+      "ime": "Ford",
+      "shirina": 42.651731,
+      "dalzhina": 23.379852,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 42,
+      "ime": "Ford",
+      "shirina": 42.879488,
+      "dalzhina": 25.31496,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 43,
+      "ime": "Ford",
+      "shirina": 43.079386,
+      "dalzhina": 25.594722,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 44,
+      "ime": "Ford",
+      "shirina": 43.539679,
+      "dalzhina": 27.82151,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 45,
+      "ime": "Fresh motors",
+      "shirina": 43.076429,
+      "dalzhina": 25.688662,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 46,
+      "ime": "GL Motors",
+      "shirina": 42.72048,
+      "dalzhina": 23.273147,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 47,
+      "ime": "GR Auto",
+      "shirina": 42.657785,
+      "dalzhina": 26.323963,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 48,
+      "ime": "Geely",
+      "shirina": 42.742066,
+      "dalzhina": 23.233762,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 49,
+      "ime": "Great Wall",
+      "shirina": 41.949254,
+      "dalzhina": 25.557009,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 50,
+      "ime": "Great Wall",
+      "shirina": 42.708859,
+      "dalzhina": 23.441634,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 51,
+      "ime": "Great Wall",
+      "shirina": 43.413141,
+      "dalzhina": 24.640261,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 52,
+      "ime": "HMG Automobile",
+      "shirina": 42.673149,
+      "dalzhina": 23.248962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 53,
+      "ime": "Honda",
+      "shirina": 42.155908,
+      "dalzhina": 24.710867,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 54,
+      "ime": "Honda",
+      "shirina": 42.656328,
+      "dalzhina": 23.284949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 55,
+      "ime": "Honda",
+      "shirina": 42.70817,
+      "dalzhina": 23.434669,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 56,
+      "ime": "Honda",
+      "shirina": 43.257057,
+      "dalzhina": 27.961292,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 57,
+      "ime": "Hyundai",
+      "shirina": 42.191767,
+      "dalzhina": 24.670609,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 58,
+      "ime": "Hyundai",
+      "shirina": 42.727039,
+      "dalzhina": 23.242821,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 59,
+      "ime": "Hyundai",
+      "shirina": 43.225223,
+      "dalzhina": 27.866188,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 60,
+      "ime": "IS Auto",
+      "shirina": 42.636909,
+      "dalzhina": 23.325013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 61,
+      "ime": "Ilona-Stefani",
+      "shirina": 42.67331,
+      "dalzhina": 26.355092,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 62,
+      "ime": "Infinity",
+      "shirina": 42.155035,
+      "dalzhina": 24.709408,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 63,
+      "ime": "Infinity Sofia",
+      "shirina": 42.636187,
+      "dalzhina": 23.420498,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 64,
+      "ime": "Italicar",
+      "shirina": 42.445297,
+      "dalzhina": 25.734462,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 65,
+      "ime": "Iveco",
+      "shirina": 42.518885,
+      "dalzhina": 27.420502,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 66,
+      "ime": "Iveco",
+      "shirina": 43.224005,
+      "dalzhina": 27.869622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 67,
+      "ime": "Jaguar Land Rover Център София",
+      "shirina": 42.70326,
+      "dalzhina": 23.449604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 68,
+      "ime": "Japan Auto",
+      "shirina": 42.695946,
+      "dalzhina": 23.231097,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 69,
+      "ime": "Jeep",
+      "shirina": 42.155065,
+      "dalzhina": 24.709663,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 70,
+      "ime": "KM Inter Auto",
+      "shirina": 42.733956,
+      "dalzhina": 23.249901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 71,
+      "ime": "Kia",
+      "shirina": 41.930814,
+      "dalzhina": 25.599604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 72,
+      "ime": "Kia",
+      "shirina": 42.674319,
+      "dalzhina": 26.346058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 73,
+      "ime": "Kia",
+      "shirina": 42.89019,
+      "dalzhina": 25.323076,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 74,
+      "ime": "Lada",
+      "shirina": 41.932098,
+      "dalzhina": 25.590096,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 75,
+      "ime": "Land Rover",
+      "shirina": 42.774581,
+      "dalzhina": 23.186543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 76,
+      "ime": "M-kar",
+      "shirina": 42.73432,
+      "dalzhina": 23.249439,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 77,
+      "ime": "MGT Auto Performance",
+      "shirina": 42.659279,
+      "dalzhina": 23.325085,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 78,
+      "ime": "MOTO-PFOHE",
+      "shirina": 42.429227,
+      "dalzhina": 25.66411,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 79,
+      "ime": "MOTO-PFOHE",
+      "shirina": 42.534122,
+      "dalzhina": 27.447068,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 80,
+      "ime": "MRCARS.BG",
+      "shirina": 42.662077,
+      "dalzhina": 23.265139,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 81,
+      "ime": "Mazda",
+      "shirina": 42.190872,
+      "dalzhina": 24.735915,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 82,
+      "ime": "Mazda",
+      "shirina": 43.429539,
+      "dalzhina": 24.585578,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 83,
+      "ime": "Mazda",
+      "shirina": 43.815027,
+      "dalzhina": 25.930101,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 84,
+      "ime": "Mercedes Benz",
+      "shirina": 42.711526,
+      "dalzhina": 23.348773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 85,
+      "ime": "Mercedes-Benz Showroom",
+      "shirina": 42.625104,
+      "dalzhina": 23.505591,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 86,
+      "ime": "Mercedes-Benz SilverStar Bulgaria",
+      "shirina": 42.718939,
+      "dalzhina": 23.445679,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 87,
+      "ime": "Milen Auto",
+      "shirina": 42.672957,
+      "dalzhina": 26.365662,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 88,
+      "ime": "Mitsubishi",
+      "shirina": 42.711061,
+      "dalzhina": 23.34938,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 89,
+      "ime": "Nissan",
+      "shirina": 43.224665,
+      "dalzhina": 27.868065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 90,
+      "ime": "Opel",
+      "shirina": 41.930893,
+      "dalzhina": 25.598014,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 91,
+      "ime": "Opel",
+      "shirina": 42.175158,
+      "dalzhina": 24.710189,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 92,
+      "ime": "Opel",
+      "shirina": 42.539912,
+      "dalzhina": 27.440033,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 93,
+      "ime": "Opel",
+      "shirina": 43.235801,
+      "dalzhina": 27.869921,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 94,
+      "ime": "Opel",
+      "shirina": 43.814981,
+      "dalzhina": 25.930019,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 95,
+      "ime": "P Auto",
+      "shirina": 43.196949,
+      "dalzhina": 23.573759,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 96,
+      "ime": "Peugeot",
+      "shirina": 41.569787,
+      "dalzhina": 24.723243,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 97,
+      "ime": "Peugeot",
+      "shirina": 42.709389,
+      "dalzhina": 23.434457,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 98,
+      "ime": "Peugeot",
+      "shirina": 42.711749,
+      "dalzhina": 23.273554,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 99,
+      "ime": "Peugeot",
+      "shirina": 43.084799,
+      "dalzhina": 25.577768,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 100,
+      "ime": "Peugeot",
+      "shirina": 43.224588,
+      "dalzhina": 27.868918,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 101,
+      "ime": "Peugeot",
+      "shirina": 43.854863,
+      "dalzhina": 25.996824,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 102,
+      "ime": "Peugeot & Opel",
+      "shirina": 42.400681,
+      "dalzhina": 25.577828,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 103,
+      "ime": "Peugeot София I",
+      "shirina": 42.633484,
+      "dalzhina": 23.442304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 104,
+      "ime": "Porsche",
+      "shirina": 42.155786,
+      "dalzhina": 24.710444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 105,
+      "ime": "Porsche Center Sofia",
+      "shirina": 42.636029,
+      "dalzhina": 23.421491,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 106,
+      "ime": "Premium Car",
+      "shirina": 42.655943,
+      "dalzhina": 23.336627,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 107,
+      "ime": "Pro Cars",
+      "shirina": 42.655482,
+      "dalzhina": 23.305262,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 108,
+      "ime": "REN A CAR",
+      "shirina": 43.218821,
+      "dalzhina": 27.87614,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 109,
+      "ime": "Renault",
+      "shirina": 42.13294,
+      "dalzhina": 24.7579,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 110,
+      "ime": "Renault",
+      "shirina": 42.169443,
+      "dalzhina": 24.720587,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 111,
+      "ime": "Renault",
+      "shirina": 43.083522,
+      "dalzhina": 25.578991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 112,
+      "ime": "Renault",
+      "shirina": 43.223102,
+      "dalzhina": 27.870132,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 113,
+      "ime": "Rushid auto",
+      "shirina": 43.380632,
+      "dalzhina": 25.633257,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 114,
+      "ime": "SCANIA",
+      "shirina": 42.521395,
+      "dalzhina": 27.40375,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 115,
+      "ime": "SNNIKOLOV",
+      "shirina": 42.1304,
+      "dalzhina": 24.768448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 116,
+      "ime": "Seat",
+      "shirina": 42.154939,
+      "dalzhina": 24.710921,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 117,
+      "ime": "Seat",
+      "shirina": 42.474227,
+      "dalzhina": 27.439435,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 118,
+      "ime": "Seat",
+      "shirina": 42.666869,
+      "dalzhina": 23.324933,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 119,
+      "ime": "Shercom",
+      "shirina": 42.704561,
+      "dalzhina": 23.229558,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 120,
+      "ime": "Showroom \"Respect Auto\"",
+      "shirina": 42.673279,
+      "dalzhina": 26.35693,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 121,
+      "ime": "Skoda",
+      "shirina": 43.239347,
+      "dalzhina": 27.870449,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 122,
+      "ime": "Sofauto",
+      "shirina": 42.660561,
+      "dalzhina": 23.351568,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 123,
+      "ime": "Sorento",
+      "shirina": 42.657052,
+      "dalzhina": 23.386795,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 124,
+      "ime": "Ssang Yong",
+      "shirina": 42.148331,
+      "dalzhina": 24.783044,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 125,
+      "ime": "Style Car Import",
+      "shirina": 42.643216,
+      "dalzhina": 23.343229,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 126,
+      "ime": "Subaru",
+      "shirina": 42.155957,
+      "dalzhina": 24.711131,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 127,
+      "ime": "Suzuki",
+      "shirina": 42.41873,
+      "dalzhina": 25.606091,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 128,
+      "ime": "Suzuki",
+      "shirina": 43.081536,
+      "dalzhina": 25.591426,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 129,
+      "ime": "Suzuki",
+      "shirina": 43.429423,
+      "dalzhina": 24.585572,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 130,
+      "ime": "T&J CARS",
+      "shirina": 43.074555,
+      "dalzhina": 25.558467,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 131,
+      "ime": "TSC Toyota Turnovo",
+      "shirina": 43.073258,
+      "dalzhina": 25.609063,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 132,
+      "ime": "Tashev",
+      "shirina": 42.349366,
+      "dalzhina": 24.735231,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 133,
+      "ime": "Tip Top Auto",
+      "shirina": 42.094413,
+      "dalzhina": 24.699725,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 134,
+      "ime": "Tir market",
+      "shirina": 42.158506,
+      "dalzhina": 24.741323,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 135,
+      "ime": "Toyota",
+      "shirina": 41.930895,
+      "dalzhina": 25.598313,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 136,
+      "ime": "Toyota",
+      "shirina": 42.180652,
+      "dalzhina": 24.739245,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 137,
+      "ime": "Toyota",
+      "shirina": 42.185003,
+      "dalzhina": 24.351172,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 138,
+      "ime": "Toyota",
+      "shirina": 42.488744,
+      "dalzhina": 27.453041,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 139,
+      "ime": "Toyota",
+      "shirina": 42.889896,
+      "dalzhina": 25.324207,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 140,
+      "ime": "Toyota",
+      "shirina": 43.080803,
+      "dalzhina": 25.5931,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 141,
+      "ime": "Toyota",
+      "shirina": 43.832401,
+      "dalzhina": 25.971617,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 142,
+      "ime": "Triumph Cars",
+      "shirina": 42.661326,
+      "dalzhina": 23.291837,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 143,
+      "ime": "VM Trade",
+      "shirina": 42.638864,
+      "dalzhina": 23.388072,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 144,
+      "ime": "Vi auto",
+      "shirina": 42.660475,
+      "dalzhina": 23.264293,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 145,
+      "ime": "Volkswagen",
+      "shirina": 42.154956,
+      "dalzhina": 24.711548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 146,
+      "ime": "Volkswagen",
+      "shirina": 42.155269,
+      "dalzhina": 24.712076,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 147,
+      "ime": "Volkswagen",
+      "shirina": 42.62146,
+      "dalzhina": 23.440402,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 148,
+      "ime": "Volkswagen",
+      "shirina": 43.080215,
+      "dalzhina": 25.594012,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 149,
+      "ime": "Volkswagen",
+      "shirina": 43.241624,
+      "dalzhina": 27.854329,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 150,
+      "ime": "Volkswagen",
+      "shirina": 43.835272,
+      "dalzhina": 25.96711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 151,
+      "ime": "Volvo Truck Center",
+      "shirina": 43.001124,
+      "dalzhina": 25.619661,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 152,
+      "ime": "Westauto-M Audi",
+      "shirina": 42.516928,
+      "dalzhina": 27.429624,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 153,
+      "ime": "Westauto-M VW",
+      "shirina": 42.524769,
+      "dalzhina": 27.444423,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 154,
+      "ime": "cng",
+      "shirina": 43.546709,
+      "dalzhina": 27.822205,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 155,
+      "ime": "ŠKODA Център Стара Загорa",
+      "shirina": 42.432081,
+      "dalzhina": 25.682979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 156,
+      "ime": "Škoda",
+      "shirina": 42.686838,
+      "dalzhina": 23.3008,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 157,
+      "ime": "Škoda",
+      "shirina": 42.724953,
+      "dalzhina": 23.29112,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 158,
+      "ime": "АВТОКОМПЛЕКС БОНЕВ",
+      "shirina": 42.39918,
+      "dalzhina": 25.577064,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 159,
+      "ime": "АВТОКЪЩА АЛПИН",
+      "shirina": 42.652248,
+      "dalzhina": 26.320339,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 160,
+      "ime": "АВТОКЪЩА АУТО КА",
+      "shirina": 42.674119,
+      "dalzhina": 26.354134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 161,
+      "ime": "АВТОКЪЩА МОБИЛ",
+      "shirina": 42.651984,
+      "dalzhina": 26.323256,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 162,
+      "ime": "АВТОКЪЩА СКОРПИОН",
+      "shirina": 42.656239,
+      "dalzhina": 26.324273,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 163,
+      "ime": "АВТОКЪЩА СТОКОВО ТЪРЖИЩЕ",
+      "shirina": 42.668883,
+      "dalzhina": 26.323176,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 164,
+      "ime": "АВТОКЪЩА ТРАБАНЧЕТО",
+      "shirina": 42.652359,
+      "dalzhina": 26.317994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 165,
+      "ime": "АК Александра",
+      "shirina": 42.299682,
+      "dalzhina": 23.111631,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 166,
+      "ime": "АК Ауто Планет",
+      "shirina": 42.306651,
+      "dalzhina": 23.107655,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 167,
+      "ime": "АК Би М",
+      "shirina": 42.298957,
+      "dalzhina": 23.11183,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 168,
+      "ime": "АК Бисер Ауто",
+      "shirina": 42.307051,
+      "dalzhina": 23.107185,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 169,
+      "ime": "АК Браво",
+      "shirina": 42.291254,
+      "dalzhina": 23.11794,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 170,
+      "ime": "АК Вальо",
+      "shirina": 42.301794,
+      "dalzhina": 23.110019,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 171,
+      "ime": "АК Ванеса",
+      "shirina": 42.294882,
+      "dalzhina": 23.115091,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 172,
+      "ime": "АК Вовата",
+      "shirina": 42.292526,
+      "dalzhina": 23.116996,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 173,
+      "ime": "АК Демо",
+      "shirina": 42.305283,
+      "dalzhina": 23.109057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 174,
+      "ime": "АК Джеронимо",
+      "shirina": 42.291961,
+      "dalzhina": 23.118316,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 175,
+      "ime": "АК Дива Ауто",
+      "shirina": 42.300811,
+      "dalzhina": 23.110662,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 176,
+      "ime": "АК Марек",
+      "shirina": 42.291348,
+      "dalzhina": 23.11901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 177,
+      "ime": "АК Рог Стар",
+      "shirina": 42.293102,
+      "dalzhina": 23.11802,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 178,
+      "ime": "АК Сиси",
+      "shirina": 42.306042,
+      "dalzhina": 23.108718,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 179,
+      "ime": "АК Славева",
+      "shirina": 42.306847,
+      "dalzhina": 23.108114,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 180,
+      "ime": "АК Слави Карс",
+      "shirina": 42.302155,
+      "dalzhina": 23.109526,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 181,
+      "ime": "АК Стиви",
+      "shirina": 42.292054,
+      "dalzhina": 23.117341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 182,
+      "ime": "АК Студента",
+      "shirina": 42.29422,
+      "dalzhina": 23.117088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 183,
+      "ime": "АРИОН",
+      "shirina": 42.187193,
+      "dalzhina": 24.366611,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 184,
+      "ime": "АСИ ООД КИА МОТОРС И ХЮНДАЙ",
+      "shirina": 43.433526,
+      "dalzhina": 24.533185,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 185,
+      "ime": "АУТО ИТАЛИЯ",
+      "shirina": 42.503726,
+      "dalzhina": 27.451363,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 186,
+      "ime": "Авалон",
+      "shirina": 42.659724,
+      "dalzhina": 23.26513,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 187,
+      "ime": "Авто Лукс",
+      "shirina": 42.011379,
+      "dalzhina": 23.072176,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 188,
+      "ime": "Авто Премиер",
+      "shirina": 42.695946,
+      "dalzhina": 23.231084,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 189,
+      "ime": "Авто къща BIN 99",
+      "shirina": 43.195417,
+      "dalzhina": 23.574254,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 190,
+      "ime": "Авто център Миив",
+      "shirina": 42.60861,
+      "dalzhina": 23.065737,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 191,
+      "ime": "Автокъща",
+      "shirina": 42.53076,
+      "dalzhina": 27.460298,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 192,
+      "ime": "Автокъща",
+      "shirina": 43.802971,
+      "dalzhina": 25.987127,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 193,
+      "ime": "Автокъща",
+      "shirina": 43.813315,
+      "dalzhina": 25.984152,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 194,
+      "ime": "Автокъща",
+      "shirina": 43.81798,
+      "dalzhina": 25.982506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 195,
+      "ime": "Автокъща",
+      "shirina": 43.820145,
+      "dalzhina": 25.981147,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 196,
+      "ime": "Автокъща",
+      "shirina": 43.825533,
+      "dalzhina": 25.980065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 197,
+      "ime": "Автокъща \"Валвел\"",
+      "shirina": 42.431084,
+      "dalzhina": 25.680153,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 198,
+      "ime": "Автокъща \"Валентин\"",
+      "shirina": 42.687897,
+      "dalzhina": 23.240187,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 199,
+      "ime": "Автокъща Alex Auto",
+      "shirina": 42.5982,
+      "dalzhina": 27.389246,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 200,
+      "ime": "Автокъща Auto DS",
+      "shirina": 42.65887,
+      "dalzhina": 26.33624,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 201,
+      "ime": "Автокъща Auto Joro",
+      "shirina": 42.673263,
+      "dalzhina": 26.365242,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 202,
+      "ime": "Автокъща А1",
+      "shirina": 43.193535,
+      "dalzhina": 23.57531,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 203,
+      "ime": "Автокъща АУТО ХЕЛП",
+      "shirina": 42.203785,
+      "dalzhina": 24.309109,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 204,
+      "ime": "Автокъща Анди-Кар",
+      "shirina": 42.599019,
+      "dalzhina": 27.388559,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 205,
+      "ime": "Автокъща ВАС",
+      "shirina": 42.673845,
+      "dalzhina": 23.262629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 206,
+      "ime": "Автокъща ДАС Ауто",
+      "shirina": 43.219346,
+      "dalzhina": 23.547758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 207,
+      "ime": "Автокъща Две Три Четири",
+      "shirina": 42.744247,
+      "dalzhina": 23.283885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 208,
+      "ime": "Автокъща Експрес Ауто",
+      "shirina": 43.219029,
+      "dalzhina": 23.544801,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 209,
+      "ime": "Автокъща Жоро",
+      "shirina": 42.681288,
+      "dalzhina": 23.245006,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 210,
+      "ime": "Автокъща Ивиго",
+      "shirina": 42.667318,
+      "dalzhina": 23.256703,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 211,
+      "ime": "Автокъща Империал",
+      "shirina": 42.597611,
+      "dalzhina": 27.389789,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 212,
+      "ime": "Автокъща Лечев Ауто",
+      "shirina": 42.599202,
+      "dalzhina": 27.390027,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 213,
+      "ime": "Автокъща МАК",
+      "shirina": 42.68374,
+      "dalzhina": 23.238733,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 214,
+      "ime": "Автокъща Перник | Савиа",
+      "shirina": 42.600228,
+      "dalzhina": 23.110827,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 215,
+      "ime": "Автокъща Русофили",
+      "shirina": 43.812486,
+      "dalzhina": 25.982886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 216,
+      "ime": "Автокъща Стил",
+      "shirina": 42.598702,
+      "dalzhina": 27.388545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 217,
+      "ime": "Автокъща Тегс Ауто",
+      "shirina": 42.599341,
+      "dalzhina": 27.389755,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 218,
+      "ime": "Автокъща Факт",
+      "shirina": 42.683062,
+      "dalzhina": 23.269911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 219,
+      "ime": "Автокъща “G-Auto” Благоевград",
+      "shirina": 42.050447,
+      "dalzhina": 23.051024,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 220,
+      "ime": "Автокъщи",
+      "shirina": 42.531271,
+      "dalzhina": 27.460691,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 221,
+      "ime": "Автокъщи",
+      "shirina": 43.851828,
+      "dalzhina": 25.986618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 222,
+      "ime": "Автокъщта leonbus",
+      "shirina": 42.673251,
+      "dalzhina": 26.364818,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 223,
+      "ime": "Автомагазин",
+      "shirina": 43.519238,
+      "dalzhina": 26.514257,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 224,
+      "ime": "Автомир",
+      "shirina": 42.183423,
+      "dalzhina": 24.317907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 225,
+      "ime": "Автоморга",
+      "shirina": 42.09445,
+      "dalzhina": 24.816441,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 226,
+      "ime": "Автоморга",
+      "shirina": 42.094602,
+      "dalzhina": 24.814939,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 227,
+      "ime": "Автоморга Форд",
+      "shirina": 42.708309,
+      "dalzhina": 23.372141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 228,
+      "ime": "Автомотор Пловдив (Ситроен)",
+      "shirina": 42.199389,
+      "dalzhina": 24.736347,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 229,
+      "ime": "Автосалон ВИА-10",
+      "shirina": 42.058617,
+      "dalzhina": 25.266269,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 230,
+      "ime": "Автосвят Моторс",
+      "shirina": 43.429642,
+      "dalzhina": 24.585595,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 231,
+      "ime": "Автосвят ООД",
+      "shirina": 43.792029,
+      "dalzhina": 25.915932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 232,
+      "ime": "Автоцентър Катрин",
+      "shirina": 42.704999,
+      "dalzhina": 23.4189,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 233,
+      "ime": "Автоцентър МП",
+      "shirina": 43.225433,
+      "dalzhina": 27.8658,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 234,
+      "ime": "Автоцентър Фолксваген",
+      "shirina": 42.651565,
+      "dalzhina": 26.319435,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 235,
+      "ime": "Автоъща",
+      "shirina": 43.812211,
+      "dalzhina": 25.98245,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 236,
+      "ime": "Автоъща",
+      "shirina": 43.812608,
+      "dalzhina": 25.981225,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 237,
+      "ime": "Акумулатори",
+      "shirina": 42.143293,
+      "dalzhina": 24.753149,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 238,
+      "ime": "Алекс Ауто М",
+      "shirina": 42.128879,
+      "dalzhina": 24.706993,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 239,
+      "ime": "Ауто Бавария",
+      "shirina": 42.624316,
+      "dalzhina": 23.377506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 240,
+      "ime": "Ауто Корект Търговище",
+      "shirina": 43.216355,
+      "dalzhina": 26.539659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 241,
+      "ime": "Ауто Тони 82",
+      "shirina": 42.644411,
+      "dalzhina": 23.411746,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 242,
+      "ime": "Ауто Франс 3000",
+      "shirina": 42.711509,
+      "dalzhina": 23.35277,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 243,
+      "ime": "Ауто Хубенов",
+      "shirina": 42.188557,
+      "dalzhina": 24.735986,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 244,
+      "ime": "Ауто груп Европа",
+      "shirina": 42.693298,
+      "dalzhina": 26.349241,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 245,
+      "ime": "Ауто мода",
+      "shirina": 42.496957,
+      "dalzhina": 26.481437,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 246,
+      "ime": "Ауто неджи",
+      "shirina": 42.260353,
+      "dalzhina": 24.875367,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 247,
+      "ime": "Ауто хелп",
+      "shirina": 42.158062,
+      "dalzhina": 24.732487,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 248,
+      "ime": "Бавария Ауто",
+      "shirina": 42.624001,
+      "dalzhina": 23.358291,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 249,
+      "ime": "Бадер България",
+      "shirina": 43.853614,
+      "dalzhina": 25.982671,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 250,
+      "ime": "Балкан Стар",
+      "shirina": 42.711098,
+      "dalzhina": 23.348129,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 251,
+      "ime": "Банишора",
+      "shirina": 42.709241,
+      "dalzhina": 23.306294,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 252,
+      "ime": "Бенисимо ауто",
+      "shirina": 42.669231,
+      "dalzhina": 23.402352,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 253,
+      "ime": "Бултрако Моторс",
+      "shirina": 43.232508,
+      "dalzhina": 27.869302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 254,
+      "ime": "Валдес",
+      "shirina": 42.601711,
+      "dalzhina": 23.141757,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 255,
+      "ime": "Варна Карс",
+      "shirina": 43.227772,
+      "dalzhina": 27.861682,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 256,
+      "ime": "Велиавто",
+      "shirina": 42.030967,
+      "dalzhina": 24.00825,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 257,
+      "ime": "Влас Ауто",
+      "shirina": 42.227546,
+      "dalzhina": 24.725249,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 258,
+      "ime": "Волво Център София",
+      "shirina": 42.702578,
+      "dalzhina": 23.449739,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 259,
+      "ime": "Вулканизатор",
+      "shirina": 42.124797,
+      "dalzhina": 24.739189,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 260,
+      "ime": "Геворг Груп",
+      "shirina": 42.693326,
+      "dalzhina": 26.34948,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 261,
+      "ime": "Глобалкар Toyota Стара Загора",
+      "shirina": 42.434878,
+      "dalzhina": 25.700034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 262,
+      "ime": "Дани Ауто",
+      "shirina": 41.534471,
+      "dalzhina": 23.272119,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 263,
+      "ime": "Дарукар",
+      "shirina": 42.661736,
+      "dalzhina": 23.404118,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 264,
+      "ime": "Дикар",
+      "shirina": 43.433497,
+      "dalzhina": 24.575816,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 265,
+      "ime": "Дом на камиона",
+      "shirina": 43.235315,
+      "dalzhina": 27.85644,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 266,
+      "ime": "Евро лукс",
+      "shirina": 43.077464,
+      "dalzhina": 25.692655,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 267,
+      "ime": "Експрес Кар",
+      "shirina": 43.228058,
+      "dalzhina": 27.861165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 268,
+      "ime": "Еском",
+      "shirina": 41.954342,
+      "dalzhina": 25.557857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 269,
+      "ime": "Еспас Ауто",
+      "shirina": 42.644831,
+      "dalzhina": 23.398103,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 270,
+      "ime": "Ибо АУТО",
+      "shirina": 42.278335,
+      "dalzhina": 23.1273,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 271,
+      "ime": "Иванов Ауто",
+      "shirina": 43.218021,
+      "dalzhina": 23.547489,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 272,
+      "ime": "КИЯ Моторс България",
+      "shirina": 42.636991,
+      "dalzhina": 23.415292,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 273,
+      "ime": "Калев Кар ЕООД",
+      "shirina": 42.656545,
+      "dalzhina": 26.341028,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 274,
+      "ime": "Капитолия",
+      "shirina": 42.683971,
+      "dalzhina": 23.334545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 275,
+      "ime": "Карком Toyota Варна",
+      "shirina": 43.226044,
+      "dalzhina": 27.904933,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 276,
+      "ime": "Комплекс Летоструй",
+      "shirina": 42.707222,
+      "dalzhina": 23.380775,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 277,
+      "ime": "Кракра",
+      "shirina": 42.602259,
+      "dalzhina": 23.143573,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 278,
+      "ime": "М Кар София",
+      "shirina": 42.657468,
+      "dalzhina": 23.316564,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 279,
+      "ime": "Магико карс",
+      "shirina": 42.290394,
+      "dalzhina": 23.118151,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 280,
+      "ime": "Магико карс",
+      "shirina": 42.291036,
+      "dalzhina": 23.118201,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 281,
+      "ime": "Мазда",
+      "shirina": 41.929864,
+      "dalzhina": 25.564921,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 282,
+      "ime": "Мазда",
+      "shirina": 42.521706,
+      "dalzhina": 27.441429,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 283,
+      "ime": "Мерцедес Бенц шоуруум",
+      "shirina": 42.711279,
+      "dalzhina": 23.350874,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 284,
+      "ime": "Миркат",
+      "shirina": 42.704934,
+      "dalzhina": 23.398855,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 285,
+      "ime": "Митвас",
+      "shirina": 42.66482,
+      "dalzhina": 23.387525,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 286,
+      "ime": "Мони ауто",
+      "shirina": 43.203092,
+      "dalzhina": 23.571478,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 287,
+      "ime": "Монца Toyota Благоевград",
+      "shirina": 41.947913,
+      "dalzhina": 23.096251,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 288,
+      "ime": "Мончев-90",
+      "shirina": 42.616121,
+      "dalzhina": 25.419814,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 289,
+      "ime": "Мото-Пфое",
+      "shirina": 43.850695,
+      "dalzhina": 25.977479,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 290,
+      "ime": "Мототом Toyota Добрич",
+      "shirina": 43.548254,
+      "dalzhina": 27.823686,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 291,
+      "ime": "Н Ауто София",
+      "shirina": 42.645025,
+      "dalzhina": 23.397752,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 292,
+      "ime": "Ник Ауто",
+      "shirina": 42.713792,
+      "dalzhina": 23.29571,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 293,
+      "ime": "Ником Toyota Русе",
+      "shirina": 43.831936,
+      "dalzhina": 25.971823,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 294,
+      "ime": "Нисан",
+      "shirina": 42.513904,
+      "dalzhina": 27.450436,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 295,
+      "ime": "Олимпик",
+      "shirina": 43.077797,
+      "dalzhina": 25.693097,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 296,
+      "ime": "Олимпия авто",
+      "shirina": 43.076769,
+      "dalzhina": 25.686521,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 297,
+      "ime": "Олимпия авто",
+      "shirina": 43.077626,
+      "dalzhina": 25.691526,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 298,
+      "ime": "Омникар ауто София",
+      "shirina": 42.626245,
+      "dalzhina": 23.352448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 299,
+      "ime": "Опел",
+      "shirina": 42.531789,
+      "dalzhina": 27.467609,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 300,
+      "ime": "Пазар за коли",
+      "shirina": 43.854612,
+      "dalzhina": 25.984835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 301,
+      "ime": "Пан авто",
+      "shirina": 42.693096,
+      "dalzhina": 23.294467,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 302,
+      "ime": "Папазов Сървис ЕООД",
+      "shirina": 42.724195,
+      "dalzhina": 23.248958,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 303,
+      "ime": "Пацифик магазин",
+      "shirina": 42.704045,
+      "dalzhina": 27.715031,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 304,
+      "ime": "Пежо",
+      "shirina": 42.531777,
+      "dalzhina": 27.467888,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 305,
+      "ime": "Пежо център",
+      "shirina": 43.545364,
+      "dalzhina": 27.82287,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 306,
+      "ime": "Порше София Запад",
+      "shirina": 42.743758,
+      "dalzhina": 23.229586,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 307,
+      "ime": "Порше София Изток",
+      "shirina": 42.621356,
+      "dalzhina": 23.440517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 308,
+      "ime": "Престиж Карс",
+      "shirina": 42.395143,
+      "dalzhina": 25.65751,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 309,
+      "ime": "Радев Авто",
+      "shirina": 42.673252,
+      "dalzhina": 26.366211,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 310,
+      "ime": "Рено",
+      "shirina": 42.514078,
+      "dalzhina": 27.450076,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 311,
+      "ime": "Русеви Кар",
+      "shirina": 43.85401,
+      "dalzhina": 25.997416,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 312,
+      "ime": "Сервиз Джекитата",
+      "shirina": 42.124306,
+      "dalzhina": 24.746803,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 313,
+      "ime": "Силвър Стар Варна",
+      "shirina": 43.235977,
+      "dalzhina": 27.841442,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 314,
+      "ime": "София Ауто",
+      "shirina": 42.703776,
+      "dalzhina": 23.387821,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 315,
+      "ime": "Спекта Ауто Toyota Бургас;Spekta Auto Toyota Burgas",
+      "shirina": 42.521365,
+      "dalzhina": 27.440388,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 316,
+      "ime": "Стар Моторс",
+      "shirina": 42.678172,
+      "dalzhina": 23.319674,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 317,
+      "ime": "Стар моторс",
+      "shirina": 42.680455,
+      "dalzhina": 23.399537,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 318,
+      "ime": "Стар мотърс Мазда",
+      "shirina": 42.431427,
+      "dalzhina": 25.681576,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 319,
+      "ime": "Стибис",
+      "shirina": 43.814432,
+      "dalzhina": 25.98068,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 320,
+      "ime": "СтилАуто",
+      "shirina": 43.205913,
+      "dalzhina": 23.56773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 321,
+      "ime": "Субару моторс",
+      "shirina": 42.636878,
+      "dalzhina": 23.415711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 322,
+      "ime": "ТМ Ауто Изток",
+      "shirina": 42.646352,
+      "dalzhina": 23.398432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 323,
+      "ime": "Технически прегледи на МПС",
+      "shirina": 43.412594,
+      "dalzhina": 24.629688,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 324,
+      "ime": "Тиксим Toyota Пазарджик",
+      "shirina": 42.184892,
+      "dalzhina": 24.351292,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 325,
+      "ime": "Трансграфика",
+      "shirina": 42.710312,
+      "dalzhina": 23.310255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 326,
+      "ime": "Учебен ценрър Василев",
+      "shirina": 43.840395,
+      "dalzhina": 25.955065,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 327,
+      "ime": "Фолксваген - АУДИ",
+      "shirina": 43.431084,
+      "dalzhina": 24.583959,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 328,
+      "ime": "Форд Мото-Пфое",
+      "shirina": 43.430759,
+      "dalzhina": 24.58514,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 329,
+      "ime": "Хюндай - ИндКомерс",
+      "shirina": 42.622702,
+      "dalzhina": 23.380234,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 330,
+      "ime": "Хюндай Център Бургас",
+      "shirina": 42.540704,
+      "dalzhina": 27.441294,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 331,
+      "ime": "Цветанов Ауто",
+      "shirina": 42.601974,
+      "dalzhina": 23.140455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 332,
+      "ime": "Шедьоври",
+      "shirina": 42.636406,
+      "dalzhina": 23.327134,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 333,
+      "ime": "Шкода",
+      "shirina": 42.484446,
+      "dalzhina": 27.44575,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 334,
+      "ime": "Шкода - Дружба",
+      "shirina": 42.654649,
+      "dalzhina": 23.401877,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 335,
+      "ime": "Шоурум \"Ауди\"",
+      "shirina": 42.431272,
+      "dalzhina": 25.684117,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 336,
+      "ime": "Шоурум \"Хюндай\"",
+      "shirina": 42.431285,
+      "dalzhina": 25.680638,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 337,
+      "ime": "Шоурум и сервиз \"Рено\"",
+      "shirina": 42.432998,
+      "dalzhina": 25.685393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 338,
+      "ime": "автокъща Обеля",
+      "shirina": 42.744784,
+      "dalzhina": 23.282184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 339,
+      "ime": "автокъща Пеци",
+      "shirina": 43.340547,
+      "dalzhina": 27.202911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    },
+    {
+      "id": 340,
+      "ime": "т и н кар",
+      "shirina": 43.230567,
+      "dalzhina": 27.932122,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "car",
+      "osm_klas": "shop=car"
+    }
+  ],
+  "meta": {
+    "title": "Автосалони в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Автосалони в България — 340 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=car`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 340 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Автосалони в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Автосалони в България (OpenStreetMap) — 340 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 340 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

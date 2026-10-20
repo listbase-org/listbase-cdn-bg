@@ -1,0 +1,2383 @@
+{
+  "id": "bg-osm-leisure-fitness-centre",
+  "name": "Фитнес центрове в България (OpenStreetMap)",
+  "title": "Фитнес центрове в България (OpenStreetMap)",
+  "description": "Фитнес центрове в България — 258 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `leisure=fitness_centre`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 258,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "number"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "11",
+      "shirina": 42.680526,
+      "dalzhina": 23.289393,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 2,
+      "ime": "23 up",
+      "shirina": 42.651248,
+      "dalzhina": 23.339897,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 3,
+      "ime": "33",
+      "shirina": 42.653585,
+      "dalzhina": 23.343448,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 4,
+      "ime": "3D GYM",
+      "shirina": 42.707705,
+      "dalzhina": 23.302128,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 5,
+      "ime": "Academica Gym",
+      "shirina": 42.675694,
+      "dalzhina": 23.364927,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 6,
+      "ime": "Adit yoga",
+      "shirina": 42.658496,
+      "dalzhina": 23.316867,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 7,
+      "ime": "Ameka",
+      "shirina": 42.725953,
+      "dalzhina": 23.248551,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 8,
+      "ime": "Asana fitness",
+      "shirina": 42.288028,
+      "dalzhina": 23.255115,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 9,
+      "ime": "Athletic Fitness",
+      "shirina": 42.66225,
+      "dalzhina": 23.318145,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 10,
+      "ime": "Athletic Fitness",
+      "shirina": 42.696137,
+      "dalzhina": 23.345296,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 11,
+      "ime": "Atom",
+      "shirina": 42.689404,
+      "dalzhina": 23.25014,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 12,
+      "ime": "Balance Line",
+      "shirina": 42.691066,
+      "dalzhina": 23.314049,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 13,
+      "ime": "Beast Varna",
+      "shirina": 43.223801,
+      "dalzhina": 27.925321,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 14,
+      "ime": "Belize",
+      "shirina": 42.697049,
+      "dalzhina": 23.305325,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 15,
+      "ime": "Bemovin",
+      "shirina": 42.660478,
+      "dalzhina": 23.349157,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 16,
+      "ime": "Bio Sport",
+      "shirina": 42.277563,
+      "dalzhina": 22.688055,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 17,
+      "ime": "Body Atelier",
+      "shirina": 42.659454,
+      "dalzhina": 23.326037,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 18,
+      "ime": "Body factory",
+      "shirina": 42.668424,
+      "dalzhina": 23.290171,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 19,
+      "ime": "Body pro",
+      "shirina": 42.655895,
+      "dalzhina": 23.311018,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 20,
+      "ime": "Build your Body",
+      "shirina": 42.642659,
+      "dalzhina": 23.332347,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 21,
+      "ime": "CF Gravity",
+      "shirina": 42.716155,
+      "dalzhina": 23.253349,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 22,
+      "ime": "Calma",
+      "shirina": 42.667335,
+      "dalzhina": 23.351861,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 23,
+      "ime": "Classix",
+      "shirina": 42.656938,
+      "dalzhina": 23.398339,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 24,
+      "ime": "Clinic Aman Yoga",
+      "shirina": 42.658695,
+      "dalzhina": 23.276269,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 25,
+      "ime": "Coffit",
+      "shirina": 42.672864,
+      "dalzhina": 23.316531,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 26,
+      "ime": "CrossFit Varna",
+      "shirina": 43.223749,
+      "dalzhina": 27.975586,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 27,
+      "ime": "Deja Vu",
+      "shirina": 43.218064,
+      "dalzhina": 27.914885,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 28,
+      "ime": "Dynamic Fitness Center",
+      "shirina": 42.143834,
+      "dalzhina": 24.7276,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 29,
+      "ime": "Energy Sport",
+      "shirina": 42.711349,
+      "dalzhina": 23.312076,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 30,
+      "ime": "Este Fitness & SPA",
+      "shirina": 42.669712,
+      "dalzhina": 23.3533,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 31,
+      "ime": "Extreme",
+      "shirina": 42.700586,
+      "dalzhina": 27.256047,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 32,
+      "ime": "Ezoterra",
+      "shirina": 42.673204,
+      "dalzhina": 23.325194,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 33,
+      "ime": "FITINN",
+      "shirina": 43.219917,
+      "dalzhina": 27.923988,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 34,
+      "ime": "Fit Express",
+      "shirina": 42.696859,
+      "dalzhina": 23.313745,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 35,
+      "ime": "Fit Factory 24/7",
+      "shirina": 42.674292,
+      "dalzhina": 23.298195,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 36,
+      "ime": "Fit me up",
+      "shirina": 42.696654,
+      "dalzhina": 23.35362,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 37,
+      "ime": "Fitbox",
+      "shirina": 41.837263,
+      "dalzhina": 23.489814,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 38,
+      "ime": "Fitness Club Spa & Beauty",
+      "shirina": 43.411265,
+      "dalzhina": 24.618286,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 39,
+      "ime": "Fitness Energy Sport",
+      "shirina": 42.621373,
+      "dalzhina": 25.381791,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 40,
+      "ime": "Fitness Olymp",
+      "shirina": 42.633625,
+      "dalzhina": 23.378819,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 41,
+      "ime": "Fitness Plus",
+      "shirina": 42.648227,
+      "dalzhina": 23.36994,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 42,
+      "ime": "Fitness club \"Flex\"",
+      "shirina": 42.121993,
+      "dalzhina": 24.754599,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 43,
+      "ime": "Fitness line",
+      "shirina": 43.226483,
+      "dalzhina": 27.887024,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 44,
+      "ime": "Fixfit",
+      "shirina": 42.669103,
+      "dalzhina": 23.282938,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 45,
+      "ime": "Force Fitness",
+      "shirina": 42.651026,
+      "dalzhina": 23.358049,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 46,
+      "ime": "Functional Rebels",
+      "shirina": 43.228508,
+      "dalzhina": 27.931746,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 47,
+      "ime": "Functional physique",
+      "shirina": 42.663462,
+      "dalzhina": 23.316641,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 48,
+      "ime": "Garabitov center",
+      "shirina": 42.6691,
+      "dalzhina": 23.353786,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 49,
+      "ime": "Garitate Park Sports Center",
+      "shirina": 42.622747,
+      "dalzhina": 23.37216,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 50,
+      "ime": "Gayatri",
+      "shirina": 42.65334,
+      "dalzhina": 23.33549,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 51,
+      "ime": "Gladiator Fitness",
+      "shirina": 42.204934,
+      "dalzhina": 24.326279,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 52,
+      "ime": "Golden Fit Body",
+      "shirina": 42.672059,
+      "dalzhina": 23.310032,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 53,
+      "ime": "Golden x Body",
+      "shirina": 42.660933,
+      "dalzhina": 23.318783,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 54,
+      "ime": "Gorilla Gym",
+      "shirina": 42.630757,
+      "dalzhina": 23.382688,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 55,
+      "ime": "Gym #1",
+      "shirina": 43.422519,
+      "dalzhina": 24.596613,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 56,
+      "ime": "GymZone",
+      "shirina": 43.274068,
+      "dalzhina": 26.928463,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 57,
+      "ime": "Hammer Gym",
+      "shirina": 42.665242,
+      "dalzhina": 23.279001,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 58,
+      "ime": "Hammer Gym",
+      "shirina": 42.673718,
+      "dalzhina": 23.255744,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 59,
+      "ime": "Hammer Gym",
+      "shirina": 42.674944,
+      "dalzhina": 23.280721,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 60,
+      "ime": "Hammer Gym",
+      "shirina": 42.675348,
+      "dalzhina": 23.295115,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 61,
+      "ime": "Hammer Gymt",
+      "shirina": 42.699073,
+      "dalzhina": 23.320934,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 62,
+      "ime": "HealthMedica Sky Gym",
+      "shirina": 42.687183,
+      "dalzhina": 23.402396,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 63,
+      "ime": "Heaven on Earth",
+      "shirina": 42.68992,
+      "dalzhina": 23.309049,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 64,
+      "ime": "House of Pilates",
+      "shirina": 42.655756,
+      "dalzhina": 23.32026,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 65,
+      "ime": "Infinity",
+      "shirina": 42.671984,
+      "dalzhina": 23.313655,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 66,
+      "ime": "Inspired Fit Strong",
+      "shirina": 42.677888,
+      "dalzhina": 23.299308,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 67,
+      "ime": "Intense",
+      "shirina": 42.146726,
+      "dalzhina": 24.760948,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 68,
+      "ime": "Iron Arena",
+      "shirina": 42.716694,
+      "dalzhina": 23.244173,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 69,
+      "ime": "Jonny's Gym",
+      "shirina": 42.654567,
+      "dalzhina": 23.329135,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 70,
+      "ime": "Ka Fit",
+      "shirina": 42.659465,
+      "dalzhina": 23.325979,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 71,
+      "ime": "Kango NT Club",
+      "shirina": 42.152556,
+      "dalzhina": 24.77266,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 72,
+      "ime": "Kea Sport",
+      "shirina": 42.160353,
+      "dalzhina": 24.740495,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 73,
+      "ime": "La Palestra",
+      "shirina": 42.639456,
+      "dalzhina": 23.312296,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 74,
+      "ime": "Lady Fit",
+      "shirina": 42.704828,
+      "dalzhina": 23.320906,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 75,
+      "ime": "Lion's Pride",
+      "shirina": 43.411808,
+      "dalzhina": 24.631518,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 76,
+      "ime": "Lunara Pilates",
+      "shirina": 42.655177,
+      "dalzhina": 23.311466,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 77,
+      "ime": "Marinela Health Club",
+      "shirina": 42.672407,
+      "dalzhina": 23.318426,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 78,
+      "ime": "Matrix Fitness",
+      "shirina": 42.662297,
+      "dalzhina": 23.285753,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 79,
+      "ime": "Mavloff",
+      "shirina": 42.688234,
+      "dalzhina": 26.339378,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 80,
+      "ime": "Maxfit",
+      "shirina": 42.674072,
+      "dalzhina": 23.322433,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 81,
+      "ime": "Mega Gym",
+      "shirina": 42.558299,
+      "dalzhina": 27.638343,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 82,
+      "ime": "Milena Yoga Beach",
+      "shirina": 42.707004,
+      "dalzhina": 27.771051,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 83,
+      "ime": "Miletiev's",
+      "shirina": 42.660167,
+      "dalzhina": 23.316236,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 84,
+      "ime": "Monsterfitness Kamenec",
+      "shirina": 41.91569,
+      "dalzhina": 25.561292,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 85,
+      "ime": "Movement Academy",
+      "shirina": 42.663429,
+      "dalzhina": 23.302352,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 86,
+      "ime": "Movement Academy",
+      "shirina": 42.674788,
+      "dalzhina": 23.312935,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 87,
+      "ime": "My Pilates Reformer",
+      "shirina": 42.657391,
+      "dalzhina": 23.344423,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 88,
+      "ime": "MyOtion",
+      "shirina": 42.65723,
+      "dalzhina": 23.345506,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 89,
+      "ime": "Next Level",
+      "shirina": 42.634989,
+      "dalzhina": 23.37533,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 90,
+      "ime": "Next Level",
+      "shirina": 42.64281,
+      "dalzhina": 23.286055,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 91,
+      "ime": "Next Level",
+      "shirina": 42.648181,
+      "dalzhina": 23.295339,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 92,
+      "ime": "Next Level",
+      "shirina": 42.650866,
+      "dalzhina": 23.408042,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 93,
+      "ime": "Next Level",
+      "shirina": 42.652841,
+      "dalzhina": 23.336374,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 94,
+      "ime": "Next Level",
+      "shirina": 42.65977,
+      "dalzhina": 23.382716,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 95,
+      "ime": "Next Level",
+      "shirina": 42.660491,
+      "dalzhina": 23.245367,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 96,
+      "ime": "Next Level",
+      "shirina": 42.664195,
+      "dalzhina": 23.288858,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 97,
+      "ime": "Next Level",
+      "shirina": 42.670942,
+      "dalzhina": 23.352091,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 98,
+      "ime": "Next Level",
+      "shirina": 42.671257,
+      "dalzhina": 23.332724,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 99,
+      "ime": "Next Level",
+      "shirina": 42.678448,
+      "dalzhina": 23.31981,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 100,
+      "ime": "Next Level",
+      "shirina": 42.67879,
+      "dalzhina": 23.360627,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 101,
+      "ime": "Next Level",
+      "shirina": 42.68381,
+      "dalzhina": 23.241726,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 102,
+      "ime": "Next Level",
+      "shirina": 42.68549,
+      "dalzhina": 23.319705,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 103,
+      "ime": "Next Level",
+      "shirina": 42.690912,
+      "dalzhina": 23.30723,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 104,
+      "ime": "Next Level",
+      "shirina": 42.698773,
+      "dalzhina": 23.340278,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 105,
+      "ime": "Next Level",
+      "shirina": 42.711386,
+      "dalzhina": 23.272574,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 106,
+      "ime": "Olymp gym",
+      "shirina": 42.289432,
+      "dalzhina": 23.264516,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 107,
+      "ime": "Open Mat BJJ",
+      "shirina": 42.70355,
+      "dalzhina": 23.313115,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 108,
+      "ime": "Orange",
+      "shirina": 42.658004,
+      "dalzhina": 23.314781,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 109,
+      "ime": "Perfect Fitness",
+      "shirina": 42.153257,
+      "dalzhina": 24.745341,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 110,
+      "ime": "Pilates",
+      "shirina": 42.672723,
+      "dalzhina": 23.320126,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 111,
+      "ime": "Pilates Atelier",
+      "shirina": 42.666256,
+      "dalzhina": 23.344421,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 112,
+      "ime": "Pilates by G",
+      "shirina": 42.655509,
+      "dalzhina": 23.339981,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 113,
+      "ime": "Planet Sport",
+      "shirina": 42.122245,
+      "dalzhina": 24.731098,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 114,
+      "ime": "Powerbox",
+      "shirina": 42.671872,
+      "dalzhina": 23.294639,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 115,
+      "ime": "Powerhouse",
+      "shirina": 43.642277,
+      "dalzhina": 25.123621,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 116,
+      "ime": "Pretty Woman",
+      "shirina": 43.211083,
+      "dalzhina": 27.921767,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 117,
+      "ime": "Pro Gym",
+      "shirina": 43.215434,
+      "dalzhina": 27.939852,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 118,
+      "ime": "Pulse",
+      "shirina": 42.135729,
+      "dalzhina": 24.745389,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 119,
+      "ime": "Pulse",
+      "shirina": 42.624614,
+      "dalzhina": 23.372759,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 120,
+      "ime": "Pulse",
+      "shirina": 42.643322,
+      "dalzhina": 23.333765,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 121,
+      "ime": "Pulse",
+      "shirina": 42.668047,
+      "dalzhina": 23.367406,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 122,
+      "ime": "Pulse",
+      "shirina": 42.694138,
+      "dalzhina": 23.331565,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 123,
+      "ime": "Pulse",
+      "shirina": 42.696383,
+      "dalzhina": 23.319708,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 124,
+      "ime": "Pulse",
+      "shirina": 42.709352,
+      "dalzhina": 23.257255,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 125,
+      "ime": "Pulse",
+      "shirina": 42.709449,
+      "dalzhina": 23.365816,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 126,
+      "ime": "Pulse Energy Club",
+      "shirina": 42.624703,
+      "dalzhina": 23.352621,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 127,
+      "ime": "Pulse Energy Club",
+      "shirina": 42.624733,
+      "dalzhina": 23.351155,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 128,
+      "ime": "Pure Joy of Yoga",
+      "shirina": 42.655202,
+      "dalzhina": 23.313024,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 129,
+      "ime": "R fitness",
+      "shirina": 43.206859,
+      "dalzhina": 27.922306,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 130,
+      "ime": "RX Infinity Box",
+      "shirina": 42.652765,
+      "dalzhina": 23.287183,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 131,
+      "ime": "Rado Gym",
+      "shirina": 42.698625,
+      "dalzhina": 23.298618,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 132,
+      "ime": "Raya Reformer",
+      "shirina": 42.655341,
+      "dalzhina": 23.37256,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 133,
+      "ime": "Reform",
+      "shirina": 42.701193,
+      "dalzhina": 23.321432,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 134,
+      "ime": "Reform Pilates by Tanya Koleva",
+      "shirina": 42.657011,
+      "dalzhina": 23.322229,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 135,
+      "ime": "Relax Fitness Center",
+      "shirina": 42.725491,
+      "dalzhina": 23.302398,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 136,
+      "ime": "Renew",
+      "shirina": 42.656888,
+      "dalzhina": 23.336794,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 137,
+      "ime": "SPARTANS GIMS",
+      "shirina": 42.895937,
+      "dalzhina": 25.309113,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 138,
+      "ime": "SPIDER SPORT Studio Iztok",
+      "shirina": 42.67372,
+      "dalzhina": 23.357729,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 139,
+      "ime": "Santosha Yoga",
+      "shirina": 42.698493,
+      "dalzhina": 23.328675,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 140,
+      "ime": "Shavasana",
+      "shirina": 42.699237,
+      "dalzhina": 23.326839,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 141,
+      "ime": "Spark",
+      "shirina": 42.620568,
+      "dalzhina": 23.368629,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 142,
+      "ime": "Sport City",
+      "shirina": 42.725722,
+      "dalzhina": 23.249646,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 143,
+      "ime": "Sport Generation",
+      "shirina": 42.212118,
+      "dalzhina": 27.800901,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 144,
+      "ime": "Studio Victory",
+      "shirina": 42.669069,
+      "dalzhina": 23.352862,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 145,
+      "ime": "THE ONE",
+      "shirina": 42.908721,
+      "dalzhina": 23.809896,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 146,
+      "ime": "Taruna Yoga",
+      "shirina": 42.701236,
+      "dalzhina": 23.32715,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 147,
+      "ime": "Telata",
+      "shirina": 42.653528,
+      "dalzhina": 23.312732,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 148,
+      "ime": "Tempo Fitness",
+      "shirina": 42.675235,
+      "dalzhina": 23.257478,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 149,
+      "ime": "The Art of Living",
+      "shirina": 42.68919,
+      "dalzhina": 23.323016,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 150,
+      "ime": "The Black Swan",
+      "shirina": 42.673245,
+      "dalzhina": 23.318159,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 151,
+      "ime": "The Power",
+      "shirina": 42.672962,
+      "dalzhina": 23.319836,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 152,
+      "ime": "TheOnе",
+      "shirina": 41.950042,
+      "dalzhina": 25.550456,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 153,
+      "ime": "Timshel",
+      "shirina": 42.67644,
+      "dalzhina": 23.320187,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 154,
+      "ime": "Titanium",
+      "shirina": 42.639197,
+      "dalzhina": 23.384775,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 155,
+      "ime": "Titanium",
+      "shirina": 42.643653,
+      "dalzhina": 23.334331,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 156,
+      "ime": "Tosh Gym",
+      "shirina": 42.661111,
+      "dalzhina": 27.702689,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 157,
+      "ime": "TrainStation",
+      "shirina": 43.199359,
+      "dalzhina": 27.912591,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 158,
+      "ime": "Twist",
+      "shirina": 42.165012,
+      "dalzhina": 24.743885,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 159,
+      "ime": "Ultimate training",
+      "shirina": 42.706403,
+      "dalzhina": 23.348342,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 160,
+      "ime": "Unseen",
+      "shirina": 42.676509,
+      "dalzhina": 23.318649,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 161,
+      "ime": "V Gym Fitness & SPA",
+      "shirina": 42.691887,
+      "dalzhina": 23.338053,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 162,
+      "ime": "VM Fitness",
+      "shirina": 42.666634,
+      "dalzhina": 23.293652,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 163,
+      "ime": "VM Fitness",
+      "shirina": 43.213366,
+      "dalzhina": 27.903102,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 164,
+      "ime": "VM Studio",
+      "shirina": 42.687748,
+      "dalzhina": 23.302303,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 165,
+      "ime": "Vibe Studio",
+      "shirina": 43.217438,
+      "dalzhina": 27.924132,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 166,
+      "ime": "Vibes",
+      "shirina": 42.676879,
+      "dalzhina": 23.32141,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 167,
+      "ime": "Vibes",
+      "shirina": 42.689964,
+      "dalzhina": 23.312381,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 168,
+      "ime": "West Gym",
+      "shirina": 42.126899,
+      "dalzhina": 24.770904,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 169,
+      "ime": "West Gym",
+      "shirina": 42.68403,
+      "dalzhina": 23.319262,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 170,
+      "ime": "World Class",
+      "shirina": 42.656338,
+      "dalzhina": 23.278495,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 171,
+      "ime": "X Body",
+      "shirina": 42.636491,
+      "dalzhina": 23.334972,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 172,
+      "ime": "X Body Energy",
+      "shirina": 42.66199,
+      "dalzhina": 23.352998,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 173,
+      "ime": "X Body Push",
+      "shirina": 42.660735,
+      "dalzhina": 23.264866,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 174,
+      "ime": "X Body dream fit",
+      "shirina": 42.662402,
+      "dalzhina": 23.316261,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 175,
+      "ime": "X Line",
+      "shirina": 42.142806,
+      "dalzhina": 24.755487,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 176,
+      "ime": "X body",
+      "shirina": 42.670756,
+      "dalzhina": 23.315083,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 177,
+      "ime": "XBody Xclusive",
+      "shirina": 42.646212,
+      "dalzhina": 23.329216,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 178,
+      "ime": "Xperience Xbody",
+      "shirina": 42.134068,
+      "dalzhina": 24.798564,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 179,
+      "ime": "Yamamoto Luxury GYM",
+      "shirina": 42.420746,
+      "dalzhina": 25.609946,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 180,
+      "ime": "Yard Gym",
+      "shirina": 42.656753,
+      "dalzhina": 23.344538,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 181,
+      "ime": "Yoga Vibe",
+      "shirina": 42.670645,
+      "dalzhina": 23.31473,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 182,
+      "ime": "Yoga Vibe",
+      "shirina": 42.690239,
+      "dalzhina": 23.317248,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 183,
+      "ime": "Yoga district Shazam",
+      "shirina": 42.677576,
+      "dalzhina": 23.322346,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 184,
+      "ime": "Your New Body",
+      "shirina": 42.664251,
+      "dalzhina": 27.703379,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 185,
+      "ime": "Zen Garden",
+      "shirina": 42.670292,
+      "dalzhina": 23.322662,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 186,
+      "ime": "Zeus",
+      "shirina": 42.671828,
+      "dalzhina": 23.313422,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 187,
+      "ime": "power gym",
+      "shirina": 42.651977,
+      "dalzhina": 23.380585,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 188,
+      "ime": "Авангард",
+      "shirina": 42.137237,
+      "dalzhina": 24.797788,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 189,
+      "ime": "Архолл арена",
+      "shirina": 42.735107,
+      "dalzhina": 23.269691,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 190,
+      "ime": "Атлетик",
+      "shirina": 42.145113,
+      "dalzhina": 24.780106,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 191,
+      "ime": "Атлетик",
+      "shirina": 42.653236,
+      "dalzhina": 23.346623,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 192,
+      "ime": "Атлетик",
+      "shirina": 42.679693,
+      "dalzhina": 23.361087,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 193,
+      "ime": "Атлетик фитнес",
+      "shirina": 42.707963,
+      "dalzhina": 23.298438,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 194,
+      "ime": "Атлетико",
+      "shirina": 43.407368,
+      "dalzhina": 24.615704,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 195,
+      "ime": "Вагнер",
+      "shirina": 42.686665,
+      "dalzhina": 23.302727,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 196,
+      "ime": "Виталити 1",
+      "shirina": 42.663937,
+      "dalzhina": 23.315491,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 197,
+      "ime": "Гребенец",
+      "shirina": 41.742805,
+      "dalzhina": 24.401214,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 198,
+      "ime": "Дуло",
+      "shirina": 43.820526,
+      "dalzhina": 27.142638,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 199,
+      "ime": "Е-фит Студио",
+      "shirina": 42.690019,
+      "dalzhina": 23.311666,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 200,
+      "ime": "Ендиго",
+      "shirina": 43.217079,
+      "dalzhina": 27.919311,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 201,
+      "ime": "Жълто",
+      "shirina": 43.220458,
+      "dalzhina": 27.935156,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 202,
+      "ime": "Инерджи спа и фитнес",
+      "shirina": 42.668671,
+      "dalzhina": 23.288319,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 203,
+      "ime": "Йога студио 108",
+      "shirina": 42.659115,
+      "dalzhina": 23.377088,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 204,
+      "ime": "Каруна",
+      "shirina": 42.677224,
+      "dalzhina": 23.32357,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 205,
+      "ime": "Люлин Плаза",
+      "shirina": 42.716295,
+      "dalzhina": 23.258941,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 206,
+      "ime": "Майорка",
+      "shirina": 42.671668,
+      "dalzhina": 23.327353,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 207,
+      "ime": "Мъсъл ман",
+      "shirina": 41.743456,
+      "dalzhina": 24.391657,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 208,
+      "ime": "Найденов фитнес",
+      "shirina": 43.415776,
+      "dalzhina": 23.22298,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 209,
+      "ime": "Огнянов",
+      "shirina": 42.652831,
+      "dalzhina": 23.34354,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 210,
+      "ime": "Олимпия",
+      "shirina": 42.482504,
+      "dalzhina": 26.505101,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 211,
+      "ime": "Оренда",
+      "shirina": 42.653299,
+      "dalzhina": 23.341233,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 212,
+      "ime": "Преслав",
+      "shirina": 43.075573,
+      "dalzhina": 25.610621,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 213,
+      "ime": "СПА Медикaл център \"Елия\"",
+      "shirina": 42.693574,
+      "dalzhina": 23.360598,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 214,
+      "ime": "Саттвика йога",
+      "shirina": 42.699217,
+      "dalzhina": 23.329927,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 215,
+      "ime": "Силует",
+      "shirina": 43.26456,
+      "dalzhina": 26.936019,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 216,
+      "ime": "Скил Лаб",
+      "shirina": 42.668899,
+      "dalzhina": 23.253197,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 217,
+      "ime": "Славия Спортес",
+      "shirina": 42.674133,
+      "dalzhina": 23.270708,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 218,
+      "ime": "Сопариум",
+      "shirina": 41.564756,
+      "dalzhina": 23.280015,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 219,
+      "ime": "Спарта",
+      "shirina": 42.411654,
+      "dalzhina": 27.677771,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 220,
+      "ime": "Спортен клуб \"Релакс 2000\"",
+      "shirina": 43.235039,
+      "dalzhina": 27.885378,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 221,
+      "ime": "Спортен клуб НЕО",
+      "shirina": 42.713922,
+      "dalzhina": 23.264747,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 222,
+      "ime": "Спортна зала \"Спартак\"",
+      "shirina": 42.112944,
+      "dalzhina": 24.221649,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 223,
+      "ime": "Титаниум",
+      "shirina": 42.676009,
+      "dalzhina": 23.304751,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 224,
+      "ime": "Физкултурен салонon",
+      "shirina": 42.836598,
+      "dalzhina": 22.650053,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 225,
+      "ime": "Фитнес \"Академик\"",
+      "shirina": 42.685193,
+      "dalzhina": 23.367819,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 226,
+      "ime": "Фитнес - Бялата къща",
+      "shirina": 41.380508,
+      "dalzhina": 25.255801,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 227,
+      "ime": "Фитнес 33",
+      "shirina": 42.646165,
+      "dalzhina": 23.340996,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 228,
+      "ime": "Фитнес ARMOR",
+      "shirina": 42.691062,
+      "dalzhina": 23.283594,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 229,
+      "ime": "Фитнес Арес",
+      "shirina": 42.731107,
+      "dalzhina": 23.252224,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 230,
+      "ime": "Фитнес Империус",
+      "shirina": 42.702811,
+      "dalzhina": 23.351634,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 231,
+      "ime": "Фитнес Клуб “Иван”",
+      "shirina": 42.199001,
+      "dalzhina": 24.33631,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 232,
+      "ime": "Фитнес Олимп",
+      "shirina": 42.691472,
+      "dalzhina": 23.356761,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 233,
+      "ime": "Фитнес Олимп",
+      "shirina": 42.694358,
+      "dalzhina": 23.343499,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 234,
+      "ime": "Фитнес Център Лаута",
+      "shirina": 42.134925,
+      "dalzhina": 24.773829,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 235,
+      "ime": "Фитнес зала",
+      "shirina": 42.702591,
+      "dalzhina": 23.35423,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 236,
+      "ime": "Фитнес зала",
+      "shirina": 42.708204,
+      "dalzhina": 23.350323,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 237,
+      "ime": "Фитнес зала Кристал",
+      "shirina": 42.743676,
+      "dalzhina": 23.283117,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 238,
+      "ime": "Фитнес зала Универсал",
+      "shirina": 42.425002,
+      "dalzhina": 25.628511,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 239,
+      "ime": "Фитнес клуб \"Флайс\"",
+      "shirina": 42.666955,
+      "dalzhina": 23.403225,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 240,
+      "ime": "Фитнес клуб ЕГО",
+      "shirina": 42.68367,
+      "dalzhina": 23.286899,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 241,
+      "ime": "Фитнес клуб Мания 2",
+      "shirina": 43.072592,
+      "dalzhina": 25.606241,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 242,
+      "ime": "Фитнес клуб ЦСКА",
+      "shirina": 42.671983,
+      "dalzhina": 23.380565,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 243,
+      "ime": "Флайс",
+      "shirina": 42.624779,
+      "dalzhina": 23.380616,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 244,
+      "ime": "Флайс",
+      "shirina": 42.649998,
+      "dalzhina": 23.340466,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 245,
+      "ime": "Флайс",
+      "shirina": 42.654769,
+      "dalzhina": 23.319275,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 246,
+      "ime": "Флайс",
+      "shirina": 42.664466,
+      "dalzhina": 23.284618,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 247,
+      "ime": "Флайс",
+      "shirina": 42.6777,
+      "dalzhina": 23.302517,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 248,
+      "ime": "Флайс",
+      "shirina": 42.699886,
+      "dalzhina": 23.32576,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 249,
+      "ime": "Флайс",
+      "shirina": 42.731423,
+      "dalzhina": 23.296758,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 250,
+      "ime": "Флайс фитнес",
+      "shirina": 42.666026,
+      "dalzhina": 23.259606,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 251,
+      "ime": "Хелиос - Училище за бойни изкуства",
+      "shirina": 43.843773,
+      "dalzhina": 25.948688,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 252,
+      "ime": "Хот йога",
+      "shirina": 42.659983,
+      "dalzhina": 23.314338,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 253,
+      "ime": "Юнити йога студио",
+      "shirina": 42.67978,
+      "dalzhina": 23.360308,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 254,
+      "ime": "риформър пилатес",
+      "shirina": 42.137457,
+      "dalzhina": 24.761896,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 255,
+      "ime": "физкултурен салон",
+      "shirina": 42.709923,
+      "dalzhina": 23.186802,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 256,
+      "ime": "фитнес зала Gedon",
+      "shirina": 42.711108,
+      "dalzhina": 23.300158,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 257,
+      "ime": "фитнес център EPIC GYM",
+      "shirina": 42.897673,
+      "dalzhina": 25.312073,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    },
+    {
+      "id": 258,
+      "ime": "“Астра 8“",
+      "shirina": 43.853725,
+      "dalzhina": 25.991532,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "fitness_centre",
+      "osm_klas": "leisure=fitness_centre"
+    }
+  ],
+  "meta": {
+    "title": "Фитнес центрове в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Фитнес центрове в България — 258 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `leisure=fitness_centre`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 258 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Фитнес центрове в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Фитнес центрове в България (OpenStreetMap) — 258 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 258 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

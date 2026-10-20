@@ -1,0 +1,380 @@
+{
+  "id": "bg-sofija-stolica-unlocode",
+  "name": "UN/LOCODE — област София (столица) (UN/LOCODE locations in Sofiya  Stolitsa Province)",
+  "title": "UN/LOCODE — област София (столица) (UN/LOCODE locations in Sofiya  Stolitsa Province)",
+  "description": "Кодове UN/LOCODE на населените места в област София (столица) (Sofiya  Stolitsa), 8 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-22). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Sofiya  Stolitsa Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 27,
+      "locode": "BGBOZ",
+      "country": "BG",
+      "location": "BOZ",
+      "name": "Bozhurishte",
+      "name_wo_diacritics": "Bozhurishte",
+      "subdivision_code": "22",
+      "subdivision_name": "Sofia (stolitsa)",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4245N 02312E",
+      "latitude": 42.75,
+      "longitude": 23.2,
+      "date_updated": "2014-01",
+      "remarks": "",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "oblast_name_latin": "Sofiya  Stolitsa",
+      "oblast_slug": "sofija-stolica",
+      "oblast_ekatte": "68134",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 2,
+      "parent_index": 88,
+      "locode": "BGGOD",
+      "country": "BG",
+      "location": "GOD",
+      "name": "Godech",
+      "name_wo_diacritics": "Godech",
+      "subdivision_code": "22",
+      "subdivision_name": "Sofia (stolitsa)",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2011-07",
+      "remarks": "",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "oblast_name_latin": "Sofiya  Stolitsa",
+      "oblast_slug": "sofija-stolica",
+      "oblast_ekatte": "68134",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 3,
+      "parent_index": 117,
+      "locode": "BGKBR",
+      "country": "BG",
+      "location": "KBR",
+      "name": "Kostinbrod",
+      "name_wo_diacritics": "Kostinbrod",
+      "subdivision_code": "22",
+      "subdivision_name": "Sofia (stolitsa)",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4249N 02313E",
+      "latitude": 42.8167,
+      "longitude": 23.2167,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "oblast_name_latin": "Sofiya  Stolitsa",
+      "oblast_slug": "sofija-stolica",
+      "oblast_ekatte": "68134",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 4,
+      "parent_index": 131,
+      "locode": "BGKRL",
+      "country": "BG",
+      "location": "KRL",
+      "name": "Klisura",
+      "name_wo_diacritics": "Klisura",
+      "subdivision_code": "22",
+      "subdivision_name": "Sofia (stolitsa)",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4219N 02322E",
+      "latitude": 42.3167,
+      "longitude": 23.3667,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "oblast_name_latin": "Sofiya  Stolitsa",
+      "oblast_slug": "sofija-stolica",
+      "oblast_ekatte": "68134",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 5,
+      "parent_index": 152,
+      "locode": "BGLOK",
+      "country": "BG",
+      "location": "LOK",
+      "name": "Lokorsko",
+      "name_wo_diacritics": "Lokorsko",
+      "subdivision_code": "22",
+      "subdivision_name": "Sofia (stolitsa)",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4278N 02345E",
+      "latitude": 43.3,
+      "longitude": 23.75,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "oblast_name_latin": "Sofiya  Stolitsa",
+      "oblast_slug": "sofija-stolica",
+      "oblast_ekatte": "68134",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 6,
+      "parent_index": 175,
+      "locode": "BGNIS",
+      "country": "BG",
+      "location": "NIS",
+      "name": "Novi Iskar",
+      "name_wo_diacritics": "Novi Iskar",
+      "subdivision_code": "22",
+      "subdivision_name": "Sofia (stolitsa)",
+      "subdivision_type": "Region",
+      "status": "AS",
+      "status_description": "Approved by national standardisation body",
+      "function": "-23-----",
+      "functions": "Rail transport, Road transport",
+      "iata": "",
+      "coordinates": "4248N 02320E",
+      "latitude": 42.8,
+      "longitude": 23.3333,
+      "date_updated": "2006-07",
+      "remarks": "",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "oblast_name_latin": "Sofiya  Stolitsa",
+      "oblast_slug": "sofija-stolica",
+      "oblast_ekatte": "68134",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 7,
+      "parent_index": 267,
+      "locode": "BGSOF",
+      "country": "BG",
+      "location": "SOF",
+      "name": "Sofia",
+      "name_wo_diacritics": "Sofia",
+      "subdivision_code": "22",
+      "subdivision_name": "Sofia (stolitsa)",
+      "subdivision_type": "Region",
+      "status": "AI",
+      "status_description": "Code adopted by international organisation (IATA or ECLAC)",
+      "function": "-2-45---",
+      "functions": "Rail transport, Air transport (airport), International Mail Processing Centre (UPU)",
+      "iata": "",
+      "coordinates": "4241N 02319E",
+      "latitude": 42.6833,
+      "longitude": 23.3167,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "oblast_name_latin": "Sofiya  Stolitsa",
+      "oblast_slug": "sofija-stolica",
+      "oblast_ekatte": "68134",
+      "nuts_region": "BG41"
+    },
+    {
+      "id": 8,
+      "parent_index": 297,
+      "locode": "BGTRU",
+      "country": "BG",
+      "location": "TRU",
+      "name": "Trudovets",
+      "name_wo_diacritics": "Trudovets",
+      "subdivision_code": "22",
+      "subdivision_name": "Sofia (stolitsa)",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4255N 02350E",
+      "latitude": 42.9167,
+      "longitude": 23.8333,
+      "date_updated": "2011-01",
+      "remarks": "",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "oblast_name_latin": "Sofiya  Stolitsa",
+      "oblast_slug": "sofija-stolica",
+      "oblast_ekatte": "68134",
+      "nuts_region": "BG41"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област София (столица) (UN/LOCODE locations in Sofiya  Stolitsa Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област София (столица) (Sofiya  Stolitsa), 8 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-22). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Sofiya  Stolitsa Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област София (столица) (UN/LOCODE locations in Sofiya  Stolitsa Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област София (столица) (UN/LOCODE locations in Sofiya  Stolitsa Province) — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

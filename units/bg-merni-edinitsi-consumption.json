@@ -1,0 +1,106 @@
+{
+  "id": "bg-merni-edinitsi-consumption",
+  "name": "Мерни единици: consumption (4)",
+  "title": "Мерни единици: consumption (4)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'consumption'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategoriya": "consumption",
+      "nazvanie": "литри на 100 километра",
+      "shablon_edinstveno": "{0} литър на 100 километра",
+      "shablon_mnozhestveno": "{0} литра на 100 километра",
+      "kratak_shablon": "{0} l/100 km",
+      "tesen_shablon": "{0} l/100 km"
+    },
+    {
+      "id": 2,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategoriya": "consumption",
+      "nazvanie": "литри на километър",
+      "shablon_edinstveno": "{0} литър на километър",
+      "shablon_mnozhestveno": "{0} литра на километър",
+      "kratak_shablon": "{0} l/km",
+      "tesen_shablon": "{0} l/km"
+    },
+    {
+      "id": 3,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategoriya": "consumption",
+      "nazvanie": "мили на галон",
+      "shablon_edinstveno": "{0} миля на галон",
+      "shablon_mnozhestveno": "{0} мили на галон",
+      "kratak_shablon": "{0} mpg",
+      "tesen_shablon": "{0} mpg"
+    },
+    {
+      "id": 4,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategoriya": "consumption",
+      "nazvanie": "мили на имперски галон",
+      "shablon_edinstveno": "{0} миля на имперски галон",
+      "shablon_mnozhestveno": "{0} мили на имперски галон",
+      "kratak_shablon": "{0} mpg Imp.",
+      "tesen_shablon": "{0} mpg Imp."
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: consumption (4) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'consumption'. Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: consumption (4) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: consumption (4) — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "id": "bg-dzhamii",
+  "name": "Джамии в България",
+  "title": "Джамии в България",
+  "description": "Mosques in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q115207464",
+      "name_bg": "",
+      "name_en": "Hacı Murat Mosque, Hisarya",
+      "admin_area_bg": "Хисаря",
+      "admin_area_en": "Hisarya",
+      "latitude": 42.501676,
+      "longitude": 24.702213,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115207464"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q60851352",
+      "name_bg": "",
+      "name_en": "Kardzhali mosque",
+      "admin_area_bg": "Кърджали",
+      "admin_area_en": "Kardzhali",
+      "latitude": 41.643951,
+      "longitude": 25.366263,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60851352"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q134077920",
+      "name_bg": "",
+      "name_en": "Merkez Mosque (Peshtera)",
+      "admin_area_bg": "Пазарджик",
+      "admin_area_en": "Pazardzhik",
+      "latitude": 42.031347061,
+      "longitude": 24.298975424,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134077920"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q56036866",
+      "name_bg": "",
+      "name_en": "Said Pasha Mosque, Ruse",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.84179,
+      "longitude": 25.94798,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56036866"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q108882856",
+      "name_bg": "Азизие джамия",
+      "name_en": "",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.209444444,
+      "longitude": 27.9075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108882856"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q401059",
+      "name_bg": "Ахмед бей джамия",
+      "name_en": "Ahmed Bey Mosque",
+      "admin_area_bg": "Кюстендил",
+      "admin_area_en": "Kyustendil",
+      "latitude": 42.2814,
+      "longitude": 22.693274,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q401059"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12272779",
+      "name_bg": "Ахмед бей джамия (Разград)",
+      "name_en": "Ahmed Bey Mosque",
+      "admin_area_bg": "Разград",
+      "admin_area_en": "Razgrad",
+      "latitude": 43.527576562,
+      "longitude": 26.514835637,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12272779"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q803919",
+      "name_bg": "Байракли джамия",
+      "name_en": "Bayrakli Mosque",
+      "admin_area_bg": "Самоков",
+      "admin_area_en": "Samokov",
+      "latitude": 42.33861111,
+      "longitude": 23.55805556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q803919"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q790052",
+      "name_bg": "Баня Баши джамия",
+      "name_en": "Banya Bashi Mosque",
+      "admin_area_bg": "Оборище",
+      "admin_area_en": "Oborishte District",
+      "latitude": 42.699511111,
+      "longitude": 23.322575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q790052"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q921380",
+      "name_bg": "Буюк джамия",
+      "name_en": "Great Mosque of Sofia",
+      "admin_area_bg": "Средец",
+      "admin_area_en": "Sredets District",
+      "latitude": 42.69633056,
+      "longitude": 23.32456389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q921380"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q3409197",
+      "name_bg": "Джумая джамия",
+      "name_en": "Dzhumaya Mosque",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.147858,
+      "longitude": 24.748343,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3409197"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q20499387",
+      "name_bg": "Ески джамия",
+      "name_en": "Old Mosque",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.425,
+      "longitude": 25.628888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20499387"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q29558968",
+      "name_bg": "Ески джамия",
+      "name_en": "Old Mosque",
+      "admin_area_bg": "Ямбол",
+      "admin_area_en": "Yambol",
+      "latitude": 42.484586111,
+      "longitude": 26.506138888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29558968"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q12279964",
+      "name_bg": "Ески джамия (Хасково)",
+      "name_en": "Old Mosque, Haskovo",
+      "admin_area_bg": "Хасково",
+      "admin_area_en": "Haskovo",
+      "latitude": 41.931360441,
+      "longitude": 25.558364939,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12279964"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q3396952",
+      "name_bg": "Ибрахим паша джамия",
+      "name_en": "Ibrahim Pasha Mosque",
+      "admin_area_bg": "Разград",
+      "admin_area_en": "Razgrad",
+      "latitude": 43.525624,
+      "longitude": 26.523525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3396952"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q3702772",
+      "name_bg": "Караджа паша джамия",
+      "name_en": "Karaca Paşa Mosque, Gotse Delchev",
+      "admin_area_bg": "Гоце Делчев",
+      "admin_area_en": "Gotse Delchev",
+      "latitude": 41.575555555,
+      "longitude": 23.721388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3702772"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q107863380",
+      "name_bg": "Куршум джамия",
+      "name_en": "Kurshum Mosque, Pazardzhik",
+      "admin_area_bg": "Пазарджик",
+      "admin_area_en": "Pazardzhik",
+      "latitude": 42.193055555,
+      "longitude": 24.3375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107863380"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q16931688",
+      "name_bg": "Куршум джамия",
+      "name_en": "Kursum Mosque",
+      "admin_area_bg": "Карлово",
+      "admin_area_en": "Karlovo",
+      "latitude": 42.642222222,
+      "longitude": 24.807777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16931688"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q12284423",
+      "name_bg": "Куршумлу джамия",
+      "name_en": "Kurşunlu Mosque Silistra",
+      "admin_area_bg": "Силистра",
+      "admin_area_en": "Silistra",
+      "latitude": 44.116388888,
+      "longitude": 27.259722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12284423"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q11037391",
+      "name_bg": "Осман Пазвантоглу джамия",
+      "name_en": "Osman Pazvantoglu Mosque",
+      "admin_area_bg": "Видин",
+      "admin_area_en": "Vidin",
+      "latitude": 43.987777777,
+      "longitude": 22.881111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q11037391"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1440592",
+      "name_bg": "Сахат джамия",
+      "name_en": "Sahat Mosque",
+      "admin_area_bg": "Търговище",
+      "admin_area_en": "Targovishte",
+      "latitude": 43.250555555,
+      "longitude": 26.570277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1440592"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q2989415",
+      "name_bg": "Свети Седмочисленици",
+      "name_en": "Seven Saints Church",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.6897,
+      "longitude": 23.3278,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2989415"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q64169202",
+      "name_bg": "Султан Баязид джамия",
+      "name_en": "Sultan Bayezid Mosque",
+      "admin_area_bg": "Сатовча",
+      "admin_area_en": "Satovcha",
+      "latitude": 41.586833333,
+      "longitude": 24.028527777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q64169202"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q26258392",
+      "name_bg": "Таш кюпрю джамия",
+      "name_en": "Tashkyopryu Mosque",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.14969,
+      "longitude": 24.741684,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26258392"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q2006052",
+      "name_bg": "Томбул джамия (Шумен)",
+      "name_en": "Tombul Mosque (Shumen)",
+      "admin_area_bg": "Шумен",
+      "admin_area_en": "Shumen",
+      "latitude": 43.26944444,
+      "longitude": 26.91,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2006052"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q111781602",
+      "name_bg": "Тургут Реис джамия",
+      "name_en": "Turgut Reis Mosque",
+      "admin_area_bg": "Балчик",
+      "admin_area_en": "Balchik",
+      "latitude": 43.405416666,
+      "longitude": 28.168611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111781602"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q1742632",
+      "name_bg": "Успение Богородично (Узунджово)",
+      "name_en": "Church of the Assumption",
+      "admin_area_bg": "Узунджово",
+      "admin_area_en": "Uzundzhovo",
+      "latitude": 41.96283333,
+      "longitude": 25.65511111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1742632"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1398068",
+      "name_bg": "Фатих Мехмед джамия",
+      "name_en": "Fatih Mehmet Mosque",
+      "admin_area_bg": "Кюстендил",
+      "admin_area_en": "Kyustendil",
+      "latitude": 42.27938889,
+      "longitude": 22.69047222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1398068"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q108882633",
+      "name_bg": "Хайрие джамия",
+      "name_en": "",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.199722222,
+      "longitude": 27.911388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108882633"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q3409168",
+      "name_bg": "Шахбединова Имарет джамия",
+      "name_en": "Şahabettin İmaret Mosque",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.152394,
+      "longitude": 24.746673,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3409168"
+    }
+  ],
+  "meta": {
+    "title": "Джамии в България - Безплатно изтегляне",
+    "description": "Mosques in Bulgaria with coordinates, sourced from Wikidata. Съдържа 30 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Джамии в България | ListBase",
+    "seo_description": "Изтеглете Джамии в България — 30 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 30 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

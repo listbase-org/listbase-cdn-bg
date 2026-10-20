@@ -1,0 +1,532 @@
+{
+  "id": "bg-sofiya-stolitsa-naseleni-mesta",
+  "name": "Населени места в област София (столица) (Settlements of Sofiya  Stolitsa  Province, Bulgaria)",
+  "title": "Населени места в област София (столица) (Settlements of Sofiya  Stolitsa  Province, Bulgaria)",
+  "description": "Населени места в област София (столица) по ЕКАТТЕ (НСИ): 38 града/села/манастира с код ЕКАТТЕ, име (кирилица + латиница), община.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "ekatte",
+      "label": "Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_latin",
+      "label": "Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "type_bg",
+      "label": "Type Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "obshtina_code",
+      "label": "Obshtina Code",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "number"
+    },
+    {
+      "key": "altitude",
+      "label": "Altitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ekatte": "02511",
+      "name": "Балша",
+      "name_latin": "Balsha",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "6",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "02659",
+      "name": "Банкя",
+      "name_latin": "Bankya",
+      "type": "town",
+      "type_bg": "град",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "3",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "04234",
+      "name": "Бистрица",
+      "name_latin": "Bistritsa",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "7"
+    },
+    {
+      "ekatte": "07106",
+      "name": "Бусманци",
+      "name_latin": "Busmantsi",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "07140",
+      "name": "Бухово",
+      "name_latin": "Buhovo",
+      "type": "town",
+      "type_bg": "град",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "11394",
+      "name": "Владая",
+      "name_latin": "Vladaya",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "7"
+    },
+    {
+      "ekatte": "11884",
+      "name": "Войнеговци",
+      "name_latin": "Voynegovtsi",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "6",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "12084",
+      "name": "Волуяк",
+      "name_latin": "Voluyak",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "14831",
+      "name": "Герман",
+      "name_latin": "German",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "16448",
+      "name": "Горни Богров",
+      "name_latin": "Gorni Bogrov",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "6",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "21662",
+      "name": "Доброславци",
+      "name_latin": "Dobroslavtsi",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "22304",
+      "name": "Долни Богров",
+      "name_latin": "Dolni Bogrov",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "22472",
+      "name": "Долни Пасарел",
+      "name_latin": "Dolni Pasarel",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "7"
+    },
+    {
+      "ekatte": "29150",
+      "name": "Железница",
+      "name_latin": "Zheleznitsa",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "8"
+    },
+    {
+      "ekatte": "29204",
+      "name": "Желява",
+      "name_latin": "Zhelyava",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "6",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "29430",
+      "name": "Житен",
+      "name_latin": "Zhiten",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "6",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "32216",
+      "name": "Иваняне",
+      "name_latin": "Ivanyane",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "35239",
+      "name": "Казичене",
+      "name_latin": "Kazichene",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "37280",
+      "name": "Клисура",
+      "name_latin": "Klisura",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "7",
+      "altitude": "7"
+    },
+    {
+      "ekatte": "37914",
+      "name": "Кокаляне",
+      "name_latin": "Kokalyane",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "39791",
+      "name": "Кривина",
+      "name_latin": "Krivina",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "40436",
+      "name": "Кубратово",
+      "name_latin": "Kubratovo",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "41010",
+      "name": "Кътина",
+      "name_latin": "Katina",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "6",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "44063",
+      "name": "Лозен",
+      "name_latin": "Lozen",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "7"
+    },
+    {
+      "ekatte": "44224",
+      "name": "Локорско",
+      "name_latin": "Lokorsko",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "46721",
+      "name": "Мало Бучино",
+      "name_latin": "Malo Buchino",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "6",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "48393",
+      "name": "Мировяне",
+      "name_latin": "Mirovyane",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "49206",
+      "name": "Мрамор",
+      "name_latin": "Mramor",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "49597",
+      "name": "Мърчаево",
+      "name_latin": "Marchaevo",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "7"
+    },
+    {
+      "ekatte": "51250",
+      "name": "Негован",
+      "name_latin": "Negovan",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "00357",
+      "name": "Нови Искър",
+      "name_latin": "Novi Iskar",
+      "type": "town",
+      "type_bg": "град",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "3",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "55419",
+      "name": "Панчарево",
+      "name_latin": "Pancharevo",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "56624",
+      "name": "Плана",
+      "name_latin": "Plana",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "8",
+      "altitude": "8"
+    },
+    {
+      "ekatte": "57011",
+      "name": "Подгумер",
+      "name_latin": "Podgumer",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "6",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "65601",
+      "name": "Световрачене",
+      "name_latin": "Svetovrachene",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "68134",
+      "name": "София",
+      "name_latin": "Sofiya",
+      "type": "town",
+      "type_bg": "град",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "0",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "80409",
+      "name": "Чепинци",
+      "name_latin": "Chepintsi",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "4",
+      "altitude": "6"
+    },
+    {
+      "ekatte": "87401",
+      "name": "Яна",
+      "name_latin": "Yana",
+      "type": "village",
+      "type_bg": "село",
+      "oblast_code": "SOF",
+      "oblast_name": "София (столица)",
+      "obshtina_code": "SOF46",
+      "category": "5",
+      "altitude": "6"
+    }
+  ],
+  "meta": {
+    "title": "Населени места в област София (столица) (Settlements of Sofiya  Stolitsa  Province, Bulgaria) - Безплатно изтегляне",
+    "description": "Населени места в област София (столица) по ЕКАТТЕ (НСИ): 38 града/села/манастира с код ЕКАТТЕ, име (кирилица + латиница), община. Съдържа 38 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Населени места в област София (столица) (Settlements of Sofiya  Stolitsa  Province, Bulgaria) | ListBase",
+    "seo_description": "Изтеглете Населени места в област София (столица) (Settlements of Sofiya  Stolitsa  Province, Bulgaria) — 38 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 38 записа / 10 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

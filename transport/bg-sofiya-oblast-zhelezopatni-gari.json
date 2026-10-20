@@ -1,0 +1,292 @@
+{
+  "id": "bg-sofiya-oblast-zhelezopatni-gari",
+  "name": "Железопътни гари — област София област",
+  "title": "Железопътни гари — област София област",
+  "description": "Железопътни гари и спирки в област София област (Sofia Province, код SFO) от trainline-eu/stations. 7 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_latin",
+      "label": "Oblast Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_bg",
+      "label": "Nearest Settlement Bg",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_km",
+      "label": "Nearest Settlement Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 27855,
+      "name": "Dragoman",
+      "slug": "dragoman",
+      "uic": "5211006",
+      "latitude": 42.922041,
+      "longitude": 22.932165,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "София област",
+      "oblast_latin": "Sofia Province",
+      "oblast_slug": "sofiya-oblast",
+      "oblast_code": "SFO",
+      "nearest_settlement_bg": "Драгоман",
+      "nearest_settlement_km": 0.351,
+      "country": "BG"
+    },
+    {
+      "id": 2,
+      "station_id": 35929,
+      "name": "Borovets",
+      "slug": "borovets",
+      "uic": "",
+      "latitude": 42.267165,
+      "longitude": 23.586463,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "София област",
+      "oblast_latin": "Sofia Province",
+      "oblast_slug": "sofiya-oblast",
+      "oblast_code": "SFO",
+      "nearest_settlement_bg": "Боровец",
+      "nearest_settlement_km": 1.712,
+      "country": "BG"
+    },
+    {
+      "id": 3,
+      "station_id": 37782,
+      "name": "Botevgrad",
+      "slug": "botevgrad",
+      "uic": "",
+      "latitude": 42.907451,
+      "longitude": 23.785485,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "София област",
+      "oblast_latin": "Sofia Province",
+      "oblast_slug": "sofiya-oblast",
+      "oblast_code": "SFO",
+      "nearest_settlement_bg": "Ботевград",
+      "nearest_settlement_km": 0.642,
+      "country": "BG"
+    },
+    {
+      "id": 4,
+      "station_id": 37791,
+      "name": "Ihtiman",
+      "slug": "ihtiman",
+      "uic": "",
+      "latitude": 42.435067,
+      "longitude": 23.817633,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "София област",
+      "oblast_latin": "Sofia Province",
+      "oblast_slug": "sofiya-oblast",
+      "oblast_code": "SFO",
+      "nearest_settlement_bg": "Ихтиман",
+      "nearest_settlement_km": 0.373,
+      "country": "BG"
+    },
+    {
+      "id": 5,
+      "station_id": 37816,
+      "name": "Pravets",
+      "slug": "pravets",
+      "uic": "",
+      "latitude": 42.894911,
+      "longitude": 23.918625,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "София област",
+      "oblast_latin": "Sofia Province",
+      "oblast_slug": "sofiya-oblast",
+      "oblast_code": "SFO",
+      "nearest_settlement_bg": "Правец",
+      "nearest_settlement_km": 0.076,
+      "country": "BG"
+    },
+    {
+      "id": 6,
+      "station_id": 67811,
+      "name": "Novachene",
+      "slug": "novachene",
+      "uic": "",
+      "latitude": 42.977969,
+      "longitude": 23.72999,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "София област",
+      "oblast_latin": "Sofia Province",
+      "oblast_slug": "sofiya-oblast",
+      "oblast_code": "SFO",
+      "nearest_settlement_bg": "Новачене",
+      "nearest_settlement_km": 0.399,
+      "country": "BG"
+    },
+    {
+      "id": 7,
+      "station_id": 67812,
+      "name": "Pirdop",
+      "slug": "pirdop",
+      "uic": "",
+      "latitude": 42.702531,
+      "longitude": 24.17244,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "София област",
+      "oblast_latin": "Sofia Province",
+      "oblast_slug": "sofiya-oblast",
+      "oblast_code": "SFO",
+      "nearest_settlement_bg": "Пирдоп",
+      "nearest_settlement_km": 0.388,
+      "country": "BG"
+    }
+  ],
+  "meta": {
+    "title": "Железопътни гари — област София област - Безплатно изтегляне",
+    "description": "Железопътни гари и спирки в област София област (Sofia Province, код SFO) от trainline-eu/stations. 7 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations. Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железопътни гари — област София област | ListBase",
+    "seo_description": "Изтеглете Железопътни гари — област София област — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

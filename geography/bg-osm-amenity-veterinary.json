@@ -1,0 +1,1456 @@
+{
+  "id": "bg-osm-amenity-veterinary",
+  "name": "Ветеринарни клиники в България (OpenStreetMap)",
+  "title": "Ветеринарни клиники в България (OpenStreetMap)",
+  "description": "Ветеринарни клиники в България — 155 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=veterinary`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 155,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "101 любимци",
+      "shirina": 42.672634,
+      "dalzhina": 23.272506,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 2,
+      "ime": "9вет",
+      "shirina": 42.661048,
+      "dalzhina": 23.299777,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 3,
+      "ime": "Animal GP",
+      "shirina": 42.65701,
+      "dalzhina": 23.339666,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 4,
+      "ime": "Animal Rescue Sofia",
+      "shirina": 42.70742,
+      "dalzhina": 23.515289,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 5,
+      "ime": "Animal emergency",
+      "shirina": 42.664939,
+      "dalzhina": 23.284347,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 6,
+      "ime": "Art vet",
+      "shirina": 42.685427,
+      "dalzhina": 23.298944,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 7,
+      "ime": "Dr. Nikolay Ivanov",
+      "shirina": 42.782259,
+      "dalzhina": 23.120102,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 8,
+      "ime": "Euroz Vet",
+      "shirina": 42.678361,
+      "dalzhina": 26.327137,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 9,
+      "ime": "Global Vet",
+      "shirina": 42.674625,
+      "dalzhina": 23.28535,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 10,
+      "ime": "Green Balkans Wildlife Rehabilitation and Breeding Center",
+      "shirina": 42.404771,
+      "dalzhina": 25.63606,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 11,
+      "ime": "Green Center",
+      "shirina": 42.709926,
+      "dalzhina": 23.262596,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 12,
+      "ime": "Hadzhikinovi vets",
+      "shirina": 42.009312,
+      "dalzhina": 24.871284,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 13,
+      "ime": "July vet",
+      "shirina": 42.684024,
+      "dalzhina": 23.372288,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 14,
+      "ime": "KABET",
+      "shirina": 42.145041,
+      "dalzhina": 24.723619,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 15,
+      "ime": "Magnum",
+      "shirina": 42.669887,
+      "dalzhina": 23.284014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 16,
+      "ime": "Ozone",
+      "shirina": 42.667527,
+      "dalzhina": 23.276559,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 17,
+      "ime": "Paradise",
+      "shirina": 42.669038,
+      "dalzhina": 23.269436,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 18,
+      "ime": "Pet Friends",
+      "shirina": 42.661722,
+      "dalzhina": 23.316109,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 19,
+      "ime": "Sofia",
+      "shirina": 42.702624,
+      "dalzhina": 23.335527,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 20,
+      "ime": "Sofiavet",
+      "shirina": 42.651012,
+      "dalzhina": 23.36082,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 21,
+      "ime": "VIP VET",
+      "shirina": 42.653327,
+      "dalzhina": 23.369318,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 22,
+      "ime": "Vet Medical Assistance",
+      "shirina": 42.754915,
+      "dalzhina": 23.186772,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 23,
+      "ime": "Vet Star clinic",
+      "shirina": 42.713964,
+      "dalzhina": 23.270299,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 24,
+      "ime": "Vet&care",
+      "shirina": 42.672435,
+      "dalzhina": 23.310959,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 25,
+      "ime": "VetHouse",
+      "shirina": 42.685315,
+      "dalzhina": 23.251089,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 26,
+      "ime": "Vetcare",
+      "shirina": 42.685299,
+      "dalzhina": 23.295977,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 27,
+      "ime": "Via Vet Medica",
+      "shirina": 42.662333,
+      "dalzhina": 23.396825,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 28,
+      "ime": "Virbac",
+      "shirina": 42.671359,
+      "dalzhina": 23.324267,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 29,
+      "ime": "Vivavet",
+      "shirina": 42.681666,
+      "dalzhina": 23.353693,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 30,
+      "ime": "Zoo king",
+      "shirina": 42.676872,
+      "dalzhina": 23.284814,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 31,
+      "ime": "Аксис",
+      "shirina": 42.430634,
+      "dalzhina": 25.623535,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 32,
+      "ime": "Алагенски",
+      "shirina": 42.139583,
+      "dalzhina": 25.867886,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 33,
+      "ime": "Амика Вет",
+      "shirina": 42.428379,
+      "dalzhina": 25.649635,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 34,
+      "ime": "Амикус",
+      "shirina": 42.561132,
+      "dalzhina": 27.639511,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 35,
+      "ime": "Анимо",
+      "shirina": 42.66625,
+      "dalzhina": 23.275531,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 36,
+      "ime": "Аренавет Ветеринарна болница",
+      "shirina": 42.059626,
+      "dalzhina": 25.586563,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 37,
+      "ime": "БАВ",
+      "shirina": 42.666934,
+      "dalzhina": 23.291449,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 38,
+      "ime": "Бал Вет",
+      "shirina": 42.736558,
+      "dalzhina": 23.305879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 39,
+      "ime": "Барс вет",
+      "shirina": 42.63211,
+      "dalzhina": 23.377913,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 40,
+      "ime": "Бест вет",
+      "shirina": 42.673704,
+      "dalzhina": 23.298791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 41,
+      "ime": "Биовет",
+      "shirina": 42.681175,
+      "dalzhina": 23.353316,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 42,
+      "ime": "Борисов и колеги",
+      "shirina": 42.65998,
+      "dalzhina": 23.274489,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 43,
+      "ime": "Булвет",
+      "shirina": 42.687902,
+      "dalzhina": 23.352123,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 44,
+      "ime": "ВЕТИРИНАРНА КЛИНИКА",
+      "shirina": 42.677404,
+      "dalzhina": 26.320424,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 45,
+      "ime": "Вас-вет",
+      "shirina": 42.665805,
+      "dalzhina": 23.299801,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 46,
+      "ime": "Ветеринар",
+      "shirina": 43.245177,
+      "dalzhina": 27.980228,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 47,
+      "ime": "Ветеринарен кабинет",
+      "shirina": 42.660502,
+      "dalzhina": 23.366192,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 48,
+      "ime": "Ветеринарен кабинет",
+      "shirina": 42.719711,
+      "dalzhina": 23.260348,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 49,
+      "ime": "Ветеринарен кабинет",
+      "shirina": 42.771969,
+      "dalzhina": 23.398906,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 50,
+      "ime": "Ветеринарен кабинет \" Феникс Вет\"",
+      "shirina": 42.672128,
+      "dalzhina": 23.351074,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 51,
+      "ime": "Ветеринарен кабинет ПримаВет – Варна ЕООД",
+      "shirina": 43.22568,
+      "dalzhina": 28.000172,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 52,
+      "ime": "Ветеринарен кабинет Своге",
+      "shirina": 42.961236,
+      "dalzhina": 23.344502,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 53,
+      "ime": "Ветеринарен център \"Младост\"",
+      "shirina": 42.626097,
+      "dalzhina": 23.384434,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 54,
+      "ime": "Ветеринарен център \"ХомеоВет\"",
+      "shirina": 42.705454,
+      "dalzhina": 23.293837,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 55,
+      "ime": "Ветеринарен център - Кракра",
+      "shirina": 42.602642,
+      "dalzhina": 23.034316,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 56,
+      "ime": "Ветеринарен център Бояна",
+      "shirina": 42.649013,
+      "dalzhina": 23.252371,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 57,
+      "ime": "Ветеринарна Аптека",
+      "shirina": 42.019742,
+      "dalzhina": 23.667277,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 58,
+      "ime": "Ветеринарна Клиника \"Еклипс\"",
+      "shirina": 43.077175,
+      "dalzhina": 25.596429,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 59,
+      "ime": "Ветеринарна Клиника Какаду",
+      "shirina": 42.661155,
+      "dalzhina": 23.350331,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 60,
+      "ime": "Ветеринарна амбулатория \"Свети Врач\"",
+      "shirina": 41.563917,
+      "dalzhina": 23.276893,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 61,
+      "ime": "Ветеринарна клиника",
+      "shirina": 42.65961,
+      "dalzhina": 23.328007,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 62,
+      "ime": "Ветеринарна клиника",
+      "shirina": 43.427683,
+      "dalzhina": 28.159988,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 63,
+      "ime": "Ветеринарна клиника \"ANYCARE\"",
+      "shirina": 42.67696,
+      "dalzhina": 23.289271,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 64,
+      "ime": "Ветеринарна клиника \"Авицена\"",
+      "shirina": 42.703196,
+      "dalzhina": 23.289934,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 65,
+      "ime": "Ветеринарна клиника \"Свети Георги\"",
+      "shirina": 42.692135,
+      "dalzhina": 23.361411,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 66,
+      "ime": "Ветеринарна клиника -Прима Вет Варна",
+      "shirina": 43.226818,
+      "dalzhina": 28.000552,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 67,
+      "ime": "Ветеринарна клиника NOVA",
+      "shirina": 42.629626,
+      "dalzhina": 23.381192,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 68,
+      "ime": "Ветеринарна клиника Вита-Вет",
+      "shirina": 42.867382,
+      "dalzhina": 25.315539,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 69,
+      "ime": "Ветеринарна клиника Карлово Триовет",
+      "shirina": 42.633011,
+      "dalzhina": 24.80386,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 70,
+      "ime": "Ветеринарна клиника Симеоново",
+      "shirina": 42.616562,
+      "dalzhina": 23.337424,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 71,
+      "ime": "Ветеринарна клиника „Възраждане“",
+      "shirina": 42.698274,
+      "dalzhina": 23.305607,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 72,
+      "ime": "Ветеринарна клиника „Тракия“",
+      "shirina": 41.939757,
+      "dalzhina": 25.554371,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 73,
+      "ime": "Ветеринарна лечебница",
+      "shirina": 41.884634,
+      "dalzhina": 23.471401,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 74,
+      "ime": "Ветеринарна лечебница",
+      "shirina": 42.629141,
+      "dalzhina": 25.158758,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 75,
+      "ime": "Ветеринарна служба",
+      "shirina": 43.64917,
+      "dalzhina": 26.48128,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 76,
+      "ime": "Ветеринарни аптеки",
+      "shirina": 42.677785,
+      "dalzhina": 26.315802,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 77,
+      "ime": "Ветеринарномедицинска клиника МобиВет",
+      "shirina": 42.522536,
+      "dalzhina": 27.455479,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 78,
+      "ime": "Ветзона",
+      "shirina": 42.711286,
+      "dalzhina": 23.31361,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 79,
+      "ime": "Ви-Вет",
+      "shirina": 43.420983,
+      "dalzhina": 28.161078,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 80,
+      "ime": "Виа Вет Медика",
+      "shirina": 42.649676,
+      "dalzhina": 23.401971,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 81,
+      "ime": "Вива Вет",
+      "shirina": 43.571058,
+      "dalzhina": 27.825331,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 82,
+      "ime": "Викрито",
+      "shirina": 42.655938,
+      "dalzhina": 23.265213,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 83,
+      "ime": "Вита Вери",
+      "shirina": 42.428549,
+      "dalzhina": 25.638657,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 84,
+      "ime": "Витоша",
+      "shirina": 42.674044,
+      "dalzhina": 23.255951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 85,
+      "ime": "Градски мустачки",
+      "shirina": 42.429524,
+      "dalzhina": 25.617916,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 86,
+      "ime": "Грижа за тях",
+      "shirina": 42.628242,
+      "dalzhina": 23.309862,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 87,
+      "ime": "Грийн До",
+      "shirina": 42.697367,
+      "dalzhina": 23.348436,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 88,
+      "ime": "Д-р Антов",
+      "shirina": 42.671243,
+      "dalzhina": 23.326169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 89,
+      "ime": "Д-р Дулитъл",
+      "shirina": 42.495457,
+      "dalzhina": 27.463317,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 90,
+      "ime": "Д-р Капашиков",
+      "shirina": 42.16104,
+      "dalzhina": 24.749967,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 91,
+      "ime": "Д-р Манолов",
+      "shirina": 43.212112,
+      "dalzhina": 27.899933,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 92,
+      "ime": "Д-р Милен Иванов",
+      "shirina": 42.696391,
+      "dalzhina": 23.337004,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 93,
+      "ime": "Д-р Милко Петров",
+      "shirina": 42.697414,
+      "dalzhina": 23.331438,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 94,
+      "ime": "Д-р Найденов",
+      "shirina": 42.660016,
+      "dalzhina": 23.281468,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 95,
+      "ime": "Д-р Петков",
+      "shirina": 43.222249,
+      "dalzhina": 27.918222,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 96,
+      "ime": "Д-р Сандев",
+      "shirina": 42.561538,
+      "dalzhina": 27.640147,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 97,
+      "ime": "Д-р Стефан Ковачев",
+      "shirina": 42.697364,
+      "dalzhina": 23.310098,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 98,
+      "ime": "Д-р Шопов",
+      "shirina": 42.187396,
+      "dalzhina": 24.326667,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 99,
+      "ime": "Д-р Янкова",
+      "shirina": 42.678848,
+      "dalzhina": 23.293722,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 100,
+      "ime": "Дар",
+      "shirina": 42.681528,
+      "dalzhina": 23.322147,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 101,
+      "ime": "Декавет",
+      "shirina": 42.670109,
+      "dalzhina": 23.318701,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 102,
+      "ime": "Денонощна ветеринарна клиника Вяра Надежда Любов",
+      "shirina": 42.712551,
+      "dalzhina": 23.244932,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 103,
+      "ime": "Джаф и Мър",
+      "shirina": 41.929726,
+      "dalzhina": 25.559035,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 104,
+      "ime": "Джаф и Мъри",
+      "shirina": 42.674977,
+      "dalzhina": 23.282773,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 105,
+      "ime": "Димитрови",
+      "shirina": 42.710772,
+      "dalzhina": 23.377879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 106,
+      "ime": "Добро хрумване",
+      "shirina": 42.668482,
+      "dalzhina": 23.356828,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 107,
+      "ime": "Добро хрумване",
+      "shirina": 42.66942,
+      "dalzhina": 23.289777,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 108,
+      "ime": "Доверие",
+      "shirina": 42.688441,
+      "dalzhina": 23.331162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 109,
+      "ime": "Дог Сервиз",
+      "shirina": 42.703592,
+      "dalzhina": 23.312212,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 110,
+      "ime": "Дуо вет",
+      "shirina": 41.995086,
+      "dalzhina": 23.087405,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 111,
+      "ime": "ЕЛАН 09",
+      "shirina": 43.222161,
+      "dalzhina": 27.930854,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 112,
+      "ime": "Ер-вет",
+      "shirina": 42.67016,
+      "dalzhina": 23.28535,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 113,
+      "ime": "За кучето и котката",
+      "shirina": 42.685351,
+      "dalzhina": 23.297678,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 114,
+      "ime": "Заравет",
+      "shirina": 42.126677,
+      "dalzhina": 24.791624,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 115,
+      "ime": "Здрави лапи",
+      "shirina": 42.652846,
+      "dalzhina": 23.317818,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 116,
+      "ime": "Зооветеринарен комплекс „Добро Хрумване“",
+      "shirina": 42.69801,
+      "dalzhina": 23.30645,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 117,
+      "ime": "Зооландия",
+      "shirina": 42.689297,
+      "dalzhina": 23.363571,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 118,
+      "ime": "Изолатор и отделение за паразитни болести",
+      "shirina": 42.402526,
+      "dalzhina": 25.570613,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 119,
+      "ime": "Ита Вет",
+      "shirina": 42.681185,
+      "dalzhina": 23.325258,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 120,
+      "ime": "Калмуков",
+      "shirina": 42.503197,
+      "dalzhina": 27.478154,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 121,
+      "ime": "Клиника за дребни животни",
+      "shirina": 42.401884,
+      "dalzhina": 25.571019,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 122,
+      "ime": "Кракра",
+      "shirina": 42.732436,
+      "dalzhina": 23.251324,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 123,
+      "ime": "Лозенец",
+      "shirina": 42.674019,
+      "dalzhina": 23.321407,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 124,
+      "ime": "Любимец 13",
+      "shirina": 43.849694,
+      "dalzhina": 25.956981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 125,
+      "ime": "Медивест",
+      "shirina": 42.481825,
+      "dalzhina": 26.492832,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 126,
+      "ime": "Медик Вет",
+      "shirina": 43.810494,
+      "dalzhina": 23.239567,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 127,
+      "ime": "Медисън",
+      "shirina": 42.702416,
+      "dalzhina": 23.326035,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 128,
+      "ime": "Мей",
+      "shirina": 42.684527,
+      "dalzhina": 23.300196,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 129,
+      "ime": "НЕЧОВЕШКА клиника \"Син Кръст\"",
+      "shirina": 42.616349,
+      "dalzhina": 23.400835,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 130,
+      "ime": "Национална Ветеринарна Клиника",
+      "shirina": 42.713523,
+      "dalzhina": 23.262546,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 131,
+      "ime": "Новет",
+      "shirina": 42.157715,
+      "dalzhina": 24.741889,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 132,
+      "ime": "ОП „Екоравновесие” - клиника Връбница",
+      "shirina": 42.740546,
+      "dalzhina": 23.288237,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 133,
+      "ime": "Обединена ветеринарна клиника",
+      "shirina": 43.217803,
+      "dalzhina": 27.925138,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 134,
+      "ime": "Общинска ветеринарна станция",
+      "shirina": 43.185957,
+      "dalzhina": 27.4438,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 135,
+      "ime": "Приятели",
+      "shirina": 42.683543,
+      "dalzhina": 23.327389,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 136,
+      "ime": "Провет",
+      "shirina": 42.136172,
+      "dalzhina": 24.800103,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 137,
+      "ime": "СИН КРЪСТ",
+      "shirina": 42.61648,
+      "dalzhina": 23.400476,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 138,
+      "ime": "ССВЕТ",
+      "shirina": 43.563857,
+      "dalzhina": 27.844207,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 139,
+      "ime": "ССВЕТ",
+      "shirina": 43.590241,
+      "dalzhina": 27.854643,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 140,
+      "ime": "Санавет",
+      "shirina": 43.219097,
+      "dalzhina": 27.930341,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 141,
+      "ime": "Санопетс",
+      "shirina": 42.909886,
+      "dalzhina": 23.787895,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 142,
+      "ime": "Св. Георги",
+      "shirina": 42.142587,
+      "dalzhina": 24.734119,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 143,
+      "ime": "Свети Антим",
+      "shirina": 42.706815,
+      "dalzhina": 23.307895,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 144,
+      "ime": "Северна Ветеринарна Клиника",
+      "shirina": 42.7378,
+      "dalzhina": 23.297679,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 145,
+      "ime": "Син кръст",
+      "shirina": 42.61649,
+      "dalzhina": 23.400494,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 146,
+      "ime": "Сити",
+      "shirina": 42.677888,
+      "dalzhina": 23.291621,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 147,
+      "ime": "Сити Джънгъл",
+      "shirina": 42.653265,
+      "dalzhina": 23.401422,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 148,
+      "ime": "Стационари за коне и продуктивни животни",
+      "shirina": 42.401917,
+      "dalzhina": 25.570487,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 149,
+      "ime": "Унивет",
+      "shirina": 42.139064,
+      "dalzhina": 24.747512,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 150,
+      "ime": "Централна ветеринарна клиника",
+      "shirina": 42.657797,
+      "dalzhina": 23.334594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 151,
+      "ime": "Югоизточна Ветеринарна клиника Св. Анна",
+      "shirina": 42.43987,
+      "dalzhina": 27.638999,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 152,
+      "ime": "ветеринарен кабинет Диана",
+      "shirina": 43.179362,
+      "dalzhina": 27.897709,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 153,
+      "ime": "ветеринарна аптека",
+      "shirina": 42.670117,
+      "dalzhina": 23.600662,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 154,
+      "ime": "д-р Цонев",
+      "shirina": 43.21536,
+      "dalzhina": 27.90022,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    },
+    {
+      "id": 155,
+      "ime": "зоомагазин",
+      "shirina": 43.013822,
+      "dalzhina": 23.045767,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "veterinary",
+      "osm_klas": "amenity=veterinary"
+    }
+  ],
+  "meta": {
+    "title": "Ветеринарни клиники в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Ветеринарни клиники в България — 155 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=veterinary`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 155 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Ветеринарни клиники в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Ветеринарни клиники в България (OpenStreetMap) — 155 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 155 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

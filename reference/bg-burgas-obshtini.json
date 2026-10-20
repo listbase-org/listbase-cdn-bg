@@ -1,0 +1,322 @@
+{
+  "id": "bg-burgas-obshtini",
+  "name": "Общини — област Бургас (Municipalities of Burgas)",
+  "title": "Общини — област Бургас (Municipalities of Burgas)",
+  "description": "Списък на общините в област Бургас (Burgas oblast). 13 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс BGS. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 41,
+      "gisco_id": "BG_BGS01",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Айтос",
+      "name_en": "",
+      "slug": "aytos",
+      "population_2024": 24967,
+      "population_density_2024_per_km2": 61.98224964,
+      "area_km2": 402.80887103,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://aytos.bg/programa-obshtina-aitos-namalyavane-riska-4874.html",
+      "comment": ""
+    },
+    {
+      "id": 42,
+      "gisco_id": "BG_BGS04",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Бургас",
+      "name_en": "",
+      "slug": "burgas",
+      "population_2024": 194809,
+      "population_density_2024_per_km2": 347.85850347,
+      "area_km2": 560.02368221,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.burgas.bg/bg/pri-bedstviya-i-avarii/",
+      "comment": ""
+    },
+    {
+      "id": 43,
+      "gisco_id": "BG_BGS06",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Средец",
+      "name_en": "",
+      "slug": "sredec",
+      "population_2024": 12939,
+      "population_density_2024_per_km2": 11.24991841,
+      "area_km2": 1150.14167443,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://sredec-sofia.org/uploads/plan-za-bedstviq/PlanzaBedstvia.doc",
+      "comment": ""
+    },
+    {
+      "id": 54,
+      "gisco_id": "BG_BGS08",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Камено",
+      "name_en": "Kameno",
+      "slug": "kameno",
+      "population_2024": 9297,
+      "population_density_2024_per_km2": 26.19783634,
+      "area_km2": 354.87663487,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Only yearly plan available"
+    },
+    {
+      "id": 55,
+      "gisco_id": "BG_BGS09",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Карнобат",
+      "name_en": "",
+      "slug": "karnobat",
+      "population_2024": 20144,
+      "population_density_2024_per_km2": 24.14341267,
+      "area_km2": 834.3476655,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://karnobat-ob.bg/currentNews-652-text.html",
+      "comment": ""
+    },
+    {
+      "id": 56,
+      "gisco_id": "BG_BGS12",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Малко Търново",
+      "name_en": "Malko Tarnovo",
+      "slug": "malko-tarnovo",
+      "population_2024": 2558,
+      "population_density_2024_per_km2": 3.26539274,
+      "area_km2": 783.36672038,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    },
+    {
+      "id": 57,
+      "gisco_id": "BG_BGS13",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Царево",
+      "name_en": "",
+      "slug": "carevo",
+      "population_2024": 8353,
+      "population_density_2024_per_km2": 16.26335077,
+      "area_km2": 513.60879539,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://tsarevo.bg/docs/planove-i-programi/Obshtinska%20programa%20za%20namalyavane%20na%20riska%20o",
+      "comment": ""
+    },
+    {
+      "id": 58,
+      "gisco_id": "BG_BGS15",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Несебър",
+      "name_en": "",
+      "slug": "nesebar",
+      "population_2024": 30282,
+      "population_density_2024_per_km2": 71.81915038,
+      "area_km2": 421.64241486,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.nesebar.bg/safety.html",
+      "comment": ""
+    },
+    {
+      "id": 59,
+      "gisco_id": "BG_BGS17",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Поморие",
+      "name_en": "",
+      "slug": "pomorie",
+      "population_2024": 26102,
+      "population_density_2024_per_km2": 63.04475665,
+      "area_km2": 414.02332862,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.pomorie.bg/proekt-na-programa-na-obshtina-pomorie-za-namalyavane-na-riska-ot-bedstviya-2",
+      "comment": ""
+    },
+    {
+      "id": 60,
+      "gisco_id": "BG_BGS18",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Руен",
+      "name_en": "",
+      "slug": "ruen",
+      "population_2024": 25882,
+      "population_density_2024_per_km2": 37.52162544,
+      "area_km2": 689.78888024,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://ruen.egov.bg/wps/portal/municipality-ruen/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 71,
+      "gisco_id": "BG_BGS21",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Созопол",
+      "name_en": "",
+      "slug": "sozopol",
+      "population_2024": 12560,
+      "population_density_2024_per_km2": 26.15073924,
+      "area_km2": 480.29234979,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://sozopol.bg/download/pages/95/plan-za-zashtita-pri-bedstvia-i-avarii-Sozopol-2022.pdf",
+      "comment": ""
+    },
+    {
+      "id": 72,
+      "gisco_id": "BG_BGS23",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Сунгурларе",
+      "name_en": "",
+      "slug": "sungurlare",
+      "population_2024": 10379,
+      "population_density_2024_per_km2": 13.0486591,
+      "area_km2": 795.40739914,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://sungurlare.bg/images/aktove/planbedstvie2025.pdf",
+      "comment": ""
+    },
+    {
+      "id": 73,
+      "gisco_id": "BG_BGS27",
+      "oblast_code": "BGS",
+      "oblast_slug": "burgas",
+      "oblast_bg": "Бургас",
+      "oblast_en": "Burgas",
+      "name_bg": "Приморско",
+      "name_en": "Primorsko",
+      "slug": "primorsko",
+      "population_2024": 6174,
+      "population_density_2024_per_km2": 17.61474959,
+      "area_km2": 350.5017183,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "Could not be found"
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Бургас (Municipalities of Burgas) - Безплатно изтегляне",
+    "description": "Списък на общините в област Бургас (Burgas oblast). 13 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс BGS. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 13 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Бургас (Municipalities of Burgas) | ListBase",
+    "seo_description": "Изтеглете Общини — област Бургас (Municipalities of Burgas) — 13 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 13 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

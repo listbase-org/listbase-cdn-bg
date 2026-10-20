@@ -1,0 +1,86 @@
+{
+  "id": "bg-merni-edinitsi-magnetic",
+  "name": "Мерни единици: magnetic (2)",
+  "title": "Мерни единици: magnetic (2)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'magnetic'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "magnetic-tesla",
+      "kategoriya": "magnetic",
+      "nazvanie": "тесла",
+      "shablon_edinstveno": "{0} тесла",
+      "shablon_mnozhestveno": "{0} тесла",
+      "kratak_shablon": "{0} T",
+      "tesen_shablon": "{0} T"
+    },
+    {
+      "id": 2,
+      "unit_code": "magnetic-weber",
+      "kategoriya": "magnetic",
+      "nazvanie": "вебери",
+      "shablon_edinstveno": "{0} вебер",
+      "shablon_mnozhestveno": "{0} вебера",
+      "kratak_shablon": "{0} Wb",
+      "tesen_shablon": "{0} Wb"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: magnetic (2) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'magnetic'. Съдържа 2 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: magnetic (2) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: magnetic (2) — 2 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 2 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

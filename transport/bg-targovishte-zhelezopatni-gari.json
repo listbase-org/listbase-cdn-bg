@@ -1,0 +1,269 @@
+{
+  "id": "bg-targovishte-zhelezopatni-gari",
+  "name": "Железопътни гари — област Търговище",
+  "title": "Железопътни гари — област Търговище",
+  "description": "Железопътни гари и спирки в област Търговище (Targovishte, код TGV) от trainline-eu/stations. 6 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_latin",
+      "label": "Oblast Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_bg",
+      "label": "Nearest Settlement Bg",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_km",
+      "label": "Nearest Settlement Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 37779,
+      "name": "Antonovo",
+      "slug": "antonovo",
+      "uic": "",
+      "latitude": 43.155483,
+      "longitude": 26.172208,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Търговище",
+      "oblast_latin": "Targovishte",
+      "oblast_slug": "targovishte",
+      "oblast_code": "TGV",
+      "nearest_settlement_bg": "Антоново",
+      "nearest_settlement_km": 1.17,
+      "country": "BG"
+    },
+    {
+      "id": 2,
+      "station_id": 37810,
+      "name": "Omurtag",
+      "slug": "omurtag",
+      "uic": "",
+      "latitude": 43.108786,
+      "longitude": 26.415961,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Търговище",
+      "oblast_latin": "Targovishte",
+      "oblast_slug": "targovishte",
+      "oblast_code": "TGV",
+      "nearest_settlement_bg": "Омуртаг",
+      "nearest_settlement_km": 0.151,
+      "country": "BG"
+    },
+    {
+      "id": 3,
+      "station_id": 37829,
+      "name": "Targovishte",
+      "slug": "targovishte",
+      "uic": "",
+      "latitude": 43.253285,
+      "longitude": 26.574417,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Търговище",
+      "oblast_latin": "Targovishte",
+      "oblast_slug": "targovishte",
+      "oblast_code": "TGV",
+      "nearest_settlement_bg": "Търговище",
+      "nearest_settlement_km": 0.458,
+      "country": "BG"
+    },
+    {
+      "id": 4,
+      "station_id": 38405,
+      "name": "Zelena morava",
+      "slug": "zelena-morava",
+      "uic": "",
+      "latitude": 43.040773,
+      "longitude": 26.399757,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Търговище",
+      "oblast_latin": "Targovishte",
+      "oblast_slug": "targovishte",
+      "oblast_code": "TGV",
+      "nearest_settlement_bg": "Зелена морава",
+      "nearest_settlement_km": 0.216,
+      "country": "BG"
+    },
+    {
+      "id": 5,
+      "station_id": 38406,
+      "name": "Prolaz",
+      "slug": "prolaz",
+      "uic": "",
+      "latitude": 43.172826,
+      "longitude": 26.501571,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Търговище",
+      "oblast_latin": "Targovishte",
+      "oblast_slug": "targovishte",
+      "oblast_code": "TGV",
+      "nearest_settlement_bg": "Пролаз",
+      "nearest_settlement_km": 0.018,
+      "country": "BG"
+    },
+    {
+      "id": 6,
+      "station_id": 38603,
+      "name": "Popovo",
+      "slug": "popovo",
+      "uic": "",
+      "latitude": 43.346246,
+      "longitude": 26.22484,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Търговище",
+      "oblast_latin": "Targovishte",
+      "oblast_slug": "targovishte",
+      "oblast_code": "TGV",
+      "nearest_settlement_bg": "Попово",
+      "nearest_settlement_km": 0.351,
+      "country": "BG"
+    }
+  ],
+  "meta": {
+    "title": "Железопътни гари — област Търговище - Безплатно изтегляне",
+    "description": "Железопътни гари и спирки в област Търговище (Targovishte, код TGV) от trainline-eu/stations. 6 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations. Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железопътни гари — област Търговище | ListBase",
+    "seo_description": "Изтеглете Железопътни гари — област Търговище — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

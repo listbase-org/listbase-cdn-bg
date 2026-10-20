@@ -1,0 +1,186 @@
+{
+  "id": "bg-turgovishhe-obshtini",
+  "name": "Общини — област Търговище (Municipalities of Targovishte)",
+  "title": "Общини — област Търговище (Municipalities of Targovishte)",
+  "description": "Списък на общините в област Търговище (Targovishte oblast). 5 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс TGV. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 201,
+      "gisco_id": "BG_TGV02",
+      "oblast_code": "TGV",
+      "oblast_slug": "turgovishhe",
+      "oblast_bg": "Търговище",
+      "oblast_en": "Targovishte",
+      "name_bg": "Антоново",
+      "name_en": "",
+      "slug": "antonovo",
+      "population_2024": 4484,
+      "population_density_2024_per_km2": 9.357367,
+      "area_km2": 479.19462795,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://antonovo.bg/wp-content/uploads/2022/03/%D0%9F%D0%9B%D0%90%D0%9D-%D0%BF%D0%BE%D1%81%D0%BB%D0%",
+      "comment": ""
+    },
+    {
+      "id": 202,
+      "gisco_id": "BG_TGV22",
+      "oblast_code": "TGV",
+      "oblast_slug": "turgovishhe",
+      "oblast_bg": "Търговище",
+      "oblast_en": "Targovishte",
+      "name_bg": "Омуртаг",
+      "name_en": "Omurtag",
+      "slug": "omurtag",
+      "population_2024": 15822,
+      "population_density_2024_per_km2": 39.47793421,
+      "area_km2": 400.78084929,
+      "disaster_plan_available": false,
+      "disaster_plan_url": "",
+      "comment": "https://omurtag.bg/?page_id=153"
+    },
+    {
+      "id": 203,
+      "gisco_id": "BG_TGV23",
+      "oblast_code": "TGV",
+      "oblast_slug": "turgovishhe",
+      "oblast_bg": "Търговище",
+      "oblast_en": "Targovishte",
+      "name_bg": "Опака",
+      "name_en": "",
+      "slug": "opaka",
+      "population_2024": 5312,
+      "population_density_2024_per_km2": 33.75821651,
+      "area_km2": 157.35428435,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://opaka.bg/%D0%B7%D0%B0-%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0%D1%82%D0%B0/%D0%B7%D0%B0%D1%89%D0",
+      "comment": ""
+    },
+    {
+      "id": 204,
+      "gisco_id": "BG_TGV24",
+      "oblast_code": "TGV",
+      "oblast_slug": "turgovishhe",
+      "oblast_bg": "Търговище",
+      "oblast_en": "Targovishte",
+      "name_bg": "Попово",
+      "name_en": "",
+      "slug": "popovo",
+      "population_2024": 21870,
+      "population_density_2024_per_km2": 26.25832539,
+      "area_km2": 832.87870312,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.popovo.bg/bg/obstina/dokumenti-menu/planove-menu.html",
+      "comment": ""
+    },
+    {
+      "id": 205,
+      "gisco_id": "BG_TGV35",
+      "oblast_code": "TGV",
+      "oblast_slug": "turgovishhe",
+      "oblast_bg": "Търговище",
+      "oblast_en": "Targovishte",
+      "name_bg": "Търговище",
+      "name_en": "",
+      "slug": "targovishte",
+      "population_2024": 48121,
+      "population_density_2024_per_km2": 57.26546748,
+      "area_km2": 840.31445331,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://targovishte.bg/wps/portal/municipality-targovishte/municipality/disaster.accident.protection",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Търговище (Municipalities of Targovishte) - Безплатно изтегляне",
+    "description": "Списък на общините в област Търговище (Targovishte oblast). 5 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс TGV. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Търговище (Municipalities of Targovishte) | ListBase",
+    "seo_description": "Изтеглете Общини — област Търговище (Municipalities of Targovishte) — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

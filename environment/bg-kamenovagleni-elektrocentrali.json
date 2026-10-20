@@ -1,0 +1,247 @@
+{
+  "id": "bg-kamenovagleni-elektrocentrali",
+  "name": "Каменовъглени електроцентрали в България",
+  "title": "Каменовъглени електроцентрали в България",
+  "description": "Каменовъглени електроцентрали в България. All 6 Hard Coal power generation/storage units in Bulgaria carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of bg-elektrocentrali (zero derivation).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2735,
+      "name": "Deven",
+      "fueltype": "Hard Coal",
+      "technology": "",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 174,
+      "efficiency": "",
+      "date_in": 2009,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 43.1963539,
+      "lon": 27.6326752,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-2-1, BEYOND-BG-2-2; ENTSOE: 32W001100100026K; GEM: G100000102332, G100000102333"
+    },
+    {
+      "id": 3349,
+      "name": "Varna",
+      "fueltype": "Hard Coal",
+      "technology": "",
+      "set": "PP",
+      "country": "Bulgaria",
+      "capacity_mw": 1260,
+      "efficiency": "",
+      "date_in": 1968,
+      "date_retrofit": "",
+      "date_out": 2015,
+      "lat": 43.19477,
+      "lon": 27.765472,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-5-1, BEYOND-BG-5-2, BEYOND-BG-5-3, BEYOND-BG-5-4, BEYOND-BG-5-5, BEYOND-BG-5-6; GEM: G100000110558, G100000110559, G100000110560, G100000110561, G100000110562, G100000110563"
+    },
+    {
+      "id": 3351,
+      "name": "Ruse Iztok",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 400,
+      "efficiency": "",
+      "date_in": 1964,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 43.866654000000004,
+      "lon": 26.010002,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-11-1, BEYOND-BG-11-2, BEYOND-BG-11-3, BEYOND-BG-11-4, BEYOND-BG-11-5, BEYOND-BG-11-6; GEM: G100000108664, G100000108665, G100000108666, G100000108667, G100000108668, G100000108669"
+    },
+    {
+      "id": 3352,
+      "name": "Bobov Dol",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Bulgaria",
+      "capacity_mw": 630,
+      "efficiency": "",
+      "date_in": 1973,
+      "date_retrofit": "",
+      "date_out": 2040,
+      "lat": 42.285818,
+      "lon": 23.03283,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "BEYONDCOAL: BEYOND-BG-4-1, BEYOND-BG-4-2, BEYOND-BG-4-3; GEM: G100000100971, G100000100972, G100000100973"
+    },
+    {
+      "id": 8711,
+      "name": "Svilosa",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 120,
+      "efficiency": "",
+      "date_in": 1971,
+      "date_retrofit": "",
+      "date_out": 2004,
+      "lat": 43.642272,
+      "lon": 25.305007,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "ENTSOE: 32W001100100022S; GEM: G100000109769, G100000109770"
+    },
+    {
+      "id": 24645,
+      "name": "Vidin Works",
+      "fueltype": "Hard Coal",
+      "technology": "Steam Turbine",
+      "set": "",
+      "country": "Bulgaria",
+      "capacity_mw": 120,
+      "efficiency": "",
+      "date_in": 1970,
+      "date_retrofit": "",
+      "date_out": 2024,
+      "lat": 43.948363,
+      "lon": 22.850904,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000110587, G100000110588"
+    }
+  ],
+  "meta": {
+    "title": "Каменовъглени електроцентрали в България - Безплатно изтегляне",
+    "description": "Каменовъглени електроцентрали в България. All 6 Hard Coal power generation/storage units in Bulgaria carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of bg-elektrocentrali (zero derivation). Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Каменовъглени електроцентрали в България | ListBase",
+    "seo_description": "Изтеглете Каменовъглени електроцентрали в България — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 19 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

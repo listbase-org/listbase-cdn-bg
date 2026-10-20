@@ -1,0 +1,121 @@
+{
+  "id": "bg-familii",
+  "name": "Най-разпространени фамилии в България (Popular Bulgarian Surnames)",
+  "title": "Най-разпространени фамилии в България (Popular Bulgarian Surnames)",
+  "description": "Най-често срещаните български фамилни имена; подредени по брой носители (включени са мъжката и женската форма на всяка фамилия), с кирилски и латиничен (романизиран) запис.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "BG-1",
+      "rank": 1,
+      "localized": "Иванов, Иванова",
+      "romanized": "Ivanov, Ivanova",
+      "count": 277308
+    },
+    {
+      "name_group": "BG-2",
+      "rank": 2,
+      "localized": "Георгиев, Георгиева",
+      "romanized": "Georgiev, Georgieva",
+      "count": 213511
+    },
+    {
+      "name_group": "BG-3",
+      "rank": 3,
+      "localized": "Димитров, Димитрова",
+      "romanized": "Dimitrov, Dimitrova",
+      "count": 205774
+    },
+    {
+      "name_group": "BG-4",
+      "rank": 4,
+      "localized": "Петров, Петрова",
+      "romanized": "Petrov, Petrova",
+      "count": 138886
+    },
+    {
+      "name_group": "BG-5",
+      "rank": 5,
+      "localized": "Николов, Николова",
+      "romanized": "Nikolov, Nikolova",
+      "count": 119528
+    },
+    {
+      "name_group": "BG-6",
+      "rank": 6,
+      "localized": "Христов, Христова",
+      "romanized": "Hristov, Hristova",
+      "count": 110852
+    },
+    {
+      "name_group": "BG-7",
+      "rank": 7,
+      "localized": "Стоянов, Стоянова",
+      "romanized": "Stoyanov, Stoyanova",
+      "count": 109475
+    },
+    {
+      "name_group": "BG-8",
+      "rank": 8,
+      "localized": "Тодоров, Тодорова",
+      "romanized": "Todorov, Todorova",
+      "count": 106414
+    },
+    {
+      "name_group": "BG-9",
+      "rank": 9,
+      "localized": "Илиев, Илиева",
+      "romanized": "Iliev, Ilieva",
+      "count": 91075
+    },
+    {
+      "name_group": "BG-10",
+      "rank": 10,
+      "localized": "Ангелов, Ангелова",
+      "romanized": "Angelov, Angelova",
+      "count": 89614
+    }
+  ],
+  "meta": {
+    "title": "Най-разпространени фамилии в България (Popular Bulgarian Surnames) - Безплатно изтегляне",
+    "description": "Най-често срещаните български фамилни имена; подредени по брой носители (включени са мъжката и женската форма на всяка фамилия), с кирилски и латиничен (романизиран) запис. Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Най-разпространени фамилии в България (Popular Bulgarian Surnames) | ListBase",
+    "seo_description": "Изтеглете Най-разпространени фамилии в България (Popular Bulgarian Surnames) — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 5 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

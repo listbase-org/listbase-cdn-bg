@@ -1,0 +1,271 @@
+{
+  "id": "bg-shumen-obshtini",
+  "name": "Общини — област Шумен (Municipalities of Shumen)",
+  "title": "Общини — област Шумен (Municipalities of Shumen)",
+  "description": "Списък на общините в област Шумен (Shumen oblast). 10 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SHU. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 118,
+      "gisco_id": "BG_SHU07",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Венец",
+      "name_en": "",
+      "slug": "venec",
+      "population_2024": 6209,
+      "population_density_2024_per_km2": 29.55023195,
+      "area_km2": 210.11679404,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://venets.bg/wp-content/uploads/2022/10/Programa-za-namalyavane-na-riska-ot-bedstviya.pdf",
+      "comment": ""
+    },
+    {
+      "id": 119,
+      "gisco_id": "BG_SHU10",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Върбица",
+      "name_en": "",
+      "slug": "varbica",
+      "population_2024": 7697,
+      "population_density_2024_per_km2": 16.82086868,
+      "area_km2": 457.58635575,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://varbitsa.bg/wp-content/uploads/2024/03/%D0%9F%D0%A0%D0%9E%D0%93%D0%A0%D0%90%D0%9C%D0%90-%D0%",
+      "comment": ""
+    },
+    {
+      "id": 120,
+      "gisco_id": "BG_SHU11",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Хитрино",
+      "name_en": "",
+      "slug": "hitrino",
+      "population_2024": 6054,
+      "population_density_2024_per_km2": 20.95625527,
+      "area_km2": 288.88749073,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://hitrino.bg/wp-content/uploads/2023/01/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B0-%D0%B",
+      "comment": ""
+    },
+    {
+      "id": 121,
+      "gisco_id": "BG_SHU18",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Каолиново",
+      "name_en": "",
+      "slug": "kaolinovo",
+      "population_2024": 10707,
+      "population_density_2024_per_km2": 36.46347191,
+      "area_km2": 293.63632809,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://kaolinovo.bg/wp-content/uploads/2024/03/programa-risk.pdf",
+      "comment": ""
+    },
+    {
+      "id": 122,
+      "gisco_id": "BG_SHU19",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Каспичан",
+      "name_en": "",
+      "slug": "kaspichan",
+      "population_2024": 6283,
+      "population_density_2024_per_km2": 22.84173908,
+      "area_km2": 275.06662164,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://kaspichan.org/wps/wcm/connect/kaspichan.org22532/948427b8-e784-4a93-a57a-5568527cb83a/plan_b",
+      "comment": ""
+    },
+    {
+      "id": 123,
+      "gisco_id": "BG_SHU21",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Никола Козлево",
+      "name_en": "",
+      "slug": "nikola-kozlevo",
+      "population_2024": 5338,
+      "population_density_2024_per_km2": 20.14991614,
+      "area_km2": 264.91425388,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://nikolakozlevo.bg/raw/uploads/bedstviya-i-avarii/Ob-plan--bedstviq-2019.pdf",
+      "comment": ""
+    },
+    {
+      "id": 124,
+      "gisco_id": "BG_SHU22",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Нови пазар",
+      "name_en": "",
+      "slug": "novi-pazar",
+      "population_2024": 14409,
+      "population_density_2024_per_km2": 45.3637394,
+      "area_km2": 317.63254505,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://novipazar.acstre.com/inc/service/service-download-file.php?fid=2637",
+      "comment": ""
+    },
+    {
+      "id": 125,
+      "gisco_id": "BG_SHU23",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Велики Преслав",
+      "name_en": "",
+      "slug": "veliki-preslav",
+      "population_2024": 10096,
+      "population_density_2024_per_km2": 36.37460132,
+      "area_km2": 277.55630668,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://velikipreslav.bg/wp/wp-content/uploads/2022/02/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%BD%D",
+      "comment": ""
+    },
+    {
+      "id": 126,
+      "gisco_id": "BG_SHU25",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Смядово",
+      "name_en": "",
+      "slug": "smyadovo",
+      "population_2024": 5332,
+      "population_density_2024_per_km2": 15.0732795,
+      "area_km2": 353.73854772,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://smyadovo.egov.bg/wps/portal/municipality-smyadovo/municipality/disaster.accident.protection",
+      "comment": ""
+    },
+    {
+      "id": 135,
+      "gisco_id": "BG_SHU30",
+      "oblast_code": "SHU",
+      "oblast_slug": "shumen",
+      "oblast_bg": "Шумен",
+      "oblast_en": "Shumen",
+      "name_bg": "Шумен",
+      "name_en": "",
+      "slug": "shumen",
+      "population_2024": 77574,
+      "population_density_2024_per_km2": 118.20489145,
+      "area_km2": 656.26725804,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.shumen.bg/informatsiya-i-uslugi/zashtita-pri-bedstviya/",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област Шумен (Municipalities of Shumen) - Безплатно изтегляне",
+    "description": "Списък на общините в област Шумен (Shumen oblast). 10 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SHU. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 10 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област Шумен (Municipalities of Shumen) | ListBase",
+    "seo_description": "Изтеглете Общини — област Шумен (Municipalities of Shumen) — 10 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 10 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

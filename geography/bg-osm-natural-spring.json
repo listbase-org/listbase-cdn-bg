@@ -1,0 +1,1861 @@
+{
+  "id": "bg-osm-natural-spring",
+  "name": "Извори в България (OpenStreetMap)",
+  "title": "Извори в България (OpenStreetMap)",
+  "description": "Извори в България — 200 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `natural=spring`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 200,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Drinkable",
+      "shirina": 41.75969,
+      "dalzhina": 25.99407,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 2,
+      "ime": "Hot Spring (Geothermal Groundwater)",
+      "shirina": 42.755914,
+      "dalzhina": 23.423449,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 3,
+      "ime": "Izvor ispod Koprena",
+      "shirina": 43.298046,
+      "dalzhina": 22.837206,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 4,
+      "ime": "Mazolova cheshma",
+      "shirina": 42.12675,
+      "dalzhina": 24.057541,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 5,
+      "ime": "Mustafa Perchinkov water source",
+      "shirina": 42.124657,
+      "dalzhina": 24.050232,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 6,
+      "ime": "Spring with bench",
+      "shirina": 41.841203,
+      "dalzhina": 24.925172,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 7,
+      "ime": "Spring with paracalis",
+      "shirina": 41.840538,
+      "dalzhina": 24.924201,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 8,
+      "ime": "Unnamed",
+      "shirina": 41.696667,
+      "dalzhina": 24.66907,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 9,
+      "ime": "Πηγή",
+      "shirina": 41.317836,
+      "dalzhina": 23.170542,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 10,
+      "ime": "Айдушко кладенче",
+      "shirina": 42.745709,
+      "dalzhina": 24.108808,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 11,
+      "ime": "Акбунар",
+      "shirina": 43.275843,
+      "dalzhina": 27.879849,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 12,
+      "ime": "Ангелов кладенец",
+      "shirina": 42.816591,
+      "dalzhina": 27.643736,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 13,
+      "ime": "Ангелова чешма",
+      "shirina": 42.754606,
+      "dalzhina": 22.881364,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 14,
+      "ime": "Ардин извор",
+      "shirina": 41.430994,
+      "dalzhina": 24.610274,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 15,
+      "ime": "Архангела",
+      "shirina": 42.729376,
+      "dalzhina": 26.383056,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 16,
+      "ime": "Аязмо",
+      "shirina": 41.908884,
+      "dalzhina": 24.842384,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 17,
+      "ime": "Аязмо",
+      "shirina": 41.970022,
+      "dalzhina": 23.477166,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 18,
+      "ime": "Аязмо",
+      "shirina": 42.020596,
+      "dalzhina": 24.993479,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 19,
+      "ime": "Аязмо",
+      "shirina": 42.137828,
+      "dalzhina": 22.805689,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 20,
+      "ime": "Аязмо",
+      "shirina": 42.471181,
+      "dalzhina": 22.789855,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 21,
+      "ime": "Аязмо",
+      "shirina": 42.517045,
+      "dalzhina": 26.46957,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 22,
+      "ime": "Аязмо",
+      "shirina": 43.404668,
+      "dalzhina": 28.14912,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 23,
+      "ime": "Аязмото",
+      "shirina": 41.930946,
+      "dalzhina": 24.867096,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 24,
+      "ime": "Баба Калуша",
+      "shirina": 43.283228,
+      "dalzhina": 27.985905,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 25,
+      "ime": "Бандитското кладенче",
+      "shirina": 41.46706,
+      "dalzhina": 23.938744,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 26,
+      "ime": "Банев кладенец",
+      "shirina": 42.504853,
+      "dalzhina": 23.145569,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 27,
+      "ime": "Батаклията",
+      "shirina": 43.268546,
+      "dalzhina": 27.649501,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 28,
+      "ime": "Башбунар",
+      "shirina": 43.303523,
+      "dalzhina": 26.921288,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 29,
+      "ime": "Безденски карстови извори",
+      "shirina": 42.883328,
+      "dalzhina": 23.092635,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 30,
+      "ime": "Бела вода",
+      "shirina": 43.117085,
+      "dalzhina": 23.556565,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 31,
+      "ime": "Белата вода",
+      "shirina": 41.967821,
+      "dalzhina": 24.844656,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 32,
+      "ime": "Белата вода",
+      "shirina": 42.137247,
+      "dalzhina": 22.814119,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 33,
+      "ime": "Белата вода",
+      "shirina": 43.129337,
+      "dalzhina": 23.451976,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 34,
+      "ime": "Белата вода",
+      "shirina": 43.132967,
+      "dalzhina": 23.528938,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 35,
+      "ime": "Бигоровит извор",
+      "shirina": 42.874426,
+      "dalzhina": 22.579525,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 36,
+      "ime": "Бистрец",
+      "shirina": 41.416624,
+      "dalzhina": 23.552838,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 37,
+      "ime": "Богданова бара",
+      "shirina": 42.685204,
+      "dalzhina": 22.462208,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 38,
+      "ime": "Божковия кайнак",
+      "shirina": 43.308399,
+      "dalzhina": 26.869067,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 39,
+      "ime": "Бозаджията",
+      "shirina": 42.422221,
+      "dalzhina": 23.662274,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 40,
+      "ime": "Бозлука",
+      "shirina": 43.328968,
+      "dalzhina": 27.540936,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 41,
+      "ime": "Бочковата чешма",
+      "shirina": 42.259654,
+      "dalzhina": 26.624751,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 42,
+      "ime": "Боян Боев",
+      "shirina": 42.198092,
+      "dalzhina": 23.324874,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 43,
+      "ime": "Буката",
+      "shirina": 42.569044,
+      "dalzhina": 23.406806,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 44,
+      "ime": "Бучла",
+      "shirina": 42.337418,
+      "dalzhina": 23.361551,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 45,
+      "ime": "Бялата чешма",
+      "shirina": 42.258285,
+      "dalzhina": 26.620549,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 46,
+      "ime": "Вандовото кладенче",
+      "shirina": 43.802801,
+      "dalzhina": 22.805783,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 47,
+      "ime": "Вехтата чешма",
+      "shirina": 42.745958,
+      "dalzhina": 25.327037,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 48,
+      "ime": "Вода",
+      "shirina": 42.802206,
+      "dalzhina": 25.290337,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 49,
+      "ime": "Вода",
+      "shirina": 42.80517,
+      "dalzhina": 25.29897,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 50,
+      "ime": "Вода кобилино банище",
+      "shirina": 42.171929,
+      "dalzhina": 23.453758,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 51,
+      "ime": "Врело",
+      "shirina": 43.005132,
+      "dalzhina": 22.887564,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 52,
+      "ime": "Вречка",
+      "shirina": 42.758665,
+      "dalzhina": 23.961125,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 53,
+      "ime": "Врялата баня",
+      "shirina": 41.771418,
+      "dalzhina": 23.205846,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 54,
+      "ime": "Върбите",
+      "shirina": 43.293383,
+      "dalzhina": 27.790751,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 55,
+      "ime": "Въча",
+      "shirina": 41.52861,
+      "dalzhina": 24.375099,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 56,
+      "ime": "Ганов кладенец",
+      "shirina": 43.02323,
+      "dalzhina": 23.414605,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 57,
+      "ime": "Геранчето",
+      "shirina": 42.825191,
+      "dalzhina": 27.628911,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 58,
+      "ime": "Гоговски бунар",
+      "shirina": 42.063976,
+      "dalzhina": 25.242176,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 59,
+      "ime": "Голем извор",
+      "shirina": 42.855922,
+      "dalzhina": 22.627321,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 60,
+      "ime": "Големият чучур",
+      "shirina": 43.286562,
+      "dalzhina": 26.861161,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 61,
+      "ime": "Голямата аязма",
+      "shirina": 42.021816,
+      "dalzhina": 27.70572,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 62,
+      "ime": "Голямата чемша",
+      "shirina": 42.724356,
+      "dalzhina": 27.774734,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 63,
+      "ime": "Голямата чешма",
+      "shirina": 43.670036,
+      "dalzhina": 26.509534,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 64,
+      "ime": "Горска поляна",
+      "shirina": 42.858212,
+      "dalzhina": 22.613563,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 65,
+      "ime": "Горчивата чешма",
+      "shirina": 42.255911,
+      "dalzhina": 26.630445,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 66,
+      "ime": "Гошина шопка",
+      "shirina": 42.779291,
+      "dalzhina": 22.712426,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 67,
+      "ime": "Гунин кладенец",
+      "shirina": 42.871397,
+      "dalzhina": 25.321766,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 68,
+      "ime": "Гунчов Кайнак",
+      "shirina": 42.736088,
+      "dalzhina": 26.358816,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 69,
+      "ime": "Долнокрайска Чешма",
+      "shirina": 43.430947,
+      "dalzhina": 23.759622,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 70,
+      "ime": "Драгановица",
+      "shirina": 42.82,
+      "dalzhina": 22.462227,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 71,
+      "ime": "Драгиево изворче",
+      "shirina": 42.076589,
+      "dalzhina": 27.916976,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 72,
+      "ime": "Драгсанов извор",
+      "shirina": 42.067854,
+      "dalzhina": 27.893426,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 73,
+      "ime": "Дранишавар",
+      "shirina": 42.757602,
+      "dalzhina": 22.743344,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 74,
+      "ime": "Дрислек",
+      "shirina": 42.74205,
+      "dalzhina": 23.852069,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 75,
+      "ime": "Дуковка Чешма",
+      "shirina": 41.930346,
+      "dalzhina": 24.984485,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 76,
+      "ime": "Дядолудовото кладенче",
+      "shirina": 42.613554,
+      "dalzhina": 24.44153,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 77,
+      "ime": "Желязна вода",
+      "shirina": 42.731334,
+      "dalzhina": 22.902895,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 78,
+      "ime": "Женска вода",
+      "shirina": 43.168631,
+      "dalzhina": 23.568431,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 79,
+      "ime": "Жеравица",
+      "shirina": 42.777071,
+      "dalzhina": 24.681061,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 80,
+      "ime": "Извор",
+      "shirina": 42.141047,
+      "dalzhina": 23.517047,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 81,
+      "ime": "Извор ''Криволя''",
+      "shirina": 42.825188,
+      "dalzhina": 23.994499,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 82,
+      "ime": "Извор Бебреш",
+      "shirina": 42.789459,
+      "dalzhina": 23.890396,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 83,
+      "ime": "Извор Момина баня",
+      "shirina": 42.503435,
+      "dalzhina": 24.712537,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 84,
+      "ime": "Извор Момина сълза",
+      "shirina": 42.499666,
+      "dalzhina": 24.70338,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 85,
+      "ime": "Извор на Бяла река",
+      "shirina": 41.820306,
+      "dalzhina": 23.350017,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 86,
+      "ime": "Извор на Луда Камчия",
+      "shirina": 42.819773,
+      "dalzhina": 26.212517,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 87,
+      "ime": "Извор на Петровска река",
+      "shirina": 41.408855,
+      "dalzhina": 23.577839,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 88,
+      "ime": "Извор на река Грънчарица",
+      "shirina": 42.119444,
+      "dalzhina": 23.586111,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 89,
+      "ime": "Извор на реката Ковачево",
+      "shirina": 41.978037,
+      "dalzhina": 24.632572,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 90,
+      "ime": "Извора на Нишава",
+      "shirina": 43.172989,
+      "dalzhina": 23.061753,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 91,
+      "ime": "Изворчето",
+      "shirina": 42.866022,
+      "dalzhina": 23.3842,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 92,
+      "ime": "Изворът „Ръцете, които дават“",
+      "shirina": 42.205013,
+      "dalzhina": 23.322449,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 93,
+      "ime": "Източник в памет на Елена Н. Кирякова",
+      "shirina": 41.521071,
+      "dalzhina": 24.774288,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 94,
+      "ime": "Индипасха",
+      "shirina": 42.004552,
+      "dalzhina": 27.653087,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 95,
+      "ime": "Кадина чешма",
+      "shirina": 42.788052,
+      "dalzhina": 23.091595,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 96,
+      "ime": "Кайнара",
+      "shirina": 42.732558,
+      "dalzhina": 24.818101,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 97,
+      "ime": "Каланец",
+      "shirina": 42.383246,
+      "dalzhina": 22.949747,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 98,
+      "ime": "Калуђерска врела",
+      "shirina": 43.389967,
+      "dalzhina": 22.674557,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 99,
+      "ime": "Кальов гроб",
+      "shirina": 42.694484,
+      "dalzhina": 22.471681,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 100,
+      "ime": "Кара Кольова стублица",
+      "shirina": 42.674727,
+      "dalzhina": 25.900521,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 101,
+      "ime": "Карталджик",
+      "shirina": 43.288679,
+      "dalzhina": 27.784906,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 102,
+      "ime": "Кирил",
+      "shirina": 41.735984,
+      "dalzhina": 24.967019,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 103,
+      "ime": "Конски извор",
+      "shirina": 42.75993,
+      "dalzhina": 24.314392,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 104,
+      "ime": "Конските кладенци",
+      "shirina": 42.248245,
+      "dalzhina": 23.271826,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 105,
+      "ime": "Конярско кладенче",
+      "shirina": 43.133787,
+      "dalzhina": 23.071435,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 106,
+      "ime": "Кочин кладенец",
+      "shirina": 42.583587,
+      "dalzhina": 22.630267,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 107,
+      "ime": "Кралимарковско кладенче",
+      "shirina": 42.824577,
+      "dalzhina": 22.784297,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 108,
+      "ime": "Куру чешма",
+      "shirina": 42.753031,
+      "dalzhina": 27.755232,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 109,
+      "ime": "Кушбунар",
+      "shirina": 42.722671,
+      "dalzhina": 26.373068,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 110,
+      "ime": "Лазаров кладенец",
+      "shirina": 42.837943,
+      "dalzhina": 22.814699,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 111,
+      "ime": "Лятна вода",
+      "shirina": 42.152954,
+      "dalzhina": 23.590137,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 112,
+      "ime": "МИНЕРАЛНА ВОДА РАКИТОВО",
+      "shirina": 42.006298,
+      "dalzhina": 24.085773,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 113,
+      "ime": "Мали извор",
+      "shirina": 42.850652,
+      "dalzhina": 22.634483,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 114,
+      "ime": "Малката чешма",
+      "shirina": 43.670928,
+      "dalzhina": 26.513547,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 115,
+      "ime": "Малкият чучур",
+      "shirina": 43.289033,
+      "dalzhina": 26.859339,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 116,
+      "ime": "Мангов кладенец",
+      "shirina": 42.519183,
+      "dalzhina": 23.421051,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 117,
+      "ime": "Мефраб чешма",
+      "shirina": 41.622348,
+      "dalzhina": 24.543058,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 118,
+      "ime": "Милева Чешма",
+      "shirina": 41.931407,
+      "dalzhina": 24.981876,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 119,
+      "ime": "Минерален извор",
+      "shirina": 42.538729,
+      "dalzhina": 23.390864,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 120,
+      "ime": "Минерален извор (каптиран)",
+      "shirina": 41.459332,
+      "dalzhina": 23.26273,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 121,
+      "ime": "Минерален извор Брацигово",
+      "shirina": 42.02383,
+      "dalzhina": 24.363783,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 122,
+      "ime": "Минерален извор Леново",
+      "shirina": 41.938749,
+      "dalzhina": 25.072197,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 123,
+      "ime": "Минерална баня",
+      "shirina": 41.786365,
+      "dalzhina": 23.200829,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 124,
+      "ime": "Минерални извори",
+      "shirina": 42.533887,
+      "dalzhina": 23.390067,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 125,
+      "ime": "Митринково кладенче",
+      "shirina": 42.080234,
+      "dalzhina": 27.933718,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 126,
+      "ime": "Младежка извор",
+      "shirina": 42.151063,
+      "dalzhina": 27.357455,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 127,
+      "ime": "Момин извор",
+      "shirina": 42.754131,
+      "dalzhina": 22.755829,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 128,
+      "ime": "Мухтаров кладенец",
+      "shirina": 42.076886,
+      "dalzhina": 27.912801,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 129,
+      "ime": "ОНС Хасково, Борьба с Ерозията , 1971",
+      "shirina": 42.004505,
+      "dalzhina": 26.159107,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 130,
+      "ime": "Оборската чешма",
+      "shirina": 42.255766,
+      "dalzhina": 26.617743,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 131,
+      "ime": "Орлов кладенец",
+      "shirina": 42.293856,
+      "dalzhina": 22.564584,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 132,
+      "ime": "Орлов кладенец",
+      "shirina": 42.820919,
+      "dalzhina": 22.787226,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 133,
+      "ime": "Орлов кладенец",
+      "shirina": 42.868214,
+      "dalzhina": 22.573342,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 134,
+      "ime": "Османбунар",
+      "shirina": 42.517257,
+      "dalzhina": 25.821833,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 135,
+      "ime": "Османюрду",
+      "shirina": 43.314693,
+      "dalzhina": 27.843426,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 136,
+      "ime": "Палавровско кладенче",
+      "shirina": 42.938647,
+      "dalzhina": 23.541847,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 137,
+      "ime": "Палас Чешме",
+      "shirina": 43.258489,
+      "dalzhina": 27.925174,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 138,
+      "ime": "Партизански кайнак",
+      "shirina": 42.538404,
+      "dalzhina": 25.748002,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 139,
+      "ime": "Пашов кладенец",
+      "shirina": 43.023635,
+      "dalzhina": 23.411537,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 140,
+      "ime": "Пенчов чучур",
+      "shirina": 42.732196,
+      "dalzhina": 24.983447,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 141,
+      "ime": "Поклопен кладенец",
+      "shirina": 42.813789,
+      "dalzhina": 22.782589,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 142,
+      "ime": "Попов извор",
+      "shirina": 42.502601,
+      "dalzhina": 23.153252,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 143,
+      "ime": "Поток",
+      "shirina": 41.995387,
+      "dalzhina": 24.627333,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 144,
+      "ime": "Поточе/извор",
+      "shirina": 42.170731,
+      "dalzhina": 23.534074,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 145,
+      "ime": "Припетница",
+      "shirina": 42.804535,
+      "dalzhina": 22.51758,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 146,
+      "ime": "Римска баня",
+      "shirina": 41.819286,
+      "dalzhina": 23.579767,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 147,
+      "ime": "Родославец",
+      "shirina": 41.895781,
+      "dalzhina": 24.852322,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 148,
+      "ime": "Св. Петка",
+      "shirina": 42.808699,
+      "dalzhina": 22.459227,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 149,
+      "ime": "Света Вода",
+      "shirina": 42.751316,
+      "dalzhina": 22.971442,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 150,
+      "ime": "Света вода",
+      "shirina": 42.699971,
+      "dalzhina": 25.013603,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 151,
+      "ime": "Света вода",
+      "shirina": 42.77111,
+      "dalzhina": 23.090163,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 152,
+      "ime": "Света вода",
+      "shirina": 42.772245,
+      "dalzhina": 23.070081,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 153,
+      "ime": "Светената вода",
+      "shirina": 42.505909,
+      "dalzhina": 22.751532,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 154,
+      "ime": "Светениот кладенец",
+      "shirina": 42.352296,
+      "dalzhina": 23.376862,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 155,
+      "ime": "Скопчанов кладенец",
+      "shirina": 42.087067,
+      "dalzhina": 27.920845,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 156,
+      "ime": "Сладката вода",
+      "shirina": 42.226243,
+      "dalzhina": 23.617812,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 157,
+      "ime": "Старата застава",
+      "shirina": 42.870051,
+      "dalzhina": 22.595571,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 158,
+      "ime": "Стойни кладенец",
+      "shirina": 42.401564,
+      "dalzhina": 23.598966,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 159,
+      "ime": "Студен кладенец",
+      "shirina": 42.838172,
+      "dalzhina": 22.487152,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 160,
+      "ime": "Студената вода",
+      "shirina": 41.967594,
+      "dalzhina": 27.447588,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 161,
+      "ime": "Суландар",
+      "shirina": 42.808328,
+      "dalzhina": 22.458771,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 162,
+      "ime": "Сух кладенец",
+      "shirina": 42.467945,
+      "dalzhina": 27.553284,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 163,
+      "ime": "Сухата река",
+      "shirina": 42.768058,
+      "dalzhina": 24.650475,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 164,
+      "ime": "Тодорино кладенче",
+      "shirina": 42.822898,
+      "dalzhina": 22.445302,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 165,
+      "ime": "Тодорчов гьол",
+      "shirina": 43.130285,
+      "dalzhina": 23.510158,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 166,
+      "ime": "Тоньовия кладенец",
+      "shirina": 42.050103,
+      "dalzhina": 25.259914,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 167,
+      "ime": "Трескавото кладенче",
+      "shirina": 42.404779,
+      "dalzhina": 25.204635,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 168,
+      "ime": "Три источника",
+      "shirina": 41.804465,
+      "dalzhina": 23.46338,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 169,
+      "ime": "Хайдушки изворчета",
+      "shirina": 42.434593,
+      "dalzhina": 25.027904,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 170,
+      "ime": "Хайдушки калденец",
+      "shirina": 42.765274,
+      "dalzhina": 22.743853,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 171,
+      "ime": "Хайдушки кладенец",
+      "shirina": 42.780727,
+      "dalzhina": 22.725783,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 172,
+      "ime": "Хайдушко кладенче",
+      "shirina": 42.586349,
+      "dalzhina": 24.348783,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 173,
+      "ime": "Хайдушко кладенче",
+      "shirina": 43.820085,
+      "dalzhina": 22.593298,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 174,
+      "ime": "Харловия бунар",
+      "shirina": 42.061125,
+      "dalzhina": 25.230584,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 175,
+      "ime": "Цигански кладенец",
+      "shirina": 42.793417,
+      "dalzhina": 22.71056,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 176,
+      "ime": "Чатал чешма",
+      "shirina": 43.28735,
+      "dalzhina": 27.884624,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 177,
+      "ime": "Чатманлията",
+      "shirina": 42.536452,
+      "dalzhina": 25.768861,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 178,
+      "ime": "Чая",
+      "shirina": 41.669752,
+      "dalzhina": 24.717857,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 179,
+      "ime": "Черни Осъм",
+      "shirina": 42.717673,
+      "dalzhina": 24.775524,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 180,
+      "ime": "Чешма",
+      "shirina": 42.714812,
+      "dalzhina": 26.372709,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 181,
+      "ime": "Чешма",
+      "shirina": 42.805166,
+      "dalzhina": 25.298969,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 182,
+      "ime": "Чешма",
+      "shirina": 42.928444,
+      "dalzhina": 25.87608,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 183,
+      "ime": "Чешма",
+      "shirina": 43.555069,
+      "dalzhina": 26.219593,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 184,
+      "ime": "Чешма \"Дяволски мост\"",
+      "shirina": 41.583336,
+      "dalzhina": 25.133841,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 185,
+      "ime": "Чешма Канельски борун",
+      "shirina": 42.721235,
+      "dalzhina": 27.779192,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 186,
+      "ime": "Чешма Караманите",
+      "shirina": 43.471531,
+      "dalzhina": 27.481157,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 187,
+      "ime": "Чешма Мечит",
+      "shirina": 42.218784,
+      "dalzhina": 23.460481,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 188,
+      "ime": "Чешма на Фердинанд",
+      "shirina": 42.225149,
+      "dalzhina": 23.419584,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 189,
+      "ime": "Чешма срещу връх Сиврия",
+      "shirina": 41.717359,
+      "dalzhina": 23.511375,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 190,
+      "ime": "Чешмата На Росен",
+      "shirina": 41.930295,
+      "dalzhina": 24.98365,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 191,
+      "ime": "Чешмата на Елия",
+      "shirina": 43.698143,
+      "dalzhina": 24.893337,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 192,
+      "ime": "Чуртлен",
+      "shirina": 43.307268,
+      "dalzhina": 27.765784,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 193,
+      "ime": "Шегава карстов",
+      "shirina": 42.393976,
+      "dalzhina": 22.718033,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 194,
+      "ime": "Юртишки кладенец",
+      "shirina": 42.827401,
+      "dalzhina": 25.77195,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 195,
+      "ime": "аязмо",
+      "shirina": 43.350971,
+      "dalzhina": 27.975486,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 196,
+      "ime": "извор \"Горящата Вода\"",
+      "shirina": 42.975164,
+      "dalzhina": 27.685608,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 197,
+      "ime": "изор Врелото",
+      "shirina": 42.515412,
+      "dalzhina": 23.159919,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 198,
+      "ime": "минерален извор 90°С",
+      "shirina": 42.610141,
+      "dalzhina": 26.699123,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 199,
+      "ime": "поточе/извор",
+      "shirina": 42.171434,
+      "dalzhina": 23.533795,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    },
+    {
+      "id": 200,
+      "ime": "чешма за общоводоползване",
+      "shirina": 42.794566,
+      "dalzhina": 27.514643,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "spring",
+      "osm_klas": "natural=spring"
+    }
+  ],
+  "meta": {
+    "title": "Извори в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Извори в България — 200 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `natural=spring`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 200 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Извори в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Извори в България (OpenStreetMap) — 200 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 200 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

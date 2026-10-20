@@ -1,0 +1,2509 @@
+{
+  "id": "bg-osm-amenity-payment-centre",
+  "name": "Центрове за плащане в България (OpenStreetMap)",
+  "title": "Центрове за плащане в България (OpenStreetMap)",
+  "description": "Центрове за плащане в България — 272 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=payment_centre`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 272,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Easy Pay",
+      "shirina": 41.378112,
+      "dalzhina": 25.255611,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 2,
+      "ime": "Easy Pay",
+      "shirina": 42.337969,
+      "dalzhina": 23.557688,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 3,
+      "ime": "Easy Pay",
+      "shirina": 42.72713,
+      "dalzhina": 23.294215,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 4,
+      "ime": "Easy Pay",
+      "shirina": 42.805905,
+      "dalzhina": 23.059951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 5,
+      "ime": "Easy Pay",
+      "shirina": 43.242763,
+      "dalzhina": 26.562539,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 6,
+      "ime": "EasyPay",
+      "shirina": 41.39823,
+      "dalzhina": 23.205197,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 7,
+      "ime": "EasyPay",
+      "shirina": 41.570806,
+      "dalzhina": 23.729494,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 8,
+      "ime": "EasyPay",
+      "shirina": 41.931753,
+      "dalzhina": 25.903325,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 9,
+      "ime": "EasyPay",
+      "shirina": 41.937591,
+      "dalzhina": 25.534531,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 10,
+      "ime": "EasyPay",
+      "shirina": 42.005564,
+      "dalzhina": 23.983905,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 11,
+      "ime": "EasyPay",
+      "shirina": 42.02094,
+      "dalzhina": 23.100693,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 12,
+      "ime": "EasyPay",
+      "shirina": 42.075633,
+      "dalzhina": 24.664379,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 13,
+      "ime": "EasyPay",
+      "shirina": 42.076964,
+      "dalzhina": 24.596532,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 14,
+      "ime": "EasyPay",
+      "shirina": 42.127748,
+      "dalzhina": 24.79454,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 15,
+      "ime": "EasyPay",
+      "shirina": 42.13596,
+      "dalzhina": 24.74527,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 16,
+      "ime": "EasyPay",
+      "shirina": 42.141408,
+      "dalzhina": 24.73954,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 17,
+      "ime": "EasyPay",
+      "shirina": 42.14749,
+      "dalzhina": 24.778179,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 18,
+      "ime": "EasyPay",
+      "shirina": 42.151798,
+      "dalzhina": 24.79323,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 19,
+      "ime": "EasyPay",
+      "shirina": 42.198389,
+      "dalzhina": 24.791012,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 20,
+      "ime": "EasyPay",
+      "shirina": 42.237915,
+      "dalzhina": 24.824833,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 21,
+      "ime": "EasyPay",
+      "shirina": 42.254198,
+      "dalzhina": 22.848767,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 22,
+      "ime": "EasyPay",
+      "shirina": 42.270744,
+      "dalzhina": 23.198329,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 23,
+      "ime": "EasyPay",
+      "shirina": 42.288263,
+      "dalzhina": 24.129243,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 24,
+      "ime": "EasyPay",
+      "shirina": 42.340141,
+      "dalzhina": 24.811547,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 25,
+      "ime": "EasyPay",
+      "shirina": 42.424273,
+      "dalzhina": 25.601558,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 26,
+      "ime": "EasyPay",
+      "shirina": 42.427969,
+      "dalzhina": 25.646589,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 27,
+      "ime": "EasyPay",
+      "shirina": 42.433016,
+      "dalzhina": 25.638516,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 28,
+      "ime": "EasyPay",
+      "shirina": 42.494431,
+      "dalzhina": 27.471972,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 29,
+      "ime": "EasyPay",
+      "shirina": 42.542428,
+      "dalzhina": 25.574417,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 30,
+      "ime": "EasyPay",
+      "shirina": 42.610842,
+      "dalzhina": 23.040098,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 31,
+      "ime": "EasyPay",
+      "shirina": 42.614817,
+      "dalzhina": 23.338925,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 32,
+      "ime": "EasyPay",
+      "shirina": 42.627304,
+      "dalzhina": 23.378974,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 33,
+      "ime": "EasyPay",
+      "shirina": 42.628154,
+      "dalzhina": 23.196807,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 34,
+      "ime": "EasyPay",
+      "shirina": 42.629601,
+      "dalzhina": 23.381013,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 35,
+      "ime": "EasyPay",
+      "shirina": 42.633353,
+      "dalzhina": 23.376069,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 36,
+      "ime": "EasyPay",
+      "shirina": 42.640543,
+      "dalzhina": 23.311645,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 37,
+      "ime": "EasyPay",
+      "shirina": 42.640942,
+      "dalzhina": 23.335039,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 38,
+      "ime": "EasyPay",
+      "shirina": 42.642076,
+      "dalzhina": 23.33619,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 39,
+      "ime": "EasyPay",
+      "shirina": 42.642901,
+      "dalzhina": 23.639953,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 40,
+      "ime": "EasyPay",
+      "shirina": 42.643954,
+      "dalzhina": 23.33005,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 41,
+      "ime": "EasyPay",
+      "shirina": 42.645687,
+      "dalzhina": 23.37877,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 42,
+      "ime": "EasyPay",
+      "shirina": 42.647435,
+      "dalzhina": 23.392943,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 43,
+      "ime": "EasyPay",
+      "shirina": 42.647923,
+      "dalzhina": 23.376716,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 44,
+      "ime": "EasyPay",
+      "shirina": 42.647982,
+      "dalzhina": 23.379078,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 45,
+      "ime": "EasyPay",
+      "shirina": 42.648564,
+      "dalzhina": 23.270557,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 46,
+      "ime": "EasyPay",
+      "shirina": 42.648738,
+      "dalzhina": 23.262402,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 47,
+      "ime": "EasyPay",
+      "shirina": 42.650164,
+      "dalzhina": 23.341603,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 48,
+      "ime": "EasyPay",
+      "shirina": 42.65254,
+      "dalzhina": 23.332972,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 49,
+      "ime": "EasyPay",
+      "shirina": 42.652991,
+      "dalzhina": 23.373515,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 50,
+      "ime": "EasyPay",
+      "shirina": 42.653495,
+      "dalzhina": 23.345216,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 51,
+      "ime": "EasyPay",
+      "shirina": 42.653888,
+      "dalzhina": 23.360161,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 52,
+      "ime": "EasyPay",
+      "shirina": 42.654683,
+      "dalzhina": 27.703686,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 53,
+      "ime": "EasyPay",
+      "shirina": 42.655812,
+      "dalzhina": 23.388325,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 54,
+      "ime": "EasyPay",
+      "shirina": 42.656117,
+      "dalzhina": 23.315098,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 55,
+      "ime": "EasyPay",
+      "shirina": 42.657319,
+      "dalzhina": 23.31351,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 56,
+      "ime": "EasyPay",
+      "shirina": 42.657634,
+      "dalzhina": 23.591368,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 57,
+      "ime": "EasyPay",
+      "shirina": 42.65817,
+      "dalzhina": 23.282042,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 58,
+      "ime": "EasyPay",
+      "shirina": 42.658919,
+      "dalzhina": 23.347185,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 59,
+      "ime": "EasyPay",
+      "shirina": 42.658982,
+      "dalzhina": 23.316472,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 60,
+      "ime": "EasyPay",
+      "shirina": 42.661593,
+      "dalzhina": 23.346483,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 61,
+      "ime": "EasyPay",
+      "shirina": 42.661617,
+      "dalzhina": 23.374668,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 62,
+      "ime": "EasyPay",
+      "shirina": 42.661617,
+      "dalzhina": 23.397594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 63,
+      "ime": "EasyPay",
+      "shirina": 42.66248,
+      "dalzhina": 23.31791,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 64,
+      "ime": "EasyPay",
+      "shirina": 42.662521,
+      "dalzhina": 23.295518,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 65,
+      "ime": "EasyPay",
+      "shirina": 42.662938,
+      "dalzhina": 27.69414,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 66,
+      "ime": "EasyPay",
+      "shirina": 42.663216,
+      "dalzhina": 23.274013,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 67,
+      "ime": "EasyPay",
+      "shirina": 42.663503,
+      "dalzhina": 23.357126,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 68,
+      "ime": "EasyPay",
+      "shirina": 42.664002,
+      "dalzhina": 23.284933,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 69,
+      "ime": "EasyPay",
+      "shirina": 42.6648,
+      "dalzhina": 23.362516,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 70,
+      "ime": "EasyPay",
+      "shirina": 42.665237,
+      "dalzhina": 23.299408,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 71,
+      "ime": "EasyPay",
+      "shirina": 42.665385,
+      "dalzhina": 23.289372,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 72,
+      "ime": "EasyPay",
+      "shirina": 42.665691,
+      "dalzhina": 23.280018,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 73,
+      "ime": "EasyPay",
+      "shirina": 42.665912,
+      "dalzhina": 23.272271,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 74,
+      "ime": "EasyPay",
+      "shirina": 42.665984,
+      "dalzhina": 23.354976,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 75,
+      "ime": "EasyPay",
+      "shirina": 42.666049,
+      "dalzhina": 23.302396,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 76,
+      "ime": "EasyPay",
+      "shirina": 42.667441,
+      "dalzhina": 23.365094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 77,
+      "ime": "EasyPay",
+      "shirina": 42.667996,
+      "dalzhina": 23.402098,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 78,
+      "ime": "EasyPay",
+      "shirina": 42.668077,
+      "dalzhina": 23.319481,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 79,
+      "ime": "EasyPay",
+      "shirina": 42.668364,
+      "dalzhina": 23.285891,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 80,
+      "ime": "EasyPay",
+      "shirina": 42.66845,
+      "dalzhina": 23.268982,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 81,
+      "ime": "EasyPay",
+      "shirina": 42.669457,
+      "dalzhina": 23.319709,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 82,
+      "ime": "EasyPay",
+      "shirina": 42.669785,
+      "dalzhina": 23.277203,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 83,
+      "ime": "EasyPay",
+      "shirina": 42.669794,
+      "dalzhina": 23.255978,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 84,
+      "ime": "EasyPay",
+      "shirina": 42.670604,
+      "dalzhina": 23.273703,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 85,
+      "ime": "EasyPay",
+      "shirina": 42.67066,
+      "dalzhina": 23.320889,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 86,
+      "ime": "EasyPay",
+      "shirina": 42.670673,
+      "dalzhina": 23.257867,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 87,
+      "ime": "EasyPay",
+      "shirina": 42.670689,
+      "dalzhina": 23.316462,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 88,
+      "ime": "EasyPay",
+      "shirina": 42.671218,
+      "dalzhina": 23.279309,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 89,
+      "ime": "EasyPay",
+      "shirina": 42.671518,
+      "dalzhina": 23.283796,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 90,
+      "ime": "EasyPay",
+      "shirina": 42.67152,
+      "dalzhina": 23.350572,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 91,
+      "ime": "EasyPay",
+      "shirina": 42.671794,
+      "dalzhina": 23.290023,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 92,
+      "ime": "EasyPay",
+      "shirina": 42.671988,
+      "dalzhina": 23.299725,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 93,
+      "ime": "EasyPay",
+      "shirina": 42.674581,
+      "dalzhina": 23.259465,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 94,
+      "ime": "EasyPay",
+      "shirina": 42.675611,
+      "dalzhina": 23.308986,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 95,
+      "ime": "EasyPay",
+      "shirina": 42.675828,
+      "dalzhina": 23.299025,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 96,
+      "ime": "EasyPay",
+      "shirina": 42.675905,
+      "dalzhina": 23.304568,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 97,
+      "ime": "EasyPay",
+      "shirina": 42.676597,
+      "dalzhina": 23.303454,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 98,
+      "ime": "EasyPay",
+      "shirina": 42.677107,
+      "dalzhina": 23.286099,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 99,
+      "ime": "EasyPay",
+      "shirina": 42.677506,
+      "dalzhina": 23.285406,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 100,
+      "ime": "EasyPay",
+      "shirina": 42.678184,
+      "dalzhina": 23.291207,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 101,
+      "ime": "EasyPay",
+      "shirina": 42.67822,
+      "dalzhina": 23.288818,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 102,
+      "ime": "EasyPay",
+      "shirina": 42.678653,
+      "dalzhina": 23.321765,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 103,
+      "ime": "EasyPay",
+      "shirina": 42.678738,
+      "dalzhina": 23.320507,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 104,
+      "ime": "EasyPay",
+      "shirina": 42.679022,
+      "dalzhina": 23.285921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 105,
+      "ime": "EasyPay",
+      "shirina": 42.679787,
+      "dalzhina": 23.281934,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 106,
+      "ime": "EasyPay",
+      "shirina": 42.679933,
+      "dalzhina": 23.367728,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 107,
+      "ime": "EasyPay",
+      "shirina": 42.683405,
+      "dalzhina": 23.297352,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 108,
+      "ime": "EasyPay",
+      "shirina": 42.6842,
+      "dalzhina": 23.241554,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 109,
+      "ime": "EasyPay",
+      "shirina": 42.68483,
+      "dalzhina": 23.322015,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 110,
+      "ime": "EasyPay",
+      "shirina": 42.685119,
+      "dalzhina": 23.321307,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 111,
+      "ime": "EasyPay",
+      "shirina": 42.685913,
+      "dalzhina": 23.306287,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 112,
+      "ime": "EasyPay",
+      "shirina": 42.686154,
+      "dalzhina": 23.295319,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 113,
+      "ime": "EasyPay",
+      "shirina": 42.686322,
+      "dalzhina": 23.332274,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 114,
+      "ime": "EasyPay",
+      "shirina": 42.68633,
+      "dalzhina": 23.291176,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 115,
+      "ime": "EasyPay",
+      "shirina": 42.686369,
+      "dalzhina": 23.329573,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 116,
+      "ime": "EasyPay",
+      "shirina": 42.686738,
+      "dalzhina": 23.322951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 117,
+      "ime": "EasyPay",
+      "shirina": 42.686931,
+      "dalzhina": 23.300909,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 118,
+      "ime": "EasyPay",
+      "shirina": 42.687079,
+      "dalzhina": 23.315019,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 119,
+      "ime": "EasyPay",
+      "shirina": 42.687461,
+      "dalzhina": 23.310092,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 120,
+      "ime": "EasyPay",
+      "shirina": 42.687668,
+      "dalzhina": 23.331721,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 121,
+      "ime": "EasyPay",
+      "shirina": 42.68824,
+      "dalzhina": 23.325385,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 122,
+      "ime": "EasyPay",
+      "shirina": 42.688613,
+      "dalzhina": 23.305019,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 123,
+      "ime": "EasyPay",
+      "shirina": 42.689002,
+      "dalzhina": 23.254547,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 124,
+      "ime": "EasyPay",
+      "shirina": 42.689052,
+      "dalzhina": 23.319967,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 125,
+      "ime": "EasyPay",
+      "shirina": 42.689231,
+      "dalzhina": 23.344158,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 126,
+      "ime": "EasyPay",
+      "shirina": 42.689252,
+      "dalzhina": 23.363542,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 127,
+      "ime": "EasyPay",
+      "shirina": 42.689287,
+      "dalzhina": 23.313454,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 128,
+      "ime": "EasyPay",
+      "shirina": 42.689788,
+      "dalzhina": 23.317762,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 129,
+      "ime": "EasyPay",
+      "shirina": 42.689836,
+      "dalzhina": 23.302272,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 130,
+      "ime": "EasyPay",
+      "shirina": 42.690041,
+      "dalzhina": 23.323237,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 131,
+      "ime": "EasyPay",
+      "shirina": 42.690111,
+      "dalzhina": 23.313956,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 132,
+      "ime": "EasyPay",
+      "shirina": 42.690178,
+      "dalzhina": 23.331285,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 133,
+      "ime": "EasyPay",
+      "shirina": 42.69018,
+      "dalzhina": 23.339918,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 134,
+      "ime": "EasyPay",
+      "shirina": 42.690719,
+      "dalzhina": 23.312674,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 135,
+      "ime": "EasyPay",
+      "shirina": 42.691042,
+      "dalzhina": 23.317637,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 136,
+      "ime": "EasyPay",
+      "shirina": 42.691609,
+      "dalzhina": 23.325475,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 137,
+      "ime": "EasyPay",
+      "shirina": 42.691615,
+      "dalzhina": 23.335234,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 138,
+      "ime": "EasyPay",
+      "shirina": 42.692267,
+      "dalzhina": 23.338594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 139,
+      "ime": "EasyPay",
+      "shirina": 42.693309,
+      "dalzhina": 23.352635,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 140,
+      "ime": "EasyPay",
+      "shirina": 42.693632,
+      "dalzhina": 23.34984,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 141,
+      "ime": "EasyPay",
+      "shirina": 42.693752,
+      "dalzhina": 23.313906,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 142,
+      "ime": "EasyPay",
+      "shirina": 42.69437,
+      "dalzhina": 23.704098,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 143,
+      "ime": "EasyPay",
+      "shirina": 42.694676,
+      "dalzhina": 23.32169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 144,
+      "ime": "EasyPay",
+      "shirina": 42.694977,
+      "dalzhina": 23.317016,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 145,
+      "ime": "EasyPay",
+      "shirina": 42.695231,
+      "dalzhina": 23.313951,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 146,
+      "ime": "EasyPay",
+      "shirina": 42.695937,
+      "dalzhina": 23.346484,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 147,
+      "ime": "EasyPay",
+      "shirina": 42.696038,
+      "dalzhina": 23.286731,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 148,
+      "ime": "EasyPay",
+      "shirina": 42.696224,
+      "dalzhina": 23.342999,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 149,
+      "ime": "EasyPay",
+      "shirina": 42.696612,
+      "dalzhina": 23.319365,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 150,
+      "ime": "EasyPay",
+      "shirina": 42.696909,
+      "dalzhina": 23.308848,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 151,
+      "ime": "EasyPay",
+      "shirina": 42.697916,
+      "dalzhina": 23.321655,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 152,
+      "ime": "EasyPay",
+      "shirina": 42.698004,
+      "dalzhina": 23.329404,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 153,
+      "ime": "EasyPay",
+      "shirina": 42.698052,
+      "dalzhina": 23.308562,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 154,
+      "ime": "EasyPay",
+      "shirina": 42.698194,
+      "dalzhina": 23.319543,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 155,
+      "ime": "EasyPay",
+      "shirina": 42.698276,
+      "dalzhina": 23.325734,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 156,
+      "ime": "EasyPay",
+      "shirina": 42.698656,
+      "dalzhina": 23.306643,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 157,
+      "ime": "EasyPay",
+      "shirina": 42.698837,
+      "dalzhina": 23.347618,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 158,
+      "ime": "EasyPay",
+      "shirina": 42.699129,
+      "dalzhina": 23.337724,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 159,
+      "ime": "EasyPay",
+      "shirina": 42.699532,
+      "dalzhina": 23.369576,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 160,
+      "ime": "EasyPay",
+      "shirina": 42.699966,
+      "dalzhina": 23.321606,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 161,
+      "ime": "EasyPay",
+      "shirina": 42.700287,
+      "dalzhina": 23.301592,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 162,
+      "ime": "EasyPay",
+      "shirina": 42.7004,
+      "dalzhina": 23.326187,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 163,
+      "ime": "EasyPay",
+      "shirina": 42.70113,
+      "dalzhina": 23.318641,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 164,
+      "ime": "EasyPay",
+      "shirina": 42.70178,
+      "dalzhina": 23.333986,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 165,
+      "ime": "EasyPay",
+      "shirina": 42.702734,
+      "dalzhina": 23.323611,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 166,
+      "ime": "EasyPay",
+      "shirina": 42.703331,
+      "dalzhina": 23.317235,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 167,
+      "ime": "EasyPay",
+      "shirina": 42.703841,
+      "dalzhina": 27.715929,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 168,
+      "ime": "EasyPay",
+      "shirina": 42.704099,
+      "dalzhina": 23.321423,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 169,
+      "ime": "EasyPay",
+      "shirina": 42.704413,
+      "dalzhina": 23.330882,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 170,
+      "ime": "EasyPay",
+      "shirina": 42.704971,
+      "dalzhina": 23.298968,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 171,
+      "ime": "EasyPay",
+      "shirina": 42.705043,
+      "dalzhina": 23.317832,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 172,
+      "ime": "EasyPay",
+      "shirina": 42.706305,
+      "dalzhina": 23.321075,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 173,
+      "ime": "EasyPay",
+      "shirina": 42.708878,
+      "dalzhina": 23.458169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 174,
+      "ime": "EasyPay",
+      "shirina": 42.709647,
+      "dalzhina": 23.318213,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 175,
+      "ime": "EasyPay",
+      "shirina": 42.709841,
+      "dalzhina": 23.31003,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 176,
+      "ime": "EasyPay",
+      "shirina": 42.710244,
+      "dalzhina": 23.270981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 177,
+      "ime": "EasyPay",
+      "shirina": 42.710392,
+      "dalzhina": 23.378615,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 178,
+      "ime": "EasyPay",
+      "shirina": 42.710547,
+      "dalzhina": 23.257895,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 179,
+      "ime": "EasyPay",
+      "shirina": 42.710784,
+      "dalzhina": 23.316439,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 180,
+      "ime": "EasyPay",
+      "shirina": 42.711366,
+      "dalzhina": 23.302669,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 181,
+      "ime": "EasyPay",
+      "shirina": 42.711609,
+      "dalzhina": 23.315031,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 182,
+      "ime": "EasyPay",
+      "shirina": 42.712111,
+      "dalzhina": 23.338057,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 183,
+      "ime": "EasyPay",
+      "shirina": 42.712314,
+      "dalzhina": 23.2995,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 184,
+      "ime": "EasyPay",
+      "shirina": 42.712553,
+      "dalzhina": 23.300751,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 185,
+      "ime": "EasyPay",
+      "shirina": 42.713462,
+      "dalzhina": 23.239441,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 186,
+      "ime": "EasyPay",
+      "shirina": 42.713627,
+      "dalzhina": 27.757554,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 187,
+      "ime": "EasyPay",
+      "shirina": 42.713661,
+      "dalzhina": 23.269541,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 188,
+      "ime": "EasyPay",
+      "shirina": 42.716541,
+      "dalzhina": 23.340241,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 189,
+      "ime": "EasyPay",
+      "shirina": 42.718416,
+      "dalzhina": 23.278141,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 190,
+      "ime": "EasyPay",
+      "shirina": 42.718644,
+      "dalzhina": 23.250485,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 191,
+      "ime": "EasyPay",
+      "shirina": 42.719344,
+      "dalzhina": 23.267879,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 192,
+      "ime": "EasyPay",
+      "shirina": 42.720329,
+      "dalzhina": 23.243437,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 193,
+      "ime": "EasyPay",
+      "shirina": 42.724224,
+      "dalzhina": 23.253,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 194,
+      "ime": "EasyPay",
+      "shirina": 42.724502,
+      "dalzhina": 23.305061,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 195,
+      "ime": "EasyPay",
+      "shirina": 42.725389,
+      "dalzhina": 23.255608,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 196,
+      "ime": "EasyPay",
+      "shirina": 42.725664,
+      "dalzhina": 23.241976,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 197,
+      "ime": "EasyPay",
+      "shirina": 42.728342,
+      "dalzhina": 23.286273,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 198,
+      "ime": "EasyPay",
+      "shirina": 42.735444,
+      "dalzhina": 23.293524,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 199,
+      "ime": "EasyPay",
+      "shirina": 42.736019,
+      "dalzhina": 23.305568,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 200,
+      "ime": "EasyPay",
+      "shirina": 42.736604,
+      "dalzhina": 23.308677,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 201,
+      "ime": "EasyPay",
+      "shirina": 42.73808,
+      "dalzhina": 23.29732,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 202,
+      "ime": "EasyPay",
+      "shirina": 42.73949,
+      "dalzhina": 23.30903,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 203,
+      "ime": "EasyPay",
+      "shirina": 42.739664,
+      "dalzhina": 23.274213,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 204,
+      "ime": "EasyPay",
+      "shirina": 42.741163,
+      "dalzhina": 23.276193,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 205,
+      "ime": "EasyPay",
+      "shirina": 42.744029,
+      "dalzhina": 23.282985,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 206,
+      "ime": "EasyPay",
+      "shirina": 42.744997,
+      "dalzhina": 23.279779,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 207,
+      "ime": "EasyPay",
+      "shirina": 42.74644,
+      "dalzhina": 23.231699,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 208,
+      "ime": "EasyPay",
+      "shirina": 42.747397,
+      "dalzhina": 23.274656,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 209,
+      "ime": "EasyPay",
+      "shirina": 42.750825,
+      "dalzhina": 23.317989,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 210,
+      "ime": "EasyPay",
+      "shirina": 42.793912,
+      "dalzhina": 26.541914,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 211,
+      "ime": "EasyPay",
+      "shirina": 42.809334,
+      "dalzhina": 23.21253,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 212,
+      "ime": "EasyPay",
+      "shirina": 42.82145,
+      "dalzhina": 23.354632,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 213,
+      "ime": "EasyPay",
+      "shirina": 42.846775,
+      "dalzhina": 23.225077,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 214,
+      "ime": "EasyPay",
+      "shirina": 42.857707,
+      "dalzhina": 23.039426,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 215,
+      "ime": "EasyPay",
+      "shirina": 42.897933,
+      "dalzhina": 23.911141,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 216,
+      "ime": "EasyPay",
+      "shirina": 42.89948,
+      "dalzhina": 22.86136,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 217,
+      "ime": "EasyPay",
+      "shirina": 42.911338,
+      "dalzhina": 23.803901,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 218,
+      "ime": "EasyPay",
+      "shirina": 42.920836,
+      "dalzhina": 22.929342,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 219,
+      "ime": "EasyPay",
+      "shirina": 43.014156,
+      "dalzhina": 23.045723,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 220,
+      "ime": "EasyPay",
+      "shirina": 43.191841,
+      "dalzhina": 27.707169,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 221,
+      "ime": "EasyPay",
+      "shirina": 43.193024,
+      "dalzhina": 23.572139,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 222,
+      "ime": "EasyPay",
+      "shirina": 43.195178,
+      "dalzhina": 23.567629,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 223,
+      "ime": "EasyPay",
+      "shirina": 43.204239,
+      "dalzhina": 27.918303,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 224,
+      "ime": "EasyPay",
+      "shirina": 43.207273,
+      "dalzhina": 24.163532,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 225,
+      "ime": "EasyPay",
+      "shirina": 43.21114,
+      "dalzhina": 27.918607,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 226,
+      "ime": "EasyPay",
+      "shirina": 43.211672,
+      "dalzhina": 27.922643,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 227,
+      "ime": "EasyPay",
+      "shirina": 43.213463,
+      "dalzhina": 27.934616,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 228,
+      "ime": "EasyPay",
+      "shirina": 43.21639,
+      "dalzhina": 27.943071,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 229,
+      "ime": "EasyPay",
+      "shirina": 43.219787,
+      "dalzhina": 23.547358,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 230,
+      "ime": "EasyPay",
+      "shirina": 43.220089,
+      "dalzhina": 23.542754,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 231,
+      "ime": "EasyPay",
+      "shirina": 43.223629,
+      "dalzhina": 27.913941,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 232,
+      "ime": "EasyPay",
+      "shirina": 43.224364,
+      "dalzhina": 23.545651,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 233,
+      "ime": "EasyPay",
+      "shirina": 43.225201,
+      "dalzhina": 27.924072,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 234,
+      "ime": "EasyPay",
+      "shirina": 43.23733,
+      "dalzhina": 23.125441,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 235,
+      "ime": "EasyPay",
+      "shirina": 43.272475,
+      "dalzhina": 24.14469,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 236,
+      "ime": "EasyPay",
+      "shirina": 43.371501,
+      "dalzhina": 25.63375,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 237,
+      "ime": "EasyPay",
+      "shirina": 43.401638,
+      "dalzhina": 24.622066,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 238,
+      "ime": "EasyPay",
+      "shirina": 43.416191,
+      "dalzhina": 24.620628,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 239,
+      "ime": "EasyPay",
+      "shirina": 43.419327,
+      "dalzhina": 24.627039,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 240,
+      "ime": "EasyPay",
+      "shirina": 43.42268,
+      "dalzhina": 24.596624,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 241,
+      "ime": "EasyPay",
+      "shirina": 43.424143,
+      "dalzhina": 24.598683,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 242,
+      "ime": "EasyPay",
+      "shirina": 43.429572,
+      "dalzhina": 24.587885,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 243,
+      "ime": "EasyPay",
+      "shirina": 43.642525,
+      "dalzhina": 24.591056,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 244,
+      "ime": "EasyPay",
+      "shirina": 43.705221,
+      "dalzhina": 24.895993,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 245,
+      "ime": "EasyPay",
+      "shirina": 43.706075,
+      "dalzhina": 24.894835,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 246,
+      "ime": "FastPay",
+      "shirina": 42.626015,
+      "dalzhina": 23.377509,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 247,
+      "ime": "FastPay",
+      "shirina": 42.640233,
+      "dalzhina": 23.380622,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 248,
+      "ime": "FastPay",
+      "shirina": 42.652213,
+      "dalzhina": 23.400773,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 249,
+      "ime": "FastPay",
+      "shirina": 42.662364,
+      "dalzhina": 23.277574,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 250,
+      "ime": "FastPay",
+      "shirina": 42.663505,
+      "dalzhina": 23.357191,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 251,
+      "ime": "FastPay",
+      "shirina": 42.671616,
+      "dalzhina": 23.283941,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 252,
+      "ime": "FastPay",
+      "shirina": 42.673686,
+      "dalzhina": 23.27651,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 253,
+      "ime": "FastPay",
+      "shirina": 42.677586,
+      "dalzhina": 23.284704,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 254,
+      "ime": "FastPay",
+      "shirina": 42.678599,
+      "dalzhina": 23.32177,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 255,
+      "ime": "FastPay",
+      "shirina": 42.683885,
+      "dalzhina": 23.33053,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 256,
+      "ime": "FastPay",
+      "shirina": 42.687089,
+      "dalzhina": 23.304398,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 257,
+      "ime": "FastPay",
+      "shirina": 42.687631,
+      "dalzhina": 23.255446,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 258,
+      "ime": "FastPay",
+      "shirina": 42.688813,
+      "dalzhina": 23.330046,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 259,
+      "ime": "FastPay",
+      "shirina": 42.69164,
+      "dalzhina": 23.335217,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 260,
+      "ime": "FastPay",
+      "shirina": 42.697996,
+      "dalzhina": 23.319102,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 261,
+      "ime": "FastPay",
+      "shirina": 42.698924,
+      "dalzhina": 23.316382,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 262,
+      "ime": "FastPay",
+      "shirina": 42.717875,
+      "dalzhina": 23.24038,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 263,
+      "ime": "FastPay",
+      "shirina": 42.725031,
+      "dalzhina": 23.265623,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 264,
+      "ime": "FastPay",
+      "shirina": 42.733827,
+      "dalzhina": 23.303288,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 265,
+      "ime": "FastPay",
+      "shirina": 42.74114,
+      "dalzhina": 23.276679,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 266,
+      "ime": "Kulata Customs",
+      "shirina": 41.379368,
+      "dalzhina": 23.363028,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 267,
+      "ime": "Paypal",
+      "shirina": 42.655797,
+      "dalzhina": 23.406682,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 268,
+      "ime": "Stikcredit",
+      "shirina": 41.378126,
+      "dalzhina": 25.255588,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 269,
+      "ime": "ВиК Kасов салон",
+      "shirina": 42.520988,
+      "dalzhina": 27.451096,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 270,
+      "ime": "Каса общежития",
+      "shirina": 42.649272,
+      "dalzhina": 23.33896,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 271,
+      "ime": "Местни данъци и такси",
+      "shirina": 42.868654,
+      "dalzhina": 25.318507,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    },
+    {
+      "id": 272,
+      "ime": "Столична община",
+      "shirina": 42.676639,
+      "dalzhina": 23.303526,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "payment_centre",
+      "osm_klas": "amenity=payment_centre"
+    }
+  ],
+  "meta": {
+    "title": "Центрове за плащане в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Центрове за плащане в България — 272 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=payment_centre`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 272 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Центрове за плащане в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Центрове за плащане в България (OpenStreetMap) — 272 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 272 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

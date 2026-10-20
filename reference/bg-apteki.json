@@ -1,0 +1,5581 @@
+{
+  "id": "bg-apteki",
+  "name": "Аптеки в България",
+  "title": "Аптеки в България",
+  "description": "Аптеки в България (OSM amenity=pharmacy).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1108,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "12 часа",
+      "latitude": 42.673796,
+      "longitude": 23.359139
+    },
+    {
+      "name": "36.6 Маджаров",
+      "latitude": 42.158885,
+      "longitude": 24.738272
+    },
+    {
+      "name": "36.6 Мега Марина",
+      "latitude": 42.165035,
+      "longitude": 24.737709
+    },
+    {
+      "name": "36.6 Тракия",
+      "latitude": 42.129544,
+      "longitude": 24.786594
+    },
+    {
+      "name": "=Ceiba",
+      "latitude": 42.883165,
+      "longitude": 25.320517
+    },
+    {
+      "name": "ABC+",
+      "latitude": 42.668571,
+      "longitude": 23.279941
+    },
+    {
+      "name": "AMS",
+      "latitude": 41.634575,
+      "longitude": 25.376672
+    },
+    {
+      "name": "Anteka",
+      "latitude": 42.156483,
+      "longitude": 24.743956
+    },
+    {
+      "name": "Aqua",
+      "latitude": 42.663171,
+      "longitude": 27.715323
+    },
+    {
+      "name": "Arfa",
+      "latitude": 42.646592,
+      "longitude": 23.328204
+    },
+    {
+      "name": "Art pharma",
+      "latitude": 42.664306,
+      "longitude": 23.284199
+    },
+    {
+      "name": "Asklepii",
+      "latitude": 43.077276,
+      "longitude": 25.611384
+    },
+    {
+      "name": "Astra",
+      "latitude": 41.832477,
+      "longitude": 23.483931
+    },
+    {
+      "name": "Avenue",
+      "latitude": 42.146082,
+      "longitude": 24.721341
+    },
+    {
+      "name": "Avenue",
+      "latitude": 42.150593,
+      "longitude": 24.743382
+    },
+    {
+      "name": "Aптека Витоша",
+      "latitude": 42.623968,
+      "longitude": 23.583185
+    },
+    {
+      "name": "B6",
+      "latitude": 42.141463,
+      "longitude": 24.790122
+    },
+    {
+      "name": "Benu",
+      "latitude": 42.655164,
+      "longitude": 23.287702
+    },
+    {
+      "name": "Benu",
+      "latitude": 42.725696,
+      "longitude": 23.24189
+    },
+    {
+      "name": "Betty",
+      "latitude": 42.683168,
+      "longitude": 23.268322
+    },
+    {
+      "name": "Betty",
+      "latitude": 42.692972,
+      "longitude": 23.311233
+    },
+    {
+      "name": "Betty",
+      "latitude": 42.694009,
+      "longitude": 23.315285
+    },
+    {
+      "name": "Betty",
+      "latitude": 42.698296,
+      "longitude": 23.310258
+    },
+    {
+      "name": "Calenic",
+      "latitude": 42.698304,
+      "longitude": 23.326
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.018151,
+      "longitude": 23.0975
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.258803,
+      "longitude": 23.10351
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.423867,
+      "longitude": 25.632661
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.42575,
+      "longitude": 25.628413
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.463345,
+      "longitude": 27.410153
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.672463,
+      "longitude": 23.283601
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.678155,
+      "longitude": 23.360176
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.678856,
+      "longitude": 23.311785
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.696058,
+      "longitude": 23.319748
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 42.712384,
+      "longitude": 23.315392
+    },
+    {
+      "name": "Ceiba",
+      "latitude": 43.080416,
+      "longitude": 25.629952
+    },
+    {
+      "name": "Celba",
+      "latitude": 42.695087,
+      "longitude": 23.284105
+    },
+    {
+      "name": "City pharma",
+      "latitude": 42.698196,
+      "longitude": 23.331793
+    },
+    {
+      "name": "Corner",
+      "latitude": 42.645392,
+      "longitude": 23.333176
+    },
+    {
+      "name": "Dara",
+      "latitude": 42.148497,
+      "longitude": 24.729163
+    },
+    {
+      "name": "Delta",
+      "latitude": 42.140748,
+      "longitude": 24.755459
+    },
+    {
+      "name": "Diana",
+      "latitude": 42.669549,
+      "longitude": 27.706513
+    },
+    {
+      "name": "Ellie's",
+      "latitude": 42.710751,
+      "longitude": 27.764963
+    },
+    {
+      "name": "Emerald Pharama",
+      "latitude": 42.655525,
+      "longitude": 23.288759
+    },
+    {
+      "name": "Europharm Mega Mall",
+      "latitude": 42.710487,
+      "longitude": 23.271024
+    },
+    {
+      "name": "Express Pharma",
+      "latitude": 43.517984,
+      "longitude": 26.520878
+    },
+    {
+      "name": "FabNetPharmacy",
+      "latitude": 41.720477,
+      "longitude": 23.160685
+    },
+    {
+      "name": "Farmavision",
+      "latitude": 42.146663,
+      "longitude": 24.760544
+    },
+    {
+      "name": "Framar",
+      "latitude": 42.678456,
+      "longitude": 26.32737
+    },
+    {
+      "name": "Galen",
+      "latitude": 42.132106,
+      "longitude": 24.70317
+    },
+    {
+      "name": "Hera",
+      "latitude": 42.656234,
+      "longitude": 23.37599
+    },
+    {
+      "name": "Hera 3",
+      "latitude": 42.643964,
+      "longitude": 23.412936
+    },
+    {
+      "name": "Home Pharma",
+      "latitude": 42.674689,
+      "longitude": 23.260371
+    },
+    {
+      "name": "Hope",
+      "latitude": 42.018648,
+      "longitude": 23.091496
+    },
+    {
+      "name": "Hubenova",
+      "latitude": 42.120549,
+      "longitude": 24.732409
+    },
+    {
+      "name": "Joya",
+      "latitude": 42.66321,
+      "longitude": 23.344245
+    },
+    {
+      "name": "Keimart",
+      "latitude": 42.715255,
+      "longitude": 23.260814
+    },
+    {
+      "name": "King pharma",
+      "latitude": 42.689117,
+      "longitude": 23.344514
+    },
+    {
+      "name": "Life",
+      "latitude": 42.135883,
+      "longitude": 24.789802
+    },
+    {
+      "name": "Lilly",
+      "latitude": 42.696325,
+      "longitude": 23.348022
+    },
+    {
+      "name": "M & L",
+      "latitude": 41.644153,
+      "longitude": 25.373525
+    },
+    {
+      "name": "Maritsa",
+      "latitude": 41.636958,
+      "longitude": 25.355351
+    },
+    {
+      "name": "Meatsa",
+      "latitude": 41.644336,
+      "longitude": 25.373538
+    },
+    {
+      "name": "Meatsa 2",
+      "latitude": 41.634499,
+      "longitude": 25.355658
+    },
+    {
+      "name": "Med Eco",
+      "latitude": 42.721435,
+      "longitude": 23.241692
+    },
+    {
+      "name": "Media 3",
+      "latitude": 43.850156,
+      "longitude": 25.97891
+    },
+    {
+      "name": "Medico+",
+      "latitude": 42.663666,
+      "longitude": 23.257159
+    },
+    {
+      "name": "META",
+      "latitude": 43.410263,
+      "longitude": 24.63075
+    },
+    {
+      "name": "Millenium",
+      "latitude": 42.139536,
+      "longitude": 24.756381
+    },
+    {
+      "name": "miniSOpharmacy",
+      "latitude": 42.66466,
+      "longitude": 23.296654
+    },
+    {
+      "name": "Mirabel",
+      "latitude": 42.099554,
+      "longitude": 27.941645
+    },
+    {
+      "name": "Nature's way",
+      "latitude": 42.684903,
+      "longitude": 23.302103
+    },
+    {
+      "name": "Newline pharmacy",
+      "latitude": 42.509862,
+      "longitude": 27.4695
+    },
+    {
+      "name": "Nixi",
+      "latitude": 42.715936,
+      "longitude": 23.268634
+    },
+    {
+      "name": "Panatseia",
+      "latitude": 43.215543,
+      "longitude": 27.9021
+    },
+    {
+      "name": "Pharma Expere Аптека",
+      "latitude": 42.840774,
+      "longitude": 24.919696
+    },
+    {
+      "name": "Pharma Expert",
+      "latitude": 42.707838,
+      "longitude": 23.322625
+    },
+    {
+      "name": "Pharmacie Principale",
+      "latitude": 43.197035,
+      "longitude": 23.562597
+    },
+    {
+      "name": "Pharmacie Principale",
+      "latitude": 43.224716,
+      "longitude": 27.901884
+    },
+    {
+      "name": "Pharmacy 1",
+      "latitude": 42.12022,
+      "longitude": 24.733224
+    },
+    {
+      "name": "Pharmalife",
+      "latitude": 42.715518,
+      "longitude": 23.271358
+    },
+    {
+      "name": "PharmaPolis",
+      "latitude": 42.130292,
+      "longitude": 24.748355
+    },
+    {
+      "name": "Pharmavision",
+      "latitude": 42.137006,
+      "longitude": 24.543488
+    },
+    {
+      "name": "Royal Pharmacy",
+      "latitude": 42.718819,
+      "longitude": 23.268142
+    },
+    {
+      "name": "Rx",
+      "latitude": 42.689028,
+      "longitude": 23.308119
+    },
+    {
+      "name": "Sami pharm",
+      "latitude": 42.897859,
+      "longitude": 23.911143
+    },
+    {
+      "name": "Sigma",
+      "latitude": 41.843756,
+      "longitude": 23.487126
+    },
+    {
+      "name": "Sigma",
+      "latitude": 41.884842,
+      "longitude": 23.465053
+    },
+    {
+      "name": "Sigma",
+      "latitude": 42.015627,
+      "longitude": 23.096147
+    },
+    {
+      "name": "Sigma",
+      "latitude": 42.672642,
+      "longitude": 23.283521
+    },
+    {
+      "name": "Sigma",
+      "latitude": 42.696283,
+      "longitude": 23.349577
+    },
+    {
+      "name": "Silk",
+      "latitude": 43.402268,
+      "longitude": 24.611422
+    },
+    {
+      "name": "Silk",
+      "latitude": 43.70601,
+      "longitude": 24.894858
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.394779,
+      "longitude": 23.207296
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.564465,
+      "longitude": 23.279588
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.571301,
+      "longitude": 23.729491
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.57228,
+      "longitude": 23.727497
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.57708,
+      "longitude": 24.70044
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.634923,
+      "longitude": 25.379699
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.838682,
+      "longitude": 23.488678
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.93069,
+      "longitude": 25.56567
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 41.970677,
+      "longitude": 25.558973
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.01065,
+      "longitude": 23.0939
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.011377,
+      "longitude": 24.878623
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.012923,
+      "longitude": 24.871621
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.017791,
+      "longitude": 23.097112
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.019113,
+      "longitude": 23.092881
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.023154,
+      "longitude": 23.090558
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.055815,
+      "longitude": 25.596243
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.122449,
+      "longitude": 24.741026
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.124624,
+      "longitude": 24.720648
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.124653,
+      "longitude": 24.728653
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.126151,
+      "longitude": 24.733533
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.127816,
+      "longitude": 24.720575
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.129461,
+      "longitude": 24.74817
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.132808,
+      "longitude": 24.789821
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.133131,
+      "longitude": 24.795223
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.13407,
+      "longitude": 24.794072
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.1397,
+      "longitude": 24.724318
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.141836,
+      "longitude": 24.754005
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.143443,
+      "longitude": 24.782774
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.145378,
+      "longitude": 24.749035
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.14742,
+      "longitude": 24.78472
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.147571,
+      "longitude": 24.730741
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.150869,
+      "longitude": 24.745391
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.152057,
+      "longitude": 24.745911
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.153307,
+      "longitude": 24.76192
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.156622,
+      "longitude": 24.743642
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.158759,
+      "longitude": 24.739344
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.161264,
+      "longitude": 24.756321
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.166253,
+      "longitude": 24.748981
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.173492,
+      "longitude": 24.741336
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.182865,
+      "longitude": 24.345035
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.186335,
+      "longitude": 24.320321
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.18651,
+      "longitude": 24.34607
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.193296,
+      "longitude": 24.332654
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.196024,
+      "longitude": 24.334615
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.258766,
+      "longitude": 23.103602
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.264015,
+      "longitude": 23.111613
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.28312,
+      "longitude": 22.68105
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.28353,
+      "longitude": 22.700466
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.33718,
+      "longitude": 23.559789
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.41571,
+      "longitude": 25.620342
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.422995,
+      "longitude": 25.620249
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.423874,
+      "longitude": 25.632796
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.424678,
+      "longitude": 25.616432
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.425485,
+      "longitude": 25.631065
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.42718,
+      "longitude": 25.621199
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.432943,
+      "longitude": 25.638423
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.463265,
+      "longitude": 27.419448
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.463534,
+      "longitude": 27.410022
+    },
+    {
+      "name": "Sopharmacy",
+      "latitude": 42.477499,
+      "longitude": 26.517892
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.481798,
+      "longitude": 26.511751
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.493595,
+      "longitude": 27.471011
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.494408,
+      "longitude": 27.472266
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.50244,
+      "longitude": 27.466805
+    },
+    {
+      "name": "Sopharmacy",
+      "latitude": 42.50327,
+      "longitude": 27.47481
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.512009,
+      "longitude": 27.455759
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.51517,
+      "longitude": 27.450623
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.518449,
+      "longitude": 27.457302
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.520091,
+      "longitude": 27.466566
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.522329,
+      "longitude": 27.449815
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.531874,
+      "longitude": 27.461676
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.54605,
+      "longitude": 22.965181
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.565968,
+      "longitude": 27.621798
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.601796,
+      "longitude": 23.049349
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.602219,
+      "longitude": 23.047208
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.606013,
+      "longitude": 23.105536
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.606105,
+      "longitude": 23.115672
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.607345,
+      "longitude": 23.111209
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.607999,
+      "longitude": 23.036474
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.608672,
+      "longitude": 23.10703
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.6177,
+      "longitude": 25.36901
+    },
+    {
+      "name": "Sopharmacy",
+      "latitude": 42.622683,
+      "longitude": 23.370929
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.633402,
+      "longitude": 24.818091
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.634641,
+      "longitude": 23.407595
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.635596,
+      "longitude": 23.377803
+    },
+    {
+      "name": "Sopharmacy",
+      "latitude": 42.638389,
+      "longitude": 23.383548
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.640808,
+      "longitude": 23.382656
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.641538,
+      "longitude": 23.373727
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.642023,
+      "longitude": 23.334381
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.642181,
+      "longitude": 23.336068
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.645453,
+      "longitude": 23.379191
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.646861,
+      "longitude": 23.393424
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.651629,
+      "longitude": 23.405075
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.65181,
+      "longitude": 23.3733
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.652704,
+      "longitude": 27.672322
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.653039,
+      "longitude": 23.377538
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.65631,
+      "longitude": 23.39976
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.656359,
+      "longitude": 23.590924
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.657657,
+      "longitude": 23.31515
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.659213,
+      "longitude": 23.29946
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.659456,
+      "longitude": 23.316242
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.660711,
+      "longitude": 23.382028
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.661155,
+      "longitude": 23.373367
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.663642,
+      "longitude": 23.344524
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.664028,
+      "longitude": 23.596728
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.664416,
+      "longitude": 23.297991
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.664795,
+      "longitude": 23.362613
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.665269,
+      "longitude": 23.406141
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.665315,
+      "longitude": 23.356438
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.665411,
+      "longitude": 23.289525
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.667495,
+      "longitude": 23.365189
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.670162,
+      "longitude": 23.352857
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.67057,
+      "longitude": 23.272994
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.670584,
+      "longitude": 23.321037
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.671624,
+      "longitude": 23.295198
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.672414,
+      "longitude": 23.283677
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.672796,
+      "longitude": 23.293898
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.673761,
+      "longitude": 26.323942
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.67416,
+      "longitude": 23.38281
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.674735,
+      "longitude": 23.358798
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.676252,
+      "longitude": 23.360039
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.676912,
+      "longitude": 23.301719
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.677189,
+      "longitude": 23.292586
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.677567,
+      "longitude": 23.320812
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.678013,
+      "longitude": 23.286151
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.678448,
+      "longitude": 23.320211
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.678781,
+      "longitude": 23.322247
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.678876,
+      "longitude": 23.311722
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.681634,
+      "longitude": 23.331246
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.682526,
+      "longitude": 26.34211
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.682789,
+      "longitude": 23.267507
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.683288,
+      "longitude": 23.287755
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.683342,
+      "longitude": 23.297367
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.684795,
+      "longitude": 23.301802
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.684892,
+      "longitude": 23.245802
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.685357,
+      "longitude": 23.255539
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.686235,
+      "longitude": 23.3074
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.68893,
+      "longitude": 23.308252
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.689353,
+      "longitude": 23.31889
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.689669,
+      "longitude": 23.302076
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.69082,
+      "longitude": 23.363599
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.6914,
+      "longitude": 23.325197
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.693436,
+      "longitude": 23.35136
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.695086,
+      "longitude": 23.315714
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.695099,
+      "longitude": 23.284029
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.695988,
+      "longitude": 23.287661
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.696138,
+      "longitude": 23.319624
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.696435,
+      "longitude": 23.348823
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.697368,
+      "longitude": 23.318489
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.698477,
+      "longitude": 23.308131
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.698877,
+      "longitude": 23.347634
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.701657,
+      "longitude": 23.369454
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.702231,
+      "longitude": 23.353653
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.702496,
+      "longitude": 23.284084
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.70284,
+      "longitude": 23.301362
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.703574,
+      "longitude": 23.308848
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.706287,
+      "longitude": 23.294095
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.70652,
+      "longitude": 23.288089
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.708236,
+      "longitude": 23.287719
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.70947,
+      "longitude": 23.455481
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.710408,
+      "longitude": 23.271192
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.710779,
+      "longitude": 23.309924
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.71134,
+      "longitude": 23.302207
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.712454,
+      "longitude": 23.315413
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.712603,
+      "longitude": 23.268798
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.713178,
+      "longitude": 23.298607
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.713444,
+      "longitude": 23.354056
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.71478,
+      "longitude": 23.25507
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.717534,
+      "longitude": 23.249272
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.726393,
+      "longitude": 23.303003
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.728424,
+      "longitude": 23.286021
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.730232,
+      "longitude": 23.294406
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.730995,
+      "longitude": 23.287172
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.73182,
+      "longitude": 23.315912
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.73567,
+      "longitude": 23.291836
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.736072,
+      "longitude": 23.305426
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.765149,
+      "longitude": 23.567249
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.798907,
+      "longitude": 23.230261
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.88082,
+      "longitude": 25.320024
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.883231,
+      "longitude": 25.320844
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.89257,
+      "longitude": 24.71581
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.906864,
+      "longitude": 23.791954
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.909567,
+      "longitude": 23.790961
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.911175,
+      "longitude": 23.803974
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 42.929416,
+      "longitude": 25.880623
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.021567,
+      "longitude": 25.095579
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.075473,
+      "longitude": 25.612535
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.078764,
+      "longitude": 25.630473
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.078902,
+      "longitude": 25.59999
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.080328,
+      "longitude": 25.629883
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.122783,
+      "longitude": 25.683897
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.138471,
+      "longitude": 24.718104
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.180983,
+      "longitude": 27.896193
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.19861,
+      "longitude": 23.559253
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.202047,
+      "longitude": 27.901029
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.206083,
+      "longitude": 27.910818
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.207041,
+      "longitude": 23.544718
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.208343,
+      "longitude": 27.919096
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.212581,
+      "longitude": 27.912583
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.214772,
+      "longitude": 27.917392
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.214907,
+      "longitude": 27.941191
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.215232,
+      "longitude": 27.955117
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.219816,
+      "longitude": 27.882823
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.220908,
+      "longitude": 27.89036
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.2226,
+      "longitude": 27.940124
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.223335,
+      "longitude": 27.924946
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.227284,
+      "longitude": 27.875544
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.232533,
+      "longitude": 27.86102
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.235175,
+      "longitude": 27.880844
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.241639,
+      "longitude": 27.85018
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.247324,
+      "longitude": 26.572972
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.270981,
+      "longitude": 26.934928
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.271374,
+      "longitude": 26.932358
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.276291,
+      "longitude": 26.942718
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.278449,
+      "longitude": 26.914267
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.279994,
+      "longitude": 26.927718
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.348828,
+      "longitude": 26.224703
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.39518,
+      "longitude": 24.620721
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.40625,
+      "longitude": 23.22458
+    },
+    {
+      "name": "Sopharmacy",
+      "latitude": 43.409069,
+      "longitude": 24.444132
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.410512,
+      "longitude": 24.617043
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.414188,
+      "longitude": 24.61629
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.419002,
+      "longitude": 24.626939
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.420163,
+      "longitude": 24.60816
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.421694,
+      "longitude": 23.227333
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.424032,
+      "longitude": 24.598681
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.528622,
+      "longitude": 26.524239
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.530188,
+      "longitude": 26.511587
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.566749,
+      "longitude": 27.839699
+    },
+    {
+      "name": "SOPharmacy",
+      "latitude": 43.569453,
+      "longitude": 27.828919
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.614141,
+      "longitude": 25.346121
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.83245,
+      "longitude": 25.96866
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.845657,
+      "longitude": 25.966191
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.847597,
+      "longitude": 25.962068
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.851032,
+      "longitude": 25.955943
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.853173,
+      "longitude": 25.978275
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 43.988345,
+      "longitude": 22.875069
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 44.000299,
+      "longitude": 22.869458
+    },
+    {
+      "name": "SOpharmacy",
+      "latitude": 44.111928,
+      "longitude": 27.252263
+    },
+    {
+      "name": "Subra",
+      "latitude": 41.879437,
+      "longitude": 23.472575
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.017672,
+      "longitude": 23.096129
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.032608,
+      "longitude": 24.303224
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.136258,
+      "longitude": 24.796331
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.145381,
+      "longitude": 24.781909
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.148956,
+      "longitude": 24.747461
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.424223,
+      "longitude": 25.627349
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.438292,
+      "longitude": 25.632036
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.494452,
+      "longitude": 24.187729
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.496377,
+      "longitude": 27.470867
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.627651,
+      "longitude": 23.374447
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.635575,
+      "longitude": 23.377499
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.640059,
+      "longitude": 23.311451
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.64118,
+      "longitude": 23.335157
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.642027,
+      "longitude": 23.375272
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.649823,
+      "longitude": 23.260637
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.657356,
+      "longitude": 23.315517
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.658252,
+      "longitude": 23.315137
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.658916,
+      "longitude": 23.347406
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.658938,
+      "longitude": 23.264074
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.659996,
+      "longitude": 23.298946
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.660737,
+      "longitude": 23.382153
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.664131,
+      "longitude": 23.289352
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.668577,
+      "longitude": 23.279174
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.669822,
+      "longitude": 23.363985
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.67497,
+      "longitude": 23.308679
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.679485,
+      "longitude": 23.3675
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.682102,
+      "longitude": 23.301239
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.688652,
+      "longitude": 23.414137
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.689157,
+      "longitude": 23.278299
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.69326,
+      "longitude": 23.334317
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.697712,
+      "longitude": 23.321589
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.710348,
+      "longitude": 23.378359
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.712016,
+      "longitude": 23.338339
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.713253,
+      "longitude": 27.745325
+    },
+    {
+      "name": "Subra",
+      "latitude": 42.908054,
+      "longitude": 23.785662
+    },
+    {
+      "name": "Subra",
+      "latitude": 43.212015,
+      "longitude": 27.917373
+    },
+    {
+      "name": "Subra",
+      "latitude": 43.406677,
+      "longitude": 24.620123
+    },
+    {
+      "name": "Subra",
+      "latitude": 43.419797,
+      "longitude": 24.612618
+    },
+    {
+      "name": "SunPharma",
+      "latitude": 42.703524,
+      "longitude": 27.718009
+    },
+    {
+      "name": "Supernova",
+      "latitude": 41.644724,
+      "longitude": 25.369552
+    },
+    {
+      "name": "Tetra med",
+      "latitude": 42.685526,
+      "longitude": 23.312479
+    },
+    {
+      "name": "the Corner of health",
+      "latitude": 42.655846,
+      "longitude": 23.334075
+    },
+    {
+      "name": "TSM Pharma",
+      "latitude": 42.495688,
+      "longitude": 27.464832
+    },
+    {
+      "name": "Vital",
+      "latitude": 42.086669,
+      "longitude": 23.059738
+    },
+    {
+      "name": "Vitalis Pharma",
+      "latitude": 42.730065,
+      "longitude": 23.294551
+    },
+    {
+      "name": "West Pharmacy",
+      "latitude": 42.116801,
+      "longitude": 24.736323
+    },
+    {
+      "name": "Авеню",
+      "latitude": 42.144955,
+      "longitude": 24.750204
+    },
+    {
+      "name": "Авеню",
+      "latitude": 42.145041,
+      "longitude": 24.756676
+    },
+    {
+      "name": "Авицена",
+      "latitude": 42.675571,
+      "longitude": 26.323939
+    },
+    {
+      "name": "Авицена",
+      "latitude": 42.689303,
+      "longitude": 23.306058
+    },
+    {
+      "name": "Агрион",
+      "latitude": 42.851873,
+      "longitude": 23.039341
+    },
+    {
+      "name": "Агро Аптека",
+      "latitude": 42.504626,
+      "longitude": 27.459785
+    },
+    {
+      "name": "Агроаптека",
+      "latitude": 42.136913,
+      "longitude": 24.741385
+    },
+    {
+      "name": "Адонис",
+      "latitude": 42.13549,
+      "longitude": 24.742714
+    },
+    {
+      "name": "Адонис",
+      "latitude": 42.673867,
+      "longitude": 23.333494
+    },
+    {
+      "name": "Адонис",
+      "latitude": 42.71287,
+      "longitude": 23.314941
+    },
+    {
+      "name": "Адонис",
+      "latitude": 42.717587,
+      "longitude": 23.252431
+    },
+    {
+      "name": "АКВА",
+      "latitude": 42.66142,
+      "longitude": 27.716516
+    },
+    {
+      "name": "Алба",
+      "latitude": 42.690538,
+      "longitude": 23.358694
+    },
+    {
+      "name": "Алекс",
+      "latitude": 42.502829,
+      "longitude": 27.479058
+    },
+    {
+      "name": "Алма",
+      "latitude": 43.081477,
+      "longitude": 25.631467
+    },
+    {
+      "name": "Алтея",
+      "latitude": 42.711573,
+      "longitude": 23.297428
+    },
+    {
+      "name": "Алфа",
+      "latitude": 42.425179,
+      "longitude": 25.640105
+    },
+    {
+      "name": "Амара",
+      "latitude": 42.671309,
+      "longitude": 23.259108
+    },
+    {
+      "name": "Амара",
+      "latitude": 42.687166,
+      "longitude": 23.317134
+    },
+    {
+      "name": "Амара",
+      "latitude": 42.698666,
+      "longitude": 23.340274
+    },
+    {
+      "name": "Амая",
+      "latitude": 42.663627,
+      "longitude": 23.266631
+    },
+    {
+      "name": "Амброзия",
+      "latitude": 42.873058,
+      "longitude": 25.315058
+    },
+    {
+      "name": "Амизи",
+      "latitude": 42.147188,
+      "longitude": 24.728035
+    },
+    {
+      "name": "Анжела 2",
+      "latitude": 42.157773,
+      "longitude": 24.312443
+    },
+    {
+      "name": "Ани фарма",
+      "latitude": 41.895737,
+      "longitude": 23.113844
+    },
+    {
+      "name": "Ани Фарма",
+      "latitude": 43.223003,
+      "longitude": 27.929092
+    },
+    {
+      "name": "Анимеа",
+      "latitude": 42.700278,
+      "longitude": 23.315209
+    },
+    {
+      "name": "Анифарма",
+      "latitude": 42.665633,
+      "longitude": 23.36701
+    },
+    {
+      "name": "Аптека",
+      "latitude": 41.377979,
+      "longitude": 25.255681
+    },
+    {
+      "name": "Аптека",
+      "latitude": 41.380786,
+      "longitude": 25.255305
+    },
+    {
+      "name": "Аптека",
+      "latitude": 41.444167,
+      "longitude": 23.43138
+    },
+    {
+      "name": "аптека",
+      "latitude": 42.17154,
+      "longitude": 27.853503
+    },
+    {
+      "name": "Аптека",
+      "latitude": 44.028897,
+      "longitude": 22.754196
+    },
+    {
+      "name": "Аптека \"Живакова\"",
+      "latitude": 41.931093,
+      "longitude": 25.55711
+    },
+    {
+      "name": "Аптека \"Минт\"",
+      "latitude": 43.261535,
+      "longitude": 28.030751
+    },
+    {
+      "name": "Аптека \"Плантафарм\"",
+      "latitude": 44.030252,
+      "longitude": 22.96634
+    },
+    {
+      "name": "Аптека \"Стефанови-2000\"",
+      "latitude": 43.807369,
+      "longitude": 26.101667
+    },
+    {
+      "name": "Аптека - 31",
+      "latitude": 42.131861,
+      "longitude": 24.714025
+    },
+    {
+      "name": "Аптека 1",
+      "latitude": 42.139277,
+      "longitude": 24.767877
+    },
+    {
+      "name": "Аптека 1",
+      "latitude": 42.906109,
+      "longitude": 23.790512
+    },
+    {
+      "name": "Аптека 2",
+      "latitude": 43.823633,
+      "longitude": 27.141017
+    },
+    {
+      "name": "Аптека 36.6",
+      "latitude": 42.138507,
+      "longitude": 24.721907
+    },
+    {
+      "name": "Аптека 36.6 Баня",
+      "latitude": 42.541519,
+      "longitude": 24.835767
+    },
+    {
+      "name": "Аптека 36.6 Билла Кършияка",
+      "latitude": 42.162181,
+      "longitude": 24.742752
+    },
+    {
+      "name": "Аптека 36.6 Билла Марица",
+      "latitude": 42.15338,
+      "longitude": 24.762049
+    },
+    {
+      "name": "Аптека 36.6 Билла Родопи",
+      "latitude": 42.133089,
+      "longitude": 24.74414
+    },
+    {
+      "name": "Аптека 36.6 България",
+      "latitude": 42.009314,
+      "longitude": 24.870729
+    },
+    {
+      "name": "Аптека 36.6 Военна Болница",
+      "latitude": 42.136106,
+      "longitude": 24.75743
+    },
+    {
+      "name": "Аптека 36.6 Детски свят",
+      "latitude": 42.12869,
+      "longitude": 24.780317
+    },
+    {
+      "name": "Аптека 36.6 Иван Вазов",
+      "latitude": 42.136616,
+      "longitude": 24.74327
+    },
+    {
+      "name": "Аптека 36.6 Карлово",
+      "latitude": 42.641339,
+      "longitude": 24.805902
+    },
+    {
+      "name": "Аптека 36.6 Ленинград",
+      "latitude": 42.158119,
+      "longitude": 24.733441
+    },
+    {
+      "name": "Аптека 36.6 Панаира",
+      "latitude": 42.159441,
+      "longitude": 24.747759
+    },
+    {
+      "name": "Аптека 36.6 Победа",
+      "latitude": 42.157331,
+      "longitude": 24.738692
+    },
+    {
+      "name": "Аптека 36.6 Прослав",
+      "latitude": 42.125608,
+      "longitude": 24.687695
+    },
+    {
+      "name": "Аптека 36.6 Раковски",
+      "latitude": 42.270909,
+      "longitude": 24.931587
+    },
+    {
+      "name": "Аптека 36.6 Стряма",
+      "latitude": 42.259341,
+      "longitude": 24.881669
+    },
+    {
+      "name": "Аптека 36.6 Събота Пазара",
+      "latitude": 42.13124,
+      "longitude": 24.74482
+    },
+    {
+      "name": "Аптека 36.6 Тонус",
+      "latitude": 42.147342,
+      "longitude": 24.729646
+    },
+    {
+      "name": "Аптека 36.6 Център",
+      "latitude": 42.143808,
+      "longitude": 24.749428
+    },
+    {
+      "name": "Аптека 37.7",
+      "latitude": 42.194103,
+      "longitude": 24.331724
+    },
+    {
+      "name": "АПТЕКА 6",
+      "latitude": 42.668863,
+      "longitude": 26.335248
+    },
+    {
+      "name": "Аптека Diva",
+      "latitude": 43.213156,
+      "longitude": 27.915655
+    },
+    {
+      "name": "Аптека Royal Pharmacy",
+      "latitude": 42.608492,
+      "longitude": 23.108033
+    },
+    {
+      "name": "Аптека Абифарма",
+      "latitude": 42.708723,
+      "longitude": 23.287691
+    },
+    {
+      "name": "Аптека Аква Р",
+      "latitude": 42.499161,
+      "longitude": 27.478923
+    },
+    {
+      "name": "аптека Апостолов",
+      "latitude": 42.621791,
+      "longitude": 25.387491
+    },
+    {
+      "name": "Аптека Аспида 1",
+      "latitude": 43.280336,
+      "longitude": 26.923816
+    },
+    {
+      "name": "Аптека Астра",
+      "latitude": 42.528123,
+      "longitude": 27.4634
+    },
+    {
+      "name": "Аптека Белите брези",
+      "latitude": 42.677697,
+      "longitude": 23.291885
+    },
+    {
+      "name": "Аптека билкария",
+      "latitude": 43.085573,
+      "longitude": 25.648171
+    },
+    {
+      "name": "Аптека Вега",
+      "latitude": 42.131283,
+      "longitude": 24.789908
+    },
+    {
+      "name": "Аптека ВИТАЛ",
+      "latitude": 43.21515,
+      "longitude": 27.909369
+    },
+    {
+      "name": "Аптека Галантус",
+      "latitude": 43.444769,
+      "longitude": 26.165761
+    },
+    {
+      "name": "Аптека Денифарм",
+      "latitude": 42.638645,
+      "longitude": 23.365953
+    },
+    {
+      "name": "Аптека ЕЛИ",
+      "latitude": 43.782451,
+      "longitude": 23.72203
+    },
+    {
+      "name": "Аптека ЕОС",
+      "latitude": 42.333872,
+      "longitude": 23.552445
+    },
+    {
+      "name": "аптека Ерудита",
+      "latitude": 42.707018,
+      "longitude": 23.316505
+    },
+    {
+      "name": "Аптека Запад",
+      "latitude": 42.161447,
+      "longitude": 24.756332
+    },
+    {
+      "name": "Аптека Запад",
+      "latitude": 42.618169,
+      "longitude": 25.379577
+    },
+    {
+      "name": "Аптека Зора",
+      "latitude": 42.662381,
+      "longitude": 23.380139
+    },
+    {
+      "name": "Аптека ИВА",
+      "latitude": 42.184868,
+      "longitude": 24.340827
+    },
+    {
+      "name": "Аптека Ива",
+      "latitude": 42.638333,
+      "longitude": 23.369865
+    },
+    {
+      "name": "Аптека Йорданова",
+      "latitude": 43.179333,
+      "longitude": 27.444013
+    },
+    {
+      "name": "Аптека Калина",
+      "latitude": 42.14088,
+      "longitude": 24.789437
+    },
+    {
+      "name": "Аптека Линк+",
+      "latitude": 42.500674,
+      "longitude": 27.473828
+    },
+    {
+      "name": "Аптека Мальовица",
+      "latitude": 42.142296,
+      "longitude": 24.733383
+    },
+    {
+      "name": "Аптека Манолова",
+      "latitude": 43.218072,
+      "longitude": 27.92554
+    },
+    {
+      "name": "Аптека Манолова",
+      "latitude": 43.221943,
+      "longitude": 27.933911
+    },
+    {
+      "name": "Аптека МАРВИ 4",
+      "latitude": 42.424857,
+      "longitude": 25.686104
+    },
+    {
+      "name": "Аптека Марешки",
+      "latitude": 42.120348,
+      "longitude": 24.732929
+    },
+    {
+      "name": "аптека Марешки",
+      "latitude": 42.188251,
+      "longitude": 24.341261
+    },
+    {
+      "name": "Аптека Марешки",
+      "latitude": 42.191046,
+      "longitude": 24.329118
+    },
+    {
+      "name": "Аптека Марешки",
+      "latitude": 43.230865,
+      "longitude": 27.878815
+    },
+    {
+      "name": "Аптека Марешки",
+      "latitude": 43.271938,
+      "longitude": 26.925998
+    },
+    {
+      "name": "Аптека Матрикариа",
+      "latitude": 43.212237,
+      "longitude": 27.916971
+    },
+    {
+      "name": "Аптека Медина",
+      "latitude": 42.13605,
+      "longitude": 24.761038
+    },
+    {
+      "name": "Аптека Мерджанов",
+      "latitude": 43.444616,
+      "longitude": 26.165737
+    },
+    {
+      "name": "Аптека МЕСАМЕР с.Розино",
+      "latitude": 42.712245,
+      "longitude": 24.547615
+    },
+    {
+      "name": "Аптека Митков",
+      "latitude": 42.629623,
+      "longitude": 23.381101
+    },
+    {
+      "name": "Аптека на УБ Александровска",
+      "latitude": 42.683438,
+      "longitude": 23.308356
+    },
+    {
+      "name": "Аптека Нова Поморие",
+      "latitude": 42.560621,
+      "longitude": 27.635095
+    },
+    {
+      "name": "Аптека Попова",
+      "latitude": 43.204334,
+      "longitude": 27.918474
+    },
+    {
+      "name": "Аптека Пулс",
+      "latitude": 42.520007,
+      "longitude": 27.451347
+    },
+    {
+      "name": "Аптека Райковски",
+      "latitude": 43.577735,
+      "longitude": 27.828826
+    },
+    {
+      "name": "Аптека Рила 1 ЕООД",
+      "latitude": 42.126463,
+      "longitude": 23.132735
+    },
+    {
+      "name": "Аптека Сияна",
+      "latitude": 41.587271,
+      "longitude": 24.02739
+    },
+    {
+      "name": "Аптека Тренчева",
+      "latitude": 41.83643,
+      "longitude": 23.491627
+    },
+    {
+      "name": "Аптека Триадица",
+      "latitude": 42.66645,
+      "longitude": 23.296915
+    },
+    {
+      "name": "Аптека Феникс",
+      "latitude": 43.272328,
+      "longitude": 26.925911
+    },
+    {
+      "name": "Аптека Хаифарм",
+      "latitude": 42.41901,
+      "longitude": 27.694398
+    },
+    {
+      "name": "Аптеката",
+      "latitude": 42.010645,
+      "longitude": 24.879167
+    },
+    {
+      "name": "Аптеки Запад",
+      "latitude": 42.152212,
+      "longitude": 24.792926
+    },
+    {
+      "name": "Ариана",
+      "latitude": 42.426327,
+      "longitude": 25.631911
+    },
+    {
+      "name": "Арника",
+      "latitude": 42.504297,
+      "longitude": 27.468576
+    },
+    {
+      "name": "Арония 2001",
+      "latitude": 42.689259,
+      "longitude": 23.307159
+    },
+    {
+      "name": "АРТЕКА",
+      "latitude": 42.866094,
+      "longitude": 25.489885
+    },
+    {
+      "name": "Асикон 2000",
+      "latitude": 42.55836,
+      "longitude": 27.63922
+    },
+    {
+      "name": "Асклепий",
+      "latitude": 43.079387,
+      "longitude": 25.628482
+    },
+    {
+      "name": "Асклепий",
+      "latitude": 43.081371,
+      "longitude": 25.631354
+    },
+    {
+      "name": "Астра-4",
+      "latitude": 43.845591,
+      "longitude": 25.97513
+    },
+    {
+      "name": "Афиа",
+      "latitude": 42.481935,
+      "longitude": 26.512379
+    },
+    {
+      "name": "Афиа",
+      "latitude": 42.498129,
+      "longitude": 27.465253
+    },
+    {
+      "name": "Афиа",
+      "latitude": 42.50165,
+      "longitude": 27.467138
+    },
+    {
+      "name": "Афиа",
+      "latitude": 42.522998,
+      "longitude": 27.462253
+    },
+    {
+      "name": "Ахат",
+      "latitude": 42.122596,
+      "longitude": 24.74801
+    },
+    {
+      "name": "Бакалова",
+      "latitude": 42.481094,
+      "longitude": 26.514145
+    },
+    {
+      "name": "БГ",
+      "latitude": 42.668934,
+      "longitude": 23.289248
+    },
+    {
+      "name": "Бел Ком Фарма",
+      "latitude": 43.192097,
+      "longitude": 27.70826
+    },
+    {
+      "name": "Белба",
+      "latitude": 42.681847,
+      "longitude": 23.331191
+    },
+    {
+      "name": "Беллафарма",
+      "latitude": 42.696507,
+      "longitude": 23.314313
+    },
+    {
+      "name": "Бендида",
+      "latitude": 43.045671,
+      "longitude": 25.891083
+    },
+    {
+      "name": "Бергер",
+      "latitude": 42.641497,
+      "longitude": 24.807204
+    },
+    {
+      "name": "Билколечение, ЕТ \"Здравец-Билка\"",
+      "latitude": 43.213017,
+      "longitude": 27.906051
+    },
+    {
+      "name": "Биола",
+      "latitude": 42.710363,
+      "longitude": 23.292292
+    },
+    {
+      "name": "Богея",
+      "latitude": 42.661566,
+      "longitude": 23.37458
+    },
+    {
+      "name": "Богея",
+      "latitude": 42.733291,
+      "longitude": 23.302411
+    },
+    {
+      "name": "Божилов",
+      "latitude": 42.481006,
+      "longitude": 26.515495
+    },
+    {
+      "name": "Бони фарм",
+      "latitude": 42.696506,
+      "longitude": 23.336743
+    },
+    {
+      "name": "Боряна Шкутова",
+      "latitude": 42.694772,
+      "longitude": 23.311338
+    },
+    {
+      "name": "Бултихфарма",
+      "latitude": 42.661008,
+      "longitude": 23.372934
+    },
+    {
+      "name": "Валенс",
+      "latitude": 43.224186,
+      "longitude": 27.912367
+    },
+    {
+      "name": "Валенс",
+      "latitude": 43.233891,
+      "longitude": 27.872788
+    },
+    {
+      "name": "Валера Фарм",
+      "latitude": 42.677477,
+      "longitude": 23.257504
+    },
+    {
+      "name": "Валета",
+      "latitude": 42.692717,
+      "longitude": 23.343977
+    },
+    {
+      "name": "Ведра",
+      "latitude": 42.671146,
+      "longitude": 23.318018
+    },
+    {
+      "name": "Велина",
+      "latitude": 42.702711,
+      "longitude": 23.324385
+    },
+    {
+      "name": "Верде",
+      "latitude": 42.657689,
+      "longitude": 23.376288
+    },
+    {
+      "name": "Верита",
+      "latitude": 42.70311,
+      "longitude": 23.299786
+    },
+    {
+      "name": "Весела",
+      "latitude": 42.696411,
+      "longitude": 23.317813
+    },
+    {
+      "name": "Ветеринарна аптека",
+      "latitude": 42.499267,
+      "longitude": 27.466859
+    },
+    {
+      "name": "Ветеринарна аптека",
+      "latitude": 42.504434,
+      "longitude": 27.473615
+    },
+    {
+      "name": "Ветфарм Комерс",
+      "latitude": 42.410458,
+      "longitude": 25.591546
+    },
+    {
+      "name": "ВИА",
+      "latitude": 42.65635,
+      "longitude": 23.320945
+    },
+    {
+      "name": "Виа",
+      "latitude": 42.70023,
+      "longitude": 23.316602
+    },
+    {
+      "name": "Вива",
+      "latitude": 42.71513,
+      "longitude": 23.248888
+    },
+    {
+      "name": "Вива",
+      "latitude": 43.854583,
+      "longitude": 25.964384
+    },
+    {
+      "name": "Вива 1",
+      "latitude": 43.567282,
+      "longitude": 27.830465
+    },
+    {
+      "name": "Вива 4",
+      "latitude": 43.561634,
+      "longitude": 27.818669
+    },
+    {
+      "name": "Вива фарма",
+      "latitude": 42.127068,
+      "longitude": 24.742026
+    },
+    {
+      "name": "Вип фарма",
+      "latitude": 42.671949,
+      "longitude": 23.300376
+    },
+    {
+      "name": "Вира",
+      "latitude": 42.642336,
+      "longitude": 23.370146
+    },
+    {
+      "name": "Вира",
+      "latitude": 42.680129,
+      "longitude": 23.371478
+    },
+    {
+      "name": "Вирджиния",
+      "latitude": 42.345056,
+      "longitude": 27.180543
+    },
+    {
+      "name": "Вирена-фарм ЕООД",
+      "latitude": 41.719353,
+      "longitude": 23.161879
+    },
+    {
+      "name": "Виржиния",
+      "latitude": 42.698319,
+      "longitude": 23.332726
+    },
+    {
+      "name": "Вита 3",
+      "latitude": 43.834858,
+      "longitude": 25.957733
+    },
+    {
+      "name": "Виталика",
+      "latitude": 42.872204,
+      "longitude": 24.712662
+    },
+    {
+      "name": "Виталити",
+      "latitude": 42.671501,
+      "longitude": 23.290512
+    },
+    {
+      "name": "Витания",
+      "latitude": 41.549966,
+      "longitude": 23.26986
+    },
+    {
+      "name": "Витания",
+      "latitude": 42.652332,
+      "longitude": 23.347192
+    },
+    {
+      "name": "Витания",
+      "latitude": 42.671481,
+      "longitude": 23.350729
+    },
+    {
+      "name": "Витания",
+      "latitude": 42.710583,
+      "longitude": 23.258209
+    },
+    {
+      "name": "Влахов",
+      "latitude": 42.701143,
+      "longitude": 23.337342
+    },
+    {
+      "name": "Галантус",
+      "latitude": 42.412109,
+      "longitude": 27.70013
+    },
+    {
+      "name": "Галантус",
+      "latitude": 42.66299,
+      "longitude": 23.376722
+    },
+    {
+      "name": "Галантус",
+      "latitude": 42.690294,
+      "longitude": 23.363664
+    },
+    {
+      "name": "Галантус",
+      "latitude": 43.207149,
+      "longitude": 27.921859
+    },
+    {
+      "name": "Галатея",
+      "latitude": 42.675722,
+      "longitude": 23.288194
+    },
+    {
+      "name": "Гален",
+      "latitude": 41.767882,
+      "longitude": 26.20657
+    },
+    {
+      "name": "Гален",
+      "latitude": 41.930185,
+      "longitude": 25.55746
+    },
+    {
+      "name": "Гален",
+      "latitude": 42.144491,
+      "longitude": 24.766592
+    },
+    {
+      "name": "Гален",
+      "latitude": 42.152279,
+      "longitude": 24.756312
+    },
+    {
+      "name": "Гален",
+      "latitude": 42.158557,
+      "longitude": 24.73229
+    },
+    {
+      "name": "Гален",
+      "latitude": 42.720503,
+      "longitude": 23.243132
+    },
+    {
+      "name": "Гален",
+      "latitude": 43.569574,
+      "longitude": 27.831973
+    },
+    {
+      "name": "Гален 1",
+      "latitude": 41.933052,
+      "longitude": 25.560433
+    },
+    {
+      "name": "Гален 2",
+      "latitude": 41.938846,
+      "longitude": 25.560848
+    },
+    {
+      "name": "Гален 3",
+      "latitude": 41.932883,
+      "longitude": 25.560905
+    },
+    {
+      "name": "Гален 4",
+      "latitude": 41.930493,
+      "longitude": 25.552949
+    },
+    {
+      "name": "Гален 5",
+      "latitude": 41.932096,
+      "longitude": 25.566551
+    },
+    {
+      "name": "Гален 6",
+      "latitude": 41.933732,
+      "longitude": 25.547362
+    },
+    {
+      "name": "Галения",
+      "latitude": 42.145259,
+      "longitude": 24.758504
+    },
+    {
+      "name": "Галения",
+      "latitude": 42.426648,
+      "longitude": 25.641291
+    },
+    {
+      "name": "Галения",
+      "latitude": 42.430098,
+      "longitude": 25.62662
+    },
+    {
+      "name": "Герови",
+      "latitude": 43.267545,
+      "longitude": 26.929814
+    },
+    {
+      "name": "Д-р Басанович",
+      "latitude": 43.223941,
+      "longitude": 27.925346
+    },
+    {
+      "name": "Д-р Басанович",
+      "latitude": 43.224191,
+      "longitude": 27.923042
+    },
+    {
+      "name": "Д-р Спасов",
+      "latitude": 42.027538,
+      "longitude": 23.992261
+    },
+    {
+      "name": "Д-р Спасов",
+      "latitude": 42.504925,
+      "longitude": 24.188479
+    },
+    {
+      "name": "Далия",
+      "latitude": 42.652053,
+      "longitude": 23.333092
+    },
+    {
+      "name": "Дани Фарма",
+      "latitude": 42.291734,
+      "longitude": 25.93706
+    },
+    {
+      "name": "Данифарм",
+      "latitude": 42.659195,
+      "longitude": 23.241896
+    },
+    {
+      "name": "Дария",
+      "latitude": 42.422819,
+      "longitude": 25.619209
+    },
+    {
+      "name": "Декс",
+      "latitude": 42.694975,
+      "longitude": 23.299103
+    },
+    {
+      "name": "Дема",
+      "latitude": 42.147279,
+      "longitude": 24.725811
+    },
+    {
+      "name": "Денонощен аптечен комплекс",
+      "latitude": 42.159312,
+      "longitude": 24.742693
+    },
+    {
+      "name": "Денонощна аптека",
+      "latitude": 42.015066,
+      "longitude": 24.879141
+    },
+    {
+      "name": "Денонощна Аптека",
+      "latitude": 42.141678,
+      "longitude": 24.788434
+    },
+    {
+      "name": "Денонощна аптека",
+      "latitude": 42.281112,
+      "longitude": 22.691892
+    },
+    {
+      "name": "Денонощна Аптека",
+      "latitude": 42.695812,
+      "longitude": 27.709279
+    },
+    {
+      "name": "Денонощна аптека \"Оптима\"",
+      "latitude": 43.850774,
+      "longitude": 25.990489
+    },
+    {
+      "name": "Денонощна аптека Валя Дечева",
+      "latitude": 43.212859,
+      "longitude": 27.916103
+    },
+    {
+      "name": "Денонощна аптека Орион",
+      "latitude": 42.715609,
+      "longitude": 23.276469
+    },
+    {
+      "name": "Део воленте",
+      "latitude": 42.70756,
+      "longitude": 23.317821
+    },
+    {
+      "name": "Детелина",
+      "latitude": 42.694261,
+      "longitude": 23.360076
+    },
+    {
+      "name": "Детелина",
+      "latitude": 42.727377,
+      "longitude": 23.300812
+    },
+    {
+      "name": "Детелина",
+      "latitude": 42.744019,
+      "longitude": 23.279016
+    },
+    {
+      "name": "Джумаята",
+      "latitude": 42.148057,
+      "longitude": 24.747726
+    },
+    {
+      "name": "диа-фарм",
+      "latitude": 42.130455,
+      "longitude": 24.751206
+    },
+    {
+      "name": "Диана",
+      "latitude": 42.474634,
+      "longitude": 26.52619
+    },
+    {
+      "name": "Димма",
+      "latitude": 42.625322,
+      "longitude": 23.381146
+    },
+    {
+      "name": "Дина мед",
+      "latitude": 42.659712,
+      "longitude": 23.359295
+    },
+    {
+      "name": "Диове фарм",
+      "latitude": 41.743258,
+      "longitude": 24.398067
+    },
+    {
+      "name": "Добрев",
+      "latitude": 42.663704,
+      "longitude": 23.374281
+    },
+    {
+      "name": "Добруджа",
+      "latitude": 43.570247,
+      "longitude": 27.828567
+    },
+    {
+      "name": "Доверие",
+      "latitude": 43.014513,
+      "longitude": 23.046235
+    },
+    {
+      "name": "Домис",
+      "latitude": 42.687076,
+      "longitude": 23.328566
+    },
+    {
+      "name": "Дрогерия",
+      "latitude": 41.821376,
+      "longitude": 23.564904
+    },
+    {
+      "name": "Дрогерия",
+      "latitude": 41.881487,
+      "longitude": 23.525852
+    },
+    {
+      "name": "Дрогерия",
+      "latitude": 42.017324,
+      "longitude": 25.2969
+    },
+    {
+      "name": "Дрогерия",
+      "latitude": 42.833435,
+      "longitude": 22.648102
+    },
+    {
+      "name": "Дрогерия \"Медидом\"",
+      "latitude": 42.662875,
+      "longitude": 23.371274
+    },
+    {
+      "name": "Дрогерия ИРИС",
+      "latitude": 42.511663,
+      "longitude": 27.467499
+    },
+    {
+      "name": "Държавна",
+      "latitude": 42.309286,
+      "longitude": 23.856922
+    },
+    {
+      "name": "Европа",
+      "latitude": 43.217448,
+      "longitude": 27.916217
+    },
+    {
+      "name": "Еврофарма",
+      "latitude": 43.217436,
+      "longitude": 27.921095
+    },
+    {
+      "name": "Еделвайс",
+      "latitude": 42.669282,
+      "longitude": 23.316894
+    },
+    {
+      "name": "Елза",
+      "latitude": 41.885104,
+      "longitude": 23.467263
+    },
+    {
+      "name": "Ели",
+      "latitude": 42.68959,
+      "longitude": 23.343118
+    },
+    {
+      "name": "Елиа",
+      "latitude": 42.675695,
+      "longitude": 23.299985
+    },
+    {
+      "name": "Еова",
+      "latitude": 42.541649,
+      "longitude": 25.572905
+    },
+    {
+      "name": "Еова-Ира",
+      "latitude": 42.426024,
+      "longitude": 25.635639
+    },
+    {
+      "name": "ЕТ Фармакийс",
+      "latitude": 42.689498,
+      "longitude": 23.325481
+    },
+    {
+      "name": "Женхим",
+      "latitude": 42.701236,
+      "longitude": 23.322305
+    },
+    {
+      "name": "Живакова",
+      "latitude": 41.935952,
+      "longitude": 25.554012
+    },
+    {
+      "name": "Живакова 2",
+      "latitude": 41.932918,
+      "longitude": 25.560785
+    },
+    {
+      "name": "Живита",
+      "latitude": 43.211987,
+      "longitude": 27.905278
+    },
+    {
+      "name": "Жийон",
+      "latitude": 42.634967,
+      "longitude": 23.37705
+    },
+    {
+      "name": "Жийон",
+      "latitude": 42.679477,
+      "longitude": 23.360942
+    },
+    {
+      "name": "Жийон",
+      "latitude": 42.703342,
+      "longitude": 23.333529
+    },
+    {
+      "name": "Запад",
+      "latitude": 42.136445,
+      "longitude": 24.715813
+    },
+    {
+      "name": "Запад Триумф 2",
+      "latitude": 42.13622,
+      "longitude": 24.718505
+    },
+    {
+      "name": "Захариева",
+      "latitude": 42.280976,
+      "longitude": 22.691691
+    },
+    {
+      "name": "Здраве",
+      "latitude": 42.100529,
+      "longitude": 24.702185
+    },
+    {
+      "name": "Здраве",
+      "latitude": 42.48228,
+      "longitude": 26.507435
+    },
+    {
+      "name": "Здраве",
+      "latitude": 42.482879,
+      "longitude": 26.504823
+    },
+    {
+      "name": "Здраве",
+      "latitude": 42.598492,
+      "longitude": 26.692008
+    },
+    {
+      "name": "Здраве",
+      "latitude": 42.743759,
+      "longitude": 23.27724
+    },
+    {
+      "name": "Здраве",
+      "latitude": 42.908175,
+      "longitude": 23.797997
+    },
+    {
+      "name": "Здравен свят",
+      "latitude": 43.566642,
+      "longitude": 27.822801
+    },
+    {
+      "name": "Здравец",
+      "latitude": 42.142221,
+      "longitude": 24.753604
+    },
+    {
+      "name": "Здравец",
+      "latitude": 42.47282,
+      "longitude": 26.522105
+    },
+    {
+      "name": "Здравец",
+      "latitude": 42.632334,
+      "longitude": 23.375439
+    },
+    {
+      "name": "Зелен кръст",
+      "latitude": 42.706688,
+      "longitude": 23.318094
+    },
+    {
+      "name": "Зелени",
+      "latitude": 42.648993,
+      "longitude": 23.379656
+    },
+    {
+      "name": "Зелени аптеки",
+      "latitude": 42.657691,
+      "longitude": 23.341048
+    },
+    {
+      "name": "Златен рог",
+      "latitude": 42.481257,
+      "longitude": 26.492433
+    },
+    {
+      "name": "Зонафарм",
+      "latitude": 42.699857,
+      "longitude": 23.316156
+    },
+    {
+      "name": "Ивана",
+      "latitude": 42.42844,
+      "longitude": 25.625312
+    },
+    {
+      "name": "Иглика",
+      "latitude": 42.349013,
+      "longitude": 25.07712
+    },
+    {
+      "name": "Иглика",
+      "latitude": 42.426804,
+      "longitude": 25.640736
+    },
+    {
+      "name": "Изток",
+      "latitude": 42.141758,
+      "longitude": 24.762886
+    },
+    {
+      "name": "Имунофарм",
+      "latitude": 42.660671,
+      "longitude": 23.364842
+    },
+    {
+      "name": "Иримар",
+      "latitude": 42.712636,
+      "longitude": 23.262094
+    },
+    {
+      "name": "Ирис",
+      "latitude": 42.492707,
+      "longitude": 27.464295
+    },
+    {
+      "name": "Ирка",
+      "latitude": 43.407042,
+      "longitude": 23.223287
+    },
+    {
+      "name": "К-Крес",
+      "latitude": 43.212192,
+      "longitude": 27.906014
+    },
+    {
+      "name": "К-Крес",
+      "latitude": 43.213814,
+      "longitude": 27.933757
+    },
+    {
+      "name": "К-КРЕС",
+      "latitude": 43.218083,
+      "longitude": 27.91901
+    },
+    {
+      "name": "К-Крес",
+      "latitude": 43.571196,
+      "longitude": 27.834359
+    },
+    {
+      "name": "К-КРЕС и Кактус",
+      "latitude": 43.205738,
+      "longitude": 27.912727
+    },
+    {
+      "name": "Кактус",
+      "latitude": 43.220361,
+      "longitude": 27.930418
+    },
+    {
+      "name": "Калина",
+      "latitude": 42.132855,
+      "longitude": 24.779726
+    },
+    {
+      "name": "Камена",
+      "latitude": 42.700773,
+      "longitude": 23.322426
+    },
+    {
+      "name": "Ками-КМ",
+      "latitude": 42.669355,
+      "longitude": 23.301764
+    },
+    {
+      "name": "Карагьозян",
+      "latitude": 42.700162,
+      "longitude": 23.323059
+    },
+    {
+      "name": "Катюша",
+      "latitude": 42.656221,
+      "longitude": 23.31524
+    },
+    {
+      "name": "Кедър",
+      "latitude": 42.493679,
+      "longitude": 27.471457
+    },
+    {
+      "name": "Класика Нео",
+      "latitude": 43.142786,
+      "longitude": 24.711428
+    },
+    {
+      "name": "Ковачеви",
+      "latitude": 42.431151,
+      "longitude": 25.62273
+    },
+    {
+      "name": "Колибри",
+      "latitude": 42.652963,
+      "longitude": 23.361747
+    },
+    {
+      "name": "Корект",
+      "latitude": 42.670743,
+      "longitude": 23.353291
+    },
+    {
+      "name": "Корект",
+      "latitude": 42.680913,
+      "longitude": 23.373453
+    },
+    {
+      "name": "Корект",
+      "latitude": 42.693282,
+      "longitude": 23.354638
+    },
+    {
+      "name": "Корект",
+      "latitude": 42.696485,
+      "longitude": 23.351384
+    },
+    {
+      "name": "Крес",
+      "latitude": 43.212272,
+      "longitude": 27.905636
+    },
+    {
+      "name": "Куин сити",
+      "latitude": 42.708395,
+      "longitude": 23.299247
+    },
+    {
+      "name": "Курило",
+      "latitude": 42.823686,
+      "longitude": 23.353893
+    },
+    {
+      "name": "Лаванда",
+      "latitude": 42.653075,
+      "longitude": 27.704255
+    },
+    {
+      "name": "Лавър 2",
+      "latitude": 42.461848,
+      "longitude": 27.414753
+    },
+    {
+      "name": "Лазур",
+      "latitude": 42.56669,
+      "longitude": 27.614173
+    },
+    {
+      "name": "Лалева",
+      "latitude": 43.435033,
+      "longitude": 28.33745
+    },
+    {
+      "name": "Лек",
+      "latitude": 42.716327,
+      "longitude": 23.250818
+    },
+    {
+      "name": "Ленинград",
+      "latitude": 42.158273,
+      "longitude": 24.733503
+    },
+    {
+      "name": "Ливай",
+      "latitude": 42.672201,
+      "longitude": 23.300044
+    },
+    {
+      "name": "Лида",
+      "latitude": 42.670971,
+      "longitude": 23.302057
+    },
+    {
+      "name": "Лили",
+      "latitude": 42.493355,
+      "longitude": 27.465488
+    },
+    {
+      "name": "Лили",
+      "latitude": 42.689096,
+      "longitude": 23.31417
+    },
+    {
+      "name": "Лили 11",
+      "latitude": 42.482755,
+      "longitude": 26.512041
+    },
+    {
+      "name": "ЛЛ-Фарма",
+      "latitude": 42.687794,
+      "longitude": 23.330256
+    },
+    {
+      "name": "Любо-2012",
+      "latitude": 42.847763,
+      "longitude": 22.989996
+    },
+    {
+      "name": "М-Фарма",
+      "latitude": 43.854676,
+      "longitude": 25.965242
+    },
+    {
+      "name": "Магазин Билка",
+      "latitude": 42.188309,
+      "longitude": 24.332343
+    },
+    {
+      "name": "Магифарм",
+      "latitude": 42.288122,
+      "longitude": 25.932629
+    },
+    {
+      "name": "Максима",
+      "latitude": 42.433242,
+      "longitude": 25.631998
+    },
+    {
+      "name": "Мандрагора",
+      "latitude": 42.660762,
+      "longitude": 23.36667
+    },
+    {
+      "name": "Марви",
+      "latitude": 42.42695,
+      "longitude": 25.634334
+    },
+    {
+      "name": "Марви 3",
+      "latitude": 42.423648,
+      "longitude": 25.634953
+    },
+    {
+      "name": "Марешки",
+      "latitude": 41.573133,
+      "longitude": 24.781834
+    },
+    {
+      "name": "Марешки",
+      "latitude": 41.575844,
+      "longitude": 24.706483
+    },
+    {
+      "name": "Марешки",
+      "latitude": 41.634421,
+      "longitude": 25.378042
+    },
+    {
+      "name": "Марешки",
+      "latitude": 41.634795,
+      "longitude": 25.35552
+    },
+    {
+      "name": "Марешки",
+      "latitude": 41.644708,
+      "longitude": 25.371504
+    },
+    {
+      "name": "Марешки",
+      "latitude": 41.742995,
+      "longitude": 24.397365
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.008824,
+      "longitude": 24.872918
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.020679,
+      "longitude": 23.990003
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.043701,
+      "longitude": 24.46663
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.056318,
+      "longitude": 25.590622
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.057376,
+      "longitude": 24.546736
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.122289,
+      "longitude": 24.737671
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.127786,
+      "longitude": 24.748196
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.129788,
+      "longitude": 24.715396
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.130566,
+      "longitude": 24.749406
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.130834,
+      "longitude": 24.750882
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.131325,
+      "longitude": 24.74487
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.13303,
+      "longitude": 24.795186
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.136453,
+      "longitude": 24.763368
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.136459,
+      "longitude": 24.756008
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.137484,
+      "longitude": 24.744495
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.13944,
+      "longitude": 25.867607
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.140322,
+      "longitude": 24.740586
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.145134,
+      "longitude": 24.75393
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.147121,
+      "longitude": 24.731645
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.150775,
+      "longitude": 24.744995
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.151287,
+      "longitude": 24.745821
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.152438,
+      "longitude": 24.788581
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.161052,
+      "longitude": 24.74155
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.214585,
+      "longitude": 24.017757
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.264193,
+      "longitude": 23.117153
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.337489,
+      "longitude": 23.558778
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.344444,
+      "longitude": 27.181325
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.41277,
+      "longitude": 25.591076
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.421098,
+      "longitude": 25.623947
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.421606,
+      "longitude": 25.627008
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.423062,
+      "longitude": 25.634228
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.423772,
+      "longitude": 25.62275
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.426064,
+      "longitude": 25.632601
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.426145,
+      "longitude": 25.613744
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.426244,
+      "longitude": 25.637406
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.426676,
+      "longitude": 25.639963
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.427597,
+      "longitude": 25.644973
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.428412,
+      "longitude": 25.62851
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.43439,
+      "longitude": 25.631288
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.505947,
+      "longitude": 24.708365
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.527245,
+      "longitude": 27.467046
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.557864,
+      "longitude": 27.641196
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.601109,
+      "longitude": 23.026358
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.618304,
+      "longitude": 25.390664
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.641971,
+      "longitude": 24.808234
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.642828,
+      "longitude": 24.802678
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.657172,
+      "longitude": 23.349116
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.659385,
+      "longitude": 27.720363
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.662588,
+      "longitude": 23.316707
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.665721,
+      "longitude": 23.296393
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.667981,
+      "longitude": 23.266537
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.672322,
+      "longitude": 23.283944
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.67664,
+      "longitude": 23.31934
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.678641,
+      "longitude": 26.324548
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.679167,
+      "longitude": 23.310425
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.679271,
+      "longitude": 26.30971
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.67943,
+      "longitude": 26.322577
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.684238,
+      "longitude": 26.343547
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.684295,
+      "longitude": 23.35447
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.684915,
+      "longitude": 23.297569
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.686895,
+      "longitude": 23.255139
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.687201,
+      "longitude": 23.310427
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.693738,
+      "longitude": 23.350642
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.694756,
+      "longitude": 23.314626
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.696591,
+      "longitude": 23.287492
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.697124,
+      "longitude": 23.335415
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.703553,
+      "longitude": 23.308977
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.705151,
+      "longitude": 23.325457
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.710297,
+      "longitude": 23.313655
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.71491,
+      "longitude": 23.259555
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.725202,
+      "longitude": 23.25594
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.737071,
+      "longitude": 23.301805
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.737743,
+      "longitude": 23.270985
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.871237,
+      "longitude": 24.711243
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.886753,
+      "longitude": 26.44968
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.891124,
+      "longitude": 24.713007
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.906351,
+      "longitude": 23.791548
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.929897,
+      "longitude": 25.880361
+    },
+    {
+      "name": "Марешки",
+      "latitude": 42.976808,
+      "longitude": 25.475416
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.046072,
+      "longitude": 25.890666
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.077284,
+      "longitude": 25.612133
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.078303,
+      "longitude": 25.627
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.084068,
+      "longitude": 25.623228
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.150487,
+      "longitude": 24.282565
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.197673,
+      "longitude": 23.562031
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.199061,
+      "longitude": 27.912773
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.206216,
+      "longitude": 27.909346
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.2065,
+      "longitude": 27.92103
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.207445,
+      "longitude": 24.163476
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.210503,
+      "longitude": 27.903074
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.212091,
+      "longitude": 27.906192
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.212945,
+      "longitude": 27.924089
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.214523,
+      "longitude": 27.920033
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.214574,
+      "longitude": 27.917068
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.221579,
+      "longitude": 23.546595
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.225817,
+      "longitude": 27.933577
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.237924,
+      "longitude": 23.12625
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.272875,
+      "longitude": 26.938619
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.281392,
+      "longitude": 24.086438
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.313863,
+      "longitude": 27.157555
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.410376,
+      "longitude": 24.616592
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.421076,
+      "longitude": 24.60008
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.567081,
+      "longitude": 27.828333
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.570305,
+      "longitude": 27.833894
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.571651,
+      "longitude": 27.827908
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.702298,
+      "longitude": 28.03989
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.742708,
+      "longitude": 27.415075
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.825114,
+      "longitude": 27.14165
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.830577,
+      "longitude": 25.970548
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.849694,
+      "longitude": 25.956638
+    },
+    {
+      "name": "Марешки",
+      "latitude": 43.999994,
+      "longitude": 22.870679
+    },
+    {
+      "name": "Маринела",
+      "latitude": 42.427525,
+      "longitude": 25.644079
+    },
+    {
+      "name": "Маринела",
+      "latitude": 43.367942,
+      "longitude": 25.635589
+    },
+    {
+      "name": "Марица",
+      "latitude": 42.151521,
+      "longitude": 24.746835
+    },
+    {
+      "name": "Матрикариа",
+      "latitude": 43.21769,
+      "longitude": 27.924474
+    },
+    {
+      "name": "Матрикария",
+      "latitude": 43.228526,
+      "longitude": 27.884519
+    },
+    {
+      "name": "Мая",
+      "latitude": 42.693427,
+      "longitude": 23.32864
+    },
+    {
+      "name": "Мега фарма",
+      "latitude": 42.694997,
+      "longitude": 23.321374
+    },
+    {
+      "name": "Медея",
+      "latitude": 41.98948,
+      "longitude": 24.087331
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.422731,
+      "longitude": 25.618669
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.608639,
+      "longitude": 23.031472
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.615627,
+      "longitude": 23.337897
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.629178,
+      "longitude": 23.310257
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.635034,
+      "longitude": 23.376152
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.64962,
+      "longitude": 23.342044
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.651258,
+      "longitude": 23.381477
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.653516,
+      "longitude": 23.372966
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.653548,
+      "longitude": 23.343365
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.65556,
+      "longitude": 23.39833
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.662981,
+      "longitude": 23.316924
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.664892,
+      "longitude": 23.35424
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.665556,
+      "longitude": 23.272842
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.665618,
+      "longitude": 23.299563
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.668151,
+      "longitude": 23.396111
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.669005,
+      "longitude": 23.285518
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.670609,
+      "longitude": 23.332343
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.671267,
+      "longitude": 23.259
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.672735,
+      "longitude": 23.299318
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.674958,
+      "longitude": 23.358449
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.675882,
+      "longitude": 23.321206
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.676585,
+      "longitude": 23.28938
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.67663,
+      "longitude": 23.309961
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.679414,
+      "longitude": 23.361361
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.679468,
+      "longitude": 23.324866
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.680746,
+      "longitude": 23.372371
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.68573,
+      "longitude": 23.297083
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.688101,
+      "longitude": 23.311703
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.689557,
+      "longitude": 23.254966
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.689702,
+      "longitude": 23.341984
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.691784,
+      "longitude": 23.314344
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.692945,
+      "longitude": 23.359978
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.698164,
+      "longitude": 23.331464
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.698198,
+      "longitude": 23.327329
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.699768,
+      "longitude": 23.300766
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.700901,
+      "longitude": 23.293215
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.702248,
+      "longitude": 23.323273
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.706689,
+      "longitude": 23.285979
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.708292,
+      "longitude": 23.299175
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.710578,
+      "longitude": 23.313776
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.713705,
+      "longitude": 23.245398
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.717299,
+      "longitude": 23.278167
+    },
+    {
+      "name": "Медея",
+      "latitude": 42.727462,
+      "longitude": 23.300707
+    },
+    {
+      "name": "Медика",
+      "latitude": 42.712398,
+      "longitude": 23.313013
+    },
+    {
+      "name": "Медика",
+      "latitude": 43.243132,
+      "longitude": 26.561808
+    },
+    {
+      "name": "Медика 2",
+      "latitude": 42.712864,
+      "longitude": 23.313378
+    },
+    {
+      "name": "Медика-4",
+      "latitude": 43.855815,
+      "longitude": 25.967823
+    },
+    {
+      "name": "Медихоуп фарм",
+      "latitude": 42.160185,
+      "longitude": 24.731668
+    },
+    {
+      "name": "Медов",
+      "latitude": 42.602532,
+      "longitude": 23.484449
+    },
+    {
+      "name": "Механджиеви",
+      "latitude": 43.84214,
+      "longitude": 25.960098
+    },
+    {
+      "name": "Милева",
+      "latitude": 43.567069,
+      "longitude": 27.832353
+    },
+    {
+      "name": "Милениум-77",
+      "latitude": 43.824309,
+      "longitude": 25.975012
+    },
+    {
+      "name": "Мина",
+      "latitude": 42.686721,
+      "longitude": 23.309193
+    },
+    {
+      "name": "МиР Фармексперт",
+      "latitude": 42.704473,
+      "longitude": 27.711667
+    },
+    {
+      "name": "Михаела",
+      "latitude": 42.681239,
+      "longitude": 23.372786
+    },
+    {
+      "name": "Мишел",
+      "latitude": 42.287595,
+      "longitude": 23.254253
+    },
+    {
+      "name": "Мултифарм",
+      "latitude": 42.171949,
+      "longitude": 26.568534
+    },
+    {
+      "name": "Мултифарм",
+      "latitude": 42.476432,
+      "longitude": 26.49936
+    },
+    {
+      "name": "Мултифарм",
+      "latitude": 42.479674,
+      "longitude": 26.500256
+    },
+    {
+      "name": "Мултифарм",
+      "latitude": 42.482967,
+      "longitude": 26.513197
+    },
+    {
+      "name": "Мултифарм",
+      "latitude": 42.483067,
+      "longitude": 26.51601
+    },
+    {
+      "name": "Мултифарм",
+      "latitude": 42.486449,
+      "longitude": 26.505154
+    },
+    {
+      "name": "Мултифарм",
+      "latitude": 42.487997,
+      "longitude": 26.511288
+    },
+    {
+      "name": "Мултифарм",
+      "latitude": 42.499927,
+      "longitude": 26.527398
+    },
+    {
+      "name": "Мусагеница",
+      "latitude": 42.66445,
+      "longitude": 23.363806
+    },
+    {
+      "name": "Надежда",
+      "latitude": 42.025726,
+      "longitude": 23.99098
+    },
+    {
+      "name": "Надежда",
+      "latitude": 42.660198,
+      "longitude": 23.282107
+    },
+    {
+      "name": "Надежда",
+      "latitude": 42.664702,
+      "longitude": 23.267306
+    },
+    {
+      "name": "Найден 99 ЕООД",
+      "latitude": 42.140725,
+      "longitude": 24.794654
+    },
+    {
+      "name": "Найденова",
+      "latitude": 41.936516,
+      "longitude": 25.553977
+    },
+    {
+      "name": "Народна",
+      "latitude": 42.42503,
+      "longitude": 25.632044
+    },
+    {
+      "name": "Невена",
+      "latitude": 42.692463,
+      "longitude": 23.31355
+    },
+    {
+      "name": "Нове",
+      "latitude": 42.656995,
+      "longitude": 23.321094
+    },
+    {
+      "name": "Нове",
+      "latitude": 42.661874,
+      "longitude": 23.345735
+    },
+    {
+      "name": "Нове",
+      "latitude": 42.855459,
+      "longitude": 23.038701
+    },
+    {
+      "name": "Нове фарм",
+      "latitude": 42.669344,
+      "longitude": 23.276432
+    },
+    {
+      "name": "Нове фарм",
+      "latitude": 42.675623,
+      "longitude": 23.289537
+    },
+    {
+      "name": "Нове Фарм",
+      "latitude": 42.683769,
+      "longitude": 23.330752
+    },
+    {
+      "name": "Нове Фарм",
+      "latitude": 42.69917,
+      "longitude": 23.306814
+    },
+    {
+      "name": "Новедес",
+      "latitude": 42.669498,
+      "longitude": 23.276554
+    },
+    {
+      "name": "НовеФарм",
+      "latitude": 42.67698,
+      "longitude": 23.287115
+    },
+    {
+      "name": "Новиа",
+      "latitude": 42.684949,
+      "longitude": 23.321277
+    },
+    {
+      "name": "Нота Бене",
+      "latitude": 42.493205,
+      "longitude": 27.463757
+    },
+    {
+      "name": "Нота Бене",
+      "latitude": 42.614978,
+      "longitude": 23.338833
+    },
+    {
+      "name": "Нота Бене",
+      "latitude": 42.626843,
+      "longitude": 23.384271
+    },
+    {
+      "name": "Нота Бене",
+      "latitude": 42.651812,
+      "longitude": 23.404691
+    },
+    {
+      "name": "Нота Бене",
+      "latitude": 42.658893,
+      "longitude": 23.264927
+    },
+    {
+      "name": "Нота бене",
+      "latitude": 42.664004,
+      "longitude": 23.343689
+    },
+    {
+      "name": "Нота бене",
+      "latitude": 42.672359,
+      "longitude": 23.289212
+    },
+    {
+      "name": "Нота бене",
+      "latitude": 42.690042,
+      "longitude": 23.340635
+    },
+    {
+      "name": "Нота бене",
+      "latitude": 42.69918,
+      "longitude": 23.338314
+    },
+    {
+      "name": "Нота Бене",
+      "latitude": 42.709869,
+      "longitude": 23.308496
+    },
+    {
+      "name": "Обединени аптеки",
+      "latitude": 42.666865,
+      "longitude": 23.364488
+    },
+    {
+      "name": "Олифарм",
+      "latitude": 42.649902,
+      "longitude": 23.332122
+    },
+    {
+      "name": "Олияна Чорбаджиева ЕТ",
+      "latitude": 42.70144,
+      "longitude": 25.89933
+    },
+    {
+      "name": "Омниа",
+      "latitude": 42.670683,
+      "longitude": 23.314059
+    },
+    {
+      "name": "Омния",
+      "latitude": 42.677196,
+      "longitude": 23.3028
+    },
+    {
+      "name": "Оптима",
+      "latitude": 42.974647,
+      "longitude": 25.473332
+    },
+    {
+      "name": "Оптима 8",
+      "latitude": 43.844324,
+      "longitude": 25.953948
+    },
+    {
+      "name": "Ориндж",
+      "latitude": 42.482461,
+      "longitude": 26.494072
+    },
+    {
+      "name": "Орфей",
+      "latitude": 41.742153,
+      "longitude": 24.397662
+    },
+    {
+      "name": "Орфей",
+      "latitude": 42.691333,
+      "longitude": 23.311368
+    },
+    {
+      "name": "Орфей",
+      "latitude": 42.69347,
+      "longitude": 23.351113
+    },
+    {
+      "name": "Павлова",
+      "latitude": 42.436175,
+      "longitude": 25.631067
+    },
+    {
+      "name": "Панацея",
+      "latitude": 42.504612,
+      "longitude": 24.703094
+    },
+    {
+      "name": "Панацея",
+      "latitude": 43.203313,
+      "longitude": 27.912213
+    },
+    {
+      "name": "Панорама",
+      "latitude": 42.572612,
+      "longitude": 27.295754
+    },
+    {
+      "name": "Петя",
+      "latitude": 42.686266,
+      "longitude": 23.349658
+    },
+    {
+      "name": "Петя Ефтимова",
+      "latitude": 42.500485,
+      "longitude": 24.187631
+    },
+    {
+      "name": "Поли",
+      "latitude": 43.214011,
+      "longitude": 27.906069
+    },
+    {
+      "name": "Поли Валенс",
+      "latitude": 43.20961,
+      "longitude": 27.908923
+    },
+    {
+      "name": "Попов",
+      "latitude": 42.662745,
+      "longitude": 23.397464
+    },
+    {
+      "name": "Прайм",
+      "latitude": 43.222828,
+      "longitude": 27.920803
+    },
+    {
+      "name": "Предлага",
+      "latitude": 42.691654,
+      "longitude": 23.318669
+    },
+    {
+      "name": "Прима",
+      "latitude": 42.725716,
+      "longitude": 23.254953
+    },
+    {
+      "name": "Прима",
+      "latitude": 43.825435,
+      "longitude": 27.141282
+    },
+    {
+      "name": "Пролет",
+      "latitude": 42.979615,
+      "longitude": 25.476755
+    },
+    {
+      "name": "Прополис",
+      "latitude": 42.651317,
+      "longitude": 23.359337
+    },
+    {
+      "name": "Прополис",
+      "latitude": 42.664381,
+      "longitude": 23.36203
+    },
+    {
+      "name": "Прополис",
+      "latitude": 42.665472,
+      "longitude": 23.28133
+    },
+    {
+      "name": "Прополис",
+      "latitude": 42.666846,
+      "longitude": 23.350157
+    },
+    {
+      "name": "Прополис",
+      "latitude": 42.672191,
+      "longitude": 23.396238
+    },
+    {
+      "name": "Прополис",
+      "latitude": 42.672582,
+      "longitude": 23.285234
+    },
+    {
+      "name": "Прополис",
+      "latitude": 42.687882,
+      "longitude": 23.329415
+    },
+    {
+      "name": "Прополис",
+      "latitude": 42.8092,
+      "longitude": 23.212841
+    },
+    {
+      "name": "ПроФарма",
+      "latitude": 42.63942,
+      "longitude": 23.383753
+    },
+    {
+      "name": "ПроФарма",
+      "latitude": 42.652838,
+      "longitude": 23.373149
+    },
+    {
+      "name": "ПроФарма",
+      "latitude": 42.668716,
+      "longitude": 23.319123
+    },
+    {
+      "name": "ПроФарма",
+      "latitude": 42.670032,
+      "longitude": 23.302795
+    },
+    {
+      "name": "ПроФарма",
+      "latitude": 42.673956,
+      "longitude": 23.355584
+    },
+    {
+      "name": "Профарма",
+      "latitude": 42.677178,
+      "longitude": 23.285922
+    },
+    {
+      "name": "Профарма",
+      "latitude": 42.679522,
+      "longitude": 23.324307
+    },
+    {
+      "name": "ПроФарма",
+      "latitude": 42.690573,
+      "longitude": 23.323329
+    },
+    {
+      "name": "ПроФарма",
+      "latitude": 42.711524,
+      "longitude": 23.311608
+    },
+    {
+      "name": "Пълдин",
+      "latitude": 42.140255,
+      "longitude": 24.759784
+    },
+    {
+      "name": "Първа частна аптека",
+      "latitude": 43.210138,
+      "longitude": 27.920895
+    },
+    {
+      "name": "Първа частна аптека",
+      "latitude": 43.347478,
+      "longitude": 27.195484
+    },
+    {
+      "name": "Р & Н частна аптека",
+      "latitude": 42.144073,
+      "longitude": 24.748207
+    },
+    {
+      "name": "Равиа",
+      "latitude": 43.180298,
+      "longitude": 27.444348
+    },
+    {
+      "name": "Реджина",
+      "latitude": 42.696138,
+      "longitude": 23.345261
+    },
+    {
+      "name": "Редута",
+      "latitude": 42.689657,
+      "longitude": 23.364073
+    },
+    {
+      "name": "Релакс",
+      "latitude": 43.079741,
+      "longitude": 25.612344
+    },
+    {
+      "name": "Ремедиа",
+      "latitude": 42.697496,
+      "longitude": 23.335293
+    },
+    {
+      "name": "Ремедиа",
+      "latitude": 42.704083,
+      "longitude": 23.328656
+    },
+    {
+      "name": "Ремедиа",
+      "latitude": 43.204795,
+      "longitude": 23.555107
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.6469,
+      "longitude": 23.368262
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.651925,
+      "longitude": 23.345468
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.656379,
+      "longitude": 23.396485
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.662915,
+      "longitude": 23.355601
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.667089,
+      "longitude": 23.283542
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.670274,
+      "longitude": 23.357985
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.676418,
+      "longitude": 23.305895
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.682741,
+      "longitude": 23.363503
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.683949,
+      "longitude": 23.353675
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.688775,
+      "longitude": 23.327879
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.690136,
+      "longitude": 23.326276
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.69149,
+      "longitude": 23.330126
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.692056,
+      "longitude": 23.324513
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.693434,
+      "longitude": 23.3308
+    },
+    {
+      "name": "Ремедиум",
+      "latitude": 42.693728,
+      "longitude": 23.321007
+    },
+    {
+      "name": "Ремедия",
+      "latitude": 42.429346,
+      "longitude": 25.626787
+    },
+    {
+      "name": "Ремедия",
+      "latitude": 42.699722,
+      "longitude": 23.336117
+    },
+    {
+      "name": "Ремедия",
+      "latitude": 43.566842,
+      "longitude": 27.821099
+    },
+    {
+      "name": "Ремира",
+      "latitude": 42.075419,
+      "longitude": 24.664087
+    },
+    {
+      "name": "Ренесанс",
+      "latitude": 42.148754,
+      "longitude": 24.736482
+    },
+    {
+      "name": "Рома",
+      "latitude": 42.691947,
+      "longitude": 23.324801
+    },
+    {
+      "name": "Рони",
+      "latitude": 42.160849,
+      "longitude": 24.755036
+    },
+    {
+      "name": "Роял",
+      "latitude": 42.689385,
+      "longitude": 23.343137
+    },
+    {
+      "name": "Рубия",
+      "latitude": 42.708074,
+      "longitude": 23.143555
+    },
+    {
+      "name": "Сава Бояджиев",
+      "latitude": 42.697842,
+      "longitude": 23.313225
+    },
+    {
+      "name": "Салвия",
+      "latitude": 43.075551,
+      "longitude": 25.622262
+    },
+    {
+      "name": "Салвия",
+      "latitude": 43.078671,
+      "longitude": 25.627908
+    },
+    {
+      "name": "Сана",
+      "latitude": 42.56649,
+      "longitude": 27.614637
+    },
+    {
+      "name": "Санита",
+      "latitude": 41.838643,
+      "longitude": 23.488631
+    },
+    {
+      "name": "Санита",
+      "latitude": 42.019278,
+      "longitude": 23.093193
+    },
+    {
+      "name": "Санита",
+      "latitude": 42.14512,
+      "longitude": 24.75276
+    },
+    {
+      "name": "Санита",
+      "latitude": 42.660226,
+      "longitude": 23.383208
+    },
+    {
+      "name": "Санита",
+      "latitude": 43.198699,
+      "longitude": 23.559092
+    },
+    {
+      "name": "Санита",
+      "latitude": 43.206867,
+      "longitude": 27.910534
+    },
+    {
+      "name": "Санита",
+      "latitude": 43.21395,
+      "longitude": 27.920009
+    },
+    {
+      "name": "Санита",
+      "latitude": 43.214674,
+      "longitude": 27.916755
+    },
+    {
+      "name": "Санита",
+      "latitude": 43.625655,
+      "longitude": 22.685658
+    },
+    {
+      "name": "Санте",
+      "latitude": 42.656817,
+      "longitude": 23.344601
+    },
+    {
+      "name": "Санте",
+      "latitude": 43.223334,
+      "longitude": 27.929592
+    },
+    {
+      "name": "Св Никола",
+      "latitude": 42.701931,
+      "longitude": 23.319083
+    },
+    {
+      "name": "св. Екатерина",
+      "latitude": 42.076478,
+      "longitude": 24.596571
+    },
+    {
+      "name": "Св. Елена",
+      "latitude": 43.214447,
+      "longitude": 27.916481
+    },
+    {
+      "name": "Св. Иван Рилски",
+      "latitude": 42.264526,
+      "longitude": 23.116122
+    },
+    {
+      "name": "Св. Лука",
+      "latitude": 43.214281,
+      "longitude": 27.916235
+    },
+    {
+      "name": "Св. Мина",
+      "latitude": 42.71869,
+      "longitude": 23.268939
+    },
+    {
+      "name": "Св. Мина",
+      "latitude": 42.73254,
+      "longitude": 23.296262
+    },
+    {
+      "name": "Светлана",
+      "latitude": 42.697343,
+      "longitude": 23.315442
+    },
+    {
+      "name": "Сейба",
+      "latitude": 42.73013,
+      "longitude": 23.294539
+    },
+    {
+      "name": "Сейба",
+      "latitude": 43.53029,
+      "longitude": 26.511487
+    },
+    {
+      "name": "Селен",
+      "latitude": 41.933775,
+      "longitude": 25.55307
+    },
+    {
+      "name": "Си-фарма",
+      "latitude": 42.734326,
+      "longitude": 23.308784
+    },
+    {
+      "name": "Сигма",
+      "latitude": 42.148487,
+      "longitude": 24.731437
+    },
+    {
+      "name": "Сималекс",
+      "latitude": 42.675704,
+      "longitude": 23.283422
+    },
+    {
+      "name": "Сити Фарм",
+      "latitude": 42.139242,
+      "longitude": 24.745481
+    },
+    {
+      "name": "Софарма",
+      "latitude": 43.221172,
+      "longitude": 27.918035
+    },
+    {
+      "name": "Софиямед 2",
+      "latitude": 42.665479,
+      "longitude": 23.370686
+    },
+    {
+      "name": "СОЦИАЛНА Аптека",
+      "latitude": 41.990428,
+      "longitude": 24.08847
+    },
+    {
+      "name": "Стария Добрич",
+      "latitude": 43.570323,
+      "longitude": 27.831616
+    },
+    {
+      "name": "Стела",
+      "latitude": 42.658651,
+      "longitude": 23.271996
+    },
+    {
+      "name": "Студентска",
+      "latitude": 42.642752,
+      "longitude": 23.34112
+    },
+    {
+      "name": "Субра",
+      "latitude": 42.629797,
+      "longitude": 23.373939
+    },
+    {
+      "name": "Субра",
+      "latitude": 42.71653,
+      "longitude": 23.169826
+    },
+    {
+      "name": "Теа",
+      "latitude": 42.724206,
+      "longitude": 23.304765
+    },
+    {
+      "name": "Телесфор-Т",
+      "latitude": 42.159796,
+      "longitude": 24.728689
+    },
+    {
+      "name": "Тилия",
+      "latitude": 42.559319,
+      "longitude": 27.638359
+    },
+    {
+      "name": "Тилия",
+      "latitude": 42.561047,
+      "longitude": 27.638809
+    },
+    {
+      "name": "Тилия",
+      "latitude": 42.566426,
+      "longitude": 27.613044
+    },
+    {
+      "name": "Тилия",
+      "latitude": 42.660557,
+      "longitude": 27.715403
+    },
+    {
+      "name": "Тилия",
+      "latitude": 42.895559,
+      "longitude": 25.309538
+    },
+    {
+      "name": "Тодорови фарма",
+      "latitude": 42.719545,
+      "longitude": 23.252006
+    },
+    {
+      "name": "Тони",
+      "latitude": 42.61861,
+      "longitude": 25.395
+    },
+    {
+      "name": "Тракия 22",
+      "latitude": 42.141769,
+      "longitude": 24.786525
+    },
+    {
+      "name": "Трахизан",
+      "latitude": 42.921107,
+      "longitude": 22.929038
+    },
+    {
+      "name": "Тримона",
+      "latitude": 42.140236,
+      "longitude": 24.751425
+    },
+    {
+      "name": "Тримонциум",
+      "latitude": 42.150424,
+      "longitude": 24.743362
+    },
+    {
+      "name": "Тъжа",
+      "latitude": 42.649836,
+      "longitude": 25.084382
+    },
+    {
+      "name": "Узунов 1",
+      "latitude": 43.701465,
+      "longitude": 28.038605
+    },
+    {
+      "name": "Фарма ВИМ",
+      "latitude": 43.247819,
+      "longitude": 26.557336
+    },
+    {
+      "name": "Фарма Експерт",
+      "latitude": 42.603933,
+      "longitude": 23.494778
+    },
+    {
+      "name": "Фарма Л",
+      "latitude": 42.689644,
+      "longitude": 23.249951
+    },
+    {
+      "name": "Фарма медисин",
+      "latitude": 42.700479,
+      "longitude": 23.338283
+    },
+    {
+      "name": "Фарма-Л",
+      "latitude": 42.668913,
+      "longitude": 23.285652
+    },
+    {
+      "name": "Фарма-Л",
+      "latitude": 42.710619,
+      "longitude": 23.300079
+    },
+    {
+      "name": "Фармавижън",
+      "latitude": 42.104328,
+      "longitude": 24.48356
+    },
+    {
+      "name": "Фармакон",
+      "latitude": 42.164367,
+      "longitude": 24.746959
+    },
+    {
+      "name": "Фармакон-96",
+      "latitude": 43.205061,
+      "longitude": 23.548662
+    },
+    {
+      "name": "ФармаСтор",
+      "latitude": 42.707919,
+      "longitude": 23.287964
+    },
+    {
+      "name": "Фармвест",
+      "latitude": 43.076142,
+      "longitude": 25.624601
+    },
+    {
+      "name": "Фармина",
+      "latitude": 42.684571,
+      "longitude": 23.353965
+    },
+    {
+      "name": "Фекона",
+      "latitude": 42.917717,
+      "longitude": 22.927923
+    },
+    {
+      "name": "Феникс",
+      "latitude": 42.265766,
+      "longitude": 23.117002
+    },
+    {
+      "name": "Феникс",
+      "latitude": 42.677494,
+      "longitude": 23.296987
+    },
+    {
+      "name": "Феникс",
+      "latitude": 42.89612,
+      "longitude": 25.30895
+    },
+    {
+      "name": "Феникс",
+      "latitude": 43.143866,
+      "longitude": 24.717519
+    },
+    {
+      "name": "Феникс",
+      "latitude": 43.222059,
+      "longitude": 23.54603
+    },
+    {
+      "name": "Феникс",
+      "latitude": 43.420347,
+      "longitude": 24.599447
+    },
+    {
+      "name": "Фея",
+      "latitude": 42.596389,
+      "longitude": 23.412
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.125881,
+      "longitude": 24.720627
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.136352,
+      "longitude": 24.757809
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.139211,
+      "longitude": 24.767873
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.139362,
+      "longitude": 25.870815
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.140756,
+      "longitude": 24.762842
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.142664,
+      "longitude": 24.744444
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.144525,
+      "longitude": 24.732113
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.155714,
+      "longitude": 24.73228
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.158081,
+      "longitude": 24.742702
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.412799,
+      "longitude": 25.59095
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.417718,
+      "longitude": 25.605652
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.424456,
+      "longitude": 25.634712
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.42446,
+      "longitude": 25.624998
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.424892,
+      "longitude": 25.621387
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.426252,
+      "longitude": 25.631344
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.427181,
+      "longitude": 25.623757
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.427531,
+      "longitude": 25.644356
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.428414,
+      "longitude": 25.626732
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.428484,
+      "longitude": 25.633893
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.428774,
+      "longitude": 25.650429
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.437293,
+      "longitude": 25.630929
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.498908,
+      "longitude": 27.470099
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.503596,
+      "longitude": 27.472729
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.527355,
+      "longitude": 27.467458
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.530982,
+      "longitude": 27.457209
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.645943,
+      "longitude": 23.342287
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 42.689548,
+      "longitude": 26.339366
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 43.209169,
+      "longitude": 27.919514
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 43.209804,
+      "longitude": 27.912098
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 43.213093,
+      "longitude": 27.93491
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 43.214212,
+      "longitude": 27.901344
+    },
+    {
+      "name": "Фрамар",
+      "latitude": 43.216066,
+      "longitude": 27.917323
+    },
+    {
+      "name": "Хаджолян",
+      "latitude": 43.203318,
+      "longitude": 27.911765
+    },
+    {
+      "name": "Хелени",
+      "latitude": 43.342436,
+      "longitude": 27.775282
+    },
+    {
+      "name": "Хеликс",
+      "latitude": 42.500716,
+      "longitude": 27.46151
+    },
+    {
+      "name": "Хелиос-фарм",
+      "latitude": 42.264398,
+      "longitude": 23.118664
+    },
+    {
+      "name": "Хелиос-фарм",
+      "latitude": 42.265526,
+      "longitude": 23.117516
+    },
+    {
+      "name": "Херц",
+      "latitude": 42.130579,
+      "longitude": 24.777596
+    },
+    {
+      "name": "Хития",
+      "latitude": 43.625719,
+      "longitude": 22.68513
+    },
+    {
+      "name": "Хрисимар",
+      "latitude": 42.61012,
+      "longitude": 25.543045
+    },
+    {
+      "name": "Цвети",
+      "latitude": 42.020915,
+      "longitude": 23.989515
+    },
+    {
+      "name": "Централ Фарма",
+      "latitude": 42.138277,
+      "longitude": 24.739483
+    },
+    {
+      "name": "Язова",
+      "latitude": 42.143682,
+      "longitude": 24.74755
+    },
+    {
+      "name": "Яна",
+      "latitude": 42.579848,
+      "longitude": 26.605357
+    },
+    {
+      "name": "Янакиев",
+      "latitude": 43.568093,
+      "longitude": 27.82454
+    }
+  ],
+  "meta": {
+    "title": "Аптеки в България - Безплатно изтегляне",
+    "description": "Аптеки в България (OSM amenity=pharmacy). Съдържа 1108 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Аптеки в България | ListBase",
+    "seo_description": "Изтеглете Аптеки в България — 1108 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 1108 записа / 3 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

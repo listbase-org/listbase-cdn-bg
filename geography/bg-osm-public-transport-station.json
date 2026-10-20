@@ -1,0 +1,4813 @@
+{
+  "id": "bg-osm-public-transport-station",
+  "name": "Транспортни станции в България (OpenStreetMap)",
+  "title": "Транспортни станции в България (OpenStreetMap)",
+  "description": "Транспортни станции в България — 528 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `public_transport=station`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 528,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Bona Vita",
+      "shirina": 43.254423,
+      "dalzhina": 28.024446,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 2,
+      "ime": "Kabakum",
+      "shirina": 43.25215,
+      "dalzhina": 28.024103,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 3,
+      "ime": "Riviera",
+      "shirina": 43.25376,
+      "dalzhina": 28.02947,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 4,
+      "ime": "Tракия (Шумен)",
+      "shirina": 43.278537,
+      "dalzhina": 26.958475,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 5,
+      "ime": "Προμαχώνας",
+      "shirina": 41.370488,
+      "dalzhina": 23.361188,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 6,
+      "ime": "Абланица",
+      "shirina": 43.035412,
+      "dalzhina": 24.714374,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 7,
+      "ime": "Автогара",
+      "shirina": 43.10878,
+      "dalzhina": 26.416229,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 8,
+      "ime": "Айтос",
+      "shirina": 42.694724,
+      "dalzhina": 27.2461,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 9,
+      "ime": "Акад. Александър Теодоров-Балан",
+      "shirina": 42.640694,
+      "dalzhina": 23.373007,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 10,
+      "ime": "Алдомировци",
+      "shirina": 42.879211,
+      "dalzhina": 22.987535,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 11,
+      "ime": "Александрово",
+      "shirina": 43.2658,
+      "dalzhina": 24.942555,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 12,
+      "ime": "Александър Малинов",
+      "shirina": 42.647429,
+      "dalzhina": 23.376583,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 13,
+      "ime": "Антон",
+      "shirina": 42.729064,
+      "dalzhina": 24.247276,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 14,
+      "ime": "Асеновград",
+      "shirina": 42.014339,
+      "dalzhina": 24.869234,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 15,
+      "ime": "Аспарухово",
+      "shirina": 42.987533,
+      "dalzhina": 27.316894,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 16,
+      "ime": "Атолово",
+      "shirina": 42.595973,
+      "dalzhina": 26.734076,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 17,
+      "ime": "Байково",
+      "shirina": 43.465121,
+      "dalzhina": 26.846953,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 18,
+      "ime": "Балкан",
+      "shirina": 43.053947,
+      "dalzhina": 23.362624,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 19,
+      "ime": "Банкя",
+      "shirina": 42.706092,
+      "dalzhina": 23.150905,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 20,
+      "ime": "Банско",
+      "shirina": 41.84397,
+      "dalzhina": 23.490269,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 21,
+      "ime": "Баня",
+      "shirina": 42.542039,
+      "dalzhina": 24.845417,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 22,
+      "ime": "Батановци",
+      "shirina": 42.595473,
+      "dalzhina": 22.953634,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 23,
+      "ime": "Батишница",
+      "shirina": 43.54527,
+      "dalzhina": 25.8498,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 24,
+      "ime": "Безмер",
+      "shirina": 42.460293,
+      "dalzhina": 26.387529,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 25,
+      "ime": "Бели Дунав",
+      "shirina": 42.736147,
+      "dalzhina": 23.292028,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 26,
+      "ime": "Белово",
+      "shirina": 42.215612,
+      "dalzhina": 24.018401,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 27,
+      "ime": "Белозем",
+      "shirina": 42.201649,
+      "dalzhina": 25.045987,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 28,
+      "ime": "Белослав",
+      "shirina": 43.198577,
+      "dalzhina": 27.705996,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 29,
+      "ime": "Бенковски",
+      "shirina": 42.205045,
+      "dalzhina": 24.639427,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 30,
+      "ime": "Беренде Извор",
+      "shirina": 43.001408,
+      "dalzhina": 22.893894,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 31,
+      "ime": "Берковица",
+      "shirina": 43.239907,
+      "dalzhina": 23.139804,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 32,
+      "ime": "Бизнес парк София",
+      "shirina": 42.629391,
+      "dalzhina": 23.37316,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 33,
+      "ime": "Бисер",
+      "shirina": 41.872207,
+      "dalzhina": 25.984379,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 34,
+      "ime": "Благово",
+      "shirina": 43.360985,
+      "dalzhina": 23.224603,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 35,
+      "ime": "Боби долна",
+      "shirina": 42.584761,
+      "dalzhina": 23.289632,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 36,
+      "ime": "Бобошево",
+      "shirina": 42.158457,
+      "dalzhina": 23.037408,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 37,
+      "ime": "Бов",
+      "shirina": 43.02207,
+      "dalzhina": 23.351455,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 38,
+      "ime": "Богданци",
+      "shirina": 43.604733,
+      "dalzhina": 26.821038,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 39,
+      "ime": "Божурица",
+      "shirina": 43.516728,
+      "dalzhina": 24.579331,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 40,
+      "ime": "Божурище",
+      "shirina": 42.752292,
+      "dalzhina": 23.213431,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 41,
+      "ime": "Боиловци",
+      "shirina": 42.874313,
+      "dalzhina": 22.861982,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 42,
+      "ime": "Бойчиновци",
+      "shirina": 43.475128,
+      "dalzhina": 23.338766,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 43,
+      "ime": "Борово",
+      "shirina": 43.488173,
+      "dalzhina": 25.809819,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 44,
+      "ime": "Ботево",
+      "shirina": 43.475738,
+      "dalzhina": 27.709502,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 45,
+      "ime": "Ботунец",
+      "shirina": 42.74227,
+      "dalzhina": 23.517775,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 46,
+      "ime": "Брацигово",
+      "shirina": 42.037892,
+      "dalzhina": 24.361592,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 47,
+      "ime": "Бригадирска слава",
+      "shirina": 42.757995,
+      "dalzhina": 23.023407,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 48,
+      "ime": "Брусарци",
+      "shirina": 43.665082,
+      "dalzhina": 23.075377,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 49,
+      "ime": "Буново",
+      "shirina": 42.715583,
+      "dalzhina": 23.93816,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 50,
+      "ime": "Бургас Разпределителна",
+      "shirina": 42.516787,
+      "dalzhina": 27.423694,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 51,
+      "ime": "Бургас Централна гара",
+      "shirina": 42.490694,
+      "dalzhina": 27.472531,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 52,
+      "ime": "Бургас-Товарна",
+      "shirina": 42.513002,
+      "dalzhina": 27.442603,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 53,
+      "ime": "Бутово",
+      "shirina": 43.302586,
+      "dalzhina": 25.21711,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 54,
+      "ime": "Бъзовец",
+      "shirina": 42.788842,
+      "dalzhina": 25.543599,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 55,
+      "ime": "България",
+      "shirina": 42.679294,
+      "dalzhina": 23.301109,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 56,
+      "ime": "Българово",
+      "shirina": 42.595871,
+      "dalzhina": 27.302082,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 57,
+      "ime": "Бяга",
+      "shirina": 42.063168,
+      "dalzhina": 24.37377,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 58,
+      "ime": "Бяла",
+      "shirina": 43.468826,
+      "dalzhina": 25.669373,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 59,
+      "ime": "Вакарел",
+      "shirina": 42.556216,
+      "dalzhina": 23.707348,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 60,
+      "ime": "Варвара",
+      "shirina": 42.1556,
+      "dalzhina": 24.137641,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 61,
+      "ime": "Вардар",
+      "shirina": 42.705974,
+      "dalzhina": 23.284829,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 62,
+      "ime": "Варна",
+      "shirina": 43.198001,
+      "dalzhina": 27.912259,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 63,
+      "ime": "Варна - спирка",
+      "shirina": 43.209207,
+      "dalzhina": 27.886596,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 64,
+      "ime": "Васил Левски",
+      "shirina": 43.260935,
+      "dalzhina": 26.623867,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 65,
+      "ime": "Василовци",
+      "shirina": 43.712371,
+      "dalzhina": 23.130813,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 66,
+      "ime": "Ведрово",
+      "shirina": 42.832397,
+      "dalzhina": 26.972805,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 67,
+      "ime": "Велико Търново",
+      "shirina": 43.07414,
+      "dalzhina": 25.638248,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 68,
+      "ime": "Велинград",
+      "shirina": 42.024742,
+      "dalzhina": 23.996355,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 69,
+      "ime": "Величково",
+      "shirina": 43.047224,
+      "dalzhina": 27.441651,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 70,
+      "ime": "Верила",
+      "shirina": 42.641104,
+      "dalzhina": 23.521116,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 71,
+      "ime": "Веринско",
+      "shirina": 42.495533,
+      "dalzhina": 23.769157,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 72,
+      "ime": "Ветово",
+      "shirina": 43.694621,
+      "dalzhina": 26.248248,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 73,
+      "ime": "Видбол",
+      "shirina": 43.913466,
+      "dalzhina": 22.819444,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 74,
+      "ime": "Видин",
+      "shirina": 43.984316,
+      "dalzhina": 22.875229,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 75,
+      "ime": "Висока поляна",
+      "shirina": 43.469313,
+      "dalzhina": 26.770056,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 76,
+      "ime": "Витоша",
+      "shirina": 42.658178,
+      "dalzhina": 23.316268,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 77,
+      "ime": "Владая",
+      "shirina": 42.623318,
+      "dalzhina": 23.185214,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 78,
+      "ime": "Владимир Павлов",
+      "shirina": 42.502288,
+      "dalzhina": 27.457506,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 79,
+      "ime": "Владо Тричков",
+      "shirina": 42.860968,
+      "dalzhina": 23.371793,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 80,
+      "ime": "Воднянци",
+      "shirina": 43.704676,
+      "dalzhina": 22.85301,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 81,
+      "ime": "Волуяк",
+      "shirina": 42.754836,
+      "dalzhina": 23.244429,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 82,
+      "ime": "Враца",
+      "shirina": 43.208771,
+      "dalzhina": 23.557638,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 83,
+      "ime": "Връдловци",
+      "shirina": 43.038847,
+      "dalzhina": 22.932123,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 84,
+      "ime": "Вълчи дол",
+      "shirina": 43.40488,
+      "dalzhina": 27.5588,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 85,
+      "ime": "Вълчин",
+      "shirina": 42.724928,
+      "dalzhina": 26.890113,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 86,
+      "ime": "Г. М. Димитров",
+      "shirina": 42.662664,
+      "dalzhina": 23.357875,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 87,
+      "ime": "Габарево",
+      "shirina": 42.633586,
+      "dalzhina": 25.157022,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 88,
+      "ime": "Габровница",
+      "shirina": 43.535153,
+      "dalzhina": 23.26649,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 89,
+      "ime": "Габрово",
+      "shirina": 42.885175,
+      "dalzhina": 25.316728,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 90,
+      "ime": "Гаврайлово",
+      "shirina": 42.640299,
+      "dalzhina": 26.171555,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 91,
+      "ime": "Ганчовец",
+      "shirina": 42.991214,
+      "dalzhina": 25.517288,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 92,
+      "ime": "Гара Гурково",
+      "shirina": 42.653837,
+      "dalzhina": 25.814167,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 93,
+      "ime": "Гара Долни Раковец",
+      "shirina": 42.467907,
+      "dalzhina": 22.995724,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 94,
+      "ime": "Гара Чумерна",
+      "shirina": 42.677764,
+      "dalzhina": 26.07264,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 95,
+      "ime": "Генерал Киселово",
+      "shirina": 43.443274,
+      "dalzhina": 27.596629,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 96,
+      "ime": "Генерал Колево",
+      "shirina": 43.66083,
+      "dalzhina": 27.952301,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 97,
+      "ime": "Генерал Тодоров",
+      "shirina": 41.455978,
+      "dalzhina": 23.280526,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 98,
+      "ime": "Голям Поровец",
+      "shirina": 43.667449,
+      "dalzhina": 26.803889,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 99,
+      "ime": "Горица",
+      "shirina": 43.269921,
+      "dalzhina": 26.088208,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 100,
+      "ime": "Горна Оряховица",
+      "shirina": 43.139818,
+      "dalzhina": 25.681937,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 101,
+      "ime": "Горна баня",
+      "shirina": 42.675592,
+      "dalzhina": 23.242377,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 102,
+      "ime": "Горна баня",
+      "shirina": 42.683117,
+      "dalzhina": 23.24173,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 103,
+      "ime": "Горна лифтова станция",
+      "shirina": 42.718182,
+      "dalzhina": 26.359145,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 104,
+      "ime": "Горна станция КВЛ \"Ястребец гондола\"",
+      "shirina": 42.227045,
+      "dalzhina": 23.580867,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 105,
+      "ime": "Горни Дъбник",
+      "shirina": 43.380134,
+      "dalzhina": 24.344373,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 106,
+      "ime": "Градешница",
+      "shirina": 41.677234,
+      "dalzhina": 23.184827,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 107,
+      "ime": "Градище",
+      "shirina": 43.326229,
+      "dalzhina": 25.208724,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 108,
+      "ime": "Гривица",
+      "shirina": 43.410152,
+      "dalzhina": 24.695589,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 109,
+      "ime": "Гълъбник",
+      "shirina": 42.413159,
+      "dalzhina": 23.085064,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 110,
+      "ime": "Гюешево",
+      "shirina": 42.235653,
+      "dalzhina": 22.476177,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 111,
+      "ime": "Дамяница",
+      "shirina": 41.504789,
+      "dalzhina": 23.270222,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 112,
+      "ime": "Даскалово",
+      "shirina": 42.602239,
+      "dalzhina": 23.112621,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 113,
+      "ime": "Две могили",
+      "shirina": 43.58833,
+      "dalzhina": 25.872524,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 114,
+      "ime": "Дебелец",
+      "shirina": 43.04548,
+      "dalzhina": 25.596956,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 115,
+      "ime": "Девня",
+      "shirina": 43.217741,
+      "dalzhina": 27.596069,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 116,
+      "ime": "Делян",
+      "shirina": 42.387539,
+      "dalzhina": 23.10933,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 117,
+      "ime": "Джебел",
+      "shirina": 41.565167,
+      "dalzhina": 25.391013,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 118,
+      "ime": "Джеймс Баучер",
+      "shirina": 42.670622,
+      "dalzhina": 23.320461,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 119,
+      "ime": "Джулюница",
+      "shirina": 43.160767,
+      "dalzhina": 25.882967,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 120,
+      "ime": "Дибич",
+      "shirina": 43.226912,
+      "dalzhina": 26.99354,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 121,
+      "ime": "Дивдядово",
+      "shirina": 43.233625,
+      "dalzhina": 26.937897,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 122,
+      "ime": "Димитровград",
+      "shirina": 42.05514,
+      "dalzhina": 25.592896,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 123,
+      "ime": "Димитровград север",
+      "shirina": 42.071397,
+      "dalzhina": 25.573558,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 124,
+      "ime": "Димово",
+      "shirina": 43.735875,
+      "dalzhina": 22.722142,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 125,
+      "ime": "Добрина",
+      "shirina": 43.164096,
+      "dalzhina": 27.443713,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 126,
+      "ime": "Добринище",
+      "shirina": 41.825436,
+      "dalzhina": 23.562234,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 127,
+      "ime": "Добриново",
+      "shirina": 41.713364,
+      "dalzhina": 25.531626,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 128,
+      "ime": "Добрич",
+      "shirina": 43.566175,
+      "dalzhina": 27.815607,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 129,
+      "ime": "Добрич Север",
+      "shirina": 43.591591,
+      "dalzhina": 27.840177,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 130,
+      "ime": "Добродан",
+      "shirina": 42.963552,
+      "dalzhina": 24.683504,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 131,
+      "ime": "Долапите",
+      "shirina": 43.756062,
+      "dalzhina": 25.907694,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 132,
+      "ime": "Долене",
+      "shirina": 42.092694,
+      "dalzhina": 24.04807,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 133,
+      "ime": "Долна Махала",
+      "shirina": 42.408081,
+      "dalzhina": 24.778464,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 134,
+      "ime": "Долна Митрополия",
+      "shirina": 43.472992,
+      "dalzhina": 24.537627,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 135,
+      "ime": "Долна лифтова станция",
+      "shirina": 42.703526,
+      "dalzhina": 26.350082,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 136,
+      "ime": "Долна станция КВЛ \"Ястребец гондола\"",
+      "shirina": 42.266287,
+      "dalzhina": 23.602992,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 137,
+      "ime": "Долни Вит",
+      "shirina": 43.661663,
+      "dalzhina": 24.747424,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 138,
+      "ime": "Долни Дъбник",
+      "shirina": 43.414019,
+      "dalzhina": 24.429476,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 139,
+      "ime": "Долно Езерово",
+      "shirina": 42.516381,
+      "dalzhina": 27.360658,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 140,
+      "ime": "Долно Камарци",
+      "shirina": 42.71323,
+      "dalzhina": 23.862042,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 141,
+      "ime": "Долно Церовене",
+      "shirina": 43.592316,
+      "dalzhina": 23.225138,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 142,
+      "ime": "Долно село",
+      "shirina": 42.298616,
+      "dalzhina": 22.496754,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 143,
+      "ime": "Дончево",
+      "shirina": 43.518398,
+      "dalzhina": 27.768085,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 144,
+      "ime": "Драгичево",
+      "shirina": 42.605145,
+      "dalzhina": 23.132728,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 145,
+      "ime": "Драгоил",
+      "shirina": 42.962121,
+      "dalzhina": 22.888658,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 146,
+      "ime": "Драгоман",
+      "shirina": 42.922189,
+      "dalzhina": 22.931824,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 147,
+      "ime": "Драгомирово",
+      "shirina": 43.51948,
+      "dalzhina": 25.242886,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 148,
+      "ime": "Дралфа",
+      "shirina": 43.331564,
+      "dalzhina": 26.434074,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 149,
+      "ime": "Драсов",
+      "shirina": 43.265446,
+      "dalzhina": 24.895723,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 150,
+      "ime": "Дреновец",
+      "shirina": 43.692343,
+      "dalzhina": 22.97291,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 151,
+      "ime": "Дружба",
+      "shirina": 42.561357,
+      "dalzhina": 27.317145,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 152,
+      "ime": "Дружба",
+      "shirina": 42.659178,
+      "dalzhina": 23.394594,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 153,
+      "ime": "Дряново",
+      "shirina": 42.971354,
+      "dalzhina": 25.476058,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 154,
+      "ime": "Дулово",
+      "shirina": 43.802956,
+      "dalzhina": 27.147591,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 155,
+      "ime": "Дупница",
+      "shirina": 42.260242,
+      "dalzhina": 23.103649,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 156,
+      "ime": "Дъбова махала",
+      "shirina": 43.684298,
+      "dalzhina": 23.016599,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 157,
+      "ime": "Дъбово",
+      "shirina": 42.614184,
+      "dalzhina": 25.637581,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 158,
+      "ime": "Дълга лъка",
+      "shirina": 43.060057,
+      "dalzhina": 25.633965,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 159,
+      "ime": "Дългопол",
+      "shirina": 43.047927,
+      "dalzhina": 27.341002,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 160,
+      "ime": "Дъскотна",
+      "shirina": 42.88569,
+      "dalzhina": 27.194126,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 161,
+      "ime": "Дяково",
+      "shirina": 42.329239,
+      "dalzhina": 23.10523,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 162,
+      "ime": "Европейски съюз",
+      "shirina": 42.679596,
+      "dalzhina": 23.321483,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 163,
+      "ime": "Езерово",
+      "shirina": 43.197472,
+      "dalzhina": 27.768899,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 164,
+      "ime": "Елена",
+      "shirina": 42.936513,
+      "dalzhina": 25.909394,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 165,
+      "ime": "Елин Пелин",
+      "shirina": 42.628486,
+      "dalzhina": 23.578961,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 166,
+      "ime": "Елисейна",
+      "shirina": 43.082243,
+      "dalzhina": 23.505466,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 167,
+      "ime": "Елхово",
+      "shirina": 42.176861,
+      "dalzhina": 26.56797,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 168,
+      "ime": "ЖП гара Просторно",
+      "shirina": 43.643233,
+      "dalzhina": 26.480713,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 169,
+      "ime": "ЖП школа - Лакатник",
+      "shirina": 43.086414,
+      "dalzhina": 23.392602,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 170,
+      "ime": "Жеглица",
+      "shirina": 43.886747,
+      "dalzhina": 22.799559,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 171,
+      "ime": "Железница",
+      "shirina": 41.925374,
+      "dalzhina": 23.104886,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 172,
+      "ime": "Желен",
+      "shirina": 42.98025,
+      "dalzhina": 23.362149,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 173,
+      "ime": "Желю войвода",
+      "shirina": 42.605902,
+      "dalzhina": 26.486102,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 174,
+      "ime": "Живково",
+      "shirina": 42.462812,
+      "dalzhina": 23.769509,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 175,
+      "ime": "Житница",
+      "shirina": 43.110419,
+      "dalzhina": 27.522833,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 176,
+      "ime": "Жолио Кюри",
+      "shirina": 42.671602,
+      "dalzhina": 23.350493,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 177,
+      "ime": "Завет",
+      "shirina": 42.841687,
+      "dalzhina": 27.038889,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 178,
+      "ime": "Западен парк",
+      "shirina": 42.711611,
+      "dalzhina": 23.269766,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 179,
+      "ime": "Захарна фабрика",
+      "shirina": 42.712831,
+      "dalzhina": 23.291265,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 180,
+      "ime": "Зверино",
+      "shirina": 43.081157,
+      "dalzhina": 23.571294,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 181,
+      "ime": "Звъничево",
+      "shirina": 42.187381,
+      "dalzhina": 24.240646,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 182,
+      "ime": "Здравец",
+      "shirina": 43.28928,
+      "dalzhina": 26.49941,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 183,
+      "ime": "Земен",
+      "shirina": 42.481068,
+      "dalzhina": 22.747502,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 184,
+      "ime": "Зимница",
+      "shirina": 42.585435,
+      "dalzhina": 26.598173,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 185,
+      "ime": "Златица",
+      "shirina": 42.715974,
+      "dalzhina": 24.12654,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 186,
+      "ime": "Златуша",
+      "shirina": 42.765521,
+      "dalzhina": 23.039864,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 187,
+      "ime": "Змейово",
+      "shirina": 42.498928,
+      "dalzhina": 25.596144,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 188,
+      "ime": "Иваново",
+      "shirina": 43.684245,
+      "dalzhina": 25.955576,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 189,
+      "ime": "Илиянци",
+      "shirina": 42.750684,
+      "dalzhina": 23.326205,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 190,
+      "ime": "Интер Експо Център - Цариградско шосе",
+      "shirina": 42.649612,
+      "dalzhina": 23.393638,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 191,
+      "ime": "Искър",
+      "shirina": 42.664717,
+      "dalzhina": 23.413016,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 192,
+      "ime": "Искърско шосе",
+      "shirina": 42.66808,
+      "dalzhina": 23.402074,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 193,
+      "ime": "Искърско шосе",
+      "shirina": 42.669716,
+      "dalzhina": 23.403055,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 194,
+      "ime": "Исперих",
+      "shirina": 43.704103,
+      "dalzhina": 26.834611,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 195,
+      "ime": "Ихтиман",
+      "shirina": 42.429573,
+      "dalzhina": 23.799011,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 196,
+      "ime": "Кабранова махала",
+      "shirina": 42.587735,
+      "dalzhina": 22.94912,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 197,
+      "ime": "Казанлък",
+      "shirina": 42.613833,
+      "dalzhina": 25.391558,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 198,
+      "ime": "Казичене",
+      "shirina": 42.652553,
+      "dalzhina": 23.469842,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 199,
+      "ime": "Калейца",
+      "shirina": 42.92973,
+      "dalzhina": 24.699414,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 200,
+      "ime": "Калипетрово",
+      "shirina": 44.085574,
+      "dalzhina": 27.219701,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 201,
+      "ime": "Калитиново",
+      "shirina": 42.426986,
+      "dalzhina": 25.731569,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 202,
+      "ime": "Калище",
+      "shirina": 42.486895,
+      "dalzhina": 22.842767,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 203,
+      "ime": "Калотина",
+      "shirina": 42.980055,
+      "dalzhina": 22.851565,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 204,
+      "ime": "Калофер",
+      "shirina": 42.596431,
+      "dalzhina": 25.004113,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 205,
+      "ime": "Калояновец",
+      "shirina": 42.311375,
+      "dalzhina": 25.56944,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 206,
+      "ime": "Каменец",
+      "shirina": 43.362739,
+      "dalzhina": 25.00631,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 207,
+      "ime": "Караджалово",
+      "shirina": 42.102563,
+      "dalzhina": 25.320557,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 208,
+      "ime": "Караджата",
+      "shirina": 43.30634,
+      "dalzhina": 26.31248,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 209,
+      "ime": "Кардам",
+      "shirina": 43.753039,
+      "dalzhina": 28.114579,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 210,
+      "ime": "Карлово",
+      "shirina": 42.631898,
+      "dalzhina": 24.804725,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 211,
+      "ime": "Карлуково",
+      "shirina": 43.188856,
+      "dalzhina": 24.071275,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 212,
+      "ime": "Карнобат",
+      "shirina": 42.66778,
+      "dalzhina": 26.977196,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 213,
+      "ime": "Катуница",
+      "shirina": 42.101596,
+      "dalzhina": 24.875722,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 214,
+      "ime": "Кесарево",
+      "shirina": 43.168461,
+      "dalzhina": 25.929391,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 215,
+      "ime": "Кипра",
+      "shirina": 43.259829,
+      "dalzhina": 27.605353,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 216,
+      "ime": "Китанчево",
+      "shirina": 43.72446,
+      "dalzhina": 26.889306,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 217,
+      "ime": "Кликач",
+      "shirina": 42.707146,
+      "dalzhina": 27.056881,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 218,
+      "ime": "Клисура",
+      "shirina": 42.69052,
+      "dalzhina": 24.462274,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 219,
+      "ime": "Книжовник",
+      "shirina": 41.825077,
+      "dalzhina": 25.596307,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 220,
+      "ime": "Княгиня Мария Луиза",
+      "shirina": 42.714235,
+      "dalzhina": 23.312988,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 221,
+      "ime": "Ковачево",
+      "shirina": 42.198492,
+      "dalzhina": 24.188329,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 222,
+      "ime": "Козаревец",
+      "shirina": 43.138667,
+      "dalzhina": 25.817688,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 223,
+      "ime": "Кондофрей",
+      "shirina": 42.454531,
+      "dalzhina": 23.017871,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 224,
+      "ime": "Коневец",
+      "shirina": 42.28418,
+      "dalzhina": 26.55486,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 225,
+      "ime": "Константин Величков",
+      "shirina": 42.701712,
+      "dalzhina": 23.299303,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 226,
+      "ime": "Копривщица",
+      "shirina": 42.700986,
+      "dalzhina": 24.339042,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 227,
+      "ime": "Костенец",
+      "shirina": 42.308159,
+      "dalzhina": 23.859878,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 228,
+      "ime": "Костинброд",
+      "shirina": 42.807146,
+      "dalzhina": 23.199748,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 229,
+      "ime": "Костинброд сп.",
+      "shirina": 42.792389,
+      "dalzhina": 23.209396,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 230,
+      "ime": "Кочериново",
+      "shirina": 42.08081,
+      "dalzhina": 23.0374,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 231,
+      "ime": "Кракра",
+      "shirina": 42.596957,
+      "dalzhina": 23.008945,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 232,
+      "ime": "Кремиковци",
+      "shirina": 42.751653,
+      "dalzhina": 23.485635,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 233,
+      "ime": "Кресна",
+      "shirina": 41.709924,
+      "dalzhina": 23.173144,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 234,
+      "ime": "Крива бара",
+      "shirina": 43.685999,
+      "dalzhina": 23.099042,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 235,
+      "ime": "Кривня",
+      "shirina": 43.675617,
+      "dalzhina": 26.347511,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 236,
+      "ime": "Криводол",
+      "shirina": 43.366914,
+      "dalzhina": 23.472526,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 237,
+      "ime": "Крумово",
+      "shirina": 42.093511,
+      "dalzhina": 24.818961,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 238,
+      "ime": "Крушето",
+      "shirina": 43.242123,
+      "dalzhina": 25.669084,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 239,
+      "ime": "Кръстец",
+      "shirina": 42.769782,
+      "dalzhina": 25.551926,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 240,
+      "ime": "Кубратово",
+      "shirina": 42.775996,
+      "dalzhina": 23.360211,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 241,
+      "ime": "Кулата",
+      "shirina": 41.391791,
+      "dalzhina": 23.361689,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 242,
+      "ime": "Кумарица",
+      "shirina": 42.799928,
+      "dalzhina": 23.341642,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 243,
+      "ime": "Кунино",
+      "shirina": 43.187379,
+      "dalzhina": 24.00573,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 244,
+      "ime": "Курило",
+      "shirina": 42.818098,
+      "dalzhina": 23.356733,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 245,
+      "ime": "Куцина",
+      "shirina": 43.268665,
+      "dalzhina": 25.646808,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 246,
+      "ime": "Кърджали",
+      "shirina": 41.630779,
+      "dalzhina": 25.388245,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 247,
+      "ime": "Кюстендил",
+      "shirina": 42.289051,
+      "dalzhina": 22.682924,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 248,
+      "ime": "Лазар Пампоров",
+      "shirina": 42.165187,
+      "dalzhina": 24.133949,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 249,
+      "ime": "Лакатник",
+      "shirina": 43.082583,
+      "dalzhina": 23.37882,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 250,
+      "ime": "Левище",
+      "shirina": 43.087596,
+      "dalzhina": 23.466692,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 251,
+      "ime": "Левски",
+      "shirina": 43.350771,
+      "dalzhina": 25.14291,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 252,
+      "ime": "Лесичери",
+      "shirina": 43.200753,
+      "dalzhina": 25.415742,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 253,
+      "ime": "Летище София",
+      "shirina": 42.687974,
+      "dalzhina": 23.416192,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 254,
+      "ime": "Лешница",
+      "shirina": 43.000415,
+      "dalzhina": 24.696911,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 255,
+      "ime": "Лифт „Симеоново“ - долна станция",
+      "shirina": 42.616582,
+      "dalzhina": 23.348547,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 256,
+      "ime": "Ловец",
+      "shirina": 43.256967,
+      "dalzhina": 26.693405,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 257,
+      "ime": "Ловеч",
+      "shirina": 43.136848,
+      "dalzhina": 24.706954,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 258,
+      "ime": "Ловеч - спирка",
+      "shirina": 43.164149,
+      "dalzhina": 24.722097,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 259,
+      "ime": "Ловеч юг",
+      "shirina": 43.119996,
+      "dalzhina": 24.716497,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 260,
+      "ime": "Лозарево",
+      "shirina": 42.769108,
+      "dalzhina": 26.887392,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 261,
+      "ime": "Локорско",
+      "shirina": 42.767988,
+      "dalzhina": 23.434692,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 262,
+      "ime": "Лом",
+      "shirina": 43.82144,
+      "dalzhina": 23.242082,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 263,
+      "ime": "Ломец",
+      "shirina": 42.983125,
+      "dalzhina": 24.675919,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 264,
+      "ime": "Ломско шосе",
+      "shirina": 42.740484,
+      "dalzhina": 23.287282,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 265,
+      "ime": "Луковит",
+      "shirina": 43.21501,
+      "dalzhina": 24.175881,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 266,
+      "ime": "Луково",
+      "shirina": 42.879944,
+      "dalzhina": 23.3842,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 267,
+      "ime": "Лъвов мост",
+      "shirina": 42.705663,
+      "dalzhina": 23.323853,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 268,
+      "ime": "Любеново предавателна",
+      "shirina": 42.186534,
+      "dalzhina": 25.905876,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 269,
+      "ime": "Любимец",
+      "shirina": 41.851211,
+      "dalzhina": 26.073834,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 270,
+      "ime": "Люлин",
+      "shirina": 42.717999,
+      "dalzhina": 23.258081,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 271,
+      "ime": "Маврудово",
+      "shirina": 42.066116,
+      "dalzhina": 24.839204,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 272,
+      "ime": "Мадара",
+      "shirina": 43.274699,
+      "dalzhina": 27.099854,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 273,
+      "ime": "Макоцево",
+      "shirina": 42.689807,
+      "dalzhina": 23.803525,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 274,
+      "ime": "Макреш",
+      "shirina": 43.767998,
+      "dalzhina": 22.731663,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 275,
+      "ime": "Маноле / Manole",
+      "shirina": 42.185061,
+      "dalzhina": 24.923442,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 276,
+      "ime": "Марикостиново",
+      "shirina": 41.434176,
+      "dalzhina": 23.313334,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 277,
+      "ime": "Медицински университет",
+      "shirina": 42.686558,
+      "dalzhina": 23.30939,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 278,
+      "ime": "Медовина",
+      "shirina": 43.317189,
+      "dalzhina": 26.182174,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 279,
+      "ime": "Междинна станция",
+      "shirina": 41.798597,
+      "dalzhina": 23.46582,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 280,
+      "ime": "Междинна станция КВЛ \"Ястребец гондола\"",
+      "shirina": 42.245298,
+      "dalzhina": 23.591122,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 281,
+      "ime": "Междинна станция по линията х. Гоце Делчев - х. Безбог",
+      "shirina": 41.74783,
+      "dalzhina": 23.536292,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 282,
+      "ime": "Мездра",
+      "shirina": 43.142159,
+      "dalzhina": 23.71474,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 283,
+      "ime": "Мездра юг",
+      "shirina": 43.131519,
+      "dalzhina": 23.703855,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 284,
+      "ime": "Мизия",
+      "shirina": 42.683895,
+      "dalzhina": 23.257029,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 285,
+      "ime": "Милковица",
+      "shirina": 43.631566,
+      "dalzhina": 24.712666,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 286,
+      "ime": "Мирково",
+      "shirina": 42.70346,
+      "dalzhina": 23.996825,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 287,
+      "ime": "Михайлово",
+      "shirina": 42.242752,
+      "dalzhina": 25.529222,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 288,
+      "ime": "Михалци-Стамболово",
+      "shirina": 43.215958,
+      "dalzhina": 25.360808,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 289,
+      "ime": "Младост 1",
+      "shirina": 42.652995,
+      "dalzhina": 23.373345,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 290,
+      "ime": "Младост 3",
+      "shirina": 42.646526,
+      "dalzhina": 23.383729,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 291,
+      "ime": "Мокрище",
+      "shirina": 42.180324,
+      "dalzhina": 24.293228,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 292,
+      "ime": "Момина клисура",
+      "shirina": 42.228716,
+      "dalzhina": 23.97386,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 293,
+      "ime": "Момчилград",
+      "shirina": 41.526562,
+      "dalzhina": 25.403623,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 294,
+      "ime": "Монтана",
+      "shirina": 43.40841,
+      "dalzhina": 23.230054,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 295,
+      "ime": "Морава",
+      "shirina": 43.453009,
+      "dalzhina": 25.206585,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 296,
+      "ime": "Моруница",
+      "shirina": 43.490013,
+      "dalzhina": 25.755083,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 297,
+      "ime": "Моряк",
+      "shirina": 43.19095,
+      "dalzhina": 27.758575,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 298,
+      "ime": "Мост",
+      "shirina": 41.741058,
+      "dalzhina": 25.53029,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 299,
+      "ime": "Мурсалево",
+      "shirina": 42.117455,
+      "dalzhina": 23.03829,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 300,
+      "ime": "Мусагеница",
+      "shirina": 42.658552,
+      "dalzhina": 23.364414,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 301,
+      "ime": "Мърчево",
+      "shirina": 43.515984,
+      "dalzhina": 23.339468,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 302,
+      "ime": "Мътница",
+      "shirina": 43.283067,
+      "dalzhina": 27.024875,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 303,
+      "ime": "Надарево",
+      "shirina": 43.245427,
+      "dalzhina": 26.759116,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 304,
+      "ime": "Надежда",
+      "shirina": 42.728074,
+      "dalzhina": 23.300887,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 305,
+      "ime": "Надежда - спирка",
+      "shirina": 42.720917,
+      "dalzhina": 23.301549,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 306,
+      "ime": "Национален дворец на културата",
+      "shirina": 42.688204,
+      "dalzhina": 23.319023,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 307,
+      "ime": "Национален дворец на културата II",
+      "shirina": 42.689098,
+      "dalzhina": 23.317845,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 308,
+      "ime": "Начална станция кабинков лифт",
+      "shirina": 41.827137,
+      "dalzhina": 23.477507,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 309,
+      "ime": "Невша",
+      "shirina": 43.249084,
+      "dalzhina": 27.284349,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 310,
+      "ime": "Негован",
+      "shirina": 42.774622,
+      "dalzhina": 23.4079,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 311,
+      "ime": "Негушево",
+      "shirina": 42.715366,
+      "dalzhina": 23.725583,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 312,
+      "ime": "Николаево",
+      "shirina": 42.632326,
+      "dalzhina": 25.782908,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 313,
+      "ime": "Нова Загора",
+      "shirina": 42.485667,
+      "dalzhina": 26.016153,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 314,
+      "ime": "Нова Шипка",
+      "shirina": 43.052402,
+      "dalzhina": 27.517388,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 315,
+      "ime": "Обеля",
+      "shirina": 42.738241,
+      "dalzhina": 23.263907,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 316,
+      "ime": "Обеля",
+      "shirina": 42.740688,
+      "dalzhina": 23.276103,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 317,
+      "ime": "Оборище",
+      "shirina": 43.456121,
+      "dalzhina": 27.647999,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 318,
+      "ime": "Образцов чифлик",
+      "shirina": 43.793867,
+      "dalzhina": 26.032031,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 319,
+      "ime": "Овча купел",
+      "shirina": 42.683219,
+      "dalzhina": 23.270203,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 320,
+      "ime": "Овча купел II",
+      "shirina": 42.684743,
+      "dalzhina": 23.247822,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 321,
+      "ime": "Огняново",
+      "shirina": 42.138415,
+      "dalzhina": 24.416718,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 322,
+      "ime": "Одърне",
+      "shirina": 43.37308,
+      "dalzhina": 24.935614,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 323,
+      "ime": "Оплетня",
+      "shirina": 43.097421,
+      "dalzhina": 23.431571,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 324,
+      "ime": "Опълченска",
+      "shirina": 42.699702,
+      "dalzhina": 23.311201,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 325,
+      "ime": "Орешец",
+      "shirina": 43.659378,
+      "dalzhina": 22.744755,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 326,
+      "ime": "Оризово",
+      "shirina": 42.204505,
+      "dalzhina": 25.175612,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 327,
+      "ime": "Орлин",
+      "shirina": 42.951179,
+      "dalzhina": 23.367965,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 328,
+      "ime": "Орлов мост",
+      "shirina": 42.690568,
+      "dalzhina": 23.336181,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 329,
+      "ime": "Оселна",
+      "shirina": 43.076944,
+      "dalzhina": 23.540483,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 330,
+      "ime": "Осетеново",
+      "shirina": 42.612993,
+      "dalzhina": 25.030385,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 331,
+      "ime": "Ослен",
+      "shirina": 43.129615,
+      "dalzhina": 23.793868,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 332,
+      "ime": "Отдих",
+      "shirina": 42.508164,
+      "dalzhina": 24.841317,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 333,
+      "ime": "Охрид",
+      "shirina": 43.452414,
+      "dalzhina": 23.365684,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 334,
+      "ime": "Павликени",
+      "shirina": 43.233114,
+      "dalzhina": 25.30158,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 335,
+      "ime": "Пазарджик",
+      "shirina": 42.170063,
+      "dalzhina": 24.320913,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 336,
+      "ime": "Панагюрище",
+      "shirina": 42.492066,
+      "dalzhina": 24.196852,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 337,
+      "ime": "Пейо Яворов",
+      "shirina": 41.749684,
+      "dalzhina": 23.154084,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 338,
+      "ime": "Перник",
+      "shirina": 42.601269,
+      "dalzhina": 23.030636,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 339,
+      "ime": "Перник разпределителна",
+      "shirina": 42.604963,
+      "dalzhina": 23.061389,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 340,
+      "ime": "Перперек",
+      "shirina": 41.685807,
+      "dalzhina": 25.543516,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 341,
+      "ime": "Петко Каравелово",
+      "shirina": 43.299006,
+      "dalzhina": 25.639751,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 342,
+      "ime": "Петрич",
+      "shirina": 41.408242,
+      "dalzhina": 23.206551,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 343,
+      "ime": "Петърч",
+      "shirina": 42.827595,
+      "dalzhina": 23.121847,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 344,
+      "ime": "Пещера",
+      "shirina": 42.034395,
+      "dalzhina": 24.312513,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 345,
+      "ime": "Пирдоп",
+      "shirina": 42.709915,
+      "dalzhina": 24.17411,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 346,
+      "ime": "Плачковци",
+      "shirina": 42.828183,
+      "dalzhina": 25.479517,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 347,
+      "ime": "Плевен",
+      "shirina": 43.420943,
+      "dalzhina": 24.61452,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 348,
+      "ime": "Плевен Запад",
+      "shirina": 43.429906,
+      "dalzhina": 24.593005,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 349,
+      "ime": "Плиска",
+      "shirina": 43.344406,
+      "dalzhina": 27.094617,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 350,
+      "ime": "Побит камък",
+      "shirina": 42.601555,
+      "dalzhina": 23.637818,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 351,
+      "ime": "Повеляново",
+      "shirina": 43.194213,
+      "dalzhina": 27.640072,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 352,
+      "ime": "Подгорица",
+      "shirina": 43.312437,
+      "dalzhina": 26.472746,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 353,
+      "ime": "Подем",
+      "shirina": 43.539736,
+      "dalzhina": 24.596803,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 354,
+      "ime": "Подуяне Пътническа",
+      "shirina": 42.697927,
+      "dalzhina": 23.354658,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 355,
+      "ime": "Подуяне Разпр.ср.р.",
+      "shirina": 42.694093,
+      "dalzhina": 23.366739,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 356,
+      "ime": "Поликраище",
+      "shirina": 43.167582,
+      "dalzhina": 25.620132,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 357,
+      "ime": "Полски Тръмбеш",
+      "shirina": 43.370343,
+      "dalzhina": 25.634358,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 358,
+      "ime": "Полско Косово",
+      "shirina": 43.426964,
+      "dalzhina": 25.670252,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 359,
+      "ime": "Поповица",
+      "shirina": 42.138841,
+      "dalzhina": 25.05981,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 360,
+      "ime": "Попово",
+      "shirina": 43.332855,
+      "dalzhina": 26.232807,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 361,
+      "ime": "Пордим",
+      "shirina": 43.386342,
+      "dalzhina": 24.847518,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 362,
+      "ime": "Преколница",
+      "shirina": 42.273998,
+      "dalzhina": 22.501051,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 363,
+      "ime": "Прилеп",
+      "shirina": 42.822674,
+      "dalzhina": 26.912077,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 364,
+      "ime": "Провадия",
+      "shirina": 43.190156,
+      "dalzhina": 27.438233,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 365,
+      "ime": "Пролет",
+      "shirina": 43.071752,
+      "dalzhina": 23.472576,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 366,
+      "ime": "Прослав",
+      "shirina": 42.125188,
+      "dalzhina": 24.685975,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 367,
+      "ime": "Просторно",
+      "shirina": 43.643137,
+      "dalzhina": 26.480425,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 368,
+      "ime": "Първомай",
+      "shirina": 42.100397,
+      "dalzhina": 25.224003,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 369,
+      "ime": "РП Мусачево",
+      "shirina": 42.693031,
+      "dalzhina": 23.537556,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 370,
+      "ime": "Равна",
+      "shirina": 43.234642,
+      "dalzhina": 27.345735,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 371,
+      "ime": "Раданово",
+      "shirina": 43.342438,
+      "dalzhina": 25.638306,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 372,
+      "ime": "Раднево",
+      "shirina": 42.291087,
+      "dalzhina": 25.926933,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 373,
+      "ime": "Радовене",
+      "shirina": 43.168772,
+      "dalzhina": 23.959726,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 374,
+      "ime": "Радомир",
+      "shirina": 42.538745,
+      "dalzhina": 22.952061,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 375,
+      "ime": "Радуй",
+      "shirina": 42.732838,
+      "dalzhina": 23.023233,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 376,
+      "ime": "Радунци",
+      "shirina": 42.678021,
+      "dalzhina": 25.596122,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 377,
+      "ime": "Раждавица",
+      "shirina": 42.379728,
+      "dalzhina": 22.706787,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 378,
+      "ime": "Разбоище",
+      "shirina": 43.017113,
+      "dalzhina": 22.940923,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 379,
+      "ime": "Разград",
+      "shirina": 43.567298,
+      "dalzhina": 26.509169,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 380,
+      "ime": "Разделна",
+      "shirina": 43.169032,
+      "dalzhina": 27.624819,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 381,
+      "ime": "Разлог",
+      "shirina": 41.880683,
+      "dalzhina": 23.473171,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 382,
+      "ime": "Ракево",
+      "shirina": 43.416107,
+      "dalzhina": 23.425897,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 383,
+      "ime": "Реброво",
+      "shirina": 42.898949,
+      "dalzhina": 23.388267,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 384,
+      "ime": "Ребърково",
+      "shirina": 43.114124,
+      "dalzhina": 23.675252,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 385,
+      "ime": "Ресен",
+      "shirina": 43.181495,
+      "dalzhina": 25.564054,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 386,
+      "ime": "Розино",
+      "shirina": 42.715789,
+      "dalzhina": 24.539388,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 387,
+      "ime": "Роман",
+      "shirina": 43.154528,
+      "dalzhina": 23.921495,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 388,
+      "ime": "Ромча",
+      "shirina": 42.852124,
+      "dalzhina": 23.37039,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 389,
+      "ime": "Руйно",
+      "shirina": 43.819481,
+      "dalzhina": 27.034307,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 390,
+      "ime": "Русаля Дичин",
+      "shirina": 43.193327,
+      "dalzhina": 25.471083,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 391,
+      "ime": "Русе Разпределителна Гара",
+      "shirina": 43.858032,
+      "dalzhina": 25.997671,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 392,
+      "ime": "Русе Товарна - спирка",
+      "shirina": 43.854275,
+      "dalzhina": 25.977573,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 393,
+      "ime": "Садово",
+      "shirina": 42.131318,
+      "dalzhina": 24.938841,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 394,
+      "ime": "Самуил",
+      "shirina": 43.512456,
+      "dalzhina": 26.739252,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 395,
+      "ime": "Сандански",
+      "shirina": 41.542685,
+      "dalzhina": 23.251788,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 396,
+      "ime": "Саранци",
+      "shirina": 42.715631,
+      "dalzhina": 23.756765,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 397,
+      "ime": "Сборище",
+      "shirina": 42.677666,
+      "dalzhina": 25.96865,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 398,
+      "ime": "Св. Патриарх Евтимий",
+      "shirina": 42.688203,
+      "dalzhina": 23.327479,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 399,
+      "ime": "Световрачене",
+      "shirina": 42.783115,
+      "dalzhina": 23.381423,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 400,
+      "ime": "Свиленград",
+      "shirina": 41.774495,
+      "dalzhina": 26.143945,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 401,
+      "ime": "Свобода",
+      "shirina": 42.239263,
+      "dalzhina": 25.436942,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 402,
+      "ime": "Своге",
+      "shirina": 42.959983,
+      "dalzhina": 23.348958,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 403,
+      "ime": "Сеново",
+      "shirina": 43.661241,
+      "dalzhina": 26.381005,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 404,
+      "ime": "Септември",
+      "shirina": 42.204086,
+      "dalzhina": 24.131726,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 405,
+      "ime": "Сердика",
+      "shirina": 42.698028,
+      "dalzhina": 23.320347,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 406,
+      "ime": "Сердика II",
+      "shirina": 42.698369,
+      "dalzhina": 23.321909,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 407,
+      "ime": "Сестримо",
+      "shirina": 42.246476,
+      "dalzhina": 23.936492,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 408,
+      "ime": "Силистра",
+      "shirina": 44.113815,
+      "dalzhina": 27.250308,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 409,
+      "ime": "Симеоновград",
+      "shirina": 42.024859,
+      "dalzhina": 25.845657,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 410,
+      "ime": "Симитли",
+      "shirina": 41.884241,
+      "dalzhina": 23.107002,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 411,
+      "ime": "Синаговци-Гурково",
+      "shirina": 43.898824,
+      "dalzhina": 22.79853,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 412,
+      "ime": "Синдел Разпределителна",
+      "shirina": 43.123125,
+      "dalzhina": 27.598551,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 413,
+      "ime": "Синитово",
+      "shirina": 42.1427,
+      "dalzhina": 24.373386,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 414,
+      "ime": "Скобелево",
+      "shirina": 42.097219,
+      "dalzhina": 25.367111,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 415,
+      "ime": "Скутаре",
+      "shirina": 42.188356,
+      "dalzhina": 24.851158,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 416,
+      "ime": "Славяново",
+      "shirina": 43.294097,
+      "dalzhina": 26.171465,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 417,
+      "ime": "Слана бара",
+      "shirina": 43.957625,
+      "dalzhina": 22.817364,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 418,
+      "ime": "Сливен",
+      "shirina": 42.666841,
+      "dalzhina": 26.336139,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 419,
+      "ime": "Сливница",
+      "shirina": 42.726798,
+      "dalzhina": 23.261852,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 420,
+      "ime": "Сливница",
+      "shirina": 42.849724,
+      "dalzhina": 23.055633,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 421,
+      "ime": "Смилец",
+      "shirina": 42.414239,
+      "dalzhina": 24.374063,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 422,
+      "ime": "Смолево",
+      "shirina": 42.028769,
+      "dalzhina": 23.76953,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 423,
+      "ime": "Смядово",
+      "shirina": 43.076174,
+      "dalzhina": 27.029346,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 424,
+      "ime": "Соколово",
+      "shirina": 43.020827,
+      "dalzhina": 25.531634,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 425,
+      "ime": "Солна мина",
+      "shirina": 43.134949,
+      "dalzhina": 27.47354,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 426,
+      "ime": "Сомовит",
+      "shirina": 43.689989,
+      "dalzhina": 24.772998,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 427,
+      "ime": "Сопот",
+      "shirina": 42.641721,
+      "dalzhina": 24.742381,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 428,
+      "ime": "Софийска Света гора",
+      "shirina": 42.676391,
+      "dalzhina": 23.410189,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 429,
+      "ime": "Софийски университет Св. Климент Охридски",
+      "shirina": 42.691964,
+      "dalzhina": 23.334987,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 430,
+      "ime": "София Север",
+      "shirina": 42.726562,
+      "dalzhina": 23.316444,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 431,
+      "ime": "Срацимир",
+      "shirina": 43.821041,
+      "dalzhina": 22.757027,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 432,
+      "ime": "Стадион Васил Левски",
+      "shirina": 42.686112,
+      "dalzhina": 23.332405,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 433,
+      "ime": "Сталево",
+      "shirina": 42.096015,
+      "dalzhina": 25.396451,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 434,
+      "ime": "Сталийска махала",
+      "shirina": 43.742262,
+      "dalzhina": 23.16496,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 435,
+      "ime": "Стамболийски",
+      "shirina": 42.133218,
+      "dalzhina": 24.5364,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 436,
+      "ime": "Станция х.Безбог",
+      "shirina": 41.734837,
+      "dalzhina": 23.525445,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 437,
+      "ime": "Станянци",
+      "shirina": 43.046403,
+      "dalzhina": 22.921393,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 438,
+      "ime": "Стара Загора",
+      "shirina": 42.416039,
+      "dalzhina": 25.629638,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 439,
+      "ime": "Стойчевци",
+      "shirina": 42.938374,
+      "dalzhina": 25.412793,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 440,
+      "ime": "Столник",
+      "shirina": 42.705541,
+      "dalzhina": 23.632215,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 441,
+      "ime": "Стоян Митов",
+      "shirina": 42.042561,
+      "dalzhina": 23.855183,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 442,
+      "ime": "Стражица",
+      "shirina": 43.216901,
+      "dalzhina": 25.95456,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 443,
+      "ime": "Стралджа",
+      "shirina": 42.592256,
+      "dalzhina": 26.688548,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 444,
+      "ime": "Страшимирово",
+      "shirina": 43.19758,
+      "dalzhina": 27.74085,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 445,
+      "ime": "Стрелча",
+      "shirina": 42.49289,
+      "dalzhina": 24.330961,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 446,
+      "ime": "Струмяни",
+      "shirina": 41.641232,
+      "dalzhina": 23.199067,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 447,
+      "ime": "Струпец",
+      "shirina": 43.136046,
+      "dalzhina": 23.865501,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 448,
+      "ime": "Стряма",
+      "shirina": 42.69575,
+      "dalzhina": 24.421523,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 449,
+      "ime": "Суворово",
+      "shirina": 43.33405,
+      "dalzhina": 27.58515,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 450,
+      "ime": "Съединение",
+      "shirina": 42.259991,
+      "dalzhina": 24.534176,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 451,
+      "ime": "Табачка",
+      "shirina": 43.621439,
+      "dalzhina": 25.937659,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 452,
+      "ime": "Твърдица",
+      "shirina": 42.695223,
+      "dalzhina": 25.898429,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 453,
+      "ime": "Театрална",
+      "shirina": 42.697063,
+      "dalzhina": 23.346823,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 454,
+      "ime": "Телиш",
+      "shirina": 43.33051,
+      "dalzhina": 24.252714,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 455,
+      "ime": "Товарна гара Видин",
+      "shirina": 43.972386,
+      "dalzhina": 22.848301,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 456,
+      "ime": "Томпсън",
+      "shirina": 42.925756,
+      "dalzhina": 23.37929,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 457,
+      "ime": "Тракия",
+      "shirina": 42.133265,
+      "dalzhina": 24.800764,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 458,
+      "ime": "Трапезица",
+      "shirina": 43.087245,
+      "dalzhina": 25.645484,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 459,
+      "ime": "Троян",
+      "shirina": 42.881104,
+      "dalzhina": 24.714053,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 460,
+      "ime": "Тръстиково",
+      "shirina": 43.143743,
+      "dalzhina": 27.603011,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 461,
+      "ime": "Трявна",
+      "shirina": 42.873336,
+      "dalzhina": 25.496821,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 462,
+      "ime": "Тулово",
+      "shirina": 42.571999,
+      "dalzhina": 25.554532,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 463,
+      "ime": "Тъжа",
+      "shirina": 42.639237,
+      "dalzhina": 25.090337,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 464,
+      "ime": "Търговище",
+      "shirina": 43.263433,
+      "dalzhina": 26.578084,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 465,
+      "ime": "Търнак",
+      "shirina": 42.936515,
+      "dalzhina": 27.217747,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 466,
+      "ime": "Търничени",
+      "shirina": 42.633614,
+      "dalzhina": 25.120306,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 467,
+      "ime": "Умляк",
+      "shirina": 42.934267,
+      "dalzhina": 22.903275,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 468,
+      "ime": "Филипово",
+      "shirina": 42.166801,
+      "dalzhina": 24.736802,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 469,
+      "ime": "Хаджи Димитър",
+      "shirina": 42.702546,
+      "dalzhina": 23.352264,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 470,
+      "ime": "Хан Крум",
+      "shirina": 43.203643,
+      "dalzhina": 26.890685,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 471,
+      "ime": "Хан Кубрат",
+      "shirina": 42.722665,
+      "dalzhina": 23.306777,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 472,
+      "ime": "Харманли",
+      "shirina": 41.922525,
+      "dalzhina": 25.924097,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 473,
+      "ime": "Харманли-център",
+      "shirina": 41.931729,
+      "dalzhina": 25.909301,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 474,
+      "ime": "Хасково",
+      "shirina": 41.933014,
+      "dalzhina": 25.58004,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 475,
+      "ime": "Хисар",
+      "shirina": 42.505329,
+      "dalzhina": 24.700508,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 476,
+      "ime": "Хитрино",
+      "shirina": 43.426237,
+      "dalzhina": 26.909168,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 477,
+      "ime": "Храбърско",
+      "shirina": 42.805408,
+      "dalzhina": 23.061872,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 478,
+      "ime": "Християново",
+      "shirina": 42.351674,
+      "dalzhina": 25.595337,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 479,
+      "ime": "Царева ливада",
+      "shirina": 42.932882,
+      "dalzhina": 25.454723,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 480,
+      "ime": "Царевци",
+      "shirina": 43.096312,
+      "dalzhina": 27.562851,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 481,
+      "ime": "Централна гара Пловдив",
+      "shirina": 42.13417,
+      "dalzhina": 24.741384,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 482,
+      "ime": "Централна гара Русе",
+      "shirina": 43.833136,
+      "dalzhina": 25.956367,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 483,
+      "ime": "Централна гара София",
+      "shirina": 42.712959,
+      "dalzhina": 23.32089,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 484,
+      "ime": "Централна жп гара",
+      "shirina": 42.710757,
+      "dalzhina": 23.320546,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 485,
+      "ime": "Цепина",
+      "shirina": 42.106928,
+      "dalzhina": 24.106092,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 486,
+      "ime": "Церковски",
+      "shirina": 42.620769,
+      "dalzhina": 26.841281,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 487,
+      "ime": "Церово",
+      "shirina": 43.003731,
+      "dalzhina": 23.349393,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 488,
+      "ime": "Чеканчево",
+      "shirina": 42.70791,
+      "dalzhina": 23.773983,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 489,
+      "ime": "Челопеч",
+      "shirina": 42.698121,
+      "dalzhina": 24.076656,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 490,
+      "ime": "Чепърлянци",
+      "shirina": 43.012044,
+      "dalzhina": 22.932687,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 491,
+      "ime": "Червен Бряг",
+      "shirina": 43.282239,
+      "dalzhina": 24.078907,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 492,
+      "ime": "Черганово",
+      "shirina": 42.588489,
+      "dalzhina": 25.474733,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 493,
+      "ime": "Черна Гора",
+      "shirina": 42.220529,
+      "dalzhina": 25.227228,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 494,
+      "ime": "Черна Места",
+      "shirina": 42.049566,
+      "dalzhina": 23.727612,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 495,
+      "ime": "Чернево",
+      "shirina": 43.286343,
+      "dalzhina": 27.595818,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 496,
+      "ime": "Черниче",
+      "shirina": 41.860101,
+      "dalzhina": 23.128854,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 497,
+      "ime": "Черноземен",
+      "shirina": 42.380253,
+      "dalzhina": 24.776834,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 498,
+      "ime": "Честово Сп.",
+      "shirina": 43.141018,
+      "dalzhina": 25.718797,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 499,
+      "ime": "Чешнегирово",
+      "shirina": 42.132507,
+      "dalzhina": 24.975255,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 500,
+      "ime": "Чирпан",
+      "shirina": 42.20347,
+      "dalzhina": 25.339553,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 501,
+      "ime": "Широко поле",
+      "shirina": 41.637389,
+      "dalzhina": 25.467777,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 502,
+      "ime": "Шишковци",
+      "shirina": 42.351279,
+      "dalzhina": 22.717838,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 503,
+      "ime": "Шумен",
+      "shirina": 43.271628,
+      "dalzhina": 26.943762,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 504,
+      "ime": "Ягода",
+      "shirina": 42.54085,
+      "dalzhina": 25.538861,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 505,
+      "ime": "Ямбол",
+      "shirina": 42.495685,
+      "dalzhina": 26.490973,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 506,
+      "ime": "Яна",
+      "shirina": 42.726234,
+      "dalzhina": 23.551331,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 507,
+      "ime": "Янтра",
+      "shirina": 43.207022,
+      "dalzhina": 25.665655,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 508,
+      "ime": "Ясеновец",
+      "shirina": 43.549081,
+      "dalzhina": 26.633187,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 509,
+      "ime": "Ястребово",
+      "shirina": 43.747841,
+      "dalzhina": 26.125379,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 510,
+      "ime": "Яхиново",
+      "shirina": 42.287572,
+      "dalzhina": 23.128871,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 511,
+      "ime": "бул. Цар Борис III / Красно село",
+      "shirina": 42.679086,
+      "dalzhina": 23.284351,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 512,
+      "ime": "гара Бояново",
+      "shirina": 42.260806,
+      "dalzhina": 26.598226,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 513,
+      "ime": "ж.п гара Кермен",
+      "shirina": 42.498094,
+      "dalzhina": 26.263681,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 514,
+      "ime": "ж.п. гара Коньово",
+      "shirina": 42.514503,
+      "dalzhina": 26.155618,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 515,
+      "ime": "ж.п. гара Хитрино",
+      "shirina": 43.426089,
+      "dalzhina": 26.909187,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 516,
+      "ime": "ж.п.гара Шивачево",
+      "shirina": 42.680063,
+      "dalzhina": 26.026891,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 517,
+      "ime": "жп гара Ветрен",
+      "shirina": 42.615804,
+      "dalzhina": 25.689895,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 518,
+      "ime": "жп гара Николаево",
+      "shirina": 42.632202,
+      "dalzhina": 25.783228,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 519,
+      "ime": "жп.спирка Стоил Воивода",
+      "shirina": 42.467413,
+      "dalzhina": 25.937926,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 520,
+      "ime": "скивлек Рилски езера",
+      "shirina": 42.222583,
+      "dalzhina": 23.322735,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 521,
+      "ime": "сп. Виница",
+      "shirina": 42.126238,
+      "dalzhina": 25.137864,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 522,
+      "ime": "сп. Макоцево",
+      "shirina": 42.689808,
+      "dalzhina": 23.820904,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 523,
+      "ime": "сп. Ябълково",
+      "shirina": 42.076895,
+      "dalzhina": 25.44563,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 524,
+      "ime": "сп. Ягодово",
+      "shirina": 42.100064,
+      "dalzhina": 24.846667,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 525,
+      "ime": "спирка Горна баня - метростанция",
+      "shirina": 42.681847,
+      "dalzhina": 23.240573,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 526,
+      "ime": "спирка Климаш",
+      "shirina": 42.778583,
+      "dalzhina": 26.906702,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 527,
+      "ime": "спирка Макоцево",
+      "shirina": 42.689838,
+      "dalzhina": 23.82094,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    },
+    {
+      "id": 528,
+      "ime": "станция до х.Гоце Делчев",
+      "shirina": 41.758883,
+      "dalzhina": 23.545525,
+      "osm_klyuch": "public_transport",
+      "osm_stoynost": "station",
+      "osm_klas": "public_transport=station"
+    }
+  ],
+  "meta": {
+    "title": "Транспортни станции в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Транспортни станции в България — 528 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `public_transport=station`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 528 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Транспортни станции в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Транспортни станции в България (OpenStreetMap) — 528 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 528 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

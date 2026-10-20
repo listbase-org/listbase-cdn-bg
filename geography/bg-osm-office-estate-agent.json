@@ -1,0 +1,1789 @@
+{
+  "id": "bg-osm-office-estate-agent",
+  "name": "Агенции за недвижими имоти в България (OpenStreetMap)",
+  "title": "Агенции за недвижими имоти в България (OpenStreetMap)",
+  "description": "Агенции за недвижими имоти в България — 192 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `office=estate_agent`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 192,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "ARCO",
+      "shirina": 42.659316,
+      "dalzhina": 23.316102,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 2,
+      "ime": "Alexander Services",
+      "shirina": 41.840645,
+      "dalzhina": 23.483851,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 3,
+      "ime": "Answer Properties",
+      "shirina": 42.675604,
+      "dalzhina": 23.318811,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 4,
+      "ime": "Arco Real Estate",
+      "shirina": 42.691672,
+      "dalzhina": 23.309896,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 5,
+      "ime": "Ares Estate Investment Center",
+      "shirina": 42.713007,
+      "dalzhina": 27.7517,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 6,
+      "ime": "Asset insurance",
+      "shirina": 42.658257,
+      "dalzhina": 23.339812,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 7,
+      "ime": "Assist property",
+      "shirina": 42.698883,
+      "dalzhina": 23.310878,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 8,
+      "ime": "Avenda",
+      "shirina": 42.650964,
+      "dalzhina": 23.33943,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 9,
+      "ime": "Bansko Realty",
+      "shirina": 41.830911,
+      "dalzhina": 23.481455,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 10,
+      "ime": "Barnes",
+      "shirina": 42.658514,
+      "dalzhina": 23.3167,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 11,
+      "ime": "Beso homes",
+      "shirina": 42.668158,
+      "dalzhina": 23.279313,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 12,
+      "ime": "Best Estates",
+      "shirina": 42.664886,
+      "dalzhina": 23.282729,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 13,
+      "ime": "Black Sea Capital Center",
+      "shirina": 43.199698,
+      "dalzhina": 27.913363,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 14,
+      "ime": "BolgariaDom",
+      "shirina": 42.697851,
+      "dalzhina": 27.708597,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 15,
+      "ime": "Building Box",
+      "shirina": 42.702656,
+      "dalzhina": 23.314424,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 16,
+      "ime": "Buildingbox.BG",
+      "shirina": 42.669956,
+      "dalzhina": 23.29007,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 17,
+      "ime": "BulFra",
+      "shirina": 42.668388,
+      "dalzhina": 23.311829,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 18,
+      "ime": "Bulgarian Homes",
+      "shirina": 42.690278,
+      "dalzhina": 23.320266,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 19,
+      "ime": "Bulgarian properties",
+      "shirina": 42.667486,
+      "dalzhina": 23.276537,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 20,
+      "ime": "CLASSIC Estates",
+      "shirina": 42.710378,
+      "dalzhina": 27.76297,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 21,
+      "ime": "Contract City",
+      "shirina": 42.703118,
+      "dalzhina": 23.330319,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 22,
+      "ime": "DOT.WON",
+      "shirina": 42.655244,
+      "dalzhina": 23.340472,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 23,
+      "ime": "Deluxe properties",
+      "shirina": 42.672613,
+      "dalzhina": 23.30997,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 24,
+      "ime": "Divino estates",
+      "shirina": 42.701538,
+      "dalzhina": 23.329158,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 25,
+      "ime": "Eco Real Estate",
+      "shirina": 42.694513,
+      "dalzhina": 27.709567,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 26,
+      "ime": "Emblema",
+      "shirina": 42.68703,
+      "dalzhina": 23.264805,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 27,
+      "ime": "Era",
+      "shirina": 42.643119,
+      "dalzhina": 23.336631,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 28,
+      "ime": "Era",
+      "shirina": 42.679792,
+      "dalzhina": 23.300693,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 29,
+      "ime": "Era",
+      "shirina": 42.680195,
+      "dalzhina": 23.321967,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 30,
+      "ime": "Era",
+      "shirina": 42.685663,
+      "dalzhina": 23.298317,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 31,
+      "ime": "Era",
+      "shirina": 42.718683,
+      "dalzhina": 23.258589,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 32,
+      "ime": "Era",
+      "shirina": 43.212994,
+      "dalzhina": 27.925158,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 33,
+      "ime": "Eternal Estates",
+      "shirina": 42.679374,
+      "dalzhina": 23.325436,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 34,
+      "ime": "Galardo",
+      "shirina": 42.694977,
+      "dalzhina": 23.329045,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 35,
+      "ime": "Galardo real estate",
+      "shirina": 42.68553,
+      "dalzhina": 23.316845,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 36,
+      "ime": "Galaxy real estate",
+      "shirina": 42.703476,
+      "dalzhina": 23.324634,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 37,
+      "ime": "Galiano Estates",
+      "shirina": 42.694951,
+      "dalzhina": 23.316654,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 38,
+      "ime": "Global Services",
+      "shirina": 42.684869,
+      "dalzhina": 23.297698,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 39,
+      "ime": "Gold Estate",
+      "shirina": 42.678055,
+      "dalzhina": 23.291387,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 40,
+      "ime": "GrekoDom",
+      "shirina": 42.700412,
+      "dalzhina": 23.308457,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 41,
+      "ime": "HB Consult",
+      "shirina": 42.667778,
+      "dalzhina": 23.277752,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 42,
+      "ime": "Harmony Suite",
+      "shirina": 42.706023,
+      "dalzhina": 27.714493,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 43,
+      "ime": "Home 2 U",
+      "shirina": 42.700319,
+      "dalzhina": 23.315868,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 44,
+      "ime": "Homes Direct",
+      "shirina": 43.08153,
+      "dalzhina": 25.634458,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 45,
+      "ime": "Homes Direct Агенция за недвижими имоти",
+      "shirina": 43.081518,
+      "dalzhina": 25.634514,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 46,
+      "ime": "Houzes",
+      "shirina": 42.672585,
+      "dalzhina": 23.310531,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 47,
+      "ime": "Hus Estate",
+      "shirina": 42.659346,
+      "dalzhina": 23.327115,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 48,
+      "ime": "IGV",
+      "shirina": 42.672641,
+      "dalzhina": 23.274663,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 49,
+      "ime": "Idea home",
+      "shirina": 42.668113,
+      "dalzhina": 23.277303,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 50,
+      "ime": "ImotiMontana",
+      "shirina": 43.409318,
+      "dalzhina": 23.221328,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 51,
+      "ime": "Innove",
+      "shirina": 42.704192,
+      "dalzhina": 23.314623,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 52,
+      "ime": "Ivel Realty",
+      "shirina": 41.841077,
+      "dalzhina": 23.483778,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 53,
+      "ime": "JJ Corporation",
+      "shirina": 42.688709,
+      "dalzhina": 23.317659,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 54,
+      "ime": "Joy",
+      "shirina": 42.6704,
+      "dalzhina": 23.317646,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 55,
+      "ime": "Kalos Estates",
+      "shirina": 42.653478,
+      "dalzhina": 23.312923,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 56,
+      "ime": "Kamenova Real Estate Agency Vidin",
+      "shirina": 43.985653,
+      "dalzhina": 22.876142,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 57,
+      "ime": "Land bg",
+      "shirina": 42.679887,
+      "dalzhina": 23.330604,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 58,
+      "ime": "Legal real estates",
+      "shirina": 42.670937,
+      "dalzhina": 23.297121,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 59,
+      "ime": "Lion's Group",
+      "shirina": 42.671416,
+      "dalzhina": 23.295508,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 60,
+      "ime": "Lions Group",
+      "shirina": 43.223588,
+      "dalzhina": 27.925278,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 61,
+      "ime": "Lucky Beach Недвижими имоти",
+      "shirina": 42.412074,
+      "dalzhina": 27.699666,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 62,
+      "ime": "Luximmo",
+      "shirina": 42.670068,
+      "dalzhina": 23.328725,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 63,
+      "ime": "Luxury Investment",
+      "shirina": 42.670654,
+      "dalzhina": 23.316475,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 64,
+      "ime": "M estate",
+      "shirina": 42.698951,
+      "dalzhina": 23.329604,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 65,
+      "ime": "MD homes",
+      "shirina": 42.705979,
+      "dalzhina": 23.322127,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 66,
+      "ime": "Magma real estate",
+      "shirina": 42.664792,
+      "dalzhina": 23.284287,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 67,
+      "ime": "Makasa consulting",
+      "shirina": 42.669846,
+      "dalzhina": 23.288671,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 68,
+      "ime": "Manaso",
+      "shirina": 42.702292,
+      "dalzhina": 23.331136,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 69,
+      "ime": "Marvel Delux",
+      "shirina": 42.706328,
+      "dalzhina": 27.716024,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 70,
+      "ime": "Masis Residence",
+      "shirina": 42.656495,
+      "dalzhina": 23.321214,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 71,
+      "ime": "Mirador real estate",
+      "shirina": 42.676308,
+      "dalzhina": 23.289166,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 72,
+      "ime": "MyBGAgent",
+      "shirina": 43.217696,
+      "dalzhina": 27.939463,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 73,
+      "ime": "New Estates",
+      "shirina": 42.688203,
+      "dalzhina": 23.32579,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 74,
+      "ime": "New Home Bulgaria",
+      "shirina": 42.670677,
+      "dalzhina": 23.321043,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 75,
+      "ime": "Orvitex",
+      "shirina": 42.684483,
+      "dalzhina": 23.323901,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 76,
+      "ime": "PlusPropertyBG.com",
+      "shirina": 41.835134,
+      "dalzhina": 23.486116,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 77,
+      "ime": "Premier Realty Master",
+      "shirina": 42.500598,
+      "dalzhina": 27.480196,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 78,
+      "ime": "Premier Realty Master - Недвижимость в Болгарии",
+      "shirina": 42.696864,
+      "dalzhina": 27.711557,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 79,
+      "ime": "Premierhomes",
+      "shirina": 42.71124,
+      "dalzhina": 27.764904,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 80,
+      "ime": "Pro estate company",
+      "shirina": 42.706578,
+      "dalzhina": 23.316995,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 81,
+      "ime": "Property. Bg",
+      "shirina": 43.081637,
+      "dalzhina": 25.644635,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 82,
+      "ime": "R Residence",
+      "shirina": 42.70648,
+      "dalzhina": 23.302184,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 83,
+      "ime": "RE/MAX",
+      "shirina": 42.657802,
+      "dalzhina": 23.314058,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 84,
+      "ime": "RE/MAX",
+      "shirina": 42.667854,
+      "dalzhina": 23.277442,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 85,
+      "ime": "RE/MAX",
+      "shirina": 42.672784,
+      "dalzhina": 23.352884,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 86,
+      "ime": "RE/MAX",
+      "shirina": 42.684374,
+      "dalzhina": 23.316307,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 87,
+      "ime": "RE/MAX Family",
+      "shirina": 43.23378,
+      "dalzhina": 27.879555,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 88,
+      "ime": "RE/MAX Ideal",
+      "shirina": 43.203055,
+      "dalzhina": 27.919684,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 89,
+      "ime": "Real Home",
+      "shirina": 42.658143,
+      "dalzhina": 23.33987,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 90,
+      "ime": "Realty Bulgaria",
+      "shirina": 42.653152,
+      "dalzhina": 27.705219,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 91,
+      "ime": "Remax",
+      "shirina": 42.669135,
+      "dalzhina": 23.35385,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 92,
+      "ime": "Residential Park Plovdiv",
+      "shirina": 42.133827,
+      "dalzhina": 24.787292,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 93,
+      "ime": "Reya International",
+      "shirina": 42.677162,
+      "dalzhina": 23.311882,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 94,
+      "ime": "SProperties",
+      "shirina": 43.221194,
+      "dalzhina": 27.92545,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 95,
+      "ime": "SS estate group",
+      "shirina": 42.658334,
+      "dalzhina": 23.282398,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 96,
+      "ime": "Sherlock Homes",
+      "shirina": 42.674582,
+      "dalzhina": 27.704071,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 97,
+      "ime": "Sofia In",
+      "shirina": 42.698825,
+      "dalzhina": 23.329624,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 98,
+      "ime": "Sofia estates",
+      "shirina": 42.668917,
+      "dalzhina": 23.284356,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 99,
+      "ime": "Sotheby's International Realty",
+      "shirina": 42.696843,
+      "dalzhina": 23.330424,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 100,
+      "ime": "Step2Home",
+      "shirina": 42.668664,
+      "dalzhina": 23.269145,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 101,
+      "ime": "Stroyinvest Group",
+      "shirina": 42.711004,
+      "dalzhina": 27.753278,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 102,
+      "ime": "Synergy",
+      "shirina": 42.630039,
+      "dalzhina": 23.333093,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 103,
+      "ime": "T. I. Home",
+      "shirina": 42.650021,
+      "dalzhina": 23.340121,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 104,
+      "ime": "Titan Properties Mladost",
+      "shirina": 42.645984,
+      "dalzhina": 23.37651,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 105,
+      "ime": "Trust Broker Solutions",
+      "shirina": 42.678256,
+      "dalzhina": 23.326315,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 106,
+      "ime": "UMG Consult",
+      "shirina": 42.671894,
+      "dalzhina": 23.281196,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 107,
+      "ime": "Unique Estates",
+      "shirina": 42.694658,
+      "dalzhina": 23.341109,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 108,
+      "ime": "Universi",
+      "shirina": 42.678232,
+      "dalzhina": 23.32741,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 109,
+      "ime": "Urban homes",
+      "shirina": 42.667506,
+      "dalzhina": 23.29227,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 110,
+      "ime": "VBGroup",
+      "shirina": 42.60273,
+      "dalzhina": 23.113481,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 111,
+      "ime": "Vaklin",
+      "shirina": 42.684851,
+      "dalzhina": 23.274762,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 112,
+      "ime": "Versal Estate",
+      "shirina": 42.656311,
+      "dalzhina": 23.344003,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 113,
+      "ime": "Vitosha Art",
+      "shirina": 42.662757,
+      "dalzhina": 23.31738,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 114,
+      "ime": "Xtra homes",
+      "shirina": 42.658231,
+      "dalzhina": 23.339823,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 115,
+      "ime": "Августа",
+      "shirina": 42.128681,
+      "dalzhina": 24.743425,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 116,
+      "ime": "Агенция Нова",
+      "shirina": 42.669714,
+      "dalzhina": 23.301917,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 117,
+      "ime": "Агенция за недвижими имоти Real Property Bg",
+      "shirina": 42.60948,
+      "dalzhina": 23.099869,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 118,
+      "ime": "Адрес",
+      "shirina": 41.934454,
+      "dalzhina": 25.555559,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 119,
+      "ime": "Адрес",
+      "shirina": 42.680608,
+      "dalzhina": 23.301799,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 120,
+      "ime": "Адрес",
+      "shirina": 43.409499,
+      "dalzhina": 24.619419,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 121,
+      "ime": "Айко",
+      "shirina": 42.701142,
+      "dalzhina": 23.326479,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 122,
+      "ime": "Алдес",
+      "shirina": 42.690994,
+      "dalzhina": 23.331342,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 123,
+      "ime": "Алис-С",
+      "shirina": 42.707918,
+      "dalzhina": 23.309023,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 124,
+      "ime": "Амрита",
+      "shirina": 42.669818,
+      "dalzhina": 23.316749,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 125,
+      "ime": "Аргос",
+      "shirina": 43.20278,
+      "dalzhina": 27.920887,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 126,
+      "ime": "Ария Консулт",
+      "shirina": 42.707662,
+      "dalzhina": 23.308418,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 127,
+      "ime": "Асенов",
+      "shirina": 42.693307,
+      "dalzhina": 23.354329,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 128,
+      "ime": "Брикс",
+      "shirina": 42.672672,
+      "dalzhina": 23.310725,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 129,
+      "ime": "Валер",
+      "shirina": 42.674973,
+      "dalzhina": 23.360553,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 130,
+      "ime": "Гринато пропъртис",
+      "shirina": 42.692861,
+      "dalzhina": 23.343723,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 131,
+      "ime": "Дъ Хоум",
+      "shirina": 43.213473,
+      "dalzhina": 27.900874,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 132,
+      "ime": "ЕКИП",
+      "shirina": 42.6899,
+      "dalzhina": 23.31377,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 133,
+      "ime": "ЕППИ",
+      "shirina": 42.689597,
+      "dalzhina": 23.309323,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 134,
+      "ime": "Евродом",
+      "shirina": 42.42841,
+      "dalzhina": 25.6267,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 135,
+      "ime": "Евроимот ЕООД",
+      "shirina": 42.67809,
+      "dalzhina": 23.361934,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 136,
+      "ime": "Евтимов Груп ЕООД",
+      "shirina": 42.883106,
+      "dalzhina": 24.709934,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 137,
+      "ime": "Екип САРТ",
+      "shirina": 43.205302,
+      "dalzhina": 27.914382,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 138,
+      "ime": "Екоимоти",
+      "shirina": 42.688847,
+      "dalzhina": 23.312804,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 139,
+      "ime": "Експерс",
+      "shirina": 42.138397,
+      "dalzhina": 24.7523,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 140,
+      "ime": "Електрик имоти",
+      "shirina": 42.671537,
+      "dalzhina": 23.296738,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 141,
+      "ime": "Ем Джи Хоумс",
+      "shirina": 42.70038,
+      "dalzhina": 23.301615,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 142,
+      "ime": "Ера",
+      "shirina": 43.209554,
+      "dalzhina": 27.910262,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 143,
+      "ime": "Ера",
+      "shirina": 43.220484,
+      "dalzhina": 27.934728,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 144,
+      "ime": "Естелла",
+      "shirina": 42.690543,
+      "dalzhina": 23.313583,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 145,
+      "ime": "Заедно с доверие",
+      "shirina": 42.728638,
+      "dalzhina": 23.259034,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 146,
+      "ime": "Имотека",
+      "shirina": 42.140587,
+      "dalzhina": 24.752077,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 147,
+      "ime": "Имотека",
+      "shirina": 42.677999,
+      "dalzhina": 23.286236,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 148,
+      "ime": "Имотека",
+      "shirina": 42.696691,
+      "dalzhina": 23.320516,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 149,
+      "ime": "К-консулт",
+      "shirina": 42.670984,
+      "dalzhina": 23.295276,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 150,
+      "ime": "Каменова - Агенция за недвижими имоти Видин",
+      "shirina": 43.985681,
+      "dalzhina": 22.876288,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 151,
+      "ime": "Каскадас",
+      "shirina": 42.704244,
+      "dalzhina": 27.711468,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 152,
+      "ime": "Кима",
+      "shirina": 42.684696,
+      "dalzhina": 23.324542,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 153,
+      "ime": "Куртев",
+      "shirina": 43.20608,
+      "dalzhina": 27.914617,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 154,
+      "ime": "Лидер",
+      "shirina": 43.203511,
+      "dalzhina": 27.918666,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 155,
+      "ime": "МП Имоти груп",
+      "shirina": 42.137707,
+      "dalzhina": 24.744313,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 156,
+      "ime": "Маймун Дере",
+      "shirina": 42.962391,
+      "dalzhina": 23.342668,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 157,
+      "ime": "Малинова",
+      "shirina": 42.700032,
+      "dalzhina": 23.320548,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 158,
+      "ime": "Марково уест",
+      "shirina": 42.140118,
+      "dalzhina": 24.751228,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 159,
+      "ime": "Мартан",
+      "shirina": 42.664879,
+      "dalzhina": 23.283636,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 160,
+      "ime": "Мимоти",
+      "shirina": 42.669884,
+      "dalzhina": 23.303523,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 161,
+      "ime": "Мирела",
+      "shirina": 42.686198,
+      "dalzhina": 23.321519,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 162,
+      "ime": "Мирела",
+      "shirina": 42.689163,
+      "dalzhina": 23.339897,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 163,
+      "ime": "Мирела",
+      "shirina": 42.689656,
+      "dalzhina": 23.314226,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 164,
+      "ime": "Национална компания \"Индустриални зони\"",
+      "shirina": 42.748316,
+      "dalzhina": 23.209233,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 165,
+      "ime": "Недвижими имоти Fantasy",
+      "shirina": 43.213022,
+      "dalzhina": 27.918767,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 166,
+      "ime": "Недвижими имоти Цитадела",
+      "shirina": 43.122497,
+      "dalzhina": 25.692369,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 167,
+      "ime": "Некст–РЕ",
+      "shirina": 42.683681,
+      "dalzhina": 23.330058,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 168,
+      "ime": "Нов дом",
+      "shirina": 42.671259,
+      "dalzhina": 23.294803,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 169,
+      "ime": "Огнянова консилт",
+      "shirina": 42.739566,
+      "dalzhina": 23.274135,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 170,
+      "ime": "Олимпия имоти",
+      "shirina": 42.138078,
+      "dalzhina": 24.785864,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 171,
+      "ime": "ПОЛЮСИ 94",
+      "shirina": 42.688758,
+      "dalzhina": 23.314571,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 172,
+      "ime": "Позитив имоти",
+      "shirina": 42.673744,
+      "dalzhina": 23.291447,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 173,
+      "ime": "Полюси",
+      "shirina": 42.695325,
+      "dalzhina": 23.341962,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 174,
+      "ime": "Продажбата на недвижими имоти Болгарски Бряг ООД",
+      "shirina": 42.65947,
+      "dalzhina": 27.719206,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 175,
+      "ime": "Просперити",
+      "shirina": 42.689764,
+      "dalzhina": 23.250574,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 176,
+      "ime": "Радуга Плюс",
+      "shirina": 42.491377,
+      "dalzhina": 27.473016,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 177,
+      "ime": "Радуга Плюс",
+      "shirina": 42.696656,
+      "dalzhina": 27.711363,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 178,
+      "ime": "Санди",
+      "shirina": 42.707133,
+      "dalzhina": 23.328432,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 179,
+      "ime": "Се Ай Груп",
+      "shirina": 42.431312,
+      "dalzhina": 25.643182,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 180,
+      "ime": "Смени адреса",
+      "shirina": 43.22878,
+      "dalzhina": 27.873156,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 181,
+      "ime": "Софи център",
+      "shirina": 42.697352,
+      "dalzhina": 23.316557,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 182,
+      "ime": "Сторно",
+      "shirina": 42.686957,
+      "dalzhina": 23.326473,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 183,
+      "ime": "Сървесис груп",
+      "shirina": 42.670758,
+      "dalzhina": 23.296426,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 184,
+      "ime": "ТЕС Екострой",
+      "shirina": 42.623669,
+      "dalzhina": 23.380602,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 185,
+      "ime": "Триумф консулт",
+      "shirina": 42.670759,
+      "dalzhina": 23.296291,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 186,
+      "ime": "Южен парк",
+      "shirina": 42.660109,
+      "dalzhina": 23.313512,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 187,
+      "ime": "Явлена",
+      "shirina": 42.67058,
+      "dalzhina": 23.320711,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 188,
+      "ime": "Явлена",
+      "shirina": 42.674202,
+      "dalzhina": 23.360016,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 189,
+      "ime": "Явлена",
+      "shirina": 42.685831,
+      "dalzhina": 23.297279,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 190,
+      "ime": "Явлена",
+      "shirina": 42.686074,
+      "dalzhina": 23.350614,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 191,
+      "ime": "Явлена",
+      "shirina": 42.688315,
+      "dalzhina": 23.333153,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    },
+    {
+      "id": 192,
+      "ime": "Явлена",
+      "shirina": 43.208088,
+      "dalzhina": 27.918927,
+      "osm_klyuch": "office",
+      "osm_stoynost": "estate_agent",
+      "osm_klas": "office=estate_agent"
+    }
+  ],
+  "meta": {
+    "title": "Агенции за недвижими имоти в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Агенции за недвижими имоти в България — 192 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `office=estate_agent`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 192 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Агенции за недвижими имоти в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Агенции за недвижими имоти в България (OpenStreetMap) — 192 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 192 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

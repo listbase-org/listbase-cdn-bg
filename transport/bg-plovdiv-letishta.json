@@ -1,0 +1,220 @@
+{
+  "id": "bg-plovdiv-letishta",
+  "name": "Летища — област Пловдив",
+  "title": "Летища — област Пловдив",
+  "description": "Списък на летищата в „област Пловдив“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Plovdiv Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_source",
+      "label": "Oblast Source",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LB11",
+      "iata": "",
+      "name": "Tsalapita Airport",
+      "name_slug": "tsalapita-airport",
+      "city": "Tsalapita",
+      "oblast": "област Пловдив",
+      "oblast_source": "Plovdiv",
+      "oblast_slug": "plovdiv",
+      "oblast_en": "Plovdiv Province",
+      "country": "BG",
+      "elevation_ft": 630,
+      "lat": 42.1876983643,
+      "lon": 24.5349006653,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LB30",
+      "iata": "",
+      "name": "Stryama Airport",
+      "name_slug": "stryama-airport",
+      "city": "Stryama",
+      "oblast": "област Пловдив",
+      "oblast_source": "Plovdiv",
+      "oblast_slug": "plovdiv",
+      "oblast_en": "Plovdiv Province",
+      "country": "BG",
+      "elevation_ft": 560,
+      "lat": 42.2853012085,
+      "lon": 24.8684997559,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LB32",
+      "iata": "",
+      "name": "Konush Airport",
+      "name_slug": "konush-airport",
+      "city": "Konush",
+      "oblast": "област Пловдив",
+      "oblast_source": "Plovdiv",
+      "oblast_slug": "plovdiv",
+      "oblast_en": "Plovdiv Province",
+      "country": "BG",
+      "elevation_ft": 500,
+      "lat": 42.0723991394,
+      "lon": 25.0533008575,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LB39",
+      "iata": "",
+      "name": "Graf Ignatievo South Airport",
+      "name_slug": "graf-ignatievo-south-airport",
+      "city": "Graf Ignatievo",
+      "oblast": "област Пловдив",
+      "oblast_source": "Plovdiv",
+      "oblast_slug": "plovdiv",
+      "oblast_en": "Plovdiv Province",
+      "country": "BG",
+      "elevation_ft": 623,
+      "lat": 42.2631988525,
+      "lon": 24.7192993164,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LBPD",
+      "iata": "PDV",
+      "name": "Plovdiv International Airport",
+      "name_slug": "plovdiv-international-airport",
+      "city": "Plovdiv",
+      "oblast": "област Пловдив",
+      "oblast_source": "Plovdiv",
+      "oblast_slug": "plovdiv",
+      "oblast_en": "Plovdiv Province",
+      "country": "BG",
+      "elevation_ft": 597,
+      "lat": 42.0677986145,
+      "lon": 24.8507995605,
+      "timezone": "Europe/Sofia",
+      "has_iata": true
+    },
+    {
+      "icao": "LBPG",
+      "iata": "",
+      "name": "Graf Ignatievo Air Base",
+      "name_slug": "graf-ignatievo-air-base",
+      "city": "Graf Ignatievo",
+      "oblast": "област Пловдив",
+      "oblast_source": "Plovdiv",
+      "oblast_slug": "plovdiv",
+      "oblast_en": "Plovdiv Province",
+      "country": "BG",
+      "elevation_ft": 190,
+      "lat": 42.2904014587,
+      "lon": 24.7140007019,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LBST",
+      "iata": "",
+      "name": "Stryama Airport",
+      "name_slug": "stryama-airport",
+      "city": "Stryama",
+      "oblast": "област Пловдив",
+      "oblast_source": "Plovdiv",
+      "oblast_slug": "plovdiv",
+      "oblast_en": "Plovdiv Province",
+      "country": "BG",
+      "elevation_ft": 916,
+      "lat": 42.5402793884,
+      "lon": 24.8252220154,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Летища — област Пловдив - Безплатно изтегляне",
+    "description": "Списък на летищата в „област Пловдив“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Plovdiv Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Летища — област Пловдив | ListBase",
+    "seo_description": "Изтеглете Летища — област Пловдив — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: https://github.com/mwgg/Airports"
+    ]
+  }
+}

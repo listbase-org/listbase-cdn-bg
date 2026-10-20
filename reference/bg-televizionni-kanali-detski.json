@@ -1,0 +1,211 @@
+{
+  "id": "bg-televizionni-kanali-detski",
+  "name": "Български телевизионни канали — детски",
+  "title": "Български телевизионни канали — детски",
+  "description": "Български телевизионни канали в категория 'kids' (детски) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "DisneyChannel.bg",
+      "name": "Disney Channel",
+      "alt_names": "",
+      "network": "",
+      "owners": "Disney Entertainment",
+      "country": "BG",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2009-09-19",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv.disney.bg/"
+    },
+    {
+      "id": 2,
+      "channel_id": "DisneyJunior.bg",
+      "name": "Disney Junior",
+      "alt_names": "",
+      "network": "",
+      "owners": "Disney International Operations",
+      "country": "BG",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2009-09-19",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv.disney.bg/whats-on/disney-junior"
+    },
+    {
+      "id": 3,
+      "channel_id": "EKids.bg",
+      "name": "EKids",
+      "alt_names": "",
+      "network": "",
+      "owners": "Evrokom",
+      "country": "BG",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.ekids.bg/"
+    },
+    {
+      "id": 4,
+      "channel_id": "NickJr.bg",
+      "name": "Nick Jr.",
+      "alt_names": "",
+      "network": "Nickelodeon",
+      "owners": "",
+      "country": "BG",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nickjr.com/"
+    },
+    {
+      "id": 5,
+      "channel_id": "Nickelodeon.bg",
+      "name": "Nickelodeon",
+      "alt_names": "",
+      "network": "Nickelodeon",
+      "owners": "Paramount Networks EMEAA",
+      "country": "BG",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "1998-11-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nick.bg/"
+    },
+    {
+      "id": 6,
+      "channel_id": "Nicktoons.bg",
+      "name": "Nicktoons",
+      "alt_names": "",
+      "network": "Nickelodeon",
+      "owners": "Paramount Global",
+      "country": "BG",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "2018-02-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://nicktoons.bg/"
+    },
+    {
+      "id": 7,
+      "channel_id": "RING.bg",
+      "name": "RING",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.btv.bg/ring/"
+    },
+    {
+      "id": 8,
+      "channel_id": "SuperToons.bg",
+      "name": "Super Toons",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "kids",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://supertoons.bg/"
+    }
+  ],
+  "meta": {
+    "title": "Български телевизионни канали — детски - Безплатно изтегляне",
+    "description": "Български телевизионни канали в категория 'kids' (детски) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт. Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Български телевизионни канали — детски | ListBase",
+    "seo_description": "Изтеглете Български телевизионни канали — детски — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 13 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

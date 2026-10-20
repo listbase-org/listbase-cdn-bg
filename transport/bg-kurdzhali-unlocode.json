@@ -1,0 +1,268 @@
+{
+  "id": "bg-kurdzhali-unlocode",
+  "name": "UN/LOCODE — област Кърджали (UN/LOCODE locations in Kardzhali Province)",
+  "title": "UN/LOCODE — област Кърджали (UN/LOCODE locations in Kardzhali Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Кърджали (Kardzhali), 4 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-09). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Kardzhali Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 55,
+      "locode": "BGDBL",
+      "country": "BG",
+      "location": "DBL",
+      "name": "Dzhebel",
+      "name_wo_diacritics": "Dzhebel",
+      "subdivision_code": "09",
+      "subdivision_name": "Kardzhali",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4130N 02518E",
+      "latitude": 41.5,
+      "longitude": 25.3,
+      "date_updated": "2022-07",
+      "remarks": "",
+      "oblast_code": "KRZ",
+      "oblast_name": "Кърджали",
+      "oblast_name_latin": "Kardzhali",
+      "oblast_slug": "kurdzhali",
+      "oblast_ekatte": "40909",
+      "nuts_region": "BG42"
+    },
+    {
+      "id": 2,
+      "parent_index": 92,
+      "locode": "BGGRU",
+      "country": "BG",
+      "location": "GRU",
+      "name": "Gruevo",
+      "name_wo_diacritics": "Gruevo",
+      "subdivision_code": "09",
+      "subdivision_name": "Kardzhali",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4134N 02525E",
+      "latitude": 41.5667,
+      "longitude": 25.4167,
+      "date_updated": "2020-01",
+      "remarks": "",
+      "oblast_code": "KRZ",
+      "oblast_name": "Кърджали",
+      "oblast_name_latin": "Kardzhali",
+      "oblast_slug": "kurdzhali",
+      "oblast_ekatte": "40909",
+      "nuts_region": "BG42"
+    },
+    {
+      "id": 3,
+      "parent_index": 133,
+      "locode": "BGKRU",
+      "country": "BG",
+      "location": "KRU",
+      "name": "Krumovgrad",
+      "name_wo_diacritics": "Krumovgrad",
+      "subdivision_code": "09",
+      "subdivision_name": "Kardzhali",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4128N 02539E",
+      "latitude": 41.4667,
+      "longitude": 25.65,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "oblast_code": "KRZ",
+      "oblast_name": "Кърджали",
+      "oblast_name_latin": "Kardzhali",
+      "oblast_slug": "kurdzhali",
+      "oblast_ekatte": "40909",
+      "nuts_region": "BG42"
+    },
+    {
+      "id": 4,
+      "parent_index": 302,
+      "locode": "BGUST",
+      "country": "BG",
+      "location": "UST",
+      "name": "Ustren",
+      "name_wo_diacritics": "Ustren",
+      "subdivision_code": "09",
+      "subdivision_name": "Kardzhali",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4128N 02514E",
+      "latitude": 41.4667,
+      "longitude": 25.2333,
+      "date_updated": "2022-07",
+      "remarks": "",
+      "oblast_code": "KRZ",
+      "oblast_name": "Кърджали",
+      "oblast_name_latin": "Kardzhali",
+      "oblast_slug": "kurdzhali",
+      "oblast_ekatte": "40909",
+      "nuts_region": "BG42"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Кърджали (UN/LOCODE locations in Kardzhali Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Кърджали (Kardzhali), 4 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-09). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Kardzhali Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Кърджали (UN/LOCODE locations in Kardzhali Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Кърджали (UN/LOCODE locations in Kardzhali Province) — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

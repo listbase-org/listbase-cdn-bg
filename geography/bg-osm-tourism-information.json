@@ -1,0 +1,2680 @@
+{
+  "id": "bg-osm-tourism-information",
+  "name": "Туристически информационни точки в България (OpenStreetMap)",
+  "title": "Туристически информационни точки в България (OpenStreetMap)",
+  "description": "Туристически информационни точки в България — 291 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=information`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 291,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "number"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "150",
+      "shirina": 42.548018,
+      "dalzhina": 23.31726,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 2,
+      "ime": "155",
+      "shirina": 42.548034,
+      "dalzhina": 23.31797,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 3,
+      "ime": "197",
+      "shirina": 42.543007,
+      "dalzhina": 23.33455,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 4,
+      "ime": "197",
+      "shirina": 42.543777,
+      "dalzhina": 23.331762,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 5,
+      "ime": "230",
+      "shirina": 42.541831,
+      "dalzhina": 23.341454,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 6,
+      "ime": "244",
+      "shirina": 42.540881,
+      "dalzhina": 23.347207,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 7,
+      "ime": "Art gallery",
+      "shirina": 42.425159,
+      "dalzhina": 27.699072,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 8,
+      "ime": "Audio Guide Bulgaria",
+      "shirina": 42.148086,
+      "dalzhina": 24.74777,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 9,
+      "ime": "Audio Guide Bulgaria",
+      "shirina": 42.658687,
+      "dalzhina": 27.729659,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 10,
+      "ime": "Belogradchik",
+      "shirina": 43.625259,
+      "dalzhina": 22.685603,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 11,
+      "ime": "Beneta",
+      "shirina": 43.631043,
+      "dalzhina": 22.735471,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 12,
+      "ime": "Borosport",
+      "shirina": 42.265024,
+      "dalzhina": 23.606551,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 13,
+      "ime": "Borovets Trail Map",
+      "shirina": 42.264745,
+      "dalzhina": 23.60714,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 14,
+      "ime": "CERCIS SILIQUASTRUM (ЦЕРЦИС, ДИВ РОЖКОВ",
+      "shirina": 43.207003,
+      "dalzhina": 27.928948,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 15,
+      "ime": "Dunavska ruta",
+      "shirina": 44.155064,
+      "dalzhina": 22.621156,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 16,
+      "ime": "Ecotrail To bozhentsi",
+      "shirina": 42.947067,
+      "dalzhina": 25.430187,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 17,
+      "ime": "Ecotrail to Krushuna",
+      "shirina": 43.225454,
+      "dalzhina": 25.013035,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 18,
+      "ime": "Gelber Biketrail",
+      "shirina": 42.858451,
+      "dalzhina": 27.899832,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 19,
+      "ime": "Hiking map - Begliktash",
+      "shirina": 42.310875,
+      "dalzhina": 27.766207,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 20,
+      "ime": "Hill Side",
+      "shirina": 42.629416,
+      "dalzhina": 23.333472,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 21,
+      "ime": "Hotel 300 m.",
+      "shirina": 43.205691,
+      "dalzhina": 23.567028,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 22,
+      "ime": "Information",
+      "shirina": 42.066982,
+      "dalzhina": 23.33168,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 23,
+      "ime": "Information",
+      "shirina": 42.629568,
+      "dalzhina": 24.360241,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 24,
+      "ime": "Information",
+      "shirina": 42.631386,
+      "dalzhina": 24.358712,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 25,
+      "ime": "Information Centre",
+      "shirina": 42.288446,
+      "dalzhina": 23.257641,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 26,
+      "ime": "Information Map",
+      "shirina": 43.231045,
+      "dalzhina": 28.007192,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 27,
+      "ime": "Information sign",
+      "shirina": 42.045112,
+      "dalzhina": 23.326232,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 28,
+      "ime": "JEEP OWNERS' FOREST",
+      "shirina": 42.58117,
+      "dalzhina": 23.295751,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 29,
+      "ime": "Karting Racetrack",
+      "shirina": 43.205835,
+      "dalzhina": 23.567225,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 30,
+      "ime": "Karting Racetrack Vratsa",
+      "shirina": 43.205702,
+      "dalzhina": 23.567015,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 31,
+      "ime": "Kopriva",
+      "shirina": 42.636992,
+      "dalzhina": 24.359104,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 32,
+      "ime": "Paradise Center",
+      "shirina": 42.657711,
+      "dalzhina": 23.314273,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 33,
+      "ime": "Plaza Tours",
+      "shirina": 43.84926,
+      "dalzhina": 25.95475,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 34,
+      "ime": "RADEFESTATE- RealEstate Agency",
+      "shirina": 42.643517,
+      "dalzhina": 24.807768,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 35,
+      "ime": "Sofia",
+      "shirina": 42.685203,
+      "dalzhina": 23.411793,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 36,
+      "ime": "Sofia",
+      "shirina": 42.687676,
+      "dalzhina": 23.401692,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 37,
+      "ime": "TIR Parking",
+      "shirina": 43.205712,
+      "dalzhina": 23.566991,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 38,
+      "ime": "Tourist Info Center",
+      "shirina": 42.14809,
+      "dalzhina": 24.747802,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 39,
+      "ime": "Tourist information Sofia",
+      "shirina": 42.693169,
+      "dalzhina": 23.334375,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 40,
+      "ime": "Tyre balance",
+      "shirina": 43.205779,
+      "dalzhina": 23.567375,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 41,
+      "ime": "Varna",
+      "shirina": 43.204593,
+      "dalzhina": 27.910532,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 42,
+      "ime": "i център",
+      "shirina": 42.694099,
+      "dalzhina": 23.705645,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 43,
+      "ime": "АЛЕЯ НА ОЛИМПИЙСКИТЕ СПОРТОВЕ ПРОСЛАВИЛИ ВАРНА",
+      "shirina": 43.211505,
+      "dalzhina": 27.942222,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 44,
+      "ime": "АЛПИНЕУМ",
+      "shirina": 43.205525,
+      "dalzhina": 27.925353,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 45,
+      "ime": "АРХЕОЛОГИЧЕСКИ МУЗЕЙ",
+      "shirina": 42.422017,
+      "dalzhina": 27.693531,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 46,
+      "ime": "Аккая",
+      "shirina": 41.843476,
+      "dalzhina": 25.281354,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 47,
+      "ime": "Археологически парк Западна порта на Сердика",
+      "shirina": 42.699164,
+      "dalzhina": 23.319695,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 48,
+      "ime": "БТС",
+      "shirina": 42.690012,
+      "dalzhina": 23.331124,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 49,
+      "ime": "Бакърлъка",
+      "shirina": 42.401117,
+      "dalzhina": 27.603185,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 50,
+      "ime": "Бакърлъка",
+      "shirina": 42.403363,
+      "dalzhina": 27.591873,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 51,
+      "ime": "Банкя",
+      "shirina": 42.706982,
+      "dalzhina": 23.146885,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 52,
+      "ime": "Белите скали",
+      "shirina": 43.108483,
+      "dalzhina": 23.624326,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 53,
+      "ime": "Бигоровата скала",
+      "shirina": 42.70581,
+      "dalzhina": 25.221322,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 54,
+      "ime": "Билети",
+      "shirina": 43.623871,
+      "dalzhina": 22.676488,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 55,
+      "ime": "Билети и информация",
+      "shirina": 43.727704,
+      "dalzhina": 22.582652,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 56,
+      "ime": "Бистрица",
+      "shirina": 42.569021,
+      "dalzhina": 23.342405,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 57,
+      "ime": "Битката при Клокотница (9 март 1230 год.)",
+      "shirina": 41.976768,
+      "dalzhina": 25.494818,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 58,
+      "ime": "Богослужения",
+      "shirina": 42.695517,
+      "dalzhina": 23.34282,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 59,
+      "ime": "Брезите",
+      "shirina": 42.524496,
+      "dalzhina": 23.360522,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 60,
+      "ime": "Бул. Черни връх, бул. Евлоги и Христо Георгиеви",
+      "shirina": 42.682082,
+      "dalzhina": 23.32036,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 61,
+      "ime": "Бургас",
+      "shirina": 42.512228,
+      "dalzhina": 27.464792,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 62,
+      "ime": "Бюро за информация и услуги за чуждестранни граждани",
+      "shirina": 42.703531,
+      "dalzhina": 23.316877,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 63,
+      "ime": "Вазов Дъб",
+      "shirina": 42.7064,
+      "dalzhina": 23.140774,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 64,
+      "ime": "Велосипедни маршрути и трасета в парк Витоша",
+      "shirina": 42.636157,
+      "dalzhina": 23.243458,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 65,
+      "ime": "Вишката",
+      "shirina": 41.524109,
+      "dalzhina": 24.296546,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 66,
+      "ime": "Владая",
+      "shirina": 42.626993,
+      "dalzhina": 23.205078,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 67,
+      "ime": "Водната магия",
+      "shirina": 43.357322,
+      "dalzhina": 22.816682,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 68,
+      "ime": "Глухите камъни",
+      "shirina": 41.732348,
+      "dalzhina": 25.970294,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 69,
+      "ime": "Големия понор",
+      "shirina": 43.242979,
+      "dalzhina": 26.897733,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 70,
+      "ime": "Големият камък",
+      "shirina": 42.207228,
+      "dalzhina": 23.368837,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 71,
+      "ime": "Големият мост",
+      "shirina": 42.215865,
+      "dalzhina": 23.374312,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 72,
+      "ime": "Град Черноморец. РАННОВИЗАНТИЙСКА КРЕПОСТ АКРА",
+      "shirina": 42.457005,
+      "dalzhina": 27.627754,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 73,
+      "ime": "Гранична полоса",
+      "shirina": 41.554362,
+      "dalzhina": 24.308929,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 74,
+      "ime": "Демонстрационен и информационен център",
+      "shirina": 41.871533,
+      "dalzhina": 26.25894,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 75,
+      "ime": "Детска Площадка",
+      "shirina": 42.71301,
+      "dalzhina": 23.263957,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 76,
+      "ime": "Детска Площадка",
+      "shirina": 42.713211,
+      "dalzhina": 23.260352,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 77,
+      "ime": "Детска Площадка",
+      "shirina": 42.715636,
+      "dalzhina": 23.252782,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 78,
+      "ime": "Детска Площадка",
+      "shirina": 42.716232,
+      "dalzhina": 23.248107,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 79,
+      "ime": "Детско Отделение",
+      "shirina": 42.714388,
+      "dalzhina": 23.256962,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 80,
+      "ime": "Джамия \"Баня Баши\"",
+      "shirina": 42.699692,
+      "dalzhina": 23.322573,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 81,
+      "ime": "Дирекция Природен парк \"Сините камъни\"",
+      "shirina": 42.679703,
+      "dalzhina": 26.3122,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 82,
+      "ime": "Добре дошли в Южния парк",
+      "shirina": 42.674481,
+      "dalzhina": 23.308979,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 83,
+      "ime": "Добре дошли във Враца",
+      "shirina": 43.183983,
+      "dalzhina": 23.588757,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 84,
+      "ime": "Долно поле",
+      "shirina": 42.199104,
+      "dalzhina": 23.363007,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 85,
+      "ime": "Драгалевци",
+      "shirina": 42.624843,
+      "dalzhina": 23.305929,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 86,
+      "ime": "Драгалевци",
+      "shirina": 42.630735,
+      "dalzhina": 23.313695,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 87,
+      "ime": "Екопарк",
+      "shirina": 43.233481,
+      "dalzhina": 28.005903,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 88,
+      "ime": "Екопътека",
+      "shirina": 41.709672,
+      "dalzhina": 24.963739,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 89,
+      "ime": "Екопътека",
+      "shirina": 41.714997,
+      "dalzhina": 25.00798,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 90,
+      "ime": "Екопътека Алан Тепе",
+      "shirina": 42.418051,
+      "dalzhina": 27.536648,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 91,
+      "ime": "Екопътека Бели Искър",
+      "shirina": 42.243487,
+      "dalzhina": 23.541274,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 92,
+      "ime": "Екопътека Боженци -Дряновски Манастир",
+      "shirina": 42.904628,
+      "dalzhina": 25.41205,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 93,
+      "ime": "Екопътека Усюи",
+      "shirina": 42.903895,
+      "dalzhina": 25.861088,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 94,
+      "ime": "Екопътека “Трите Бора”",
+      "shirina": 42.960839,
+      "dalzhina": 23.349822,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 95,
+      "ime": "Екскурзоводски център",
+      "shirina": 43.246795,
+      "dalzhina": 25.03354,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 96,
+      "ime": "ЗАЩИТЕНА МЕСТНОСТ \"ЧЕНГЕНЕ СКЕЛЕ\"",
+      "shirina": 42.428143,
+      "dalzhina": 27.513204,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 97,
+      "ime": "ЗОНА 'ЕКЗОТИКА",
+      "shirina": 43.205964,
+      "dalzhina": 27.926635,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 98,
+      "ime": "Западен вход на крепостта Овеч",
+      "shirina": 43.174736,
+      "dalzhina": 27.445641,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 99,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.66013,
+      "dalzhina": 23.307728,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 100,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.660601,
+      "dalzhina": 23.312802,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 101,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.661565,
+      "dalzhina": 23.306984,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 102,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.665303,
+      "dalzhina": 23.30384,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 103,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.666523,
+      "dalzhina": 23.306079,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 104,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.666642,
+      "dalzhina": 23.30749,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 105,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.668546,
+      "dalzhina": 23.306785,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 106,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.669642,
+      "dalzhina": 23.304407,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 107,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.671888,
+      "dalzhina": 23.307939,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 108,
+      "ime": "Запознайте се с птиците на София",
+      "shirina": 42.677615,
+      "dalzhina": 23.352068,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 109,
+      "ime": "Защитена Местност Самодивска Поляна",
+      "shirina": 41.81393,
+      "dalzhina": 24.118428,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 110,
+      "ime": "Зелена класна стая",
+      "shirina": 42.496831,
+      "dalzhina": 23.228386,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 111,
+      "ime": "Земноводни",
+      "shirina": 42.635716,
+      "dalzhina": 23.269703,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 112,
+      "ime": "Златни пясъци",
+      "shirina": 43.289932,
+      "dalzhina": 28.038795,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 113,
+      "ime": "Змейовият полог /свърталище/",
+      "shirina": 42.481573,
+      "dalzhina": 25.052848,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 114,
+      "ime": "Знак Козарско",
+      "shirina": 42.062465,
+      "dalzhina": 24.421346,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 115,
+      "ime": "ИСТОРИЧЕСКИ ЦЕНТЪР",
+      "shirina": 43.203744,
+      "dalzhina": 27.922858,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 116,
+      "ime": "Изворите на река Чепеларска",
+      "shirina": 41.669694,
+      "dalzhina": 24.717916,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 117,
+      "ime": "Източен вход на крепост Овеч",
+      "shirina": 43.175261,
+      "dalzhina": 27.448173,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 118,
+      "ime": "Инф. център",
+      "shirina": 42.026353,
+      "dalzhina": 23.991504,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 119,
+      "ime": "Инф.табела за Мезешката крепост",
+      "shirina": 41.73509,
+      "dalzhina": 26.083804,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 120,
+      "ime": "Инф.табела за Мезешката крепост",
+      "shirina": 41.736261,
+      "dalzhina": 26.082068,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 121,
+      "ime": "Инф.табела за вр.Шейновец",
+      "shirina": 41.715456,
+      "dalzhina": 26.028682,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 122,
+      "ime": "Информационен Център Узана",
+      "shirina": 42.760659,
+      "dalzhina": 25.232933,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 123,
+      "ime": "Информационен посетителски център Карандила",
+      "shirina": 42.717175,
+      "dalzhina": 26.369128,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 124,
+      "ime": "Информационен туристически център",
+      "shirina": 42.929374,
+      "dalzhina": 25.875698,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 125,
+      "ime": "Информационен център",
+      "shirina": 41.596082,
+      "dalzhina": 23.797345,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 126,
+      "ime": "Информационен център",
+      "shirina": 41.650456,
+      "dalzhina": 24.160055,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 127,
+      "ime": "Информационен център",
+      "shirina": 42.006906,
+      "dalzhina": 24.874617,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 128,
+      "ime": "Информационен център",
+      "shirina": 42.426267,
+      "dalzhina": 25.627457,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 129,
+      "ime": "Информационен център \"Национален археологически резерват Яйлата\"",
+      "shirina": 43.44093,
+      "dalzhina": 28.546174,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 130,
+      "ime": "Информационен център БОРОСПОРТ",
+      "shirina": 42.264992,
+      "dalzhina": 23.606986,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 131,
+      "ime": "Информационна табела \"Пещера Утробата\"",
+      "shirina": 41.704909,
+      "dalzhina": 25.248113,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 132,
+      "ime": "Информационно Табло \"Птиците\"",
+      "shirina": 42.663142,
+      "dalzhina": 24.955593,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 133,
+      "ime": "Информационно табло",
+      "shirina": 42.660502,
+      "dalzhina": 24.958646,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 134,
+      "ime": "Информационно табло",
+      "shirina": 42.661271,
+      "dalzhina": 24.957918,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 135,
+      "ime": "Информационно табло \"Бозайници\"",
+      "shirina": 42.664848,
+      "dalzhina": 24.954676,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 136,
+      "ime": "Информационно табло \"Реката\"",
+      "shirina": 42.661847,
+      "dalzhina": 24.956746,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 137,
+      "ime": "Информационно табло -Глухите камъни",
+      "shirina": 41.729513,
+      "dalzhina": 25.953976,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 138,
+      "ime": "Информация и билети",
+      "shirina": 41.737109,
+      "dalzhina": 26.082631,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 139,
+      "ime": "Какво е общото между прилепите и…",
+      "shirina": 43.72762,
+      "dalzhina": 22.582948,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 140,
+      "ime": "Каменна Река",
+      "shirina": 42.584887,
+      "dalzhina": 23.29031,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 141,
+      "ime": "Карлово Карта",
+      "shirina": 42.642808,
+      "dalzhina": 24.803615,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 142,
+      "ime": "Карта на велотрасетата от велосипедната мрежа на град Пловдив",
+      "shirina": 42.15281,
+      "dalzhina": 24.7298,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 143,
+      "ime": "Каса",
+      "shirina": 43.55873,
+      "dalzhina": 27.844269,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 144,
+      "ime": "Кечи Кая",
+      "shirina": 41.465339,
+      "dalzhina": 24.871114,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 145,
+      "ime": "Кичов топ",
+      "shirina": 42.687095,
+      "dalzhina": 25.416472,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 146,
+      "ime": "Княжево",
+      "shirina": 42.658672,
+      "dalzhina": 23.24055,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 147,
+      "ime": "Ковшак чешма",
+      "shirina": 43.271256,
+      "dalzhina": 28.012754,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 148,
+      "ime": "Кой е Буда?",
+      "shirina": 42.478539,
+      "dalzhina": 23.407319,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 149,
+      "ime": "Комплекс Фригопан",
+      "shirina": 42.19307,
+      "dalzhina": 24.694669,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 150,
+      "ime": "Крепост \"Св. Никола\"",
+      "shirina": 41.827695,
+      "dalzhina": 23.523649,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 151,
+      "ime": "Културно-информационен център",
+      "shirina": 43.213694,
+      "dalzhina": 27.647604,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 152,
+      "ime": "Кухият камък",
+      "shirina": 42.201417,
+      "dalzhina": 23.364909,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 153,
+      "ime": "Къпането забранено!",
+      "shirina": 42.706743,
+      "dalzhina": 23.144575,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 154,
+      "ime": "Къща-музей Васил Левски - каса",
+      "shirina": 42.642643,
+      "dalzhina": 24.802911,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 155,
+      "ime": "ЛЯТНА ЧИТАЛНЯ",
+      "shirina": 43.206164,
+      "dalzhina": 27.927895,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 156,
+      "ime": "Ларго",
+      "shirina": 42.697956,
+      "dalzhina": 23.321914,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 157,
+      "ime": "МОРСКА ГРАДИНА",
+      "shirina": 43.203707,
+      "dalzhina": 27.923188,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 158,
+      "ime": "МОСТЪТ НА ЖЕЛАНИЯТА",
+      "shirina": 43.2058,
+      "dalzhina": 27.92545,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 159,
+      "ime": "Магдалина Станчева",
+      "shirina": 42.69902,
+      "dalzhina": 23.320202,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 160,
+      "ime": "Макет на Черно море",
+      "shirina": 43.2016,
+      "dalzhina": 27.921732,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 161,
+      "ime": "Маршрут Аязмото - Старозагорски бани",
+      "shirina": 42.43648,
+      "dalzhina": 25.612596,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 162,
+      "ime": "Местност Белия Камък",
+      "shirina": 42.844224,
+      "dalzhina": 23.676598,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 163,
+      "ime": "Младежки хълм",
+      "shirina": 42.135981,
+      "dalzhina": 24.725969,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 164,
+      "ime": "Момчилова крепост",
+      "shirina": 41.583295,
+      "dalzhina": 24.831657,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 165,
+      "ime": "Наблюдателна кула",
+      "shirina": 42.75447,
+      "dalzhina": 25.290879,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 166,
+      "ime": "Находище на снежно кокиче",
+      "shirina": 41.974089,
+      "dalzhina": 25.485017,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 167,
+      "ime": "Находище на снежно кокиче",
+      "shirina": 41.976126,
+      "dalzhina": 25.487933,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 168,
+      "ime": "Национален парк Централен Балкан",
+      "shirina": 42.812464,
+      "dalzhina": 24.371493,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 169,
+      "ime": "Национален парк „Рила“",
+      "shirina": 42.149266,
+      "dalzhina": 23.776542,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 170,
+      "ime": "Национален парк „Централен Балкан“",
+      "shirina": 42.65568,
+      "dalzhina": 24.831438,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 171,
+      "ime": "Национален парк „Централен Балкан“",
+      "shirina": 42.657284,
+      "dalzhina": 24.822649,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 172,
+      "ime": "Национален туристически информационен център",
+      "shirina": 42.696411,
+      "dalzhina": 23.320424,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 173,
+      "ime": "Начало на екопътеката \"Бялата река\"",
+      "shirina": 42.659945,
+      "dalzhina": 24.959841,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 174,
+      "ime": "Нови Искър",
+      "shirina": 42.784845,
+      "dalzhina": 23.322731,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 175,
+      "ime": "Обществен Информационен Център",
+      "shirina": 42.139622,
+      "dalzhina": 24.745846,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 176,
+      "ime": "Община Варна информационен център",
+      "shirina": 43.209737,
+      "dalzhina": 27.912139,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 177,
+      "ime": "Орлови скали",
+      "shirina": 41.869145,
+      "dalzhina": 25.253408,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 178,
+      "ime": "Оряхово",
+      "shirina": 43.740845,
+      "dalzhina": 23.961679,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 179,
+      "ime": "ПЧЕЛИНА",
+      "shirina": 43.230852,
+      "dalzhina": 27.904849,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 180,
+      "ime": "Паметник на Капитан Петко войвода",
+      "shirina": 41.932423,
+      "dalzhina": 25.561439,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 181,
+      "ime": "Паметника",
+      "shirina": 42.205159,
+      "dalzhina": 23.367301,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 182,
+      "ime": "Панорама „Юрен кайа“",
+      "shirina": 41.677035,
+      "dalzhina": 25.262515,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 183,
+      "ime": "Панорамна площадка \"Църквище ти\"",
+      "shirina": 42.862126,
+      "dalzhina": 22.64628,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 184,
+      "ime": "Парк за танцуващи мечки",
+      "shirina": 42.030833,
+      "dalzhina": 23.5775,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 185,
+      "ime": "Парк за танцуващи мечки",
+      "shirina": 42.031114,
+      "dalzhina": 23.582544,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 186,
+      "ime": "Пашови скали",
+      "shirina": 42.052004,
+      "dalzhina": 23.844302,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 187,
+      "ime": "Пекарна",
+      "shirina": 42.70746,
+      "dalzhina": 23.144777,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 188,
+      "ime": "Перловска река",
+      "shirina": 42.6848,
+      "dalzhina": 23.325979,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 189,
+      "ime": "Перник",
+      "shirina": 42.614563,
+      "dalzhina": 23.173567,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 190,
+      "ime": "Пл. Македония",
+      "shirina": 42.694842,
+      "dalzhina": 23.315504,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 191,
+      "ime": "Поморийско езеро",
+      "shirina": 42.625111,
+      "dalzhina": 27.630335,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 192,
+      "ime": "Посетителски Информационен Център - НП Пирин",
+      "shirina": 41.823594,
+      "dalzhina": 23.476702,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 193,
+      "ime": "Посетителски информационен сентър НП Пирин",
+      "shirina": 41.575496,
+      "dalzhina": 23.283982,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 194,
+      "ime": "Посетителски център",
+      "shirina": 42.357828,
+      "dalzhina": 23.921763,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 195,
+      "ime": "Посетителски център природен парк \"Персина\"",
+      "shirina": 43.652355,
+      "dalzhina": 25.129441,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 196,
+      "ime": "Природен парк \"Странджа\"",
+      "shirina": 42.09458,
+      "dalzhina": 27.682645,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 197,
+      "ime": "Природен парк Златни Пясъци",
+      "shirina": 43.271895,
+      "dalzhina": 28.013342,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 198,
+      "ime": "Природен парк Рилски манастир",
+      "shirina": 42.116573,
+      "dalzhina": 23.298094,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 199,
+      "ime": "Природозащитен информационен център",
+      "shirina": 42.622827,
+      "dalzhina": 23.299614,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 200,
+      "ime": "Природозащитен център \"Натура\"",
+      "shirina": 43.198363,
+      "dalzhina": 23.546655,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 201,
+      "ime": "Пробития камък",
+      "shirina": 43.235124,
+      "dalzhina": 27.346336,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 202,
+      "ime": "Пътека \"Лазурен бряг\" - начало на маршрута",
+      "shirina": 42.717359,
+      "dalzhina": 27.758506,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 203,
+      "ime": "Пътека \"Сила и живот\"",
+      "shirina": 42.604024,
+      "dalzhina": 23.326808,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 204,
+      "ime": "Пътека, Приспособена За Хора С Увреждания",
+      "shirina": 41.814995,
+      "dalzhina": 23.472306,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 205,
+      "ime": "РОЗАРИУМ",
+      "shirina": 43.209653,
+      "dalzhina": 27.934613,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 206,
+      "ime": "Район Витоша",
+      "shirina": 42.64038,
+      "dalzhina": 23.31414,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 207,
+      "ime": "Район Витоша",
+      "shirina": 42.658689,
+      "dalzhina": 23.272805,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 208,
+      "ime": "Район Витоша",
+      "shirina": 42.669396,
+      "dalzhina": 23.276812,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 209,
+      "ime": "Реклама",
+      "shirina": 42.715604,
+      "dalzhina": 23.253389,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 210,
+      "ime": "Ресепшн",
+      "shirina": 42.703598,
+      "dalzhina": 27.793627,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 211,
+      "ime": "Рибите на река Младежка",
+      "shirina": 42.151775,
+      "dalzhina": 27.362259,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 212,
+      "ime": "Родопско лале",
+      "shirina": 41.981329,
+      "dalzhina": 24.896669,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 213,
+      "ime": "Родопско лале",
+      "shirina": 41.982028,
+      "dalzhina": 24.896178,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 214,
+      "ime": "Св. Дух",
+      "shirina": 41.939987,
+      "dalzhina": 25.348474,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 215,
+      "ime": "Св. Никола",
+      "shirina": 41.811775,
+      "dalzhina": 23.532004,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 216,
+      "ime": "Св. Никола",
+      "shirina": 41.811965,
+      "dalzhina": 23.531409,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 217,
+      "ime": "Симеоново",
+      "shirina": 42.60924,
+      "dalzhina": 23.330438,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 218,
+      "ime": "Симеоново",
+      "shirina": 42.617125,
+      "dalzhina": 23.336748,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 219,
+      "ime": "Ситовски надпис",
+      "shirina": 41.943942,
+      "dalzhina": 24.61588,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 220,
+      "ime": "Скалата",
+      "shirina": 42.19499,
+      "dalzhina": 23.356879,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 221,
+      "ime": "Скални Феномени",
+      "shirina": 42.721318,
+      "dalzhina": 26.358012,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 222,
+      "ime": "Снежанка",
+      "shirina": 42.002897,
+      "dalzhina": 24.277496,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 223,
+      "ime": "София",
+      "shirina": 42.685153,
+      "dalzhina": 23.411704,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 224,
+      "ime": "София",
+      "shirina": 42.687577,
+      "dalzhina": 23.401656,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 225,
+      "ime": "Спортна Площадка",
+      "shirina": 42.713447,
+      "dalzhina": 23.247049,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 226,
+      "ime": "Средновековна крепост Устра",
+      "shirina": 41.462797,
+      "dalzhina": 25.233884,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 227,
+      "ime": "Старата граница",
+      "shirina": 41.652583,
+      "dalzhina": 24.716553,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 228,
+      "ime": "Старата митница (Туристическа информация)",
+      "shirina": 41.850069,
+      "dalzhina": 26.544983,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 229,
+      "ime": "Староселци",
+      "shirina": 43.538702,
+      "dalzhina": 24.27723,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 230,
+      "ime": "Сърница",
+      "shirina": 41.86925,
+      "dalzhina": 25.28662,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 231,
+      "ime": "Табела начало на парка",
+      "shirina": 42.812284,
+      "dalzhina": 24.327808,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 232,
+      "ime": "Темната дупка",
+      "shirina": 43.088782,
+      "dalzhina": 23.384348,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 233,
+      "ime": "Тихия кът",
+      "shirina": 42.63821,
+      "dalzhina": 23.219571,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 234,
+      "ime": "Трамвай 83;MAN-Siemens",
+      "shirina": 42.699846,
+      "dalzhina": 23.322567,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 235,
+      "ime": "Трявна",
+      "shirina": 42.867367,
+      "dalzhina": 25.492131,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 236,
+      "ime": "Туристически Информационен Център",
+      "shirina": 41.574764,
+      "dalzhina": 24.710075,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 237,
+      "ime": "Туристически Информационен Център",
+      "shirina": 42.861774,
+      "dalzhina": 22.64662,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 238,
+      "ime": "Туристически знак \"Пътека към пещера Утробата\"",
+      "shirina": 41.698983,
+      "dalzhina": 25.236603,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 239,
+      "ime": "Туристически информационен център",
+      "shirina": 41.527354,
+      "dalzhina": 26.12365,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 240,
+      "ime": "Туристически информационен център",
+      "shirina": 41.641605,
+      "dalzhina": 25.376914,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 241,
+      "ime": "Туристически информационен център",
+      "shirina": 42.149949,
+      "dalzhina": 24.752608,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 242,
+      "ime": "Туристически информационен център",
+      "shirina": 42.280675,
+      "dalzhina": 22.688109,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 243,
+      "ime": "Туристически информационен център",
+      "shirina": 42.619772,
+      "dalzhina": 25.392968,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 244,
+      "ime": "Туристически информационен център",
+      "shirina": 42.640032,
+      "dalzhina": 24.357744,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 245,
+      "ime": "Туристически информационен център",
+      "shirina": 42.884304,
+      "dalzhina": 24.712001,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 246,
+      "ime": "Туристически информационен център",
+      "shirina": 42.917191,
+      "dalzhina": 24.258638,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 247,
+      "ime": "Туристически информационен център",
+      "shirina": 43.13119,
+      "dalzhina": 24.718285,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 248,
+      "ime": "Туристически информационен център",
+      "shirina": 43.193441,
+      "dalzhina": 23.285861,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 249,
+      "ime": "Туристически информационен център",
+      "shirina": 43.204505,
+      "dalzhina": 27.910183,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 250,
+      "ime": "Туристически информационен център - Хасково",
+      "shirina": 41.933611,
+      "dalzhina": 25.555307,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 251,
+      "ime": "Туристически информационен център Хисаря",
+      "shirina": 42.504726,
+      "dalzhina": 24.709742,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 252,
+      "ime": "Туристически център",
+      "shirina": 42.258465,
+      "dalzhina": 23.294665,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 253,
+      "ime": "Туристически център",
+      "shirina": 42.555886,
+      "dalzhina": 27.641882,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 254,
+      "ime": "Туристически център \"Богдан\"",
+      "shirina": 42.636521,
+      "dalzhina": 24.360649,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 255,
+      "ime": "Туристически център к.к. Чифлик",
+      "shirina": 42.827138,
+      "dalzhina": 24.551177,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 256,
+      "ime": "Турситически Информационен Център",
+      "shirina": 42.493686,
+      "dalzhina": 27.472585,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 257,
+      "ime": "Указателни табели",
+      "shirina": 42.728311,
+      "dalzhina": 26.331891,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 258,
+      "ime": "Ул. Алабин, бул. Витоша",
+      "shirina": 42.695113,
+      "dalzhina": 23.320682,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 259,
+      "ime": "ФРАГМЕНТ ОТ ИЗТОЧНАТА КЪСНОРИМСКА СТЕНА НА ОДЕСОС – IV в.",
+      "shirina": 43.203327,
+      "dalzhina": 27.919122,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 260,
+      "ime": "Фауната на Витоша",
+      "shirina": 42.638313,
+      "dalzhina": 23.2197,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 261,
+      "ime": "Флора и Фауна",
+      "shirina": 42.721263,
+      "dalzhina": 26.358025,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 262,
+      "ime": "Хелис",
+      "shirina": 43.739367,
+      "dalzhina": 26.757973,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 263,
+      "ime": "Хилядолетна история",
+      "shirina": 42.709743,
+      "dalzhina": 27.773326,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 264,
+      "ime": "Хилядолетна история",
+      "shirina": 42.71091,
+      "dalzhina": 27.772726,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 265,
+      "ime": "Хисарлъка",
+      "shirina": 42.27532,
+      "dalzhina": 22.685013,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 266,
+      "ime": "Христо Ботев",
+      "shirina": 42.697816,
+      "dalzhina": 23.315517,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 267,
+      "ime": "Христовски водопад",
+      "shirina": 42.900089,
+      "dalzhina": 25.926849,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 268,
+      "ime": "ЦЪРКВА \"СВЕТИ СПАС\"",
+      "shirina": 42.65928,
+      "dalzhina": 27.734657,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 269,
+      "ime": "ЦЪРКВА „СВ. АРХАНГЕЛИ МИХАИЛ И ГАВРАИЛ”",
+      "shirina": 42.65962,
+      "dalzhina": 27.735208,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 270,
+      "ime": "ЦЪРКВА „СВ. ПАРАСКЕВА\"",
+      "shirina": 42.659516,
+      "dalzhina": 27.735642,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 271,
+      "ime": "Царството на зелениката",
+      "shirina": 42.093523,
+      "dalzhina": 27.681644,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 272,
+      "ime": "Църква „Свети Тодор“",
+      "shirina": 42.659983,
+      "dalzhina": 27.738715,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 273,
+      "ime": "Экскурсии",
+      "shirina": 42.693563,
+      "dalzhina": 27.708201,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 274,
+      "ime": "ЯЗ. ТОТЛЕБЕНОВ ВАЛ - Х-Л ОРБИТА - Х. СРЕБРОСТРУЙ",
+      "shirina": 43.35029,
+      "dalzhina": 24.645976,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 275,
+      "ime": "ЯЗ. ТОТЛЕБЕНОВ ВАЛ - Х-Л ОРБИТА - Х. СРЕБРОСТРУЙ",
+      "shirina": 43.352602,
+      "dalzhina": 24.643585,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 276,
+      "ime": "ЯЗ. ТОТЛЕБЕНОВ ВАЛ - Х-Л ОРБИТА - Х. СРЕБРОСТРУЙ",
+      "shirina": 43.353088,
+      "dalzhina": 24.641006,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 277,
+      "ime": "Ярлово",
+      "shirina": 42.468082,
+      "dalzhina": 23.281169,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 278,
+      "ime": "екопътека „Цар Иван Асен II“",
+      "shirina": 41.957579,
+      "dalzhina": 25.51232,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 279,
+      "ime": "информационен пункт Кромлех",
+      "shirina": 41.684312,
+      "dalzhina": 25.807518,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 280,
+      "ime": "местност Айкаас",
+      "shirina": 41.900567,
+      "dalzhina": 25.293559,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 281,
+      "ime": "местност Калето",
+      "shirina": 41.909543,
+      "dalzhina": 25.312261,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 282,
+      "ime": "местност Мазълова чешма",
+      "shirina": 41.918425,
+      "dalzhina": 25.31477,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 283,
+      "ime": "местност Танти бунар",
+      "shirina": 41.912052,
+      "dalzhina": 25.317253,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 284,
+      "ime": "местност Чаирлъка",
+      "shirina": 41.870226,
+      "dalzhina": 25.283362,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 285,
+      "ime": "местност Чучките",
+      "shirina": 41.915724,
+      "dalzhina": 25.314693,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 286,
+      "ime": "местност Шарапаните",
+      "shirina": 41.918014,
+      "dalzhina": 25.319187,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 287,
+      "ime": "природен парк Bumowa",
+      "shirina": 42.582918,
+      "dalzhina": 23.292002,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 288,
+      "ime": "природозащитен комплекс ломовете",
+      "shirina": 43.647592,
+      "dalzhina": 26.058231,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 289,
+      "ime": "скала КАЗАНИТЕ 300 m 10 min",
+      "shirina": 42.315195,
+      "dalzhina": 27.773675,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 290,
+      "ime": "схема '' Стара гробищна част''",
+      "shirina": 42.886827,
+      "dalzhina": 25.308163,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    },
+    {
+      "id": 291,
+      "ime": "схема ''Нова гробищна част''",
+      "shirina": 42.888357,
+      "dalzhina": 25.30713,
+      "osm_klyuch": "tourism",
+      "osm_stoynost": "information",
+      "osm_klas": "tourism=information"
+    }
+  ],
+  "meta": {
+    "title": "Туристически информационни точки в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Туристически информационни точки в България — 291 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `tourism=information`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 291 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Туристически информационни точки в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Туристически информационни точки в България (OpenStreetMap) — 291 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 291 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

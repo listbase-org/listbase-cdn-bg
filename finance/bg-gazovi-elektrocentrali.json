@@ -1,0 +1,247 @@
+{
+  "id": "bg-gazovi-elektrocentrali",
+  "name": "Газови електроцентрали в България",
+  "title": "Газови електроцентрали в България",
+  "description": "Газови електроцентрали в България. All 6 Natural Gas power generation/storage units in Bulgaria carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of bg-elektrocentrali (zero derivation).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 8710,
+      "name": "Varna",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Bulgaria",
+      "capacity_mw": 210,
+      "efficiency": "",
+      "date_in": 2019,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 43.19477,
+      "lon": 27.765472,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "ENTSOE: 32W0011001002199; GEM: G100000406325"
+    },
+    {
+      "id": 19292,
+      "name": "Neftochim Refinery",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 216,
+      "efficiency": "",
+      "date_in": 1962,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 42.54129,
+      "lon": 27.33875,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400041, G100000400042, G100000400043, G100000400044"
+    },
+    {
+      "id": 20810,
+      "name": "Plovdiv North",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 50,
+      "efficiency": "",
+      "date_in": 2011,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 42.18303,
+      "lon": 24.74138,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400045"
+    },
+    {
+      "id": 22734,
+      "name": "Sofia",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 75,
+      "efficiency": "",
+      "date_in": 1962,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 42.71889,
+      "lon": 23.32087,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400046, G100000400047"
+    },
+    {
+      "id": 22735,
+      "name": "Sofia Iztok",
+      "fueltype": "Natural Gas",
+      "technology": "",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 167,
+      "efficiency": "",
+      "date_in": 1964,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 42.65152,
+      "lon": 23.41722,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000400048"
+    },
+    {
+      "id": 23876,
+      "name": "Toplofikacia Pleven",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Bulgaria",
+      "capacity_mw": 43,
+      "efficiency": "",
+      "date_in": 2007,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 43.421167,
+      "lon": 24.625314,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000406328"
+    }
+  ],
+  "meta": {
+    "title": "Газови електроцентрали в България - Безплатно изтегляне",
+    "description": "Газови електроцентрали в България. All 6 Natural Gas power generation/storage units in Bulgaria carved by native `fueltype` from the powerplantmatching (PyPSA) merged European power plant dataset: name, fuel type, technology, capacity (MW), efficiency, commissioning/retrofit/retirement year, coordinates, storage attributes, ENTSO-E EIC codes and upstream source IDs. Verbatim subset of bg-elektrocentrali (zero derivation). Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Газови електроцентрали в България | ListBase",
+    "seo_description": "Изтеглете Газови електроцентрали в България — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 19 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

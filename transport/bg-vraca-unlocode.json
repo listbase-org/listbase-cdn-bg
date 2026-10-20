@@ -1,0 +1,352 @@
+{
+  "id": "bg-vraca-unlocode",
+  "name": "UN/LOCODE — област Враца (UN/LOCODE locations in Vratsa Province)",
+  "title": "UN/LOCODE — област Враца (UN/LOCODE locations in Vratsa Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Враца (Vratsa), 7 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-06). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Vratsa Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 7,
+      "locode": "BGATL",
+      "country": "BG",
+      "location": "ATL",
+      "name": "Altimir",
+      "name_wo_diacritics": "Altimir",
+      "subdivision_code": "06",
+      "subdivision_name": "Vratsa",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4332N 02349E",
+      "latitude": 43.5333,
+      "longitude": 23.8167,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "VRC",
+      "oblast_name": "Враца",
+      "oblast_name_latin": "Vratsa",
+      "oblast_slug": "vraca",
+      "oblast_ekatte": "12259",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 2,
+      "parent_index": 146,
+      "locode": "BGLES",
+      "country": "BG",
+      "location": "LES",
+      "name": "Leskovets",
+      "name_wo_diacritics": "Leskovets",
+      "subdivision_code": "06",
+      "subdivision_name": "Vratsa",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4342N 02401E",
+      "latitude": 43.7,
+      "longitude": 24.0167,
+      "date_updated": "2017-01",
+      "remarks": "",
+      "oblast_code": "VRC",
+      "oblast_name": "Враца",
+      "oblast_name_latin": "Vratsa",
+      "oblast_slug": "vraca",
+      "oblast_ekatte": "12259",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 3,
+      "parent_index": 163,
+      "locode": "BGMEZ",
+      "country": "BG",
+      "location": "MEZ",
+      "name": "Mezdra",
+      "name_wo_diacritics": "Mezdra",
+      "subdivision_code": "06",
+      "subdivision_name": "Vratsa",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4315N 02307E",
+      "latitude": 43.25,
+      "longitude": 23.1167,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "VRC",
+      "oblast_name": "Враца",
+      "oblast_name_latin": "Vratsa",
+      "oblast_slug": "vraca",
+      "oblast_ekatte": "12259",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 4,
+      "parent_index": 209,
+      "locode": "BGPPT",
+      "country": "BG",
+      "location": "PPT",
+      "name": "Popitsa",
+      "name_wo_diacritics": "Popitsa",
+      "subdivision_code": "06",
+      "subdivision_name": "Vratsa",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4326N 02357E",
+      "latitude": 43.4333,
+      "longitude": 23.95,
+      "date_updated": "2022-07",
+      "remarks": "",
+      "oblast_code": "VRC",
+      "oblast_name": "Враца",
+      "oblast_name_latin": "Vratsa",
+      "oblast_slug": "vraca",
+      "oblast_ekatte": "12259",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 5,
+      "parent_index": 306,
+      "locode": "BGVBS",
+      "country": "BG",
+      "location": "VBS",
+      "name": "Bjala Slatina",
+      "name_wo_diacritics": "Bjala Slatina",
+      "subdivision_code": "06",
+      "subdivision_name": "Vratsa",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3--6--",
+      "functions": "Road transport, Multimodal transport facility",
+      "iata": "",
+      "coordinates": "",
+      "latitude": "",
+      "longitude": "",
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "VRC",
+      "oblast_name": "Враца",
+      "oblast_name_latin": "Vratsa",
+      "oblast_slug": "vraca",
+      "oblast_ekatte": "12259",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 6,
+      "parent_index": 318,
+      "locode": "BGVRA",
+      "country": "BG",
+      "location": "VRA",
+      "name": "Vratza",
+      "name_wo_diacritics": "Vratza",
+      "subdivision_code": "06",
+      "subdivision_name": "Vratsa",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "-----6--",
+      "functions": "Multimodal transport facility",
+      "iata": "",
+      "coordinates": "4321N 02356E",
+      "latitude": 43.35,
+      "longitude": 23.9333,
+      "date_updated": "2009-01",
+      "remarks": "",
+      "oblast_code": "VRC",
+      "oblast_name": "Враца",
+      "oblast_name_latin": "Vratsa",
+      "oblast_slug": "vraca",
+      "oblast_ekatte": "12259",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 7,
+      "parent_index": 321,
+      "locode": "BGVSA",
+      "country": "BG",
+      "location": "VSA",
+      "name": "Vratsa",
+      "name_wo_diacritics": "Vratsa",
+      "subdivision_code": "06",
+      "subdivision_name": "Vratsa",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4312N 02333E",
+      "latitude": 43.2,
+      "longitude": 23.55,
+      "date_updated": "2017-07",
+      "remarks": "",
+      "oblast_code": "VRC",
+      "oblast_name": "Враца",
+      "oblast_name_latin": "Vratsa",
+      "oblast_slug": "vraca",
+      "oblast_ekatte": "12259",
+      "nuts_region": "BG31"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Враца (UN/LOCODE locations in Vratsa Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Враца (Vratsa), 7 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-06). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Vratsa Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Враца (UN/LOCODE locations in Vratsa Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Враца (UN/LOCODE locations in Vratsa Province) — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

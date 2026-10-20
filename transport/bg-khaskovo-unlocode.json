@@ -1,0 +1,296 @@
+{
+  "id": "bg-khaskovo-unlocode",
+  "name": "UN/LOCODE — област Хасково (UN/LOCODE locations in Haskovo Province)",
+  "title": "UN/LOCODE — област Хасково (UN/LOCODE locations in Haskovo Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Хасково (Haskovo), 5 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-26). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Haskovo Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 97,
+      "locode": "BGHRM",
+      "country": "BG",
+      "location": "HRM",
+      "name": "Harmanli",
+      "name_wo_diacritics": "Harmanli",
+      "subdivision_code": "26",
+      "subdivision_name": "Haskovo",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4156N 02554E",
+      "latitude": 41.9333,
+      "longitude": 25.9,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "oblast_code": "HKV",
+      "oblast_name": "Хасково",
+      "oblast_name_latin": "Haskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_ekatte": "77195",
+      "nuts_region": "BG42"
+    },
+    {
+      "id": 2,
+      "parent_index": 104,
+      "locode": "BGIVL",
+      "country": "BG",
+      "location": "IVL",
+      "name": "Ivaylovgrad",
+      "name_wo_diacritics": "Ivaylovgrad",
+      "subdivision_code": "26",
+      "subdivision_name": "Haskovo",
+      "subdivision_type": "Region",
+      "status": "AS",
+      "status_description": "Approved by national standardisation body",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4132N 02608E",
+      "latitude": 41.5333,
+      "longitude": 26.1333,
+      "date_updated": "2000-01",
+      "remarks": "",
+      "oblast_code": "HKV",
+      "oblast_name": "Хасково",
+      "oblast_name_latin": "Haskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_ekatte": "77195",
+      "nuts_region": "BG42"
+    },
+    {
+      "id": 3,
+      "parent_index": 132,
+      "locode": "BGKRM",
+      "country": "BG",
+      "location": "KRM",
+      "name": "Kardzali",
+      "name_wo_diacritics": "Kardzali",
+      "subdivision_code": "26",
+      "subdivision_name": "Haskovo",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4138N 02522E",
+      "latitude": 41.6333,
+      "longitude": 25.3667,
+      "date_updated": "2005-01",
+      "remarks": "",
+      "oblast_code": "HKV",
+      "oblast_name": "Хасково",
+      "oblast_name_latin": "Haskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_ekatte": "77195",
+      "nuts_region": "BG42"
+    },
+    {
+      "id": 4,
+      "parent_index": 236,
+      "locode": "BGROO",
+      "country": "BG",
+      "location": "ROO",
+      "name": "Kolarovo",
+      "name_wo_diacritics": "Kolarovo",
+      "subdivision_code": "26",
+      "subdivision_name": "Haskovo",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4158N 02602E",
+      "latitude": 41.9667,
+      "longitude": 26.0333,
+      "date_updated": "2012-07",
+      "remarks": "",
+      "oblast_code": "HKV",
+      "oblast_name": "Хасково",
+      "oblast_name_latin": "Haskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_ekatte": "77195",
+      "nuts_region": "BG42"
+    },
+    {
+      "id": 5,
+      "parent_index": 243,
+      "locode": "BGSBV",
+      "country": "BG",
+      "location": "SBV",
+      "name": "Stambolovo",
+      "name_wo_diacritics": "Stambolovo",
+      "subdivision_code": "26",
+      "subdivision_name": "Haskovo",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4146N 02539E",
+      "latitude": 41.7667,
+      "longitude": 25.65,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "oblast_code": "HKV",
+      "oblast_name": "Хасково",
+      "oblast_name_latin": "Haskovo",
+      "oblast_slug": "khaskovo",
+      "oblast_ekatte": "77195",
+      "nuts_region": "BG42"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Хасково (UN/LOCODE locations in Haskovo Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Хасково (Haskovo), 5 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-26). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Haskovo Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Хасково (UN/LOCODE locations in Haskovo Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Хасково (UN/LOCODE locations in Haskovo Province) — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

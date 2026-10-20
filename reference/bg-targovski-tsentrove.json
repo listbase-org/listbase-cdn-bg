@@ -1,0 +1,258 @@
+{
+  "id": "bg-targovski-tsentrove",
+  "name": "Търговски центрове в България",
+  "title": "Търговски центрове в България",
+  "description": "Shopping malls in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1252090",
+      "name_bg": "България Мол",
+      "name_en": "Bulgaria Mall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.6641,
+      "longitude": 23.2885,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1252090"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q6463472",
+      "name_bg": "Дъ Мол",
+      "name_en": "The Mall",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.6605,
+      "longitude": 23.3822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6463472"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3657195",
+      "name_bg": "Мол Варна",
+      "name_en": "Mall Varna",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.22027778,
+      "longitude": 27.88972222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3657195"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12287289",
+      "name_bg": "Мол Габрово",
+      "name_en": "",
+      "admin_area_bg": "Габрово",
+      "admin_area_en": "Gabrovo",
+      "latitude": 42.867222222,
+      "longitude": 25.316666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287289"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q25480575",
+      "name_bg": "Мол Галерия Стара Загора",
+      "name_en": "",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.437777777,
+      "longitude": 25.6325,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25480575"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q28169212",
+      "name_bg": "Мол Марково Тепе",
+      "name_en": "Mall Markovo tepe in Plovdiv",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.1411516,
+      "longitude": 24.7410328,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28169212"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12287292",
+      "name_bg": "Мол Пловдив",
+      "name_en": "Mall Plovdiv",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.141671,
+      "longitude": 24.718962,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287292"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12287293",
+      "name_bg": "Мол Русе",
+      "name_en": "Mall Rousse",
+      "admin_area_bg": "Русе",
+      "admin_area_en": "Ruse",
+      "latitude": 43.853611111,
+      "longitude": 25.99,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287293"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12287295",
+      "name_bg": "Мол Стара Загора",
+      "name_en": "",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.418611111,
+      "longitude": 25.631388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287295"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q12287294",
+      "name_bg": "Мол ъф София",
+      "name_en": "Mall of Sofia",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.69805556,
+      "longitude": 23.30861111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12287294"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q7134254",
+      "name_bg": "Парадайс център",
+      "name_en": "Paradise Center",
+      "admin_area_bg": "Столична община",
+      "admin_area_en": "Stolichna Municipality",
+      "latitude": 42.65777778,
+      "longitude": 23.31444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7134254"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q12289956",
+      "name_bg": "Парк Мол Стара Загора",
+      "name_en": "",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.427222222,
+      "longitude": 25.661944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12289956"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q3656933",
+      "name_bg": "Парк център София",
+      "name_en": "Park Center Sofia",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.67861111,
+      "longitude": 23.32055556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3656933"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q2272273",
+      "name_bg": "Сердика Център София",
+      "name_en": "Serdika Center Sofia",
+      "admin_area_bg": "Оборище",
+      "admin_area_en": "Oborishte District",
+      "latitude": 42.692,
+      "longitude": 23.354,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2272273"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q3657203",
+      "name_bg": "Скай Сити Мол",
+      "name_en": "Sky City Mall",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.67972222,
+      "longitude": 23.3675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3657203"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q12294207",
+      "name_bg": "Софарма бизнес тауърс",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.665992288,
+      "longitude": 23.357000785,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12294207"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q12294461",
+      "name_bg": "София Ринг Мол",
+      "name_en": "Sofia Ring Mall",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.6246,
+      "longitude": 23.3519,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12294461"
+    }
+  ],
+  "meta": {
+    "title": "Търговски центрове в България - Безплатно изтегляне",
+    "description": "Shopping malls in Bulgaria with coordinates, sourced from Wikidata. Съдържа 17 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Търговски центрове в България | ListBase",
+    "seo_description": "Изтеглете Търговски центрове в България — 17 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 17 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

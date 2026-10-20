@@ -1,0 +1,223 @@
+{
+  "id": "bg-vidin-zhelezopatni-gari",
+  "name": "Железопътни гари — област Видин",
+  "title": "Железопътни гари — област Видин",
+  "description": "Железопътни гари и спирки в област Видин (Vidin, код VID) от trainline-eu/stations. 4 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_latin",
+      "label": "Oblast Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_bg",
+      "label": "Nearest Settlement Bg",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_km",
+      "label": "Nearest Settlement Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 34722,
+      "name": "Vidin",
+      "slug": "vidin",
+      "uic": "",
+      "latitude": 43.996159,
+      "longitude": 22.86793,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Видин",
+      "oblast_latin": "Vidin",
+      "oblast_slug": "vidin",
+      "oblast_code": "VID",
+      "nearest_settlement_bg": "Видин",
+      "nearest_settlement_km": 0.005,
+      "country": "BG"
+    },
+    {
+      "id": 2,
+      "station_id": 34750,
+      "name": "Archar",
+      "slug": "archar",
+      "uic": "",
+      "latitude": 43.810743,
+      "longitude": 22.91911,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Видин",
+      "oblast_latin": "Vidin",
+      "oblast_slug": "vidin",
+      "oblast_code": "VID",
+      "nearest_settlement_bg": "Арчар",
+      "nearest_settlement_km": 0.005,
+      "country": "BG"
+    },
+    {
+      "id": 3,
+      "station_id": 34761,
+      "name": "Topolovets",
+      "slug": "topolovets",
+      "uic": "",
+      "latitude": 43.987205,
+      "longitude": 22.62133,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Видин",
+      "oblast_latin": "Vidin",
+      "oblast_slug": "vidin",
+      "oblast_code": "VID",
+      "nearest_settlement_bg": "Тополовец",
+      "nearest_settlement_km": 0,
+      "country": "BG"
+    },
+    {
+      "id": 4,
+      "station_id": 34762,
+      "name": "Drenovets",
+      "slug": "drenovets",
+      "uic": "",
+      "latitude": 43.693383,
+      "longitude": 22.981765,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Видин",
+      "oblast_latin": "Vidin",
+      "oblast_slug": "vidin",
+      "oblast_code": "VID",
+      "nearest_settlement_bg": "Дреновец",
+      "nearest_settlement_km": 0.003,
+      "country": "BG"
+    }
+  ],
+  "meta": {
+    "title": "Железопътни гари — област Видин - Безплатно изтегляне",
+    "description": "Железопътни гари и спирки в област Видин (Vidin, код VID) от trainline-eu/stations. 4 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations. Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железопътни гари — област Видин | ListBase",
+    "seo_description": "Изтеглете Железопътни гари — област Видин — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

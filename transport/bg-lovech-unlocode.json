@@ -1,0 +1,352 @@
+{
+  "id": "bg-lovech-unlocode",
+  "name": "UN/LOCODE — област Ловеч (UN/LOCODE locations in Lovech Province)",
+  "title": "UN/LOCODE — област Ловеч (UN/LOCODE locations in Lovech Province)",
+  "description": "Кодове UN/LOCODE на населените места в област Ловеч (Lovech), 7 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-11). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Lovech Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "parent_index",
+      "label": "Parent Index",
+      "type": "number"
+    },
+    {
+      "key": "locode",
+      "label": "Locode",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_wo_diacritics",
+      "label": "Name Wo Diacritics",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_code",
+      "label": "Subdivision Code",
+      "type": "number"
+    },
+    {
+      "key": "subdivision_name",
+      "label": "Subdivision Name",
+      "type": "string"
+    },
+    {
+      "key": "subdivision_type",
+      "label": "Subdivision Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "status_description",
+      "label": "Status Description",
+      "type": "string"
+    },
+    {
+      "key": "function",
+      "label": "Function",
+      "type": "string"
+    },
+    {
+      "key": "functions",
+      "label": "Functions",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "date_updated",
+      "label": "Date Updated",
+      "type": "string"
+    },
+    {
+      "key": "remarks",
+      "label": "Remarks",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name",
+      "label": "Oblast Name",
+      "type": "string"
+    },
+    {
+      "key": "oblast_name_latin",
+      "label": "Oblast Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_ekatte",
+      "label": "Oblast Ekatte",
+      "type": "number"
+    },
+    {
+      "key": "nuts_region",
+      "label": "Nuts Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "parent_index": 144,
+      "locode": "BGLCH",
+      "country": "BG",
+      "location": "LCH",
+      "name": "Uglen",
+      "name_wo_diacritics": "Uglen",
+      "subdivision_code": "11",
+      "subdivision_name": "Lovech",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4312N 02419E",
+      "latitude": 43.2,
+      "longitude": 24.3167,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "LOV",
+      "oblast_name": "Ловеч",
+      "oblast_name_latin": "Lovech",
+      "oblast_slug": "lovech",
+      "oblast_ekatte": "43952",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 2,
+      "parent_index": 151,
+      "locode": "BGLNS",
+      "country": "BG",
+      "location": "LNS",
+      "name": "Letnitsa",
+      "name_wo_diacritics": "Letnitsa",
+      "subdivision_code": "11",
+      "subdivision_name": "Lovech",
+      "subdivision_type": "Region",
+      "status": "AM",
+      "status_description": "Approved by the UN/LOCODE Maintenance Agency",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4318N 02503E",
+      "latitude": 43.3,
+      "longitude": 25.05,
+      "date_updated": "2023-07",
+      "remarks": "",
+      "oblast_code": "LOV",
+      "oblast_name": "Ловеч",
+      "oblast_name_latin": "Lovech",
+      "oblast_slug": "lovech",
+      "oblast_ekatte": "43952",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 3,
+      "parent_index": 156,
+      "locode": "BGLUK",
+      "country": "BG",
+      "location": "LUK",
+      "name": "Lukovit",
+      "name_wo_diacritics": "Lukovit",
+      "subdivision_code": "11",
+      "subdivision_name": "Lovech",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4312N 02410E",
+      "latitude": 43.2,
+      "longitude": 24.1667,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "oblast_code": "LOV",
+      "oblast_name": "Ловеч",
+      "oblast_name_latin": "Lovech",
+      "oblast_slug": "lovech",
+      "oblast_ekatte": "43952",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 4,
+      "parent_index": 164,
+      "locode": "BGMIE",
+      "country": "BG",
+      "location": "MIE",
+      "name": "Mikre",
+      "name_wo_diacritics": "Mikre",
+      "subdivision_code": "11",
+      "subdivision_name": "Lovech",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4302N 02431E",
+      "latitude": 43.0333,
+      "longitude": 24.5167,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "oblast_code": "LOV",
+      "oblast_name": "Ловеч",
+      "oblast_name_latin": "Lovech",
+      "oblast_slug": "lovech",
+      "oblast_ekatte": "43952",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 5,
+      "parent_index": 299,
+      "locode": "BGTRY",
+      "country": "BG",
+      "location": "TRY",
+      "name": "Troyan",
+      "name_wo_diacritics": "Troyan",
+      "subdivision_code": "11",
+      "subdivision_name": "Lovech",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4253N 02442E",
+      "latitude": 42.8833,
+      "longitude": 24.7,
+      "date_updated": "2016-01",
+      "remarks": "",
+      "oblast_code": "LOV",
+      "oblast_name": "Ловеч",
+      "oblast_name_latin": "Lovech",
+      "oblast_slug": "lovech",
+      "oblast_ekatte": "43952",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 6,
+      "parent_index": 301,
+      "locode": "BGTTV",
+      "country": "BG",
+      "location": "TTV",
+      "name": "Teteven",
+      "name_wo_diacritics": "Teteven",
+      "subdivision_code": "11",
+      "subdivision_name": "Lovech",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4255N 02416E",
+      "latitude": 42.9167,
+      "longitude": 24.2667,
+      "date_updated": "2005-07",
+      "remarks": "",
+      "oblast_code": "LOV",
+      "oblast_name": "Ловеч",
+      "oblast_name_latin": "Lovech",
+      "oblast_slug": "lovech",
+      "oblast_ekatte": "43952",
+      "nuts_region": "BG31"
+    },
+    {
+      "id": 7,
+      "parent_index": 320,
+      "locode": "BGVRN",
+      "country": "BG",
+      "location": "VRN",
+      "name": "Drenov",
+      "name_wo_diacritics": "Drenov",
+      "subdivision_code": "11",
+      "subdivision_name": "Lovech",
+      "subdivision_type": "Region",
+      "status": "RL",
+      "status_description": "Recognised location - Existence and representation of location name confirmed by check against nominated gazetteer or other reference work",
+      "function": "--3-----",
+      "functions": "Road transport",
+      "iata": "",
+      "coordinates": "4317N 02451E",
+      "latitude": 43.2833,
+      "longitude": 24.85,
+      "date_updated": "2016-07",
+      "remarks": "",
+      "oblast_code": "LOV",
+      "oblast_name": "Ловеч",
+      "oblast_name_latin": "Lovech",
+      "oblast_slug": "lovech",
+      "oblast_ekatte": "43952",
+      "nuts_region": "BG31"
+    }
+  ],
+  "meta": {
+    "title": "UN/LOCODE — област Ловеч (UN/LOCODE locations in Lovech Province) - Безплатно изтегляне",
+    "description": "Кодове UN/LOCODE на населените места в област Ловеч (Lovech), 7 записа. Подмножество на bg-unlocode, филтрирано по собственото поле Subdivision на UNECE (ISO 3166-2 BG-11). Съдържа код, име, статус, транспортни функции и координати. / UN/LOCODE entries for Lovech Province, Bulgaria. Subset of bg-unlocode selected on UNECE's own Subdivision column — no geometry, no name matching, no inference. Съдържа 7 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "UN/LOCODE — област Ловеч (UN/LOCODE locations in Lovech Province) | ListBase",
+    "seo_description": "Изтеглете UN/LOCODE — област Ловеч (UN/LOCODE locations in Lovech Province) — 7 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 7 записа / 26 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

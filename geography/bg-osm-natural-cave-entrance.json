@@ -1,0 +1,1762 @@
+{
+  "id": "bg-osm-natural-cave-entrance",
+  "name": "Входове на пещери в България (OpenStreetMap)",
+  "title": "Входове на пещери в България (OpenStreetMap)",
+  "description": "Входове на пещери в България — 189 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `natural=cave_entrance`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 189,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Cave Monastery",
+      "shirina": 43.274724,
+      "dalzhina": 27.121098,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 2,
+      "ime": "Exit",
+      "shirina": 41.61314,
+      "dalzhina": 24.379396,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 3,
+      "ime": "Höhleneingang",
+      "shirina": 43.172321,
+      "dalzhina": 24.078662,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 4,
+      "ime": "Toplitsa Cave",
+      "shirina": 43.190703,
+      "dalzhina": 24.005256,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 5,
+      "ime": "Ushatovi Dupki real point",
+      "shirina": 42.011211,
+      "dalzhina": 24.275402,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 6,
+      "ime": "Академик",
+      "shirina": 42.492632,
+      "dalzhina": 23.188085,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 7,
+      "ime": "Арбанашка пещера",
+      "shirina": 43.090307,
+      "dalzhina": 25.688123,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 8,
+      "ime": "Банковица",
+      "shirina": 43.174007,
+      "dalzhina": 24.078205,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 9,
+      "ime": "Бачо Киро",
+      "shirina": 42.947071,
+      "dalzhina": 25.430258,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 10,
+      "ime": "Бежанска пещера",
+      "shirina": 42.844275,
+      "dalzhina": 22.715419,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 11,
+      "ime": "Бездънен пчелин",
+      "shirina": 43.046352,
+      "dalzhina": 24.148776,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 12,
+      "ime": "Бездънният пчелин",
+      "shirina": 43.046391,
+      "dalzhina": 24.148797,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 13,
+      "ime": "Бисерна",
+      "shirina": 43.266071,
+      "dalzhina": 26.886481,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 14,
+      "ime": "Бисерна (Стар вход)",
+      "shirina": 43.266466,
+      "dalzhina": 26.887006,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 15,
+      "ime": "Богова ливада",
+      "shirina": 43.102598,
+      "dalzhina": 23.053583,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 16,
+      "ime": "Божи Мост",
+      "shirina": 43.31527,
+      "dalzhina": 23.551993,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 17,
+      "ime": "Бонинска пещера",
+      "shirina": 43.24,
+      "dalzhina": 25.046667,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 18,
+      "ime": "Бориковска пещера",
+      "shirina": 41.488239,
+      "dalzhina": 24.599295,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 19,
+      "ime": "Бояна",
+      "shirina": 42.642164,
+      "dalzhina": 23.266485,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 20,
+      "ime": "Бузлуджанска пещера",
+      "shirina": 42.74026,
+      "dalzhina": 25.396029,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 21,
+      "ime": "Венеца",
+      "shirina": 43.628985,
+      "dalzhina": 22.735969,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 22,
+      "ime": "Вертикална пещера „Пропаст“",
+      "shirina": 43.070412,
+      "dalzhina": 23.381086,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 23,
+      "ime": "Вихренската пещера",
+      "shirina": 41.766981,
+      "dalzhina": 23.406647,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 24,
+      "ime": "Влаевска пещера",
+      "shirina": 42.922302,
+      "dalzhina": 24.207535,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 25,
+      "ime": "Водната",
+      "shirina": 41.996944,
+      "dalzhina": 24.290278,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 26,
+      "ime": "Водната пещ",
+      "shirina": 43.011179,
+      "dalzhina": 23.746268,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 27,
+      "ime": "Водните дупки",
+      "shirina": 42.733673,
+      "dalzhina": 24.899854,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 28,
+      "ime": "Водопада",
+      "shirina": 43.242503,
+      "dalzhina": 25.033616,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 29,
+      "ime": "Войновски скален манастир",
+      "shirina": 43.967199,
+      "dalzhina": 27.398459,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 30,
+      "ime": "Вражите дупки",
+      "shirina": 43.088723,
+      "dalzhina": 23.364432,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 31,
+      "ime": "Гарваница",
+      "shirina": 41.907841,
+      "dalzhina": 24.663517,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 32,
+      "ime": "Гарваница",
+      "shirina": 43.211653,
+      "dalzhina": 25.047634,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 33,
+      "ime": "Гарванова",
+      "shirina": 42.940788,
+      "dalzhina": 22.954657,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 34,
+      "ime": "Гаргина",
+      "shirina": 41.885667,
+      "dalzhina": 24.890964,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 35,
+      "ime": "Гинината пещера",
+      "shirina": 43.288782,
+      "dalzhina": 24.374114,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 36,
+      "ime": "Голубовица 2",
+      "shirina": 41.515532,
+      "dalzhina": 24.665816,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 37,
+      "ime": "Голямата Леденица",
+      "shirina": 43.046547,
+      "dalzhina": 24.182473,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 38,
+      "ime": "Градът",
+      "shirina": 43.120556,
+      "dalzhina": 25.09,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 39,
+      "ime": "Гробницата на Бастет",
+      "shirina": 41.967127,
+      "dalzhina": 27.487991,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 40,
+      "ime": "Гуокин",
+      "shirina": 41.605743,
+      "dalzhina": 25.718163,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 41,
+      "ime": "Гълъбарника",
+      "shirina": 43.192658,
+      "dalzhina": 24.00178,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 42,
+      "ime": "Деветашка пещера",
+      "shirina": 43.233444,
+      "dalzhina": 24.885412,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 43,
+      "ime": "Диневата пещ",
+      "shirina": 43.066255,
+      "dalzhina": 23.104394,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 44,
+      "ime": "Добростански бисер",
+      "shirina": 41.891447,
+      "dalzhina": 24.872898,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 45,
+      "ime": "Долна пещера",
+      "shirina": 41.725814,
+      "dalzhina": 25.955309,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 46,
+      "ime": "Драгановата дупка",
+      "shirina": 41.475233,
+      "dalzhina": 24.012435,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 47,
+      "ime": "Драганчовица",
+      "shirina": 43.023903,
+      "dalzhina": 24.164114,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 48,
+      "ime": "Дракула",
+      "shirina": 43.004687,
+      "dalzhina": 22.94714,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 49,
+      "ime": "Дрънчи дупка",
+      "shirina": 42.046954,
+      "dalzhina": 26.537695,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 50,
+      "ime": "Дряновска пещера",
+      "shirina": 42.881036,
+      "dalzhina": 26.357247,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 51,
+      "ime": "Дуванка",
+      "shirina": 42.590734,
+      "dalzhina": 25.961872,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 52,
+      "ime": "Дупките",
+      "shirina": 41.890361,
+      "dalzhina": 24.502839,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 53,
+      "ime": "Дупница",
+      "shirina": 43.096082,
+      "dalzhina": 23.599136,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 54,
+      "ime": "Духлата",
+      "shirina": 42.496609,
+      "dalzhina": 23.196194,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 55,
+      "ime": "Душника",
+      "shirina": 42.997326,
+      "dalzhina": 23.234716,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 56,
+      "ime": "Ел Сагуаро",
+      "shirina": 43.094437,
+      "dalzhina": 23.078046,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 57,
+      "ime": "Ергеле пещера",
+      "shirina": 43.820855,
+      "dalzhina": 27.595434,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 58,
+      "ime": "Еэерото",
+      "shirina": 43.098937,
+      "dalzhina": 23.610379,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 59,
+      "ime": "Живата вода",
+      "shirina": 42.525201,
+      "dalzhina": 23.20265,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 60,
+      "ime": "Житолюб",
+      "shirina": 43.088478,
+      "dalzhina": 23.383424,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 61,
+      "ime": "Жълтата пещера",
+      "shirina": 41.903436,
+      "dalzhina": 25.232728,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 62,
+      "ime": "Задъненка",
+      "shirina": 43.176195,
+      "dalzhina": 24.069103,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 63,
+      "ime": "Зандана",
+      "shirina": 41.61883,
+      "dalzhina": 25.72055,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 64,
+      "ime": "Зиданка",
+      "shirina": 43.089211,
+      "dalzhina": 23.384411,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 65,
+      "ime": "Змеева дупка",
+      "shirina": 42.876229,
+      "dalzhina": 25.476963,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 66,
+      "ime": "Змеевата дупка",
+      "shirina": 41.581891,
+      "dalzhina": 24.396157,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 67,
+      "ime": "Змееви дупки",
+      "shirina": 42.698899,
+      "dalzhina": 26.357496,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 68,
+      "ime": "Иванчова Върпина",
+      "shirina": 43.18,
+      "dalzhina": 24.910833,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 69,
+      "ime": "Извора",
+      "shirina": 41.62422,
+      "dalzhina": 24.029219,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 70,
+      "ime": "Имамна",
+      "shirina": 41.866004,
+      "dalzhina": 24.554966,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 71,
+      "ime": "Капанът на времето",
+      "shirina": 43.310448,
+      "dalzhina": 24.112676,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 72,
+      "ime": "Кован кая",
+      "shirina": 41.617459,
+      "dalzhina": 25.720773,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 73,
+      "ime": "Козарника",
+      "shirina": 43.651882,
+      "dalzhina": 22.70244,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 74,
+      "ime": "Козарска пещера",
+      "shirina": 43.083858,
+      "dalzhina": 23.373699,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 75,
+      "ime": "Колкина дупка",
+      "shirina": 43.060722,
+      "dalzhina": 23.274556,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 76,
+      "ime": "Контрабаса",
+      "shirina": 43.17514,
+      "dalzhina": 24.067778,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 77,
+      "ime": "Кошарата",
+      "shirina": 43.186234,
+      "dalzhina": 24.028351,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 78,
+      "ime": "Кощуля",
+      "shirina": 41.868934,
+      "dalzhina": 24.912027,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 79,
+      "ime": "Крайпътна пещера",
+      "shirina": 41.512433,
+      "dalzhina": 24.760192,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 80,
+      "ime": "Кралимаркова дупка",
+      "shirina": 42.743723,
+      "dalzhina": 24.726174,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 81,
+      "ime": "Куманица",
+      "shirina": 42.7495,
+      "dalzhina": 24.6943,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 82,
+      "ime": "Курудеренска проходна",
+      "shirina": 41.626789,
+      "dalzhina": 24.340231,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 83,
+      "ime": "Курудеренска проходна пещера",
+      "shirina": 41.626659,
+      "dalzhina": 24.3407,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 84,
+      "ime": "Кушушница",
+      "shirina": 43.011532,
+      "dalzhina": 23.256536,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 85,
+      "ime": "Леденика",
+      "shirina": 43.20443,
+      "dalzhina": 23.493663,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 86,
+      "ime": "Ледницата",
+      "shirina": 41.648942,
+      "dalzhina": 24.526222,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 87,
+      "ime": "Леднишката дупка",
+      "shirina": 42.762263,
+      "dalzhina": 25.249822,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 88,
+      "ime": "Лепеница",
+      "shirina": 41.954143,
+      "dalzhina": 24.010838,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 89,
+      "ime": "Липнишка пещера \"Очите\"",
+      "shirina": 43.011593,
+      "dalzhina": 23.750212,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 90,
+      "ime": "Маарата",
+      "shirina": 43.24201,
+      "dalzhina": 25.034398,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 91,
+      "ime": "Магурата",
+      "shirina": 43.727842,
+      "dalzhina": 22.582675,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 92,
+      "ime": "Магурата",
+      "shirina": 43.732152,
+      "dalzhina": 22.576996,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 93,
+      "ime": "Марина дупка",
+      "shirina": 42.881121,
+      "dalzhina": 25.455133,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 94,
+      "ime": "Марината Дупка",
+      "shirina": 43.198708,
+      "dalzhina": 26.494845,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 95,
+      "ime": "Маркова дупка",
+      "shirina": 43.187688,
+      "dalzhina": 24.026038,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 96,
+      "ime": "Меча Дупка",
+      "shirina": 41.661478,
+      "dalzhina": 24.245546,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 97,
+      "ime": "Мечата Дупка",
+      "shirina": 42.990133,
+      "dalzhina": 23.2534,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 98,
+      "ime": "Мечата дупка",
+      "shirina": 42.480141,
+      "dalzhina": 25.086929,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 99,
+      "ime": "Моровица",
+      "shirina": 42.965033,
+      "dalzhina": 24.179954,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 100,
+      "ime": "Мурговица",
+      "shirina": 43.170346,
+      "dalzhina": 24.074671,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 101,
+      "ime": "Мусинска пещера",
+      "shirina": 43.150727,
+      "dalzhina": 25.42749,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 102,
+      "ime": "Надарска пещера",
+      "shirina": 41.526417,
+      "dalzhina": 24.630284,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 103,
+      "ime": "Новата стара",
+      "shirina": 42.013477,
+      "dalzhina": 24.2802,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 104,
+      "ime": "Овнарката",
+      "shirina": 43.17576,
+      "dalzhina": 24.068299,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 105,
+      "ime": "Орлова чука",
+      "shirina": 43.593316,
+      "dalzhina": 25.960082,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 106,
+      "ime": "Очите",
+      "shirina": 43.175742,
+      "dalzhina": 24.072844,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 107,
+      "ime": "Очите",
+      "shirina": 43.226167,
+      "dalzhina": 24.325901,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 108,
+      "ime": "Парамунска пропаст",
+      "shirina": 42.803479,
+      "dalzhina": 22.736912,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 109,
+      "ime": "Пепелянката",
+      "shirina": 42.492974,
+      "dalzhina": 23.194936,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 110,
+      "ime": "Пещера \"Мечата дупка\"",
+      "shirina": 43.884228,
+      "dalzhina": 22.757125,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 111,
+      "ime": "Пещера \"Прилепарнико\"",
+      "shirina": 43.793837,
+      "dalzhina": 22.793949,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 112,
+      "ime": "Пещера \"Сакулица\"",
+      "shirina": 43.805893,
+      "dalzhina": 22.817377,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 113,
+      "ime": "Пещера Калугерска дупка",
+      "shirina": 43.092827,
+      "dalzhina": 25.673306,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 114,
+      "ime": "Пещера Кеди кая",
+      "shirina": 41.650992,
+      "dalzhina": 25.503637,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 115,
+      "ime": "Пещера Типеца",
+      "shirina": 41.477589,
+      "dalzhina": 24.613436,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 116,
+      "ime": "Пещера Шаренка",
+      "shirina": 41.489796,
+      "dalzhina": 24.91764,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 117,
+      "ime": "Пещера св. Иван Рилски",
+      "shirina": 42.174693,
+      "dalzhina": 22.946841,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 118,
+      "ime": "Пещера „Опушената дупка“",
+      "shirina": 43.808967,
+      "dalzhina": 22.817094,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 119,
+      "ime": "Пещерата",
+      "shirina": 42.697231,
+      "dalzhina": 24.926711,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 120,
+      "ime": "Пещерата",
+      "shirina": 43.153411,
+      "dalzhina": 25.453617,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 121,
+      "ime": "Пещерата с дървото",
+      "shirina": 43.28728,
+      "dalzhina": 23.348708,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 122,
+      "ime": "Пещерата с иконата",
+      "shirina": 41.930368,
+      "dalzhina": 24.868118,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 123,
+      "ime": "Пещерна лаборатория",
+      "shirina": 41.662671,
+      "dalzhina": 24.711361,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 124,
+      "ime": "Погриз",
+      "shirina": 43.148056,
+      "dalzhina": 24.956667,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 125,
+      "ime": "Понора",
+      "shirina": 43.306633,
+      "dalzhina": 23.576403,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 126,
+      "ime": "Понорите",
+      "shirina": 43.146582,
+      "dalzhina": 25.424995,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 127,
+      "ime": "Поп Мартиновата дупка",
+      "shirina": 41.613008,
+      "dalzhina": 25.727722,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 128,
+      "ime": "Прилепната пещера",
+      "shirina": 43.82261,
+      "dalzhina": 27.595022,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 129,
+      "ime": "Проходна - вход",
+      "shirina": 43.174989,
+      "dalzhina": 24.07416,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 130,
+      "ime": "Проходна - изход",
+      "shirina": 43.176846,
+      "dalzhina": 24.072649,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 131,
+      "ime": "Проходна пещера",
+      "shirina": 41.726211,
+      "dalzhina": 25.956274,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 132,
+      "ime": "Пясъчната пещера",
+      "shirina": 43.243452,
+      "dalzhina": 27.93275,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 133,
+      "ime": "Райчова дупка",
+      "shirina": 42.768522,
+      "dalzhina": 24.6821,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 134,
+      "ime": "Рогачева пещера",
+      "shirina": 42.705769,
+      "dalzhina": 24.931936,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 135,
+      "ime": "Русалка",
+      "shirina": 43.26901,
+      "dalzhina": 26.875187,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 136,
+      "ime": "Ръжишка пещера",
+      "shirina": 43.090241,
+      "dalzhina": 23.384949,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 137,
+      "ime": "Самуилица 2",
+      "shirina": 43.194051,
+      "dalzhina": 24.001813,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 138,
+      "ime": "Св. Иван Рилски",
+      "shirina": 42.433079,
+      "dalzhina": 22.724039,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 139,
+      "ime": "Света вода",
+      "shirina": 43.064671,
+      "dalzhina": 23.104811,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 140,
+      "ime": "Свинската дупка",
+      "shirina": 43.087869,
+      "dalzhina": 23.371757,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 141,
+      "ime": "Свирчовица",
+      "shirina": 43.172291,
+      "dalzhina": 24.076795,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 142,
+      "ime": "Скална ниша",
+      "shirina": 43.621042,
+      "dalzhina": 26.019294,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 143,
+      "ime": "Снежанка",
+      "shirina": 42.00259,
+      "dalzhina": 24.277461,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 144,
+      "ime": "Соколова скала",
+      "shirina": 42.168703,
+      "dalzhina": 23.999823,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 145,
+      "ime": "Стълбицата",
+      "shirina": 43.217571,
+      "dalzhina": 24.973321,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 146,
+      "ime": "Сухата печ",
+      "shirina": 43.49523,
+      "dalzhina": 22.780541,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 147,
+      "ime": "Съева дупка",
+      "shirina": 43.046989,
+      "dalzhina": 24.186107,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 148,
+      "ime": "Темна дупка",
+      "shirina": 43.189477,
+      "dalzhina": 24.14457,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 149,
+      "ime": "Темната дупка",
+      "shirina": 43.013751,
+      "dalzhina": 22.888594,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 150,
+      "ime": "Темната дупка",
+      "shirina": 43.089265,
+      "dalzhina": 23.384905,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 151,
+      "ime": "Темната дупка",
+      "shirina": 43.174531,
+      "dalzhina": 24.07393,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 152,
+      "ime": "Темната дупка",
+      "shirina": 43.203767,
+      "dalzhina": 27.701931,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 153,
+      "ime": "Тизоин",
+      "shirina": 43.088832,
+      "dalzhina": 23.075484,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 154,
+      "ime": "Топля",
+      "shirina": 42.947323,
+      "dalzhina": 24.488665,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 155,
+      "ime": "Травнината / Говедарника",
+      "shirina": 43.010368,
+      "dalzhina": 23.255199,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 156,
+      "ime": "Тракийско скално светилище",
+      "shirina": 42.641248,
+      "dalzhina": 23.876021,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 157,
+      "ime": "Тупчик",
+      "shirina": 41.880017,
+      "dalzhina": 24.892048,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 158,
+      "ime": "Тъмната дупка",
+      "shirina": 43.055905,
+      "dalzhina": 23.068857,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 159,
+      "ime": "Тюленовата пещера",
+      "shirina": 43.501782,
+      "dalzhina": 28.589581,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 160,
+      "ime": "Урушка Маара",
+      "shirina": 43.245,
+      "dalzhina": 25.029167,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 161,
+      "ime": "Утроба Ковил",
+      "shirina": 41.52466,
+      "dalzhina": 25.662674,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 162,
+      "ime": "Ухловица",
+      "shirina": 41.514176,
+      "dalzhina": 24.659933,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 163,
+      "ime": "Ушатови дупки",
+      "shirina": 42.011606,
+      "dalzhina": 24.276856,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 164,
+      "ime": "Фрънкая",
+      "shirina": 42.711174,
+      "dalzhina": 24.040343,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 165,
+      "ime": "Футула",
+      "shirina": 42.720064,
+      "dalzhina": 26.357127,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 166,
+      "ime": "Футьова пещера",
+      "shirina": 43.230833,
+      "dalzhina": 24.981111,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 167,
+      "ime": "Хана",
+      "shirina": 41.770646,
+      "dalzhina": 23.42232,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 168,
+      "ime": "Харамийска пещера",
+      "shirina": 41.614002,
+      "dalzhina": 24.381224,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 169,
+      "ime": "Хралупата",
+      "shirina": 41.879428,
+      "dalzhina": 24.877062,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 170,
+      "ime": "Цаконишка пещера",
+      "shirina": 43.226085,
+      "dalzhina": 23.803347,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 171,
+      "ime": "Цачкова дупка",
+      "shirina": 42.894493,
+      "dalzhina": 24.553574,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 172,
+      "ime": "Циганската дупка",
+      "shirina": 41.839487,
+      "dalzhina": 24.78123,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 173,
+      "ime": "Църквата",
+      "shirina": 43.612953,
+      "dalzhina": 25.983248,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 174,
+      "ime": "Чавдарска пещера",
+      "shirina": 43.241981,
+      "dalzhina": 24.96749,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 175,
+      "ime": "Челячката",
+      "shirina": 43.186553,
+      "dalzhina": 24.027329,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 176,
+      "ime": "Червен",
+      "shirina": 42.935053,
+      "dalzhina": 24.287682,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 177,
+      "ime": "Четирска пещера - Уске",
+      "shirina": 42.247328,
+      "dalzhina": 22.885138,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 178,
+      "ime": "Чифлика",
+      "shirina": 41.880032,
+      "dalzhina": 24.532087,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 179,
+      "ime": "Човешката",
+      "shirina": 41.871668,
+      "dalzhina": 24.600494,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 180,
+      "ime": "Човешката пещера",
+      "shirina": 43.212831,
+      "dalzhina": 24.328547,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 181,
+      "ime": "Чуката",
+      "shirina": 43.1425,
+      "dalzhina": 24.945278,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 182,
+      "ime": "Шаренка",
+      "shirina": 41.488273,
+      "dalzhina": 24.916072,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 183,
+      "ime": "Юбилейна",
+      "shirina": 42.006738,
+      "dalzhina": 24.281867,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 184,
+      "ime": "Ягодинска пещера",
+      "shirina": 41.628968,
+      "dalzhina": 24.330044,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 185,
+      "ime": "Ямата",
+      "shirina": 41.877155,
+      "dalzhina": 24.877011,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 186,
+      "ime": "Ямата",
+      "shirina": 42.743606,
+      "dalzhina": 23.999601,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 187,
+      "ime": "Ямата",
+      "shirina": 43.058887,
+      "dalzhina": 23.050795,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 188,
+      "ime": "Янина къща",
+      "shirina": 41.612292,
+      "dalzhina": 24.027348,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    },
+    {
+      "id": 189,
+      "ime": "пещера Совата",
+      "shirina": 43.330495,
+      "dalzhina": 27.919705,
+      "osm_klyuch": "natural",
+      "osm_stoynost": "cave_entrance",
+      "osm_klas": "natural=cave_entrance"
+    }
+  ],
+  "meta": {
+    "title": "Входове на пещери в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Входове на пещери в България — 189 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `natural=cave_entrance`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 189 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Входове на пещери в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Входове на пещери в България (OpenStreetMap) — 189 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 189 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

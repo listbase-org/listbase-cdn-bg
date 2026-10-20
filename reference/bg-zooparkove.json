@@ -1,0 +1,203 @@
+{
+  "id": "bg-zooparkove",
+  "name": "Зоопаркове в България",
+  "title": "Зоопаркове в България",
+  "description": "Zoos in Bulgaria with coordinates, sourced from Wikidata.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_bg",
+      "label": "Admin Area Bg",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q18639634",
+      "name_bg": "",
+      "name_en": "Pleven Zoo",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 43.3555,
+      "longitude": 24.6431,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18639634"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q18639853",
+      "name_bg": "",
+      "name_en": "Varna Zoo",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.2106,
+      "longitude": 27.9371,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18639853"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3657749",
+      "name_bg": "Варненски аквариум",
+      "name_en": "Varna Aquarium",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.2014,
+      "longitude": 27.9225,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3657749"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q19850452",
+      "name_bg": "Варненски делфинариум",
+      "name_en": "Festa Dolphinarium",
+      "admin_area_bg": "Варна",
+      "admin_area_en": "Varna",
+      "latitude": 43.211389,
+      "longitude": 27.939444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19850452"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q20498601",
+      "name_bg": "Зоопарк",
+      "name_en": "Dobrich Zoo",
+      "admin_area_bg": "Добрич",
+      "admin_area_en": "Dobrich",
+      "latitude": 43.559166666,
+      "longitude": 27.843888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20498601"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q12280587",
+      "name_bg": "Зоопарк (Кюстендил)",
+      "name_en": "",
+      "admin_area_bg": "",
+      "admin_area_en": "",
+      "latitude": 42.275038,
+      "longitude": 22.693364,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12280587"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q18639466",
+      "name_bg": "Зоопарк (Ловеч)",
+      "name_en": "Lovech Zoo",
+      "admin_area_bg": "Ловеч",
+      "admin_area_en": "Lovech",
+      "latitude": 43.1385,
+      "longitude": 24.7276,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18639466"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q108475856",
+      "name_bg": "Зоопарк Благоевград",
+      "name_en": "Blagoevgrad Zoo",
+      "admin_area_bg": "Благоевград",
+      "admin_area_en": "Blagoevgrad",
+      "latitude": 42.013611111,
+      "longitude": 23.103333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108475856"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q18639637",
+      "name_bg": "Пловдивски зоопарк",
+      "name_en": "Plovdiv Zoo",
+      "admin_area_bg": "Пловдив",
+      "admin_area_en": "Plovdiv",
+      "latitude": 42.1439,
+      "longitude": 24.7109,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18639637"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q966676",
+      "name_bg": "Софийски зоопарк",
+      "name_en": "Sofia Zoo",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.65805556,
+      "longitude": 23.33194444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q966676"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q18639777",
+      "name_bg": "Старозагорска зоологическа градина",
+      "name_en": "Stara Zagora Zoo",
+      "admin_area_bg": "Стара Загора",
+      "admin_area_en": "Stara Zagora",
+      "latitude": 42.4383,
+      "longitude": 25.6096,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18639777"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q134250511",
+      "name_bg": "Терариум в Зоопарк София",
+      "name_en": "Terrarium at Sofia Zoo",
+      "admin_area_bg": "София",
+      "admin_area_en": "Sofia",
+      "latitude": 42.660113759,
+      "longitude": 23.330910888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134250511"
+    }
+  ],
+  "meta": {
+    "title": "Зоопаркове в България - Безплатно изтегляне",
+    "description": "Zoos in Bulgaria with coordinates, sourced from Wikidata. Съдържа 12 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Зоопаркове в България | ListBase",
+    "seo_description": "Изтеглете Зоопаркове в България — 12 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 12 записа / 9 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

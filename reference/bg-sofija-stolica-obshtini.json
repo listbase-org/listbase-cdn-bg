@@ -1,0 +1,118 @@
+{
+  "id": "bg-sofija-stolica-obshtini",
+  "name": "Общини — област София (столична) (Municipalities of Sofia (capital))",
+  "title": "Общини — област София (столична) (Municipalities of Sofia (capital))",
+  "description": "Списък на общините в област София (столична) (Sofia (capital) oblast). 1 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SOF. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "gisco_id",
+      "label": "Gisco Id",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "name_bg",
+      "label": "Name Bg",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "population_2024",
+      "label": "Population 2024",
+      "type": "number"
+    },
+    {
+      "key": "population_density_2024_per_km2",
+      "label": "Population Density 2024 Per Km2",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "disaster_plan_available",
+      "label": "Disaster Plan Available",
+      "type": "boolean"
+    },
+    {
+      "key": "disaster_plan_url",
+      "label": "Disaster Plan Url",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 172,
+      "gisco_id": "BG_SOF46",
+      "oblast_code": "SOF",
+      "oblast_slug": "sofija-stolica",
+      "oblast_bg": "София (столична)",
+      "oblast_en": "Sofia (capital)",
+      "name_bg": "Столична",
+      "name_en": "",
+      "slug": "stolichna",
+      "population_2024": 1286965,
+      "population_density_2024_per_km2": 959.15914966,
+      "area_km2": 1341.76377346,
+      "disaster_plan_available": true,
+      "disaster_plan_url": "https://www.sofia.bg/disaster-protection",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "title": "Общини — област София (столична) (Municipalities of Sofia (capital)) - Безплатно изтегляне",
+    "description": "Списък на общините в област София (столична) (Sofia (capital) oblast). 1 общини с население (2024 г.), площ и план за защита при бедствия. Подмножество на bg-obshtini ограничено до GISCO префикс SOF. Source: eugeniasarafova/bulgarian-municipal-disaster-plans-2025 (CC0 1.0). Съдържа 1 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Общини — област София (столична) (Municipalities of Sofia (capital)) | ListBase",
+    "seo_description": "Изтеглете Общини — област София (столична) (Municipalities of Sofia (capital)) — 1 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 1 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

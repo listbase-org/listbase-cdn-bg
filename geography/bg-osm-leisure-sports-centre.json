@@ -1,0 +1,2545 @@
+{
+  "id": "bg-osm-leisure-sports-centre",
+  "name": "Спортни центрове в България (OpenStreetMap)",
+  "title": "Спортни центрове в България (OpenStreetMap)",
+  "description": "Спортни центрове в България — 276 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `leisure=sports_centre`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 276,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "2Fit",
+      "shirina": 42.659666,
+      "dalzhina": 23.38254,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 2,
+      "ime": "5kmrun",
+      "shirina": 42.671894,
+      "dalzhina": 23.307661,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 3,
+      "ime": "Air energy",
+      "shirina": 42.682307,
+      "dalzhina": 23.312034,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 4,
+      "ime": "Asics Arena",
+      "shirina": 42.684378,
+      "dalzhina": 23.365929,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 5,
+      "ime": "Atama",
+      "shirina": 42.6872,
+      "dalzhina": 23.35143,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 6,
+      "ime": "Balkan Climbing",
+      "shirina": 42.624398,
+      "dalzhina": 23.362279,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 7,
+      "ime": "Camay Beach",
+      "shirina": 42.691527,
+      "dalzhina": 23.369683,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 8,
+      "ime": "DPool",
+      "shirina": 42.72545,
+      "dalzhina": 23.253008,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 9,
+      "ime": "Fenix Sport",
+      "shirina": 42.687237,
+      "dalzhina": 23.248389,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 10,
+      "ime": "Fireball",
+      "shirina": 42.656419,
+      "dalzhina": 23.390688,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 11,
+      "ime": "Fit City Gym",
+      "shirina": 42.458569,
+      "dalzhina": 27.420509,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 12,
+      "ime": "Fitness",
+      "shirina": 42.563892,
+      "dalzhina": 27.603359,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 13,
+      "ime": "Flex",
+      "shirina": 42.637669,
+      "dalzhina": 24.817797,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 14,
+      "ime": "Funtopia",
+      "shirina": 42.657639,
+      "dalzhina": 23.313494,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 15,
+      "ime": "Garitage Park",
+      "shirina": 42.622606,
+      "dalzhina": 23.372158,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 16,
+      "ime": "Horse Riding Station \"Stella\"",
+      "shirina": 41.938399,
+      "dalzhina": 24.679258,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 17,
+      "ime": "ID Fit",
+      "shirina": 42.71221,
+      "dalzhina": 23.263527,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 18,
+      "ime": "Indoor Pool",
+      "shirina": 42.711953,
+      "dalzhina": 27.726226,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 19,
+      "ime": "Karting Sunny Beach",
+      "shirina": 42.696144,
+      "dalzhina": 27.701228,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 20,
+      "ime": "Kids Swiming Pool",
+      "shirina": 43.203106,
+      "dalzhina": 23.566716,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 21,
+      "ime": "Kомплекс С.И.2Л.А.",
+      "shirina": 42.13734,
+      "dalzhina": 24.738635,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 22,
+      "ime": "Lonsdale Boxing Club Sofia",
+      "shirina": 42.669841,
+      "dalzhina": 23.381858,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 23,
+      "ime": "MG Sport",
+      "shirina": 42.652928,
+      "dalzhina": 23.314367,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 24,
+      "ime": "Marina Aerobic Place",
+      "shirina": 42.372717,
+      "dalzhina": 27.711038,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 25,
+      "ime": "Mettasense Yoga & Relax Area",
+      "shirina": 42.661306,
+      "dalzhina": 23.285315,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 26,
+      "ime": "Momentum Indoor Climbing Sofia",
+      "shirina": 42.665264,
+      "dalzhina": 23.374655,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 27,
+      "ime": "MyFitness",
+      "shirina": 43.56458,
+      "dalzhina": 27.820992,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 28,
+      "ime": "Off-road полигон Дълбок дол",
+      "shirina": 42.96949,
+      "dalzhina": 24.647051,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 29,
+      "ime": "Orange Fitness & Spa",
+      "shirina": 43.213049,
+      "dalzhina": 27.934508,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 30,
+      "ime": "PARK & SPA 2 Sports Center",
+      "shirina": 42.645879,
+      "dalzhina": 23.326944,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 31,
+      "ime": "Pulse Fitness & SPA",
+      "shirina": 42.655349,
+      "dalzhina": 23.280457,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 32,
+      "ime": "R5",
+      "shirina": 42.709471,
+      "dalzhina": 23.257125,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 33,
+      "ime": "Regnun Banya Thermal",
+      "shirina": 41.880279,
+      "dalzhina": 23.529066,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 34,
+      "ime": "Silver City Swimming Pool",
+      "shirina": 42.656103,
+      "dalzhina": 23.312442,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 35,
+      "ime": "Silver city",
+      "shirina": 42.655787,
+      "dalzhina": 23.312693,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 36,
+      "ime": "Sport center \"Pulev\"",
+      "shirina": 42.685183,
+      "dalzhina": 23.259466,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 37,
+      "ime": "St. Tropez - pool & bar",
+      "shirina": 43.42815,
+      "dalzhina": 24.58487,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 38,
+      "ime": "Sun City",
+      "shirina": 41.574219,
+      "dalzhina": 23.286362,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 39,
+      "ime": "Tapia Dance House",
+      "shirina": 42.705774,
+      "dalzhina": 23.30741,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 40,
+      "ime": "The Red Gym",
+      "shirina": 42.670605,
+      "dalzhina": 23.299074,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 41,
+      "ime": "Varadero",
+      "shirina": 42.71233,
+      "dalzhina": 23.381877,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 42,
+      "ime": "Via Tennis Star",
+      "shirina": 42.717058,
+      "dalzhina": 23.285635,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 43,
+      "ime": "Weight Loss Program Lucky Fit",
+      "shirina": 41.842684,
+      "dalzhina": 23.484311,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 44,
+      "ime": "ZONA Fitness Paralel",
+      "shirina": 43.027331,
+      "dalzhina": 25.103492,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 45,
+      "ime": "efbet Национална футболна база",
+      "shirina": 42.653566,
+      "dalzhina": 23.278399,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 46,
+      "ime": "Айки Рей Доджо - Айкидо за деца",
+      "shirina": 42.673958,
+      "dalzhina": 23.322442,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 47,
+      "ime": "Айкидо",
+      "shirina": 42.705716,
+      "dalzhina": 23.307984,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 48,
+      "ime": "Айкидо / Аеробика",
+      "shirina": 43.235022,
+      "dalzhina": 27.885532,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 49,
+      "ime": "Аква клуб \"Котвата\"",
+      "shirina": 42.288273,
+      "dalzhina": 23.254296,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 50,
+      "ime": "Арена 8888 София",
+      "shirina": 42.671231,
+      "dalzhina": 23.369448,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 51,
+      "ime": "Арена Асарел",
+      "shirina": 42.509101,
+      "dalzhina": 24.189143,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 52,
+      "ime": "Арена Ботевград",
+      "shirina": 42.900047,
+      "dalzhina": 23.788314,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 53,
+      "ime": "Арена Годеч",
+      "shirina": 43.013184,
+      "dalzhina": 23.043849,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 54,
+      "ime": "Арена Русе",
+      "shirina": 43.846907,
+      "dalzhina": 25.962016,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 55,
+      "ime": "Арена Самоков",
+      "shirina": 42.332346,
+      "dalzhina": 23.555099,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 56,
+      "ime": "Арена Шумен",
+      "shirina": 43.279274,
+      "dalzhina": 26.925975,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 57,
+      "ime": "Атанас Комшев",
+      "shirina": 41.929233,
+      "dalzhina": 25.566884,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 58,
+      "ime": "Атлетик Фитнес",
+      "shirina": 42.695991,
+      "dalzhina": 23.345302,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 59,
+      "ime": "Атрим Арена",
+      "shirina": 42.150557,
+      "dalzhina": 24.799501,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 60,
+      "ime": "Басейн \"Нати\"",
+      "shirina": 43.149392,
+      "dalzhina": 23.71256,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 61,
+      "ime": "Басейн Дианабад",
+      "shirina": 42.665257,
+      "dalzhina": 23.344081,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 62,
+      "ime": "Басейн При Иван",
+      "shirina": 43.625497,
+      "dalzhina": 22.691595,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 63,
+      "ime": "Басейн-бар Стефанови",
+      "shirina": 42.848959,
+      "dalzhina": 23.033777,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 64,
+      "ime": "Белчин парк",
+      "shirina": 42.364425,
+      "dalzhina": 23.397406,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 65,
+      "ime": "Водни съоръжения под наем",
+      "shirina": 42.336115,
+      "dalzhina": 27.731168,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 66,
+      "ime": "Водно-развлекателен комплекс",
+      "shirina": 42.924446,
+      "dalzhina": 25.876644,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 67,
+      "ime": "Въжена градина",
+      "shirina": 42.43736,
+      "dalzhina": 25.614873,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 68,
+      "ime": "Горица",
+      "shirina": 42.676368,
+      "dalzhina": 26.305183,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 69,
+      "ime": "Градски басейн",
+      "shirina": 42.852415,
+      "dalzhina": 25.318192,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 70,
+      "ime": "Градски стадион",
+      "shirina": 42.194049,
+      "dalzhina": 25.33767,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 71,
+      "ime": "Гребна база \"Сия Нейкова\"",
+      "shirina": 43.192563,
+      "dalzhina": 27.865617,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 72,
+      "ime": "Гребна база Академик",
+      "shirina": 42.601165,
+      "dalzhina": 23.410183,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 73,
+      "ime": "Дворец на културата и спорта",
+      "shirina": 43.21083,
+      "dalzhina": 27.931617,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 74,
+      "ime": "Дворецът на културата и спорта “Васил Левски”",
+      "shirina": 43.077995,
+      "dalzhina": 25.609597,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 75,
+      "ime": "Детско-юношеска школа на ЦСКА",
+      "shirina": 42.677089,
+      "dalzhina": 23.406886,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 76,
+      "ime": "Дианабад",
+      "shirina": 42.666007,
+      "dalzhina": 23.345309,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 77,
+      "ime": "Добрички хиподрум",
+      "shirina": 43.54796,
+      "dalzhina": 27.817773,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 78,
+      "ime": "Евима",
+      "shirina": 41.861763,
+      "dalzhina": 23.505352,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 79,
+      "ime": "Европа - Спартак",
+      "shirina": 42.675127,
+      "dalzhina": 23.313056,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 80,
+      "ime": "Зал Единоборств",
+      "shirina": 43.342116,
+      "dalzhina": 28.058095,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 81,
+      "ime": "Зала \"Борба\"",
+      "shirina": 43.221805,
+      "dalzhina": 27.893938,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 82,
+      "ime": "Зала \"Димитър Нушев'",
+      "shirina": 43.219833,
+      "dalzhina": 27.898206,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 83,
+      "ime": "Зала \"Лека Атлетика и Шах\"",
+      "shirina": 43.220161,
+      "dalzhina": 27.897087,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 84,
+      "ime": "Зала Академик",
+      "shirina": 42.675612,
+      "dalzhina": 23.366015,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 85,
+      "ime": "Зала Балкан",
+      "shirina": 42.905051,
+      "dalzhina": 23.783167,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 86,
+      "ime": "Зала Бонсист",
+      "shirina": 42.650136,
+      "dalzhina": 23.354187,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 87,
+      "ime": "Зала Младост",
+      "shirina": 43.274849,
+      "dalzhina": 26.930852,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 88,
+      "ime": "Зала Универсиада",
+      "shirina": 42.681266,
+      "dalzhina": 23.355428,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 89,
+      "ime": "Зала за лека атлетика",
+      "shirina": 42.145914,
+      "dalzhina": 24.716851,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 90,
+      "ime": "Зала за тенис",
+      "shirina": 42.148216,
+      "dalzhina": 24.721363,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 91,
+      "ime": "Зала „Олимпиада“",
+      "shirina": 42.12233,
+      "dalzhina": 24.75481,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 92,
+      "ime": "Зимен дворец на спорта",
+      "shirina": 42.644013,
+      "dalzhina": 23.343162,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 93,
+      "ime": "Камела",
+      "shirina": 42.126196,
+      "dalzhina": 24.732887,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 94,
+      "ime": "Каранашевото",
+      "shirina": 42.914769,
+      "dalzhina": 26.447809,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 95,
+      "ime": "Картинг писта Бенковски",
+      "shirina": 42.742625,
+      "dalzhina": 23.352559,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 96,
+      "ime": "Картинг писта „Пауталия“",
+      "shirina": 42.266997,
+      "dalzhina": 22.672392,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 97,
+      "ime": "Клуб по биатлон и стрелба Аякс – Троян",
+      "shirina": 42.876385,
+      "dalzhina": 24.702083,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 98,
+      "ime": "Клуб по катерене и алпинизъм НСА",
+      "shirina": 42.646034,
+      "dalzhina": 23.348452,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 99,
+      "ime": "Клуб по конен спорт \"Мизия\"",
+      "shirina": 43.504466,
+      "dalzhina": 24.063852,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 100,
+      "ime": "Клуб по конен спорт \"Мизия\"",
+      "shirina": 43.504657,
+      "dalzhina": 24.063127,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 101,
+      "ime": "Клуб по плувни спортове Олимпия",
+      "shirina": 42.690324,
+      "dalzhina": 23.331194,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 102,
+      "ime": "Колодрум",
+      "shirina": 43.532125,
+      "dalzhina": 26.529522,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 103,
+      "ime": "Колодрума",
+      "shirina": 42.12835,
+      "dalzhina": 24.766634,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 104,
+      "ime": "Комплекс \"Зелен свят\"",
+      "shirina": 42.919733,
+      "dalzhina": 22.937147,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 105,
+      "ime": "Комплекс \"Царско село\"",
+      "shirina": 42.637307,
+      "dalzhina": 23.317419,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 106,
+      "ime": "Комплекс Аугуста",
+      "shirina": 43.390067,
+      "dalzhina": 23.215387,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 107,
+      "ime": "Комплекс Лагуна",
+      "shirina": 42.740518,
+      "dalzhina": 23.286338,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 108,
+      "ime": "Комплекс Трибуните",
+      "shirina": 42.592475,
+      "dalzhina": 23.422977,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 109,
+      "ime": "Комплекс „Олимпия“",
+      "shirina": 43.826794,
+      "dalzhina": 25.974092,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 110,
+      "ime": "Комплекс „Съни“",
+      "shirina": 42.5374,
+      "dalzhina": 22.970339,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 111,
+      "ime": "Конна база Хан Аспарух",
+      "shirina": 42.67946,
+      "dalzhina": 23.275777,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 112,
+      "ime": "Конно-спортна база Ген. Крум Лекарски",
+      "shirina": 42.758462,
+      "dalzhina": 23.193968,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 113,
+      "ime": "Къпалня \"Мария Луиза\"",
+      "shirina": 42.681197,
+      "dalzhina": 23.343164,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 114,
+      "ime": "Къщата",
+      "shirina": 41.931208,
+      "dalzhina": 25.546327,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 115,
+      "ime": "Лекоатлетическа зала СПАРТАК",
+      "shirina": 43.413231,
+      "dalzhina": 24.606325,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 116,
+      "ime": "Минерален Плаж",
+      "shirina": 41.862311,
+      "dalzhina": 23.505472,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 117,
+      "ime": "Минерален плаж",
+      "shirina": 43.24952,
+      "dalzhina": 25.035866,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 118,
+      "ime": "Младежки спортен център \"Юнак\"",
+      "shirina": 41.936504,
+      "dalzhina": 25.552467,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 119,
+      "ime": "НСБ Спортпалас",
+      "shirina": 43.269237,
+      "dalzhina": 28.034545,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 120,
+      "ime": "Наим Сюлейманоглу",
+      "shirina": 41.528165,
+      "dalzhina": 25.40755,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 121,
+      "ime": "Национална Априловска гимназия",
+      "shirina": 42.86945,
+      "dalzhina": 25.317419,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 122,
+      "ime": "Национална Ветроходна База",
+      "shirina": 42.48729,
+      "dalzhina": 23.545294,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 123,
+      "ime": "Национална гребна база Средец",
+      "shirina": 42.597195,
+      "dalzhina": 23.408683,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 124,
+      "ime": "Общински Плувен Комплекс Хисаря",
+      "shirina": 42.495454,
+      "dalzhina": 24.714224,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 125,
+      "ime": "Общински Спортен Комплекс - гр. Каспичан",
+      "shirina": 43.31152,
+      "dalzhina": 27.158143,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 126,
+      "ime": "Общински Спортен Комплекс Нови Пазар",
+      "shirina": 43.347108,
+      "dalzhina": 27.188199,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 127,
+      "ime": "Общински спортен комплекс Провадия",
+      "shirina": 43.17217,
+      "dalzhina": 27.439711,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 128,
+      "ime": "Олимпик",
+      "shirina": 41.938988,
+      "dalzhina": 25.351793,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 129,
+      "ime": "Орландоспорт",
+      "shirina": 42.723759,
+      "dalzhina": 23.341741,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 130,
+      "ime": "Парадайз бийч",
+      "shirina": 42.770972,
+      "dalzhina": 23.363174,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 131,
+      "ime": "Парк Арена",
+      "shirina": 42.512428,
+      "dalzhina": 27.458739,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 132,
+      "ime": "Писта за радиоуправляеми модели Нови Искър",
+      "shirina": 42.815341,
+      "dalzhina": 23.376508,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 133,
+      "ime": "Платено футболно игрище",
+      "shirina": 43.845339,
+      "dalzhina": 25.984223,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 134,
+      "ime": "Плувен Басейн \"Мадара\"",
+      "shirina": 42.687248,
+      "dalzhina": 23.311458,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 135,
+      "ime": "Плувен комплекс",
+      "shirina": 42.030328,
+      "dalzhina": 24.296465,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 136,
+      "ime": "Плувен комплекс",
+      "shirina": 42.606245,
+      "dalzhina": 23.0264,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 137,
+      "ime": "Плувен комплекс",
+      "shirina": 43.237618,
+      "dalzhina": 23.131986,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 138,
+      "ime": "Плувен комплекс",
+      "shirina": 43.824156,
+      "dalzhina": 23.239564,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 139,
+      "ime": "Плувен комплекс \"Младост\"",
+      "shirina": 42.146889,
+      "dalzhina": 24.71966,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 140,
+      "ime": "Плувен комплекс \"Рай\"",
+      "shirina": 43.420549,
+      "dalzhina": 24.626917,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 141,
+      "ime": "Плувен комплекс RestART",
+      "shirina": 42.71554,
+      "dalzhina": 23.253298,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 142,
+      "ime": "Плувен комплекс Приморски",
+      "shirina": 43.198402,
+      "dalzhina": 27.920925,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 143,
+      "ime": "Покрит басейн \"Диана\"",
+      "shirina": 42.665635,
+      "dalzhina": 23.345513,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 144,
+      "ime": "Приключенски парк Юнак",
+      "shirina": 42.685832,
+      "dalzhina": 23.333131,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 145,
+      "ime": "Радуга",
+      "shirina": 43.027034,
+      "dalzhina": 27.883522,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 146,
+      "ime": "Рила фън парк",
+      "shirina": 42.022301,
+      "dalzhina": 23.578399,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 147,
+      "ime": "Роки фитнес",
+      "shirina": 43.021372,
+      "dalzhina": 25.110296,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 148,
+      "ime": "СК \"Простор''",
+      "shirina": 43.218891,
+      "dalzhina": 27.91352,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 149,
+      "ime": "СКТМ Пирин Благоевград",
+      "shirina": 42.013511,
+      "dalzhina": 23.077427,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 150,
+      "ime": "СПОРТНА ЗАЛА",
+      "shirina": 42.025219,
+      "dalzhina": 24.109238,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 151,
+      "ime": "Ски Писта Даулите",
+      "shirina": 42.754499,
+      "dalzhina": 26.323488,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 152,
+      "ime": "Софийски тенис клубъ 1896",
+      "shirina": 42.687369,
+      "dalzhina": 23.340942,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 153,
+      "ime": "Спартак",
+      "shirina": 41.935566,
+      "dalzhina": 25.552759,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 154,
+      "ime": "Спартак",
+      "shirina": 42.674963,
+      "dalzhina": 23.312574,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 155,
+      "ime": "Спортен Клуб \"Дунав\"",
+      "shirina": 43.845115,
+      "dalzhina": 25.976976,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 156,
+      "ime": "Спортен Комплекс Камчия",
+      "shirina": 43.029659,
+      "dalzhina": 27.882945,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 157,
+      "ime": "Спортен Комплекс Правец",
+      "shirina": 42.896813,
+      "dalzhina": 23.909647,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 158,
+      "ime": "Спортен комплекс",
+      "shirina": 43.068194,
+      "dalzhina": 27.024555,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 159,
+      "ime": "Спортен комплекс",
+      "shirina": 43.076878,
+      "dalzhina": 25.649147,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 160,
+      "ime": "Спортен комплекс \"Русалка\"",
+      "shirina": 43.560577,
+      "dalzhina": 27.827127,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 161,
+      "ime": "Спортен комплекс \"Славейков\"",
+      "shirina": 42.521547,
+      "dalzhina": 27.447078,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 162,
+      "ime": "Спортен комплекс \"Студентска\"",
+      "shirina": 43.223934,
+      "dalzhina": 27.927799,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 163,
+      "ime": "Спортен комплекс \"Юнак\"",
+      "shirina": 43.080854,
+      "dalzhina": 25.636544,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 164,
+      "ime": "Спортен комплекс ВСИ",
+      "shirina": 42.134113,
+      "dalzhina": 24.768237,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 165,
+      "ime": "Спортен комплекс КАБАТА",
+      "shirina": 42.057644,
+      "dalzhina": 25.265257,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 166,
+      "ime": "Спортен комплекс Нефтохимик",
+      "shirina": 42.525355,
+      "dalzhina": 27.462737,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 167,
+      "ime": "Спортен комплекс Пирин",
+      "shirina": 42.002349,
+      "dalzhina": 23.105886,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 168,
+      "ime": "Спортен комплекс Раковски",
+      "shirina": 42.678351,
+      "dalzhina": 23.306363,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 169,
+      "ime": "Спортен комплекс Славия",
+      "shirina": 42.675588,
+      "dalzhina": 23.272075,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 170,
+      "ime": "Спортен комплекс Сливнишки герой",
+      "shirina": 42.858641,
+      "dalzhina": 23.032538,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 171,
+      "ime": "Спортен комплекс Христо Ботев",
+      "shirina": 43.201802,
+      "dalzhina": 23.567562,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 172,
+      "ime": "Спортен комплекс на НСА",
+      "shirina": 42.645838,
+      "dalzhina": 23.349345,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 173,
+      "ime": "Спортен комплекс „Мирково“",
+      "shirina": 42.697098,
+      "dalzhina": 23.999261,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 174,
+      "ime": "Спортен център Левски",
+      "shirina": 42.705086,
+      "dalzhina": 23.360712,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 175,
+      "ime": "Спортен център Люлин",
+      "shirina": 42.717466,
+      "dalzhina": 23.25507,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 176,
+      "ime": "Спортна София – 2000",
+      "shirina": 42.69413,
+      "dalzhina": 23.305725,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 177,
+      "ime": "Спортна база \"Орлино\"",
+      "shirina": 41.708588,
+      "dalzhina": 24.045179,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 178,
+      "ime": "Спортна база Лудогорец",
+      "shirina": 43.513827,
+      "dalzhina": 26.537725,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 179,
+      "ime": "Спортна база „Берое“",
+      "shirina": 42.44061,
+      "dalzhina": 25.634242,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 180,
+      "ime": "Спортна зала",
+      "shirina": 41.471214,
+      "dalzhina": 25.651838,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 181,
+      "ime": "Спортна зала",
+      "shirina": 41.581623,
+      "dalzhina": 25.133147,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 182,
+      "ime": "Спортна зала",
+      "shirina": 42.293191,
+      "dalzhina": 25.931519,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 183,
+      "ime": "Спортна зала",
+      "shirina": 42.655854,
+      "dalzhina": 24.748411,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 184,
+      "ime": "Спортна зала",
+      "shirina": 42.672026,
+      "dalzhina": 23.380501,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 185,
+      "ime": "Спортна зала",
+      "shirina": 42.861425,
+      "dalzhina": 25.318455,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 186,
+      "ime": "Спортна зала",
+      "shirina": 42.917131,
+      "dalzhina": 22.936966,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 187,
+      "ime": "Спортна зала",
+      "shirina": 42.97102,
+      "dalzhina": 25.473153,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 188,
+      "ime": "Спортна зала",
+      "shirina": 43.015835,
+      "dalzhina": 23.045358,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 189,
+      "ime": "Спортна зала",
+      "shirina": 43.144797,
+      "dalzhina": 24.725263,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 190,
+      "ime": "Спортна зала",
+      "shirina": 43.208173,
+      "dalzhina": 24.167845,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 191,
+      "ime": "Спортна зала",
+      "shirina": 43.246302,
+      "dalzhina": 26.570721,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 192,
+      "ime": "Спортна зала",
+      "shirina": 43.366769,
+      "dalzhina": 28.076573,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 193,
+      "ime": "Спортна зала",
+      "shirina": 43.824792,
+      "dalzhina": 23.238815,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 194,
+      "ime": "Спортна зала",
+      "shirina": 43.85307,
+      "dalzhina": 25.973494,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 195,
+      "ime": "Спортна зала",
+      "shirina": 43.99193,
+      "dalzhina": 22.881744,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 196,
+      "ime": "Спортна зала",
+      "shirina": 44.151336,
+      "dalzhina": 22.641305,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 197,
+      "ime": "Спортна зала \"Асеновец\"",
+      "shirina": 42.679744,
+      "dalzhina": 26.302565,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 198,
+      "ime": "Спортна зала \"Бяла Слатина\"",
+      "shirina": 43.472539,
+      "dalzhina": 23.933753,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 199,
+      "ime": "Спортна зала \"Васил Левски\"",
+      "shirina": 42.681532,
+      "dalzhina": 26.33981,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 200,
+      "ime": "Спортна зала \"Дружба\"",
+      "shirina": 42.681657,
+      "dalzhina": 26.33874,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 201,
+      "ime": "Спортна зала \"Левски София\"",
+      "shirina": 42.622675,
+      "dalzhina": 23.373844,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 202,
+      "ime": "Спортна зала \"Локомотив\"",
+      "shirina": 42.737893,
+      "dalzhina": 23.313815,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 203,
+      "ime": "Спортна зала \"Младост\"",
+      "shirina": 42.057659,
+      "dalzhina": 25.583876,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 204,
+      "ime": "Спортна зала \"Петър Балевски\"",
+      "shirina": 43.094544,
+      "dalzhina": 24.419827,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 205,
+      "ime": "Спортна зала \"Септември\"",
+      "shirina": 41.887601,
+      "dalzhina": 23.468337,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 206,
+      "ime": "Спортна зала \"Строител\"",
+      "shirina": 42.164868,
+      "dalzhina": 24.743977,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 207,
+      "ime": "Спортна зала \"Ялта''",
+      "shirina": 43.849069,
+      "dalzhina": 25.965579,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 208,
+      "ime": "Спортна зала I ЕГ",
+      "shirina": 43.224501,
+      "dalzhina": 27.917702,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 209,
+      "ime": "Спортна зала Аетос",
+      "shirina": 42.697059,
+      "dalzhina": 27.251226,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 210,
+      "ime": "Спортна зала Балкан",
+      "shirina": 42.905157,
+      "dalzhina": 23.783177,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 211,
+      "ime": "Спортна зала Бойчо Брънзов",
+      "shirina": 42.515222,
+      "dalzhina": 27.467397,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 212,
+      "ime": "Спортна зала Дан Колов",
+      "shirina": 43.024254,
+      "dalzhina": 25.107717,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 213,
+      "ime": "Спортна зала Диана",
+      "shirina": 42.487212,
+      "dalzhina": 26.499682,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 214,
+      "ime": "Спортна зала Медицински Университет",
+      "shirina": 43.411457,
+      "dalzhina": 24.629197,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 215,
+      "ime": "Спортна зала Миньор",
+      "shirina": 42.614346,
+      "dalzhina": 23.041405,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 216,
+      "ime": "Спортна зала Младост",
+      "shirina": 42.518599,
+      "dalzhina": 27.457939,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 217,
+      "ime": "Спортна зала Нефтохимик",
+      "shirina": 42.512315,
+      "dalzhina": 27.468878,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 218,
+      "ime": "Спортна зала Никола Петров",
+      "shirina": 43.1228,
+      "dalzhina": 25.678669,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 219,
+      "ime": "Спортна зала Никола Станчев",
+      "shirina": 42.461254,
+      "dalzhina": 27.415594,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 220,
+      "ime": "Спортна зала Орловец",
+      "shirina": 42.880203,
+      "dalzhina": 25.319913,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 221,
+      "ime": "Спортна зала ПУ \"Паисий Хилендарски\"",
+      "shirina": 42.156819,
+      "dalzhina": 24.715334,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 222,
+      "ime": "Спортна зала Партизан",
+      "shirina": 42.834079,
+      "dalzhina": 22.650204,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 223,
+      "ime": "Спортна зала Спартак",
+      "shirina": 43.409147,
+      "dalzhina": 24.61361,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 224,
+      "ime": "Спортна зала Черно море",
+      "shirina": 43.214958,
+      "dalzhina": 27.932382,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 225,
+      "ime": "Спортна зала „Величко Чолаков“",
+      "shirina": 41.576689,
+      "dalzhina": 24.695118,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 226,
+      "ime": "Спортна зала „Дружба“",
+      "shirina": 41.929959,
+      "dalzhina": 25.555113,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 227,
+      "ime": "Спортна зала „Дупница“",
+      "shirina": 42.263213,
+      "dalzhina": 23.118614,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 228,
+      "ime": "Спортна зала „Миньор“",
+      "shirina": 42.757083,
+      "dalzhina": 23.559227,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 229,
+      "ime": "Спортна зала „Христо Ботев”",
+      "shirina": 42.651492,
+      "dalzhina": 23.340011,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 230,
+      "ime": "Спортно Търново",
+      "shirina": 43.074652,
+      "dalzhina": 25.59681,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 231,
+      "ime": "Спортно-развлекателен комплекс Чери",
+      "shirina": 42.618639,
+      "dalzhina": 23.403259,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 232,
+      "ime": "Спортнокултурен център",
+      "shirina": 41.834203,
+      "dalzhina": 24.83078,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 233,
+      "ime": "Стадион \"Георги Бенковски\"",
+      "shirina": 42.916415,
+      "dalzhina": 24.257337,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 234,
+      "ime": "Стадион \"Ураган\"",
+      "shirina": 43.547398,
+      "dalzhina": 26.466019,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 235,
+      "ime": "Стадион Аспарухово",
+      "shirina": 43.187265,
+      "dalzhina": 27.883824,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 236,
+      "ime": "Стадион Енергетик",
+      "shirina": 42.142381,
+      "dalzhina": 25.868931,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 237,
+      "ime": "Стадион Локомотив",
+      "shirina": 43.139326,
+      "dalzhina": 23.711425,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 238,
+      "ime": "Стадион Чавдар",
+      "shirina": 42.83076,
+      "dalzhina": 23.999604,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 239,
+      "ime": "Стадиончето",
+      "shirina": 42.865773,
+      "dalzhina": 23.370596,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 240,
+      "ime": "Стената СУ",
+      "shirina": 42.694024,
+      "dalzhina": 23.335882,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 241,
+      "ime": "Стрелбище",
+      "shirina": 42.435129,
+      "dalzhina": 25.606779,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 242,
+      "ime": "Стрелбище и конна база Рекар",
+      "shirina": 43.577894,
+      "dalzhina": 27.815032,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 243,
+      "ime": "Тенис клуб \"Левски-София\"",
+      "shirina": 42.686376,
+      "dalzhina": 23.33732,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 244,
+      "ime": "Тенис клуб \"Хасково\"",
+      "shirina": 41.946922,
+      "dalzhina": 25.541556,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 245,
+      "ime": "Тенис клуб Люлин",
+      "shirina": 42.707442,
+      "dalzhina": 23.257158,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 246,
+      "ime": "Тенис клуб Малееви",
+      "shirina": 42.667251,
+      "dalzhina": 23.327841,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 247,
+      "ime": "Тенис клуб Септември",
+      "shirina": 42.693669,
+      "dalzhina": 23.286897,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 248,
+      "ime": "Тенис клуб „Банкя“",
+      "shirina": 42.71041,
+      "dalzhina": 23.148867,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 249,
+      "ime": "Тенис кортове",
+      "shirina": 42.187196,
+      "dalzhina": 24.313071,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 250,
+      "ime": "Тенис център Авеню",
+      "shirina": 42.551121,
+      "dalzhina": 27.469746,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 251,
+      "ime": "Термален аквапарк \"Персенк\"",
+      "shirina": 41.741448,
+      "dalzhina": 24.40114,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 252,
+      "ime": "Тренировъчна база „ЦСКА“",
+      "shirina": 42.612053,
+      "dalzhina": 23.39365,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 253,
+      "ime": "Тринити парк",
+      "shirina": 43.211994,
+      "dalzhina": 27.93696,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 254,
+      "ime": "Троян Гран При",
+      "shirina": 42.926983,
+      "dalzhina": 24.696843,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 255,
+      "ime": "Физкултурен салон",
+      "shirina": 42.433028,
+      "dalzhina": 25.634829,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 256,
+      "ime": "Физкултурен салон",
+      "shirina": 44.031316,
+      "dalzhina": 22.969579,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 257,
+      "ime": "Фитнес",
+      "shirina": 43.19266,
+      "dalzhina": 27.704063,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 258,
+      "ime": "Фитнес Комплекс Перник Вива 92",
+      "shirina": 42.608786,
+      "dalzhina": 23.111271,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 259,
+      "ime": "Фитнес за жени",
+      "shirina": 43.84987,
+      "dalzhina": 25.979061,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 260,
+      "ime": "Фитнес зала",
+      "shirina": 42.462538,
+      "dalzhina": 27.414511,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 261,
+      "ime": "Фитнес зала",
+      "shirina": 43.145959,
+      "dalzhina": 23.708471,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 262,
+      "ime": "Хиподрум",
+      "shirina": 43.549195,
+      "dalzhina": 26.467376,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 263,
+      "ime": "Хиподрум с. Стражица",
+      "shirina": 43.439604,
+      "dalzhina": 28.103748,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 264,
+      "ime": "Център за катерене Европа",
+      "shirina": 42.672197,
+      "dalzhina": 23.395608,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 265,
+      "ime": "Шахматен клуб \"Бургас 64\"",
+      "shirina": 42.511981,
+      "dalzhina": 27.468529,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 266,
+      "ime": "Яхтклуб \"Веслец\"",
+      "shirina": 43.190909,
+      "dalzhina": 27.861895,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 267,
+      "ime": "Яхтклуб \"Хидроремонт\"",
+      "shirina": 43.191727,
+      "dalzhina": 27.863561,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 268,
+      "ime": "басейн Нира",
+      "shirina": 43.106004,
+      "dalzhina": 24.413324,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 269,
+      "ime": "закрит плувен басейн Сливен",
+      "shirina": 42.68842,
+      "dalzhina": 26.345642,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 270,
+      "ime": "зала Балканстрой",
+      "shirina": 43.414457,
+      "dalzhina": 24.655862,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 271,
+      "ime": "зала Добротица",
+      "shirina": 43.553626,
+      "dalzhina": 27.824722,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 272,
+      "ime": "клуб Масъл Арт",
+      "shirina": 42.142137,
+      "dalzhina": 24.742875,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 273,
+      "ime": "плувен комплекс \"Фиеста\"",
+      "shirina": 42.11305,
+      "dalzhina": 25.218044,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 274,
+      "ime": "ролбан",
+      "shirina": 42.333936,
+      "dalzhina": 23.577091,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 275,
+      "ime": "спортен комплекс \"Дунав\"",
+      "shirina": 43.844983,
+      "dalzhina": 25.977747,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    },
+    {
+      "id": 276,
+      "ime": "стадион с. Брестовица",
+      "shirina": 42.085662,
+      "dalzhina": 24.589668,
+      "osm_klyuch": "leisure",
+      "osm_stoynost": "sports_centre",
+      "osm_klas": "leisure=sports_centre"
+    }
+  ],
+  "meta": {
+    "title": "Спортни центрове в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Спортни центрове в България — 276 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `leisure=sports_centre`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 276 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Спортни центрове в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Спортни центрове в България (OpenStreetMap) — 276 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 276 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

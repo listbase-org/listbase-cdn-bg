@@ -1,0 +1,86 @@
+{
+  "id": "bg-merni-edinitsi-torque",
+  "name": "Мерни единици: torque (2)",
+  "title": "Мерни единици: torque (2)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'torque'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "torque-newton-meter",
+      "kategoriya": "torque",
+      "nazvanie": "нютон-метър",
+      "shablon_edinstveno": "{0} нютон-метър",
+      "shablon_mnozhestveno": "{0} нютон-метра",
+      "kratak_shablon": "{0} N⋅m",
+      "tesen_shablon": "{0} N⋅m"
+    },
+    {
+      "id": 2,
+      "unit_code": "torque-pound-force-foot",
+      "kategoriya": "torque",
+      "nazvanie": "паунд-футове сила",
+      "shablon_edinstveno": "{0} паунд-фут сила",
+      "shablon_mnozhestveno": "{0} паунд-фута сила",
+      "kratak_shablon": "{0} lbf⋅ft",
+      "tesen_shablon": "{0} lbf⋅ft"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: torque (2) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'torque'. Съдържа 2 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: torque (2) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: torque (2) — 2 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 2 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

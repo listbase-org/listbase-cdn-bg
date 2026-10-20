@@ -1,0 +1,301 @@
+{
+  "id": "bg-televizionni-kanali-sportni",
+  "name": "Български телевизионни канали — спортни",
+  "title": "Български телевизионни канали — спортни",
+  "description": "Български телевизионни канали в категория 'sports' (спортни) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "B1BSport.bg",
+      "name": "B1B Sport",
+      "alt_names": "Б1Б Спорт",
+      "network": "",
+      "owners": "Calrton Invest EOOD",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://b1bsport.bg/"
+    },
+    {
+      "id": 2,
+      "channel_id": "DiemaSport.bg",
+      "name": "Diema Sport",
+      "alt_names": "",
+      "network": "",
+      "owners": "United Group",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2015-02-21",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://diemaxtra.nova.bg/diemasport"
+    },
+    {
+      "id": 3,
+      "channel_id": "DiemaSport2.bg",
+      "name": "Diema Sport 2",
+      "alt_names": "",
+      "network": "",
+      "owners": "United Group",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://diemaxtra.nova.bg/diemasport2"
+    },
+    {
+      "id": 4,
+      "channel_id": "DiemaSport24K.bg",
+      "name": "Diema Sport 2 4K",
+      "alt_names": "",
+      "network": "",
+      "owners": "United Group",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://diemaxtra.nova.bg/diemasport2"
+    },
+    {
+      "id": 5,
+      "channel_id": "DiemaSport3.bg",
+      "name": "Diema Sport 3",
+      "alt_names": "",
+      "network": "",
+      "owners": "United Group",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://diemaxtra.nova.bg/diemasport3"
+    },
+    {
+      "id": 6,
+      "channel_id": "DiemaSport34K.bg",
+      "name": "Diema Sport 3 4K",
+      "alt_names": "",
+      "network": "",
+      "owners": "United Group",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://diemaxtra.nova.bg/diemasport3"
+    },
+    {
+      "id": 7,
+      "channel_id": "MaxSport1.bg",
+      "name": "Max Sport 1",
+      "alt_names": "",
+      "network": "",
+      "owners": "A1 Bulgaria",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2017-01-14",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://maxsport.live/"
+    },
+    {
+      "id": 8,
+      "channel_id": "MaxSport2.bg",
+      "name": "Max Sport 2",
+      "alt_names": "",
+      "network": "",
+      "owners": "A1 Bulgaria",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2017-03-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://maxsport.live/"
+    },
+    {
+      "id": 9,
+      "channel_id": "MaxSport3.bg",
+      "name": "Max Sport 3",
+      "alt_names": "",
+      "network": "",
+      "owners": "A1 Bulgaria",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2018-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://maxsport.live/"
+    },
+    {
+      "id": 10,
+      "channel_id": "MaxSport4.bg",
+      "name": "Max Sport 4",
+      "alt_names": "",
+      "network": "",
+      "owners": "A1 Bulgaria",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2019-01-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://maxsport.live/"
+    },
+    {
+      "id": 11,
+      "channel_id": "NovaSport.bg",
+      "name": "Nova Sport",
+      "alt_names": "Нова Спорт",
+      "network": "",
+      "owners": "United Group",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2010-04-30",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.sport.novatv.bg/"
+    },
+    {
+      "id": 12,
+      "channel_id": "SportPlus.bg",
+      "name": "Sport+",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://tvplus.bg/"
+    },
+    {
+      "id": 13,
+      "channel_id": "SportalTV.bg",
+      "name": "Sportal TV",
+      "alt_names": "Спортал ТВ",
+      "network": "",
+      "owners": "SportalTV.bg",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "2006-03-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.sportal.bg/"
+    },
+    {
+      "id": 14,
+      "channel_id": "b1bbox.bg",
+      "name": "b1b.box",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "sports",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://b1b.tv/"
+    }
+  ],
+  "meta": {
+    "title": "Български телевизионни канали — спортни - Безплатно изтегляне",
+    "description": "Български телевизионни канали в категория 'sports' (спортни) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт. Съдържа 14 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Български телевизионни канали — спортни | ListBase",
+    "seo_description": "Изтеглете Български телевизионни канали — спортни — 14 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 14 записа / 13 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

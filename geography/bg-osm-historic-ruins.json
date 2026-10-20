@@ -1,0 +1,2149 @@
+{
+  "id": "bg-osm-historic-ruins",
+  "name": "Руини в България (OpenStreetMap)",
+  "title": "Руини в България (OpenStreetMap)",
+  "description": "Руини в България — 232 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `historic=ruins`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 232,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Старата Мелница\"",
+      "shirina": 43.404299,
+      "dalzhina": 28.168351,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 2,
+      "ime": "1-ва Гранична застава „Победител“",
+      "shirina": 41.535134,
+      "dalzhina": 24.323319,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 3,
+      "ime": "10-та Гранична застава „Вергил Ваклинов“ село Бръщен",
+      "shirina": 41.556652,
+      "dalzhina": 24.087544,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 4,
+      "ime": "11-та гранична застава „Дончо Ганев“ село Црънча 16 ГО",
+      "shirina": 41.551791,
+      "dalzhina": 24.1233,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 5,
+      "ime": "13-та гранична застава (ГЗ) „Юнак“",
+      "shirina": 41.578414,
+      "dalzhina": 24.228267,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 6,
+      "ime": "14-та гранична застава „Чавдар\" 16 ГО",
+      "shirina": 41.579805,
+      "dalzhina": 24.273006,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 7,
+      "ime": "2-ра гранична застава (ГЗ) „Елба“",
+      "shirina": 41.551252,
+      "dalzhina": 24.384152,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 8,
+      "ime": "3-та гранична застава (ГЗ) „Елба“ село Кестен",
+      "shirina": 41.539293,
+      "dalzhina": 24.432846,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 9,
+      "ime": "3-та гранична застава „Войвода“ село Стъргач 16 ГО",
+      "shirina": 41.422122,
+      "dalzhina": 23.762429,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 10,
+      "ime": "4-та гранична застава (ГЗ) „Жупел“",
+      "shirina": 41.567972,
+      "dalzhina": 24.494807,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 11,
+      "ime": "4-та гранична застава „Жупел“ село Илинден 16 ГО",
+      "shirina": 41.440796,
+      "dalzhina": 23.827143,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 12,
+      "ime": "5-та гранина застава село Петрелик 16 ГО",
+      "shirina": 41.46804,
+      "dalzhina": 23.888118,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 13,
+      "ime": "5-та гранична застава (ГЗ) „Хала“",
+      "shirina": 41.557042,
+      "dalzhina": 24.575082,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 14,
+      "ime": "6-та гранична застава „Нимфа“ село Теплен 16 ГО",
+      "shirina": 41.482453,
+      "dalzhina": 23.93876,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 15,
+      "ime": "7-ма гранична застава „Богатир“ село Беслен 16 ГО",
+      "shirina": 41.460366,
+      "dalzhina": 23.979746,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 16,
+      "ime": "8-ма гранична застава „Залп“ село Годешево 16 ГО",
+      "shirina": 41.466481,
+      "dalzhina": 24.051732,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 17,
+      "ime": "Bridge",
+      "shirina": 42.316969,
+      "dalzhina": 23.865616,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 18,
+      "ime": "Gradot",
+      "shirina": 42.057781,
+      "dalzhina": 23.969939,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 19,
+      "ime": "Greek military outpost (E.F.65)",
+      "shirina": 41.316415,
+      "dalzhina": 25.576839,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 20,
+      "ime": "Pocarnenci monastery",
+      "shirina": 42.504554,
+      "dalzhina": 22.881836,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 21,
+      "ime": "Turlata Fortress",
+      "shirina": 41.631252,
+      "dalzhina": 24.584186,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 22,
+      "ime": "abandoned tunel",
+      "shirina": 42.150173,
+      "dalzhina": 23.417481,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 23,
+      "ime": "Βραχοχώρι",
+      "shirina": 41.536636,
+      "dalzhina": 24.093877,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 24,
+      "ime": "Ερείπια",
+      "shirina": 41.338072,
+      "dalzhina": 22.938014,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 25,
+      "ime": "Κατάχλωρο",
+      "shirina": 41.45276,
+      "dalzhina": 24.010653,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 26,
+      "ime": "Χαλάσματα",
+      "shirina": 41.360621,
+      "dalzhina": 24.782619,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 27,
+      "ime": "δημοτικό σχολείο Κρασοχωρίου",
+      "shirina": 41.399434,
+      "dalzhina": 23.491403,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 28,
+      "ime": "δημοτικό σχολείο Κρασοχωριού",
+      "shirina": 41.399448,
+      "dalzhina": 23.491387,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 29,
+      "ime": "Антични улици",
+      "shirina": 42.427027,
+      "dalzhina": 25.626074,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 30,
+      "ime": "Асара",
+      "shirina": 42.03196,
+      "dalzhina": 25.860276,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 31,
+      "ime": "Асенова крепост",
+      "shirina": 41.973333,
+      "dalzhina": 25.484444,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 32,
+      "ime": "Асеновата крепост",
+      "shirina": 42.03866,
+      "dalzhina": 24.463032,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 33,
+      "ime": "Асеновия камък",
+      "shirina": 42.035612,
+      "dalzhina": 24.462954,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 34,
+      "ime": "Бежанци",
+      "shirina": 41.357459,
+      "dalzhina": 25.949916,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 35,
+      "ime": "Белият хамбар",
+      "shirina": 43.278028,
+      "dalzhina": 26.910462,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 36,
+      "ime": "Бивш женски концлагер Скравена",
+      "shirina": 42.936614,
+      "dalzhina": 23.802269,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 37,
+      "ime": "Бивша болница за душевно болни",
+      "shirina": 42.282302,
+      "dalzhina": 22.424983,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 38,
+      "ime": "Бивша гранична застава",
+      "shirina": 42.060506,
+      "dalzhina": 22.762775,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 39,
+      "ime": "Бивша свинеферма",
+      "shirina": 42.637826,
+      "dalzhina": 22.721293,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 40,
+      "ime": "Битоля",
+      "shirina": 41.977634,
+      "dalzhina": 27.753233,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 41,
+      "ime": "Бойна кула с височина 7м.",
+      "shirina": 42.557549,
+      "dalzhina": 23.425035,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 42,
+      "ime": "Болярската къща",
+      "shirina": 41.523973,
+      "dalzhina": 23.396445,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 43,
+      "ime": "Боровец",
+      "shirina": 42.945433,
+      "dalzhina": 23.878919,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 44,
+      "ime": "Бузово кале",
+      "shirina": 42.57238,
+      "dalzhina": 25.381944,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 45,
+      "ime": "Буховски манастир „Св. Мария Магдалина“",
+      "shirina": 42.771181,
+      "dalzhina": 23.555732,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 46,
+      "ime": "Вила Кордела",
+      "shirina": 42.819387,
+      "dalzhina": 24.262692,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 47,
+      "ime": "Гаврилово кале",
+      "shirina": 42.695645,
+      "dalzhina": 26.176272,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 48,
+      "ime": "Глоговец (стражата)",
+      "shirina": 42.961043,
+      "dalzhina": 25.41955,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 49,
+      "ime": "Голямата Базилика",
+      "shirina": 43.398639,
+      "dalzhina": 27.139485,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 50,
+      "ime": "Голямото градище",
+      "shirina": 41.938876,
+      "dalzhina": 25.311111,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 51,
+      "ime": "Горненски град",
+      "shirina": 42.630664,
+      "dalzhina": 25.554182,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 52,
+      "ime": "Градището",
+      "shirina": 42.108333,
+      "dalzhina": 24.282778,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 53,
+      "ime": "Градището",
+      "shirina": 42.517848,
+      "dalzhina": 25.447702,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 54,
+      "ime": "Градището",
+      "shirina": 42.572086,
+      "dalzhina": 25.863338,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 55,
+      "ime": "Гранична застава",
+      "shirina": 41.321713,
+      "dalzhina": 23.17449,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 56,
+      "ime": "Гушовски манастир „Свети Архангел Михаил“",
+      "shirina": 43.366222,
+      "dalzhina": 22.840328,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 57,
+      "ime": "Дабо",
+      "shirina": 42.579871,
+      "dalzhina": 23.168336,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 58,
+      "ime": "Дворец на Асеневци",
+      "shirina": 43.086949,
+      "dalzhina": 25.646998,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 59,
+      "ime": "Дворцова базилика",
+      "shirina": 43.145522,
+      "dalzhina": 26.813043,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 60,
+      "ime": "Деспот-Славова крепост",
+      "shirina": 41.519464,
+      "dalzhina": 23.390543,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 61,
+      "ime": "Джамия Житарник",
+      "shirina": 41.568277,
+      "dalzhina": 25.287475,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 62,
+      "ime": "Дискодуратере",
+      "shirina": 43.002426,
+      "dalzhina": 25.372852,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 63,
+      "ime": "Дуварището",
+      "shirina": 42.151654,
+      "dalzhina": 24.132141,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 64,
+      "ime": "Езически храм",
+      "shirina": 43.14512,
+      "dalzhina": 26.813771,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 65,
+      "ime": "Еркесия",
+      "shirina": 42.396203,
+      "dalzhina": 26.649068,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 66,
+      "ime": "Жилищен дворец",
+      "shirina": 43.146292,
+      "dalzhina": 26.811953,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 67,
+      "ime": "Жълти чал",
+      "shirina": 41.3599,
+      "dalzhina": 25.988009,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 68,
+      "ime": "Завалски манастир Св. Никола (развалини)",
+      "shirina": 42.82957,
+      "dalzhina": 22.794196,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 69,
+      "ime": "Изоставен железопътен тунел - северен портал",
+      "shirina": 42.791233,
+      "dalzhina": 27.733352,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 70,
+      "ime": "Изоставен железопътен тунел - южен портал",
+      "shirina": 42.754603,
+      "dalzhina": 27.719172,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 71,
+      "ime": "Изоставена воденица",
+      "shirina": 43.030414,
+      "dalzhina": 23.379555,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 72,
+      "ime": "Казарма",
+      "shirina": 41.499229,
+      "dalzhina": 24.024377,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 73,
+      "ime": "Калето",
+      "shirina": 41.748471,
+      "dalzhina": 24.349002,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 74,
+      "ime": "Калето",
+      "shirina": 41.891944,
+      "dalzhina": 25.298056,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 75,
+      "ime": "Калето",
+      "shirina": 41.91,
+      "dalzhina": 25.313889,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 76,
+      "ime": "Калето",
+      "shirina": 42.038889,
+      "dalzhina": 24.426389,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 77,
+      "ime": "Калето",
+      "shirina": 42.463138,
+      "dalzhina": 25.214052,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 78,
+      "ime": "Калето",
+      "shirina": 43.111261,
+      "dalzhina": 23.133834,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 79,
+      "ime": "Калето",
+      "shirina": 43.126286,
+      "dalzhina": 23.790762,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 80,
+      "ime": "Каменна трибуна",
+      "shirina": 42.556263,
+      "dalzhina": 23.427576,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 81,
+      "ime": "Карабурун",
+      "shirina": 41.59049,
+      "dalzhina": 25.036028,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 82,
+      "ime": "Католическа базилика \"Санкта Мария\"",
+      "shirina": 43.383762,
+      "dalzhina": 22.879505,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 83,
+      "ime": "Кв. Драгалевци - крепост Голямо градище",
+      "shirina": 42.613357,
+      "dalzhina": 23.301945,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 84,
+      "ime": "Киевото кале",
+      "shirina": 41.9975,
+      "dalzhina": 24.308889,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 85,
+      "ime": "Кладнишка крепост",
+      "shirina": 42.569555,
+      "dalzhina": 23.195533,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 86,
+      "ime": "Кондофрейски манастир",
+      "shirina": 42.410875,
+      "dalzhina": 22.996134,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 87,
+      "ime": "Крепост",
+      "shirina": 43.279787,
+      "dalzhina": 27.744046,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 88,
+      "ime": "Крепост \"Асара\"",
+      "shirina": 42.638433,
+      "dalzhina": 25.794084,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 89,
+      "ime": "Крепост \"Боруна\"",
+      "shirina": 42.946834,
+      "dalzhina": 25.431708,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 90,
+      "ime": "Крепост \"Големия чукар\"",
+      "shirina": 42.96761,
+      "dalzhina": 25.411445,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 91,
+      "ime": "Крепост \"Градец\"",
+      "shirina": 42.030605,
+      "dalzhina": 24.654622,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 92,
+      "ime": "Крепост \"Градовете\"",
+      "shirina": 42.696591,
+      "dalzhina": 25.373101,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 93,
+      "ime": "Крепост \"Градът\"",
+      "shirina": 42.964219,
+      "dalzhina": 25.378749,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 94,
+      "ime": "Крепост \"Естанемак\"",
+      "shirina": 42.025651,
+      "dalzhina": 24.78066,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 95,
+      "ime": "Крепост \"Заград\"",
+      "shirina": 41.795238,
+      "dalzhina": 24.61608,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 96,
+      "ime": "Крепост \"Костинград\"",
+      "shirina": 42.065556,
+      "dalzhina": 24.181944,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 97,
+      "ime": "Крепост \"Манастира\"",
+      "shirina": 42.021988,
+      "dalzhina": 24.773558,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 98,
+      "ime": "Крепост \"Манастира\"",
+      "shirina": 42.665686,
+      "dalzhina": 25.048455,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 99,
+      "ime": "Крепост \"Св. Никола\"",
+      "shirina": 42.058173,
+      "dalzhina": 24.271151,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 100,
+      "ime": "Крепост \"Устина\"",
+      "shirina": 42.036111,
+      "dalzhina": 24.526111,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 101,
+      "ime": "Крепост \"Хисара\"",
+      "shirina": 41.951111,
+      "dalzhina": 25.418056,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 102,
+      "ime": "Крепост Асамус",
+      "shirina": 43.694555,
+      "dalzhina": 24.851145,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 103,
+      "ime": "Крепост Ахтопол",
+      "shirina": 42.101213,
+      "dalzhina": 27.944092,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 104,
+      "ime": "Крепост Беаднос",
+      "shirina": 41.726078,
+      "dalzhina": 24.47468,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 105,
+      "ime": "Крепост Венчан",
+      "shirina": 43.242216,
+      "dalzhina": 27.374881,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 106,
+      "ime": "Крепост Големо Градище",
+      "shirina": 42.552,
+      "dalzhina": 23.201253,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 107,
+      "ime": "Крепост Градище",
+      "shirina": 41.638242,
+      "dalzhina": 24.549492,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 108,
+      "ime": "Крепост Градище",
+      "shirina": 42.775988,
+      "dalzhina": 22.869205,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 109,
+      "ime": "Крепост Градище",
+      "shirina": 42.800643,
+      "dalzhina": 22.736743,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 110,
+      "ime": "Крепост Земун",
+      "shirina": 42.816403,
+      "dalzhina": 22.565188,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 111,
+      "ime": "Крепост Калето",
+      "shirina": 42.813146,
+      "dalzhina": 22.717709,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 112,
+      "ime": "Крепост Кария",
+      "shirina": 43.539791,
+      "dalzhina": 28.607146,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 113,
+      "ime": "Крепост Кривус",
+      "shirina": 41.668449,
+      "dalzhina": 25.135137,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 114,
+      "ime": "Крепост Магарешки токове",
+      "shirina": 43.058663,
+      "dalzhina": 25.436606,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 115,
+      "ime": "Крепост Малкото кале",
+      "shirina": 42.052029,
+      "dalzhina": 26.907204,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 116,
+      "ime": "Крепост Петрича (Петрич кале)",
+      "shirina": 43.162565,
+      "dalzhina": 27.643506,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 117,
+      "ime": "Крепост Сторгозия",
+      "shirina": 43.383051,
+      "dalzhina": 24.628198,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 118,
+      "ime": "Крепост Траянови врата",
+      "shirina": 42.356868,
+      "dalzhina": 23.922454,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 119,
+      "ime": "Крепост Урвич",
+      "shirina": 42.55803,
+      "dalzhina": 23.4244,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 120,
+      "ime": "Крепост Чалъджа тепе",
+      "shirina": 42.845556,
+      "dalzhina": 27.459444,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 121,
+      "ime": "Крепостта Кракра",
+      "shirina": 42.594068,
+      "dalzhina": 23.017156,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 122,
+      "ime": "Крънско кале",
+      "shirina": 42.69204,
+      "dalzhina": 25.383044,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 123,
+      "ime": "Кръстокуполни черкви",
+      "shirina": 43.147104,
+      "dalzhina": 26.815582,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 124,
+      "ime": "Кумбурланското кале",
+      "shirina": 41.832917,
+      "dalzhina": 25.26232,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 125,
+      "ime": "Купена",
+      "shirina": 41.878459,
+      "dalzhina": 25.262895,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 126,
+      "ime": "Късноантична и средновековна крепост Мъглиж",
+      "shirina": 43.277763,
+      "dalzhina": 27.820824,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 127,
+      "ime": "Късноантична крепост \"Градище\"",
+      "shirina": 42.799328,
+      "dalzhina": 22.706867,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 128,
+      "ime": "Късноантична крепост Акра (Акин)",
+      "shirina": 42.457868,
+      "dalzhina": 27.627803,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 129,
+      "ime": "Луцернария бургон",
+      "shirina": 43.693611,
+      "dalzhina": 24.78,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 130,
+      "ime": "Манастир Св Иван Предтеча руини",
+      "shirina": 42.436906,
+      "dalzhina": 27.692231,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 131,
+      "ime": "Манастир Свети Никола",
+      "shirina": 42.422131,
+      "dalzhina": 27.69405,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 132,
+      "ime": "Медиоланум",
+      "shirina": 44.005775,
+      "dalzhina": 26.448363,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 133,
+      "ime": "Минин чукар",
+      "shirina": 42.965842,
+      "dalzhina": 25.391197,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 134,
+      "ime": "Мишкова нива",
+      "shirina": 41.957902,
+      "dalzhina": 27.500556,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 135,
+      "ime": "Момина Кула",
+      "shirina": 41.716235,
+      "dalzhina": 23.695642,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 136,
+      "ime": "Монек",
+      "shirina": 41.623619,
+      "dalzhina": 25.458152,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 137,
+      "ime": "Некропол над махала Маниш",
+      "shirina": 42.851177,
+      "dalzhina": 22.706165,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 138,
+      "ime": "Обществена сграда",
+      "shirina": 43.707776,
+      "dalzhina": 24.465225,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 139,
+      "ime": "Ормантабия",
+      "shirina": 43.244166,
+      "dalzhina": 27.89708,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 140,
+      "ime": "Османски форт \"Армуд Табия\"",
+      "shirina": 43.262816,
+      "dalzhina": 27.908465,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 141,
+      "ime": "Османски форт \"Бяла Табия\"",
+      "shirina": 43.253979,
+      "dalzhina": 27.899324,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 142,
+      "ime": "Османски форт \"Орман табия\"",
+      "shirina": 43.245218,
+      "dalzhina": 27.896731,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 143,
+      "ime": "Османски хамам",
+      "shirina": 43.742174,
+      "dalzhina": 23.952816,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 144,
+      "ime": "Основи на стар турски мост",
+      "shirina": 43.239207,
+      "dalzhina": 27.9314,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 145,
+      "ime": "Останки от манастир XI-XIII век",
+      "shirina": 43.017085,
+      "dalzhina": 23.223313,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 146,
+      "ime": "Останки от средновековна крепост",
+      "shirina": 43.122797,
+      "dalzhina": 25.661259,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 147,
+      "ime": "Палеокастро - древно тракийско светилище",
+      "shirina": 42.078932,
+      "dalzhina": 26.303995,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 148,
+      "ime": "Паница кале",
+      "shirina": 43.015731,
+      "dalzhina": 23.743669,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 149,
+      "ime": "Парнарово кале",
+      "shirina": 42.432717,
+      "dalzhina": 25.328885,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 150,
+      "ime": "Патриаршия",
+      "shirina": 43.083131,
+      "dalzhina": 25.652546,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 151,
+      "ime": "Перестица",
+      "shirina": 42.029722,
+      "dalzhina": 24.540278,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 152,
+      "ime": "Потопената църква",
+      "shirina": 42.606352,
+      "dalzhina": 25.238394,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 153,
+      "ime": "Пустата църква",
+      "shirina": 43.231939,
+      "dalzhina": 23.911006,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 154,
+      "ime": "Пънево",
+      "shirina": 41.369885,
+      "dalzhina": 25.958923,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 155,
+      "ime": "Разрушена джамия",
+      "shirina": 43.814264,
+      "dalzhina": 22.916991,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 156,
+      "ime": "Ранно християнска базилика",
+      "shirina": 42.17949,
+      "dalzhina": 23.997227,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 157,
+      "ime": "Ранновизантийски терми",
+      "shirina": 42.659354,
+      "dalzhina": 27.734342,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 158,
+      "ime": "Раннонеолитното селище в местността Масовец",
+      "shirina": 41.644588,
+      "dalzhina": 23.219375,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 159,
+      "ime": "Ранносредновековен манастирски комплекс „Света Богородица“",
+      "shirina": 43.240344,
+      "dalzhina": 27.895315,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 160,
+      "ime": "Римска вила",
+      "shirina": 42.669676,
+      "dalzhina": 25.816971,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 161,
+      "ime": "Римска постройка край античен път",
+      "shirina": 42.727115,
+      "dalzhina": 24.612106,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 162,
+      "ime": "Римски стадион",
+      "shirina": 42.147846,
+      "dalzhina": 24.747878,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 163,
+      "ime": "Римски терми",
+      "shirina": 43.708451,
+      "dalzhina": 24.466146,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 164,
+      "ime": "Руини На Църква Свети Прокопий",
+      "shirina": 42.093058,
+      "dalzhina": 23.111954,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 165,
+      "ime": "Руини на средновековен хан",
+      "shirina": 42.60677,
+      "dalzhina": 23.596864,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 166,
+      "ime": "Садовско кале",
+      "shirina": 43.287978,
+      "dalzhina": 24.379671,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 167,
+      "ime": "Св. Панталеймон",
+      "shirina": 43.033063,
+      "dalzhina": 23.437889,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 168,
+      "ime": "Света Богородица Елеуса (Несебър)",
+      "shirina": 42.661026,
+      "dalzhina": 27.737941,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 169,
+      "ime": "Свети Пантелеймон",
+      "shirina": 42.918482,
+      "dalzhina": 23.504008,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 170,
+      "ime": "Северна градска порта",
+      "shirina": 42.426445,
+      "dalzhina": 27.698298,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 171,
+      "ime": "Североизточната ъглова кръгла кула на укрепителната система на Сердика",
+      "shirina": 42.699671,
+      "dalzhina": 23.324963,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 172,
+      "ime": "Селското кале",
+      "shirina": 42.0475,
+      "dalzhina": 24.178333,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 173,
+      "ime": "Ситан Кале",
+      "shirina": 41.807255,
+      "dalzhina": 23.453987,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 174,
+      "ime": "Скални гробници",
+      "shirina": 41.715805,
+      "dalzhina": 25.464139,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 175,
+      "ime": "Слънчев часовник",
+      "shirina": 41.831878,
+      "dalzhina": 25.263953,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 176,
+      "ime": "Смолянска крепост Калето",
+      "shirina": 41.597229,
+      "dalzhina": 24.700759,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 177,
+      "ime": "Средновековна Църква",
+      "shirina": 42.461933,
+      "dalzhina": 24.943405,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 178,
+      "ime": "Средновековна Ямболска крепост",
+      "shirina": 42.483419,
+      "dalzhina": 26.497764,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 179,
+      "ime": "Средновековна крепост",
+      "shirina": 42.475864,
+      "dalzhina": 25.235038,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 180,
+      "ime": "Средновековна крепост",
+      "shirina": 42.520833,
+      "dalzhina": 25.892222,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 181,
+      "ime": "Средновековна крепост \"Св. Архангел\"",
+      "shirina": 42.101351,
+      "dalzhina": 24.257717,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 182,
+      "ime": "Стара застава \"Вергил Ваклинов\"",
+      "shirina": 41.545769,
+      "dalzhina": 24.06749,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 183,
+      "ime": "Старата tурската баня",
+      "shirina": 42.614769,
+      "dalzhina": 24.971151,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 184,
+      "ime": "Старата граница",
+      "shirina": 41.652537,
+      "dalzhina": 24.716789,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 185,
+      "ime": "Старата дивизионна болница",
+      "shirina": 43.278197,
+      "dalzhina": 26.903233,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 186,
+      "ime": "Старобългарско селище Градището",
+      "shirina": 42.883356,
+      "dalzhina": 25.341363,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 187,
+      "ime": "Сърбогъзи",
+      "shirina": 42.837747,
+      "dalzhina": 25.509021,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 188,
+      "ime": "Тамръшко кале - северна крепост",
+      "shirina": 42.017222,
+      "dalzhina": 24.336667,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 189,
+      "ime": "Тамръшко кале - южна крепост",
+      "shirina": 42.014722,
+      "dalzhina": 24.336944,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 190,
+      "ime": "Ташбоазко кале",
+      "shirina": 41.813209,
+      "dalzhina": 24.133391,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 191,
+      "ime": "Торлашко кале",
+      "shirina": 43.653734,
+      "dalzhina": 26.257771,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 192,
+      "ime": "Тракийска крепост",
+      "shirina": 41.867222,
+      "dalzhina": 25.255556,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 193,
+      "ime": "Тракийска крепост",
+      "shirina": 42.045833,
+      "dalzhina": 24.437778,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 194,
+      "ime": "Тракийска крепост",
+      "shirina": 43.023147,
+      "dalzhina": 23.234494,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 195,
+      "ime": "Тракийска крепост \"Перуна\"",
+      "shirina": 41.990833,
+      "dalzhina": 24.315556,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 196,
+      "ime": "Тракийска могила",
+      "shirina": 42.55446,
+      "dalzhina": 23.174229,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 197,
+      "ime": "Тракийска могила",
+      "shirina": 42.752637,
+      "dalzhina": 23.270652,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 198,
+      "ime": "Тракийска скална гробница Хамбар кая",
+      "shirina": 41.476297,
+      "dalzhina": 25.237552,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 199,
+      "ime": "Тронна палата",
+      "shirina": 43.146222,
+      "dalzhina": 26.812556,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 200,
+      "ime": "Тъмръш",
+      "shirina": 41.929278,
+      "dalzhina": 24.549422,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 201,
+      "ime": "Феодално имение",
+      "shirina": 43.143356,
+      "dalzhina": 26.816856,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 202,
+      "ime": "Фундамент за закрепване на артилерийско оръдие",
+      "shirina": 42.646177,
+      "dalzhina": 27.711379,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 203,
+      "ime": "Фундамент за закрепване на артилерийско оръдие",
+      "shirina": 42.646551,
+      "dalzhina": 27.710362,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 204,
+      "ime": "Храм на Фортуна",
+      "shirina": 43.709934,
+      "dalzhina": 24.465836,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 205,
+      "ime": "Храм на Юпитер",
+      "shirina": 43.711342,
+      "dalzhina": 24.466058,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 206,
+      "ime": "Царската къща",
+      "shirina": 41.758615,
+      "dalzhina": 24.184849,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 207,
+      "ime": "Царски Дворец",
+      "shirina": 43.083648,
+      "dalzhina": 25.652883,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 208,
+      "ime": "Цветаново ижле",
+      "shirina": 42.84508,
+      "dalzhina": 22.561499,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 209,
+      "ime": "Чамла",
+      "shirina": 41.62232,
+      "dalzhina": 24.4543,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 210,
+      "ime": "Шарпани",
+      "shirina": 41.717151,
+      "dalzhina": 25.466257,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 211,
+      "ime": "Шишманово кале",
+      "shirina": 42.299301,
+      "dalzhina": 23.535921,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 212,
+      "ime": "Шишманово кале",
+      "shirina": 43.098474,
+      "dalzhina": 23.621037,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 213,
+      "ime": "Южна кула към портата",
+      "shirina": 42.698383,
+      "dalzhina": 23.320175,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 214,
+      "ime": "Юмрук кая",
+      "shirina": 41.649048,
+      "dalzhina": 25.527363,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 215,
+      "ime": "антична и късноантична крепост \"Градище\"",
+      "shirina": 42.983333,
+      "dalzhina": 27.535,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 216,
+      "ime": "бивш гараж на ДАП",
+      "shirina": 42.537502,
+      "dalzhina": 23.597429,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 217,
+      "ime": "бивш работнически стол",
+      "shirina": 42.541133,
+      "dalzhina": 23.608988,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 218,
+      "ime": "бивша адм. сграда",
+      "shirina": 42.540082,
+      "dalzhina": 23.595122,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 219,
+      "ime": "бивша хижа Комсомолец",
+      "shirina": 42.21023,
+      "dalzhina": 23.195245,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 220,
+      "ime": "гара Чукурово",
+      "shirina": 42.54678,
+      "dalzhina": 23.605764,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 221,
+      "ime": "жп блок",
+      "shirina": 42.546293,
+      "dalzhina": 23.606663,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 222,
+      "ime": "крепост Ефраим",
+      "shirina": 41.617559,
+      "dalzhina": 25.650722,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 223,
+      "ime": "крепост Маласар",
+      "shirina": 41.477625,
+      "dalzhina": 25.24316,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 224,
+      "ime": "м. Чърковището",
+      "shirina": 42.571412,
+      "dalzhina": 25.384948,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 225,
+      "ime": "момчилова крепост",
+      "shirina": 41.580932,
+      "dalzhina": 24.83123,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 226,
+      "ime": "османски форт",
+      "shirina": 43.24421,
+      "dalzhina": 27.911048,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 227,
+      "ime": "стар склад за боеприпаси",
+      "shirina": 43.241349,
+      "dalzhina": 27.927515,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 228,
+      "ime": "църква \"Свети Димитър\"",
+      "shirina": 43.099679,
+      "dalzhina": 25.092878,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 229,
+      "ime": "църква \"Свети Никола\"",
+      "shirina": 41.520544,
+      "dalzhina": 23.392401,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 230,
+      "ime": "църква Св. Георги",
+      "shirina": 42.936056,
+      "dalzhina": 23.825541,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 231,
+      "ime": "шарапана",
+      "shirina": 41.900625,
+      "dalzhina": 25.248718,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    },
+    {
+      "id": 232,
+      "ime": "шарапана",
+      "shirina": 41.906243,
+      "dalzhina": 25.245095,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "ruins",
+      "osm_klas": "historic=ruins"
+    }
+  ],
+  "meta": {
+    "title": "Руини в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Руини в България — 232 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `historic=ruins`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 232 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Руини в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Руини в България (OpenStreetMap) — 232 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 232 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

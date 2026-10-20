@@ -1,0 +1,2707 @@
+{
+  "id": "bg-osm-shop-shoes",
+  "name": "Магазини за обувки в България (OpenStreetMap)",
+  "title": "Магазини за обувки в България (OpenStreetMap)",
+  "description": "Магазини за обувки в България — 294 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=shoes`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 294,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "1+ orto",
+      "shirina": 42.688578,
+      "dalzhina": 23.329178,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 2,
+      "ime": "1001 Пантофки",
+      "shirina": 42.657994,
+      "dalzhina": 23.3153,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 3,
+      "ime": "ASICS",
+      "shirina": 42.657143,
+      "dalzhina": 23.313418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 4,
+      "ime": "Abelini",
+      "shirina": 42.693166,
+      "dalzhina": 23.31671,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 5,
+      "ime": "Adam's Shoes",
+      "shirina": 42.692562,
+      "dalzhina": 23.320421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 6,
+      "ime": "Ado potticelli",
+      "shirina": 42.150595,
+      "dalzhina": 24.746971,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 7,
+      "ime": "Albaluna",
+      "shirina": 41.565352,
+      "dalzhina": 23.280178,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 8,
+      "ime": "Alekso Shoes",
+      "shirina": 41.57803,
+      "dalzhina": 24.696775,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 9,
+      "ime": "Alta Moda",
+      "shirina": 42.653047,
+      "dalzhina": 23.342807,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 10,
+      "ime": "American Club",
+      "shirina": 42.677465,
+      "dalzhina": 23.286222,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 11,
+      "ime": "Anatomic & Co.",
+      "shirina": 42.692714,
+      "dalzhina": 23.321621,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 12,
+      "ime": "Anatomic & co",
+      "shirina": 43.084581,
+      "dalzhina": 25.63788,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 13,
+      "ime": "Anatomico",
+      "shirina": 42.699632,
+      "dalzhina": 23.319,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 14,
+      "ime": "Angiliz",
+      "shirina": 43.850808,
+      "dalzhina": 25.955651,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 15,
+      "ime": "Anima",
+      "shirina": 42.69856,
+      "dalzhina": 23.33184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 16,
+      "ime": "Anjelini",
+      "shirina": 42.643322,
+      "dalzhina": 23.4132,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 17,
+      "ime": "Anna Cori",
+      "shirina": 42.657321,
+      "dalzhina": 23.314457,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 18,
+      "ime": "Aquamarine",
+      "shirina": 42.691423,
+      "dalzhina": 23.319547,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 19,
+      "ime": "Aquamarine",
+      "shirina": 42.692811,
+      "dalzhina": 23.323528,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 20,
+      "ime": "Aquamarine",
+      "shirina": 42.697001,
+      "dalzhina": 23.329986,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 21,
+      "ime": "Aquamarine Shoes & Bags",
+      "shirina": 42.624259,
+      "dalzhina": 23.351245,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 22,
+      "ime": "Aria",
+      "shirina": 42.688846,
+      "dalzhina": 23.344494,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 23,
+      "ime": "Athletic",
+      "shirina": 42.74206,
+      "dalzhina": 23.31349,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 24,
+      "ime": "Bari",
+      "shirina": 42.031951,
+      "dalzhina": 24.299581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 25,
+      "ime": "Bera",
+      "shirina": 42.678705,
+      "dalzhina": 23.320326,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 26,
+      "ime": "Bianki",
+      "shirina": 42.658007,
+      "dalzhina": 23.315374,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 27,
+      "ime": "Big Outlet",
+      "shirina": 42.549694,
+      "dalzhina": 27.474332,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 28,
+      "ime": "Blue sport",
+      "shirina": 42.692596,
+      "dalzhina": 23.322813,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 29,
+      "ime": "Buldozer",
+      "shirina": 42.907705,
+      "dalzhina": 23.793958,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 30,
+      "ime": "Bulldozer",
+      "shirina": 41.565561,
+      "dalzhina": 23.280486,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 31,
+      "ime": "Bulldozer",
+      "shirina": 42.426981,
+      "dalzhina": 25.634558,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 32,
+      "ime": "Bulldozer",
+      "shirina": 42.718356,
+      "dalzhina": 23.253132,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 33,
+      "ime": "Buzz",
+      "shirina": 42.657702,
+      "dalzhina": 23.313679,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 34,
+      "ime": "CCC",
+      "shirina": 41.941304,
+      "dalzhina": 25.555509,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 35,
+      "ime": "CCC",
+      "shirina": 42.145053,
+      "dalzhina": 24.78043,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 36,
+      "ime": "CCC",
+      "shirina": 42.607309,
+      "dalzhina": 23.055492,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 37,
+      "ime": "CCC",
+      "shirina": 42.65838,
+      "dalzhina": 23.31566,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 38,
+      "ime": "CCC",
+      "shirina": 42.660783,
+      "dalzhina": 23.382141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 39,
+      "ime": "CCC",
+      "shirina": 42.682266,
+      "dalzhina": 26.341079,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 40,
+      "ime": "CCC",
+      "shirina": 42.709652,
+      "dalzhina": 23.459091,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 41,
+      "ime": "CCC",
+      "shirina": 42.798865,
+      "dalzhina": 23.228597,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 42,
+      "ime": "CCC",
+      "shirina": 43.419611,
+      "dalzhina": 24.61223,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 43,
+      "ime": "Caprice",
+      "shirina": 42.493682,
+      "dalzhina": 27.473444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 44,
+      "ime": "Caprice",
+      "shirina": 42.693346,
+      "dalzhina": 23.323319,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 45,
+      "ime": "Caprice",
+      "shirina": 42.700581,
+      "dalzhina": 23.3208,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 46,
+      "ime": "Cat Walk",
+      "shirina": 42.150785,
+      "dalzhina": 24.746851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 47,
+      "ime": "Cesare Paciotti",
+      "shirina": 42.660428,
+      "dalzhina": 23.382434,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 48,
+      "ime": "Comfort",
+      "shirina": 42.694854,
+      "dalzhina": 23.320327,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 49,
+      "ime": "Contrabanda",
+      "shirina": 42.66344,
+      "dalzhina": 23.317007,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 50,
+      "ime": "Converse",
+      "shirina": 42.689704,
+      "dalzhina": 23.331139,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 51,
+      "ime": "Converse",
+      "shirina": 42.692828,
+      "dalzhina": 23.319906,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 52,
+      "ime": "Crocs",
+      "shirina": 42.657943,
+      "dalzhina": 23.314199,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 53,
+      "ime": "Daniele Ancarani",
+      "shirina": 42.696078,
+      "dalzhina": 23.323713,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 54,
+      "ime": "Daniele Katini",
+      "shirina": 42.690416,
+      "dalzhina": 23.319659,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 55,
+      "ime": "Deichmann",
+      "shirina": 42.129851,
+      "dalzhina": 24.769148,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 56,
+      "ime": "Deichmann",
+      "shirina": 42.173405,
+      "dalzhina": 24.741352,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 57,
+      "ime": "Deichmann",
+      "shirina": 42.657958,
+      "dalzhina": 23.314091,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 58,
+      "ime": "Deichmann",
+      "shirina": 42.660226,
+      "dalzhina": 23.383369,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 59,
+      "ime": "Deichmann",
+      "shirina": 42.682929,
+      "dalzhina": 23.267594,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 60,
+      "ime": "Deichmann",
+      "shirina": 42.689136,
+      "dalzhina": 23.278522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 61,
+      "ime": "Deichmann",
+      "shirina": 42.711239,
+      "dalzhina": 23.302359,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 62,
+      "ime": "Deichmann",
+      "shirina": 42.719763,
+      "dalzhina": 23.256388,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 63,
+      "ime": "Deichmann",
+      "shirina": 42.728354,
+      "dalzhina": 23.286068,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 64,
+      "ime": "Deichmann",
+      "shirina": 43.07301,
+      "dalzhina": 25.615416,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 65,
+      "ime": "Deichmann",
+      "shirina": 43.279444,
+      "dalzhina": 26.927511,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 66,
+      "ime": "Deichmann",
+      "shirina": 43.419732,
+      "dalzhina": 24.613177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 67,
+      "ime": "Dess",
+      "shirina": 42.694282,
+      "dalzhina": 23.315362,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 68,
+      "ime": "Destan Shoes",
+      "shirina": 42.493827,
+      "dalzhina": 27.475532,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 69,
+      "ime": "Destan Shoes",
+      "shirina": 42.712352,
+      "dalzhina": 27.763165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 70,
+      "ime": "Destan Shoes",
+      "shirina": 42.71311,
+      "dalzhina": 27.760467,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 71,
+      "ime": "Dima",
+      "shirina": 42.690833,
+      "dalzhina": 23.325858,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 72,
+      "ime": "Dima",
+      "shirina": 42.700762,
+      "dalzhina": 23.319707,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 73,
+      "ime": "Diverso",
+      "shirina": 42.660777,
+      "dalzhina": 23.382789,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 74,
+      "ime": "Diverso",
+      "shirina": 42.685967,
+      "dalzhina": 23.317863,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 75,
+      "ime": "Diverso",
+      "shirina": 42.686979,
+      "dalzhina": 23.330512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 76,
+      "ime": "Diverso",
+      "shirina": 42.696384,
+      "dalzhina": 23.350172,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 77,
+      "ime": "Ecco",
+      "shirina": 42.658098,
+      "dalzhina": 23.315542,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 78,
+      "ime": "Elini",
+      "shirina": 42.148692,
+      "dalzhina": 24.747932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 79,
+      "ime": "Eliza",
+      "shirina": 42.150396,
+      "dalzhina": 24.7468,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 80,
+      "ime": "Eobuvki",
+      "shirina": 43.204789,
+      "dalzhina": 27.918346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 81,
+      "ime": "Fabiano",
+      "shirina": 42.146019,
+      "dalzhina": 24.748911,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 82,
+      "ime": "Fabiano",
+      "shirina": 42.658189,
+      "dalzhina": 23.314728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 83,
+      "ime": "Fabiano",
+      "shirina": 42.69311,
+      "dalzhina": 23.323542,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 84,
+      "ime": "Fiore",
+      "shirina": 42.030242,
+      "dalzhina": 24.29866,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 85,
+      "ime": "Fiore outlet",
+      "shirina": 42.03021,
+      "dalzhina": 24.298872,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 86,
+      "ime": "Foot Comfort",
+      "shirina": 42.689743,
+      "dalzhina": 23.31424,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 87,
+      "ime": "Foot Court",
+      "shirina": 42.678591,
+      "dalzhina": 23.320601,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 88,
+      "ime": "Foot Court",
+      "shirina": 42.684624,
+      "dalzhina": 23.316479,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 89,
+      "ime": "Fratelli",
+      "shirina": 42.618671,
+      "dalzhina": 25.395669,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 90,
+      "ime": "GN Universal",
+      "shirina": 42.712139,
+      "dalzhina": 23.31213,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 91,
+      "ime": "Gabi shoes",
+      "shirina": 42.426019,
+      "dalzhina": 25.635587,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 92,
+      "ime": "Gabina",
+      "shirina": 43.202681,
+      "dalzhina": 27.913979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 93,
+      "ime": "Gabriela Juliani",
+      "shirina": 42.699725,
+      "dalzhina": 23.31934,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 94,
+      "ime": "Gabriela Juliany",
+      "shirina": 42.494019,
+      "dalzhina": 27.472398,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 95,
+      "ime": "Galant",
+      "shirina": 42.697234,
+      "dalzhina": 23.319193,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 96,
+      "ime": "Galdini",
+      "shirina": 42.67065,
+      "dalzhina": 23.315835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 97,
+      "ime": "Gentleman",
+      "shirina": 42.695498,
+      "dalzhina": 23.32465,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 98,
+      "ime": "Geox",
+      "shirina": 42.660579,
+      "dalzhina": 23.383451,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 99,
+      "ime": "Geoxx",
+      "shirina": 42.698598,
+      "dalzhina": 27.714057,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 100,
+      "ime": "GiAnni",
+      "shirina": 41.93195,
+      "dalzhina": 25.555409,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 101,
+      "ime": "Gianni",
+      "shirina": 42.661155,
+      "dalzhina": 23.383038,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 102,
+      "ime": "Gianni",
+      "shirina": 43.08429,
+      "dalzhina": 25.634126,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 103,
+      "ime": "Giorgio Fabiani",
+      "shirina": 42.696312,
+      "dalzhina": 23.341419,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 104,
+      "ime": "Gracia Stil",
+      "shirina": 41.639423,
+      "dalzhina": 25.371142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 105,
+      "ime": "Greyder",
+      "shirina": 42.671119,
+      "dalzhina": 23.273771,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 106,
+      "ime": "Hit shop",
+      "shirina": 43.205986,
+      "dalzhina": 24.163673,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 107,
+      "ime": "Humanic",
+      "shirina": 42.14493,
+      "dalzhina": 24.780977,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 108,
+      "ime": "Humanic",
+      "shirina": 42.658345,
+      "dalzhina": 23.315064,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 109,
+      "ime": "Humanic",
+      "shirina": 42.660461,
+      "dalzhina": 23.38328,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 110,
+      "ime": "Indigo",
+      "shirina": 42.146963,
+      "dalzhina": 24.748393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 111,
+      "ime": "Italbul Shoes",
+      "shirina": 42.662013,
+      "dalzhina": 23.417941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 112,
+      "ime": "K 07",
+      "shirina": 42.691058,
+      "dalzhina": 23.325596,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 113,
+      "ime": "K'07",
+      "shirina": 42.689358,
+      "dalzhina": 23.32758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 114,
+      "ime": "Karioka",
+      "shirina": 43.07506,
+      "dalzhina": 25.620536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 115,
+      "ime": "Kavaler",
+      "shirina": 42.678669,
+      "dalzhina": 26.324458,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 116,
+      "ime": "Kids clothes and toys",
+      "shirina": 42.698276,
+      "dalzhina": 27.713971,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 117,
+      "ime": "Kompass",
+      "shirina": 42.518665,
+      "dalzhina": 27.457126,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 118,
+      "ime": "Krachun",
+      "shirina": 42.680355,
+      "dalzhina": 23.301879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 119,
+      "ime": "Kricia & Bordji",
+      "shirina": 42.691143,
+      "dalzhina": 23.319449,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 120,
+      "ime": "Le Scarpe",
+      "shirina": 42.695848,
+      "dalzhina": 23.32397,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 121,
+      "ime": "Ledi anatomic",
+      "shirina": 42.700726,
+      "dalzhina": 23.319927,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 122,
+      "ime": "Little Red Boot",
+      "shirina": 42.692612,
+      "dalzhina": 23.322545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 123,
+      "ime": "Little Whale",
+      "shirina": 42.653315,
+      "dalzhina": 23.332439,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 124,
+      "ime": "Little whale",
+      "shirina": 42.684709,
+      "dalzhina": 23.362942,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 125,
+      "ime": "Lobby di via Saborna",
+      "shirina": 42.696648,
+      "dalzhina": 23.322539,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 126,
+      "ime": "Luciano Padovan",
+      "shirina": 42.695608,
+      "dalzhina": 23.321249,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 127,
+      "ime": "M.J B.J",
+      "shirina": 42.694734,
+      "dalzhina": 23.316284,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 128,
+      "ime": "MJ BJ",
+      "shirina": 42.677579,
+      "dalzhina": 23.28628,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 129,
+      "ime": "Martini",
+      "shirina": 43.56674,
+      "dalzhina": 27.830747,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 130,
+      "ime": "MatStar",
+      "shirina": 42.641579,
+      "dalzhina": 24.800841,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 131,
+      "ime": "Matstar",
+      "shirina": 42.124504,
+      "dalzhina": 24.721164,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 132,
+      "ime": "Megias",
+      "shirina": 42.740881,
+      "dalzhina": 23.313508,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 133,
+      "ime": "Michel",
+      "shirina": 42.145817,
+      "dalzhina": 24.749036,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 134,
+      "ime": "Milano",
+      "shirina": 42.61886,
+      "dalzhina": 25.394907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 135,
+      "ime": "Milvara P",
+      "shirina": 42.693157,
+      "dalzhina": 23.320512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 136,
+      "ime": "Ministry of Shoes",
+      "shirina": 42.693495,
+      "dalzhina": 23.330567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 137,
+      "ime": "Minó",
+      "shirina": 42.692151,
+      "dalzhina": 23.330863,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 138,
+      "ime": "Moda Italiana",
+      "shirina": 42.694173,
+      "dalzhina": 23.322703,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 139,
+      "ime": "Moda Italiana",
+      "shirina": 42.698415,
+      "dalzhina": 23.329464,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 140,
+      "ime": "Morani",
+      "shirina": 43.617283,
+      "dalzhina": 25.346155,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 141,
+      "ime": "Muvid",
+      "shirina": 42.030063,
+      "dalzhina": 24.29861,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 142,
+      "ime": "Muvid",
+      "shirina": 42.153573,
+      "dalzhina": 24.745124,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 143,
+      "ime": "My Way",
+      "shirina": 43.083802,
+      "dalzhina": 25.633562,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 144,
+      "ime": "Ned's",
+      "shirina": 43.571004,
+      "dalzhina": 27.828798,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 145,
+      "ime": "New Image",
+      "shirina": 42.125015,
+      "dalzhina": 24.739318,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 146,
+      "ime": "New football boots",
+      "shirina": 42.660443,
+      "dalzhina": 23.317758,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 147,
+      "ime": "Nine West",
+      "shirina": 42.660871,
+      "dalzhina": 23.38247,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 148,
+      "ime": "Orto's",
+      "shirina": 42.1393,
+      "dalzhina": 24.747025,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 149,
+      "ime": "Orto's",
+      "shirina": 42.696902,
+      "dalzhina": 23.319296,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 150,
+      "ime": "Orto's",
+      "shirina": 43.205828,
+      "dalzhina": 27.920119,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 151,
+      "ime": "Paolo Botticelli",
+      "shirina": 42.624717,
+      "dalzhina": 23.352862,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 152,
+      "ime": "Paolo Botticelli",
+      "shirina": 42.660925,
+      "dalzhina": 23.382962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 153,
+      "ime": "Paolo Botticelli",
+      "shirina": 42.709472,
+      "dalzhina": 23.457871,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 154,
+      "ime": "Pepina",
+      "shirina": 42.657899,
+      "dalzhina": 23.314102,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 155,
+      "ime": "Pepina M",
+      "shirina": 42.676806,
+      "dalzhina": 23.322286,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 156,
+      "ime": "Pepina M",
+      "shirina": 42.678001,
+      "dalzhina": 23.32054,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 157,
+      "ime": "Pepina M",
+      "shirina": 42.696663,
+      "dalzhina": 23.322444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 158,
+      "ime": "Piedo",
+      "shirina": 42.151085,
+      "dalzhina": 24.747728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 159,
+      "ime": "Piedo",
+      "shirina": 42.689079,
+      "dalzhina": 23.316379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 160,
+      "ime": "Piedo",
+      "shirina": 42.689715,
+      "dalzhina": 23.331526,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 161,
+      "ime": "Podium",
+      "shirina": 43.850669,
+      "dalzhina": 25.955479,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 162,
+      "ime": "Primigi",
+      "shirina": 42.661012,
+      "dalzhina": 23.382846,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 163,
+      "ime": "Punto",
+      "shirina": 42.664146,
+      "dalzhina": 23.289179,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 164,
+      "ime": "Punto",
+      "shirina": 42.673837,
+      "dalzhina": 23.355393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 165,
+      "ime": "Punto",
+      "shirina": 42.690152,
+      "dalzhina": 23.319574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 166,
+      "ime": "Punto",
+      "shirina": 42.693626,
+      "dalzhina": 23.323069,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 167,
+      "ime": "Punto",
+      "shirina": 43.203265,
+      "dalzhina": 27.917154,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 168,
+      "ime": "Purple",
+      "shirina": 42.687977,
+      "dalzhina": 23.318418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 169,
+      "ime": "Rack Room Shoes&bags",
+      "shirina": 42.619966,
+      "dalzhina": 25.393888,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 170,
+      "ime": "Ramz star",
+      "shirina": 42.700621,
+      "dalzhina": 23.320549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 171,
+      "ime": "Red Lips",
+      "shirina": 42.699488,
+      "dalzhina": 23.319914,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 172,
+      "ime": "Retro shop",
+      "shirina": 42.700778,
+      "dalzhina": 23.313412,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 173,
+      "ime": "Rieker",
+      "shirina": 42.677562,
+      "dalzhina": 23.286309,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 174,
+      "ime": "Rieker",
+      "shirina": 42.69287,
+      "dalzhina": 23.320429,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 175,
+      "ime": "Rieker",
+      "shirina": 42.700586,
+      "dalzhina": 23.320767,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 176,
+      "ime": "Rifle",
+      "shirina": 43.083868,
+      "dalzhina": 25.63363,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 177,
+      "ime": "Rivas",
+      "shirina": 42.149797,
+      "dalzhina": 24.747093,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 178,
+      "ime": "Roseli",
+      "shirina": 42.694864,
+      "dalzhina": 23.317792,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 179,
+      "ime": "Runners",
+      "shirina": 42.151821,
+      "dalzhina": 24.746055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 180,
+      "ime": "Runners",
+      "shirina": 42.494018,
+      "dalzhina": 27.465351,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 181,
+      "ime": "Runners",
+      "shirina": 42.700893,
+      "dalzhina": 23.29328,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 182,
+      "ime": "Runners",
+      "shirina": 42.718425,
+      "dalzhina": 23.253198,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 183,
+      "ime": "SB",
+      "shirina": 42.424085,
+      "dalzhina": 25.624641,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 184,
+      "ime": "Sandina",
+      "shirina": 42.12495,
+      "dalzhina": 24.738571,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 185,
+      "ime": "Sara Pen",
+      "shirina": 42.661108,
+      "dalzhina": 23.382425,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 186,
+      "ime": "SaraPen",
+      "shirina": 42.692722,
+      "dalzhina": 23.321449,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 187,
+      "ime": "Shooz",
+      "shirina": 42.482202,
+      "dalzhina": 26.510889,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 188,
+      "ime": "Sisi",
+      "shirina": 42.696354,
+      "dalzhina": 23.350027,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 189,
+      "ime": "Sizeer",
+      "shirina": 42.66082,
+      "dalzhina": 23.383304,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 190,
+      "ime": "Skechers",
+      "shirina": 42.14118,
+      "dalzhina": 24.741082,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 191,
+      "ime": "Skechers",
+      "shirina": 42.657156,
+      "dalzhina": 23.313745,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 192,
+      "ime": "Skechers",
+      "shirina": 42.660967,
+      "dalzhina": 23.383492,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 193,
+      "ime": "Snake",
+      "shirina": 41.830764,
+      "dalzhina": 23.481553,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 194,
+      "ime": "Sprintmaster",
+      "shirina": 42.67525,
+      "dalzhina": 23.358864,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 195,
+      "ime": "Stiletto",
+      "shirina": 42.695625,
+      "dalzhina": 23.321513,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 196,
+      "ime": "Stiletto plus",
+      "shirina": 42.668126,
+      "dalzhina": 23.278699,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 197,
+      "ime": "Stillo",
+      "shirina": 42.693244,
+      "dalzhina": 23.323416,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 198,
+      "ime": "Stillo",
+      "shirina": 42.699285,
+      "dalzhina": 23.321622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 199,
+      "ime": "Stillo",
+      "shirina": 42.699455,
+      "dalzhina": 23.320127,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 200,
+      "ime": "Tamaris",
+      "shirina": 42.691654,
+      "dalzhina": 23.320069,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 201,
+      "ime": "TendenZ",
+      "shirina": 42.183409,
+      "dalzhina": 24.346058,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 202,
+      "ime": "TendenZ",
+      "shirina": 42.482165,
+      "dalzhina": 26.510232,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 203,
+      "ime": "TendenZ",
+      "shirina": 43.20328,
+      "dalzhina": 27.914752,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 204,
+      "ime": "Tendenz",
+      "shirina": 42.611052,
+      "dalzhina": 23.040357,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 205,
+      "ime": "Tendenz",
+      "shirina": 42.624879,
+      "dalzhina": 23.351706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 206,
+      "ime": "Tendenz",
+      "shirina": 42.657831,
+      "dalzhina": 23.315515,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 207,
+      "ime": "Tendenz",
+      "shirina": 42.66109,
+      "dalzhina": 23.383258,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 208,
+      "ime": "Tendenz",
+      "shirina": 42.678556,
+      "dalzhina": 26.324901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 209,
+      "ime": "Tendenz",
+      "shirina": 43.083501,
+      "dalzhina": 25.633654,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 210,
+      "ime": "The Factory",
+      "shirina": 42.657762,
+      "dalzhina": 23.315184,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 211,
+      "ime": "Top 10",
+      "shirina": 42.678484,
+      "dalzhina": 23.284942,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 212,
+      "ime": "Top10",
+      "shirina": 41.570547,
+      "dalzhina": 23.729493,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 213,
+      "ime": "Vega Shoes",
+      "shirina": 42.561231,
+      "dalzhina": 27.639993,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 214,
+      "ime": "Vera Pelle",
+      "shirina": 42.694518,
+      "dalzhina": 23.322142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 215,
+      "ime": "Verus",
+      "shirina": 42.149066,
+      "dalzhina": 24.747392,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 216,
+      "ime": "Yoncy",
+      "shirina": 42.658485,
+      "dalzhina": 23.315725,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 217,
+      "ime": "Zebra",
+      "shirina": 42.67688,
+      "dalzhina": 23.285936,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 218,
+      "ime": "eobuvki",
+      "shirina": 42.693035,
+      "dalzhina": 23.323617,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 219,
+      "ime": "kloG",
+      "shirina": 42.685261,
+      "dalzhina": 23.321333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 220,
+      "ime": "mat star",
+      "shirina": 41.549933,
+      "dalzhina": 23.269983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 221,
+      "ime": "mat star",
+      "shirina": 41.570908,
+      "dalzhina": 23.729512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 222,
+      "ime": "mat star",
+      "shirina": 41.969979,
+      "dalzhina": 25.560011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 223,
+      "ime": "mat star",
+      "shirina": 42.127568,
+      "dalzhina": 24.720381,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 224,
+      "ime": "mat star",
+      "shirina": 42.182774,
+      "dalzhina": 24.34511,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 225,
+      "ime": "mat star",
+      "shirina": 42.267434,
+      "dalzhina": 23.113751,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 226,
+      "ime": "mat star",
+      "shirina": 42.476926,
+      "dalzhina": 26.512706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 227,
+      "ime": "mat star",
+      "shirina": 42.601948,
+      "dalzhina": 23.047634,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 228,
+      "ime": "mat star",
+      "shirina": 42.61084,
+      "dalzhina": 23.040379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 229,
+      "ime": "mat star",
+      "shirina": 42.661072,
+      "dalzhina": 23.382852,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 230,
+      "ime": "mat star",
+      "shirina": 42.68956,
+      "dalzhina": 23.278863,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 231,
+      "ime": "mat star",
+      "shirina": 42.699678,
+      "dalzhina": 23.318716,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 232,
+      "ime": "mat star",
+      "shirina": 42.704024,
+      "dalzhina": 24.16164,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 233,
+      "ime": "mat star",
+      "shirina": 42.742139,
+      "dalzhina": 23.313263,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 234,
+      "ime": "mat star",
+      "shirina": 42.892582,
+      "dalzhina": 24.716254,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 235,
+      "ime": "mat star",
+      "shirina": 42.911273,
+      "dalzhina": 23.804025,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 236,
+      "ime": "mat star",
+      "shirina": 43.276281,
+      "dalzhina": 26.943002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 237,
+      "ime": "mat star",
+      "shirina": 43.418486,
+      "dalzhina": 23.226546,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 238,
+      "ime": "mat star",
+      "shirina": 43.700994,
+      "dalzhina": 28.040718,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 239,
+      "ime": "orto's",
+      "shirina": 42.693361,
+      "dalzhina": 23.323305,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 240,
+      "ime": "tamaris",
+      "shirina": 42.663625,
+      "dalzhina": 23.288845,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 241,
+      "ime": "Ал Бънди",
+      "shirina": 43.853465,
+      "dalzhina": 25.964238,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 242,
+      "ime": "Болгарская обувь",
+      "shirina": 42.420806,
+      "dalzhina": 27.692925,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 243,
+      "ime": "Брайт",
+      "shirina": 43.204181,
+      "dalzhina": 27.918014,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 244,
+      "ime": "Булшус",
+      "shirina": 43.570181,
+      "dalzhina": 27.829506,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 245,
+      "ime": "Български обувки",
+      "shirina": 42.146449,
+      "dalzhina": 24.748418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 246,
+      "ime": "Дамски обувки Galdini",
+      "shirina": 43.204786,
+      "dalzhina": 23.553289,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 247,
+      "ime": "Дарис",
+      "shirina": 43.084787,
+      "dalzhina": 25.635998,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 248,
+      "ime": "Де Роси Каза",
+      "shirina": 42.144395,
+      "dalzhina": 24.749629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 249,
+      "ime": "Делфи",
+      "shirina": 42.669512,
+      "dalzhina": 23.302318,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 250,
+      "ime": "Джио",
+      "shirina": 42.699967,
+      "dalzhina": 23.317967,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 251,
+      "ime": "Добрев Н",
+      "shirina": 43.204546,
+      "dalzhina": 27.915112,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 252,
+      "ime": "Елеганс",
+      "shirina": 42.491704,
+      "dalzhina": 27.473062,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 253,
+      "ime": "Елеганс",
+      "shirina": 43.20968,
+      "dalzhina": 27.908879,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 254,
+      "ime": "Жегияс",
+      "shirina": 42.699655,
+      "dalzhina": 23.318858,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 255,
+      "ime": "Желание",
+      "shirina": 42.700482,
+      "dalzhina": 23.319881,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 256,
+      "ime": "Йонина",
+      "shirina": 42.907725,
+      "dalzhina": 23.794035,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 257,
+      "ime": "КРЕБС",
+      "shirina": 43.271621,
+      "dalzhina": 26.932975,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 258,
+      "ime": "Кавалер",
+      "shirina": 42.144722,
+      "dalzhina": 24.749956,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 259,
+      "ime": "Кавалер",
+      "shirina": 42.493574,
+      "dalzhina": 27.474517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 260,
+      "ime": "Кавалер",
+      "shirina": 42.696204,
+      "dalzhina": 23.318779,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 261,
+      "ime": "Кавалер",
+      "shirina": 42.699594,
+      "dalzhina": 23.320393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 262,
+      "ime": "Кавалер",
+      "shirina": 42.700525,
+      "dalzhina": 23.319873,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 263,
+      "ime": "Кавалер",
+      "shirina": 43.209294,
+      "dalzhina": 27.908607,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 264,
+      "ime": "Калина",
+      "shirina": 43.850746,
+      "dalzhina": 25.955586,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 265,
+      "ime": "Кики",
+      "shirina": 42.701405,
+      "dalzhina": 23.318702,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 266,
+      "ime": "Колев и Колев",
+      "shirina": 42.658165,
+      "dalzhina": 23.315337,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 267,
+      "ime": "Компас - \"Ъгъла\"",
+      "shirina": 42.495822,
+      "dalzhina": 27.474893,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 268,
+      "ime": "Комфорт шуус",
+      "shirina": 43.848467,
+      "dalzhina": 25.95518,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 269,
+      "ime": "Лазар С",
+      "shirina": 42.13713,
+      "dalzhina": 24.744007,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 270,
+      "ime": "ЛазарС",
+      "shirina": 42.138135,
+      "dalzhina": 24.744914,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 271,
+      "ime": "Магазин ПОПН",
+      "shirina": 42.202181,
+      "dalzhina": 24.796233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 272,
+      "ime": "Мегияс",
+      "shirina": 43.083396,
+      "dalzhina": 25.633536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 273,
+      "ime": "Мона Лиза",
+      "shirina": 42.13709,
+      "dalzhina": 24.743889,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 274,
+      "ime": "Народен Юмрук",
+      "shirina": 42.493576,
+      "dalzhina": 27.474377,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 275,
+      "ime": "Немски обувки",
+      "shirina": 42.692789,
+      "dalzhina": 23.31207,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 276,
+      "ime": "Нино",
+      "shirina": 42.13649,
+      "dalzhina": 24.74256,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 277,
+      "ime": "Обувки",
+      "shirina": 41.564618,
+      "dalzhina": 23.279932,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 278,
+      "ime": "Обущар",
+      "shirina": 42.141043,
+      "dalzhina": 24.755372,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 279,
+      "ime": "Обущар",
+      "shirina": 43.841928,
+      "dalzhina": 25.960107,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 280,
+      "ime": "Пещера",
+      "shirina": 42.138773,
+      "dalzhina": 24.745826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 281,
+      "ime": "Пещера",
+      "shirina": 42.495136,
+      "dalzhina": 27.471165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 282,
+      "ime": "Престиж",
+      "shirina": 42.482369,
+      "dalzhina": 26.510404,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 283,
+      "ime": "Принцеси",
+      "shirina": 42.124352,
+      "dalzhina": 24.732081,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 284,
+      "ime": "Рувзли",
+      "shirina": 41.577975,
+      "dalzhina": 24.696907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 285,
+      "ime": "Саша",
+      "shirina": 42.006218,
+      "dalzhina": 24.875034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 286,
+      "ime": "Свик",
+      "shirina": 42.030308,
+      "dalzhina": 24.298684,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 287,
+      "ime": "Солунска митница",
+      "shirina": 43.209257,
+      "dalzhina": 27.919618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 288,
+      "ime": "Спектър",
+      "shirina": 42.61843,
+      "dalzhina": 25.391475,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 289,
+      "ime": "Стил '99",
+      "shirina": 42.7004,
+      "dalzhina": 23.321862,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 290,
+      "ime": "Стилмо",
+      "shirina": 42.694915,
+      "dalzhina": 23.319734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 291,
+      "ime": "Стогос",
+      "shirina": 42.137125,
+      "dalzhina": 24.743465,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 292,
+      "ime": "Фешън",
+      "shirina": 42.427116,
+      "dalzhina": 25.635341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 293,
+      "ime": "Флавиа",
+      "shirina": 42.139787,
+      "dalzhina": 24.747343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    },
+    {
+      "id": 294,
+      "ime": "обувки",
+      "shirina": 42.171475,
+      "dalzhina": 27.850799,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "shoes",
+      "osm_klas": "shop=shoes"
+    }
+  ],
+  "meta": {
+    "title": "Магазини за обувки в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Магазини за обувки в България — 294 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=shoes`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 294 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Магазини за обувки в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Магазини за обувки в България (OpenStreetMap) — 294 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 294 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "id": "bg-sliven-zhelezopatni-gari",
+  "name": "Железопътни гари — област Сливен",
+  "title": "Железопътни гари — област Сливен",
+  "description": "Железопътни гари и спирки в област Сливен (Sliven, код SLV) от trainline-eu/stations. 4 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_latin",
+      "label": "Oblast Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_bg",
+      "label": "Nearest Settlement Bg",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_km",
+      "label": "Nearest Settlement Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 32330,
+      "name": "Sliven",
+      "slug": "sliven",
+      "uic": "",
+      "latitude": 42.68583,
+      "longitude": 26.32917,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Сливен",
+      "oblast_latin": "Sliven",
+      "oblast_slug": "sliven",
+      "oblast_code": "SLV",
+      "nearest_settlement_bg": "Козин дол",
+      "nearest_settlement_km": 0.688,
+      "country": "BG"
+    },
+    {
+      "id": 2,
+      "station_id": 37808,
+      "name": "Nova Zagora",
+      "slug": "nova-zagora",
+      "uic": "",
+      "latitude": 42.500083,
+      "longitude": 26.008941,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Сливен",
+      "oblast_latin": "Sliven",
+      "oblast_slug": "sliven",
+      "oblast_code": "SLV",
+      "nearest_settlement_bg": "Нова Загора",
+      "nearest_settlement_km": 0.722,
+      "country": "BG"
+    },
+    {
+      "id": 3,
+      "station_id": 38420,
+      "name": "Radovets",
+      "slug": "radovets",
+      "uic": "",
+      "latitude": 42.931164,
+      "longitude": 26.49201,
+      "time_zone": "Europe/Sofia",
+      "is_city": true,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Сливен",
+      "oblast_latin": "Sliven",
+      "oblast_slug": "sliven",
+      "oblast_code": "SLV",
+      "nearest_settlement_bg": "Филаретово",
+      "nearest_settlement_km": 5.353,
+      "country": "BG"
+    },
+    {
+      "id": 4,
+      "station_id": 67997,
+      "name": "Gorno Aleksandrovo",
+      "slug": "gorno-aleksandrovo",
+      "uic": "",
+      "latitude": 42.647122,
+      "longitude": 26.66919,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Сливен",
+      "oblast_latin": "Sliven",
+      "oblast_slug": "sliven",
+      "oblast_code": "SLV",
+      "nearest_settlement_bg": "Горно Александрово",
+      "nearest_settlement_km": 2.751,
+      "country": "BG"
+    }
+  ],
+  "meta": {
+    "title": "Железопътни гари — област Сливен - Безплатно изтегляне",
+    "description": "Железопътни гари и спирки в област Сливен (Sliven, код SLV) от trainline-eu/stations. 4 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations. Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железопътни гари — област Сливен | ListBase",
+    "seo_description": "Изтеглете Железопътни гари — област Сливен — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

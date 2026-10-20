@@ -1,0 +1,198 @@
+{
+  "id": "bg-yadreni-tsentrali",
+  "name": "Ядрени централи в България",
+  "title": "Ядрени централи в България",
+  "description": "Ядрени централи в България — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies).",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "reactor_type",
+      "label": "Reactor Type",
+      "type": "string"
+    },
+    {
+      "key": "reactor_model",
+      "label": "Reactor Model",
+      "type": "string"
+    },
+    {
+      "key": "construction_start",
+      "label": "Construction Start",
+      "type": "date"
+    },
+    {
+      "key": "operational_from",
+      "label": "Operational From",
+      "type": "date"
+    },
+    {
+      "key": "operational_to",
+      "label": "Operational To",
+      "type": "date"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "iaea_id",
+      "label": "Iaea Id",
+      "type": "number"
+    },
+    {
+      "key": "data_source",
+      "label": "Data Source",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Belene-1",
+      "latitude": 43.62453,
+      "longitude": 25.18675,
+      "status": "Cancelled Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "",
+      "construction_start": "1987-01-01",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 953,
+      "iaea_id": "",
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Belene-2",
+      "latitude": 43.62453,
+      "longitude": 25.1865,
+      "status": "Cancelled Construction",
+      "reactor_type": "PWR",
+      "reactor_model": "",
+      "construction_start": "1987-03-31",
+      "operational_from": "",
+      "operational_to": "",
+      "capacity_mw": 953,
+      "iaea_id": "",
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Kozloduy-1",
+      "latitude": 43.744,
+      "longitude": 23.776,
+      "status": "Shutdown",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-230",
+      "construction_start": "1970-04-01",
+      "operational_from": "1974-10-28",
+      "operational_to": "2002-12-31",
+      "capacity_mw": 408,
+      "iaea_id": 16,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Kozloduy-2",
+      "latitude": 43.744,
+      "longitude": 23.776,
+      "status": "Shutdown",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-230",
+      "construction_start": "1970-04-01",
+      "operational_from": "1975-11-10",
+      "operational_to": "2002-12-31",
+      "capacity_mw": 408,
+      "iaea_id": 17,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Kozloduy-3",
+      "latitude": 43.744,
+      "longitude": 23.776,
+      "status": "Shutdown",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-230",
+      "construction_start": "1973-10-01",
+      "operational_from": "1981-01-20",
+      "operational_to": "2006-12-31",
+      "capacity_mw": 408,
+      "iaea_id": 18,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Kozloduy-4",
+      "latitude": 43.744,
+      "longitude": 23.776,
+      "status": "Shutdown",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-230",
+      "construction_start": "1973-10-01",
+      "operational_from": "1982-06-20",
+      "operational_to": "2006-12-31",
+      "capacity_mw": 408,
+      "iaea_id": 19,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Kozloduy-5",
+      "latitude": 43.744,
+      "longitude": 23.776,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1980-07-09",
+      "operational_from": "1988-12-23",
+      "operational_to": "",
+      "capacity_mw": 953,
+      "iaea_id": 20,
+      "data_source": "WNA/IAEA"
+    },
+    {
+      "name": "Kozloduy-6",
+      "latitude": 43.744,
+      "longitude": 23.776,
+      "status": "Operational",
+      "reactor_type": "PWR",
+      "reactor_model": "VVER V-320",
+      "construction_start": "1982-04-01",
+      "operational_from": "1993-12-30",
+      "operational_to": "",
+      "capacity_mw": 1003,
+      "iaea_id": 21,
+      "data_source": "WNA/IAEA"
+    }
+  ],
+  "meta": {
+    "title": "Ядрени централи в България - Безплатно изтегляне",
+    "description": "Ядрени централи в България — reactor-level list of nuclear power plant units from the GeoNuclearData database (WNA/IAEA-sourced), including shutdown and under-construction units with reactor type/model, construction and operational dates, and capacity (MW). Complements the power-plants datasets (which cover operating plants of all fuels, plant-level): this list is reactor-unit level and includes historical (shutdown) and future (under construction) units. Names are ASCII/English as published by the source; native-script names not in source. Snapshot at source commit date (2024-era database; per-record LastUpdatedAt varies). Съдържа 8 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Ядрени централи в България | ListBase",
+    "seo_description": "Изтеглете Ядрени централи в България — 8 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 8 записа / 12 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "bg-razgrad-letishta",
+  "name": "Летища — област Разград",
+  "title": "Летища — област Разград",
+  "description": "Списък на летищата в „област Разград“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Razgrad Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_source",
+      "label": "Oblast Source",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LBSS",
+      "iata": "SLS",
+      "name": "Silistra Polkovnik Lambrinovo Airfield",
+      "name_slug": "silistra-polkovnik-lambrinovo-airfield",
+      "city": "Silistra",
+      "oblast": "област Разград",
+      "oblast_source": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_en": "Razgrad Province",
+      "country": "BG",
+      "elevation_ft": 351,
+      "lat": 44.0551986694,
+      "lon": 27.1788005829,
+      "timezone": "Europe/Sofia",
+      "has_iata": true
+    },
+    {
+      "icao": "LBTG",
+      "iata": "TGV",
+      "name": "Bukhovtsi Airfield",
+      "name_slug": "bukhovtsi-airfield",
+      "city": "Targovishte",
+      "oblast": "област Разград",
+      "oblast_source": "Razgrad",
+      "oblast_slug": "razgrad",
+      "oblast_en": "Razgrad Province",
+      "country": "BG",
+      "elevation_ft": 666,
+      "lat": 43.3065986633,
+      "lon": 26.7008991241,
+      "timezone": "Europe/Sofia",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Летища — област Разград - Безплатно изтегляне",
+    "description": "Списък на летищата в „област Разград“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Razgrad Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Съдържа 2 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Летища — област Разград | ListBase",
+    "seo_description": "Изтеглете Летища — област Разград — 2 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 2 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: https://github.com/mwgg/Airports"
+    ]
+  }
+}

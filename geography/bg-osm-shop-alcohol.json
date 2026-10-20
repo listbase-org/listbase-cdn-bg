@@ -1,0 +1,1834 @@
+{
+  "id": "bg-osm-shop-alcohol",
+  "name": "Магазини за алкохол в България (OpenStreetMap)",
+  "title": "Магазини за алкохол в България (OpenStreetMap)",
+  "description": "Магазини за алкохол в България — 197 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=alcohol`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 197,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "100 Beers",
+      "shirina": 42.690425,
+      "dalzhina": 23.329227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 2,
+      "ime": "1001 Beers",
+      "shirina": 42.686322,
+      "dalzhina": 23.321558,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 3,
+      "ime": "168h",
+      "shirina": 42.141753,
+      "dalzhina": 24.733312,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 4,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.654296,
+      "dalzhina": 23.372155,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 5,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.66429,
+      "dalzhina": 23.26662,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 6,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.665918,
+      "dalzhina": 23.299944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 7,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.668967,
+      "dalzhina": 23.279549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 8,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.670068,
+      "dalzhina": 23.352889,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 9,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.670731,
+      "dalzhina": 23.296238,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 10,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.672497,
+      "dalzhina": 23.285066,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 11,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.672598,
+      "dalzhina": 23.299488,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 12,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.675865,
+      "dalzhina": 23.299352,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 13,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.676992,
+      "dalzhina": 23.295557,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 14,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.677016,
+      "dalzhina": 23.303391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 15,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.678466,
+      "dalzhina": 23.291235,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 16,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.679744,
+      "dalzhina": 23.324844,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 17,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.684525,
+      "dalzhina": 23.300632,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 18,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.68484,
+      "dalzhina": 23.321257,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 19,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.686646,
+      "dalzhina": 23.330552,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 20,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.68736,
+      "dalzhina": 23.330016,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 21,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.688354,
+      "dalzhina": 23.329487,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 22,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.689217,
+      "dalzhina": 23.344202,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 23,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.690266,
+      "dalzhina": 23.340418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 24,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.693686,
+      "dalzhina": 23.321418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 25,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.69476,
+      "dalzhina": 23.316469,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 26,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.696283,
+      "dalzhina": 23.342124,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 27,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.696505,
+      "dalzhina": 23.336594,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 28,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.697731,
+      "dalzhina": 23.326673,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 29,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.698032,
+      "dalzhina": 23.329769,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 30,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.699198,
+      "dalzhina": 23.338421,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 31,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.699737,
+      "dalzhina": 23.324552,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 32,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.701728,
+      "dalzhina": 23.333994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 33,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.702985,
+      "dalzhina": 23.328907,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 34,
+      "ime": "Alcohol & Tabakoff",
+      "shirina": 42.703934,
+      "dalzhina": 23.333375,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 35,
+      "ime": "Alcohol Center",
+      "shirina": 42.689142,
+      "dalzhina": 23.307959,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 36,
+      "ime": "Alcohol Center",
+      "shirina": 42.694049,
+      "dalzhina": 23.348002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 37,
+      "ime": "Alldays",
+      "shirina": 42.659391,
+      "dalzhina": 23.316216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 38,
+      "ime": "Amant",
+      "shirina": 42.670393,
+      "dalzhina": 23.352842,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 39,
+      "ime": "BD Liquor",
+      "shirina": 42.696007,
+      "dalzhina": 23.344682,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 40,
+      "ime": "BD Liquor",
+      "shirina": 42.712941,
+      "dalzhina": 23.270536,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 41,
+      "ime": "BD Liquor",
+      "shirina": 42.720456,
+      "dalzhina": 23.242432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 42,
+      "ime": "BD Liquor",
+      "shirina": 42.72722,
+      "dalzhina": 23.251436,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 43,
+      "ime": "BD liquor",
+      "shirina": 42.668999,
+      "dalzhina": 23.28333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 44,
+      "ime": "Beer Shop",
+      "shirina": 42.658305,
+      "dalzhina": 27.735262,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 45,
+      "ime": "Beershop",
+      "shirina": 42.146049,
+      "dalzhina": 24.749795,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 46,
+      "ime": "Bella Vista",
+      "shirina": 42.69799,
+      "dalzhina": 23.312328,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 47,
+      "ime": "Billiard",
+      "shirina": 42.710463,
+      "dalzhina": 23.311731,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 48,
+      "ime": "Broadway",
+      "shirina": 42.693875,
+      "dalzhina": 23.328525,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 49,
+      "ime": "Casa bira",
+      "shirina": 43.223863,
+      "dalzhina": 27.925009,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 50,
+      "ime": "Casavino",
+      "shirina": 42.662285,
+      "dalzhina": 23.265216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 51,
+      "ime": "Casavino",
+      "shirina": 42.696296,
+      "dalzhina": 23.3418,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 52,
+      "ime": "Chivas",
+      "shirina": 42.697181,
+      "dalzhina": 23.3354,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 53,
+      "ime": "City Shop",
+      "shirina": 42.14016,
+      "dalzhina": 24.722976,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 54,
+      "ime": "Corner Shop",
+      "shirina": 42.14412,
+      "dalzhina": 24.748399,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 55,
+      "ime": "Cosmic craft beer",
+      "shirina": 42.69065,
+      "dalzhina": 23.325764,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 56,
+      "ime": "Dionis",
+      "shirina": 42.696294,
+      "dalzhina": 23.322887,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 57,
+      "ime": "Dissident",
+      "shirina": 42.687919,
+      "dalzhina": 23.324913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 58,
+      "ime": "Drink & Smoke 3",
+      "shirina": 42.135608,
+      "dalzhina": 24.789467,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 59,
+      "ime": "Drink Shop",
+      "shirina": 42.137361,
+      "dalzhina": 24.792943,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 60,
+      "ime": "Drinks Mania",
+      "shirina": 42.672732,
+      "dalzhina": 23.292864,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 61,
+      "ime": "Drinksmania",
+      "shirina": 42.70123,
+      "dalzhina": 23.322394,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 62,
+      "ime": "Ednovino",
+      "shirina": 43.207208,
+      "dalzhina": 27.921923,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 63,
+      "ime": "Finlandia",
+      "shirina": 42.148296,
+      "dalzhina": 24.748315,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 64,
+      "ime": "Friends Tobacco",
+      "shirina": 42.69693,
+      "dalzhina": 23.305298,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 65,
+      "ime": "GIG",
+      "shirina": 42.702449,
+      "dalzhina": 23.300838,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 66,
+      "ime": "Hill",
+      "shirina": 42.692833,
+      "dalzhina": 23.319881,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 67,
+      "ime": "Insomnia",
+      "shirina": 42.676731,
+      "dalzhina": 23.304341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 68,
+      "ime": "JAG",
+      "shirina": 42.682685,
+      "dalzhina": 23.31404,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 69,
+      "ime": "Jager Shop",
+      "shirina": 42.141731,
+      "dalzhina": 24.788514,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 70,
+      "ime": "Jim",
+      "shirina": 42.698717,
+      "dalzhina": 23.333322,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 71,
+      "ime": "Johnnie Walker",
+      "shirina": 42.702174,
+      "dalzhina": 23.298062,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 72,
+      "ime": "Kimbo",
+      "shirina": 42.678486,
+      "dalzhina": 23.290737,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 73,
+      "ime": "Kinky",
+      "shirina": 42.692423,
+      "dalzhina": 23.322101,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 74,
+      "ime": "Liquid Store",
+      "shirina": 42.149726,
+      "dalzhina": 24.727011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 75,
+      "ime": "Lucky",
+      "shirina": 42.643279,
+      "dalzhina": 23.337267,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 76,
+      "ime": "Lux Market",
+      "shirina": 42.69512,
+      "dalzhina": 23.31846,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 77,
+      "ime": "Magura Winery",
+      "shirina": 43.624001,
+      "dalzhina": 22.676953,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 78,
+      "ime": "NON STOP 24/7",
+      "shirina": 42.142342,
+      "dalzhina": 24.74274,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 79,
+      "ime": "Non Stop 21",
+      "shirina": 43.270999,
+      "dalzhina": 26.927284,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 80,
+      "ime": "Non Stop Cozy Market",
+      "shirina": 42.658117,
+      "dalzhina": 23.342567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 81,
+      "ime": "Nosferatu",
+      "shirina": 42.688628,
+      "dalzhina": 23.324599,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 82,
+      "ime": "Off License",
+      "shirina": 42.715952,
+      "dalzhina": 23.26772,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 83,
+      "ime": "Pavilion 24",
+      "shirina": 42.677165,
+      "dalzhina": 23.289543,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 84,
+      "ime": "Peter Tabacconist",
+      "shirina": 42.662166,
+      "dalzhina": 27.716618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 85,
+      "ime": "Premium",
+      "shirina": 43.84956,
+      "dalzhina": 25.954627,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 86,
+      "ime": "Robert James",
+      "shirina": 42.657412,
+      "dalzhina": 23.313727,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 87,
+      "ime": "Robert James Whisky",
+      "shirina": 42.663786,
+      "dalzhina": 23.288588,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 88,
+      "ime": "Snaphop",
+      "shirina": 42.493441,
+      "dalzhina": 27.466583,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 89,
+      "ime": "Tabacchi",
+      "shirina": 42.698888,
+      "dalzhina": 23.308645,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 90,
+      "ime": "Tabbacco shop Джъмбо",
+      "shirina": 43.43558,
+      "dalzhina": 28.336973,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 91,
+      "ime": "Taco Trap",
+      "shirina": 42.14951,
+      "dalzhina": 24.748675,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 92,
+      "ime": "Tasting Room",
+      "shirina": 43.204601,
+      "dalzhina": 27.913487,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 93,
+      "ime": "Tequila Residence",
+      "shirina": 42.696305,
+      "dalzhina": 23.337689,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 94,
+      "ime": "The Whisky Shop",
+      "shirina": 42.686717,
+      "dalzhina": 23.3177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 95,
+      "ime": "The White Store",
+      "shirina": 42.679598,
+      "dalzhina": 23.324447,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 96,
+      "ime": "Tony's",
+      "shirina": 42.660224,
+      "dalzhina": 23.316375,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 97,
+      "ime": "Travel Free",
+      "shirina": 43.192955,
+      "dalzhina": 27.921175,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 98,
+      "ime": "Vine & Rakia",
+      "shirina": 42.099642,
+      "dalzhina": 27.941108,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 99,
+      "ime": "Vinello",
+      "shirina": 42.694419,
+      "dalzhina": 23.323394,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 100,
+      "ime": "Whiskey Castle",
+      "shirina": 42.159075,
+      "dalzhina": 24.736083,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 101,
+      "ime": "Whisky Castle",
+      "shirina": 42.159088,
+      "dalzhina": 24.736179,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 102,
+      "ime": "Winery Logodaj",
+      "shirina": 42.669506,
+      "dalzhina": 23.315991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 103,
+      "ime": "bramble",
+      "shirina": 42.696387,
+      "dalzhina": 23.337965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 104,
+      "ime": "dip house",
+      "shirina": 42.679398,
+      "dalzhina": 23.300761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 105,
+      "ime": "iSTOP shop",
+      "shirina": 42.159578,
+      "dalzhina": 24.747149,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 106,
+      "ime": "non-stop",
+      "shirina": 42.133794,
+      "dalzhina": 24.795567,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 107,
+      "ime": "АБВ",
+      "shirina": 42.661596,
+      "dalzhina": 23.290754,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 108,
+      "ime": "АБВ",
+      "shirina": 42.733583,
+      "dalzhina": 23.305142,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 109,
+      "ime": "Аванти",
+      "shirina": 41.61486,
+      "dalzhina": 25.375604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 110,
+      "ime": "Аванти",
+      "shirina": 42.137343,
+      "dalzhina": 24.718323,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 111,
+      "ime": "Аванти",
+      "shirina": 42.630902,
+      "dalzhina": 23.374813,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 112,
+      "ime": "Аванти",
+      "shirina": 42.636127,
+      "dalzhina": 23.310926,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 113,
+      "ime": "Аванти",
+      "shirina": 42.65822,
+      "dalzhina": 23.382228,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 114,
+      "ime": "Аванти",
+      "shirina": 42.661456,
+      "dalzhina": 23.301259,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 115,
+      "ime": "Аванти",
+      "shirina": 42.663922,
+      "dalzhina": 23.284329,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 116,
+      "ime": "Аванти",
+      "shirina": 42.66394,
+      "dalzhina": 23.362558,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 117,
+      "ime": "Аванти",
+      "shirina": 42.665536,
+      "dalzhina": 23.272923,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 118,
+      "ime": "Аванти",
+      "shirina": 42.66573,
+      "dalzhina": 23.299706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 119,
+      "ime": "Аванти",
+      "shirina": 42.669929,
+      "dalzhina": 23.303144,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 120,
+      "ime": "Аванти",
+      "shirina": 42.670945,
+      "dalzhina": 23.320013,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 121,
+      "ime": "Аванти",
+      "shirina": 42.672866,
+      "dalzhina": 23.284965,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 122,
+      "ime": "Аванти",
+      "shirina": 42.675056,
+      "dalzhina": 23.329798,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 123,
+      "ime": "Аванти",
+      "shirina": 42.677036,
+      "dalzhina": 23.292378,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 124,
+      "ime": "Аванти",
+      "shirina": 42.677585,
+      "dalzhina": 23.284451,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 125,
+      "ime": "Аванти",
+      "shirina": 42.679927,
+      "dalzhina": 23.310011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 126,
+      "ime": "Аванти",
+      "shirina": 42.680818,
+      "dalzhina": 23.331485,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 127,
+      "ime": "Аванти",
+      "shirina": 42.681388,
+      "dalzhina": 23.285003,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 128,
+      "ime": "Аванти",
+      "shirina": 42.684641,
+      "dalzhina": 23.321376,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 129,
+      "ime": "Аванти",
+      "shirina": 42.68586,
+      "dalzhina": 23.300248,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 130,
+      "ime": "Аванти",
+      "shirina": 42.687425,
+      "dalzhina": 23.328226,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 131,
+      "ime": "Аванти",
+      "shirina": 42.68902,
+      "dalzhina": 23.305676,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 132,
+      "ime": "Аванти",
+      "shirina": 42.689371,
+      "dalzhina": 23.34376,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 133,
+      "ime": "Аванти",
+      "shirina": 42.690232,
+      "dalzhina": 23.254245,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 134,
+      "ime": "Аванти",
+      "shirina": 42.692189,
+      "dalzhina": 23.330255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 135,
+      "ime": "Аванти",
+      "shirina": 42.693453,
+      "dalzhina": 23.351236,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 136,
+      "ime": "Аванти",
+      "shirina": 42.698199,
+      "dalzhina": 23.310826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 137,
+      "ime": "Аванти",
+      "shirina": 42.698234,
+      "dalzhina": 23.289227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 138,
+      "ime": "Аванти",
+      "shirina": 42.700415,
+      "dalzhina": 23.317584,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 139,
+      "ime": "Аванти",
+      "shirina": 42.708228,
+      "dalzhina": 23.299141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 140,
+      "ime": "Аванти",
+      "shirina": 42.708281,
+      "dalzhina": 23.349262,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 141,
+      "ime": "Аванти",
+      "shirina": 42.709546,
+      "dalzhina": 23.3182,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 142,
+      "ime": "Аванти",
+      "shirina": 42.711469,
+      "dalzhina": 23.314159,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 143,
+      "ime": "Аванти",
+      "shirina": 42.715211,
+      "dalzhina": 23.260716,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 144,
+      "ime": "Аванти",
+      "shirina": 42.716659,
+      "dalzhina": 23.268359,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 145,
+      "ime": "Аванти",
+      "shirina": 42.717215,
+      "dalzhina": 23.247941,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 146,
+      "ime": "Аванти",
+      "shirina": 42.726521,
+      "dalzhina": 23.307378,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 147,
+      "ime": "Аванти",
+      "shirina": 42.737941,
+      "dalzhina": 23.296839,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 148,
+      "ime": "Аванти",
+      "shirina": 43.224504,
+      "dalzhina": 27.925713,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 149,
+      "ime": "Авеню",
+      "shirina": 42.144838,
+      "dalzhina": 24.756052,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 150,
+      "ime": "Алкохол и Цигари",
+      "shirina": 42.689024,
+      "dalzhina": 23.320244,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 151,
+      "ime": "Алкохол, цигари",
+      "shirina": 42.819585,
+      "dalzhina": 27.882926,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 152,
+      "ime": "Алкохоландия",
+      "shirina": 42.661988,
+      "dalzhina": 23.316754,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 153,
+      "ime": "Алкохоландия",
+      "shirina": 42.698563,
+      "dalzhina": 23.315881,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 154,
+      "ime": "Арарат",
+      "shirina": 43.198715,
+      "dalzhina": 27.914914,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 155,
+      "ime": "БД Ликьор",
+      "shirina": 42.710585,
+      "dalzhina": 23.259277,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 156,
+      "ime": "БН брадърс",
+      "shirina": 42.668712,
+      "dalzhina": 23.285126,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 157,
+      "ime": "Бира",
+      "shirina": 42.498324,
+      "dalzhina": 27.465153,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 158,
+      "ime": "Бруклин",
+      "shirina": 42.688219,
+      "dalzhina": 23.329318,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 159,
+      "ime": "Бутилката",
+      "shirina": 42.426038,
+      "dalzhina": 27.697118,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 160,
+      "ime": "Винен Арт Магазин",
+      "shirina": 43.205489,
+      "dalzhina": 27.913433,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 161,
+      "ime": "Винтайм",
+      "shirina": 43.230414,
+      "dalzhina": 27.864166,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 162,
+      "ime": "Денонощен магазин",
+      "shirina": 42.650824,
+      "dalzhina": 23.401968,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 163,
+      "ime": "Джойс",
+      "shirina": 42.647459,
+      "dalzhina": 23.372851,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 164,
+      "ime": "Диси табако",
+      "shirina": 42.704113,
+      "dalzhina": 23.33289,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 165,
+      "ime": "Доналд 5",
+      "shirina": 42.726573,
+      "dalzhina": 23.311972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 166,
+      "ime": "Енотека",
+      "shirina": 42.501778,
+      "dalzhina": 27.468533,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 167,
+      "ime": "Захарни изделия",
+      "shirina": 41.933402,
+      "dalzhina": 25.551581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 168,
+      "ime": "Караваната",
+      "shirina": 42.69614,
+      "dalzhina": 23.301333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 169,
+      "ime": "Кафе, цигари, алкохол",
+      "shirina": 42.729854,
+      "dalzhina": 23.293444,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 170,
+      "ime": "Клекшоп",
+      "shirina": 42.492103,
+      "dalzhina": 27.464446,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 171,
+      "ime": "Крафт Депо",
+      "shirina": 42.665824,
+      "dalzhina": 23.302608,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 172,
+      "ime": "Лъки",
+      "shirina": 42.14549,
+      "dalzhina": 24.749341,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 173,
+      "ime": "Магазин за алкохол и цигари Мариела Груп",
+      "shirina": 42.761477,
+      "dalzhina": 23.200692,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 174,
+      "ime": "Магазин за бира",
+      "shirina": 42.872213,
+      "dalzhina": 25.320442,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 175,
+      "ime": "Магазин за вино",
+      "shirina": 42.342328,
+      "dalzhina": 25.406695,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 176,
+      "ime": "Магазинчето",
+      "shirina": 42.742717,
+      "dalzhina": 23.266346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 177,
+      "ime": "Макаре",
+      "shirina": 43.01408,
+      "dalzhina": 23.045663,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 178,
+      "ime": "Медовина",
+      "shirina": 42.690916,
+      "dalzhina": 23.320141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 179,
+      "ime": "Мисота Биич",
+      "shirina": 42.131541,
+      "dalzhina": 24.797333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 180,
+      "ime": "Нон-стоп",
+      "shirina": 42.141145,
+      "dalzhina": 24.763343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 181,
+      "ime": "Нон-стоп",
+      "shirina": 42.145832,
+      "dalzhina": 24.76346,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 182,
+      "ime": "Омега маркет",
+      "shirina": 42.634909,
+      "dalzhina": 23.374804,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 183,
+      "ime": "Питиепродавница",
+      "shirina": 42.713829,
+      "dalzhina": 23.304766,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 184,
+      "ime": "При Zupi",
+      "shirina": 42.704766,
+      "dalzhina": 23.32174,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 185,
+      "ime": "При Емо",
+      "shirina": 42.709828,
+      "dalzhina": 23.262885,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 186,
+      "ime": "Рошко",
+      "shirina": 42.72579,
+      "dalzhina": 23.254829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 187,
+      "ime": "Румик",
+      "shirina": 42.720717,
+      "dalzhina": 23.340824,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 188,
+      "ime": "Сбирка",
+      "shirina": 42.696207,
+      "dalzhina": 23.33767,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 189,
+      "ime": "Сладолед, Кафе, Цигари, Алкохол",
+      "shirina": 42.696405,
+      "dalzhina": 23.308146,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 190,
+      "ime": "Старата Изба",
+      "shirina": 42.055194,
+      "dalzhina": 24.651417,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 191,
+      "ime": "Томчо Лалов",
+      "shirina": 43.832388,
+      "dalzhina": 22.492934,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 192,
+      "ime": "Тришър",
+      "shirina": 42.494814,
+      "dalzhina": 27.469853,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 193,
+      "ime": "Търговия на едро",
+      "shirina": 42.73884,
+      "dalzhina": 22.902552,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 194,
+      "ime": "Феерия",
+      "shirina": 42.907796,
+      "dalzhina": 23.794672,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 195,
+      "ime": "Червената Маймунка",
+      "shirina": 42.703806,
+      "dalzhina": 23.323742,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 196,
+      "ime": "Шато Полихронови",
+      "shirina": 42.883492,
+      "dalzhina": 27.88253,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    },
+    {
+      "id": 197,
+      "ime": "Шони Шоп 2",
+      "shirina": 42.136201,
+      "dalzhina": 24.750082,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "alcohol",
+      "osm_klas": "shop=alcohol"
+    }
+  ],
+  "meta": {
+    "title": "Магазини за алкохол в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Магазини за алкохол в България — 197 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=alcohol`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 197 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Магазини за алкохол в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Магазини за алкохол в България (OpenStreetMap) — 197 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 197 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

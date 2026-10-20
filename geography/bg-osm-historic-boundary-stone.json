@@ -1,0 +1,5704 @@
+{
+  "id": "bg-osm-historic-boundary-stone",
+  "name": "Гранични камъни в България (OpenStreetMap)",
+  "title": "Гранични камъни в България (OpenStreetMap)",
+  "description": "Гранични камъни в България — 627 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `historic=boundary_stone`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 627,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "number"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "10",
+      "shirina": 41.333548,
+      "dalzhina": 22.991618,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 2,
+      "ime": "10",
+      "shirina": 41.370584,
+      "dalzhina": 22.963806,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 3,
+      "ime": "10",
+      "shirina": 43.737775,
+      "dalzhina": 28.553456,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 4,
+      "ime": "100",
+      "shirina": 41.300349,
+      "dalzhina": 25.694835,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 5,
+      "ime": "100",
+      "shirina": 41.377041,
+      "dalzhina": 23.620791,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 6,
+      "ime": "100",
+      "shirina": 41.439315,
+      "dalzhina": 24.599141,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 7,
+      "ime": "101",
+      "shirina": 41.295873,
+      "dalzhina": 25.696455,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 8,
+      "ime": "101",
+      "shirina": 41.381976,
+      "dalzhina": 23.647601,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 9,
+      "ime": "101",
+      "shirina": 41.442343,
+      "dalzhina": 24.597319,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 10,
+      "ime": "102",
+      "shirina": 41.293996,
+      "dalzhina": 25.699925,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 11,
+      "ime": "102",
+      "shirina": 41.3895,
+      "dalzhina": 23.648581,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 12,
+      "ime": "102",
+      "shirina": 41.446044,
+      "dalzhina": 24.596616,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 13,
+      "ime": "103",
+      "shirina": 41.291638,
+      "dalzhina": 25.706075,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 14,
+      "ime": "103",
+      "shirina": 41.393908,
+      "dalzhina": 23.647868,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 15,
+      "ime": "103",
+      "shirina": 41.447883,
+      "dalzhina": 24.595756,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 16,
+      "ime": "104",
+      "shirina": 41.291017,
+      "dalzhina": 25.711695,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 17,
+      "ime": "104",
+      "shirina": 41.395781,
+      "dalzhina": 23.649811,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 18,
+      "ime": "104",
+      "shirina": 41.451346,
+      "dalzhina": 24.596764,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 19,
+      "ime": "105",
+      "shirina": 41.292216,
+      "dalzhina": 25.713486,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 20,
+      "ime": "105",
+      "shirina": 41.398773,
+      "dalzhina": 23.655951,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 21,
+      "ime": "105",
+      "shirina": 41.452735,
+      "dalzhina": 24.59612,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 22,
+      "ime": "106",
+      "shirina": 41.292748,
+      "dalzhina": 25.71445,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 23,
+      "ime": "106",
+      "shirina": 41.399627,
+      "dalzhina": 23.660847,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 24,
+      "ime": "106",
+      "shirina": 41.456268,
+      "dalzhina": 24.599568,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 25,
+      "ime": "107",
+      "shirina": 41.295769,
+      "dalzhina": 25.712735,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 26,
+      "ime": "107",
+      "shirina": 41.4107,
+      "dalzhina": 23.674227,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 27,
+      "ime": "107",
+      "shirina": 41.46,
+      "dalzhina": 24.598109,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 28,
+      "ime": "108",
+      "shirina": 41.297528,
+      "dalzhina": 25.713296,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 29,
+      "ime": "108",
+      "shirina": 41.404287,
+      "dalzhina": 23.693176,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 30,
+      "ime": "108",
+      "shirina": 41.467216,
+      "dalzhina": 24.594868,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 31,
+      "ime": "109",
+      "shirina": 41.303062,
+      "dalzhina": 25.713021,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 32,
+      "ime": "109",
+      "shirina": 41.405104,
+      "dalzhina": 23.698106,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 33,
+      "ime": "109",
+      "shirina": 41.468162,
+      "dalzhina": 24.586018,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 34,
+      "ime": "11",
+      "shirina": 41.329518,
+      "dalzhina": 23.004541,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 35,
+      "ime": "11",
+      "shirina": 41.371337,
+      "dalzhina": 22.963621,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 36,
+      "ime": "11",
+      "shirina": 43.737674,
+      "dalzhina": 28.550086,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 37,
+      "ime": "110",
+      "shirina": 41.308736,
+      "dalzhina": 25.71696,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 38,
+      "ime": "110",
+      "shirina": 41.404552,
+      "dalzhina": 23.703015,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 39,
+      "ime": "110",
+      "shirina": 41.471921,
+      "dalzhina": 24.583263,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 40,
+      "ime": "111",
+      "shirina": 41.311653,
+      "dalzhina": 25.716718,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 41,
+      "ime": "111",
+      "shirina": 41.406449,
+      "dalzhina": 23.712464,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 42,
+      "ime": "111",
+      "shirina": 41.475069,
+      "dalzhina": 24.5724,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 43,
+      "ime": "112",
+      "shirina": 41.313026,
+      "dalzhina": 25.717866,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 44,
+      "ime": "112",
+      "shirina": 41.406994,
+      "dalzhina": 23.727176,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 45,
+      "ime": "112",
+      "shirina": 41.477374,
+      "dalzhina": 24.573511,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 46,
+      "ime": "113",
+      "shirina": 41.31709,
+      "dalzhina": 25.719279,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 47,
+      "ime": "113",
+      "shirina": 41.40793,
+      "dalzhina": 23.730338,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 48,
+      "ime": "113",
+      "shirina": 41.481269,
+      "dalzhina": 24.570723,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 49,
+      "ime": "114",
+      "shirina": 41.31896,
+      "dalzhina": 25.723547,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 50,
+      "ime": "114",
+      "shirina": 41.406103,
+      "dalzhina": 23.734603,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 51,
+      "ime": "114",
+      "shirina": 41.488008,
+      "dalzhina": 24.568433,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 52,
+      "ime": "115",
+      "shirina": 41.317264,
+      "dalzhina": 25.726344,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 53,
+      "ime": "115",
+      "shirina": 41.405521,
+      "dalzhina": 23.735924,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 54,
+      "ime": "115",
+      "shirina": 41.492776,
+      "dalzhina": 24.567181,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 55,
+      "ime": "116",
+      "shirina": 41.31923,
+      "dalzhina": 25.731054,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 56,
+      "ime": "116",
+      "shirina": 41.405774,
+      "dalzhina": 23.742394,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 57,
+      "ime": "116",
+      "shirina": 41.501731,
+      "dalzhina": 24.558841,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 58,
+      "ime": "117",
+      "shirina": 41.318106,
+      "dalzhina": 25.732111,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 59,
+      "ime": "117",
+      "shirina": 41.403184,
+      "dalzhina": 23.746732,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 60,
+      "ime": "117",
+      "shirina": 41.507855,
+      "dalzhina": 24.562422,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 61,
+      "ime": "118",
+      "shirina": 41.318419,
+      "dalzhina": 25.737518,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 62,
+      "ime": "118",
+      "shirina": 41.403783,
+      "dalzhina": 23.754011,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 63,
+      "ime": "118",
+      "shirina": 41.510063,
+      "dalzhina": 24.562449,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 64,
+      "ime": "119",
+      "shirina": 41.317304,
+      "dalzhina": 25.742915,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 65,
+      "ime": "119",
+      "shirina": 41.402668,
+      "dalzhina": 23.758813,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 66,
+      "ime": "119",
+      "shirina": 41.518141,
+      "dalzhina": 24.562005,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 67,
+      "ime": "119A",
+      "shirina": 41.521647,
+      "dalzhina": 24.559286,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 68,
+      "ime": "12",
+      "shirina": 41.329788,
+      "dalzhina": 23.015062,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 69,
+      "ime": "12",
+      "shirina": 41.372128,
+      "dalzhina": 22.963175,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 70,
+      "ime": "12",
+      "shirina": 43.737578,
+      "dalzhina": 28.547295,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 71,
+      "ime": "120",
+      "shirina": 41.315023,
+      "dalzhina": 25.744543,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 72,
+      "ime": "120",
+      "shirina": 41.400689,
+      "dalzhina": 23.761507,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 73,
+      "ime": "120",
+      "shirina": 41.524514,
+      "dalzhina": 24.555663,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 74,
+      "ime": "121",
+      "shirina": 41.318414,
+      "dalzhina": 25.748692,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 75,
+      "ime": "121",
+      "shirina": 41.397904,
+      "dalzhina": 23.761812,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 76,
+      "ime": "121",
+      "shirina": 41.527048,
+      "dalzhina": 24.55795,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 77,
+      "ime": "122",
+      "shirina": 41.319526,
+      "dalzhina": 25.751253,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 78,
+      "ime": "122",
+      "shirina": 41.396042,
+      "dalzhina": 23.767588,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 79,
+      "ime": "122",
+      "shirina": 41.530817,
+      "dalzhina": 24.555428,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 80,
+      "ime": "123",
+      "shirina": 41.319593,
+      "dalzhina": 25.753549,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 81,
+      "ime": "123",
+      "shirina": 41.40125,
+      "dalzhina": 23.771113,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 82,
+      "ime": "123",
+      "shirina": 41.539264,
+      "dalzhina": 24.546179,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 83,
+      "ime": "124",
+      "shirina": 41.318265,
+      "dalzhina": 25.755746,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 84,
+      "ime": "124",
+      "shirina": 41.413435,
+      "dalzhina": 23.780817,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 85,
+      "ime": "124",
+      "shirina": 41.54623,
+      "dalzhina": 24.549661,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 86,
+      "ime": "124",
+      "shirina": 41.548965,
+      "dalzhina": 24.553706,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 87,
+      "ime": "125",
+      "shirina": 41.31886,
+      "dalzhina": 25.757439,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 88,
+      "ime": "125",
+      "shirina": 41.416336,
+      "dalzhina": 23.786899,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 89,
+      "ime": "126",
+      "shirina": 41.321252,
+      "dalzhina": 25.759284,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 90,
+      "ime": "126",
+      "shirina": 41.417937,
+      "dalzhina": 23.788997,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 91,
+      "ime": "126",
+      "shirina": 41.554992,
+      "dalzhina": 24.547366,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 92,
+      "ime": "127",
+      "shirina": 41.324,
+      "dalzhina": 25.760859,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 93,
+      "ime": "127",
+      "shirina": 41.424441,
+      "dalzhina": 23.789738,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 94,
+      "ime": "127",
+      "shirina": 41.558186,
+      "dalzhina": 24.538899,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 95,
+      "ime": "128",
+      "shirina": 41.324368,
+      "dalzhina": 25.761862,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 96,
+      "ime": "128",
+      "shirina": 41.431226,
+      "dalzhina": 23.794944,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 97,
+      "ime": "128",
+      "shirina": 41.555114,
+      "dalzhina": 24.535382,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 98,
+      "ime": "129",
+      "shirina": 41.324512,
+      "dalzhina": 25.763606,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 99,
+      "ime": "129",
+      "shirina": 41.437574,
+      "dalzhina": 23.801742,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 100,
+      "ime": "129",
+      "shirina": 41.565006,
+      "dalzhina": 24.535177,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 101,
+      "ime": "13",
+      "shirina": 41.330173,
+      "dalzhina": 23.016135,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 102,
+      "ime": "13",
+      "shirina": 41.372898,
+      "dalzhina": 22.963054,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 103,
+      "ime": "130",
+      "shirina": 41.321731,
+      "dalzhina": 25.766834,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 104,
+      "ime": "130",
+      "shirina": 41.438552,
+      "dalzhina": 23.808665,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 105,
+      "ime": "130",
+      "shirina": 41.567342,
+      "dalzhina": 24.526953,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 106,
+      "ime": "131",
+      "shirina": 41.319542,
+      "dalzhina": 25.76943,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 107,
+      "ime": "131",
+      "shirina": 41.436257,
+      "dalzhina": 23.813226,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 108,
+      "ime": "131",
+      "shirina": 41.568748,
+      "dalzhina": 24.525399,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 109,
+      "ime": "132",
+      "shirina": 41.320903,
+      "dalzhina": 25.772051,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 110,
+      "ime": "132",
+      "shirina": 41.436332,
+      "dalzhina": 23.822924,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 111,
+      "ime": "132",
+      "shirina": 41.56414,
+      "dalzhina": 24.516293,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 112,
+      "ime": "133",
+      "shirina": 41.321763,
+      "dalzhina": 25.774808,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 113,
+      "ime": "133",
+      "shirina": 41.437314,
+      "dalzhina": 23.826372,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 114,
+      "ime": "133",
+      "shirina": 41.562425,
+      "dalzhina": 24.513339,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 115,
+      "ime": "134",
+      "shirina": 41.320138,
+      "dalzhina": 25.776824,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 116,
+      "ime": "134",
+      "shirina": 41.440353,
+      "dalzhina": 23.838167,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 117,
+      "ime": "134",
+      "shirina": 41.560161,
+      "dalzhina": 24.511678,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 118,
+      "ime": "134",
+      "shirina": 43.513606,
+      "dalzhina": 27.896515,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 119,
+      "ime": "135",
+      "shirina": 41.32098,
+      "dalzhina": 25.781142,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 120,
+      "ime": "135",
+      "shirina": 41.439909,
+      "dalzhina": 23.851239,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 121,
+      "ime": "135",
+      "shirina": 41.558531,
+      "dalzhina": 24.509477,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 122,
+      "ime": "135",
+      "shirina": 43.513177,
+      "dalzhina": 27.909586,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 123,
+      "ime": "136",
+      "shirina": 41.325043,
+      "dalzhina": 25.782719,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 124,
+      "ime": "136",
+      "shirina": 41.449847,
+      "dalzhina": 23.856498,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 125,
+      "ime": "136",
+      "shirina": 41.558834,
+      "dalzhina": 24.506428,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 126,
+      "ime": "136",
+      "shirina": 43.522723,
+      "dalzhina": 27.914728,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 127,
+      "ime": "137",
+      "shirina": 41.329693,
+      "dalzhina": 25.786753,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 128,
+      "ime": "137",
+      "shirina": 41.44919,
+      "dalzhina": 23.871135,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 129,
+      "ime": "137",
+      "shirina": 41.558662,
+      "dalzhina": 24.499039,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 130,
+      "ime": "137",
+      "shirina": 43.522156,
+      "dalzhina": 27.929482,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 131,
+      "ime": "138",
+      "shirina": 41.332752,
+      "dalzhina": 25.79111,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 132,
+      "ime": "138",
+      "shirina": 41.453877,
+      "dalzhina": 23.885925,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 133,
+      "ime": "138",
+      "shirina": 41.553475,
+      "dalzhina": 24.493926,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 134,
+      "ime": "138",
+      "shirina": 43.52669,
+      "dalzhina": 27.944272,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 135,
+      "ime": "139",
+      "shirina": 41.334026,
+      "dalzhina": 25.795086,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 136,
+      "ime": "139",
+      "shirina": 41.450093,
+      "dalzhina": 23.890217,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 137,
+      "ime": "139",
+      "shirina": 41.557472,
+      "dalzhina": 24.483656,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 138,
+      "ime": "139",
+      "shirina": 43.522992,
+      "dalzhina": 27.948492,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 139,
+      "ime": "14",
+      "shirina": 41.330506,
+      "dalzhina": 23.021021,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 140,
+      "ime": "14",
+      "shirina": 41.373943,
+      "dalzhina": 22.962825,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 141,
+      "ime": "140",
+      "shirina": 41.33236,
+      "dalzhina": 25.799965,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 142,
+      "ime": "140",
+      "shirina": 41.456518,
+      "dalzhina": 23.900067,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 143,
+      "ime": "140",
+      "shirina": 41.554005,
+      "dalzhina": 24.482934,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 144,
+      "ime": "140",
+      "shirina": 43.529244,
+      "dalzhina": 27.958414,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 145,
+      "ime": "141",
+      "shirina": 41.334843,
+      "dalzhina": 25.801671,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 146,
+      "ime": "141",
+      "shirina": 41.456928,
+      "dalzhina": 23.904169,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 147,
+      "ime": "141",
+      "shirina": 41.553266,
+      "dalzhina": 24.478353,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 148,
+      "ime": "141",
+      "shirina": 43.529641,
+      "dalzhina": 27.962517,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 149,
+      "ime": "142",
+      "shirina": 41.337265,
+      "dalzhina": 25.807898,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 150,
+      "ime": "142",
+      "shirina": 41.46271,
+      "dalzhina": 23.908129,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 151,
+      "ime": "142",
+      "shirina": 41.549953,
+      "dalzhina": 24.472677,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 152,
+      "ime": "142",
+      "shirina": 43.535224,
+      "dalzhina": 27.966457,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 153,
+      "ime": "143",
+      "shirina": 41.337199,
+      "dalzhina": 25.811738,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 154,
+      "ime": "143",
+      "shirina": 41.47045,
+      "dalzhina": 23.910601,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 155,
+      "ime": "143",
+      "shirina": 41.546769,
+      "dalzhina": 24.470418,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 156,
+      "ime": "143",
+      "shirina": 43.542723,
+      "dalzhina": 27.968948,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 157,
+      "ime": "144",
+      "shirina": 41.337482,
+      "dalzhina": 25.816078,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 158,
+      "ime": "144",
+      "shirina": 41.472366,
+      "dalzhina": 23.908766,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 159,
+      "ime": "144",
+      "shirina": 41.545305,
+      "dalzhina": 24.467135,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 160,
+      "ime": "144",
+      "shirina": 43.544576,
+      "dalzhina": 27.967113,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 161,
+      "ime": "145",
+      "shirina": 41.347955,
+      "dalzhina": 25.821562,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 162,
+      "ime": "145",
+      "shirina": 41.481544,
+      "dalzhina": 23.916304,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 163,
+      "ime": "145",
+      "shirina": 41.545274,
+      "dalzhina": 24.464618,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 164,
+      "ime": "145",
+      "shirina": 43.553522,
+      "dalzhina": 27.97448,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 165,
+      "ime": "146",
+      "shirina": 41.347726,
+      "dalzhina": 25.824255,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 166,
+      "ime": "146",
+      "shirina": 41.470944,
+      "dalzhina": 23.933059,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 167,
+      "ime": "146",
+      "shirina": 41.540257,
+      "dalzhina": 24.461677,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 168,
+      "ime": "146",
+      "shirina": 43.542807,
+      "dalzhina": 27.990903,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 169,
+      "ime": "147",
+      "shirina": 41.344224,
+      "dalzhina": 25.833026,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 170,
+      "ime": "147",
+      "shirina": 41.463342,
+      "dalzhina": 23.936075,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 171,
+      "ime": "147",
+      "shirina": 43.535888,
+      "dalzhina": 27.994253,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 172,
+      "ime": "147 Граничан пирамида",
+      "shirina": 41.528483,
+      "dalzhina": 24.463121,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 173,
+      "ime": "148",
+      "shirina": 41.338918,
+      "dalzhina": 25.842511,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 174,
+      "ime": "148",
+      "shirina": 41.460666,
+      "dalzhina": 23.941629,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 175,
+      "ime": "148",
+      "shirina": 41.523276,
+      "dalzhina": 24.454566,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 176,
+      "ime": "148",
+      "shirina": 43.533257,
+      "dalzhina": 27.999976,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 177,
+      "ime": "149",
+      "shirina": 41.327744,
+      "dalzhina": 25.85577,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 178,
+      "ime": "149",
+      "shirina": 41.450274,
+      "dalzhina": 23.943443,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 179,
+      "ime": "149",
+      "shirina": 41.523597,
+      "dalzhina": 24.447466,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 180,
+      "ime": "149",
+      "shirina": 43.523301,
+      "dalzhina": 28.001773,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 181,
+      "ime": "15",
+      "shirina": 41.333914,
+      "dalzhina": 23.027724,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 182,
+      "ime": "15",
+      "shirina": 41.375526,
+      "dalzhina": 22.963289,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 183,
+      "ime": "150",
+      "shirina": 41.328001,
+      "dalzhina": 25.872714,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 184,
+      "ime": "150",
+      "shirina": 41.448153,
+      "dalzhina": 23.949873,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 185,
+      "ime": "150",
+      "shirina": 41.525592,
+      "dalzhina": 24.444479,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 186,
+      "ime": "150",
+      "shirina": 43.521152,
+      "dalzhina": 28.00822,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 187,
+      "ime": "151",
+      "shirina": 41.312571,
+      "dalzhina": 25.86896,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 188,
+      "ime": "151",
+      "shirina": 41.449351,
+      "dalzhina": 23.952607,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 189,
+      "ime": "151",
+      "shirina": 41.529403,
+      "dalzhina": 24.440682,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 190,
+      "ime": "151",
+      "shirina": 43.522311,
+      "dalzhina": 28.010954,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 191,
+      "ime": "152",
+      "shirina": 41.308467,
+      "dalzhina": 25.877853,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 192,
+      "ime": "152",
+      "shirina": 41.443928,
+      "dalzhina": 23.959314,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 193,
+      "ime": "152",
+      "shirina": 41.527519,
+      "dalzhina": 24.433894,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 194,
+      "ime": "152",
+      "shirina": 43.517065,
+      "dalzhina": 28.017661,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 195,
+      "ime": "153",
+      "shirina": 41.306203,
+      "dalzhina": 25.880871,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 196,
+      "ime": "153",
+      "shirina": 41.438878,
+      "dalzhina": 23.977187,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 197,
+      "ime": "153",
+      "shirina": 41.527929,
+      "dalzhina": 24.429803,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 198,
+      "ime": "153",
+      "shirina": 43.51218,
+      "dalzhina": 28.035534,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 199,
+      "ime": "154",
+      "shirina": 41.304352,
+      "dalzhina": 25.884235,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 200,
+      "ime": "154",
+      "shirina": 41.44664,
+      "dalzhina": 23.988868,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 201,
+      "ime": "154",
+      "shirina": 41.52909,
+      "dalzhina": 24.427868,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 202,
+      "ime": "154",
+      "shirina": 43.519689,
+      "dalzhina": 28.047215,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 203,
+      "ime": "155",
+      "shirina": 41.307327,
+      "dalzhina": 25.893493,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 204,
+      "ime": "155",
+      "shirina": 41.449781,
+      "dalzhina": 23.995173,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 205,
+      "ime": "155",
+      "shirina": 41.529342,
+      "dalzhina": 24.420288,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 206,
+      "ime": "155",
+      "shirina": 43.522727,
+      "dalzhina": 28.05352,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 207,
+      "ime": "156",
+      "shirina": 41.306524,
+      "dalzhina": 25.903132,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 208,
+      "ime": "156",
+      "shirina": 41.454176,
+      "dalzhina": 23.995644,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 209,
+      "ime": "156",
+      "shirina": 41.530437,
+      "dalzhina": 24.412457,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 210,
+      "ime": "156",
+      "shirina": 43.526979,
+      "dalzhina": 28.053991,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 211,
+      "ime": "157",
+      "shirina": 41.455518,
+      "dalzhina": 23.996642,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 212,
+      "ime": "157",
+      "shirina": 41.537817,
+      "dalzhina": 24.410774,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 213,
+      "ime": "157",
+      "shirina": 43.528277,
+      "dalzhina": 28.05499,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 214,
+      "ime": "158",
+      "shirina": 41.453654,
+      "dalzhina": 24.002258,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 215,
+      "ime": "158",
+      "shirina": 41.537986,
+      "dalzhina": 24.402759,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 216,
+      "ime": "158",
+      "shirina": 43.526416,
+      "dalzhina": 28.0606,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 217,
+      "ime": "159",
+      "shirina": 41.455854,
+      "dalzhina": 24.004894,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 218,
+      "ime": "159",
+      "shirina": 41.537984,
+      "dalzhina": 24.393359,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 219,
+      "ime": "159",
+      "shirina": 43.528603,
+      "dalzhina": 28.063241,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 220,
+      "ime": "16",
+      "shirina": 41.332563,
+      "dalzhina": 23.032289,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 221,
+      "ime": "16",
+      "shirina": 41.378652,
+      "dalzhina": 22.962197,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 222,
+      "ime": "160",
+      "shirina": 41.455938,
+      "dalzhina": 24.006587,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 223,
+      "ime": "160",
+      "shirina": 41.535029,
+      "dalzhina": 24.393294,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 224,
+      "ime": "160",
+      "shirina": 43.528683,
+      "dalzhina": 28.064934,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 225,
+      "ime": "161",
+      "shirina": 41.456817,
+      "dalzhina": 24.008554,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 226,
+      "ime": "161",
+      "shirina": 41.535128,
+      "dalzhina": 24.383507,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 227,
+      "ime": "161",
+      "shirina": 43.529534,
+      "dalzhina": 28.066902,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 228,
+      "ime": "162",
+      "shirina": 41.459122,
+      "dalzhina": 24.009409,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 229,
+      "ime": "162",
+      "shirina": 41.530942,
+      "dalzhina": 24.378639,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 230,
+      "ime": "162",
+      "shirina": 43.531764,
+      "dalzhina": 28.067756,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 231,
+      "ime": "163",
+      "shirina": 41.462365,
+      "dalzhina": 24.013177,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 232,
+      "ime": "163",
+      "shirina": 41.523072,
+      "dalzhina": 24.374403,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 233,
+      "ime": "163",
+      "shirina": 43.534901,
+      "dalzhina": 28.071524,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 234,
+      "ime": "164",
+      "shirina": 41.465575,
+      "dalzhina": 24.014056,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 235,
+      "ime": "164",
+      "shirina": 41.517727,
+      "dalzhina": 24.369768,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 236,
+      "ime": "164",
+      "shirina": 43.538006,
+      "dalzhina": 28.072403,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 237,
+      "ime": "165",
+      "shirina": 41.466827,
+      "dalzhina": 24.015331,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 238,
+      "ime": "165",
+      "shirina": 41.516667,
+      "dalzhina": 24.361317,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 239,
+      "ime": "165",
+      "shirina": 43.539218,
+      "dalzhina": 28.073678,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 240,
+      "ime": "166",
+      "shirina": 41.451514,
+      "dalzhina": 24.047794,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 241,
+      "ime": "166",
+      "shirina": 41.524082,
+      "dalzhina": 24.351167,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 242,
+      "ime": "166",
+      "shirina": 43.524404,
+      "dalzhina": 28.106142,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 243,
+      "ime": "167",
+      "shirina": 41.458281,
+      "dalzhina": 24.054134,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 244,
+      "ime": "167",
+      "shirina": 41.526761,
+      "dalzhina": 24.337621,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 245,
+      "ime": "167",
+      "shirina": 43.530951,
+      "dalzhina": 28.112482,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 246,
+      "ime": "168",
+      "shirina": 41.463576,
+      "dalzhina": 24.063863,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 247,
+      "ime": "168",
+      "shirina": 41.521787,
+      "dalzhina": 24.332615,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 248,
+      "ime": "168",
+      "shirina": 43.536073,
+      "dalzhina": 28.12221,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 249,
+      "ime": "169",
+      "shirina": 41.464316,
+      "dalzhina": 24.066393,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 250,
+      "ime": "169",
+      "shirina": 41.520247,
+      "dalzhina": 24.326108,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 251,
+      "ime": "169",
+      "shirina": 43.536789,
+      "dalzhina": 28.12474,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 252,
+      "ime": "17",
+      "shirina": 41.331891,
+      "dalzhina": 23.036395,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 253,
+      "ime": "170",
+      "shirina": 41.464945,
+      "dalzhina": 24.067159,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 254,
+      "ime": "170",
+      "shirina": 41.518152,
+      "dalzhina": 24.31682,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 255,
+      "ime": "170",
+      "shirina": 43.537397,
+      "dalzhina": 28.125506,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 256,
+      "ime": "171",
+      "shirina": 41.464656,
+      "dalzhina": 24.071741,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 257,
+      "ime": "171",
+      "shirina": 43.537117,
+      "dalzhina": 28.130088,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 258,
+      "ime": "171 <",
+      "shirina": 41.513507,
+      "dalzhina": 24.315262,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 259,
+      "ime": "172",
+      "shirina": 41.467101,
+      "dalzhina": 24.073373,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 260,
+      "ime": "172",
+      "shirina": 43.539482,
+      "dalzhina": 28.13172,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 261,
+      "ime": "173",
+      "shirina": 41.474487,
+      "dalzhina": 24.071639,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 262,
+      "ime": "173",
+      "shirina": 43.546627,
+      "dalzhina": 28.129986,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 263,
+      "ime": "174",
+      "shirina": 41.480717,
+      "dalzhina": 24.069091,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 264,
+      "ime": "174",
+      "shirina": 43.552654,
+      "dalzhina": 28.127438,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 265,
+      "ime": "175",
+      "shirina": 41.48463,
+      "dalzhina": 24.061277,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 266,
+      "ime": "175",
+      "shirina": 43.55644,
+      "dalzhina": 28.119625,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 267,
+      "ime": "176",
+      "shirina": 41.487428,
+      "dalzhina": 24.060826,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 268,
+      "ime": "176",
+      "shirina": 43.559147,
+      "dalzhina": 28.119173,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 269,
+      "ime": "177",
+      "shirina": 41.4899,
+      "dalzhina": 24.06322,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 270,
+      "ime": "177",
+      "shirina": 43.561538,
+      "dalzhina": 28.121568,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 271,
+      "ime": "178",
+      "shirina": 41.493655,
+      "dalzhina": 24.063634,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 272,
+      "ime": "178",
+      "shirina": 43.565171,
+      "dalzhina": 28.121981,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 273,
+      "ime": "179",
+      "shirina": 41.497471,
+      "dalzhina": 24.064128,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 274,
+      "ime": "179",
+      "shirina": 43.568862,
+      "dalzhina": 28.122475,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 275,
+      "ime": "18",
+      "shirina": 41.33224,
+      "dalzhina": 23.038044,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 276,
+      "ime": "18",
+      "shirina": 41.381826,
+      "dalzhina": 22.962553,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 277,
+      "ime": "180",
+      "shirina": 41.521829,
+      "dalzhina": 24.060237,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 278,
+      "ime": "180",
+      "shirina": 43.592425,
+      "dalzhina": 28.118584,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 279,
+      "ime": "181",
+      "shirina": 41.528188,
+      "dalzhina": 24.069774,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 280,
+      "ime": "182",
+      "shirina": 41.541603,
+      "dalzhina": 24.076927,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 281,
+      "ime": "183",
+      "shirina": 41.544011,
+      "dalzhina": 24.086407,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 282,
+      "ime": "184",
+      "shirina": 41.546459,
+      "dalzhina": 24.090684,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 283,
+      "ime": "185",
+      "shirina": 41.548627,
+      "dalzhina": 24.098483,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 284,
+      "ime": "186",
+      "shirina": 41.550488,
+      "dalzhina": 24.100963,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 285,
+      "ime": "187",
+      "shirina": 41.543762,
+      "dalzhina": 24.106378,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 286,
+      "ime": "188",
+      "shirina": 41.542907,
+      "dalzhina": 24.110703,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 287,
+      "ime": "189",
+      "shirina": 41.539751,
+      "dalzhina": 24.116224,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 288,
+      "ime": "19",
+      "shirina": 41.326789,
+      "dalzhina": 23.053889,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 289,
+      "ime": "19",
+      "shirina": 41.383918,
+      "dalzhina": 22.962974,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 290,
+      "ime": "190",
+      "shirina": 41.539542,
+      "dalzhina": 24.123453,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 291,
+      "ime": "191",
+      "shirina": 41.541034,
+      "dalzhina": 24.131721,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 292,
+      "ime": "192",
+      "shirina": 41.537496,
+      "dalzhina": 24.132986,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 293,
+      "ime": "193",
+      "shirina": 41.533367,
+      "dalzhina": 24.133475,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 294,
+      "ime": "194",
+      "shirina": 41.539065,
+      "dalzhina": 24.15041,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 295,
+      "ime": "195",
+      "shirina": 41.536104,
+      "dalzhina": 24.160663,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 296,
+      "ime": "196",
+      "shirina": 41.528478,
+      "dalzhina": 24.166139,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 297,
+      "ime": "197",
+      "shirina": 41.525694,
+      "dalzhina": 24.166632,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 298,
+      "ime": "198",
+      "shirina": 41.52352,
+      "dalzhina": 24.174024,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 299,
+      "ime": "199",
+      "shirina": 41.516272,
+      "dalzhina": 24.172331,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 300,
+      "ime": "1a",
+      "shirina": 41.341309,
+      "dalzhina": 22.928252,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 301,
+      "ime": "2",
+      "shirina": 41.243844,
+      "dalzhina": 25.263949,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 302,
+      "ime": "2",
+      "shirina": 41.340338,
+      "dalzhina": 22.935175,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 303,
+      "ime": "2",
+      "shirina": 41.340516,
+      "dalzhina": 22.928396,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 304,
+      "ime": "2 <",
+      "shirina": 41.264417,
+      "dalzhina": 25.225767,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 305,
+      "ime": "20",
+      "shirina": 41.324476,
+      "dalzhina": 23.057456,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 306,
+      "ime": "20",
+      "shirina": 41.38588,
+      "dalzhina": 22.963263,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 307,
+      "ime": "200",
+      "shirina": 41.514643,
+      "dalzhina": 24.182347,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 308,
+      "ime": "201",
+      "shirina": 41.516179,
+      "dalzhina": 24.185065,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 309,
+      "ime": "202",
+      "shirina": 41.515255,
+      "dalzhina": 24.186482,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 310,
+      "ime": "203",
+      "shirina": 41.519545,
+      "dalzhina": 24.192003,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 311,
+      "ime": "204",
+      "shirina": 41.52059,
+      "dalzhina": 24.194152,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 312,
+      "ime": "205",
+      "shirina": 41.53153,
+      "dalzhina": 24.189855,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 313,
+      "ime": "206",
+      "shirina": 41.53322,
+      "dalzhina": 24.195854,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 314,
+      "ime": "207",
+      "shirina": 41.534373,
+      "dalzhina": 24.195268,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 315,
+      "ime": "208",
+      "shirina": 41.539041,
+      "dalzhina": 24.197823,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 316,
+      "ime": "209",
+      "shirina": 41.538423,
+      "dalzhina": 24.201184,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 317,
+      "ime": "21",
+      "shirina": 41.323218,
+      "dalzhina": 23.066945,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 318,
+      "ime": "21",
+      "shirina": 41.389861,
+      "dalzhina": 22.964379,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 319,
+      "ime": "210",
+      "shirina": 41.541984,
+      "dalzhina": 24.204249,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 320,
+      "ime": "211",
+      "shirina": 41.544215,
+      "dalzhina": 24.210187,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 321,
+      "ime": "212",
+      "shirina": 41.548693,
+      "dalzhina": 24.208762,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 322,
+      "ime": "213",
+      "shirina": 41.552385,
+      "dalzhina": 24.212596,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 323,
+      "ime": "214",
+      "shirina": 41.546749,
+      "dalzhina": 24.229239,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 324,
+      "ime": "215",
+      "shirina": 41.549959,
+      "dalzhina": 24.231504,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 325,
+      "ime": "216",
+      "shirina": 41.554096,
+      "dalzhina": 24.237797,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 326,
+      "ime": "217",
+      "shirina": 41.557426,
+      "dalzhina": 24.240713,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 327,
+      "ime": "218",
+      "shirina": 41.55947,
+      "dalzhina": 24.23999,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 328,
+      "ime": "219",
+      "shirina": 41.563261,
+      "dalzhina": 24.243063,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 329,
+      "ime": "22",
+      "shirina": 41.256165,
+      "dalzhina": 25.385861,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 330,
+      "ime": "22",
+      "shirina": 41.393108,
+      "dalzhina": 22.966713,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 331,
+      "ime": "220",
+      "shirina": 41.566783,
+      "dalzhina": 24.25197,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 332,
+      "ime": "221",
+      "shirina": 41.569921,
+      "dalzhina": 24.258428,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 333,
+      "ime": "222",
+      "shirina": 41.573667,
+      "dalzhina": 24.261543,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 334,
+      "ime": "223",
+      "shirina": 41.569424,
+      "dalzhina": 24.267013,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 335,
+      "ime": "224",
+      "shirina": 41.566479,
+      "dalzhina": 24.275151,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 336,
+      "ime": "225",
+      "shirina": 41.559051,
+      "dalzhina": 24.270346,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 337,
+      "ime": "226",
+      "shirina": 41.552592,
+      "dalzhina": 24.283955,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 338,
+      "ime": "227",
+      "shirina": 41.548254,
+      "dalzhina": 24.292035,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 339,
+      "ime": "228",
+      "shirina": 41.540454,
+      "dalzhina": 24.298247,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 340,
+      "ime": "229",
+      "shirina": 41.538013,
+      "dalzhina": 24.303195,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 341,
+      "ime": "23",
+      "shirina": 41.316781,
+      "dalzhina": 23.104472,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 342,
+      "ime": "230",
+      "shirina": 41.524138,
+      "dalzhina": 24.295367,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 343,
+      "ime": "231",
+      "shirina": 41.523595,
+      "dalzhina": 24.299824,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 344,
+      "ime": "232",
+      "shirina": 41.518398,
+      "dalzhina": 24.298795,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 345,
+      "ime": "233 >",
+      "shirina": 41.510435,
+      "dalzhina": 24.304864,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 346,
+      "ime": "24",
+      "shirina": 41.257929,
+      "dalzhina": 25.394706,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 347,
+      "ime": "24",
+      "shirina": 41.320585,
+      "dalzhina": 23.120595,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 348,
+      "ime": "25",
+      "shirina": 41.259994,
+      "dalzhina": 25.397042,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 349,
+      "ime": "25",
+      "shirina": 41.320275,
+      "dalzhina": 23.128627,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 350,
+      "ime": "25",
+      "shirina": 41.396403,
+      "dalzhina": 22.966126,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 351,
+      "ime": "258",
+      "shirina": 42.982469,
+      "dalzhina": 22.785707,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 352,
+      "ime": "259",
+      "shirina": 42.985547,
+      "dalzhina": 22.796514,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 353,
+      "ime": "26",
+      "shirina": 41.262667,
+      "dalzhina": 25.403502,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 354,
+      "ime": "26",
+      "shirina": 41.319909,
+      "dalzhina": 23.147001,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 355,
+      "ime": "26",
+      "shirina": 41.396992,
+      "dalzhina": 22.965619,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 356,
+      "ime": "260",
+      "shirina": 42.987773,
+      "dalzhina": 22.804991,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 357,
+      "ime": "27",
+      "shirina": 41.261879,
+      "dalzhina": 25.410849,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 358,
+      "ime": "27",
+      "shirina": 41.321801,
+      "dalzhina": 23.159873,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 359,
+      "ime": "27",
+      "shirina": 41.40708,
+      "dalzhina": 22.961588,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 360,
+      "ime": "278",
+      "shirina": 43.036196,
+      "dalzhina": 22.898376,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 361,
+      "ime": "279",
+      "shirina": 43.056635,
+      "dalzhina": 22.908562,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 362,
+      "ime": "28",
+      "shirina": 41.26548,
+      "dalzhina": 25.412747,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 363,
+      "ime": "28",
+      "shirina": 41.321171,
+      "dalzhina": 23.174644,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 364,
+      "ime": "28",
+      "shirina": 41.417498,
+      "dalzhina": 22.952022,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 365,
+      "ime": "280",
+      "shirina": 41.854659,
+      "dalzhina": 26.56412,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 366,
+      "ime": "280",
+      "shirina": 43.063711,
+      "dalzhina": 22.911747,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 367,
+      "ime": "281",
+      "shirina": 41.854118,
+      "dalzhina": 26.563724,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 368,
+      "ime": "282",
+      "shirina": 41.849219,
+      "dalzhina": 26.556069,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 369,
+      "ime": "283",
+      "shirina": 41.848227,
+      "dalzhina": 26.552484,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 370,
+      "ime": "283",
+      "shirina": 43.080085,
+      "dalzhina": 22.918564,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 371,
+      "ime": "284",
+      "shirina": 41.845001,
+      "dalzhina": 26.550717,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 372,
+      "ime": "285",
+      "shirina": 41.840579,
+      "dalzhina": 26.548176,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 373,
+      "ime": "286",
+      "shirina": 41.836998,
+      "dalzhina": 26.546139,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 374,
+      "ime": "29",
+      "shirina": 41.266352,
+      "dalzhina": 25.416224,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 375,
+      "ime": "29",
+      "shirina": 41.318734,
+      "dalzhina": 23.180033,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 376,
+      "ime": "298",
+      "shirina": 41.823017,
+      "dalzhina": 26.453305,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 377,
+      "ime": "299",
+      "shirina": 41.822926,
+      "dalzhina": 26.441607,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 378,
+      "ime": "3",
+      "shirina": 41.235979,
+      "dalzhina": 25.280882,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 379,
+      "ime": "3",
+      "shirina": 41.264708,
+      "dalzhina": 25.223254,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 380,
+      "ime": "3",
+      "shirina": 41.340479,
+      "dalzhina": 22.931742,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 381,
+      "ime": "3",
+      "shirina": 41.352498,
+      "dalzhina": 22.952793,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 382,
+      "ime": "3",
+      "shirina": 43.738556,
+      "dalzhina": 28.574406,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 383,
+      "ime": "30",
+      "shirina": 41.264291,
+      "dalzhina": 25.423037,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 384,
+      "ime": "30",
+      "shirina": 41.322688,
+      "dalzhina": 23.188886,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 385,
+      "ime": "30",
+      "shirina": 41.440083,
+      "dalzhina": 22.97465,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 386,
+      "ime": "31",
+      "shirina": 41.264618,
+      "dalzhina": 25.428631,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 387,
+      "ime": "31",
+      "shirina": 41.322563,
+      "dalzhina": 23.198594,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 388,
+      "ime": "31",
+      "shirina": 41.453398,
+      "dalzhina": 22.976217,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 389,
+      "ime": "32",
+      "shirina": 41.325931,
+      "dalzhina": 23.205924,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 390,
+      "ime": "32",
+      "shirina": 41.472346,
+      "dalzhina": 22.966208,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 391,
+      "ime": "33",
+      "shirina": 41.331189,
+      "dalzhina": 23.216666,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 392,
+      "ime": "33",
+      "shirina": 41.492415,
+      "dalzhina": 22.960113,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 393,
+      "ime": "34",
+      "shirina": 41.337905,
+      "dalzhina": 23.225336,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 394,
+      "ime": "34",
+      "shirina": 41.493017,
+      "dalzhina": 22.958522,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 395,
+      "ime": "35",
+      "shirina": 41.340826,
+      "dalzhina": 23.225256,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 396,
+      "ime": "35",
+      "shirina": 41.397145,
+      "dalzhina": 24.927084,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 397,
+      "ime": "35",
+      "shirina": 41.52954,
+      "dalzhina": 22.960518,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 398,
+      "ime": "36",
+      "shirina": 41.350697,
+      "dalzhina": 23.23121,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 399,
+      "ime": "36",
+      "shirina": 41.40215,
+      "dalzhina": 24.920841,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 400,
+      "ime": "36",
+      "shirina": 41.542374,
+      "dalzhina": 22.96042,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 401,
+      "ime": "37",
+      "shirina": 41.356389,
+      "dalzhina": 23.22974,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 402,
+      "ime": "37",
+      "shirina": 41.408603,
+      "dalzhina": 24.916883,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 403,
+      "ime": "38",
+      "shirina": 41.367717,
+      "dalzhina": 23.226131,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 404,
+      "ime": "38",
+      "shirina": 41.407897,
+      "dalzhina": 24.903977,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 405,
+      "ime": "39",
+      "shirina": 41.370972,
+      "dalzhina": 23.231534,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 406,
+      "ime": "39",
+      "shirina": 41.406096,
+      "dalzhina": 24.895966,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 407,
+      "ime": "4",
+      "shirina": 41.235368,
+      "dalzhina": 25.288025,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 408,
+      "ime": "4",
+      "shirina": 41.339958,
+      "dalzhina": 22.935074,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 409,
+      "ime": "4",
+      "shirina": 41.353472,
+      "dalzhina": 22.965554,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 410,
+      "ime": "4",
+      "shirina": 43.738416,
+      "dalzhina": 28.570686,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 411,
+      "ime": "40",
+      "shirina": 41.375081,
+      "dalzhina": 23.231768,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 412,
+      "ime": "40",
+      "shirina": 41.400097,
+      "dalzhina": 24.8887,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 413,
+      "ime": "41",
+      "shirina": 41.376885,
+      "dalzhina": 23.239679,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 414,
+      "ime": "41",
+      "shirina": 41.395248,
+      "dalzhina": 24.88398,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 415,
+      "ime": "42",
+      "shirina": 41.378923,
+      "dalzhina": 23.242517,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 416,
+      "ime": "42",
+      "shirina": 41.392383,
+      "dalzhina": 24.881618,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 417,
+      "ime": "43",
+      "shirina": 41.380877,
+      "dalzhina": 23.244365,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 418,
+      "ime": "43",
+      "shirina": 41.391106,
+      "dalzhina": 24.868275,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 419,
+      "ime": "44",
+      "shirina": 41.381684,
+      "dalzhina": 23.25209,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 420,
+      "ime": "44",
+      "shirina": 41.399371,
+      "dalzhina": 24.856198,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 421,
+      "ime": "443",
+      "shirina": 41.584962,
+      "dalzhina": 26.149133,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 422,
+      "ime": "444",
+      "shirina": 41.582216,
+      "dalzhina": 26.148918,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 423,
+      "ime": "445",
+      "shirina": 41.578836,
+      "dalzhina": 26.148629,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 424,
+      "ime": "446",
+      "shirina": 41.573623,
+      "dalzhina": 26.148155,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 425,
+      "ime": "447",
+      "shirina": 41.569235,
+      "dalzhina": 26.148041,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 426,
+      "ime": "448",
+      "shirina": 41.565748,
+      "dalzhina": 26.147941,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 427,
+      "ime": "449",
+      "shirina": 41.561554,
+      "dalzhina": 26.147827,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 428,
+      "ime": "45",
+      "shirina": 41.382143,
+      "dalzhina": 23.256446,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 429,
+      "ime": "45",
+      "shirina": 41.399137,
+      "dalzhina": 24.842516,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 430,
+      "ime": "450",
+      "shirina": 41.558899,
+      "dalzhina": 26.147725,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 431,
+      "ime": "451",
+      "shirina": 41.5555,
+      "dalzhina": 26.147556,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 432,
+      "ime": "452",
+      "shirina": 41.553612,
+      "dalzhina": 26.147143,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 433,
+      "ime": "453",
+      "shirina": 41.553048,
+      "dalzhina": 26.159308,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 434,
+      "ime": "454",
+      "shirina": 41.554966,
+      "dalzhina": 26.176484,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 435,
+      "ime": "455",
+      "shirina": 41.548635,
+      "dalzhina": 26.17914,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 436,
+      "ime": "455",
+      "shirina": 41.552534,
+      "dalzhina": 26.178407,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 437,
+      "ime": "456",
+      "shirina": 41.54776,
+      "dalzhina": 26.179439,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 438,
+      "ime": "457",
+      "shirina": 41.545945,
+      "dalzhina": 26.179882,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 439,
+      "ime": "458",
+      "shirina": 41.543991,
+      "dalzhina": 26.180636,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 440,
+      "ime": "459",
+      "shirina": 41.542644,
+      "dalzhina": 26.181138,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 441,
+      "ime": "46",
+      "shirina": 41.385018,
+      "dalzhina": 23.260112,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 442,
+      "ime": "460",
+      "shirina": 41.540886,
+      "dalzhina": 26.181739,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 443,
+      "ime": "461",
+      "shirina": 41.538246,
+      "dalzhina": 26.182236,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 444,
+      "ime": "463",
+      "shirina": 41.526281,
+      "dalzhina": 26.183767,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 445,
+      "ime": "463",
+      "shirina": 41.531993,
+      "dalzhina": 26.182911,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 446,
+      "ime": "47",
+      "shirina": 41.386211,
+      "dalzhina": 23.263902,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 447,
+      "ime": "47",
+      "shirina": 41.398289,
+      "dalzhina": 24.835467,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 448,
+      "ime": "48",
+      "shirina": 41.38962,
+      "dalzhina": 23.264484,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 449,
+      "ime": "49",
+      "shirina": 41.390258,
+      "dalzhina": 23.266791,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 450,
+      "ime": "49",
+      "shirina": 41.40122,
+      "dalzhina": 24.824552,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 451,
+      "ime": "5",
+      "shirina": 41.338271,
+      "dalzhina": 22.939542,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 452,
+      "ime": "5",
+      "shirina": 41.363211,
+      "dalzhina": 22.965094,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 453,
+      "ime": "5",
+      "shirina": 43.738275,
+      "dalzhina": 28.566955,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 454,
+      "ime": "50",
+      "shirina": 41.391233,
+      "dalzhina": 23.269466,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 455,
+      "ime": "50",
+      "shirina": 41.399577,
+      "dalzhina": 24.819037,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 456,
+      "ime": "51",
+      "shirina": 41.396891,
+      "dalzhina": 24.819337,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 457,
+      "ime": "51",
+      "shirina": 41.400314,
+      "dalzhina": 23.283779,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 458,
+      "ime": "52",
+      "shirina": 41.391388,
+      "dalzhina": 24.82028,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 459,
+      "ime": "52",
+      "shirina": 41.399296,
+      "dalzhina": 23.285588,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 460,
+      "ime": "53",
+      "shirina": 41.380275,
+      "dalzhina": 24.818584,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 461,
+      "ime": "53",
+      "shirina": 41.400227,
+      "dalzhina": 23.288288,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 462,
+      "ime": "54",
+      "shirina": 41.36884,
+      "dalzhina": 24.815338,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 463,
+      "ime": "54",
+      "shirina": 41.400689,
+      "dalzhina": 23.292024,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 464,
+      "ime": "55",
+      "shirina": 41.355569,
+      "dalzhina": 24.81632,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 465,
+      "ime": "55",
+      "shirina": 41.399963,
+      "dalzhina": 23.296969,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 466,
+      "ime": "56",
+      "shirina": 41.348702,
+      "dalzhina": 24.811627,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 467,
+      "ime": "56",
+      "shirina": 41.401277,
+      "dalzhina": 23.297451,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 468,
+      "ime": "56",
+      "shirina": 41.801658,
+      "dalzhina": 22.952743,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 469,
+      "ime": "57",
+      "shirina": 41.401469,
+      "dalzhina": 23.306084,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 470,
+      "ime": "58",
+      "shirina": 41.347449,
+      "dalzhina": 24.807597,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 471,
+      "ime": "58",
+      "shirina": 41.399015,
+      "dalzhina": 23.314647,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 472,
+      "ime": "59",
+      "shirina": 41.348104,
+      "dalzhina": 24.805346,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 473,
+      "ime": "59",
+      "shirina": 41.399923,
+      "dalzhina": 23.318746,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 474,
+      "ime": "6",
+      "shirina": 41.336035,
+      "dalzhina": 22.951198,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 475,
+      "ime": "6",
+      "shirina": 41.36498,
+      "dalzhina": 22.964952,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 476,
+      "ime": "6",
+      "shirina": 43.738135,
+      "dalzhina": 28.563259,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 477,
+      "ime": "60",
+      "shirina": 41.345796,
+      "dalzhina": 24.804488,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 478,
+      "ime": "60",
+      "shirina": 41.399723,
+      "dalzhina": 23.322311,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 479,
+      "ime": "61",
+      "shirina": 41.354899,
+      "dalzhina": 24.792764,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 480,
+      "ime": "61",
+      "shirina": 41.394672,
+      "dalzhina": 23.32526,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 481,
+      "ime": "62",
+      "shirina": 41.390745,
+      "dalzhina": 23.327118,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 482,
+      "ime": "63",
+      "shirina": 41.361453,
+      "dalzhina": 24.778576,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 483,
+      "ime": "63",
+      "shirina": 41.386837,
+      "dalzhina": 23.328878,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 484,
+      "ime": "630",
+      "shirina": 44.07506,
+      "dalzhina": 27.291292,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 485,
+      "ime": "631",
+      "shirina": 44.075575,
+      "dalzhina": 27.290775,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 486,
+      "ime": "637",
+      "shirina": 44.084156,
+      "dalzhina": 27.29018,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 487,
+      "ime": "638",
+      "shirina": 44.086225,
+      "dalzhina": 27.287825,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 488,
+      "ime": "639",
+      "shirina": 44.088978,
+      "dalzhina": 27.285612,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 489,
+      "ime": "64",
+      "shirina": 41.384778,
+      "dalzhina": 23.330085,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 490,
+      "ime": "640",
+      "shirina": 44.08948,
+      "dalzhina": 27.285347,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 491,
+      "ime": "641",
+      "shirina": 44.090724,
+      "dalzhina": 27.283439,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 492,
+      "ime": "642",
+      "shirina": 44.092313,
+      "dalzhina": 27.281646,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 493,
+      "ime": "643",
+      "shirina": 44.093656,
+      "dalzhina": 27.280029,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 494,
+      "ime": "649",
+      "shirina": 44.105065,
+      "dalzhina": 27.276349,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 495,
+      "ime": "65",
+      "shirina": 41.364448,
+      "dalzhina": 24.770608,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 496,
+      "ime": "65",
+      "shirina": 41.377761,
+      "dalzhina": 23.333629,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 497,
+      "ime": "650",
+      "shirina": 44.105644,
+      "dalzhina": 27.276632,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 498,
+      "ime": "651",
+      "shirina": 44.106868,
+      "dalzhina": 27.278042,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 499,
+      "ime": "652",
+      "shirina": 44.107523,
+      "dalzhina": 27.278717,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 500,
+      "ime": "653",
+      "shirina": 44.10792,
+      "dalzhina": 27.280167,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 501,
+      "ime": "654",
+      "shirina": 44.10829,
+      "dalzhina": 27.281573,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 502,
+      "ime": "655",
+      "shirina": 44.108912,
+      "dalzhina": 27.283748,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 503,
+      "ime": "656",
+      "shirina": 44.109069,
+      "dalzhina": 27.284102,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 504,
+      "ime": "657",
+      "shirina": 44.109883,
+      "dalzhina": 27.284261,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 505,
+      "ime": "658",
+      "shirina": 44.111138,
+      "dalzhina": 27.282944,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 506,
+      "ime": "659",
+      "shirina": 44.112402,
+      "dalzhina": 27.280717,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 507,
+      "ime": "66",
+      "shirina": 41.3685,
+      "dalzhina": 23.338552,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 508,
+      "ime": "660",
+      "shirina": 44.113043,
+      "dalzhina": 27.279599,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 509,
+      "ime": "661",
+      "shirina": 44.115158,
+      "dalzhina": 27.276769,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 510,
+      "ime": "662",
+      "shirina": 44.11654,
+      "dalzhina": 27.27606,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 511,
+      "ime": "663",
+      "shirina": 44.117587,
+      "dalzhina": 27.275904,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 512,
+      "ime": "664",
+      "shirina": 44.117936,
+      "dalzhina": 27.27583,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 513,
+      "ime": "665",
+      "shirina": 44.118428,
+      "dalzhina": 27.275811,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 514,
+      "ime": "666",
+      "shirina": 44.118931,
+      "dalzhina": 27.275887,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 515,
+      "ime": "667",
+      "shirina": 44.119834,
+      "dalzhina": 27.27622,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 516,
+      "ime": "668",
+      "shirina": 44.120289,
+      "dalzhina": 27.276442,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 517,
+      "ime": "669",
+      "shirina": 44.121147,
+      "dalzhina": 27.276857,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 518,
+      "ime": "67",
+      "shirina": 41.363614,
+      "dalzhina": 23.340733,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 519,
+      "ime": "67",
+      "shirina": 41.376368,
+      "dalzhina": 24.762062,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 520,
+      "ime": "68",
+      "shirina": 41.378301,
+      "dalzhina": 24.755125,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 521,
+      "ime": "68",
+      "shirina": 41.399502,
+      "dalzhina": 23.41603,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 522,
+      "ime": "69",
+      "shirina": 41.379977,
+      "dalzhina": 24.748701,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 523,
+      "ime": "69",
+      "shirina": 41.398303,
+      "dalzhina": 23.419082,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 524,
+      "ime": "7",
+      "shirina": 41.33375,
+      "dalzhina": 22.966292,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 525,
+      "ime": "7",
+      "shirina": 41.36707,
+      "dalzhina": 22.964654,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 526,
+      "ime": "7",
+      "shirina": 43.738002,
+      "dalzhina": 28.559707,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 527,
+      "ime": "70",
+      "shirina": 41.400122,
+      "dalzhina": 23.424506,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 528,
+      "ime": "71",
+      "shirina": 41.386427,
+      "dalzhina": 24.745421,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 529,
+      "ime": "71",
+      "shirina": 41.401995,
+      "dalzhina": 23.427708,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 530,
+      "ime": "72",
+      "shirina": 41.40397,
+      "dalzhina": 23.432461,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 531,
+      "ime": "73",
+      "shirina": 41.391489,
+      "dalzhina": 24.741691,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 532,
+      "ime": "73",
+      "shirina": 41.406587,
+      "dalzhina": 23.438669,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 533,
+      "ime": "74",
+      "shirina": 41.397337,
+      "dalzhina": 24.736678,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 534,
+      "ime": "74",
+      "shirina": 41.405259,
+      "dalzhina": 23.441317,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 535,
+      "ime": "75",
+      "shirina": 41.405219,
+      "dalzhina": 23.445069,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 536,
+      "ime": "76",
+      "shirina": 41.403846,
+      "dalzhina": 23.452282,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 537,
+      "ime": "76",
+      "shirina": 41.409636,
+      "dalzhina": 24.736173,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 538,
+      "ime": "77",
+      "shirina": 41.403038,
+      "dalzhina": 23.457144,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 539,
+      "ime": "77",
+      "shirina": 41.416131,
+      "dalzhina": 24.730731,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 540,
+      "ime": "78",
+      "shirina": 41.310557,
+      "dalzhina": 25.585291,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 541,
+      "ime": "78",
+      "shirina": 41.40252,
+      "dalzhina": 23.465112,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 542,
+      "ime": "78",
+      "shirina": 41.420235,
+      "dalzhina": 24.712581,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 543,
+      "ime": "79",
+      "shirina": 41.309704,
+      "dalzhina": 25.586879,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 544,
+      "ime": "79",
+      "shirina": 41.400963,
+      "dalzhina": 23.472366,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 545,
+      "ime": "79",
+      "shirina": 41.418815,
+      "dalzhina": 24.703175,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 546,
+      "ime": "8",
+      "shirina": 41.3328,
+      "dalzhina": 22.97262,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 547,
+      "ime": "8",
+      "shirina": 41.368511,
+      "dalzhina": 22.964445,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 548,
+      "ime": "8",
+      "shirina": 43.73799,
+      "dalzhina": 28.559405,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 549,
+      "ime": "80",
+      "shirina": 41.308014,
+      "dalzhina": 25.59199,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 550,
+      "ime": "80",
+      "shirina": 41.400444,
+      "dalzhina": 23.475645,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 551,
+      "ime": "80",
+      "shirina": 41.419565,
+      "dalzhina": 24.697034,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 552,
+      "ime": "81",
+      "shirina": 41.308121,
+      "dalzhina": 25.59902,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 553,
+      "ime": "81",
+      "shirina": 41.399096,
+      "dalzhina": 23.484221,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 554,
+      "ime": "81",
+      "shirina": 41.418182,
+      "dalzhina": 24.693376,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 555,
+      "ime": "82",
+      "shirina": 41.304217,
+      "dalzhina": 25.608624,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 556,
+      "ime": "82",
+      "shirina": 41.399579,
+      "dalzhina": 23.488705,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 557,
+      "ime": "82",
+      "shirina": 41.424902,
+      "dalzhina": 24.682552,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 558,
+      "ime": "83",
+      "shirina": 41.304421,
+      "dalzhina": 25.616899,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 559,
+      "ime": "83",
+      "shirina": 41.399941,
+      "dalzhina": 23.490088,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 560,
+      "ime": "83",
+      "shirina": 41.417976,
+      "dalzhina": 24.673864,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 561,
+      "ime": "84",
+      "shirina": 41.304628,
+      "dalzhina": 25.620115,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 562,
+      "ime": "84",
+      "shirina": 41.400287,
+      "dalzhina": 23.491413,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 563,
+      "ime": "84",
+      "shirina": 41.41873,
+      "dalzhina": 24.661222,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 564,
+      "ime": "85",
+      "shirina": 41.304081,
+      "dalzhina": 25.624598,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 565,
+      "ime": "85",
+      "shirina": 41.401334,
+      "dalzhina": 23.500379,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 566,
+      "ime": "85",
+      "shirina": 41.415652,
+      "dalzhina": 24.660058,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 567,
+      "ime": "86",
+      "shirina": 41.308379,
+      "dalzhina": 25.631182,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 568,
+      "ime": "86",
+      "shirina": 41.401497,
+      "dalzhina": 23.51026,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 569,
+      "ime": "86",
+      "shirina": 41.418684,
+      "dalzhina": 24.656239,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 570,
+      "ime": "87",
+      "shirina": 41.310974,
+      "dalzhina": 25.637016,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 571,
+      "ime": "87",
+      "shirina": 41.40506,
+      "dalzhina": 23.522852,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 572,
+      "ime": "87",
+      "shirina": 41.432495,
+      "dalzhina": 24.664395,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 573,
+      "ime": "87",
+      "shirina": 42.111964,
+      "dalzhina": 22.577082,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 574,
+      "ime": "88",
+      "shirina": 41.31152,
+      "dalzhina": 25.643949,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 575,
+      "ime": "88",
+      "shirina": 41.403789,
+      "dalzhina": 23.529107,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 576,
+      "ime": "88",
+      "shirina": 41.434857,
+      "dalzhina": 24.649916,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 577,
+      "ime": "89",
+      "shirina": 41.314338,
+      "dalzhina": 25.648285,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 578,
+      "ime": "89",
+      "shirina": 41.393901,
+      "dalzhina": 23.537418,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 579,
+      "ime": "89",
+      "shirina": 41.43132,
+      "dalzhina": 24.638192,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 580,
+      "ime": "9",
+      "shirina": 41.334834,
+      "dalzhina": 22.980681,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 581,
+      "ime": "9",
+      "shirina": 41.369332,
+      "dalzhina": 22.964153,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 582,
+      "ime": "9",
+      "shirina": 43.737858,
+      "dalzhina": 28.555661,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 583,
+      "ime": "90",
+      "shirina": 41.3129,
+      "dalzhina": 25.651931,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 584,
+      "ime": "90",
+      "shirina": 41.386564,
+      "dalzhina": 23.550363,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 585,
+      "ime": "90",
+      "shirina": 41.431839,
+      "dalzhina": 24.62799,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 586,
+      "ime": "90",
+      "shirina": 42.155109,
+      "dalzhina": 22.510457,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 587,
+      "ime": "91",
+      "shirina": 41.31355,
+      "dalzhina": 25.655088,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 588,
+      "ime": "91",
+      "shirina": 41.386502,
+      "dalzhina": 23.552426,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 589,
+      "ime": "91",
+      "shirina": 41.426429,
+      "dalzhina": 24.619914,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 590,
+      "ime": "92",
+      "shirina": 41.314561,
+      "dalzhina": 25.658193,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 591,
+      "ime": "92",
+      "shirina": 41.388337,
+      "dalzhina": 23.561152,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 592,
+      "ime": "92",
+      "shirina": 41.425871,
+      "dalzhina": 24.62001,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 593,
+      "ime": "93",
+      "shirina": 41.310532,
+      "dalzhina": 25.662233,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 594,
+      "ime": "93",
+      "shirina": 41.390619,
+      "dalzhina": 23.577897,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 595,
+      "ime": "93",
+      "shirina": 41.423851,
+      "dalzhina": 24.61446,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 596,
+      "ime": "94",
+      "shirina": 41.308721,
+      "dalzhina": 25.664241,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 597,
+      "ime": "94",
+      "shirina": 41.387303,
+      "dalzhina": 23.586817,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 598,
+      "ime": "94",
+      "shirina": 41.424763,
+      "dalzhina": 24.612003,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 599,
+      "ime": "95",
+      "shirina": 41.307377,
+      "dalzhina": 25.670871,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 600,
+      "ime": "95",
+      "shirina": 41.38633,
+      "dalzhina": 23.588359,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 601,
+      "ime": "95",
+      "shirina": 41.431002,
+      "dalzhina": 24.605741,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 602,
+      "ime": "96",
+      "shirina": 41.306927,
+      "dalzhina": 25.683614,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 603,
+      "ime": "96",
+      "shirina": 41.382193,
+      "dalzhina": 23.594422,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 604,
+      "ime": "96",
+      "shirina": 41.434112,
+      "dalzhina": 24.606247,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 605,
+      "ime": "97",
+      "shirina": 41.304696,
+      "dalzhina": 25.685764,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 606,
+      "ime": "97",
+      "shirina": 41.377569,
+      "dalzhina": 23.597826,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 607,
+      "ime": "97",
+      "shirina": 41.433681,
+      "dalzhina": 24.605169,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 608,
+      "ime": "98",
+      "shirina": 41.303749,
+      "dalzhina": 25.688973,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 609,
+      "ime": "98",
+      "shirina": 41.379956,
+      "dalzhina": 23.606346,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 610,
+      "ime": "98",
+      "shirina": 41.434995,
+      "dalzhina": 24.600799,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 611,
+      "ime": "99",
+      "shirina": 41.301357,
+      "dalzhina": 25.694679,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 612,
+      "ime": "99",
+      "shirina": 41.375372,
+      "dalzhina": 23.615638,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 613,
+      "ime": "99",
+      "shirina": 41.43595,
+      "dalzhina": 24.601251,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 614,
+      "ime": "< 1 >",
+      "shirina": 41.245253,
+      "dalzhina": 25.239053,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 615,
+      "ime": "Pyr 57",
+      "shirina": 41.349161,
+      "dalzhina": 24.810416,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 616,
+      "ime": "Pyr 63",
+      "shirina": 41.361075,
+      "dalzhina": 24.778126,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 617,
+      "ime": "Pyramid 72",
+      "shirina": 41.319173,
+      "dalzhina": 25.560508,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 618,
+      "ime": "Pyramid 73",
+      "shirina": 41.317451,
+      "dalzhina": 25.567852,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 619,
+      "ime": "Pyramid 74",
+      "shirina": 41.319095,
+      "dalzhina": 25.574532,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 620,
+      "ime": "Pyramid 75",
+      "shirina": 41.316597,
+      "dalzhina": 25.576905,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 621,
+      "ime": "Pyramid 76",
+      "shirina": 41.314616,
+      "dalzhina": 25.583879,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 622,
+      "ime": "Pyramid 77",
+      "shirina": 41.313745,
+      "dalzhina": 25.586167,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 623,
+      "ime": "pyr 43",
+      "shirina": 41.281511,
+      "dalzhina": 25.459912,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 624,
+      "ime": "pyr 44",
+      "shirina": 41.28348,
+      "dalzhina": 25.460993,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 625,
+      "ime": "pyr 45",
+      "shirina": 41.282698,
+      "dalzhina": 25.470095,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 626,
+      "ime": "ГП395",
+      "shirina": 42.682359,
+      "dalzhina": 22.465576,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    },
+    {
+      "id": 627,
+      "ime": "Най-югоизточната точка на Европейския съюз в континентална Европа",
+      "shirina": 41.983093,
+      "dalzhina": 28.029729,
+      "osm_klyuch": "historic",
+      "osm_stoynost": "boundary_stone",
+      "osm_klas": "historic=boundary_stone"
+    }
+  ],
+  "meta": {
+    "title": "Гранични камъни в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Гранични камъни в България — 627 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `historic=boundary_stone`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 627 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Гранични камъни в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Гранични камъни в България (OpenStreetMap) — 627 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 627 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

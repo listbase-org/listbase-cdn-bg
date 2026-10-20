@@ -1,0 +1,1987 @@
+{
+  "id": "bg-osm-shop-butcher",
+  "name": "Месарници в България (OpenStreetMap)",
+  "title": "Месарници в България (OpenStreetMap)",
+  "description": "Месарници в България — 214 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=butcher`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 214,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Butcher",
+      "shirina": 42.691641,
+      "dalzhina": 23.328759,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 2,
+      "ime": "Imamoglu",
+      "shirina": 42.646749,
+      "dalzhina": 23.343487,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 3,
+      "ime": "Ka Мес",
+      "shirina": 42.462148,
+      "dalzhina": 27.4115,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 4,
+      "ime": "Liani 96",
+      "shirina": 42.623945,
+      "dalzhina": 23.400064,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 5,
+      "ime": "Ma Market",
+      "shirina": 42.186156,
+      "dalzhina": 24.737959,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 6,
+      "ime": "Meat Station",
+      "shirina": 42.654041,
+      "dalzhina": 23.311944,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 7,
+      "ime": "Meat and More",
+      "shirina": 42.665843,
+      "dalzhina": 23.299849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 8,
+      "ime": "Meat brothers",
+      "shirina": 42.66916,
+      "dalzhina": 23.277356,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 9,
+      "ime": "Meatbox",
+      "shirina": 42.668537,
+      "dalzhina": 23.319504,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 10,
+      "ime": "Mesarnitsa Market",
+      "shirina": 41.847947,
+      "dalzhina": 26.081991,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 11,
+      "ime": "Moni mes",
+      "shirina": 41.641926,
+      "dalzhina": 25.37296,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 12,
+      "ime": "Niku",
+      "shirina": 42.656494,
+      "dalzhina": 23.316942,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 13,
+      "ime": "Shenel",
+      "shirina": 41.635221,
+      "dalzhina": 25.35539,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 14,
+      "ime": "Shenel",
+      "shirina": 41.6415,
+      "dalzhina": 25.372768,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 15,
+      "ime": "The meat box",
+      "shirina": 42.673877,
+      "dalzhina": 23.297747,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 16,
+      "ime": "Top Gun",
+      "shirina": 42.68701,
+      "dalzhina": 23.240451,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 17,
+      "ime": "VIP foods",
+      "shirina": 42.277247,
+      "dalzhina": 24.731457,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 18,
+      "ime": "ViVenda",
+      "shirina": 42.649907,
+      "dalzhina": 23.31579,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 19,
+      "ime": "Vivenda",
+      "shirina": 42.65584,
+      "dalzhina": 23.287981,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 20,
+      "ime": "Vivenda",
+      "shirina": 42.695337,
+      "dalzhina": 23.33751,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 21,
+      "ime": "Або Хашим",
+      "shirina": 42.7015,
+      "dalzhina": 23.320781,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 22,
+      "ime": "Айо",
+      "shirina": 42.654581,
+      "dalzhina": 27.703678,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 23,
+      "ime": "Ал Сайед",
+      "shirina": 42.70411,
+      "dalzhina": 23.315952,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 24,
+      "ime": "Ал-Мустафа",
+      "shirina": 42.702951,
+      "dalzhina": 23.317105,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 25,
+      "ime": "БРАТЯ УЗУНОВИ",
+      "shirina": 41.56376,
+      "dalzhina": 23.277295,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 26,
+      "ime": "Бай Течо",
+      "shirina": 42.482005,
+      "dalzhina": 26.51174,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 27,
+      "ime": "Бай Течо",
+      "shirina": 42.660259,
+      "dalzhina": 27.714904,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 28,
+      "ime": "Бакри Мес",
+      "shirina": 42.701035,
+      "dalzhina": 23.318333,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 29,
+      "ime": "Балкански Месари",
+      "shirina": 42.708556,
+      "dalzhina": 23.287604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 30,
+      "ime": "Балканско село",
+      "shirina": 42.929909,
+      "dalzhina": 25.878482,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 31,
+      "ime": "Боги 6 СКЛАД",
+      "shirina": 42.538241,
+      "dalzhina": 27.451078,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 32,
+      "ime": "Бозмов",
+      "shirina": 42.610994,
+      "dalzhina": 23.040287,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 33,
+      "ime": "Бозмов",
+      "shirina": 42.633527,
+      "dalzhina": 23.380121,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 34,
+      "ime": "Бозмов",
+      "shirina": 42.714261,
+      "dalzhina": 23.252693,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 35,
+      "ime": "Бозмов",
+      "shirina": 42.714673,
+      "dalzhina": 23.26692,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 36,
+      "ime": "Бозмов",
+      "shirina": 43.235269,
+      "dalzhina": 25.314002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 37,
+      "ime": "Бозмов",
+      "shirina": 43.858011,
+      "dalzhina": 25.972707,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 38,
+      "ime": "Боре Боре",
+      "shirina": 41.9375,
+      "dalzhina": 25.548175,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 39,
+      "ime": "Боримес",
+      "shirina": 43.084035,
+      "dalzhina": 25.622381,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 40,
+      "ime": "Боримес",
+      "shirina": 43.849709,
+      "dalzhina": 25.95711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 41,
+      "ime": "Боримес",
+      "shirina": 43.855945,
+      "dalzhina": 25.969105,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 42,
+      "ime": "Братя Илиеви 79",
+      "shirina": 42.67747,
+      "dalzhina": 23.28494,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 43,
+      "ime": "Бут",
+      "shirina": 42.664832,
+      "dalzhina": 23.284061,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 44,
+      "ime": "Бутик за месо",
+      "shirina": 42.67625,
+      "dalzhina": 23.300072,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 45,
+      "ime": "Бушрет хер",
+      "shirina": 42.700518,
+      "dalzhina": 23.314821,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 46,
+      "ime": "Бушрет хер - Ресторант и Месар",
+      "shirina": 42.703504,
+      "dalzhina": 23.319849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 47,
+      "ime": "Валентино",
+      "shirina": 42.718763,
+      "dalzhina": 23.251227,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 48,
+      "ime": "Вием комерс ЕООД",
+      "shirina": 42.665022,
+      "dalzhina": 23.266404,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 49,
+      "ime": "Виера",
+      "shirina": 42.720436,
+      "dalzhina": 23.243255,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 50,
+      "ime": "Вилиян",
+      "shirina": 43.570961,
+      "dalzhina": 27.818228,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 51,
+      "ime": "Господин месар",
+      "shirina": 42.666672,
+      "dalzhina": 23.282229,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 52,
+      "ime": "ДЖИ Мес",
+      "shirina": 42.696472,
+      "dalzhina": 23.34906,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 53,
+      "ime": "Двете мечки и петела",
+      "shirina": 42.605585,
+      "dalzhina": 23.032207,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 54,
+      "ime": "Дековис",
+      "shirina": 42.716799,
+      "dalzhina": 23.268517,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 55,
+      "ime": "Джеронимо",
+      "shirina": 43.21913,
+      "dalzhina": 27.89975,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 56,
+      "ime": "Джеронимо",
+      "shirina": 43.567307,
+      "dalzhina": 27.822158,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 57,
+      "ime": "Джеронимо Толбухин",
+      "shirina": 43.221806,
+      "dalzhina": 27.918324,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 58,
+      "ime": "Дима мес",
+      "shirina": 42.713572,
+      "dalzhina": 27.756411,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 59,
+      "ime": "Димитър Маджаров",
+      "shirina": 42.173414,
+      "dalzhina": 24.715729,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 60,
+      "ime": "Димят - \"Цех\"",
+      "shirina": 43.56808,
+      "dalzhina": 27.834542,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 61,
+      "ime": "Добротица",
+      "shirina": 42.134846,
+      "dalzhina": 24.794753,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 62,
+      "ime": "Добротица",
+      "shirina": 42.697168,
+      "dalzhina": 23.315051,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 63,
+      "ime": "Добруджанска млечна компания",
+      "shirina": 42.677203,
+      "dalzhina": 23.289486,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 64,
+      "ime": "Доверие Лесидрен",
+      "shirina": 43.410222,
+      "dalzhina": 24.61826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 65,
+      "ime": "Доля-9",
+      "shirina": 42.707932,
+      "dalzhina": 23.14381,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 66,
+      "ime": "ЕВ 2010",
+      "shirina": 42.672326,
+      "dalzhina": 23.284983,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 67,
+      "ime": "Евромес ООД",
+      "shirina": 42.153408,
+      "dalzhina": 24.310654,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 68,
+      "ime": "Едрина",
+      "shirina": 42.72007,
+      "dalzhina": 23.252008,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 69,
+      "ime": "Еко мес",
+      "shirina": 42.689754,
+      "dalzhina": 23.341786,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 70,
+      "ime": "Елена",
+      "shirina": 42.701911,
+      "dalzhina": 23.300858,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 71,
+      "ime": "Еленко",
+      "shirina": 42.731546,
+      "dalzhina": 23.290326,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 72,
+      "ime": "Еленски Балкани",
+      "shirina": 42.13054,
+      "dalzhina": 24.749042,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 73,
+      "ime": "Еленски балканджии",
+      "shirina": 42.664514,
+      "dalzhina": 23.283649,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 74,
+      "ime": "Еленски балканджии",
+      "shirina": 42.935555,
+      "dalzhina": 25.885172,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 75,
+      "ime": "Елеонора",
+      "shirina": 42.706837,
+      "dalzhina": 23.308975,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 76,
+      "ime": "Елко Мес",
+      "shirina": 42.136647,
+      "dalzhina": 24.76777,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 77,
+      "ime": "Жеронимо",
+      "shirina": 43.21823,
+      "dalzhina": 27.92867,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 78,
+      "ime": "Звезда",
+      "shirina": 42.137785,
+      "dalzhina": 24.799281,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 79,
+      "ime": "Звезда",
+      "shirina": 42.140402,
+      "dalzhina": 24.760468,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 80,
+      "ime": "КИП",
+      "shirina": 43.224364,
+      "dalzhina": 27.926702,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 81,
+      "ime": "КРЕС",
+      "shirina": 42.423176,
+      "dalzhina": 25.619273,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 82,
+      "ime": "Карантия",
+      "shirina": 42.701804,
+      "dalzhina": 23.300826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 83,
+      "ime": "Карантия",
+      "shirina": 42.702289,
+      "dalzhina": 23.319748,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 84,
+      "ime": "Карантия",
+      "shirina": 42.738426,
+      "dalzhina": 22.909413,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 85,
+      "ime": "Козлодуй",
+      "shirina": 42.706884,
+      "dalzhina": 23.324482,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 86,
+      "ime": "Колбаси Стефанов",
+      "shirina": 43.048915,
+      "dalzhina": 25.742686,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 87,
+      "ime": "Колбаси Стефанов - Производствена база",
+      "shirina": 43.133258,
+      "dalzhina": 25.68522,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 88,
+      "ime": "Кръстев",
+      "shirina": 42.144112,
+      "dalzhina": 24.730906,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 89,
+      "ime": "Кумир Си",
+      "shirina": 42.427389,
+      "dalzhina": 25.643958,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 90,
+      "ime": "Кумир-Си",
+      "shirina": 42.429027,
+      "dalzhina": 25.633308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 91,
+      "ime": "Къртев ООД",
+      "shirina": 42.150698,
+      "dalzhina": 24.743318,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 92,
+      "ime": "Къртев ООД | Колбаси",
+      "shirina": 42.150093,
+      "dalzhina": 24.744232,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 93,
+      "ime": "Къща на Месото Галански",
+      "shirina": 43.211705,
+      "dalzhina": 27.916985,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 94,
+      "ime": "Лачков",
+      "shirina": 42.718863,
+      "dalzhina": 23.263928,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 95,
+      "ime": "Лесидрен",
+      "shirina": 42.664498,
+      "dalzhina": 23.36189,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 96,
+      "ime": "Лесидрен",
+      "shirina": 42.670561,
+      "dalzhina": 23.32017,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 97,
+      "ime": "Лесидрен",
+      "shirina": 42.673577,
+      "dalzhina": 23.292674,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 98,
+      "ime": "Лесидрен",
+      "shirina": 42.688452,
+      "dalzhina": 23.326698,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 99,
+      "ime": "Лесидрен",
+      "shirina": 42.693607,
+      "dalzhina": 23.351667,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 100,
+      "ime": "Лесидрен",
+      "shirina": 42.69821,
+      "dalzhina": 23.328066,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 101,
+      "ime": "Лозенец",
+      "shirina": 42.670266,
+      "dalzhina": 23.328706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 102,
+      "ime": "Лоялност",
+      "shirina": 42.702825,
+      "dalzhina": 23.319412,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 103,
+      "ime": "Люлин комерс",
+      "shirina": 42.811986,
+      "dalzhina": 23.225073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 104,
+      "ime": "МА",
+      "shirina": 42.165491,
+      "dalzhina": 24.750713,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 105,
+      "ime": "МДВ",
+      "shirina": 42.690609,
+      "dalzhina": 23.358715,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 106,
+      "ime": "Магазин Нолев",
+      "shirina": 41.933271,
+      "dalzhina": 25.551979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 107,
+      "ime": "Майстори Месари",
+      "shirina": 42.680731,
+      "dalzhina": 23.321872,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 108,
+      "ime": "Майстори месари",
+      "shirina": 42.679563,
+      "dalzhina": 23.310285,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 109,
+      "ime": "Майстори месари",
+      "shirina": 42.739731,
+      "dalzhina": 23.256448,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 110,
+      "ime": "Маркони Мес",
+      "shirina": 42.63152,
+      "dalzhina": 23.374592,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 111,
+      "ime": "Мартина Комерс",
+      "shirina": 42.702159,
+      "dalzhina": 23.345151,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 112,
+      "ime": "Меркез",
+      "shirina": 42.70131,
+      "dalzhina": 23.321913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 113,
+      "ime": "Месарница",
+      "shirina": 43.828507,
+      "dalzhina": 25.970913,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 114,
+      "ime": "Месарница Дева",
+      "shirina": 42.711495,
+      "dalzhina": 27.763113,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 115,
+      "ime": "Месарница Елена",
+      "shirina": 42.735908,
+      "dalzhina": 23.293041,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 116,
+      "ime": "Месарница Майстор Пулче",
+      "shirina": 41.830421,
+      "dalzhina": 23.485884,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 117,
+      "ime": "Месарница Младост",
+      "shirina": 42.657395,
+      "dalzhina": 23.374938,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 118,
+      "ime": "Месарница Хриси",
+      "shirina": 42.886307,
+      "dalzhina": 25.321063,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 119,
+      "ime": "Месарница и транжорна Средец",
+      "shirina": 43.182505,
+      "dalzhina": 27.891309,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 120,
+      "ime": "Месарницата",
+      "shirina": 42.165566,
+      "dalzhina": 24.754908,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 121,
+      "ime": "Месарницата на Любо",
+      "shirina": 42.909323,
+      "dalzhina": 23.788876,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 122,
+      "ime": "Месарницата на Южен Полъх",
+      "shirina": 42.147765,
+      "dalzhina": 24.736368,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 123,
+      "ime": "Месарски магазин",
+      "shirina": 43.827354,
+      "dalzhina": 27.142827,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 124,
+      "ime": "Меском \"Попов\"",
+      "shirina": 42.115699,
+      "dalzhina": 24.712773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 125,
+      "ime": "Месо",
+      "shirina": 42.169817,
+      "dalzhina": 27.848529,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 126,
+      "ime": "Месо и мляко",
+      "shirina": 42.682554,
+      "dalzhina": 23.367777,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 127,
+      "ime": "Месо от Рая",
+      "shirina": 43.226717,
+      "dalzhina": 27.921334,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 128,
+      "ime": "Месокомбинат Бяла",
+      "shirina": 43.854707,
+      "dalzhina": 25.96432,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 129,
+      "ime": "Месокомбинат Тутракан",
+      "shirina": 42.699081,
+      "dalzhina": 23.334363,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 130,
+      "ime": "Месомес ЕООД",
+      "shirina": 42.713449,
+      "dalzhina": 23.246294,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 131,
+      "ime": "Месопродавница",
+      "shirina": 42.688848,
+      "dalzhina": 23.330093,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 132,
+      "ime": "Месопродавница При Блаже",
+      "shirina": 42.689258,
+      "dalzhina": 23.327438,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 133,
+      "ime": "Мийт",
+      "shirina": 43.701276,
+      "dalzhina": 28.038897,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 134,
+      "ime": "Милушев",
+      "shirina": 41.938047,
+      "dalzhina": 25.561562,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 135,
+      "ime": "Милушев ЕТ",
+      "shirina": 41.931491,
+      "dalzhina": 25.548773,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 136,
+      "ime": "Мираж",
+      "shirina": 42.427802,
+      "dalzhina": 25.646143,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 137,
+      "ime": "Мони мес",
+      "shirina": 41.939472,
+      "dalzhina": 25.555235,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 138,
+      "ime": "Мони мес",
+      "shirina": 42.708725,
+      "dalzhina": 23.312981,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 139,
+      "ime": "Монти Мес",
+      "shirina": 43.199713,
+      "dalzhina": 27.917708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 140,
+      "ime": "Монти мес",
+      "shirina": 43.179436,
+      "dalzhina": 27.888501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 141,
+      "ime": "Моята месарница",
+      "shirina": 42.682299,
+      "dalzhina": 23.327765,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 142,
+      "ime": "Моята месарница",
+      "shirina": 42.690412,
+      "dalzhina": 23.31805,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 143,
+      "ime": "Мръвкарница",
+      "shirina": 42.712416,
+      "dalzhina": 23.270151,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 144,
+      "ime": "Мръвкарница",
+      "shirina": 42.73575,
+      "dalzhina": 23.305812,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 145,
+      "ime": "Мръвката",
+      "shirina": 43.218873,
+      "dalzhina": 27.928616,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 146,
+      "ime": "Мусагеница",
+      "shirina": 42.663449,
+      "dalzhina": 23.363146,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 147,
+      "ime": "Нели Мес",
+      "shirina": 42.639652,
+      "dalzhina": 23.377032,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 148,
+      "ime": "Нели мес",
+      "shirina": 42.696086,
+      "dalzhina": 23.286034,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 149,
+      "ime": "Ников",
+      "shirina": 42.687933,
+      "dalzhina": 26.341787,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 150,
+      "ime": "Нов Век 2001 ООД",
+      "shirina": 42.060877,
+      "dalzhina": 25.269075,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 151,
+      "ime": "НовоМес",
+      "shirina": 42.105063,
+      "dalzhina": 24.486308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 152,
+      "ime": "Новомес",
+      "shirina": 42.088981,
+      "dalzhina": 24.794385,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 153,
+      "ime": "Нолев",
+      "shirina": 41.929411,
+      "dalzhina": 25.498989,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 154,
+      "ime": "Орион",
+      "shirina": 42.701319,
+      "dalzhina": 23.31914,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 155,
+      "ime": "Орлица",
+      "shirina": 42.664066,
+      "dalzhina": 23.284225,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 156,
+      "ime": "От 1993 г.",
+      "shirina": 42.65339,
+      "dalzhina": 23.332849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 157,
+      "ime": "От Фермата",
+      "shirina": 42.42529,
+      "dalzhina": 26.608425,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 158,
+      "ime": "От Фермата",
+      "shirina": 42.478457,
+      "dalzhina": 26.523825,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 159,
+      "ime": "От хубавото",
+      "shirina": 42.647411,
+      "dalzhina": 23.373108,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 160,
+      "ime": "Отбрано",
+      "shirina": 42.664189,
+      "dalzhina": 23.283617,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 161,
+      "ime": "Партньори 1997",
+      "shirina": 42.63522,
+      "dalzhina": 23.310347,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 162,
+      "ime": "Партньори 1997",
+      "shirina": 42.676893,
+      "dalzhina": 23.303533,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 163,
+      "ime": "Партньори 1997",
+      "shirina": 42.677279,
+      "dalzhina": 23.28493,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 164,
+      "ime": "Партньори 1997",
+      "shirina": 42.727448,
+      "dalzhina": 23.301771,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 165,
+      "ime": "Патеса",
+      "shirina": 42.481273,
+      "dalzhina": 26.513618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 166,
+      "ime": "Пепи Комерс",
+      "shirina": 42.642549,
+      "dalzhina": 23.406447,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 167,
+      "ime": "Плиска",
+      "shirina": 42.675947,
+      "dalzhina": 23.360406,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 168,
+      "ime": "Попов",
+      "shirina": 42.13136,
+      "dalzhina": 24.689308,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 169,
+      "ime": "Премиер",
+      "shirina": 42.908094,
+      "dalzhina": 23.796979,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 170,
+      "ime": "При Кирето",
+      "shirina": 42.66165,
+      "dalzhina": 23.360296,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 171,
+      "ime": "При Кирето",
+      "shirina": 42.693806,
+      "dalzhina": 23.315228,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 172,
+      "ime": "При Майстор Захари",
+      "shirina": 42.865272,
+      "dalzhina": 25.486408,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 173,
+      "ime": "При Марио",
+      "shirina": 42.701356,
+      "dalzhina": 23.321663,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 174,
+      "ime": "При Руска",
+      "shirina": 42.694535,
+      "dalzhina": 23.342391,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 175,
+      "ime": "При Сашо и Роси",
+      "shirina": 42.664536,
+      "dalzhina": 23.364746,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 176,
+      "ime": "Прясно месо",
+      "shirina": 42.663466,
+      "dalzhina": 23.382969,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 177,
+      "ime": "Птицекомбинат Костинброд",
+      "shirina": 42.678818,
+      "dalzhina": 23.288214,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 178,
+      "ime": "Пълдин",
+      "shirina": 42.139373,
+      "dalzhina": 24.755849,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 179,
+      "ime": "Р. Василева",
+      "shirina": 42.617441,
+      "dalzhina": 23.336546,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 180,
+      "ime": "Р. Василева",
+      "shirina": 42.704215,
+      "dalzhina": 23.322545,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 181,
+      "ime": "РИЦ",
+      "shirina": 42.430889,
+      "dalzhina": 25.643396,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 182,
+      "ime": "РИЦ",
+      "shirina": 42.433642,
+      "dalzhina": 25.631826,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 183,
+      "ime": "Рамбо",
+      "shirina": 42.704144,
+      "dalzhina": 23.32216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 184,
+      "ime": "Рамбо-1",
+      "shirina": 42.704435,
+      "dalzhina": 23.322612,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 185,
+      "ime": "Роял маркет",
+      "shirina": 41.742805,
+      "dalzhina": 24.399354,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 186,
+      "ime": "Садово",
+      "shirina": 42.141255,
+      "dalzhina": 24.753079,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 187,
+      "ime": "Садово",
+      "shirina": 42.43065,
+      "dalzhina": 25.626031,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 188,
+      "ime": "Сарай",
+      "shirina": 42.663541,
+      "dalzhina": 23.374512,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 189,
+      "ime": "Свинекомплекс Голямо Враново",
+      "shirina": 43.854268,
+      "dalzhina": 25.965618,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 190,
+      "ime": "Синдбад",
+      "shirina": 42.481332,
+      "dalzhina": 26.513642,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 191,
+      "ime": "Славчев",
+      "shirina": 42.700148,
+      "dalzhina": 23.315055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 192,
+      "ime": "Специализиран магазин за месo ,,Дева-Андреев\"",
+      "shirina": 43.216474,
+      "dalzhina": 27.917177,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 193,
+      "ime": "Стамболийски",
+      "shirina": 42.698621,
+      "dalzhina": 23.310203,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 194,
+      "ime": "Станев ЕТ",
+      "shirina": 41.930818,
+      "dalzhina": 25.548687,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 195,
+      "ime": "Старата месарница",
+      "shirina": 42.645697,
+      "dalzhina": 23.33159,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 196,
+      "ime": "Старата месарница",
+      "shirina": 42.664821,
+      "dalzhina": 23.275373,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 197,
+      "ime": "Стенли 60",
+      "shirina": 42.460827,
+      "dalzhina": 24.145415,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 198,
+      "ime": "Тагара",
+      "shirina": 42.481571,
+      "dalzhina": 26.512799,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 199,
+      "ime": "Тедди",
+      "shirina": 42.42452,
+      "dalzhina": 25.619825,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 200,
+      "ime": "Тропик",
+      "shirina": 43.569359,
+      "dalzhina": 27.833622,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 201,
+      "ime": "Тропик",
+      "shirina": 43.57405,
+      "dalzhina": 27.831574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 202,
+      "ime": "Унитемп",
+      "shirina": 42.409893,
+      "dalzhina": 25.593219,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 203,
+      "ime": "Финес",
+      "shirina": 42.426162,
+      "dalzhina": 25.632574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 204,
+      "ime": "Финес",
+      "shirina": 42.730618,
+      "dalzhina": 23.302431,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 205,
+      "ime": "Финес Младост",
+      "shirina": 42.661425,
+      "dalzhina": 23.372154,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 206,
+      "ime": "Финес с.Брод",
+      "shirina": 41.932711,
+      "dalzhina": 25.560621,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 207,
+      "ime": "Хабиби",
+      "shirina": 42.700925,
+      "dalzhina": 23.318197,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 208,
+      "ime": "Цар Месар - Борса за месо",
+      "shirina": 42.711215,
+      "dalzhina": 23.309925,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 209,
+      "ime": "Централни хали",
+      "shirina": 42.67885,
+      "dalzhina": 26.31404,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 210,
+      "ime": "Чочко",
+      "shirina": 41.93299,
+      "dalzhina": 25.559694,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 211,
+      "ime": "Шери мес",
+      "shirina": 42.686145,
+      "dalzhina": 23.30712,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 212,
+      "ime": "Шол рум",
+      "shirina": 42.699773,
+      "dalzhina": 23.324549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 213,
+      "ime": "Южен Полъх BBQ Месарницата",
+      "shirina": 42.161556,
+      "dalzhina": 24.742875,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    },
+    {
+      "id": 214,
+      "ime": "Яка Мръвка",
+      "shirina": 42.6705,
+      "dalzhina": 23.600173,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "butcher",
+      "osm_klas": "shop=butcher"
+    }
+  ],
+  "meta": {
+    "title": "Месарници в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Месарници в България — 214 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=butcher`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 214 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Месарници в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Месарници в България (OpenStreetMap) — 214 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 214 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

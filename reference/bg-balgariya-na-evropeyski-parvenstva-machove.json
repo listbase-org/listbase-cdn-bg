@@ -1,0 +1,269 @@
+{
+  "id": "bg-balgariya-na-evropeyski-parvenstva-machove",
+  "name": "България на европейските първенства по футбол — мачове 1996–2004 (6)",
+  "title": "България на европейските първенства по футбол — мачове 1996–2004 (6)",
+  "description": "Всички мачове на националния отбор на България на финалните турнири на европейските първенства (1996, 2004). Полето otbor = името на отбора както в източника. Източник: YYYY--domakin/euro.txt от openfootball/euro (CC0). Имената на отборите, фазите и местата са точно както в източника (на английски; myasto = град и/или стадион по реда на източника). golove_* = краен резултат (след продължения); golove_90_* = резултат след 90 мин., ако източникът го дава (за EURO 2016 с продължения умишлено null – източникът дава ненадеждно „(0-0)“); poluvreme_* само където е дадено (главно 2021, 2024); duzpi_* = дузпи; zlaten_srebaren_gol = golden/silver (1996–2004). rezultat = 1/X/2 по крайния резултат. chas = начален час от източника (от 2012 CEST), chas_belezhka = местен час, ако е даден. За груповите мачове от 1984 и 1992 източникът не дава дата, час и място (null).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "otbor",
+      "label": "Otbor",
+      "type": "string"
+    },
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "faza",
+      "label": "Faza",
+      "type": "string"
+    },
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "date"
+    },
+    {
+      "key": "chas",
+      "label": "Chas",
+      "type": "string"
+    },
+    {
+      "key": "chas_belezhka",
+      "label": "Chas Belezhka",
+      "type": "string"
+    },
+    {
+      "key": "domakin",
+      "label": "Domakin",
+      "type": "string"
+    },
+    {
+      "key": "gost",
+      "label": "Gost",
+      "type": "string"
+    },
+    {
+      "key": "golove_domakin",
+      "label": "Golove Domakin",
+      "type": "number"
+    },
+    {
+      "key": "golove_gost",
+      "label": "Golove Gost",
+      "type": "number"
+    },
+    {
+      "key": "golove_90_domakin",
+      "label": "Golove 90 Domakin",
+      "type": "number"
+    },
+    {
+      "key": "golove_90_gost",
+      "label": "Golove 90 Gost",
+      "type": "number"
+    },
+    {
+      "key": "poluvreme_domakin",
+      "label": "Poluvreme Domakin",
+      "type": "string"
+    },
+    {
+      "key": "poluvreme_gost",
+      "label": "Poluvreme Gost",
+      "type": "string"
+    },
+    {
+      "key": "prodalzheniya",
+      "label": "Prodalzheniya",
+      "type": "boolean"
+    },
+    {
+      "key": "zlaten_srebaren_gol",
+      "label": "Zlaten Srebaren Gol",
+      "type": "string"
+    },
+    {
+      "key": "duzpi_domakin",
+      "label": "Duzpi Domakin",
+      "type": "string"
+    },
+    {
+      "key": "duzpi_gost",
+      "label": "Duzpi Gost",
+      "type": "string"
+    },
+    {
+      "key": "rezultat",
+      "label": "Rezultat",
+      "type": "string"
+    },
+    {
+      "key": "myasto",
+      "label": "Myasto",
+      "type": "string"
+    },
+    {
+      "key": "belezhka_iztochnik",
+      "label": "Belezhka Iztochnik",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "otbor": "Bulgaria",
+      "godina": 1996,
+      "faza": "Group B",
+      "data": "1996-06-09",
+      "chas": "",
+      "chas_belezhka": "",
+      "domakin": "Spain",
+      "gost": "Bulgaria",
+      "golove_domakin": 1,
+      "golove_gost": 1,
+      "golove_90_domakin": 1,
+      "golove_90_gost": 1,
+      "poluvreme_domakin": "",
+      "poluvreme_gost": "",
+      "prodalzheniya": false,
+      "zlaten_srebaren_gol": "",
+      "duzpi_domakin": "",
+      "duzpi_gost": "",
+      "rezultat": "X",
+      "myasto": "Leeds",
+      "belezhka_iztochnik": ""
+    },
+    {
+      "otbor": "Bulgaria",
+      "godina": 1996,
+      "faza": "Group B",
+      "data": "1996-06-13",
+      "chas": "",
+      "chas_belezhka": "",
+      "domakin": "Bulgaria",
+      "gost": "Romania",
+      "golove_domakin": 1,
+      "golove_gost": 0,
+      "golove_90_domakin": 1,
+      "golove_90_gost": 0,
+      "poluvreme_domakin": "",
+      "poluvreme_gost": "",
+      "prodalzheniya": false,
+      "zlaten_srebaren_gol": "",
+      "duzpi_domakin": "",
+      "duzpi_gost": "",
+      "rezultat": "1",
+      "myasto": "Newcastle",
+      "belezhka_iztochnik": ""
+    },
+    {
+      "otbor": "Bulgaria",
+      "godina": 1996,
+      "faza": "Group B",
+      "data": "1996-06-18",
+      "chas": "",
+      "chas_belezhka": "",
+      "domakin": "France",
+      "gost": "Bulgaria",
+      "golove_domakin": 3,
+      "golove_gost": 1,
+      "golove_90_domakin": 3,
+      "golove_90_gost": 1,
+      "poluvreme_domakin": "",
+      "poluvreme_gost": "",
+      "prodalzheniya": false,
+      "zlaten_srebaren_gol": "",
+      "duzpi_domakin": "",
+      "duzpi_gost": "",
+      "rezultat": "1",
+      "myasto": "Newcastle",
+      "belezhka_iztochnik": ""
+    },
+    {
+      "otbor": "Bulgaria",
+      "godina": 2004,
+      "faza": "Group C",
+      "data": "2004-06-14",
+      "chas": "",
+      "chas_belezhka": "",
+      "domakin": "Sweden",
+      "gost": "Bulgaria",
+      "golove_domakin": 5,
+      "golove_gost": 0,
+      "golove_90_domakin": 5,
+      "golove_90_gost": 0,
+      "poluvreme_domakin": "",
+      "poluvreme_gost": "",
+      "prodalzheniya": false,
+      "zlaten_srebaren_gol": "",
+      "duzpi_domakin": "",
+      "duzpi_gost": "",
+      "rezultat": "1",
+      "myasto": "",
+      "belezhka_iztochnik": ""
+    },
+    {
+      "otbor": "Bulgaria",
+      "godina": 2004,
+      "faza": "Group C",
+      "data": "2004-06-18",
+      "chas": "",
+      "chas_belezhka": "",
+      "domakin": "Bulgaria",
+      "gost": "Denmark",
+      "golove_domakin": 0,
+      "golove_gost": 2,
+      "golove_90_domakin": 0,
+      "golove_90_gost": 2,
+      "poluvreme_domakin": "",
+      "poluvreme_gost": "",
+      "prodalzheniya": false,
+      "zlaten_srebaren_gol": "",
+      "duzpi_domakin": "",
+      "duzpi_gost": "",
+      "rezultat": "2",
+      "myasto": "",
+      "belezhka_iztochnik": ""
+    },
+    {
+      "otbor": "Bulgaria",
+      "godina": 2004,
+      "faza": "Group C",
+      "data": "2004-06-22",
+      "chas": "",
+      "chas_belezhka": "",
+      "domakin": "Italy",
+      "gost": "Bulgaria",
+      "golove_domakin": 2,
+      "golove_gost": 1,
+      "golove_90_domakin": 2,
+      "golove_90_gost": 1,
+      "poluvreme_domakin": "",
+      "poluvreme_gost": "",
+      "prodalzheniya": false,
+      "zlaten_srebaren_gol": "",
+      "duzpi_domakin": "",
+      "duzpi_gost": "",
+      "rezultat": "1",
+      "myasto": "",
+      "belezhka_iztochnik": ""
+    }
+  ],
+  "meta": {
+    "title": "България на европейските първенства по футбол — мачове 1996–2004 (6) - Безплатно изтегляне",
+    "description": "Всички мачове на националния отбор на България на финалните турнири на европейските първенства (1996, 2004). Полето otbor = името на отбора както в източника. Източник: YYYY--domakin/euro.txt от openfootball/euro (CC0). Имената на отборите, фазите и местата са точно както в източника (на английски; myasto = град и/или стадион по реда на източника). golove_* = краен резултат (след продължения); golove_90_* = резултат след 90 мин., ако източникът го дава (за EURO 2016 с продължения умишлено null – източникът дава ненадеждно „(0-0)“); poluvreme_* само където е дадено (главно 2021, 2024); duzpi_* = дузпи; zlaten_srebaren_gol = golden/silver (1996–2004). rezultat = 1/X/2 по крайния резултат. chas = начален час от източника (от 2012 CEST), chas_belezhka = местен час, ако е даден. За груповите мачове от 1984 и 1992 източникът не дава дата, час и място (null). Съдържа 6 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "България на европейските първенства по футбол — мачове 1996–2004 (6) | ListBase",
+    "seo_description": "Изтеглете България на европейските първенства по футбол — мачове 1996–2004 (6) — 6 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 6 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

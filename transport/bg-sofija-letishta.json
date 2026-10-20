@@ -1,0 +1,152 @@
+{
+  "id": "bg-sofija-letishta",
+  "name": "Летища — област София",
+  "title": "Летища — област София",
+  "description": "Списък на летищата в „област София“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Sofia Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "oblast_source",
+      "label": "Oblast Source",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_en",
+      "label": "Oblast En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LBDB",
+      "iata": "",
+      "name": "Dolna Banya Airport",
+      "name_slug": "dolna-banya-airport",
+      "city": "Dolna Banya",
+      "oblast": "област София",
+      "oblast_source": "Sofia",
+      "oblast_slug": "sofija",
+      "oblast_en": "Sofia Province",
+      "country": "BG",
+      "elevation_ft": 1779,
+      "lat": 42.3085289001,
+      "lon": 23.8204174042,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LBHT",
+      "iata": "",
+      "name": "Ihtiman Airport",
+      "name_slug": "ihtiman-airport",
+      "city": "Ihtiman",
+      "oblast": "област София",
+      "oblast_source": "Sofia",
+      "oblast_slug": "sofija",
+      "oblast_en": "Sofia Province",
+      "country": "BG",
+      "elevation_ft": 2113,
+      "lat": 42.4218902588,
+      "lon": 23.7672214508,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    },
+    {
+      "icao": "LBLS",
+      "iata": "",
+      "name": "Lesnovo Airport",
+      "name_slug": "lesnovo-airport",
+      "city": "Lesnovo",
+      "oblast": "област София",
+      "oblast_source": "Sofia",
+      "oblast_slug": "sofija",
+      "oblast_en": "Sofia Province",
+      "country": "BG",
+      "elevation_ft": 1825,
+      "lat": 42.6344985962,
+      "lon": 23.6464443207,
+      "timezone": "Europe/Sofia",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Летища — област София - Безплатно изтегляне",
+    "description": "Списък на летищата в „област София“ в България с ICAO/IATA кодове, град, координати (WGS84) и надморска височина. (Sofia Province — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Съдържа 3 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Летища — област София | ListBase",
+    "seo_description": "Изтеглете Летища — област София — 3 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 3 записа / 15 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: https://github.com/mwgg/Airports"
+    ]
+  }
+}

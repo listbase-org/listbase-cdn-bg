@@ -1,0 +1,2941 @@
+{
+  "id": "bg-osm-amenity-clinic",
+  "name": "Клиники в България (OpenStreetMap)",
+  "title": "Клиники в България (OpenStreetMap)",
+  "description": "Клиники в България — 320 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=clinic`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 320,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Диамедикъл\" медицински център",
+      "shirina": 42.053358,
+      "dalzhina": 25.5882,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 2,
+      "ime": "11-ти ДКЦ",
+      "shirina": 42.703262,
+      "dalzhina": 23.308762,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 3,
+      "ime": "12-ти ДКЦ",
+      "shirina": 42.718274,
+      "dalzhina": 23.268149,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 4,
+      "ime": "13-ти ДКЦ",
+      "shirina": 42.676827,
+      "dalzhina": 23.319212,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 5,
+      "ime": "13-ти ДКЦ - детско отделение",
+      "shirina": 42.671207,
+      "dalzhina": 23.321535,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 6,
+      "ime": "15-то ДКЦ",
+      "shirina": 42.663144,
+      "dalzhina": 23.344054,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 7,
+      "ime": "18-ти ДКЦ",
+      "shirina": 42.702025,
+      "dalzhina": 23.369071,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 8,
+      "ime": "18-ти ДКЦ - филиал металург",
+      "shirina": 42.709896,
+      "dalzhina": 23.381975,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 9,
+      "ime": "19-ти ДКЦ",
+      "shirina": 42.69036,
+      "dalzhina": 23.344183,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 10,
+      "ime": "20-ти ДКЦ",
+      "shirina": 42.67266,
+      "dalzhina": 23.28357,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 11,
+      "ime": "22-ри ДКЦ",
+      "shirina": 42.678011,
+      "dalzhina": 23.360049,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 12,
+      "ime": "24-ти ДКЦ",
+      "shirina": 42.737112,
+      "dalzhina": 23.302903,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 13,
+      "ime": "6-ти ДКЦ",
+      "shirina": 42.706556,
+      "dalzhina": 23.287667,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 14,
+      "ime": "7-мо ДКЦ",
+      "shirina": 42.130813,
+      "dalzhina": 24.751037,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 15,
+      "ime": "9-ти ДКЦ",
+      "shirina": 42.721284,
+      "dalzhina": 23.344485,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 16,
+      "ime": "Adella Clinic",
+      "shirina": 42.666839,
+      "dalzhina": 23.349984,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 17,
+      "ime": "Advance",
+      "shirina": 42.672635,
+      "dalzhina": 23.329562,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 18,
+      "ime": "Alexandra Health",
+      "shirina": 42.698872,
+      "dalzhina": 23.327194,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 19,
+      "ime": "Allure",
+      "shirina": 42.670997,
+      "dalzhina": 23.314408,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 20,
+      "ime": "AmeriMed",
+      "shirina": 42.626205,
+      "dalzhina": 23.373997,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 21,
+      "ime": "AmeriMed",
+      "shirina": 42.635542,
+      "dalzhina": 23.369301,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 22,
+      "ime": "Anadolu здравен информационен център",
+      "shirina": 42.6602,
+      "dalzhina": 23.348602,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 23,
+      "ime": "Art clinic",
+      "shirina": 42.675467,
+      "dalzhina": 23.291622,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 24,
+      "ime": "Balance Clinic",
+      "shirina": 42.655071,
+      "dalzhina": 23.288854,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 25,
+      "ime": "Beta Clinic + Mediko",
+      "shirina": 42.698807,
+      "dalzhina": 23.313717,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 26,
+      "ime": "Blocks",
+      "shirina": 42.658317,
+      "dalzhina": 23.316523,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 27,
+      "ime": "CMD Perfect",
+      "shirina": 42.686628,
+      "dalzhina": 23.301233,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 28,
+      "ime": "Cibalab",
+      "shirina": 42.691253,
+      "dalzhina": 23.294188,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 29,
+      "ime": "Contour Clinic",
+      "shirina": 42.668088,
+      "dalzhina": 23.312921,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 30,
+      "ime": "Cornea dry eye center",
+      "shirina": 42.670305,
+      "dalzhina": 23.328807,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 31,
+      "ime": "Crystal Skin Clinic",
+      "shirina": 42.643129,
+      "dalzhina": 23.334106,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 32,
+      "ime": "Derma Vita",
+      "shirina": 42.648994,
+      "dalzhina": 23.317342,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 33,
+      "ime": "Doc",
+      "shirina": 42.67202,
+      "dalzhina": 23.288832,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 34,
+      "ime": "Dr. Somi",
+      "shirina": 42.694411,
+      "dalzhina": 23.318706,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 35,
+      "ime": "Excelsior",
+      "shirina": 42.670249,
+      "dalzhina": 23.314875,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 36,
+      "ime": "FutureMeds",
+      "shirina": 42.7023,
+      "dalzhina": 23.326065,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 37,
+      "ime": "Health & Safety",
+      "shirina": 42.671816,
+      "dalzhina": 23.313025,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 38,
+      "ime": "I Областен диспансер за пневмофтизиатрични заболявания",
+      "shirina": 42.702772,
+      "dalzhina": 23.324445,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 39,
+      "ime": "Ibn-i sina",
+      "shirina": 43.226123,
+      "dalzhina": 27.94931,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 40,
+      "ime": "K Dent Clinic",
+      "shirina": 43.217045,
+      "dalzhina": 27.919014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 41,
+      "ime": "Mclinic",
+      "shirina": 42.665025,
+      "dalzhina": 23.274579,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 42,
+      "ime": "Medefect",
+      "shirina": 42.675557,
+      "dalzhina": 23.308942,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 43,
+      "ime": "Medic One",
+      "shirina": 42.668084,
+      "dalzhina": 23.313076,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 44,
+      "ime": "Medicare+",
+      "shirina": 42.66662,
+      "dalzhina": 23.28112,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 45,
+      "ime": "Muse",
+      "shirina": 42.667997,
+      "dalzhina": 23.313349,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 46,
+      "ime": "NAD+ Center",
+      "shirina": 42.688926,
+      "dalzhina": 23.318011,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 47,
+      "ime": "O.S.C.A.R",
+      "shirina": 42.648013,
+      "dalzhina": 23.314631,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 48,
+      "ime": "Oчна болница Бургас",
+      "shirina": 42.518594,
+      "dalzhina": 27.457252,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 49,
+      "ime": "Oчна клиника „Св. Николай Чудотворец“",
+      "shirina": 42.511879,
+      "dalzhina": 27.45794,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 50,
+      "ime": "Preventica",
+      "shirina": 42.622278,
+      "dalzhina": 23.374323,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 51,
+      "ime": "Rehab Lab",
+      "shirina": 42.652925,
+      "dalzhina": 23.31784,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 52,
+      "ime": "Resbiomed",
+      "shirina": 42.698963,
+      "dalzhina": 23.301945,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 53,
+      "ime": "Sana medic",
+      "shirina": 43.199049,
+      "dalzhina": 27.913538,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 54,
+      "ime": "Spectro",
+      "shirina": 42.666994,
+      "dalzhina": 23.347017,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 55,
+      "ime": "Synexus",
+      "shirina": 42.655578,
+      "dalzhina": 23.372889,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 56,
+      "ime": "VIP Health",
+      "shirina": 42.648612,
+      "dalzhina": 23.314738,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 57,
+      "ime": "Vein Center",
+      "shirina": 42.684848,
+      "dalzhina": 23.328678,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 58,
+      "ime": "Vivid",
+      "shirina": 42.656009,
+      "dalzhina": 23.294522,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 59,
+      "ime": "Vogue",
+      "shirina": 42.673493,
+      "dalzhina": 23.320384,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 60,
+      "ime": "Zarev Clinic",
+      "shirina": 42.63036,
+      "dalzhina": 23.333739,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 61,
+      "ime": "Zdravna Slusjba",
+      "shirina": 41.630917,
+      "dalzhina": 25.431485,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 62,
+      "ime": "bahçeci fertility",
+      "shirina": 42.659774,
+      "dalzhina": 23.317909,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 63,
+      "ime": "neo vitro",
+      "shirina": 42.662728,
+      "dalzhina": 23.286822,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 64,
+      "ime": "АГ Надежда",
+      "shirina": 42.680235,
+      "dalzhina": 23.285599,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 65,
+      "ime": "Авио Поликлиника",
+      "shirina": 42.687336,
+      "dalzhina": 23.402396,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 66,
+      "ime": "Аджъбадем клиник",
+      "shirina": 43.212382,
+      "dalzhina": 27.904096,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 67,
+      "ime": "Академия",
+      "shirina": 42.680838,
+      "dalzhina": 23.301408,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 68,
+      "ime": "Акта Медика",
+      "shirina": 43.020711,
+      "dalzhina": 25.094362,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 69,
+      "ime": "Амбулатория \"Авет\"",
+      "shirina": 42.638846,
+      "dalzhina": 23.385485,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 70,
+      "ime": "Апекс Център",
+      "shirina": 43.421434,
+      "dalzhina": 23.221271,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 71,
+      "ime": "Афродита",
+      "shirina": 42.156519,
+      "dalzhina": 24.746591,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 72,
+      "ime": "Аюрведа център",
+      "shirina": 42.696338,
+      "dalzhina": 23.339548,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 73,
+      "ime": "Балнеолечебница",
+      "shirina": 41.822702,
+      "dalzhina": 23.566156,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 74,
+      "ime": "Балнеолечебница",
+      "shirina": 42.462727,
+      "dalzhina": 24.131903,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 75,
+      "ime": "Балнеологичен комплекс",
+      "shirina": 42.598412,
+      "dalzhina": 25.214426,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 76,
+      "ime": "Биогенерация",
+      "shirina": 42.657857,
+      "dalzhina": 23.313901,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 77,
+      "ime": "Блок \"нервни болести\"",
+      "shirina": 42.682841,
+      "dalzhina": 23.308391,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 78,
+      "ime": "Блок вътрешни болести",
+      "shirina": 42.685394,
+      "dalzhina": 23.308146,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 79,
+      "ime": "Вежен Медикал",
+      "shirina": 42.6757,
+      "dalzhina": 23.32057,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 80,
+      "ime": "Велаклиник",
+      "shirina": 42.678905,
+      "dalzhina": 23.324074,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 81,
+      "ime": "Вива Феникс",
+      "shirina": 43.569512,
+      "dalzhina": 27.827177,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 82,
+      "ime": "Вита Нова",
+      "shirina": 43.219382,
+      "dalzhina": 27.927348,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 83,
+      "ime": "Втори хирургичен блок",
+      "shirina": 42.686139,
+      "dalzhina": 23.310766,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 84,
+      "ime": "Гален 21",
+      "shirina": 42.6726,
+      "dalzhina": 23.283272,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 85,
+      "ime": "Гея Мед",
+      "shirina": 42.686949,
+      "dalzhina": 23.302549,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 86,
+      "ime": "Градска кардиология",
+      "shirina": 42.675372,
+      "dalzhina": 23.316854,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 87,
+      "ime": "Градска поликлиника",
+      "shirina": 42.661405,
+      "dalzhina": 25.791806,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 88,
+      "ime": "Д-р Желязков",
+      "shirina": 42.665653,
+      "dalzhina": 23.292144,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 89,
+      "ime": "Д-р Калчев",
+      "shirina": 42.653948,
+      "dalzhina": 23.338563,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 90,
+      "ime": "Д-р Крайчева",
+      "shirina": 43.204671,
+      "dalzhina": 27.917296,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 91,
+      "ime": "Д-р Станов",
+      "shirina": 42.666825,
+      "dalzhina": 23.280587,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 92,
+      "ime": "ДКЦ",
+      "shirina": 41.765504,
+      "dalzhina": 26.204206,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 93,
+      "ime": "ДКЦ \"Сано\"",
+      "shirina": 42.43106,
+      "dalzhina": 25.63312,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 94,
+      "ime": "ДКЦ - 12",
+      "shirina": 42.725279,
+      "dalzhina": 23.25476,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 95,
+      "ime": "ДКЦ 1",
+      "shirina": 42.483113,
+      "dalzhina": 26.516579,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 96,
+      "ime": "ДКЦ 1",
+      "shirina": 42.504142,
+      "dalzhina": 24.187538,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 97,
+      "ime": "ДКЦ 14",
+      "shirina": 42.678872,
+      "dalzhina": 23.31161,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 98,
+      "ime": "ДКЦ 3",
+      "shirina": 43.420793,
+      "dalzhina": 24.598994,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 99,
+      "ime": "ДКЦ VIII София",
+      "shirina": 42.729958,
+      "dalzhina": 23.294175,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 100,
+      "ime": "ДКЦ І – Габрово ЕООД - II база",
+      "shirina": 42.889593,
+      "dalzhina": 25.321519,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 101,
+      "ime": "ДКЦ Пълмед",
+      "shirina": 42.137554,
+      "dalzhina": 24.716861,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 102,
+      "ime": "ДКЦ Св. Врач и Св. Св. Кузма и Дамян",
+      "shirina": 42.67997,
+      "dalzhina": 23.310534,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 103,
+      "ime": "ДКЦ Свети Георги Победоносец (Военна болница)",
+      "shirina": 42.507718,
+      "dalzhina": 27.467587,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 104,
+      "ime": "ДКЦ Филипополис",
+      "shirina": 42.137751,
+      "dalzhina": 24.73961,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 105,
+      "ime": "ДКЦ Черни връх",
+      "shirina": 42.672756,
+      "dalzhina": 23.320909,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 106,
+      "ime": "ДКЦ1",
+      "shirina": 42.67543,
+      "dalzhina": 26.324504,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 107,
+      "ime": "Да Винчи",
+      "shirina": 42.707978,
+      "dalzhina": 23.308311,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 108,
+      "ime": "Даймонд Клиник",
+      "shirina": 41.930358,
+      "dalzhina": 25.558959,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 109,
+      "ime": "Дарина Терапи",
+      "shirina": 42.703173,
+      "dalzhina": 23.30435,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 110,
+      "ime": "Денас център",
+      "shirina": 43.220819,
+      "dalzhina": 27.920678,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 111,
+      "ime": "Дженерали Закрила Медико-дентален център",
+      "shirina": 42.699163,
+      "dalzhina": 23.337237,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 112,
+      "ime": "Диагностичен консултативен център 1",
+      "shirina": 42.859744,
+      "dalzhina": 25.322633,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 113,
+      "ime": "Диагностичен център Сърце",
+      "shirina": 42.680267,
+      "dalzhina": 23.301907,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 114,
+      "ime": "Диагностично консултативен център-1",
+      "shirina": 42.513976,
+      "dalzhina": 27.464899,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 115,
+      "ime": "Диагностично консултативен център-2",
+      "shirina": 42.501395,
+      "dalzhina": 27.476542,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 116,
+      "ime": "Диализен Център “Дружба”",
+      "shirina": 42.668629,
+      "dalzhina": 23.402205,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 117,
+      "ime": "Диалмед",
+      "shirina": 42.665595,
+      "dalzhina": 23.270132,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 118,
+      "ime": "Димитров",
+      "shirina": 42.658675,
+      "dalzhina": 23.377014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 119,
+      "ime": "Евита",
+      "shirina": 42.679489,
+      "dalzhina": 23.285546,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 120,
+      "ime": "Европа",
+      "shirina": 42.689487,
+      "dalzhina": 23.30686,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 121,
+      "ime": "Еквита",
+      "shirina": 43.207017,
+      "dalzhina": 27.924491,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 122,
+      "ime": "За детето",
+      "shirina": 42.680141,
+      "dalzhina": 23.328044,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 123,
+      "ime": "Здраве за всеки",
+      "shirina": 42.654924,
+      "dalzhina": 23.372145,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 124,
+      "ime": "Здравен център",
+      "shirina": 43.572328,
+      "dalzhina": 24.279862,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 125,
+      "ime": "Здравна къща",
+      "shirina": 42.659295,
+      "dalzhina": 27.719838,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 126,
+      "ime": "Здравна служба",
+      "shirina": 41.586951,
+      "dalzhina": 24.026044,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 127,
+      "ime": "Здравна служба",
+      "shirina": 41.737667,
+      "dalzhina": 24.022372,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 128,
+      "ime": "Здравна служба",
+      "shirina": 42.149659,
+      "dalzhina": 24.415869,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 129,
+      "ime": "Здравна служба",
+      "shirina": 43.239935,
+      "dalzhina": 28.016148,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 130,
+      "ime": "Здравна служба",
+      "shirina": 43.429365,
+      "dalzhina": 23.957123,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 131,
+      "ime": "Здравна служба",
+      "shirina": 43.672661,
+      "dalzhina": 26.91883,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 132,
+      "ime": "Здравна служба Ново село",
+      "shirina": 42.104842,
+      "dalzhina": 24.480295,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 133,
+      "ime": "Зрение и слух",
+      "shirina": 42.657194,
+      "dalzhina": 23.313192,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 134,
+      "ime": "Ирисова диагностика",
+      "shirina": 43.420385,
+      "dalzhina": 24.599507,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 135,
+      "ime": "КЛИНИКА РОСЕН МАНОЛОВ",
+      "shirina": 42.679539,
+      "dalzhina": 26.318364,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 136,
+      "ime": "Кабинет по хомеопатия",
+      "shirina": 42.70786,
+      "dalzhina": 23.309022,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 137,
+      "ime": "Калимат",
+      "shirina": 42.671876,
+      "dalzhina": 23.285843,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 138,
+      "ime": "Кардио клиника Европейска Здравна Грижа",
+      "shirina": 42.49423,
+      "dalzhina": 27.461019,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 139,
+      "ime": "Кардиологичен медицински център",
+      "shirina": 43.079667,
+      "dalzhina": 25.617497,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 140,
+      "ime": "Каса медикал",
+      "shirina": 42.686608,
+      "dalzhina": 23.301197,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 141,
+      "ime": "Кинов",
+      "shirina": 42.699735,
+      "dalzhina": 23.342661,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 142,
+      "ime": "Китайски център",
+      "shirina": 43.207699,
+      "dalzhina": 27.920336,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 143,
+      "ime": "Клиника ЛАЙФ Благоевград",
+      "shirina": 42.017775,
+      "dalzhina": 23.084555,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 144,
+      "ime": "Клиника Медидерма",
+      "shirina": 42.151637,
+      "dalzhina": 24.73564,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 145,
+      "ime": "Клиника Торакс-2",
+      "shirina": 42.686832,
+      "dalzhina": 23.322014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 146,
+      "ime": "Клиника д-р Котов",
+      "shirina": 42.679101,
+      "dalzhina": 26.314945,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 147,
+      "ime": "Клиника по Детска Психиатрия",
+      "shirina": 42.683278,
+      "dalzhina": 23.307291,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 148,
+      "ime": "Клиника по дерматология и венерология",
+      "shirina": 42.682405,
+      "dalzhina": 23.309497,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 149,
+      "ime": "Клиника по детски болести",
+      "shirina": 42.676372,
+      "dalzhina": 26.324413,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 150,
+      "ime": "Клиника по детски болести",
+      "shirina": 42.682884,
+      "dalzhina": 23.311101,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 151,
+      "ime": "Клиника по професионални заболявания",
+      "shirina": 42.681442,
+      "dalzhina": 23.299539,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 152,
+      "ime": "Клиника по ревматология",
+      "shirina": 42.681348,
+      "dalzhina": 23.299308,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 153,
+      "ime": "Клиника по хемодиализа към МБАЛ „Св. Марина“",
+      "shirina": 43.228583,
+      "dalzhina": 27.935583,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 154,
+      "ime": "Кожно-венерологичен диспансер",
+      "shirina": 43.846747,
+      "dalzhina": 25.969957,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 155,
+      "ime": "Конвекс",
+      "shirina": 42.664713,
+      "dalzhina": 23.28454,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 156,
+      "ime": "Кристал",
+      "shirina": 42.701007,
+      "dalzhina": 23.292559,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 157,
+      "ime": "Курортна поликлиника",
+      "shirina": 42.030338,
+      "dalzhina": 23.992919,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 158,
+      "ime": "Лаборатория Синево",
+      "shirina": 42.426094,
+      "dalzhina": 25.613382,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 159,
+      "ime": "Лаборатория Спектър",
+      "shirina": 42.673648,
+      "dalzhina": 23.34915,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 160,
+      "ime": "Лазерна терапия",
+      "shirina": 42.154739,
+      "dalzhina": 24.741903,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 161,
+      "ime": "Лайв 4 лайв",
+      "shirina": 42.657147,
+      "dalzhina": 23.346237,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 162,
+      "ime": "Лейзър Мед",
+      "shirina": 42.700669,
+      "dalzhina": 23.326585,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 163,
+      "ime": "Лоземед",
+      "shirina": 42.671796,
+      "dalzhina": 23.313011,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 164,
+      "ime": "Люлин МЕД",
+      "shirina": 42.715076,
+      "dalzhina": 23.258126,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 165,
+      "ime": "Люлин МЕД",
+      "shirina": 42.715286,
+      "dalzhina": 23.256967,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 166,
+      "ime": "МЕДИКО - ДЕНТАЛЕН ЦЕНТЪР РУБИДЕНТ МЕДИКА",
+      "shirina": 42.026383,
+      "dalzhina": 23.097217,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 167,
+      "ime": "МЦ \"Европейска здравна грижа\"",
+      "shirina": 42.486877,
+      "dalzhina": 26.515973,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 168,
+      "ime": "МЦ \"Екзакта Медика\"",
+      "shirina": 43.415304,
+      "dalzhina": 24.626407,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 169,
+      "ime": "МЦ Алпико",
+      "shirina": 43.198258,
+      "dalzhina": 23.559551,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 170,
+      "ime": "МЦ Аргомедика",
+      "shirina": 42.700147,
+      "dalzhina": 23.335174,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 171,
+      "ime": "МЦ Артромедика",
+      "shirina": 42.672965,
+      "dalzhina": 23.282415,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 172,
+      "ime": "МЦ Дългопол",
+      "shirina": 43.049494,
+      "dalzhina": 27.346156,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 173,
+      "ime": "МЦ Епика",
+      "shirina": 42.708702,
+      "dalzhina": 23.287735,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 174,
+      "ime": "МЦ Интермедика",
+      "shirina": 42.676856,
+      "dalzhina": 23.29294,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 175,
+      "ime": "МЦ Леонардо Да Винчи",
+      "shirina": 43.412501,
+      "dalzhina": 24.629969,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 176,
+      "ime": "МЦ Люлин мед",
+      "shirina": 42.685605,
+      "dalzhina": 23.30479,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 177,
+      "ime": "МЦ Медикус",
+      "shirina": 42.681525,
+      "dalzhina": 26.323386,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 178,
+      "ime": "МЦ Миркович",
+      "shirina": 42.676308,
+      "dalzhina": 26.325265,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 179,
+      "ime": "МЦ Надежда",
+      "shirina": 43.213255,
+      "dalzhina": 27.919078,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 180,
+      "ime": "МЦ Санита",
+      "shirina": 43.22965,
+      "dalzhina": 27.884154,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 181,
+      "ime": "МЦ Сигмамед",
+      "shirina": 42.667106,
+      "dalzhina": 23.354527,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 182,
+      "ime": "МЦ Сърдечно-съдови заболявания",
+      "shirina": 42.708697,
+      "dalzhina": 23.287751,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 183,
+      "ime": "МЦ Хубча",
+      "shirina": 42.674431,
+      "dalzhina": 23.28441,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 184,
+      "ime": "МЦ по детски болести",
+      "shirina": 42.683892,
+      "dalzhina": 23.299899,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 185,
+      "ime": "МЦ “Света Марина”",
+      "shirina": 43.409922,
+      "dalzhina": 24.620892,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 186,
+      "ime": "Марковс",
+      "shirina": 42.668824,
+      "dalzhina": 23.299944,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 187,
+      "ime": "Медико-дентален център \"Евровита\"",
+      "shirina": 42.638041,
+      "dalzhina": 23.319156,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 188,
+      "ime": "Медико-дентален център \"Орион\"",
+      "shirina": 42.717806,
+      "dalzhina": 23.276466,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 189,
+      "ime": "Медикус Алфа",
+      "shirina": 42.140233,
+      "dalzhina": 24.746747,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 190,
+      "ime": "Медицински Център \"Дозис\"",
+      "shirina": 43.075682,
+      "dalzhina": 25.623388,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 191,
+      "ime": "Медицински Център 1",
+      "shirina": 42.491229,
+      "dalzhina": 27.470215,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 192,
+      "ime": "Медицински Център 1",
+      "shirina": 43.10435,
+      "dalzhina": 25.713302,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 193,
+      "ime": "Медицински център",
+      "shirina": 41.523403,
+      "dalzhina": 23.391673,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 194,
+      "ime": "Медицински център",
+      "shirina": 41.528343,
+      "dalzhina": 26.130428,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 195,
+      "ime": "Медицински център",
+      "shirina": 41.636855,
+      "dalzhina": 25.859526,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 196,
+      "ime": "Медицински център",
+      "shirina": 42.050978,
+      "dalzhina": 25.58799,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 197,
+      "ime": "Медицински център",
+      "shirina": 42.127898,
+      "dalzhina": 23.132742,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 198,
+      "ime": "Медицински център",
+      "shirina": 42.270549,
+      "dalzhina": 23.60632,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 199,
+      "ime": "Медицински център",
+      "shirina": 42.610326,
+      "dalzhina": 24.979486,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 200,
+      "ime": "Медицински център",
+      "shirina": 42.677094,
+      "dalzhina": 23.238249,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 201,
+      "ime": "Медицински център",
+      "shirina": 42.781533,
+      "dalzhina": 23.49981,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 202,
+      "ime": "Медицински център",
+      "shirina": 42.801681,
+      "dalzhina": 23.421849,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 203,
+      "ime": "Медицински център",
+      "shirina": 42.974222,
+      "dalzhina": 25.47101,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 204,
+      "ime": "Медицински център",
+      "shirina": 42.979103,
+      "dalzhina": 27.319964,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 205,
+      "ime": "Медицински център",
+      "shirina": 43.274459,
+      "dalzhina": 28.041149,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 206,
+      "ime": "Медицински център",
+      "shirina": 43.28987,
+      "dalzhina": 28.038898,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 207,
+      "ime": "Медицински център",
+      "shirina": 43.365861,
+      "dalzhina": 25.134435,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 208,
+      "ime": "Медицински център \"Оксилайф\"",
+      "shirina": 42.65965,
+      "dalzhina": 23.28783,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 209,
+      "ime": "Медицински център \"Св. Лука\"",
+      "shirina": 42.428597,
+      "dalzhina": 25.639013,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 210,
+      "ime": "Медицински център \"Св.Николай Чудотворец\"",
+      "shirina": 42.736448,
+      "dalzhina": 23.293732,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 211,
+      "ime": "Медицински център \"Селена-Л\"",
+      "shirina": 42.427283,
+      "dalzhina": 25.620234,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 212,
+      "ime": "Медицински център \"Фемина\"",
+      "shirina": 42.703376,
+      "dalzhina": 23.330471,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 213,
+      "ime": "Медицински център 1",
+      "shirina": 42.485589,
+      "dalzhina": 26.012233,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 214,
+      "ime": "Медицински център 2",
+      "shirina": 42.520488,
+      "dalzhina": 27.444499,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 215,
+      "ime": "Медицински център 3",
+      "shirina": 42.463366,
+      "dalzhina": 27.421065,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 216,
+      "ime": "Медицински център Алфамедикс",
+      "shirina": 42.686741,
+      "dalzhina": 23.25516,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 217,
+      "ime": "Медицински център Вършец",
+      "shirina": 43.191876,
+      "dalzhina": 23.286645,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 218,
+      "ime": "Медицински център Гургулят",
+      "shirina": 42.687758,
+      "dalzhina": 23.32269,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 219,
+      "ime": "Медицински център Д-р Емил Илиев",
+      "shirina": 42.679616,
+      "dalzhina": 23.28792,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 220,
+      "ime": "Медицински център Доверие СБТ",
+      "shirina": 42.665244,
+      "dalzhina": 23.356242,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 221,
+      "ime": "Медицински център Лора",
+      "shirina": 42.67678,
+      "dalzhina": 23.288621,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 222,
+      "ime": "Медицински център Лора",
+      "shirina": 42.696092,
+      "dalzhina": 23.319885,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 223,
+      "ime": "Медицински център Прослав",
+      "shirina": 42.125567,
+      "dalzhina": 24.685744,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 224,
+      "ime": "Медицински център Св. Георги",
+      "shirina": 42.684232,
+      "dalzhina": 23.303059,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 225,
+      "ime": "Медицински център Св. Пантелеймон",
+      "shirina": 42.696746,
+      "dalzhina": 23.320266,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 226,
+      "ime": "Медицински център Света Анна 2 Стара Загора",
+      "shirina": 42.428532,
+      "dalzhina": 25.624466,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 227,
+      "ime": "Медицински център Света Анна Стара Загора",
+      "shirina": 42.42891,
+      "dalzhina": 25.626567,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 228,
+      "ime": "Медицински център Фокус 5",
+      "shirina": 42.685973,
+      "dalzhina": 23.312392,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 229,
+      "ime": "Медицински център „Асклепий“",
+      "shirina": 42.265833,
+      "dalzhina": 23.116817,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 230,
+      "ime": "Медицински център „Б§С Медикълс“",
+      "shirina": 41.574159,
+      "dalzhina": 24.718318,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 231,
+      "ime": "Медицински център\"Св. Димитър\"",
+      "shirina": 42.646831,
+      "dalzhina": 23.271114,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 232,
+      "ime": "Медкрос",
+      "shirina": 42.699001,
+      "dalzhina": 23.33251,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 233,
+      "ime": "Месембрия",
+      "shirina": 42.687936,
+      "dalzhina": 23.352011,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 234,
+      "ime": "Младост-мед",
+      "shirina": 42.654985,
+      "dalzhina": 23.372234,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 235,
+      "ime": "Многопрофилна ветеринарна клиника България",
+      "shirina": 42.675705,
+      "dalzhina": 23.234364,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 236,
+      "ime": "НЕО Клиник",
+      "shirina": 42.677189,
+      "dalzhina": 23.302653,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 237,
+      "ime": "Надежда клиникал",
+      "shirina": 42.657791,
+      "dalzhina": 23.313753,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 238,
+      "ime": "Невровита",
+      "shirina": 42.686867,
+      "dalzhina": 23.298455,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 239,
+      "ime": "Новата минерална баня",
+      "shirina": 43.190537,
+      "dalzhina": 23.285948,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 240,
+      "ime": "ОЗОК",
+      "shirina": 42.673427,
+      "dalzhina": 23.358987,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 241,
+      "ime": "Обществена баня",
+      "shirina": 42.479618,
+      "dalzhina": 24.820141,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 242,
+      "ime": "Общинска поликлиника Кюстендил",
+      "shirina": 42.280825,
+      "dalzhina": 22.691983,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 243,
+      "ime": "ОртоМедика",
+      "shirina": 42.702141,
+      "dalzhina": 23.321923,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 244,
+      "ime": "Отделение по кожни болести",
+      "shirina": 42.674604,
+      "dalzhina": 26.32645,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 245,
+      "ime": "Отделение по лъчетерапия",
+      "shirina": 43.197945,
+      "dalzhina": 23.559685,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 246,
+      "ime": "Очна Клиника \"Луксор\"",
+      "shirina": 42.158727,
+      "dalzhina": 24.739594,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 247,
+      "ime": "Очна клиника \"VISION\"",
+      "shirina": 42.658078,
+      "dalzhina": 23.392611,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 248,
+      "ime": "Очна клиника Vision",
+      "shirina": 42.688504,
+      "dalzhina": 23.305306,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 249,
+      "ime": "Очна клиника Ден",
+      "shirina": 42.700581,
+      "dalzhina": 23.333764,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 250,
+      "ime": "Пиротска",
+      "shirina": 42.70107,
+      "dalzhina": 23.312566,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 251,
+      "ime": "Плазмамед Клиник",
+      "shirina": 43.202406,
+      "dalzhina": 27.905196,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 252,
+      "ime": "Пластична хирургия Нефертити",
+      "shirina": 42.675532,
+      "dalzhina": 23.295596,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 253,
+      "ime": "Поликлиника",
+      "shirina": 42.478097,
+      "dalzhina": 22.748918,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 254,
+      "ime": "Поликлиника",
+      "shirina": 42.502448,
+      "dalzhina": 24.706867,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 255,
+      "ime": "Поликлиника",
+      "shirina": 42.562461,
+      "dalzhina": 27.638026,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 256,
+      "ime": "Поликлиника",
+      "shirina": 42.841055,
+      "dalzhina": 24.914721,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 257,
+      "ime": "Поликлиника",
+      "shirina": 43.357307,
+      "dalzhina": 24.145326,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 258,
+      "ime": "Поликлиника",
+      "shirina": 43.426789,
+      "dalzhina": 23.75386,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 259,
+      "ime": "Поликлиника \"Младост\"",
+      "shirina": 42.654073,
+      "dalzhina": 23.377817,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 260,
+      "ime": "Поликлиника \"Статус\"",
+      "shirina": 42.423987,
+      "dalzhina": 25.634881,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 261,
+      "ime": "Поликлиника Бургас",
+      "shirina": 42.509792,
+      "dalzhina": 27.466967,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 262,
+      "ime": "Поликлиника ВВМИ",
+      "shirina": 42.684631,
+      "dalzhina": 23.304612,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 263,
+      "ime": "Поликниника",
+      "shirina": 42.26549,
+      "dalzhina": 23.117679,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 264,
+      "ime": "Полимед",
+      "shirina": 42.700077,
+      "dalzhina": 23.30703,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 265,
+      "ime": "Психологическа Лаборатория",
+      "shirina": 43.847262,
+      "dalzhina": 25.945743,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 266,
+      "ime": "Първа детска консултативна клиника",
+      "shirina": 42.666609,
+      "dalzhina": 23.289938,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 267,
+      "ime": "Първи хирургичен блок",
+      "shirina": 42.685112,
+      "dalzhina": 23.312135,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 268,
+      "ime": "РЦ Трансфузионна хематология - Варна",
+      "shirina": 43.214592,
+      "dalzhina": 27.918054,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 269,
+      "ime": "Рамус",
+      "shirina": 42.663852,
+      "dalzhina": 23.343759,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 270,
+      "ime": "Рентген",
+      "shirina": 42.672852,
+      "dalzhina": 23.283765,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 271,
+      "ime": "Рехабилитация",
+      "shirina": 42.685076,
+      "dalzhina": 23.307228,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 272,
+      "ime": "Русев ЕООД",
+      "shirina": 43.213507,
+      "dalzhina": 27.916831,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 273,
+      "ime": "СБАЛ по кардиология",
+      "shirina": 43.213541,
+      "dalzhina": 27.91808,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 274,
+      "ime": "СИАС-ДКЦ",
+      "shirina": 42.884209,
+      "dalzhina": 25.311391,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 275,
+      "ime": "СХБАЛ Св. Йоан Рилски",
+      "shirina": 42.483878,
+      "dalzhina": 26.496397,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 276,
+      "ime": "Саздановски Медика Нова",
+      "shirina": 42.686822,
+      "dalzhina": 23.330824,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 277,
+      "ime": "Сана ООД",
+      "shirina": 42.652405,
+      "dalzhina": 23.346948,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 278,
+      "ime": "Санус 2000",
+      "shirina": 42.684571,
+      "dalzhina": 23.300565,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 279,
+      "ime": "Сара",
+      "shirina": 42.703544,
+      "dalzhina": 23.312202,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 280,
+      "ime": "Св. св. Константин и Елена",
+      "shirina": 42.140866,
+      "dalzhina": 24.739132,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 281,
+      "ime": "Света Петка",
+      "shirina": 42.648012,
+      "dalzhina": 23.314586,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 282,
+      "ime": "Софиямед 2",
+      "shirina": 42.665374,
+      "dalzhina": 23.370489,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 283,
+      "ime": "Спешен център",
+      "shirina": 43.21375,
+      "dalzhina": 27.916105,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 284,
+      "ime": "Спешен център",
+      "shirina": 43.831054,
+      "dalzhina": 25.971157,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 285,
+      "ime": "Спешна помощ",
+      "shirina": 41.646235,
+      "dalzhina": 25.376064,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 286,
+      "ime": "Спортмед център",
+      "shirina": 42.679572,
+      "dalzhina": 23.288022,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 287,
+      "ime": "Стар АГ Комплекс-Русе",
+      "shirina": 43.835616,
+      "dalzhina": 25.952957,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 288,
+      "ime": "Старата минерална баня",
+      "shirina": 43.190778,
+      "dalzhina": 23.286382,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 289,
+      "ime": "Стоматологична клиника",
+      "shirina": 43.135501,
+      "dalzhina": 24.716068,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 290,
+      "ime": "Сърце и здраве",
+      "shirina": 42.669475,
+      "dalzhina": 23.316384,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 291,
+      "ime": "Сърце и мозък",
+      "shirina": 42.680652,
+      "dalzhina": 23.325737,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 292,
+      "ime": "ТЕЛК",
+      "shirina": 43.215282,
+      "dalzhina": 27.917301,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 293,
+      "ime": "Торакс 1",
+      "shirina": 42.697851,
+      "dalzhina": 23.313162,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 294,
+      "ime": "Транспортен Диагситичноконсултативен Център",
+      "shirina": 43.847212,
+      "dalzhina": 25.945846,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 295,
+      "ime": "Траснпортна Болница",
+      "shirina": 42.491026,
+      "dalzhina": 27.471018,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 296,
+      "ime": "Трета поликлиника",
+      "shirina": 42.423835,
+      "dalzhina": 25.635455,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 297,
+      "ime": "Уромед",
+      "shirina": 43.411432,
+      "dalzhina": 24.615091,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 298,
+      "ime": "ФИЗИО-МЕД",
+      "shirina": 42.676324,
+      "dalzhina": 23.28575,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 299,
+      "ime": "ФСМП",
+      "shirina": 42.348265,
+      "dalzhina": 25.077097,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 300,
+      "ime": "Физио-Мед",
+      "shirina": 42.668325,
+      "dalzhina": 23.29942,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 301,
+      "ime": "Физиомед",
+      "shirina": 43.416104,
+      "dalzhina": 24.615014,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 302,
+      "ime": "Флоренция",
+      "shirina": 42.672548,
+      "dalzhina": 23.320122,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 303,
+      "ime": "ХИРОН",
+      "shirina": 41.933058,
+      "dalzhina": 25.559336,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 304,
+      "ime": "Хемус",
+      "shirina": 42.678738,
+      "dalzhina": 23.322476,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 305,
+      "ime": "Хирон",
+      "shirina": 42.697694,
+      "dalzhina": 23.317359,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 306,
+      "ime": "Хоризонт",
+      "shirina": 42.674003,
+      "dalzhina": 23.313403,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 307,
+      "ime": "Хоспис Дар",
+      "shirina": 42.728987,
+      "dalzhina": 23.301614,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 308,
+      "ime": "ЦМИ.ТПЦ",
+      "shirina": 43.846508,
+      "dalzhina": 25.955904,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 309,
+      "ime": "ЦСМП Полски Тръмбеш",
+      "shirina": 43.370321,
+      "dalzhina": 25.635121,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 310,
+      "ime": "Царица Елеонора",
+      "shirina": 42.673877,
+      "dalzhina": 23.282841,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 311,
+      "ime": "Център Психично здраве",
+      "shirina": 43.194513,
+      "dalzhina": 23.555888,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 312,
+      "ime": "Център за Спешна Медицинска Помощ",
+      "shirina": 43.402678,
+      "dalzhina": 23.234519,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 313,
+      "ime": "Център за психично здраве",
+      "shirina": 43.198038,
+      "dalzhina": 23.559094,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 314,
+      "ime": "Център по кардиология",
+      "shirina": 42.67635,
+      "dalzhina": 26.323775,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 315,
+      "ime": "Център по физикална терапия и естетична медицина Sofsun",
+      "shirina": 42.691859,
+      "dalzhina": 23.321539,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 316,
+      "ime": "Център по физиотерапия и рехабилитация",
+      "shirina": 42.684952,
+      "dalzhina": 23.307171,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 317,
+      "ime": "Център по хемодиализа",
+      "shirina": 42.676207,
+      "dalzhina": 26.323944,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 318,
+      "ime": "Частна клиника Европа",
+      "shirina": 43.21025,
+      "dalzhina": 27.908871,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 319,
+      "ime": "Частна поликлиника Медива",
+      "shirina": 42.71418,
+      "dalzhina": 23.254708,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    },
+    {
+      "id": 320,
+      "ime": "изоставена Болница",
+      "shirina": 42.83017,
+      "dalzhina": 25.300251,
+      "osm_klyuch": "amenity",
+      "osm_stoynost": "clinic",
+      "osm_klas": "amenity=clinic"
+    }
+  ],
+  "meta": {
+    "title": "Клиники в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Клиники в България — 320 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `amenity=clinic`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 320 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Клиники в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Клиники в България (OpenStreetMap) — 320 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 320 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

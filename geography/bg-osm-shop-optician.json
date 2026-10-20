@@ -1,0 +1,2023 @@
+{
+  "id": "bg-osm-shop-optician",
+  "name": "Оптики в България (OpenStreetMap)",
+  "title": "Оптики в България (OpenStreetMap)",
+  "description": "Оптики в България — 218 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=optician`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 218,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "Alexander optik",
+      "shirina": 42.68988,
+      "dalzhina": 23.324429,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 2,
+      "ime": "Beneview",
+      "shirina": 42.678495,
+      "dalzhina": 23.292105,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 3,
+      "ime": "Beper",
+      "shirina": 43.08446,
+      "dalzhina": 25.6343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 4,
+      "ime": "Bonev Optics",
+      "shirina": 42.660084,
+      "dalzhina": 23.244778,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 5,
+      "ime": "Bright",
+      "shirina": 42.146752,
+      "dalzhina": 24.726433,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 6,
+      "ime": "City Optik",
+      "shirina": 43.419789,
+      "dalzhina": 24.612803,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 7,
+      "ime": "Clandestino",
+      "shirina": 42.6921,
+      "dalzhina": 23.329145,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 8,
+      "ime": "Cooptics",
+      "shirina": 42.70061,
+      "dalzhina": 23.333745,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 9,
+      "ime": "Dip",
+      "shirina": 42.135992,
+      "dalzhina": 24.741656,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 10,
+      "ime": "Dream Optic",
+      "shirina": 42.688492,
+      "dalzhina": 23.326187,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 11,
+      "ime": "Eldi",
+      "shirina": 42.495293,
+      "dalzhina": 27.471507,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 12,
+      "ime": "Eurooptic",
+      "shirina": 42.691239,
+      "dalzhina": 23.329857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 13,
+      "ime": "Eurooptik",
+      "shirina": 42.696361,
+      "dalzhina": 23.31992,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 14,
+      "ime": "Exess",
+      "shirina": 42.491726,
+      "dalzhina": 27.473395,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 15,
+      "ime": "Eye Q",
+      "shirina": 42.632978,
+      "dalzhina": 23.373549,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 16,
+      "ime": "Eyezone",
+      "shirina": 42.658992,
+      "dalzhina": 23.34737,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 17,
+      "ime": "Family",
+      "shirina": 42.667251,
+      "dalzhina": 23.278228,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 18,
+      "ime": "Fos Optic",
+      "shirina": 42.689865,
+      "dalzhina": 23.313751,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 19,
+      "ime": "Fox",
+      "shirina": 42.697941,
+      "dalzhina": 23.329792,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 20,
+      "ime": "Fox Optics",
+      "shirina": 42.691883,
+      "dalzhina": 23.325857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 21,
+      "ime": "Fox Optics",
+      "shirina": 42.715061,
+      "dalzhina": 23.249319,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 22,
+      "ime": "Fox optics",
+      "shirina": 42.697891,
+      "dalzhina": 23.312891,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 23,
+      "ime": "General optics",
+      "shirina": 42.652126,
+      "dalzhina": 23.344922,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 24,
+      "ime": "Graffity",
+      "shirina": 43.204665,
+      "dalzhina": 27.915085,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 25,
+      "ime": "Grand G Optics Zeiss Center",
+      "shirina": 42.146934,
+      "dalzhina": 24.748111,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 26,
+      "ime": "Grand Optics",
+      "shirina": 42.658467,
+      "dalzhina": 23.315248,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 27,
+      "ime": "Grand Optics",
+      "shirina": 42.660194,
+      "dalzhina": 23.383145,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 28,
+      "ime": "Grand Optics",
+      "shirina": 42.701191,
+      "dalzhina": 23.322515,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 29,
+      "ime": "Grand Optics",
+      "shirina": 43.203118,
+      "dalzhina": 27.91535,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 30,
+      "ime": "Grand Optics Super Outlet",
+      "shirina": 42.69699,
+      "dalzhina": 23.31873,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 31,
+      "ime": "Heliomat",
+      "shirina": 42.499631,
+      "dalzhina": 27.476064,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 32,
+      "ime": "Joy",
+      "shirina": 42.660944,
+      "dalzhina": 23.383135,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 33,
+      "ime": "Joy",
+      "shirina": 42.665381,
+      "dalzhina": 23.289501,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 34,
+      "ime": "Joy",
+      "shirina": 42.675447,
+      "dalzhina": 23.359139,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 35,
+      "ime": "Joy",
+      "shirina": 42.67805,
+      "dalzhina": 23.286094,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 36,
+      "ime": "Joy",
+      "shirina": 42.682828,
+      "dalzhina": 23.267574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 37,
+      "ime": "Joy",
+      "shirina": 42.688025,
+      "dalzhina": 23.329245,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 38,
+      "ime": "Joy",
+      "shirina": 42.689136,
+      "dalzhina": 23.319256,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 39,
+      "ime": "Joy",
+      "shirina": 42.71141,
+      "dalzhina": 23.302376,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 40,
+      "ime": "Joy",
+      "shirina": 42.735747,
+      "dalzhina": 23.291824,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 41,
+      "ime": "Joy",
+      "shirina": 43.419788,
+      "dalzhina": 24.612481,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 42,
+      "ime": "Joy Optics",
+      "shirina": 42.670609,
+      "dalzhina": 23.273024,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 43,
+      "ime": "Joy/Kid Optics",
+      "shirina": 42.686011,
+      "dalzhina": 23.311886,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 44,
+      "ime": "Leonardo",
+      "shirina": 42.147132,
+      "dalzhina": 24.748307,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 45,
+      "ime": "Leonardo",
+      "shirina": 42.689123,
+      "dalzhina": 23.327604,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 46,
+      "ime": "Leonardo",
+      "shirina": 43.084094,
+      "dalzhina": 25.63427,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 47,
+      "ime": "Leonardo",
+      "shirina": 43.20325,
+      "dalzhina": 27.91437,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 48,
+      "ime": "Leonardo",
+      "shirina": 43.203499,
+      "dalzhina": 27.91726,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 49,
+      "ime": "Leonardo",
+      "shirina": 43.204151,
+      "dalzhina": 27.91755,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 50,
+      "ime": "Lia optics",
+      "shirina": 42.696342,
+      "dalzhina": 23.340676,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 51,
+      "ime": "Loox",
+      "shirina": 42.689055,
+      "dalzhina": 23.319933,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 52,
+      "ime": "Mac",
+      "shirina": 42.660518,
+      "dalzhina": 23.382482,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 53,
+      "ime": "Madrid",
+      "shirina": 42.699986,
+      "dalzhina": 23.317819,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 54,
+      "ime": "Magic optic",
+      "shirina": 42.70697,
+      "dalzhina": 23.303181,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 55,
+      "ime": "MyGlasses optics",
+      "shirina": 43.217147,
+      "dalzhina": 27.916459,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 56,
+      "ime": "Myopis",
+      "shirina": 42.685574,
+      "dalzhina": 23.312419,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 57,
+      "ime": "Nice optics",
+      "shirina": 42.692863,
+      "dalzhina": 23.319705,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 58,
+      "ime": "Nova Optics",
+      "shirina": 42.676027,
+      "dalzhina": 23.287757,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 59,
+      "ime": "OS Eyewear Group",
+      "shirina": 42.697306,
+      "dalzhina": 23.318887,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 60,
+      "ime": "Ochichki",
+      "shirina": 42.687263,
+      "dalzhina": 23.317165,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 61,
+      "ime": "Ochila",
+      "shirina": 42.688508,
+      "dalzhina": 23.254728,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 62,
+      "ime": "Ochila®",
+      "shirina": 42.692368,
+      "dalzhina": 23.320249,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 63,
+      "ime": "Onyx optic",
+      "shirina": 42.693559,
+      "dalzhina": 23.33694,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 64,
+      "ime": "Optic",
+      "shirina": 43.223248,
+      "dalzhina": 27.929559,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 65,
+      "ime": "Optic House",
+      "shirina": 42.135866,
+      "dalzhina": 24.790059,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 66,
+      "ime": "Optic Life",
+      "shirina": 42.151094,
+      "dalzhina": 24.748559,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 67,
+      "ime": "Optic Nova",
+      "shirina": 42.49373,
+      "dalzhina": 27.474557,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 68,
+      "ime": "Optic Time",
+      "shirina": 43.084744,
+      "dalzhina": 25.635582,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 69,
+      "ime": "Opticlasa",
+      "shirina": 41.970627,
+      "dalzhina": 25.55903,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 70,
+      "ime": "Opticlasa",
+      "shirina": 42.14544,
+      "dalzhina": 24.749016,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 71,
+      "ime": "Opticlasa",
+      "shirina": 42.14708,
+      "dalzhina": 24.748078,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 72,
+      "ime": "Opticlasa",
+      "shirina": 42.156244,
+      "dalzhina": 24.744101,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 73,
+      "ime": "Opticlasa",
+      "shirina": 42.182508,
+      "dalzhina": 24.345329,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 74,
+      "ime": "Opticlasa",
+      "shirina": 42.602252,
+      "dalzhina": 23.047162,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 75,
+      "ime": "Opticlasa",
+      "shirina": 42.657335,
+      "dalzhina": 23.315106,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 76,
+      "ime": "Opticlasa",
+      "shirina": 42.660554,
+      "dalzhina": 23.382557,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 77,
+      "ime": "Opticlasa",
+      "shirina": 42.664178,
+      "dalzhina": 23.288306,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 78,
+      "ime": "Opticlasa",
+      "shirina": 42.678816,
+      "dalzhina": 23.320601,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 79,
+      "ime": "Opticlasa",
+      "shirina": 42.679887,
+      "dalzhina": 23.367954,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 80,
+      "ime": "Opticlasa",
+      "shirina": 42.689884,
+      "dalzhina": 23.279122,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 81,
+      "ime": "Opticlasa",
+      "shirina": 42.691453,
+      "dalzhina": 23.325263,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 82,
+      "ime": "Opticlasa",
+      "shirina": 42.691679,
+      "dalzhina": 23.319572,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 83,
+      "ime": "Opticlasa",
+      "shirina": 42.692833,
+      "dalzhina": 23.31852,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 84,
+      "ime": "Opticlasa",
+      "shirina": 42.694944,
+      "dalzhina": 23.321319,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 85,
+      "ime": "Opticlasa",
+      "shirina": 42.695593,
+      "dalzhina": 23.323891,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 86,
+      "ime": "Opticlasa",
+      "shirina": 43.203909,
+      "dalzhina": 27.917325,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 87,
+      "ime": "Opticlasa outlet",
+      "shirina": 42.688317,
+      "dalzhina": 23.328859,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 88,
+      "ime": "Opticraft",
+      "shirina": 42.704666,
+      "dalzhina": 23.31762,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 89,
+      "ime": "Optilens",
+      "shirina": 42.693242,
+      "dalzhina": 23.344083,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 90,
+      "ime": "Optilux",
+      "shirina": 42.136596,
+      "dalzhina": 24.742717,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 91,
+      "ime": "Optimax",
+      "shirina": 42.68864,
+      "dalzhina": 23.305073,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 92,
+      "ime": "Optissimo",
+      "shirina": 42.694443,
+      "dalzhina": 23.320901,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 93,
+      "ime": "Optista",
+      "shirina": 42.691729,
+      "dalzhina": 23.322032,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 94,
+      "ime": "Optiv",
+      "shirina": 42.42506,
+      "dalzhina": 25.629998,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 95,
+      "ime": "Optodent",
+      "shirina": 42.494929,
+      "dalzhina": 24.187949,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 96,
+      "ime": "Panda optic",
+      "shirina": 42.669568,
+      "dalzhina": 23.277486,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 97,
+      "ime": "Pensne",
+      "shirina": 42.138081,
+      "dalzhina": 24.7393,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 98,
+      "ime": "Polar place",
+      "shirina": 43.203392,
+      "dalzhina": 27.916407,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 99,
+      "ime": "Polaroid",
+      "shirina": 42.663241,
+      "dalzhina": 27.716756,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 100,
+      "ime": "PromoOptic",
+      "shirina": 42.657536,
+      "dalzhina": 23.314777,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 101,
+      "ime": "Promooptic",
+      "shirina": 42.699123,
+      "dalzhina": 23.337426,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 102,
+      "ime": "Raynoff",
+      "shirina": 43.206418,
+      "dalzhina": 27.910739,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 103,
+      "ime": "Salt me",
+      "shirina": 42.660719,
+      "dalzhina": 23.382162,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 104,
+      "ime": "Sandy 97",
+      "shirina": 42.689341,
+      "dalzhina": 23.321857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 105,
+      "ime": "Sky Optic",
+      "shirina": 41.834349,
+      "dalzhina": 23.485289,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 106,
+      "ime": "Sky Optic",
+      "shirina": 42.610847,
+      "dalzhina": 23.040247,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 107,
+      "ime": "Sky Optic",
+      "shirina": 42.692117,
+      "dalzhina": 23.319759,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 108,
+      "ime": "Sky Optic",
+      "shirina": 42.697015,
+      "dalzhina": 23.318574,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 109,
+      "ime": "Sky optic",
+      "shirina": 41.564504,
+      "dalzhina": 23.279873,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 110,
+      "ime": "Storex",
+      "shirina": 42.148496,
+      "dalzhina": 24.747055,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 111,
+      "ime": "Sun Sport",
+      "shirina": 42.688653,
+      "dalzhina": 23.318635,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 112,
+      "ime": "Sunlux",
+      "shirina": 42.423217,
+      "dalzhina": 27.694233,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 113,
+      "ime": "Sunny Days",
+      "shirina": 42.702554,
+      "dalzhina": 23.31992,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 114,
+      "ime": "Super 9000",
+      "shirina": 42.688521,
+      "dalzhina": 23.32583,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 115,
+      "ime": "Trend",
+      "shirina": 42.663284,
+      "dalzhina": 23.344221,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 116,
+      "ime": "UniGlass",
+      "shirina": 43.568732,
+      "dalzhina": 27.826231,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 117,
+      "ime": "Vered",
+      "shirina": 42.682761,
+      "dalzhina": 23.327707,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 118,
+      "ime": "Vidi",
+      "shirina": 41.572132,
+      "dalzhina": 24.715302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 119,
+      "ime": "Vidi",
+      "shirina": 42.648441,
+      "dalzhina": 23.378768,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 120,
+      "ime": "Vidi",
+      "shirina": 42.68331,
+      "dalzhina": 23.297302,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 121,
+      "ime": "Visio Optics",
+      "shirina": 42.697468,
+      "dalzhina": 23.317787,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 122,
+      "ime": "Vision Express",
+      "shirina": 42.148604,
+      "dalzhina": 24.748582,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 123,
+      "ime": "Vision Express",
+      "shirina": 42.624493,
+      "dalzhina": 23.351593,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 124,
+      "ime": "Vision Express",
+      "shirina": 42.657641,
+      "dalzhina": 23.314274,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 125,
+      "ime": "Vision Express",
+      "shirina": 43.271396,
+      "dalzhina": 26.921827,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 126,
+      "ime": "Vista",
+      "shirina": 42.425817,
+      "dalzhina": 25.628894,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 127,
+      "ime": "Vizar 2000",
+      "shirina": 42.690088,
+      "dalzhina": 23.322266,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 128,
+      "ime": "Your Optics",
+      "shirina": 42.706849,
+      "dalzhina": 23.307698,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 129,
+      "ime": "Z-Optic",
+      "shirina": 42.650884,
+      "dalzhina": 23.341962,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 130,
+      "ime": "Zeiss Vision Center",
+      "shirina": 42.657186,
+      "dalzhina": 23.315216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 131,
+      "ime": "Zeiss Vision Center",
+      "shirina": 42.694683,
+      "dalzhina": 23.323383,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 132,
+      "ime": "b-Optic",
+      "shirina": 43.217781,
+      "dalzhina": 27.924597,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 133,
+      "ime": "optika.bg",
+      "shirina": 42.692637,
+      "dalzhina": 23.323697,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 134,
+      "ime": "Анелия",
+      "shirina": 42.684977,
+      "dalzhina": 23.302355,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 135,
+      "ime": "Арм Оптикс",
+      "shirina": 42.725588,
+      "dalzhina": 23.255238,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 136,
+      "ime": "Арт оптик",
+      "shirina": 42.144069,
+      "dalzhina": 24.748287,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 137,
+      "ime": "Астра оптик",
+      "shirina": 42.694535,
+      "dalzhina": 23.322972,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 138,
+      "ime": "Берлинер Оптик",
+      "shirina": 42.694153,
+      "dalzhina": 23.318356,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 139,
+      "ime": "Билоптик",
+      "shirina": 42.701972,
+      "dalzhina": 23.321857,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 140,
+      "ime": "Бор",
+      "shirina": 42.483034,
+      "dalzhina": 26.5129,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 141,
+      "ime": "Вая",
+      "shirina": 42.907738,
+      "dalzhina": 23.794116,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 142,
+      "ime": "Верина",
+      "shirina": 42.692146,
+      "dalzhina": 23.356155,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 143,
+      "ime": "Вероника",
+      "shirina": 42.688975,
+      "dalzhina": 23.321316,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 144,
+      "ime": "Види",
+      "shirina": 42.708675,
+      "dalzhina": 23.45867,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 145,
+      "ime": "Виста",
+      "shirina": 42.428775,
+      "dalzhina": 25.633379,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 146,
+      "ime": "Д-р Лесински",
+      "shirina": 42.148455,
+      "dalzhina": 24.734143,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 147,
+      "ime": "ДИП",
+      "shirina": 42.146841,
+      "dalzhina": 24.754734,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 148,
+      "ime": "Дейзи",
+      "shirina": 42.67082,
+      "dalzhina": 23.25835,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 149,
+      "ime": "Дейзи",
+      "shirina": 42.672767,
+      "dalzhina": 23.299273,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 150,
+      "ime": "Десимона",
+      "shirina": 42.708101,
+      "dalzhina": 23.314449,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 151,
+      "ime": "Елди",
+      "shirina": 42.698325,
+      "dalzhina": 23.332829,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 152,
+      "ime": "Елцаис",
+      "shirina": 42.698372,
+      "dalzhina": 23.314836,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 153,
+      "ime": "Ефект оптик",
+      "shirina": 42.699786,
+      "dalzhina": 23.317894,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 154,
+      "ime": "Иисус",
+      "shirina": 42.676423,
+      "dalzhina": 23.306966,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 155,
+      "ime": "Иисус",
+      "shirina": 42.701092,
+      "dalzhina": 23.316552,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 156,
+      "ime": "Иисус",
+      "shirina": 42.707439,
+      "dalzhina": 23.318198,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 157,
+      "ime": "Ирен",
+      "shirina": 42.149461,
+      "dalzhina": 24.748043,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 158,
+      "ime": "Камполи",
+      "shirina": 42.650314,
+      "dalzhina": 23.379933,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 159,
+      "ime": "Катя '92",
+      "shirina": 42.693672,
+      "dalzhina": 23.321343,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 160,
+      "ime": "Коала оптик",
+      "shirina": 42.673297,
+      "dalzhina": 23.353509,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 161,
+      "ime": "Кристал",
+      "shirina": 43.226766,
+      "dalzhina": 25.961262,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 162,
+      "ime": "Кристал 93",
+      "shirina": 42.14262,
+      "dalzhina": 24.744908,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 163,
+      "ime": "Крос",
+      "shirina": 42.655456,
+      "dalzhina": 23.398625,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 164,
+      "ime": "Лара Оптик",
+      "shirina": 42.559851,
+      "dalzhina": 27.638554,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 165,
+      "ime": "Леонардо",
+      "shirina": 42.690527,
+      "dalzhina": 23.319257,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 166,
+      "ime": "Лили-11",
+      "shirina": 42.680409,
+      "dalzhina": 23.331799,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 167,
+      "ime": "Лукс оптикс",
+      "shirina": 42.67311,
+      "dalzhina": 23.324708,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 168,
+      "ime": "Мадрид",
+      "shirina": 42.698356,
+      "dalzhina": 23.333153,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 169,
+      "ime": "Маркри",
+      "shirina": 42.149117,
+      "dalzhina": 24.745158,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 170,
+      "ime": "Милена & син",
+      "shirina": 42.888174,
+      "dalzhina": 24.712706,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 171,
+      "ime": "Михова",
+      "shirina": 43.211975,
+      "dalzhina": 27.917435,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 172,
+      "ime": "Наталия",
+      "shirina": 42.690997,
+      "dalzhina": 23.325667,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 173,
+      "ime": "Нели",
+      "shirina": 42.690869,
+      "dalzhina": 23.314132,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 174,
+      "ime": "Олимп",
+      "shirina": 42.190283,
+      "dalzhina": 24.333581,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 175,
+      "ime": "Оприка",
+      "shirina": 43.433495,
+      "dalzhina": 28.338318,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 176,
+      "ime": "Оптик 2Н",
+      "shirina": 42.710436,
+      "dalzhina": 23.313711,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 177,
+      "ime": "Оптика",
+      "shirina": 43.20418,
+      "dalzhina": 27.918629,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 178,
+      "ime": "Оптика \"Д-р Неделчева\"",
+      "shirina": 43.571971,
+      "dalzhina": 27.828081,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 179,
+      "ime": "Оптика 2000",
+      "shirina": 42.14103,
+      "dalzhina": 24.732546,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 180,
+      "ime": "Оптика Astral",
+      "shirina": 41.644618,
+      "dalzhina": 25.373062,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 181,
+      "ime": "Оптика Vision",
+      "shirina": 41.932895,
+      "dalzhina": 25.556265,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 182,
+      "ime": "Оптика Горас 2",
+      "shirina": 43.847278,
+      "dalzhina": 25.950048,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 183,
+      "ime": "Оптика Грета",
+      "shirina": 42.677876,
+      "dalzhina": 26.320088,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 184,
+      "ime": "Оптика ЕЛЕНА",
+      "shirina": 42.191315,
+      "dalzhina": 24.334112,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 185,
+      "ime": "Оптика Емили",
+      "shirina": 42.678849,
+      "dalzhina": 26.320225,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 186,
+      "ime": "Оптика Катрин",
+      "shirina": 43.203137,
+      "dalzhina": 27.919505,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 187,
+      "ime": "Оптика Лилия Велико Търново",
+      "shirina": 43.07908,
+      "dalzhina": 25.603726,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 188,
+      "ime": "Оптика Маркс",
+      "shirina": 42.701325,
+      "dalzhina": 23.308964,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 189,
+      "ime": "Оптика Перфект",
+      "shirina": 42.150636,
+      "dalzhina": 24.749762,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 190,
+      "ime": "Оптика Солеооптик",
+      "shirina": 43.271222,
+      "dalzhina": 26.929201,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 191,
+      "ime": "Оптика Съни Оптикс",
+      "shirina": 42.708273,
+      "dalzhina": 23.287761,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 192,
+      "ime": "Оптика Тина",
+      "shirina": 43.212021,
+      "dalzhina": 27.925411,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 193,
+      "ime": "Оптика Шилдарова",
+      "shirina": 42.872482,
+      "dalzhina": 25.319455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 194,
+      "ime": "Оптика Шумен",
+      "shirina": 43.272187,
+      "dalzhina": 26.921356,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 195,
+      "ime": "Оптики Леонардо",
+      "shirina": 42.692912,
+      "dalzhina": 23.320441,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 196,
+      "ime": "Опто Арм",
+      "shirina": 42.670601,
+      "dalzhina": 23.320776,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 197,
+      "ime": "Оптостайл",
+      "shirina": 42.699809,
+      "dalzhina": 23.324548,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 198,
+      "ime": "Орфей",
+      "shirina": 42.690715,
+      "dalzhina": 23.310201,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 199,
+      "ime": "Очен медицински център д-р Голев",
+      "shirina": 41.933193,
+      "dalzhina": 25.553455,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 200,
+      "ime": "Очила",
+      "shirina": 42.677321,
+      "dalzhina": 23.289696,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 201,
+      "ime": "Полароид",
+      "shirina": 42.145609,
+      "dalzhina": 24.75011,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 202,
+      "ime": "Призма",
+      "shirina": 42.664713,
+      "dalzhina": 23.298356,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 203,
+      "ime": "Приятели",
+      "shirina": 42.691892,
+      "dalzhina": 23.311145,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 204,
+      "ime": "Прооптика",
+      "shirina": 42.670957,
+      "dalzhina": 23.274119,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 205,
+      "ime": "Радушеви",
+      "shirina": 43.230588,
+      "dalzhina": 27.879002,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 206,
+      "ime": "Рая",
+      "shirina": 42.665305,
+      "dalzhina": 23.272727,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 207,
+      "ime": "Рая",
+      "shirina": 43.205843,
+      "dalzhina": 27.910848,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 208,
+      "ime": "Реал",
+      "shirina": 42.145632,
+      "dalzhina": 24.755996,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 209,
+      "ime": "Св. Петка",
+      "shirina": 43.209855,
+      "dalzhina": 27.916085,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 210,
+      "ime": "Сентро",
+      "shirina": 42.698272,
+      "dalzhina": 23.321657,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 211,
+      "ime": "Сиопси",
+      "shirina": 42.151778,
+      "dalzhina": 24.746798,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 212,
+      "ime": "Ситара",
+      "shirina": 42.687794,
+      "dalzhina": 23.311173,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 213,
+      "ime": "Сити Оптика",
+      "shirina": 42.66243,
+      "dalzhina": 23.380195,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 214,
+      "ime": "Спектър",
+      "shirina": 42.701149,
+      "dalzhina": 23.316141,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 215,
+      "ime": "Стил",
+      "shirina": 42.144228,
+      "dalzhina": 24.754507,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 216,
+      "ime": "Фокус",
+      "shirina": 42.69033,
+      "dalzhina": 23.31994,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 217,
+      "ime": "Юниглас",
+      "shirina": 42.487868,
+      "dalzhina": 26.511277,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    },
+    {
+      "id": 218,
+      "ime": "спектър",
+      "shirina": 42.726087,
+      "dalzhina": 23.303216,
+      "osm_klyuch": "shop",
+      "osm_stoynost": "optician",
+      "osm_klas": "shop=optician"
+    }
+  ],
+  "meta": {
+    "title": "Оптики в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Оптики в България — 218 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `shop=optician`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 218 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Оптики в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Оптики в България (OpenStreetMap) — 218 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 218 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

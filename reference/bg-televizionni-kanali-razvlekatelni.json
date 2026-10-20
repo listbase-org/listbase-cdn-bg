@@ -1,0 +1,166 @@
+{
+  "id": "bg-televizionni-kanali-razvlekatelni",
+  "name": "Български телевизионни канали — развлекателни",
+  "title": "Български телевизионни канали — развлекателни",
+  "description": "Български телевизионни канали в категория 'entertainment' (развлекателни) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "78TV.bg",
+      "name": "7/8 TV",
+      "alt_names": "Седем-осми ТВ",
+      "network": "",
+      "owners": "Slavi Trifonov",
+      "country": "BG",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2019-11-04",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://sedemosmi.tv/"
+    },
+    {
+      "id": 2,
+      "channel_id": "DiscoveryChannel.bg",
+      "name": "Discovery Channel",
+      "alt_names": "Discovery Channel България",
+      "network": "",
+      "owners": "Warner Bros. Discovery Inc.",
+      "country": "BG",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 3,
+      "channel_id": "EuroFolkTV.bg",
+      "name": "EuroFolk TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "BG",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tv.eurofolk.com/en"
+    },
+    {
+      "id": 4,
+      "channel_id": "HomeOneTV.bg",
+      "name": "Home One TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "One Media Group LTD",
+      "country": "BG",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "2020-12-04",
+      "closed": "",
+      "replaced_by": "",
+      "website": ""
+    },
+    {
+      "id": 5,
+      "channel_id": "ThisisBulgariaHD.bg",
+      "name": "This is Bulgaria HD",
+      "alt_names": "",
+      "network": "",
+      "owners": "HD Chanel EOOD",
+      "country": "BG",
+      "categories": "entertainment",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://hd.traveltv.bg/"
+    }
+  ],
+  "meta": {
+    "title": "Български телевизионни канали — развлекателни - Безплатно изтегляне",
+    "description": "Български телевизионни канали в категория 'entertainment' (развлекателни) от отворения регистър iptv-org/database. Съдържа име на канала, алтернативни имена, мрежа, оператори, категории, дата на стартиране и официален уебсайт. Съдържа 5 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Български телевизионни канали — развлекателни | ListBase",
+    "seo_description": "Изтеглете Български телевизионни канали — развлекателни — 5 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 5 записа / 13 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

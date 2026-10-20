@@ -1,0 +1,106 @@
+{
+  "id": "bg-merni-edinitsi-frequency",
+  "name": "Мерни единици: frequency (4)",
+  "title": "Мерни единици: frequency (4)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'frequency'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "frequency-gigahertz",
+      "kategoriya": "frequency",
+      "nazvanie": "гигахерци",
+      "shablon_edinstveno": "{0} гигахерц",
+      "shablon_mnozhestveno": "{0} гигахерца",
+      "kratak_shablon": "{0} GHz",
+      "tesen_shablon": "{0} GHz"
+    },
+    {
+      "id": 2,
+      "unit_code": "frequency-hertz",
+      "kategoriya": "frequency",
+      "nazvanie": "херцове",
+      "shablon_edinstveno": "{0} херц",
+      "shablon_mnozhestveno": "{0} херца",
+      "kratak_shablon": "{0} Hz",
+      "tesen_shablon": "{0} Hz"
+    },
+    {
+      "id": 3,
+      "unit_code": "frequency-kilohertz",
+      "kategoriya": "frequency",
+      "nazvanie": "килохерци",
+      "shablon_edinstveno": "{0} килохерц",
+      "shablon_mnozhestveno": "{0} килохерца",
+      "kratak_shablon": "{0} kHz",
+      "tesen_shablon": "{0} kHz"
+    },
+    {
+      "id": 4,
+      "unit_code": "frequency-megahertz",
+      "kategoriya": "frequency",
+      "nazvanie": "мегахерци",
+      "shablon_edinstveno": "{0} мегахерц",
+      "shablon_mnozhestveno": "{0} мегахерца",
+      "kratak_shablon": "{0} MHz",
+      "tesen_shablon": "{0} MHz"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: frequency (4) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'frequency'. Съдържа 4 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: frequency (4) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: frequency (4) — 4 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 4 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

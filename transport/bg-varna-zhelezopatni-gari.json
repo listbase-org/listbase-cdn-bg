@@ -1,0 +1,200 @@
+{
+  "id": "bg-varna-zhelezopatni-gari",
+  "name": "Железопътни гари — област Варна",
+  "title": "Железопътни гари — област Варна",
+  "description": "Железопътни гари и спирки в област Варна (Varna, код VAR) от trainline-eu/stations. 3 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "station_id",
+      "label": "Station Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "uic",
+      "label": "Uic",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "time_zone",
+      "label": "Time Zone",
+      "type": "string"
+    },
+    {
+      "key": "is_city",
+      "label": "Is City",
+      "type": "boolean"
+    },
+    {
+      "key": "is_main_station",
+      "label": "Is Main Station",
+      "type": "boolean"
+    },
+    {
+      "key": "is_airport",
+      "label": "Is Airport",
+      "type": "boolean"
+    },
+    {
+      "key": "is_suggestable",
+      "label": "Is Suggestable",
+      "type": "boolean"
+    },
+    {
+      "key": "parent_station_id",
+      "label": "Parent Station Id",
+      "type": "string"
+    },
+    {
+      "key": "info_en",
+      "label": "Info En",
+      "type": "string"
+    },
+    {
+      "key": "oblast_bg",
+      "label": "Oblast Bg",
+      "type": "string"
+    },
+    {
+      "key": "oblast_latin",
+      "label": "Oblast Latin",
+      "type": "string"
+    },
+    {
+      "key": "oblast_slug",
+      "label": "Oblast Slug",
+      "type": "string"
+    },
+    {
+      "key": "oblast_code",
+      "label": "Oblast Code",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_bg",
+      "label": "Nearest Settlement Bg",
+      "type": "string"
+    },
+    {
+      "key": "nearest_settlement_km",
+      "label": "Nearest Settlement Km",
+      "type": "number"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "station_id": 27860,
+      "name": "Varna",
+      "slug": "varna",
+      "uic": "5229030",
+      "latitude": 43.198411,
+      "longitude": 27.912297,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Варна",
+      "oblast_latin": "Varna",
+      "oblast_slug": "varna",
+      "oblast_code": "VAR",
+      "nearest_settlement_bg": "Варна",
+      "nearest_settlement_km": 0.71,
+      "country": "BG"
+    },
+    {
+      "id": 2,
+      "station_id": 34757,
+      "name": "Botevo",
+      "slug": "botevo",
+      "uic": "",
+      "latitude": 43.429192,
+      "longitude": 27.720252,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": false,
+      "is_suggestable": true,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Варна",
+      "oblast_latin": "Varna",
+      "oblast_slug": "varna",
+      "oblast_code": "VAR",
+      "nearest_settlement_bg": "Ботево",
+      "nearest_settlement_km": 0,
+      "country": "BG"
+    },
+    {
+      "id": 3,
+      "station_id": 35839,
+      "name": "Varna Airport",
+      "slug": "varna-airport",
+      "uic": "",
+      "latitude": 43.237526,
+      "longitude": 27.811074,
+      "time_zone": "Europe/Sofia",
+      "is_city": false,
+      "is_main_station": false,
+      "is_airport": true,
+      "is_suggestable": false,
+      "parent_station_id": "",
+      "info_en": "",
+      "oblast_bg": "Варна",
+      "oblast_latin": "Varna",
+      "oblast_slug": "varna",
+      "oblast_code": "VAR",
+      "nearest_settlement_bg": "Тополи",
+      "nearest_settlement_km": 2.409,
+      "country": "BG"
+    }
+  ],
+  "meta": {
+    "title": "Железопътни гари — област Варна - Безплатно изтегляне",
+    "description": "Железопътни гари и спирки в област Варна (Varna, код VAR) от trainline-eu/stations. 3 записа с UIC кодове, WGS84 координати, часова зона Europe/Sofia и флагове city / airport / suggestable. Областта е изведена по най-близкото населено място от вече курирания набор bg-naseleni-mesta-bglocations. Съдържа 3 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Железопътни гари — област Варна | ListBase",
+    "seo_description": "Изтеглете Железопътни гари — област Варна — 3 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 3 записа / 21 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "id": "bg-universiteti",
+  "name": "Bulgaria — Universities (университети)",
+  "title": "Bulgaria — Universities (университети)",
+  "description": "List of accredited universities and higher-education institutions in Bulgaria. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Bulgaria\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Angel Kanchev\" University of Ruse",
+      "slug": "uni-ruse",
+      "domain": "uni-ruse.bg",
+      "domains": "uni-ruse.bg",
+      "web_page": "https://www.uni-ruse.bg/en",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Economics \"Dimitur A. Tscenov\"",
+      "slug": "uni-svishtov",
+      "domain": "uni-svishtov.bg",
+      "domains": "uni-svishtov.bg",
+      "web_page": "http://www.uni-svishtov.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Music, Dance and Fine Arts",
+      "slug": "amti",
+      "domain": "amti.hit.bg",
+      "domains": "amti.hit.bg",
+      "web_page": "http://amti.hit.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural University of Plovdiv",
+      "slug": "au-plovdiv",
+      "domain": "au-plovdiv.bg",
+      "domains": "au-plovdiv.bg",
+      "web_page": "http://www.au-plovdiv.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "American University in Bulgaria",
+      "slug": "aubg",
+      "domain": "aubg.bg",
+      "domains": "aubg.bg",
+      "web_page": "http://www.aubg.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Bourgas Free University",
+      "slug": "bfu",
+      "domain": "bfu.bg",
+      "domains": "bfu.bg",
+      "web_page": "http://www.bfu.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Bourgas University \"Prof. Assen Zlatarov\"",
+      "slug": "btu",
+      "domain": "btu.bg",
+      "domains": "btu.bg",
+      "web_page": "http://www.btu.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "City University Programs in Bulgaria",
+      "slug": "cityu",
+      "domain": "cityu.bg",
+      "domains": "cityu.bg",
+      "web_page": "http://www.cityu.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "International University College",
+      "slug": "vumk",
+      "domain": "vumk.eu",
+      "domains": "vumk.eu",
+      "web_page": "http://www.vumk.eu/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Medical University of Sofia",
+      "slug": "mu-sofia",
+      "domain": "mu-sofia.bg",
+      "domains": "mu-sofia.bg",
+      "web_page": "http://www.mu-sofia.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Medical University Pleven",
+      "slug": "mu-pleven",
+      "domain": "mu-pleven.bg",
+      "domains": "mu-pleven.bg",
+      "web_page": "http://www.mu-pleven.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Medical University Plovdiv",
+      "slug": "meduniversity-plovdiv",
+      "domain": "meduniversity-plovdiv.bg",
+      "domains": "meduniversity-plovdiv.bg",
+      "web_page": "http://www.meduniversity-plovdiv.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Medical University Varna",
+      "slug": "mu-varna",
+      "domain": "mu-varna.bg",
+      "domains": "mu-varna.bg",
+      "web_page": "http://www.mu-varna.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Military University Shoumen",
+      "slug": "pv-ma",
+      "domain": "pv-ma.bg",
+      "domains": "pv-ma.bg",
+      "web_page": "http://www.pv-ma.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "National Academy for Theatre and Film Arts \"Krustju Sarafov\"",
+      "slug": "natfiz",
+      "domain": "natfiz.bg",
+      "domains": "natfiz.bg",
+      "web_page": "http://www.natfiz.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "National Academy of Arts",
+      "slug": "nha-bg",
+      "domain": "nha-bg.org",
+      "domains": "nha-bg.org",
+      "web_page": "http://www.nha-bg.org/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "National Academy of Music \"Pantcho Vladigerov\"",
+      "slug": "nma",
+      "domain": "nma.bg",
+      "domains": "nma.bg",
+      "web_page": "http://www.nma.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "National Sports Academy Sofia",
+      "slug": "nsa",
+      "domain": "nsa.bg",
+      "domains": "nsa.bg",
+      "web_page": "http://www.nsa.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "New Bulgarian University",
+      "slug": "nbu",
+      "domain": "nbu.bg",
+      "domains": "nbu.bg",
+      "web_page": "http://www.nbu.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Shoumen University \"Konstantin Preslavski\"",
+      "slug": "shu-bg",
+      "domain": "shu-bg.net",
+      "domains": "shu-bg.net",
+      "web_page": "http://www.shu-bg.net/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Sofia University \"St. Kliment Ohridski\"",
+      "slug": "uni-sofia",
+      "domain": "uni-sofia.bg",
+      "domains": "uni-sofia.bg",
+      "web_page": "http://www.uni-sofia.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "South-West University \"Neofit Rilski\"",
+      "slug": "swu",
+      "domain": "swu.bg",
+      "domains": "swu.bg",
+      "web_page": "http://www.swu.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Gabrovo",
+      "slug": "tugab",
+      "domain": "tugab.bg",
+      "domains": "tugab.bg",
+      "web_page": "http://www.tugab.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Sofia",
+      "slug": "tu-sofia",
+      "domain": "tu-sofia.bg",
+      "domains": "tu-sofia.bg",
+      "web_page": "http://www.tu-sofia.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Technical University of Varna",
+      "slug": "tu-varna",
+      "domain": "tu-varna.acad.bg",
+      "domains": "tu-varna.acad.bg",
+      "web_page": "http://www.tu-varna.acad.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Trakia University Stara Zagora",
+      "slug": "uni-sz",
+      "domain": "uni-sz.bg",
+      "domains": "uni-sz.bg",
+      "web_page": "http://www.uni-sz.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of Architecture, Civil Engineering and Geodesy",
+      "slug": "uacg",
+      "domain": "uacg.bg",
+      "domains": "uacg.bg",
+      "web_page": "http://www.uacg.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of Chemical Technology and Metallurgy",
+      "slug": "uctm",
+      "domain": "uctm.edu",
+      "domains": "uctm.edu",
+      "web_page": "http://www.uctm.edu/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of Economics Varna",
+      "slug": "ue-varna",
+      "domain": "ue-varna.bg",
+      "domains": "ue-varna.bg",
+      "web_page": "http://www.ue-varna.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of Food Technology",
+      "slug": "uft-plovdiv",
+      "domain": "uft-plovdiv.bg",
+      "domains": "uft-plovdiv.bg",
+      "web_page": "http://www.uft-plovdiv.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of Forestry Sofia",
+      "slug": "ltu",
+      "domain": "ltu.bg",
+      "domains": "ltu.bg",
+      "web_page": "http://www.ltu.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of Mining and Geology \"St. Ivan Rils\"",
+      "slug": "mgu",
+      "domain": "mgu.bg",
+      "domains": "mgu.bg",
+      "web_page": "http://www.mgu.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of National and World Economy",
+      "slug": "unwe",
+      "domain": "unwe.acad.bg",
+      "domains": "unwe.acad.bg",
+      "web_page": "http://www.unwe.acad.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of Plovdiv",
+      "slug": "uni-plovdiv",
+      "domain": "uni-plovdiv.bg",
+      "domains": "uni-plovdiv.bg",
+      "web_page": "http://www.uni-plovdiv.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "University of Rousse",
+      "slug": "ru",
+      "domain": "ru.acad.bg",
+      "domains": "ru.acad.bg",
+      "web_page": "http://www.ru.acad.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Varna Free University",
+      "slug": "vfu",
+      "domain": "vfu.bg",
+      "domains": "vfu.bg",
+      "web_page": "http://www.vfu.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    },
+    {
+      "name": "Veliko Turnovo University \"Cyril and Methodius\"",
+      "slug": "uni-vt",
+      "domain": "uni-vt.bg",
+      "domains": "uni-vt.bg",
+      "web_page": "http://www.uni-vt.bg/",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Bulgaria — Universities (университети) - Безплатно изтегляне",
+    "description": "List of accredited universities and higher-education institutions in Bulgaria. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Bulgaria\"). Съдържа 37 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Bulgaria — Universities (университети) | ListBase",
+    "seo_description": "Изтеглете Bulgaria — Universities (университети) — 37 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 37 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

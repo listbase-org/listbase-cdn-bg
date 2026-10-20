@@ -1,0 +1,186 @@
+{
+  "id": "bg-merni-edinitsi-pressure",
+  "name": "Мерни единици: pressure (12)",
+  "title": "Мерни единици: pressure (12)",
+  "description": "Мерни единици от CLDR bg-локала в категорията 'pressure'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "shablon_edinstveno",
+      "label": "Shablon Edinstveno",
+      "type": "string"
+    },
+    {
+      "key": "shablon_mnozhestveno",
+      "label": "Shablon Mnozhestveno",
+      "type": "string"
+    },
+    {
+      "key": "kratak_shablon",
+      "label": "Kratak Shablon",
+      "type": "string"
+    },
+    {
+      "key": "tesen_shablon",
+      "label": "Tesen Shablon",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "kategoriya": "pressure",
+      "nazvanie": "атмосфери",
+      "shablon_edinstveno": "{0} атмосфера",
+      "shablon_mnozhestveno": "{0} атмосфери",
+      "kratak_shablon": "{0} atm",
+      "tesen_shablon": "{0} atm"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "kategoriya": "pressure",
+      "nazvanie": "барове",
+      "shablon_edinstveno": "{0} бар",
+      "shablon_mnozhestveno": "{0} бара",
+      "kratak_shablon": "{0} bar",
+      "tesen_shablon": "{0} bar"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategoriya": "pressure",
+      "nazvanie": "gas E",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} gas E",
+      "kratak_shablon": "{0} gas E",
+      "tesen_shablon": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "kategoriya": "pressure",
+      "nazvanie": "хектопаскали",
+      "shablon_edinstveno": "{0} хектопаскал",
+      "shablon_mnozhestveno": "{0} хектопаскала",
+      "kratak_shablon": "{0} hPa",
+      "tesen_shablon": "{0} hPa"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "kategoriya": "pressure",
+      "nazvanie": "инчове живачен стълб",
+      "shablon_edinstveno": "{0} инч живачен стълб",
+      "shablon_mnozhestveno": "{0} инча живачен стълб",
+      "kratak_shablon": "{0} inHg",
+      "tesen_shablon": "{0} inHg"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "kategoriya": "pressure",
+      "nazvanie": "килопаскали",
+      "shablon_edinstveno": "{0} килопаскал",
+      "shablon_mnozhestveno": "{0} килопаскала",
+      "kratak_shablon": "{0} kPa",
+      "tesen_shablon": "{0} kPa"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "kategoriya": "pressure",
+      "nazvanie": "мегапаскали",
+      "shablon_edinstveno": "{0} мегапаскал",
+      "shablon_mnozhestveno": "{0} мегапаскала",
+      "kratak_shablon": "{0} MPa",
+      "tesen_shablon": "{0} MPa"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "kategoriya": "pressure",
+      "nazvanie": "милибари",
+      "shablon_edinstveno": "{0} милибар",
+      "shablon_mnozhestveno": "{0} милибара",
+      "kratak_shablon": "{0} mbar",
+      "tesen_shablon": "{0} mbar"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategoriya": "pressure",
+      "nazvanie": "милиметри живачен стълб",
+      "shablon_edinstveno": "{0} милиметър живачен стълб",
+      "shablon_mnozhestveno": "{0} милиметра живачен стълб",
+      "kratak_shablon": "{0} mmHg",
+      "tesen_shablon": "{0} mmHg"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "kategoriya": "pressure",
+      "nazvanie": "живачен стълб",
+      "shablon_edinstveno": "",
+      "shablon_mnozhestveno": "{0} Hg",
+      "kratak_shablon": "{0} Hg",
+      "tesen_shablon": "{0} Hg"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "kategoriya": "pressure",
+      "nazvanie": "паскали",
+      "shablon_edinstveno": "{0} паскал",
+      "shablon_mnozhestveno": "{0} паскала",
+      "kratak_shablon": "{0} Pa",
+      "tesen_shablon": "{0} Pa"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategoriya": "pressure",
+      "nazvanie": "фунтове на квадратен инч",
+      "shablon_edinstveno": "{0} фунт на квадратен инч",
+      "shablon_mnozhestveno": "{0} фунта на квадратен инч",
+      "kratak_shablon": "{0} psi",
+      "tesen_shablon": "{0} psi"
+    }
+  ],
+  "meta": {
+    "title": "Мерни единици: pressure (12) - Безплатно изтегляне",
+    "description": "Мерни единици от CLDR bg-локала в категорията 'pressure'. Съдържа 12 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Мерни единици: pressure (12) | ListBase",
+    "seo_description": "Изтеглете Мерни единици: pressure (12) — 12 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 12 записа / 8 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}

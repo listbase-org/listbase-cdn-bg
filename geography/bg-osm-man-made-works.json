@@ -1,0 +1,1699 @@
+{
+  "id": "bg-osm-man-made-works",
+  "name": "Заводи и производствени предприятия в България (OpenStreetMap)",
+  "title": "Заводи и производствени предприятия в България (OpenStreetMap)",
+  "description": "Заводи и производствени предприятия в България — 182 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `man_made=works`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 182,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "shirina",
+      "label": "Shirina",
+      "type": "number"
+    },
+    {
+      "key": "dalzhina",
+      "label": "Dalzhina",
+      "type": "number"
+    },
+    {
+      "key": "osm_klyuch",
+      "label": "Osm Klyuch",
+      "type": "string"
+    },
+    {
+      "key": "osm_stoynost",
+      "label": "Osm Stoynost",
+      "type": "string"
+    },
+    {
+      "key": "osm_klas",
+      "label": "Osm Klas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "ime": "\"Лейди София\" АД",
+      "shirina": 42.734389,
+      "dalzhina": 23.312595,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 2,
+      "ime": "\"Суперабразив\" - ЕООД",
+      "shirina": 42.661645,
+      "dalzhina": 25.385922,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 3,
+      "ime": "\"Цех за преработка и сушене на билки, плодове и зеленчуци\"",
+      "shirina": 43.386867,
+      "dalzhina": 26.616575,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 4,
+      "ime": "ALEX plast Ltd.",
+      "shirina": 43.198875,
+      "dalzhina": 23.577455,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 5,
+      "ime": "AREON",
+      "shirina": 43.224458,
+      "dalzhina": 27.87248,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 6,
+      "ime": "ATE Plast LTD",
+      "shirina": 42.43061,
+      "dalzhina": 25.68972,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 7,
+      "ime": "Anri - SV Ltd",
+      "shirina": 42.610118,
+      "dalzhina": 23.084098,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 8,
+      "ime": "Austrotherm",
+      "shirina": 42.654338,
+      "dalzhina": 23.456676,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 9,
+      "ime": "BBB",
+      "shirina": 42.922432,
+      "dalzhina": 23.854668,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 10,
+      "ime": "BIO AROMA",
+      "shirina": 43.600893,
+      "dalzhina": 25.88304,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 11,
+      "ime": "BOYKINOV OPTIX",
+      "shirina": 42.198649,
+      "dalzhina": 24.336599,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 12,
+      "ime": "BR",
+      "shirina": 42.65139,
+      "dalzhina": 23.458276,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 13,
+      "ime": "Balkancar Record",
+      "shirina": 42.114352,
+      "dalzhina": 24.760644,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 14,
+      "ime": "Balkancar Record",
+      "shirina": 42.114873,
+      "dalzhina": 24.760258,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 15,
+      "ime": "Blaser Group Gabrovo",
+      "shirina": 42.909269,
+      "dalzhina": 25.308311,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 16,
+      "ime": "Brilliant",
+      "shirina": 42.127524,
+      "dalzhina": 24.755689,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 17,
+      "ime": "Buwelco Zlatitrap",
+      "shirina": 42.118223,
+      "dalzhina": 24.638099,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 18,
+      "ime": "CHEH PLAST Ltd.",
+      "shirina": 43.197895,
+      "dalzhina": 23.577608,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 19,
+      "ime": "CHEMREMONTSTROY",
+      "shirina": 43.185811,
+      "dalzhina": 23.585888,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 20,
+      "ime": "Chimplast JSC",
+      "shirina": 43.188655,
+      "dalzhina": 23.581851,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 21,
+      "ime": "DOKA България",
+      "shirina": 42.678844,
+      "dalzhina": 23.469558,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 22,
+      "ime": "Daskalovi fashion",
+      "shirina": 43.405002,
+      "dalzhina": 25.874755,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 23,
+      "ime": "Dream Trans EOOD Garage",
+      "shirina": 42.766177,
+      "dalzhina": 23.20392,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 24,
+      "ime": "EMA OOD",
+      "shirina": 42.665424,
+      "dalzhina": 23.408572,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 25,
+      "ime": "EP # 4",
+      "shirina": 43.089096,
+      "dalzhina": 25.528383,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 26,
+      "ime": "EP #3",
+      "shirina": 43.087815,
+      "dalzhina": 25.530002,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 27,
+      "ime": "Eco fenix",
+      "shirina": 43.058683,
+      "dalzhina": 25.600772,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 28,
+      "ime": "Freyma's",
+      "shirina": 43.816915,
+      "dalzhina": 27.136943,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 29,
+      "ime": "Gebrüder Weiss",
+      "shirina": 42.680723,
+      "dalzhina": 23.578661,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 30,
+      "ime": "IVAILO AND SONS ENGINEERING LTD",
+      "shirina": 43.188022,
+      "dalzhina": 23.58353,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 31,
+      "ime": "Inex Agro",
+      "shirina": 42.993754,
+      "dalzhina": 25.36913,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 32,
+      "ime": "Korona M",
+      "shirina": 42.432684,
+      "dalzhina": 25.617905,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 33,
+      "ime": "LIEBHERR MARICA",
+      "shirina": 42.194897,
+      "dalzhina": 24.650975,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 34,
+      "ime": "Leader96",
+      "shirina": 42.178493,
+      "dalzhina": 24.854726,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 35,
+      "ime": "Liebherr",
+      "shirina": 42.197737,
+      "dalzhina": 24.648986,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 36,
+      "ime": "Lukoil",
+      "shirina": 42.177518,
+      "dalzhina": 24.735758,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 37,
+      "ime": "MOTIV Боядисване на MDF",
+      "shirina": 42.108195,
+      "dalzhina": 24.758432,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 38,
+      "ime": "Meta-Chem impex",
+      "shirina": 43.186315,
+      "dalzhina": 23.584776,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 39,
+      "ime": "Mira Ltd",
+      "shirina": 42.287883,
+      "dalzhina": 22.703802,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 40,
+      "ime": "New Himco AD",
+      "shirina": 43.186721,
+      "dalzhina": 23.583814,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 41,
+      "ime": "Serta",
+      "shirina": 41.62984,
+      "dalzhina": 25.375921,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 42,
+      "ime": "Simar-Ivaylo Naydenov",
+      "shirina": 43.205203,
+      "dalzhina": 23.567756,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 43,
+      "ime": "Smurfit Kappa Казанлък",
+      "shirina": 42.616387,
+      "dalzhina": 25.369395,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 44,
+      "ime": "Socrates 1 Ltd",
+      "shirina": 43.227504,
+      "dalzhina": 27.8566,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 45,
+      "ime": "Turbos Hoet",
+      "shirina": 42.738856,
+      "dalzhina": 23.200921,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 46,
+      "ime": "Vip Simers Group Ltd.",
+      "shirina": 43.197218,
+      "dalzhina": 23.578567,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 47,
+      "ime": "YTONG",
+      "shirina": 42.750037,
+      "dalzhina": 23.495461,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 48,
+      "ime": "Yotov Stone",
+      "shirina": 43.133118,
+      "dalzhina": 23.708826,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 49,
+      "ime": "АГБ-2004 ЕООД",
+      "shirina": 42.26494,
+      "dalzhina": 24.722336,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 50,
+      "ime": "Агрошанс Комерс",
+      "shirina": 42.667309,
+      "dalzhina": 26.984041,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 51,
+      "ime": "Амонал",
+      "shirina": 43.181927,
+      "dalzhina": 27.819357,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 52,
+      "ime": "Ариете",
+      "shirina": 42.170543,
+      "dalzhina": 24.328469,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 53,
+      "ime": "Асфалтова база",
+      "shirina": 42.519986,
+      "dalzhina": 24.82318,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 54,
+      "ime": "Асфалтова база",
+      "shirina": 42.640564,
+      "dalzhina": 25.797912,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 55,
+      "ime": "БИМЕКС ИНЖЕНЕРИНГ",
+      "shirina": 42.161231,
+      "dalzhina": 24.767886,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 56,
+      "ime": "БУЛГАРГРУП ИНЖЕНЕРИНГ",
+      "shirina": 42.706487,
+      "dalzhina": 23.307638,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 57,
+      "ime": "Белемо ЕООД",
+      "shirina": 44.031531,
+      "dalzhina": 22.880615,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 58,
+      "ime": "Бетонов възел",
+      "shirina": 42.58816,
+      "dalzhina": 25.204707,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 59,
+      "ime": "Бетонов възел",
+      "shirina": 43.035878,
+      "dalzhina": 24.101196,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 60,
+      "ime": "Бетонов център",
+      "shirina": 42.395363,
+      "dalzhina": 27.674083,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 61,
+      "ime": "Бижу",
+      "shirina": 42.14086,
+      "dalzhina": 24.537421,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 62,
+      "ime": "Бирена Фабрика Болярка",
+      "shirina": 43.071868,
+      "dalzhina": 25.629432,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 63,
+      "ime": "Булгарком",
+      "shirina": 42.67505,
+      "dalzhina": 23.592189,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 64,
+      "ime": "Булдеза ЕООД",
+      "shirina": 43.420368,
+      "dalzhina": 24.629944,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 65,
+      "ime": "Булпак ООД",
+      "shirina": 43.245455,
+      "dalzhina": 27.910053,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 66,
+      "ime": "ВЕЛПАК 21",
+      "shirina": 42.672473,
+      "dalzhina": 23.462384,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 67,
+      "ime": "Вес и Тон ООД",
+      "shirina": 42.900713,
+      "dalzhina": 23.784198,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 68,
+      "ime": "Винарска изба „Шато Ботево“",
+      "shirina": 42.362193,
+      "dalzhina": 26.349658,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 69,
+      "ime": "Винпром Сланянци",
+      "shirina": 42.765591,
+      "dalzhina": 26.737848,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 70,
+      "ime": "ГП Инвест",
+      "shirina": 42.706567,
+      "dalzhina": 23.316683,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 71,
+      "ime": "Галакс - М ЕООД",
+      "shirina": 43.142276,
+      "dalzhina": 24.688003,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 72,
+      "ime": "ДП \"Транспортно строителство и възстановяване",
+      "shirina": 42.109586,
+      "dalzhina": 24.783748,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 73,
+      "ime": "ДЪГА АПОСТОЛ",
+      "shirina": 43.57687,
+      "dalzhina": 27.823335,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 74,
+      "ime": "Домостроене Инженеринг",
+      "shirina": 43.209668,
+      "dalzhina": 27.838552,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 75,
+      "ime": "Дървообработващ цех",
+      "shirina": 42.571833,
+      "dalzhina": 25.195005,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 76,
+      "ime": "Държавен военно временен резерв",
+      "shirina": 42.408395,
+      "dalzhina": 24.776847,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 77,
+      "ime": "Евро Бул ООД",
+      "shirina": 43.25163,
+      "dalzhina": 27.819126,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 78,
+      "ime": "Евтини и луксозни сватбени покани Амор",
+      "shirina": 43.238652,
+      "dalzhina": 26.573513,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 79,
+      "ime": "Еднократна употреба",
+      "shirina": 43.044965,
+      "dalzhina": 25.648489,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 80,
+      "ime": "Електростарт АД",
+      "shirina": 43.203753,
+      "dalzhina": 23.293273,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 81,
+      "ime": "Елкабел",
+      "shirina": 42.738634,
+      "dalzhina": 23.242552,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 82,
+      "ime": "Елпром",
+      "shirina": 43.22099,
+      "dalzhina": 27.870104,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 83,
+      "ime": "ЖП депо Тулово",
+      "shirina": 42.567538,
+      "dalzhina": 25.556877,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 84,
+      "ime": "ЗЛАТЕН ПЛОД-П",
+      "shirina": 43.340985,
+      "dalzhina": 26.226225,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 85,
+      "ime": "ЗСК Стоманобетон ЕАД",
+      "shirina": 42.756931,
+      "dalzhina": 23.487825,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 86,
+      "ime": "Завод 2",
+      "shirina": 43.087602,
+      "dalzhina": 25.532549,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 87,
+      "ime": "Завод за захарни изделия",
+      "shirina": 43.132428,
+      "dalzhina": 25.705954,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 88,
+      "ime": "Завод за керамика Идеал Стандарт - Видима АД",
+      "shirina": 43.034451,
+      "dalzhina": 25.096347,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 89,
+      "ime": "Завод за металорежещи машини",
+      "shirina": 42.480475,
+      "dalzhina": 26.010555,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 90,
+      "ime": "Завод за опаковки",
+      "shirina": 43.134332,
+      "dalzhina": 25.706032,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 91,
+      "ime": "Завод за печатни платки",
+      "shirina": 43.833037,
+      "dalzhina": 25.971666,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 92,
+      "ime": "Завод за пружини",
+      "shirina": 42.662275,
+      "dalzhina": 25.388238,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 93,
+      "ime": "Завод за смесители Идеал Стандарт - Видима АД",
+      "shirina": 43.01715,
+      "dalzhina": 25.102136,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 94,
+      "ime": "Залива 47 СП",
+      "shirina": 43.227693,
+      "dalzhina": 27.938252,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 95,
+      "ime": "Изида ООД Цех за сладолед",
+      "shirina": 43.589233,
+      "dalzhina": 27.827411,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 96,
+      "ime": "Изкупуване и преработка на гъби",
+      "shirina": 42.51425,
+      "dalzhina": 24.185584,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 97,
+      "ime": "Институт по царевицата-Управление",
+      "shirina": 43.479149,
+      "dalzhina": 24.070315,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 98,
+      "ime": "Интерпласт",
+      "shirina": 41.94967,
+      "dalzhina": 25.55125,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 99,
+      "ime": "КП Хибриден център",
+      "shirina": 42.937289,
+      "dalzhina": 23.1634,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 100,
+      "ime": "Канела Мед",
+      "shirina": 42.709469,
+      "dalzhina": 23.328087,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 101,
+      "ime": "Кардинал ООД",
+      "shirina": 43.471304,
+      "dalzhina": 23.945077,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 102,
+      "ime": "Керамичен завод Мирково",
+      "shirina": 42.671533,
+      "dalzhina": 23.998367,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 103,
+      "ime": "Клипщанц ООД - металообработване",
+      "shirina": 42.491041,
+      "dalzhina": 24.19458,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 104,
+      "ime": "Колбасарски цех",
+      "shirina": 42.572115,
+      "dalzhina": 25.193912,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 105,
+      "ime": "Костенец - ХХИ АД",
+      "shirina": 42.311971,
+      "dalzhina": 23.853363,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 106,
+      "ime": "Кроношпан",
+      "shirina": 42.518046,
+      "dalzhina": 27.433394,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 107,
+      "ime": "ЛВЗ Русе",
+      "shirina": 43.863339,
+      "dalzhina": 25.985373,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 108,
+      "ime": "Лактима ЕАД",
+      "shirina": 43.071154,
+      "dalzhina": 25.621745,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 109,
+      "ime": "Логистика ЕООД",
+      "shirina": 42.64376,
+      "dalzhina": 23.523377,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 110,
+      "ime": "МЕТРОН ЕАД",
+      "shirina": 42.77736,
+      "dalzhina": 23.160429,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 111,
+      "ime": "МИХАЙЛОВ КОМЕРС ЕООД",
+      "shirina": 42.166986,
+      "dalzhina": 24.811294,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 112,
+      "ime": "МТД - БЪЛГАРИЯ",
+      "shirina": 43.843296,
+      "dalzhina": 25.962446,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 113,
+      "ime": "Максет",
+      "shirina": 42.678813,
+      "dalzhina": 23.243818,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 114,
+      "ime": "Мандра",
+      "shirina": 42.855664,
+      "dalzhina": 22.902443,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 115,
+      "ime": "Мандра \"Кортен\"",
+      "shirina": 42.540339,
+      "dalzhina": 25.990604,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 116,
+      "ime": "Мандра \"Кукери\"",
+      "shirina": 42.150663,
+      "dalzhina": 25.870877,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 117,
+      "ime": "Мандра \"Юлиево\"",
+      "shirina": 42.563126,
+      "dalzhina": 25.603405,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 118,
+      "ime": "Мандра Вършец",
+      "shirina": 43.205134,
+      "dalzhina": 23.29159,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 119,
+      "ime": "Мандра Сарая",
+      "shirina": 42.941129,
+      "dalzhina": 25.412725,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 120,
+      "ime": "Марис МС",
+      "shirina": 42.733464,
+      "dalzhina": 23.255721,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 121,
+      "ime": "Мебелна фабрика \"Класик\"",
+      "shirina": 42.072153,
+      "dalzhina": 25.448512,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 122,
+      "ime": "Медитех | Слънчеви инсталации",
+      "shirina": 43.234358,
+      "dalzhina": 27.898034,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 123,
+      "ime": "Металинженеринг ООД",
+      "shirina": 43.194228,
+      "dalzhina": 23.578207,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 124,
+      "ime": "Милки груп Био - ЕАД",
+      "shirina": 41.929072,
+      "dalzhina": 25.602776,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 125,
+      "ime": "Млекопреработвателно Предприятие - Омуртаг",
+      "shirina": 43.128085,
+      "dalzhina": 26.430563,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 126,
+      "ime": "Момина крепост ООД",
+      "shirina": 43.071075,
+      "dalzhina": 25.627077,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 127,
+      "ime": "Монтажи ЕАД",
+      "shirina": 43.195195,
+      "dalzhina": 23.577697,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 128,
+      "ime": "Нашенско",
+      "shirina": 42.061417,
+      "dalzhina": 24.420469,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 129,
+      "ime": "ОДЕТ ИТ-И.ТОДОРОВ",
+      "shirina": 42.177566,
+      "dalzhina": 24.320194,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 130,
+      "ime": "Олива АД",
+      "shirina": 43.48466,
+      "dalzhina": 24.07826,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 131,
+      "ime": "Пайп Индустриал България",
+      "shirina": 42.343636,
+      "dalzhina": 23.546628,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 132,
+      "ime": "Паркове и градини",
+      "shirina": 42.128875,
+      "dalzhina": 24.754857,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 133,
+      "ime": "Петролен терминал",
+      "shirina": 42.389929,
+      "dalzhina": 25.602175,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 134,
+      "ime": "Пластхим-Т",
+      "shirina": 43.265441,
+      "dalzhina": 27.815509,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 135,
+      "ime": "Поли Инокс Инженеринг ЕООД",
+      "shirina": 42.720764,
+      "dalzhina": 23.275325,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 136,
+      "ime": "Помпена станция \"Тунджа - запад\"",
+      "shirina": 42.602036,
+      "dalzhina": 25.361057,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 137,
+      "ime": "Промишлена зона",
+      "shirina": 43.205608,
+      "dalzhina": 25.322061,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 138,
+      "ime": "Промишлена зона ЕЛПО АД - Николаево",
+      "shirina": 42.629941,
+      "dalzhina": 25.785758,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 139,
+      "ime": "Профил Груп Цех",
+      "shirina": 42.672588,
+      "dalzhina": 23.433295,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 140,
+      "ime": "РЕТАЛ",
+      "shirina": 42.655942,
+      "dalzhina": 26.354169,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 141,
+      "ime": "РОДОПА КОМ",
+      "shirina": 42.638596,
+      "dalzhina": 26.330852,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 142,
+      "ime": "Районна пътна служба Гурково",
+      "shirina": 42.648442,
+      "dalzhina": 25.804504,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 143,
+      "ime": "Розоварна",
+      "shirina": 42.57326,
+      "dalzhina": 25.193216,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 144,
+      "ime": "Розоварна",
+      "shirina": 42.669965,
+      "dalzhina": 25.200453,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 145,
+      "ime": "Розоварна ВИГАЛЕКС",
+      "shirina": 42.659789,
+      "dalzhina": 25.789247,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 146,
+      "ime": "СД Марвас-90",
+      "shirina": 42.166371,
+      "dalzhina": 24.76051,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 147,
+      "ime": "СД Марвас-90",
+      "shirina": 43.616605,
+      "dalzhina": 26.513771,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 148,
+      "ime": "Сидма",
+      "shirina": 42.757075,
+      "dalzhina": 23.335351,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 149,
+      "ime": "Складове",
+      "shirina": 42.587612,
+      "dalzhina": 23.158787,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 150,
+      "ime": "Слайт 81",
+      "shirina": 43.0187,
+      "dalzhina": 24.27777,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 151,
+      "ime": "Соларни Системи Варна - ССВ",
+      "shirina": 43.216074,
+      "dalzhina": 27.869433,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 152,
+      "ime": "Солвекс - Мира фрукт",
+      "shirina": 43.349563,
+      "dalzhina": 27.185467,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 153,
+      "ime": "Телетек Електроникс",
+      "shirina": 42.731316,
+      "dalzhina": 23.317748,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 154,
+      "ime": "Технопанел",
+      "shirina": 42.729007,
+      "dalzhina": 23.549515,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 155,
+      "ime": "Техносим",
+      "shirina": 42.717167,
+      "dalzhina": 23.421019,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 156,
+      "ime": "Тренинг център и шоурум Идеал Стандарт - Видима АД",
+      "shirina": 43.02616,
+      "dalzhina": 25.103668,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 157,
+      "ime": "Трикотажен цех",
+      "shirina": 42.606887,
+      "dalzhina": 25.557014,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 158,
+      "ime": "Троя Тех ООД",
+      "shirina": 42.843305,
+      "dalzhina": 24.669756,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 159,
+      "ime": "Труд ООД",
+      "shirina": 43.87067,
+      "dalzhina": 25.994693,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 160,
+      "ime": "Унион Кехлибар",
+      "shirina": 43.405984,
+      "dalzhina": 25.886517,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 161,
+      "ime": "ФЕЛДХЮС БГ",
+      "shirina": 43.422605,
+      "dalzhina": 23.227405,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 162,
+      "ime": "ФИШКОМ",
+      "shirina": 42.656687,
+      "dalzhina": 26.326683,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 163,
+      "ime": "ФРЕШТЕКС",
+      "shirina": 43.340415,
+      "dalzhina": 26.226357,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 164,
+      "ime": "ФУРАЖЕН ЗАВОД",
+      "shirina": 42.657902,
+      "dalzhina": 26.356636,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 165,
+      "ime": "Фабрика \"Биоланд\"",
+      "shirina": 42.579229,
+      "dalzhina": 25.677378,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 166,
+      "ime": "Фабрика Маркоги",
+      "shirina": 42.460088,
+      "dalzhina": 25.712573,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 167,
+      "ime": "Фирма \"Амтек\" ООД",
+      "shirina": 42.606554,
+      "dalzhina": 25.558699,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 168,
+      "ime": "Фирма \"Модекс\"",
+      "shirina": 41.783464,
+      "dalzhina": 25.360702,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 169,
+      "ime": "Форест трейд ООД",
+      "shirina": 42.777019,
+      "dalzhina": 23.157388,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 170,
+      "ime": "ХИМПЛАСТ",
+      "shirina": 42.098782,
+      "dalzhina": 25.240661,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 171,
+      "ime": "Хай протеин",
+      "shirina": 43.160071,
+      "dalzhina": 27.446959,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 172,
+      "ime": "Хладилна база",
+      "shirina": 43.205063,
+      "dalzhina": 23.295327,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 173,
+      "ime": "Цех за алуминиева дограма",
+      "shirina": 42.500528,
+      "dalzhina": 25.614775,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 174,
+      "ime": "Цех за дограма - СД Шумана",
+      "shirina": 42.491645,
+      "dalzhina": 24.196513,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 175,
+      "ime": "Чарита ООД",
+      "shirina": 42.201755,
+      "dalzhina": 25.333653,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 176,
+      "ime": "Ш.А. Комерс",
+      "shirina": 42.707279,
+      "dalzhina": 23.309212,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 177,
+      "ime": "Шведски кибрит Плам България АД",
+      "shirina": 42.303645,
+      "dalzhina": 23.871597,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 178,
+      "ime": "ЯДКИ ДЕТЕЛИНА",
+      "shirina": 43.012399,
+      "dalzhina": 25.100673,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 179,
+      "ime": "Ядки Детелина",
+      "shirina": 42.669331,
+      "dalzhina": 23.383091,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 180,
+      "ime": "печатница Бдин",
+      "shirina": 43.271389,
+      "dalzhina": 26.963904,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 181,
+      "ime": "престиж 96",
+      "shirina": 43.059742,
+      "dalzhina": 25.604671,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    },
+    {
+      "id": 182,
+      "ime": "фабрика",
+      "shirina": 42.255909,
+      "dalzhina": 26.619171,
+      "osm_klyuch": "man_made",
+      "osm_stoynost": "works",
+      "osm_klas": "man_made=works"
+    }
+  ],
+  "meta": {
+    "title": "Заводи и производствени предприятия в България (OpenStreetMap) - Безплатно изтегляне",
+    "description": "Заводи и производствени предприятия в България — 182 именувани обекта, извлечени от OpenStreetMap квадратите (zoom-ниво 12), публикувани в хранилището EU-POIS/BG. Разделянето е направено изцяло по собствената колона `t` на източника (OSM етикет `man_made=works`), която има точно една стойност на ред. Всеки запис запазва името от OSM дословно и координатите WGS84. Включени са само именувани обекти; безименните възли не са записи в списък. Премахнати точни дубликати (име + координати): 0. Разделяне по области не е произведено и не е приближавано: източникът не съдържа никакъв административен атрибут, а извеждането му би изисквало point-in-polygon върху граници, които това хранилище не предоставя. Съдържа 182 записа. Изтеглете в Excel, CSV, PDF формат.",
+    "seo_title": "Заводи и производствени предприятия в България (OpenStreetMap) | ListBase",
+    "seo_description": "Изтеглете Заводи и производствени предприятия в България (OpenStreetMap) — 182 записа. Налично в Excel, CSV, PDF формат.",
+    "key_takeaways": [
+      "Съдържа 182 записа / 7 полета",
+      "Безплатно изтегляне в Excel, CSV и PDF формат",
+      "Източник на данни: open data"
+    ]
+  }
+}
