@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:14.870Z",
-  "total_datasets": 427,
-  "total_records": 190264,
+  "generated": "2026-10-27T02:21:17.218Z",
+  "total_datasets": 428,
+  "total_records": 190294,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -4450,6 +4450,32 @@
         "xlsx": {
           "name": "bg-ministri-vatreshni-raboti_BG.xlsx",
           "size": 12226
+        }
+      }
+    },
+    {
+      "id": "bg-parlamentarni-izbori-oktomvri-2024",
+      "name": "Парламентарни избори в България (октомври 2024) — резултати",
+      "category": "politics",
+      "record_count": 30,
+      "columns": [
+        "nomer",
+        "partiya",
+        "glasove",
+        "procent",
+        "mesta"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Парламентарни_избори_в_България_(октомври_2024)",
+      "updated": "2026-10",
+      "size": 7056,
+      "files": {
+        "csv": {
+          "name": "bg-parlamentarni-izbori-oktomvri-2024_BG.csv",
+          "size": 1991
+        },
+        "xlsx": {
+          "name": "bg-parlamentarni-izbori-oktomvri-2024_BG.xlsx",
+          "size": 8191
         }
       }
     },

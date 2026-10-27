@@ -1,0 +1,261 @@
+{
+  "id": "bg-parlamentarni-izbori-oktomvri-2024",
+  "name": "Парламентарни избори в България (октомври 2024) — резултати",
+  "title": "Парламентарни избори в България (октомври 2024) — резултати",
+  "description": "Резултати от парламентарните избори в България на 27 октомври 2024 г.: гласове, процент и места в Народното събрание.",
+  "category": "politics",
+  "source": "https://bg.wikipedia.org/wiki/Парламентарни_избори_в_България_(октомври_2024)",
+  "source_url": "https://bg.wikipedia.org/wiki/Парламентарни_избори_в_България_(октомври_2024)",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "partiya",
+      "label": "Partiya",
+      "type": "string"
+    },
+    {
+      "key": "glasove",
+      "label": "Glasove",
+      "type": "number"
+    },
+    {
+      "key": "procent",
+      "label": "Procent",
+      "type": "number"
+    },
+    {
+      "key": "mesta",
+      "label": "Mesta",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "partiya": "ДОСТ",
+      "glasove": 2259,
+      "procent": 0.093,
+      "mesta": "–"
+    },
+    {
+      "nomer": 2,
+      "partiya": "Глас народен",
+      "glasove": 7299,
+      "procent": 0.3,
+      "mesta": "–"
+    },
+    {
+      "nomer": 3,
+      "partiya": "Социалистическа партия „ Български път “",
+      "glasove": 1578,
+      "procent": 0.065,
+      "mesta": "–"
+    },
+    {
+      "nomer": 4,
+      "partiya": "Величие",
+      "glasove": 97630,
+      "procent": 4.007,
+      "mesta": 10
+    },
+    {
+      "nomer": 5,
+      "partiya": "Булгари",
+      "glasove": 1737,
+      "procent": 0.071,
+      "mesta": "–"
+    },
+    {
+      "nomer": 6,
+      "partiya": "Моя страна България",
+      "glasove": 2781,
+      "procent": 0.114,
+      "mesta": "–"
+    },
+    {
+      "nomer": 7,
+      "partiya": "Има такъв народ",
+      "glasove": 165160,
+      "procent": 6.779,
+      "mesta": 17
+    },
+    {
+      "nomer": 8,
+      "partiya": "ДПС – Ново начало",
+      "glasove": 281366,
+      "procent": 11.548,
+      "mesta": 29
+    },
+    {
+      "nomer": 9,
+      "partiya": "Бригада",
+      "glasove": 1172,
+      "procent": 0.048,
+      "mesta": "–"
+    },
+    {
+      "nomer": 10,
+      "partiya": "Партия на зелените",
+      "glasove": 4897,
+      "procent": 0.201,
+      "mesta": "–"
+    },
+    {
+      "nomer": 11,
+      "partiya": "Правото",
+      "glasove": 2372,
+      "procent": 0.097,
+      "mesta": "–"
+    },
+    {
+      "nomer": 12,
+      "partiya": "Възраждане",
+      "glasove": 325468,
+      "procent": 13.358,
+      "mesta": 33
+    },
+    {
+      "nomer": 13,
+      "partiya": "Алианс за права и свободи (АПС)",
+      "glasove": 182263,
+      "procent": 7.481,
+      "mesta": 19
+    },
+    {
+      "nomer": 14,
+      "partiya": "Български национален съюз „Нова демокрация“",
+      "glasove": 2237,
+      "procent": 0.092,
+      "mesta": "–"
+    },
+    {
+      "nomer": 15,
+      "partiya": "БСДД",
+      "glasove": 1716,
+      "procent": 0.07,
+      "mesta": "–"
+    },
+    {
+      "nomer": 16,
+      "partiya": "Синя България",
+      "glasove": 26066,
+      "procent": 1.07,
+      "mesta": "–"
+    },
+    {
+      "nomer": 17,
+      "partiya": "МЕЧ",
+      "glasove": 111946,
+      "procent": 4.595,
+      "mesta": 11
+    },
+    {
+      "nomer": 18,
+      "partiya": "ГЕРБ – СДС",
+      "glasove": 642931,
+      "procent": 26.388,
+      "mesta": 66
+    },
+    {
+      "nomer": 19,
+      "partiya": "Атака",
+      "glasove": 3990,
+      "procent": 0.164,
+      "mesta": "–"
+    },
+    {
+      "nomer": 20,
+      "partiya": "Народна партия „Истината и само истината“",
+      "glasove": 2466,
+      "procent": 0.101,
+      "mesta": "–"
+    },
+    {
+      "nomer": 21,
+      "partiya": "Пряка демокрация",
+      "glasove": 7948,
+      "procent": 0.326,
+      "mesta": "–"
+    },
+    {
+      "nomer": 22,
+      "partiya": "Свободни избиратели ( РБ , ССД и ЗС )",
+      "glasove": 6295,
+      "procent": 0.258,
+      "mesta": "–"
+    },
+    {
+      "nomer": 23,
+      "partiya": "България на труда и разума",
+      "glasove": 1444,
+      "procent": 0.059,
+      "mesta": "–"
+    },
+    {
+      "nomer": 24,
+      "partiya": "КОЙ",
+      "glasove": 2022,
+      "procent": 0.083,
+      "mesta": "–"
+    },
+    {
+      "nomer": 25,
+      "partiya": "Русофили за България",
+      "glasove": 8858,
+      "procent": 0.364,
+      "mesta": "–"
+    },
+    {
+      "nomer": 26,
+      "partiya": "Продължаваме промяната – Демократична България",
+      "glasove": 346063,
+      "procent": 14.203,
+      "mesta": 36
+    },
+    {
+      "nomer": 27,
+      "partiya": "Български възход",
+      "glasove": 10308,
+      "procent": 0.423,
+      "mesta": "–"
+    },
+    {
+      "nomer": 28,
+      "partiya": "БСП – Обединена левица",
+      "glasove": 184403,
+      "procent": 7.568,
+      "mesta": 20
+    },
+    {
+      "nomer": "29 (15 ИР)",
+      "partiya": "Чавдар Иванов Попов – независим кандидат",
+      "glasove": 2000,
+      "procent": 1.095,
+      "mesta": "–"
+    },
+    {
+      "nomer": "–",
+      "partiya": "Не подкрепям никого",
+      "glasove": 82618,
+      "procent": 3.396,
+      "mesta": "–"
+    }
+  ],
+  "meta": {
+    "title": "Парламентарни избори в България (октомври 2024) — резултати - Free Download",
+    "description": "Резултати от парламентарните избори в България на 27 октомври 2024 г.: гласове, процент и места в Народното събрание. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Парламентарни избори в България (октомври 2024) — резултати | ListBase",
+    "seo_description": "Download Парламентарни избори в България (октомври 2024) — резултати — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Парламентарни_избори_в_България_(октомври_2024)"
+    ]
+  }
+}
