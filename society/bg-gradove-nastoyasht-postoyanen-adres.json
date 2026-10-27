@@ -1,0 +1,1321 @@
+{
+  "id": "bg-gradove-nastoyasht-postoyanen-adres",
+  "name": "Градове в България — население по настоящ и постоянен адрес",
+  "title": "Градове в България — население по настоящ и постоянен адрес",
+  "description": "Население на градовете в България по настоящ и постоянен адрес (ГРАО).",
+  "category": "society",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_градовете_в_България_по_население",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_градовете_в_България_по_население",
+  "updated": "2026-10",
+  "record_count": 256,
+  "columns": [
+    {
+      "key": "grad",
+      "label": "Grad",
+      "type": "string"
+    },
+    {
+      "key": "naselenie_nastoyasht_adres",
+      "label": "Naselenie Nastoyasht Adres",
+      "type": "number"
+    },
+    {
+      "key": "naselenie_postoyanen_adres",
+      "label": "Naselenie Postoyanen Adres",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "grad": "София",
+      "naselenie_nastoyasht_adres": 1287034,
+      "naselenie_postoyanen_adres": 1429208
+    },
+    {
+      "grad": "Пловдив",
+      "naselenie_nastoyasht_adres": 376739,
+      "naselenie_postoyanen_adres": 388872
+    },
+    {
+      "grad": "Варна",
+      "naselenie_nastoyasht_adres": 354221,
+      "naselenie_postoyanen_adres": 373561
+    },
+    {
+      "grad": "Бургас",
+      "naselenie_nastoyasht_adres": 210491,
+      "naselenie_postoyanen_adres": 225896
+    },
+    {
+      "grad": "Русе",
+      "naselenie_nastoyasht_adres": 138356,
+      "naselenie_postoyanen_adres": 153762
+    },
+    {
+      "grad": "Стара Загора",
+      "naselenie_nastoyasht_adres": 134842,
+      "naselenie_postoyanen_adres": 153656
+    },
+    {
+      "grad": "Плевен",
+      "naselenie_nastoyasht_adres": 97912,
+      "naselenie_postoyanen_adres": 115116
+    },
+    {
+      "grad": "Сливен",
+      "naselenie_nastoyasht_adres": 87578,
+      "naselenie_postoyanen_adres": 103208
+    },
+    {
+      "grad": "Добрич",
+      "naselenie_nastoyasht_adres": 85606,
+      "naselenie_postoyanen_adres": 97559
+    },
+    {
+      "grad": "Шумен",
+      "naselenie_nastoyasht_adres": 80683,
+      "naselenie_postoyanen_adres": 92848
+    },
+    {
+      "grad": "Пазарджик",
+      "naselenie_nastoyasht_adres": 72980,
+      "naselenie_postoyanen_adres": 81649
+    },
+    {
+      "grad": "Перник",
+      "naselenie_nastoyasht_adres": 71870,
+      "naselenie_postoyanen_adres": 78507
+    },
+    {
+      "grad": "Благоевград",
+      "naselenie_nastoyasht_adres": 72368,
+      "naselenie_postoyanen_adres": 86054
+    },
+    {
+      "grad": "Ямбол",
+      "naselenie_nastoyasht_adres": 69037,
+      "naselenie_postoyanen_adres": 78960
+    },
+    {
+      "grad": "Хасково",
+      "naselenie_nastoyasht_adres": 68850,
+      "naselenie_postoyanen_adres": 89728
+    },
+    {
+      "grad": "Велико Търново",
+      "naselenie_nastoyasht_adres": 67073,
+      "naselenie_postoyanen_adres": 69896
+    },
+    {
+      "grad": "Враца",
+      "naselenie_nastoyasht_adres": 54650,
+      "naselenie_postoyanen_adres": 64593
+    },
+    {
+      "grad": "Кърджали",
+      "naselenie_nastoyasht_adres": 53449,
+      "naselenie_postoyanen_adres": 67836
+    },
+    {
+      "grad": "Асеновград",
+      "naselenie_nastoyasht_adres": 50771,
+      "naselenie_postoyanen_adres": 58921
+    },
+    {
+      "grad": "Габрово",
+      "naselenie_nastoyasht_adres": 50019,
+      "naselenie_postoyanen_adres": 57742
+    },
+    {
+      "grad": "Казанлък",
+      "naselenie_nastoyasht_adres": 47673,
+      "naselenie_postoyanen_adres": 52877
+    },
+    {
+      "grad": "Видин",
+      "naselenie_nastoyasht_adres": 43254,
+      "naselenie_postoyanen_adres": 53124
+    },
+    {
+      "grad": "Кюстендил",
+      "naselenie_nastoyasht_adres": 42827,
+      "naselenie_postoyanen_adres": 61933
+    },
+    {
+      "grad": "Търговище",
+      "naselenie_nastoyasht_adres": 39620,
+      "naselenie_postoyanen_adres": 44182
+    },
+    {
+      "grad": "Монтана",
+      "naselenie_nastoyasht_adres": 37885,
+      "naselenie_postoyanen_adres": 45946
+    },
+    {
+      "grad": "Димитровград",
+      "naselenie_nastoyasht_adres": 33122,
+      "naselenie_postoyanen_adres": 41823
+    },
+    {
+      "grad": "Дупница",
+      "naselenie_nastoyasht_adres": 33042,
+      "naselenie_postoyanen_adres": 36784
+    },
+    {
+      "grad": "Силистра",
+      "naselenie_nastoyasht_adres": 32580,
+      "naselenie_postoyanen_adres": 39210
+    },
+    {
+      "grad": "Разград",
+      "naselenie_nastoyasht_adres": 31777,
+      "naselenie_postoyanen_adres": 39452
+    },
+    {
+      "grad": "Ловеч",
+      "naselenie_nastoyasht_adres": 31128,
+      "naselenie_postoyanen_adres": 38358
+    },
+    {
+      "grad": "Горна Оряховица",
+      "naselenie_nastoyasht_adres": 28846,
+      "naselenie_postoyanen_adres": 32625
+    },
+    {
+      "grad": "Петрич",
+      "naselenie_nastoyasht_adres": 29446,
+      "naselenie_postoyanen_adres": 40357
+    },
+    {
+      "grad": "Смолян",
+      "naselenie_nastoyasht_adres": 26969,
+      "naselenie_postoyanen_adres": 29470
+    },
+    {
+      "grad": "Сандански",
+      "naselenie_nastoyasht_adres": 26602,
+      "naselenie_postoyanen_adres": 29783
+    },
+    {
+      "grad": "Самоков",
+      "naselenie_nastoyasht_adres": 26230,
+      "naselenie_postoyanen_adres": 28076
+    },
+    {
+      "grad": "Велинград",
+      "naselenie_nastoyasht_adres": 23984,
+      "naselenie_postoyanen_adres": 25081
+    },
+    {
+      "grad": "Айтос",
+      "naselenie_nastoyasht_adres": 22074,
+      "naselenie_postoyanen_adres": 24388
+    },
+    {
+      "grad": "Нова Загора",
+      "naselenie_nastoyasht_adres": 21883,
+      "naselenie_postoyanen_adres": 26078
+    },
+    {
+      "grad": "Свищов",
+      "naselenie_nastoyasht_adres": 21724,
+      "naselenie_postoyanen_adres": 22568
+    },
+    {
+      "grad": "Севлиево",
+      "naselenie_nastoyasht_adres": 21594,
+      "naselenie_postoyanen_adres": 23881
+    },
+    {
+      "grad": "Харманли",
+      "naselenie_nastoyasht_adres": 21343,
+      "naselenie_postoyanen_adres": "24 519|"
+    },
+    {
+      "grad": "Карлово",
+      "naselenie_nastoyasht_adres": 20937,
+      "naselenie_postoyanen_adres": 24252
+    },
+    {
+      "grad": "Лом",
+      "naselenie_nastoyasht_adres": 20823,
+      "naselenie_postoyanen_adres": 23117
+    },
+    {
+      "grad": "Гоце Делчев",
+      "naselenie_nastoyasht_adres": 20325,
+      "naselenie_postoyanen_adres": 21624
+    },
+    {
+      "grad": "Ботевград",
+      "naselenie_nastoyasht_adres": 20205,
+      "naselenie_postoyanen_adres": 21587
+    },
+    {
+      "grad": "Пещера",
+      "naselenie_nastoyasht_adres": 19771,
+      "naselenie_postoyanen_adres": 21390
+    },
+    {
+      "grad": "Троян",
+      "naselenie_nastoyasht_adres": 19180,
+      "naselenie_postoyanen_adres": 21748
+    },
+    {
+      "grad": "Свиленград",
+      "naselenie_nastoyasht_adres": 17728,
+      "naselenie_postoyanen_adres": 19866
+    },
+    {
+      "grad": "Карнобат",
+      "naselenie_nastoyasht_adres": 17177,
+      "naselenie_postoyanen_adres": 19260
+    },
+    {
+      "grad": "Несебър",
+      "naselenie_nastoyasht_adres": 16339,
+      "naselenie_postoyanen_adres": 15280
+    },
+    {
+      "grad": "Панагюрище",
+      "naselenie_nastoyasht_adres": 15853,
+      "naselenie_postoyanen_adres": 17160
+    },
+    {
+      "grad": "Раковски",
+      "naselenie_nastoyasht_adres": 15654,
+      "naselenie_postoyanen_adres": 16920
+    },
+    {
+      "grad": "Поморие",
+      "naselenie_nastoyasht_adres": 15213,
+      "naselenie_postoyanen_adres": 15509
+    },
+    {
+      "grad": "Попово",
+      "naselenie_nastoyasht_adres": 14632,
+      "naselenie_postoyanen_adres": 16491
+    },
+    {
+      "grad": "Чирпан",
+      "naselenie_nastoyasht_adres": 14419,
+      "naselenie_postoyanen_adres": 16260
+    },
+    {
+      "grad": "Ихтиман",
+      "naselenie_nastoyasht_adres": 13626,
+      "naselenie_postoyanen_adres": 14360
+    },
+    {
+      "grad": "Нови Искър",
+      "naselenie_nastoyasht_adres": 13576,
+      "naselenie_postoyanen_adres": 13570
+    },
+    {
+      "grad": "Радомир",
+      "naselenie_nastoyasht_adres": 12839,
+      "naselenie_postoyanen_adres": 14076
+    },
+    {
+      "grad": "Първомай",
+      "naselenie_nastoyasht_adres": 12756,
+      "naselenie_postoyanen_adres": 14622
+    },
+    {
+      "grad": "Берковица",
+      "naselenie_nastoyasht_adres": 12411,
+      "naselenie_postoyanen_adres": 14144
+    },
+    {
+      "grad": "Костинброд",
+      "naselenie_nastoyasht_adres": 12361,
+      "naselenie_postoyanen_adres": 11577
+    },
+    {
+      "grad": "Банкя",
+      "naselenie_nastoyasht_adres": 12266,
+      "naselenie_postoyanen_adres": 11775
+    },
+    {
+      "grad": "Нови пазар",
+      "naselenie_nastoyasht_adres": 12227,
+      "naselenie_postoyanen_adres": 14182
+    },
+    {
+      "grad": "Балчик",
+      "naselenie_nastoyasht_adres": 12196,
+      "naselenie_postoyanen_adres": 13116
+    },
+    {
+      "grad": "Разлог",
+      "naselenie_nastoyasht_adres": 12165,
+      "naselenie_postoyanen_adres": 12870
+    },
+    {
+      "grad": "Червен бряг",
+      "naselenie_nastoyasht_adres": 12111,
+      "naselenie_postoyanen_adres": 13868
+    },
+    {
+      "grad": "Провадия",
+      "naselenie_nastoyasht_adres": 11969,
+      "naselenie_postoyanen_adres": 14229
+    },
+    {
+      "grad": "Козлодуй",
+      "naselenie_nastoyasht_adres": 11889,
+      "naselenie_postoyanen_adres": 11403
+    },
+    {
+      "grad": "Стамболийски",
+      "naselenie_nastoyasht_adres": 11120,
+      "naselenie_postoyanen_adres": 11766
+    },
+    {
+      "grad": "Каварна",
+      "naselenie_nastoyasht_adres": 10947,
+      "naselenie_postoyanen_adres": 11652
+    },
+    {
+      "grad": "Раднево",
+      "naselenie_nastoyasht_adres": 10932,
+      "naselenie_postoyanen_adres": 12464
+    },
+    {
+      "grad": "Бяла Слатина",
+      "naselenie_nastoyasht_adres": 10702,
+      "naselenie_postoyanen_adres": 11953
+    },
+    {
+      "grad": "Кнежа",
+      "naselenie_nastoyasht_adres": 10012,
+      "naselenie_postoyanen_adres": 10594
+    },
+    {
+      "grad": "Момчилград",
+      "naselenie_nastoyasht_adres": 9838,
+      "naselenie_postoyanen_adres": 20240
+    },
+    {
+      "grad": "Етрополе",
+      "naselenie_nastoyasht_adres": 9817,
+      "naselenie_postoyanen_adres": 10509
+    },
+    {
+      "grad": "Левски",
+      "naselenie_nastoyasht_adres": 9659,
+      "naselenie_postoyanen_adres": 10658
+    },
+    {
+      "grad": "Павликени",
+      "naselenie_nastoyasht_adres": 9522,
+      "naselenie_postoyanen_adres": 11044
+    },
+    {
+      "grad": "Луковит",
+      "naselenie_nastoyasht_adres": 9180,
+      "naselenie_postoyanen_adres": 10110
+    },
+    {
+      "grad": "Банско",
+      "naselenie_nastoyasht_adres": 9163,
+      "naselenie_postoyanen_adres": 9903
+    },
+    {
+      "grad": "Елхово",
+      "naselenie_nastoyasht_adres": 9100,
+      "naselenie_postoyanen_adres": 10022
+    },
+    {
+      "grad": "Мездра",
+      "naselenie_nastoyasht_adres": 8990,
+      "naselenie_postoyanen_adres": 10565
+    },
+    {
+      "grad": "Ракитово",
+      "naselenie_nastoyasht_adres": 8978,
+      "naselenie_postoyanen_adres": 9890
+    },
+    {
+      "grad": "Омуртаг",
+      "naselenie_nastoyasht_adres": 8940,
+      "naselenie_postoyanen_adres": 10519
+    },
+    {
+      "grad": "Девня",
+      "naselenie_nastoyasht_adres": 8849,
+      "naselenie_postoyanen_adres": 8792
+    },
+    {
+      "grad": "Тутракан",
+      "naselenie_nastoyasht_adres": 8653,
+      "naselenie_postoyanen_adres": 9726
+    },
+    {
+      "grad": "Тетевен",
+      "naselenie_nastoyasht_adres": 8455,
+      "naselenie_postoyanen_adres": 9390
+    },
+    {
+      "grad": "Средец",
+      "naselenie_nastoyasht_adres": 8319,
+      "naselenie_postoyanen_adres": 8719
+    },
+    {
+      "grad": "Сопот",
+      "naselenie_nastoyasht_adres": 8290,
+      "naselenie_postoyanen_adres": 9155
+    },
+    {
+      "grad": "Исперих",
+      "naselenie_nastoyasht_adres": 8115,
+      "naselenie_postoyanen_adres": 11278
+    },
+    {
+      "grad": "Кричим",
+      "naselenie_nastoyasht_adres": 8044,
+      "naselenie_postoyanen_adres": 9102
+    },
+    {
+      "grad": "Септември",
+      "naselenie_nastoyasht_adres": 7994,
+      "naselenie_postoyanen_adres": 8530
+    },
+    {
+      "grad": "Трявна",
+      "naselenie_nastoyasht_adres": 7886,
+      "naselenie_postoyanen_adres": 8608
+    },
+    {
+      "grad": "Велики Преслав",
+      "naselenie_nastoyasht_adres": 7857,
+      "naselenie_postoyanen_adres": 8685
+    },
+    {
+      "grad": "Бяла (Рс)",
+      "naselenie_nastoyasht_adres": 7733,
+      "naselenie_postoyanen_adres": 8412
+    },
+    {
+      "grad": "Аксаково",
+      "naselenie_nastoyasht_adres": 7693,
+      "naselenie_postoyanen_adres": 8175
+    },
+    {
+      "grad": "Лясковец",
+      "naselenie_nastoyasht_adres": 7394,
+      "naselenie_postoyanen_adres": 8074
+    },
+    {
+      "grad": "Елин Пелин",
+      "naselenie_nastoyasht_adres": 7343,
+      "naselenie_postoyanen_adres": 7134
+    },
+    {
+      "grad": "Своге",
+      "naselenie_nastoyasht_adres": 7324,
+      "naselenie_postoyanen_adres": 7436
+    },
+    {
+      "grad": "Симеоновград",
+      "naselenie_nastoyasht_adres": 7298,
+      "naselenie_postoyanen_adres": 8277
+    },
+    {
+      "grad": "Белослав",
+      "naselenie_nastoyasht_adres": 7266,
+      "naselenie_postoyanen_adres": 7484
+    },
+    {
+      "grad": "Дулово",
+      "naselenie_nastoyasht_adres": 7158,
+      "naselenie_postoyanen_adres": 8114
+    },
+    {
+      "grad": "Любимец",
+      "naselenie_nastoyasht_adres": 6975,
+      "naselenie_postoyanen_adres": 7660
+    },
+    {
+      "grad": "Долни чифлик",
+      "naselenie_nastoyasht_adres": 6917,
+      "naselenie_postoyanen_adres": 7557
+    },
+    {
+      "grad": "Сливница",
+      "naselenie_nastoyasht_adres": 6870,
+      "naselenie_postoyanen_adres": 6922
+    },
+    {
+      "grad": "Гълъбово",
+      "naselenie_nastoyasht_adres": 6840,
+      "naselenie_postoyanen_adres": 7430
+    },
+    {
+      "grad": "Симитли",
+      "naselenie_nastoyasht_adres": 6837,
+      "naselenie_postoyanen_adres": 7137
+    },
+    {
+      "grad": "Дряново",
+      "naselenie_nastoyasht_adres": 6785,
+      "naselenie_postoyanen_adres": 7223
+    },
+    {
+      "grad": "Тервел",
+      "naselenie_nastoyasht_adres": 6729,
+      "naselenie_postoyanen_adres": 6269
+    },
+    {
+      "grad": "Златоград",
+      "naselenie_nastoyasht_adres": 6676,
+      "naselenie_postoyanen_adres": 7164
+    },
+    {
+      "grad": "Белене",
+      "naselenie_nastoyasht_adres": 6665,
+      "naselenie_postoyanen_adres": 7364
+    },
+    {
+      "grad": "Кубрат",
+      "naselenie_nastoyasht_adres": 6525,
+      "naselenie_postoyanen_adres": 9451
+    },
+    {
+      "grad": "Хисаря",
+      "naselenie_nastoyasht_adres": 6447,
+      "naselenie_postoyanen_adres": 7319
+    },
+    {
+      "grad": "Пирдоп",
+      "naselenie_nastoyasht_adres": 6403,
+      "naselenie_postoyanen_adres": 6817
+    },
+    {
+      "grad": "Стралджа",
+      "naselenie_nastoyasht_adres": 6174,
+      "naselenie_postoyanen_adres": 6567
+    },
+    {
+      "grad": "Твърдица",
+      "naselenie_nastoyasht_adres": 6093,
+      "naselenie_postoyanen_adres": 6735
+    },
+    {
+      "grad": "Куклен",
+      "naselenie_nastoyasht_adres": 6038,
+      "naselenie_postoyanen_adres": 7308
+    },
+    {
+      "grad": "Генерал Тошево",
+      "naselenie_nastoyasht_adres": 5969,
+      "naselenie_postoyanen_adres": 6576
+    },
+    {
+      "grad": "Царево",
+      "naselenie_nastoyasht_adres": 5889,
+      "naselenie_postoyanen_adres": 6009
+    },
+    {
+      "grad": "Божурище",
+      "naselenie_nastoyasht_adres": 5876,
+      "naselenie_postoyanen_adres": 5433
+    },
+    {
+      "grad": "Девин",
+      "naselenie_nastoyasht_adres": 5780,
+      "naselenie_postoyanen_adres": 6333
+    },
+    {
+      "grad": "Костенец",
+      "naselenie_nastoyasht_adres": 5653,
+      "naselenie_postoyanen_adres": 6209
+    },
+    {
+      "grad": "Мадан",
+      "naselenie_nastoyasht_adres": 5564,
+      "naselenie_postoyanen_adres": 5858
+    },
+    {
+      "grad": "Вършец",
+      "naselenie_nastoyasht_adres": 5559,
+      "naselenie_postoyanen_adres": 6109
+    },
+    {
+      "grad": "Съединение",
+      "naselenie_nastoyasht_adres": 5509,
+      "naselenie_postoyanen_adres": 5647
+    },
+    {
+      "grad": "Камено",
+      "naselenie_nastoyasht_adres": 5505,
+      "naselenie_postoyanen_adres": 5730
+    },
+    {
+      "grad": "Крумовград",
+      "naselenie_nastoyasht_adres": 5426,
+      "naselenie_postoyanen_adres": 8491
+    },
+    {
+      "grad": "Котел",
+      "naselenie_nastoyasht_adres": 5046,
+      "naselenie_postoyanen_adres": 5598
+    },
+    {
+      "grad": "Суворово",
+      "naselenie_nastoyasht_adres": 5035,
+      "naselenie_postoyanen_adres": 5218
+    },
+    {
+      "grad": "Якоруда",
+      "naselenie_nastoyasht_adres": 5017,
+      "naselenie_postoyanen_adres": 5475
+    },
+    {
+      "grad": "Стражица",
+      "naselenie_nastoyasht_adres": 4988,
+      "naselenie_postoyanen_adres": 5354
+    },
+    {
+      "grad": "Перущица",
+      "naselenie_nastoyasht_adres": 4936,
+      "naselenie_postoyanen_adres": 5058
+    },
+    {
+      "grad": "Созопол",
+      "naselenie_nastoyasht_adres": 4842,
+      "naselenie_postoyanen_adres": 4921
+    },
+    {
+      "grad": "Свети Влас",
+      "naselenie_nastoyasht_adres": 4810,
+      "naselenie_postoyanen_adres": 4067
+    },
+    {
+      "grad": "Долна баня",
+      "naselenie_nastoyasht_adres": 4779,
+      "naselenie_postoyanen_adres": 4673
+    },
+    {
+      "grad": "Бобов дол",
+      "naselenie_nastoyasht_adres": 4761,
+      "naselenie_postoyanen_adres": 5074
+    },
+    {
+      "grad": "Ардино",
+      "naselenie_nastoyasht_adres": 4732,
+      "naselenie_postoyanen_adres": 10538
+    },
+    {
+      "grad": "Елена",
+      "naselenie_nastoyasht_adres": 4637,
+      "naselenie_postoyanen_adres": 5298
+    },
+    {
+      "grad": "Тополовград",
+      "naselenie_nastoyasht_adres": 4613,
+      "naselenie_postoyanen_adres": 5176
+    },
+    {
+      "grad": "Дългопол",
+      "naselenie_nastoyasht_adres": 4561,
+      "naselenie_postoyanen_adres": 4811
+    },
+    {
+      "grad": "Чепеларе",
+      "naselenie_nastoyasht_adres": 4548,
+      "naselenie_postoyanen_adres": 4813
+    },
+    {
+      "grad": "Ветово",
+      "naselenie_nastoyasht_adres": 4499,
+      "naselenie_postoyanen_adres": 5546
+    },
+    {
+      "grad": "Оряхово",
+      "naselenie_nastoyasht_adres": 4499,
+      "naselenie_postoyanen_adres": 4861
+    },
+    {
+      "grad": "Белоградчик",
+      "naselenie_nastoyasht_adres": 4438,
+      "naselenie_postoyanen_adres": 5284
+    },
+    {
+      "grad": "Игнатиево",
+      "naselenie_nastoyasht_adres": 4305,
+      "naselenie_postoyanen_adres": 4346
+    },
+    {
+      "grad": "Долни Дъбник",
+      "naselenie_nastoyasht_adres": 4279,
+      "naselenie_postoyanen_adres": 4430
+    },
+    {
+      "grad": "Златица",
+      "naselenie_nastoyasht_adres": 4275,
+      "naselenie_postoyanen_adres": 4715
+    },
+    {
+      "grad": "Костандово",
+      "naselenie_nastoyasht_adres": 4260,
+      "naselenie_postoyanen_adres": 4423
+    },
+    {
+      "grad": "Тръстеник",
+      "naselenie_nastoyasht_adres": 4155,
+      "naselenie_postoyanen_adres": 4287
+    },
+    {
+      "grad": "Полски Тръмбеш",
+      "naselenie_nastoyasht_adres": 4132,
+      "naselenie_postoyanen_adres": 4678
+    },
+    {
+      "grad": "Правец",
+      "naselenie_nastoyasht_adres": 4110,
+      "naselenie_postoyanen_adres": 4239
+    },
+    {
+      "grad": "Койнаре",
+      "naselenie_nastoyasht_adres": 4090,
+      "naselenie_postoyanen_adres": 4328
+    },
+    {
+      "grad": "Шивачево",
+      "naselenie_nastoyasht_adres": 4066,
+      "naselenie_postoyanen_adres": 4527
+    },
+    {
+      "grad": "Годеч",
+      "naselenie_nastoyasht_adres": 4000,
+      "naselenie_postoyanen_adres": 3976
+    },
+    {
+      "grad": "Смядово",
+      "naselenie_nastoyasht_adres": 3952,
+      "naselenie_postoyanen_adres": 3862
+    },
+    {
+      "grad": "Стрелча",
+      "naselenie_nastoyasht_adres": 3935,
+      "naselenie_postoyanen_adres": 4060
+    },
+    {
+      "grad": "Славяново",
+      "naselenie_nastoyasht_adres": 3924,
+      "naselenie_postoyanen_adres": 4087
+    },
+    {
+      "grad": "Джебел",
+      "naselenie_nastoyasht_adres": 3896,
+      "naselenie_postoyanen_adres": 8813
+    },
+    {
+      "grad": "Върбица",
+      "naselenie_nastoyasht_adres": 3853,
+      "naselenie_postoyanen_adres": 4366
+    },
+    {
+      "grad": "Мартен",
+      "naselenie_nastoyasht_adres": 3853,
+      "naselenie_postoyanen_adres": 3644
+    },
+    {
+      "grad": "Сапарева баня",
+      "naselenie_nastoyasht_adres": 3806,
+      "naselenie_postoyanen_adres": 3840
+    },
+    {
+      "grad": "Брацигово",
+      "naselenie_nastoyasht_adres": 3799,
+      "naselenie_postoyanen_adres": 3932
+    },
+    {
+      "grad": "Брезник",
+      "naselenie_nastoyasht_adres": 3663,
+      "naselenie_postoyanen_adres": 3733
+    },
+    {
+      "grad": "Две могили",
+      "naselenie_nastoyasht_adres": 3566,
+      "naselenie_postoyanen_adres": 4247
+    },
+    {
+      "grad": "Летница",
+      "naselenie_nastoyasht_adres": 3492,
+      "naselenie_postoyanen_adres": 4184
+    },
+    {
+      "grad": "Неделино",
+      "naselenie_nastoyasht_adres": 3473,
+      "naselenie_postoyanen_adres": 3799
+    },
+    {
+      "grad": "Белово",
+      "naselenie_nastoyasht_adres": 3459,
+      "naselenie_postoyanen_adres": 3786
+    },
+    {
+      "grad": "Никопол",
+      "naselenie_nastoyasht_adres": 3418,
+      "naselenie_postoyanen_adres": 4079
+    },
+    {
+      "grad": "Дебелец",
+      "naselenie_nastoyasht_adres": 3411,
+      "naselenie_postoyanen_adres": 3632
+    },
+    {
+      "grad": "Рудозем",
+      "naselenie_nastoyasht_adres": 3346,
+      "naselenie_postoyanen_adres": 3727
+    },
+    {
+      "grad": "Глоджево",
+      "naselenie_nastoyasht_adres": 3312,
+      "naselenie_postoyanen_adres": 4176
+    },
+    {
+      "grad": "Приморско",
+      "naselenie_nastoyasht_adres": 3305,
+      "naselenie_postoyanen_adres": 3409
+    },
+    {
+      "grad": "Сливо поле",
+      "naselenie_nastoyasht_adres": 3290,
+      "naselenie_postoyanen_adres": 3966
+    },
+    {
+      "grad": "Искър",
+      "naselenie_nastoyasht_adres": 3214,
+      "naselenie_postoyanen_adres": 3365
+    },
+    {
+      "grad": "Мъглиж",
+      "naselenie_nastoyasht_adres": 3197,
+      "naselenie_postoyanen_adres": 3336
+    },
+    {
+      "grad": "Сунгурларе",
+      "naselenie_nastoyasht_adres": 3183,
+      "naselenie_postoyanen_adres": 3530
+    },
+    {
+      "grad": "Николаево",
+      "naselenie_nastoyasht_adres": 3181,
+      "naselenie_postoyanen_adres": 3353
+    },
+    {
+      "grad": "Кресна",
+      "naselenie_nastoyasht_adres": 3178,
+      "naselenie_postoyanen_adres": 3260
+    },
+    {
+      "grad": "Долна Митрополия",
+      "naselenie_nastoyasht_adres": 3108,
+      "naselenie_postoyanen_adres": 3260
+    },
+    {
+      "grad": "Цар Калоян",
+      "naselenie_nastoyasht_adres": 3081,
+      "naselenie_postoyanen_adres": 4293
+    },
+    {
+      "grad": "Белица",
+      "naselenie_nastoyasht_adres": 3073,
+      "naselenie_postoyanen_adres": 3241
+    },
+    {
+      "grad": "Гулянци",
+      "naselenie_nastoyasht_adres": 3024,
+      "naselenie_postoyanen_adres": 3204
+    },
+    {
+      "grad": "Баня",
+      "naselenie_nastoyasht_adres": 2997,
+      "naselenie_postoyanen_adres": 3382
+    },
+    {
+      "grad": "Гурково",
+      "naselenie_nastoyasht_adres": 2989,
+      "naselenie_postoyanen_adres": 3129
+    },
+    {
+      "grad": "Драгоман",
+      "naselenie_nastoyasht_adres": 2982,
+      "naselenie_postoyanen_adres": 3102
+    },
+    {
+      "grad": "Вълчи дол",
+      "naselenie_nastoyasht_adres": 2973,
+      "naselenie_postoyanen_adres": 3047
+    },
+    {
+      "grad": "Вълчедръм",
+      "naselenie_nastoyasht_adres": 2961,
+      "naselenie_postoyanen_adres": 3048
+    },
+    {
+      "grad": "Шабла",
+      "naselenie_nastoyasht_adres": 2947,
+      "naselenie_postoyanen_adres": 3009
+    },
+    {
+      "grad": "Крън",
+      "naselenie_nastoyasht_adres": 2912,
+      "naselenie_postoyanen_adres": 3260
+    },
+    {
+      "grad": "Каблешково",
+      "naselenie_nastoyasht_adres": 2912,
+      "naselenie_postoyanen_adres": 2924
+    },
+    {
+      "grad": "Криводол",
+      "naselenie_nastoyasht_adres": 2896,
+      "naselenie_postoyanen_adres": 3156
+    },
+    {
+      "grad": "Ивайловград",
+      "naselenie_nastoyasht_adres": 2883,
+      "naselenie_postoyanen_adres": 3408
+    },
+    {
+      "grad": "Каспичан",
+      "naselenie_nastoyasht_adres": 2858,
+      "naselenie_postoyanen_adres": 3018
+    },
+    {
+      "grad": "Завет",
+      "naselenie_nastoyasht_adres": 2847,
+      "naselenie_postoyanen_adres": 3781
+    },
+    {
+      "grad": "Ветрен",
+      "naselenie_nastoyasht_adres": 2746,
+      "naselenie_postoyanen_adres": 2876
+    },
+    {
+      "grad": "Златарица",
+      "naselenie_nastoyasht_adres": "2694|",
+      "naselenie_postoyanen_adres": 2649
+    },
+    {
+      "grad": "Угърчин",
+      "naselenie_nastoyasht_adres": 2657,
+      "naselenie_postoyanen_adres": 2795
+    },
+    {
+      "grad": "Садово",
+      "naselenie_nastoyasht_adres": 2628,
+      "naselenie_postoyanen_adres": 2318
+    },
+    {
+      "grad": "Батак",
+      "naselenie_nastoyasht_adres": 2625,
+      "naselenie_postoyanen_adres": 2789
+    },
+    {
+      "grad": "Бухово",
+      "naselenie_nastoyasht_adres": 2607,
+      "naselenie_postoyanen_adres": 2563
+    },
+    {
+      "grad": "Мизия",
+      "naselenie_nastoyasht_adres": 2602,
+      "naselenie_postoyanen_adres": 2805
+    },
+    {
+      "grad": "Долна Оряховица",
+      "naselenie_nastoyasht_adres": 2571,
+      "naselenie_postoyanen_adres": 2680
+    },
+    {
+      "grad": "Ябланица",
+      "naselenie_nastoyasht_adres": 2565,
+      "naselenie_postoyanen_adres": 2691
+    },
+    {
+      "grad": "Бяла черква",
+      "naselenie_nastoyasht_adres": 2562,
+      "naselenie_postoyanen_adres": 2641
+    },
+    {
+      "grad": "Добринище",
+      "naselenie_nastoyasht_adres": 2550,
+      "naselenie_postoyanen_adres": 2737
+    },
+    {
+      "grad": "Калофер",
+      "naselenie_nastoyasht_adres": 2542,
+      "naselenie_postoyanen_adres": 2725
+    },
+    {
+      "grad": "Павел баня",
+      "naselenie_nastoyasht_adres": 2518,
+      "naselenie_postoyanen_adres": 2795
+    },
+    {
+      "grad": "Роман",
+      "naselenie_nastoyasht_adres": 2514,
+      "naselenie_postoyanen_adres": 2862
+    },
+    {
+      "grad": "Черноморец",
+      "naselenie_nastoyasht_adres": 2495,
+      "naselenie_postoyanen_adres": 2200
+    },
+    {
+      "grad": "Априлци",
+      "naselenie_nastoyasht_adres": 2445,
+      "naselenie_postoyanen_adres": 2346
+    },
+    {
+      "grad": "Кула",
+      "naselenie_nastoyasht_adres": 2444,
+      "naselenie_postoyanen_adres": 2704
+    },
+    {
+      "grad": "Хаджидимово",
+      "naselenie_nastoyasht_adres": 2425,
+      "naselenie_postoyanen_adres": 2648
+    },
+    {
+      "grad": "Опака",
+      "naselenie_nastoyasht_adres": 2380,
+      "naselenie_postoyanen_adres": 2656
+    },
+    {
+      "grad": "Дунавци",
+      "naselenie_nastoyasht_adres": 2323,
+      "naselenie_postoyanen_adres": 2325
+    },
+    {
+      "grad": "Рила",
+      "naselenie_nastoyasht_adres": 2320,
+      "naselenie_postoyanen_adres": 2288
+    },
+    {
+      "grad": "Трън",
+      "naselenie_nastoyasht_adres": 2318,
+      "naselenie_postoyanen_adres": 2535
+    },
+    {
+      "grad": "Обзор",
+      "naselenie_nastoyasht_adres": 2309,
+      "naselenie_postoyanen_adres": 2012
+    },
+    {
+      "grad": "Бяла (Вн)",
+      "naselenie_nastoyasht_adres": 2293,
+      "naselenie_postoyanen_adres": 2142
+    },
+    {
+      "grad": "Килифарево",
+      "naselenie_nastoyasht_adres": 2232,
+      "naselenie_postoyanen_adres": 2385
+    },
+    {
+      "grad": "Ахелой",
+      "naselenie_nastoyasht_adres": 2122,
+      "naselenie_postoyanen_adres": 2133
+    },
+    {
+      "grad": "Брегово",
+      "naselenie_nastoyasht_adres": 2059,
+      "naselenie_postoyanen_adres": 2188
+    },
+    {
+      "grad": "Лозница",
+      "naselenie_nastoyasht_adres": 2056,
+      "naselenie_postoyanen_adres": 2691
+    },
+    {
+      "grad": "Кочериново",
+      "naselenie_nastoyasht_adres": 2008,
+      "naselenie_postoyanen_adres": 1745
+    },
+    {
+      "grad": "Батановци",
+      "naselenie_nastoyasht_adres": 1997,
+      "naselenie_postoyanen_adres": 2083
+    },
+    {
+      "grad": "Доспат",
+      "naselenie_nastoyasht_adres": 1996,
+      "naselenie_postoyanen_adres": 2200
+    },
+    {
+      "grad": "Каолиново",
+      "naselenie_nastoyasht_adres": 1993,
+      "naselenie_postoyanen_adres": 3319
+    },
+    {
+      "grad": "Копривщица",
+      "naselenie_nastoyasht_adres": 1984,
+      "naselenie_postoyanen_adres": 1959
+    },
+    {
+      "grad": "Пордим",
+      "naselenie_nastoyasht_adres": 1935,
+      "naselenie_postoyanen_adres": 1983
+    },
+    {
+      "grad": "Българово",
+      "naselenie_nastoyasht_adres": 1934,
+      "naselenie_postoyanen_adres": 1912
+    },
+    {
+      "grad": "Борово",
+      "naselenie_nastoyasht_adres": 1887,
+      "naselenie_postoyanen_adres": 2160
+    },
+    {
+      "grad": "Малко Търново",
+      "naselenie_nastoyasht_adres": 1852,
+      "naselenie_postoyanen_adres": 1998
+    },
+    {
+      "grad": "Сухиндол",
+      "naselenie_nastoyasht_adres": 1761,
+      "naselenie_postoyanen_adres": 1792
+    },
+    {
+      "grad": "Кермен",
+      "naselenie_nastoyasht_adres": 1642,
+      "naselenie_postoyanen_adres": 1586
+    },
+    {
+      "grad": "Меричлери",
+      "naselenie_nastoyasht_adres": 1611,
+      "naselenie_postoyanen_adres": 1650
+    },
+    {
+      "grad": "Лъки",
+      "naselenie_nastoyasht_adres": 1609,
+      "naselenie_postoyanen_adres": 1751
+    },
+    {
+      "grad": "Главиница",
+      "naselenie_nastoyasht_adres": 1608,
+      "naselenie_postoyanen_adres": 1895
+    },
+    {
+      "grad": "Брезово",
+      "naselenie_nastoyasht_adres": 1602,
+      "naselenie_postoyanen_adres": 1653
+    },
+    {
+      "grad": "Чипровци",
+      "naselenie_nastoyasht_adres": 1458,
+      "naselenie_postoyanen_adres": 1557
+    },
+    {
+      "grad": "Антоново",
+      "naselenie_nastoyasht_adres": 1451,
+      "naselenie_postoyanen_adres": 1717
+    },
+    {
+      "grad": "Земен",
+      "naselenie_nastoyasht_adres": 1374,
+      "naselenie_postoyanen_adres": 1256
+    },
+    {
+      "grad": "Плачковци",
+      "naselenie_nastoyasht_adres": 1372,
+      "naselenie_postoyanen_adres": 1481
+    },
+    {
+      "grad": "Бойчиновци",
+      "naselenie_nastoyasht_adres": 1363,
+      "naselenie_postoyanen_adres": 1466
+    },
+    {
+      "grad": "Момин проход",
+      "naselenie_nastoyasht_adres": 1341,
+      "naselenie_postoyanen_adres": 1439
+    },
+    {
+      "grad": "Сеново",
+      "naselenie_nastoyasht_adres": 1324,
+      "naselenie_postoyanen_adres": 1332
+    },
+    {
+      "grad": "Алфатар",
+      "naselenie_nastoyasht_adres": 1313,
+      "naselenie_postoyanen_adres": 1323
+    },
+    {
+      "grad": "Ахтопол",
+      "naselenie_nastoyasht_adres": 1222,
+      "naselenie_postoyanen_adres": 1190
+    },
+    {
+      "grad": "Шипка",
+      "naselenie_nastoyasht_adres": 1192,
+      "naselenie_postoyanen_adres": 1229
+    },
+    {
+      "grad": "Бобошево",
+      "naselenie_nastoyasht_adres": 1184,
+      "naselenie_postoyanen_adres": 1008
+    },
+    {
+      "grad": "Грамада",
+      "naselenie_nastoyasht_adres": 1129,
+      "naselenie_postoyanen_adres": 1125
+    },
+    {
+      "grad": "Болярово",
+      "naselenie_nastoyasht_adres": 1120,
+      "naselenie_postoyanen_adres": 1042
+    },
+    {
+      "grad": "Китен",
+      "naselenie_nastoyasht_adres": 1063,
+      "naselenie_postoyanen_adres": 908
+    },
+    {
+      "grad": "Димово",
+      "naselenie_nastoyasht_adres": 1036,
+      "naselenie_postoyanen_adres": 982
+    },
+    {
+      "grad": "Брусарци",
+      "naselenie_nastoyasht_adres": 993,
+      "naselenie_postoyanen_adres": 983
+    },
+    {
+      "grad": "Плиска",
+      "naselenie_nastoyasht_adres": 868,
+      "naselenie_postoyanen_adres": 844
+    },
+    {
+      "grad": "Клисура",
+      "naselenie_nastoyasht_adres": 861,
+      "naselenie_postoyanen_adres": 988
+    },
+    {
+      "grad": "Маджарово",
+      "naselenie_nastoyasht_adres": 624,
+      "naselenie_postoyanen_adres": 605
+    },
+    {
+      "grad": "Мелник",
+      "naselenie_nastoyasht_adres": 240,
+      "naselenie_postoyanen_adres": 170
+    }
+  ],
+  "meta": {
+    "title": "Градове в България — население по настоящ и постоянен адрес - Free Download",
+    "description": "Население на градовете в България по настоящ и постоянен адрес (ГРАО). Contains 256 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Градове в България — население по настоящ и постоянен адрес | ListBase",
+    "seo_description": "Download Градове в България — население по настоящ и постоянен адрес — 256 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 256 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_градовете_в_България_по_население"
+    ]
+  }
+}
