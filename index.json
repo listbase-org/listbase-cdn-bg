@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:03.262Z",
-  "total_datasets": 422,
-  "total_records": 189787,
+  "generated": "2026-10-27T02:21:05.575Z",
+  "total_datasets": 423,
+  "total_records": 189916,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -4346,6 +4346,31 @@
         "xlsx": {
           "name": "bg-ministri-otbrana_BG.xlsx",
           "size": 12132
+        }
+      }
+    },
+    {
+      "id": "bg-ministri-vanshni-raboti",
+      "name": "Министри на външните работи на България",
+      "category": "politics",
+      "record_count": 129,
+      "columns": [
+        "pravitelstvo",
+        "ime",
+        "dati",
+        "partiya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Министър_на_външните_работи_на_България",
+      "updated": "2026-10",
+      "size": 26687,
+      "files": {
+        "csv": {
+          "name": "bg-ministri-vanshni-raboti_BG.csv",
+          "size": 14056
+        },
+        "xlsx": {
+          "name": "bg-ministri-vanshni-raboti_BG.xlsx",
+          "size": 11847
         }
       }
     },
