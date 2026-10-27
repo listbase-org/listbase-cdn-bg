@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:20:48.301Z",
-  "total_datasets": 416,
-  "total_records": 189134,
+  "generated": "2026-10-27T02:20:50.756Z",
+  "total_datasets": 417,
+  "total_records": 189262,
   "categories": [
     {
       "id": "culture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -1833,6 +1833,31 @@
         "xlsx": {
           "name": "bg-gazovi-elektrocentrali_BG.xlsx",
           "size": 7656
+        }
+      }
+    },
+    {
+      "id": "bg-ministri-finansi",
+      "name": "Министри на финансите на България",
+      "category": "finance",
+      "record_count": 128,
+      "columns": [
+        "pravitelstvo",
+        "ime",
+        "dati",
+        "partiya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Министър_на_финансите_на_България",
+      "updated": "2026-10",
+      "size": 26557,
+      "files": {
+        "csv": {
+          "name": "bg-ministri-finansi_BG.csv",
+          "size": 14126
+        },
+        "xlsx": {
+          "name": "bg-ministri-finansi_BG.xlsx",
+          "size": 11716
         }
       }
     },
