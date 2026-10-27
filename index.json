@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:12.631Z",
-  "total_datasets": 426,
-  "total_records": 190246,
+  "generated": "2026-10-27T02:21:14.870Z",
+  "total_datasets": 427,
+  "total_records": 190264,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -10547,6 +10547,29 @@
         "xlsx": {
           "name": "bg-gradove-nastoyasht-postoyanen-adres_BG.xlsx",
           "size": 14009
+        }
+      }
+    },
+    {
+      "id": "bg-naselenie-prebroyavaniya",
+      "name": "Население на България по преброявания",
+      "category": "society",
+      "record_count": 18,
+      "columns": [
+        "godina",
+        "chislenost"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Население_на_България",
+      "updated": "2026-10",
+      "size": 2769,
+      "files": {
+        "csv": {
+          "name": "bg-naselenie-prebroyavaniya_BG.csv",
+          "size": 330
+        },
+        "xlsx": {
+          "name": "bg-naselenie-prebroyavaniya_BG.xlsx",
+          "size": 6975
         }
       }
     },

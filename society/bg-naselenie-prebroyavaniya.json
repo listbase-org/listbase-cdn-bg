@@ -1,0 +1,108 @@
+{
+  "id": "bg-naselenie-prebroyavaniya",
+  "name": "Население на България по преброявания",
+  "title": "Население на България по преброявания",
+  "description": "Численост на населението на България според преброяванията от 1880 г.",
+  "category": "society",
+  "source": "https://bg.wikipedia.org/wiki/Население_на_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Население_на_България",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "chislenost",
+      "label": "Chislenost",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 1880,
+      "chislenost": 2007919
+    },
+    {
+      "godina": 1887,
+      "chislenost": 3154375
+    },
+    {
+      "godina": 1892,
+      "chislenost": 3310713
+    },
+    {
+      "godina": 1900,
+      "chislenost": 3744283
+    },
+    {
+      "godina": 1905,
+      "chislenost": 4035575
+    },
+    {
+      "godina": 1910,
+      "chislenost": 4337513
+    },
+    {
+      "godina": 1920,
+      "chislenost": 4846971
+    },
+    {
+      "godina": 1926,
+      "chislenost": 5528741
+    },
+    {
+      "godina": 1934,
+      "chislenost": 6077939
+    },
+    {
+      "godina": 1946,
+      "chislenost": 7029349
+    },
+    {
+      "godina": 1956,
+      "chislenost": 7629254
+    },
+    {
+      "godina": 1965,
+      "chislenost": 8227966
+    },
+    {
+      "godina": 1975,
+      "chislenost": 8727771
+    },
+    {
+      "godina": 1985,
+      "chislenost": 8948649
+    },
+    {
+      "godina": 1992,
+      "chislenost": 8487317
+    },
+    {
+      "godina": 2001,
+      "chislenost": 7932984
+    },
+    {
+      "godina": 2011,
+      "chislenost": 7364570
+    },
+    {
+      "godina": 2021,
+      "chislenost": 6519789
+    }
+  ],
+  "meta": {
+    "title": "Население на България по преброявания - Free Download",
+    "description": "Численост на населението на България според преброяванията от 1880 г. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Население на България по преброявания | ListBase",
+    "seo_description": "Download Население на България по преброявания — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Население_на_България"
+    ]
+  }
+}
