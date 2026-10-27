@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:31.650Z",
-  "total_datasets": 434,
-  "total_records": 190544,
+  "generated": "2026-10-27T02:21:34.343Z",
+  "total_datasets": 435,
+  "total_records": 190557,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -11006,6 +11006,33 @@
         "xlsx": {
           "name": "bg-kashti-za-gosti_BG.xlsx",
           "size": 33602
+        }
+      }
+    },
+    {
+      "id": "bg-ski-kurorti",
+      "name": "Ски курорти в България",
+      "category": "tourism",
+      "record_count": 13,
+      "columns": [
+        "kurort",
+        "oblast",
+        "nadmorska_visochina",
+        "pisti_km",
+        "alpiiski_pisti",
+        "plosht_pisti"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_ски_курорти_в_България",
+      "updated": "2026-10",
+      "size": 5090,
+      "files": {
+        "csv": {
+          "name": "bg-ski-kurorti_BG.csv",
+          "size": 1378
+        },
+        "xlsx": {
+          "name": "bg-ski-kurorti_BG.xlsx",
+          "size": 7636
         }
       }
     },

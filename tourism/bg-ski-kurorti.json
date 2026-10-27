@@ -1,0 +1,160 @@
+{
+  "id": "bg-ski-kurorti",
+  "name": "Ски курорти в България",
+  "title": "Ски курорти в България",
+  "description": "Ски курорти в България с област, надморска височина и дължина на пистите.",
+  "category": "tourism",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_ски_курорти_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_ски_курорти_в_България",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "kurort",
+      "label": "Kurort",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "nadmorska_visochina",
+      "label": "Nadmorska Visochina",
+      "type": "string"
+    },
+    {
+      "key": "pisti_km",
+      "label": "Pisti Km",
+      "type": "string"
+    },
+    {
+      "key": "alpiiski_pisti",
+      "label": "Alpiiski Pisti",
+      "type": "string"
+    },
+    {
+      "key": "plosht_pisti",
+      "label": "Plosht Pisti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kurort": "Банско",
+      "oblast": "Област Благоевград",
+      "nadmorska_visochina": "990 – 2525 м",
+      "pisti_km": "75 км",
+      "alpiiski_pisti": "34 км",
+      "plosht_pisti": "1.35 км 2"
+    },
+    {
+      "kurort": "Боровец",
+      "oblast": "Софийска област",
+      "nadmorska_visochina": "1320 – 2544 м",
+      "pisti_km": "58 км",
+      "alpiiski_pisti": "29.5 км",
+      "plosht_pisti": "0.95 км 2"
+    },
+    {
+      "kurort": "Витоша",
+      "oblast": "Област София",
+      "nadmorska_visochina": "1505 – 2275 м",
+      "pisti_km": "29 км",
+      "alpiiski_pisti": "9.1 км",
+      "plosht_pisti": "0.31 км 2"
+    },
+    {
+      "kurort": "Добринище",
+      "oblast": "Област Благоевград",
+      "nadmorska_visochina": "1480 – 2235 м",
+      "pisti_km": "5 км",
+      "alpiiski_pisti": "4.0 км",
+      "plosht_pisti": "0.10 км 2"
+    },
+    {
+      "kurort": "Картала",
+      "oblast": "Област Благоевград",
+      "nadmorska_visochina": "1410 – 2245 м",
+      "pisti_km": "6 км",
+      "alpiiski_pisti": "4.6 км",
+      "plosht_pisti": "0.25 км 2"
+    },
+    {
+      "kurort": "Мальовица",
+      "oblast": "Софийска област",
+      "nadmorska_visochina": "1720 – 1966 м",
+      "pisti_km": "4 км",
+      "alpiiski_pisti": "1.9 км",
+      "plosht_pisti": "0.08 км 2"
+    },
+    {
+      "kurort": "Пампорово",
+      "oblast": "Област Смолян",
+      "nadmorska_visochina": "1450 – 1925м",
+      "pisti_km": "37 км",
+      "alpiiski_pisti": "21.3 км",
+      "plosht_pisti": "0.59 км 2"
+    },
+    {
+      "kurort": "Паничище",
+      "oblast": "Област Кюстендил",
+      "nadmorska_visochina": "1590 – 2260 м",
+      "pisti_km": "5 км",
+      "alpiiski_pisti": "3.4 км",
+      "plosht_pisti": "0.13 км 2"
+    },
+    {
+      "kurort": "Семково",
+      "oblast": "Област Благоевград",
+      "nadmorska_visochina": "1500 – 1750 м",
+      "pisti_km": "4 км",
+      "alpiiski_pisti": "",
+      "plosht_pisti": ""
+    },
+    {
+      "kurort": "Узана",
+      "oblast": "Област Габрово",
+      "nadmorska_visochina": "1220 – 1350 м",
+      "pisti_km": "3 км",
+      "alpiiski_pisti": "",
+      "plosht_pisti": ""
+    },
+    {
+      "kurort": "Цигов чарк",
+      "oblast": "Област Пазарджик",
+      "nadmorska_visochina": "900 – 1100 м",
+      "pisti_km": "1.5 км",
+      "alpiiski_pisti": "",
+      "plosht_pisti": ""
+    },
+    {
+      "kurort": "Чепеларе",
+      "oblast": "Област Смолян",
+      "nadmorska_visochina": "1150 – 1865 м",
+      "pisti_km": "20 км",
+      "alpiiski_pisti": "10.5 км",
+      "plosht_pisti": "0.25 км 2"
+    },
+    {
+      "kurort": "Осогово",
+      "oblast": "Област Кюстендил",
+      "nadmorska_visochina": "1625 - 1835м",
+      "pisti_km": "1.9 км",
+      "alpiiski_pisti": "",
+      "plosht_pisti": "0.05 км 2"
+    }
+  ],
+  "meta": {
+    "title": "Ски курорти в България - Free Download",
+    "description": "Ски курорти в България с област, надморска височина и дължина на пистите. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ски курорти в България | ListBase",
+    "seo_description": "Download Ски курорти в България — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_ски_курорти_в_България"
+    ]
+  }
+}
