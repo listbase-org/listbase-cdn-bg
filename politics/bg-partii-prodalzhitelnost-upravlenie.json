@@ -1,0 +1,131 @@
+{
+  "id": "bg-partii-prodalzhitelnost-upravlenie",
+  "name": "Политически партии по продължителност на управление",
+  "title": "Политически партии по продължителност на управление",
+  "description": "Български партии, класирани по общ брой дни, през които техни представители са били министър-председатели.",
+  "category": "politics",
+  "source": "https://bg.wikipedia.org/wiki/Министър-председатели_на_България_по_продължителност_на_управление",
+  "source_url": "https://bg.wikipedia.org/wiki/Министър-председатели_на_България_по_продължителност_на_управление",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "myasto",
+      "label": "Myasto",
+      "type": "number"
+    },
+    {
+      "key": "partiya",
+      "label": "Partiya",
+      "type": "string"
+    },
+    {
+      "key": "dni_upravlenie",
+      "label": "Dni Upravlenie",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "myasto": 1,
+      "partiya": "Българска комунистическа партия / Българска социалистическа партия",
+      "dni_upravlenie": 18543
+    },
+    {
+      "myasto": 2,
+      "partiya": "независим",
+      "dni_upravlenie": 5802
+    },
+    {
+      "myasto": 3,
+      "partiya": "Народнолиберална партия",
+      "dni_upravlenie": 4475
+    },
+    {
+      "myasto": 4,
+      "partiya": "ГЕРБ",
+      "dni_upravlenie": 4005
+    },
+    {
+      "myasto": 5,
+      "partiya": "Демократически сговор",
+      "dni_upravlenie": 2942
+    },
+    {
+      "myasto": 6,
+      "partiya": "Либерална партия (радослависти)",
+      "dni_upravlenie": 2881
+    },
+    {
+      "myasto": 7,
+      "partiya": "Народна партия",
+      "dni_upravlenie": 2878
+    },
+    {
+      "myasto": 8,
+      "partiya": "Демократическа партия",
+      "dni_upravlenie": 2675
+    },
+    {
+      "myasto": 9,
+      "partiya": "Съюз на демократичните сили",
+      "dni_upravlenie": 2041
+    },
+    {
+      "myasto": 10,
+      "partiya": "Национално движение Симеон Втори",
+      "dni_upravlenie": 1485
+    },
+    {
+      "myasto": 11,
+      "partiya": "Български земеделски народен съюз",
+      "dni_upravlenie": 1349
+    },
+    {
+      "myasto": 12,
+      "partiya": "Либерална партия",
+      "dni_upravlenie": 1172
+    },
+    {
+      "myasto": 13,
+      "partiya": "Звено",
+      "dni_upravlenie": 1053
+    },
+    {
+      "myasto": 14,
+      "partiya": "военен",
+      "dni_upravlenie": 595
+    },
+    {
+      "myasto": 15,
+      "partiya": "Продължаваме промяната",
+      "dni_upravlenie": 540
+    },
+    {
+      "myasto": 16,
+      "partiya": "Прогресивнолиберална партия",
+      "dni_upravlenie": 533
+    },
+    {
+      "myasto": 17,
+      "partiya": "Консервативна партия",
+      "dni_upravlenie": 268
+    },
+    {
+      "myasto": 18,
+      "partiya": "Прогресивна България",
+      "dni_upravlenie": 173
+    }
+  ],
+  "meta": {
+    "title": "Политически партии по продължителност на управление - Free Download",
+    "description": "Български партии, класирани по общ брой дни, през които техни представители са били министър-председатели. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Политически партии по продължителност на управление | ListBase",
+    "seo_description": "Download Политически партии по продължителност на управление — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Министър-председатели_на_България_по_продължителност_на_управление"
+    ]
+  }
+}
