@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:29.236Z",
-  "total_datasets": 433,
-  "total_records": 190441,
+  "generated": "2026-10-27T02:21:31.650Z",
+  "total_datasets": 434,
+  "total_records": 190544,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tech",
@@ -10724,6 +10724,31 @@
         "xlsx": {
           "name": "bg-naselenie-prebroyavaniya_BG.xlsx",
           "size": 6975
+        }
+      }
+    },
+    {
+      "id": "bg-shampioni-futbol",
+      "name": "Шампиони на България по футбол",
+      "category": "sports",
+      "record_count": 103,
+      "columns": [
+        "sezon",
+        "shampion",
+        "vitseshampion",
+        "treto_myasto"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Първенство_на_България_по_футбол",
+      "updated": "2026-10",
+      "size": 22909,
+      "files": {
+        "csv": {
+          "name": "bg-shampioni-futbol_BG.csv",
+          "size": 11433
+        },
+        "xlsx": {
+          "name": "bg-shampioni-futbol_BG.xlsx",
+          "size": 10073
         }
       }
     },

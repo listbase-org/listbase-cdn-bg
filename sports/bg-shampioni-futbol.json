@@ -1,0 +1,664 @@
+{
+  "id": "bg-shampioni-futbol",
+  "name": "Шампиони на България по футбол",
+  "title": "Шампиони на България по футбол",
+  "description": "Шампиони, вицешампиони и трети в първенството на България по футбол по сезони.",
+  "category": "sports",
+  "source": "https://bg.wikipedia.org/wiki/Първенство_на_България_по_футбол",
+  "source_url": "https://bg.wikipedia.org/wiki/Първенство_на_България_по_футбол",
+  "updated": "2026-10",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "sezon",
+      "label": "Sezon",
+      "type": "string"
+    },
+    {
+      "key": "shampion",
+      "label": "Shampion",
+      "type": "string"
+    },
+    {
+      "key": "vitseshampion",
+      "label": "Vitseshampion",
+      "type": "string"
+    },
+    {
+      "key": "treto_myasto",
+      "label": "Treto Myasto",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezon": "2025/26",
+      "shampion": "Левски (София)",
+      "vitseshampion": "ЦСКА 1948 (София)",
+      "treto_myasto": "Лудогорец (Разград)"
+    },
+    {
+      "sezon": "2024/25",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Черно море (Варна)"
+    },
+    {
+      "sezon": "2023/24",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "Черно море (Варна)",
+      "treto_myasto": "ЦСКА-София"
+    },
+    {
+      "sezon": "2022/23",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "ЦСКА-София",
+      "treto_myasto": "ЦСКА 1948"
+    },
+    {
+      "sezon": "2021/22",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "ЦСКА-София",
+      "treto_myasto": "Ботев (Пловдив)"
+    },
+    {
+      "sezon": "2020/21",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "Локомотив (Пловдив)",
+      "treto_myasto": "ЦСКА-София"
+    },
+    {
+      "sezon": "2019/20",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "ЦСКА-София",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "2018/19",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "ЦСКА-София",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "2017/18",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "ЦСКА-София",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "2016/17",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "ЦСКА-София",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "2015/16",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Берое (Стара Загора)"
+    },
+    {
+      "sezon": "2014/15",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "Берое (Стара Загора)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "2013/14",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "ПФК ЦСКА (София)",
+      "treto_myasto": "ПФК Литекс (Ловеч)"
+    },
+    {
+      "sezon": "2012/13",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "ПФК ЦСКА (София)"
+    },
+    {
+      "sezon": "2011/12",
+      "shampion": "ПФК Лудогорец 1945 (Разград)",
+      "vitseshampion": "ПФК ЦСКА (София)",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "2010/11",
+      "shampion": "ПФК Литекс (Ловеч)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "ПФК ЦСКА (София)"
+    },
+    {
+      "sezon": "2009/10",
+      "shampion": "ПФК Литекс (Ловеч)",
+      "vitseshampion": "ПФК ЦСКА (София)",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "2008/09",
+      "shampion": "Левски (София)",
+      "vitseshampion": "ЦСКА (София)",
+      "treto_myasto": "Черно море (Варна)"
+    },
+    {
+      "sezon": "2007/08",
+      "shampion": "ЦСКА (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "2006/07",
+      "shampion": "Левски (София)",
+      "vitseshampion": "ЦСКА (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "2005/06",
+      "shampion": "Левски (София)",
+      "vitseshampion": "ЦСКА (София)",
+      "treto_myasto": "Литекс (Ловеч)"
+    },
+    {
+      "sezon": "2004/05",
+      "shampion": "ЦСКА (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Локомотив (Пловдив)"
+    },
+    {
+      "sezon": "2003/04",
+      "shampion": "Локомотив (Пловдив)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "ЦСКА (София)"
+    },
+    {
+      "sezon": "2002/03",
+      "shampion": "ЦСКА (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Литекс (Ловеч)"
+    },
+    {
+      "sezon": "2001/02",
+      "shampion": "Левски (София)",
+      "vitseshampion": "Литекс (Ловеч)",
+      "treto_myasto": "ЦСКА (София)"
+    },
+    {
+      "sezon": "2000/01",
+      "shampion": "Левски (София)",
+      "vitseshampion": "ЦСКА (София)",
+      "treto_myasto": "Велбъжд (Кюстендил)"
+    },
+    {
+      "sezon": "1999/00",
+      "shampion": "Левски (София)",
+      "vitseshampion": "ЦСКА (София)",
+      "treto_myasto": "Велбъжд (Кюстендил)"
+    },
+    {
+      "sezon": "1998/99",
+      "shampion": "Литекс (Ловеч)",
+      "vitseshampion": "Левски 1914 (София)",
+      "treto_myasto": "Левски (Кюстендил)"
+    },
+    {
+      "sezon": "1997/98",
+      "shampion": "Литекс (Ловеч)",
+      "vitseshampion": "Левски 1914 (София)",
+      "treto_myasto": "ЦСКА (София)"
+    },
+    {
+      "sezon": "1996/97",
+      "shampion": "ЦСКА (София)",
+      "vitseshampion": "Нефтохимик (Бургас)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1995/96",
+      "shampion": "Славия (София)",
+      "vitseshampion": "Левски 1914 (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "1994/95",
+      "shampion": "Левски 1914 (София)",
+      "vitseshampion": "Локомотив (София)",
+      "treto_myasto": "Ботев (Пловдив)"
+    },
+    {
+      "sezon": "1993/94",
+      "shampion": "Левски 1914 (София)",
+      "vitseshampion": "ЦСКА (София)",
+      "treto_myasto": "Ботев (Пловдив)"
+    },
+    {
+      "sezon": "1992/93",
+      "shampion": "Левски 1914 (София)",
+      "vitseshampion": "ЦСКА (София)",
+      "treto_myasto": "Ботев (Пловдив)"
+    },
+    {
+      "sezon": "1991/92",
+      "shampion": "ЦСКА (София)",
+      "vitseshampion": "Левски 1914 (София)",
+      "treto_myasto": "Локомотив (Пловдив)"
+    },
+    {
+      "sezon": "1990/91",
+      "shampion": "Етър (Велико Търново)",
+      "vitseshampion": "ЦСКА (София)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1989/90",
+      "shampion": "ЦСКА (София)",
+      "vitseshampion": "Славия (София)",
+      "treto_myasto": "Етър (Велико Търново)"
+    },
+    {
+      "sezon": "1988/89",
+      "shampion": "ЦФКА Средец (София)",
+      "vitseshampion": "Витоша (София)",
+      "treto_myasto": "Етър (Велико Търново)"
+    },
+    {
+      "sezon": "1987/88",
+      "shampion": "Витоша (София)",
+      "vitseshampion": "ЦФКА Средец (София)",
+      "treto_myasto": "Тракия (Пловдив)"
+    },
+    {
+      "sezon": "1986/87",
+      "shampion": "ЦФКА Средец (София)",
+      "vitseshampion": "Витоша (София)",
+      "treto_myasto": "Тракия (Пловдив)"
+    },
+    {
+      "sezon": "1985/86",
+      "shampion": "Берое (Стара Загора)",
+      "vitseshampion": "Тракия (Пловдив)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1984/85",
+      "shampion": "Левски-Спартак (София)",
+      "vitseshampion": "ЦСКА Септемврийско знаме (София)",
+      "treto_myasto": "Тракия (Пловдив)"
+    },
+    {
+      "sezon": "1983/84",
+      "shampion": "Левски-Спартак (София)",
+      "vitseshampion": "ЦСКА Септемврийско знаме (София)",
+      "treto_myasto": "ЖСК-Спартак (Варна)"
+    },
+    {
+      "sezon": "1982/83",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Левски-Спартак (София)",
+      "treto_myasto": "Тракия (Пловдив)"
+    },
+    {
+      "sezon": "1981/82",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Левски-Спартак (София)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1980/81",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Левски-Спартак (София)",
+      "treto_myasto": "Тракия (Пловдив)"
+    },
+    {
+      "sezon": "1979/80",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Славия (София)",
+      "treto_myasto": "Левски-Спартак (София)"
+    },
+    {
+      "sezon": "1978/79",
+      "shampion": "Левски-Спартак (София)",
+      "vitseshampion": "ЦСКА Септемврийско знаме (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "1977/78",
+      "shampion": "Локомотив (София)",
+      "vitseshampion": "ЦСКА Септемврийско знаме (София)",
+      "treto_myasto": "Левски-Спартак (София)"
+    },
+    {
+      "sezon": "1976/77",
+      "shampion": "Левски-Спартак (София)",
+      "vitseshampion": "ЦСКА Септемврийско знаме (София)",
+      "treto_myasto": "Марек (Станке Димитров)"
+    },
+    {
+      "sezon": "1975/76",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Левски-Спартак (София)",
+      "treto_myasto": "Академик (София)"
+    },
+    {
+      "sezon": "1974/75",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Левски-Спартак (София)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1973/74",
+      "shampion": "Левски-Спартак (София)",
+      "vitseshampion": "ЦСКА Септемврийско знаме (София)",
+      "treto_myasto": "Локомотив (Пловдив)"
+    },
+    {
+      "sezon": "1972/73",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Локомотив (Пловдив)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1971/72",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Левски-Спартак (София)",
+      "treto_myasto": "Берое (Стара Загора)"
+    },
+    {
+      "sezon": "1970/71",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Левски-Спартак (София)",
+      "treto_myasto": "Ботев (Враца)"
+    },
+    {
+      "sezon": "1969/70",
+      "shampion": "Левски-Спартак (София)",
+      "vitseshampion": "ЦСКА Септемврийско знаме (София)",
+      "treto_myasto": "ЖСК-Славия (София)"
+    },
+    {
+      "sezon": "1968/69",
+      "shampion": "ЦСКА Септемврийско знаме (София)",
+      "vitseshampion": "Левски-Спартак (София)",
+      "treto_myasto": "Локомотив (Пловдив)"
+    },
+    {
+      "sezon": "1967/68",
+      "shampion": "Левски (София)",
+      "vitseshampion": "ЦСКА Червено знаме (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "1966/67",
+      "shampion": "Ботев (Пловдив)",
+      "vitseshampion": "Славия (София)",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "1965/66",
+      "shampion": "ЦСКА Червено знаме (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1964/65",
+      "shampion": "Левски (София)",
+      "vitseshampion": "Локомотив (София)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1963/64",
+      "shampion": "Локомотив (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1962/63",
+      "shampion": "Спартак (Пловдив)",
+      "vitseshampion": "Ботев (Пловдив)",
+      "treto_myasto": "ЦДНА (София)"
+    },
+    {
+      "sezon": "1961/62",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Спартак (Пловдив)",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "1960/61",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Ботев (Пловдив)"
+    },
+    {
+      "sezon": "1959/60",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "1958/59",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Славия (София)",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "1958",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Спартак (Плевен)"
+    },
+    {
+      "sezon": "1957",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Локомотив (София)",
+      "treto_myasto": "Левски (София)"
+    },
+    {
+      "sezon": "1956",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Динамо (София)",
+      "treto_myasto": "СКНА (Пловдив)"
+    },
+    {
+      "sezon": "1955",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Ударник (София)",
+      "treto_myasto": "Спартак (Сталин)"
+    },
+    {
+      "sezon": "1954",
+      "shampion": "ЦДНА (София)",
+      "vitseshampion": "Ударник (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "1953",
+      "shampion": "Динамо (София)",
+      "vitseshampion": "ОСГ (София)",
+      "treto_myasto": "ВМС (Сталин)"
+    },
+    {
+      "sezon": "1952",
+      "shampion": "ЦДНВ (София)",
+      "vitseshampion": "Спартак (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "1951",
+      "shampion": "ЦДНВ (София)",
+      "vitseshampion": "Спартак (София)",
+      "treto_myasto": "Динамо (София)"
+    },
+    {
+      "sezon": "1950",
+      "shampion": "Динамо (София)",
+      "vitseshampion": "Строител (София)",
+      "treto_myasto": "Академик (София)"
+    },
+    {
+      "sezon": "1948/49",
+      "shampion": "Левски (София)",
+      "vitseshampion": "ЦДНВ (София)",
+      "treto_myasto": "Локомотив (София)"
+    },
+    {
+      "sezon": "1948",
+      "shampion": "Септември при ЦДВ (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Марек (Дупница)"
+    },
+    {
+      "sezon": "1947",
+      "shampion": "Левски (София)",
+      "vitseshampion": "Локомотив (София)",
+      "treto_myasto": "Спартак (София)"
+    },
+    {
+      "sezon": "1946",
+      "shampion": "Левски (София)",
+      "vitseshampion": "Локомотив (София)",
+      "treto_myasto": "Бенковски (Видин)"
+    },
+    {
+      "sezon": "1945",
+      "shampion": "Локомотив (София)",
+      "vitseshampion": "Спортист (София)",
+      "treto_myasto": "СП 45 (Пловдив)"
+    },
+    {
+      "sezon": "1944",
+      "shampion": "Първенството не завършва",
+      "vitseshampion": "Първенството не завършва",
+      "treto_myasto": "Първенството не завършва"
+    },
+    {
+      "sezon": "1943",
+      "shampion": "Славия (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Ботев (Пловдив)"
+    },
+    {
+      "sezon": "1942",
+      "shampion": "Левски (София)",
+      "vitseshampion": "Македония (Скопие)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1941",
+      "shampion": "Славия (София)",
+      "vitseshampion": "ЖСК (София)",
+      "treto_myasto": "Левски (Пловдив)"
+    },
+    {
+      "sezon": "1939/40",
+      "shampion": "ЖСК (София)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Славия (София)"
+    },
+    {
+      "sezon": "1938/39",
+      "shampion": "Славия (София)",
+      "vitseshampion": "Владислав (Варна)",
+      "treto_myasto": "Тича (Варна)"
+    },
+    {
+      "sezon": "1937/38",
+      "shampion": "Тича (Варна)",
+      "vitseshampion": "Владислав (Варна)",
+      "treto_myasto": "Шипка (София)"
+    },
+    {
+      "sezon": "1937",
+      "shampion": "Левски (София)",
+      "vitseshampion": "Левски (Русе)",
+      "treto_myasto": "Владислав (Варна)"
+    },
+    {
+      "sezon": "1936",
+      "shampion": "Славия (София)",
+      "vitseshampion": "Тича (Варна)",
+      "treto_myasto": "Георги Дражев (Ямбол)"
+    },
+    {
+      "sezon": "1935",
+      "shampion": "Спортклуб (София)",
+      "vitseshampion": "Тича (Варна)",
+      "treto_myasto": "Панайот Волов (Шумен)"
+    },
+    {
+      "sezon": "1934",
+      "shampion": "Владислав (Варна)",
+      "vitseshampion": "Славия (София)",
+      "treto_myasto": "Напредък (Русе)"
+    },
+    {
+      "sezon": "1933",
+      "shampion": "Левски (София)",
+      "vitseshampion": "Шипченски сокол (Варна)",
+      "treto_myasto": "Напредък (Русе)"
+    },
+    {
+      "sezon": "1932",
+      "shampion": "Шипченски сокол (Варна)",
+      "vitseshampion": "Славия (София)",
+      "treto_myasto": "Победа 26 (Плевен)"
+    },
+    {
+      "sezon": "1931",
+      "shampion": "АС`23",
+      "vitseshampion": "Шипченски сокол (Варна)",
+      "treto_myasto": "Напредък (Русе)"
+    },
+    {
+      "sezon": "1930",
+      "shampion": "Славия (София)",
+      "vitseshampion": "Владислав (Варна)",
+      "treto_myasto": "Ботев (Пловдив)"
+    },
+    {
+      "sezon": "1929",
+      "shampion": "Ботев (Пловдив)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": "Шипченски сокол (Варна)"
+    },
+    {
+      "sezon": "1928",
+      "shampion": "Славия (София)",
+      "vitseshampion": "Владислав (Варна)",
+      "treto_myasto": ""
+    },
+    {
+      "sezon": "1927",
+      "shampion": "Първенството не завършва",
+      "vitseshampion": "Първенството не завършва",
+      "treto_myasto": "Първенството не завършва"
+    },
+    {
+      "sezon": "1926",
+      "shampion": "Владислав (Варна)",
+      "vitseshampion": "Славия (София)",
+      "treto_myasto": ""
+    },
+    {
+      "sezon": "1925",
+      "shampion": "Владислав (Варна)",
+      "vitseshampion": "Левски (София)",
+      "treto_myasto": ""
+    },
+    {
+      "sezon": "1924",
+      "shampion": "Първенството не завършва",
+      "vitseshampion": "Първенството не завършва",
+      "treto_myasto": "Първенството не завършва"
+    }
+  ],
+  "meta": {
+    "title": "Шампиони на България по футбол - Free Download",
+    "description": "Шампиони, вицешампиони и трети в първенството на България по футбол по сезони. Contains 103 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Шампиони на България по футбол | ListBase",
+    "seo_description": "Download Шампиони на България по футбол — 103 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 103 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Първенство_на_България_по_футбол"
+    ]
+  }
+}
