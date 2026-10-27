@@ -1,0 +1,118 @@
+{
+  "id": "bg-sadii-konstitutsionen-sad",
+  "name": "Съдии в Конституционния съд на България",
+  "title": "Съдии в Конституционния съд на България",
+  "description": "Настоящ състав на Конституционния съд на България: съдии, мандат и орган, който ги е избрал.",
+  "category": "law",
+  "source": "https://bg.wikipedia.org/wiki/Конституционен_съд_на_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Конституционен_съд_на_България",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "sadiya",
+      "label": "Sadiya",
+      "type": "string"
+    },
+    {
+      "key": "nachalo",
+      "label": "Nachalo",
+      "type": "number"
+    },
+    {
+      "key": "krai",
+      "label": "Krai",
+      "type": "number"
+    },
+    {
+      "key": "izbran_ot",
+      "label": "Izbran Ot",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sadiya": "Атанас Семов",
+      "nachalo": 2018,
+      "krai": 2027,
+      "izbran_ot": "Президент"
+    },
+    {
+      "sadiya": "Красимир Влахов",
+      "nachalo": 2018,
+      "krai": 2027,
+      "izbran_ot": "Народно събрание"
+    },
+    {
+      "sadiya": "Надежда Джелепова",
+      "nachalo": 2018,
+      "krai": 2027,
+      "izbran_ot": "ВКС и ВАС"
+    },
+    {
+      "sadiya": "Павлина Панова (председател)",
+      "nachalo": 2018,
+      "krai": 2027,
+      "izbran_ot": "ВКС и ВАС"
+    },
+    {
+      "sadiya": "Янаки Стоилов",
+      "nachalo": 2021,
+      "krai": 2030,
+      "izbran_ot": "Президент"
+    },
+    {
+      "sadiya": "Соня Янкулова",
+      "nachalo": 2021,
+      "krai": 2030,
+      "izbran_ot": "ВКС и ВАС"
+    },
+    {
+      "sadiya": "Десислава Атанасова",
+      "nachalo": 2024,
+      "krai": 2030,
+      "izbran_ot": "Народно събрание"
+    },
+    {
+      "sadiya": "Борислав Белазелков",
+      "nachalo": 2024,
+      "krai": 2030,
+      "izbran_ot": "Народно събрание"
+    },
+    {
+      "sadiya": "Сашо Пенов",
+      "nachalo": 2024,
+      "krai": 2033,
+      "izbran_ot": "Президент"
+    },
+    {
+      "sadiya": "Невин Фети Осман-Йорданова",
+      "nachalo": 2024,
+      "krai": 2033,
+      "izbran_ot": "Президент"
+    },
+    {
+      "sadiya": "Галина Тонева-Дачева",
+      "nachalo": 2024,
+      "krai": 2033,
+      "izbran_ot": "ВКС и ВАС"
+    },
+    {
+      "sadiya": "Орлин Колев",
+      "nachalo": 2025,
+      "krai": 2033,
+      "izbran_ot": "Народно събрание"
+    }
+  ],
+  "meta": {
+    "title": "Съдии в Конституционния съд на България - Free Download",
+    "description": "Настоящ състав на Конституционния съд на България: съдии, мандат и орган, който ги е избрал. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Съдии в Конституционния съд на България | ListBase",
+    "seo_description": "Download Съдии в Конституционния съд на България — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Конституционен_съд_на_България"
+    ]
+  }
+}

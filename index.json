@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:26.695Z",
-  "total_datasets": 432,
-  "total_records": 190429,
+  "generated": "2026-10-27T02:21:29.236Z",
+  "total_datasets": 433,
+  "total_records": 190441,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -4323,6 +4323,31 @@
         "xlsx": {
           "name": "bg-predsedateli-konstitutsionen-sad_BG.xlsx",
           "size": 7771
+        }
+      }
+    },
+    {
+      "id": "bg-sadii-konstitutsionen-sad",
+      "name": "Съдии в Конституционния съд на България",
+      "category": "law",
+      "record_count": 12,
+      "columns": [
+        "sadiya",
+        "nachalo",
+        "krai",
+        "izbran_ot"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Конституционен_съд_на_България",
+      "updated": "2026-10",
+      "size": 3770,
+      "files": {
+        "csv": {
+          "name": "bg-sadii-konstitutsionen-sad_BG.csv",
+          "size": 928
+        },
+        "xlsx": {
+          "name": "bg-sadii-konstitutsionen-sad_BG.xlsx",
+          "size": 7229
         }
       }
     },
