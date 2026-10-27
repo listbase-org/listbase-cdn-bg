@@ -1,0 +1,240 @@
+{
+  "id": "bg-evroviziya",
+  "name": "България в „Евровизия“",
+  "title": "България в „Евровизия“",
+  "description": "Участия на България в песенния конкурс „Евровизия“ от 2005 г.: изпълнител, песен, език и класиране.",
+  "category": "music",
+  "source": "https://bg.wikipedia.org/wiki/България_в_„Евровизия“",
+  "source_url": "https://bg.wikipedia.org/wiki/България_в_„Евровизия“",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "predstavitel",
+      "label": "Predstavitel",
+      "type": "string"
+    },
+    {
+      "key": "ezik",
+      "label": "Ezik",
+      "type": "string"
+    },
+    {
+      "key": "pesen",
+      "label": "Pesen",
+      "type": "string"
+    },
+    {
+      "key": "final",
+      "label": "Final",
+      "type": "string"
+    },
+    {
+      "key": "polufinal",
+      "label": "Polufinal",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 2005,
+      "predstavitel": "Каффе",
+      "ezik": "английски",
+      "pesen": "Lorraine",
+      "final": "Не се класира",
+      "polufinal": 19
+    },
+    {
+      "godina": 2006,
+      "predstavitel": "Мариана Попова",
+      "ezik": "английски",
+      "pesen": "Let Me Cry",
+      "final": "Не се класира",
+      "polufinal": 17
+    },
+    {
+      "godina": 2007,
+      "predstavitel": "Елица и Стоян",
+      "ezik": "български",
+      "pesen": "„ Вода “",
+      "final": 5,
+      "polufinal": 6
+    },
+    {
+      "godina": 2008,
+      "predstavitel": "Deep Zone и DJ Balthazar",
+      "ezik": "английски",
+      "pesen": "DJ, Take Me Away",
+      "final": "Не се класира",
+      "polufinal": 11
+    },
+    {
+      "godina": 2009,
+      "predstavitel": "Красимир Аврамов",
+      "ezik": "английски",
+      "pesen": "Illusion",
+      "final": "Не се класира",
+      "polufinal": 16
+    },
+    {
+      "godina": 2010,
+      "predstavitel": "Миро",
+      "ezik": "български, английски",
+      "pesen": "„ Ангел си ти “",
+      "final": "Не се класира",
+      "polufinal": 15
+    },
+    {
+      "godina": 2011,
+      "predstavitel": "Поли Генова",
+      "ezik": "български",
+      "pesen": "„ На Инат “",
+      "final": "Не се класира",
+      "polufinal": 12
+    },
+    {
+      "godina": 2012,
+      "predstavitel": "Софи Маринова",
+      "ezik": "български и други",
+      "pesen": "Love Unlimited",
+      "final": "Не се класира",
+      "polufinal": 11
+    },
+    {
+      "godina": 2013,
+      "predstavitel": "Елица и Стоян",
+      "ezik": "български",
+      "pesen": "„ Само шампиони “",
+      "final": "Не се класира",
+      "polufinal": 12
+    },
+    {
+      "godina": 2014,
+      "predstavitel": "България не участва",
+      "ezik": "България не участва",
+      "pesen": "България не участва",
+      "final": "България не участва",
+      "polufinal": "България не участва"
+    },
+    {
+      "godina": 2015,
+      "predstavitel": "България не участва",
+      "ezik": "България не участва",
+      "pesen": "България не участва",
+      "final": "България не участва",
+      "polufinal": "България не участва"
+    },
+    {
+      "godina": 2016,
+      "predstavitel": "Поли Генова",
+      "ezik": "английски, български",
+      "pesen": "If Love Was a Crime",
+      "final": 4,
+      "polufinal": 5
+    },
+    {
+      "godina": 2017,
+      "predstavitel": "Кристиан Костов",
+      "ezik": "английски",
+      "pesen": "Beautiful Mess",
+      "final": 2,
+      "polufinal": 1
+    },
+    {
+      "godina": 2018,
+      "predstavitel": "Equinox",
+      "ezik": "английски",
+      "pesen": "Bones",
+      "final": 14,
+      "polufinal": 7
+    },
+    {
+      "godina": 2019,
+      "predstavitel": "България не участва",
+      "ezik": "България не участва",
+      "pesen": "България не участва",
+      "final": "България не участва",
+      "polufinal": "България не участва"
+    },
+    {
+      "godina": 2020,
+      "predstavitel": "Виктория Георгиева",
+      "ezik": "английски",
+      "pesen": "Tears Getting Sober",
+      "final": "Изданието не се провежда заради пандемията от COVID-19 .",
+      "polufinal": "Изданието не се провежда заради пандемията от COVID-19 ."
+    },
+    {
+      "godina": 2021,
+      "predstavitel": "Виктория Георгиева",
+      "ezik": "английски",
+      "pesen": "Growing Up is Getting Old",
+      "final": 11,
+      "polufinal": 3
+    },
+    {
+      "godina": 2022,
+      "predstavitel": "Интелиджънт Мюзик Проджект",
+      "ezik": "английски",
+      "pesen": "Intention",
+      "final": "Не се класира",
+      "polufinal": 16
+    },
+    {
+      "godina": 2023,
+      "predstavitel": "България не участва",
+      "ezik": "България не участва",
+      "pesen": "България не участва",
+      "final": "България не участва",
+      "polufinal": "България не участва"
+    },
+    {
+      "godina": 2024,
+      "predstavitel": "България не участва",
+      "ezik": "България не участва",
+      "pesen": "България не участва",
+      "final": "България не участва",
+      "polufinal": "България не участва"
+    },
+    {
+      "godina": 2025,
+      "predstavitel": "България не участва",
+      "ezik": "България не участва",
+      "pesen": "България не участва",
+      "final": "България не участва",
+      "polufinal": "България не участва"
+    },
+    {
+      "godina": 2026,
+      "predstavitel": "Дара",
+      "ezik": "английски",
+      "pesen": "Bangaranga",
+      "final": 1,
+      "polufinal": 1
+    },
+    {
+      "godina": "2027 (домакин)",
+      "predstavitel": "",
+      "ezik": "",
+      "pesen": "",
+      "final": "Домакин",
+      "polufinal": "Домакин"
+    }
+  ],
+  "meta": {
+    "title": "България в „Евровизия“ - Free Download",
+    "description": "Участия на България в песенния конкурс „Евровизия“ от 2005 г.: изпълнител, песен, език и класиране. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "България в „Евровизия“ | ListBase",
+    "seo_description": "Download България в „Евровизия“ — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/България_в_„Евровизия“"
+    ]
+  }
+}
