@@ -1,12 +1,16 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:20:50.756Z",
-  "total_datasets": 417,
-  "total_records": 189262,
+  "generated": "2026-10-27T02:20:53.148Z",
+  "total_datasets": 418,
+  "total_records": 189293,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 11
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -419,6 +423,31 @@
         "xlsx": {
           "name": "bg-teatri_BG.xlsx",
           "size": 11098
+        }
+      }
+    },
+    {
+      "id": "bg-ministri-ikonomika",
+      "name": "Министри на икономиката на България",
+      "category": "economy",
+      "record_count": 31,
+      "columns": [
+        "pravitelstvo",
+        "ime",
+        "dati",
+        "partiya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Министър_на_икономиката_на_България",
+      "updated": "2026-10",
+      "size": 7817,
+      "files": {
+        "csv": {
+          "name": "bg-ministri-ikonomika_BG.csv",
+          "size": 3302
+        },
+        "xlsx": {
+          "name": "bg-ministri-ikonomika_BG.xlsx",
+          "size": 8325
         }
       }
     },
