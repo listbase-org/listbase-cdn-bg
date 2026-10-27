@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:20:36.533Z",
-  "total_datasets": 412,
-  "total_records": 188481,
+  "generated": "2026-10-27T02:20:39.899Z",
+  "total_datasets": 413,
+  "total_records": 188738,
   "categories": [
     {
       "id": "culture",
@@ -51,6 +51,10 @@
     {
       "id": "reference",
       "dataset_count": 174
+    },
+    {
+      "id": "society",
+      "dataset_count": 1
     },
     {
       "id": "sports",
@@ -10171,6 +10175,37 @@
         "xlsx": {
           "name": "bg-zooparkove_BG.xlsx",
           "size": 7931
+        }
+      }
+    },
+    {
+      "id": "bg-gradove-naselenie-prebroyavaniya",
+      "name": "Градове в България по население (преброявания)",
+      "category": "society",
+      "record_count": 257,
+      "columns": [
+        "grad",
+        "naselenie_1946",
+        "naselenie_1956",
+        "naselenie_1965",
+        "naselenie_1975",
+        "naselenie_1985",
+        "naselenie_1992",
+        "naselenie_2001",
+        "naselenie_2011",
+        "naselenie_2021"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_градовете_в_България_по_население",
+      "updated": "2026-10",
+      "size": 83539,
+      "files": {
+        "csv": {
+          "name": "bg-gradove-naselenie-prebroyavaniya_BG.csv",
+          "size": 20032
+        },
+        "xlsx": {
+          "name": "bg-gradove-naselenie-prebroyavaniya_BG.xlsx",
+          "size": 22673
         }
       }
     },
