@@ -1,0 +1,351 @@
+{
+  "id": "bg-ministar-predsedateli-prodalzhitelnost",
+  "name": "Министър-председатели на България по продължителност на управление",
+  "title": "Министър-председатели на България по продължителност на управление",
+  "description": "Класация на българските министър-председатели по общ брой дни на управление.",
+  "category": "politics",
+  "source": "https://bg.wikipedia.org/wiki/Министър-председатели_на_България_по_продължителност_на_управление",
+  "source_url": "https://bg.wikipedia.org/wiki/Министър-председатели_на_България_по_продължителност_на_управление",
+  "updated": "2026-10",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "myasto",
+      "label": "Myasto",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "dni_upravlenie",
+      "label": "Dni Upravlenie",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "myasto": 1,
+      "ime": "Станко Тодоров",
+      "dni_upravlenie": 3632
+    },
+    {
+      "myasto": 2,
+      "ime": "Бойко Борисов",
+      "dni_upravlenie": 3606
+    },
+    {
+      "myasto": 3,
+      "ime": "Тодор Живков",
+      "dni_upravlenie": 3146
+    },
+    {
+      "myasto": 4,
+      "ime": "Стефан Стамболов",
+      "dni_upravlenie": 2464
+    },
+    {
+      "myasto": 5,
+      "ime": "Антон Югов",
+      "dni_upravlenie": 2414
+    },
+    {
+      "myasto": 6,
+      "ime": "Вълко Червенков",
+      "dni_upravlenie": 2265
+    },
+    {
+      "myasto": 7,
+      "ime": "Васил Радославов",
+      "dni_upravlenie": 2116
+    },
+    {
+      "myasto": 8,
+      "ime": "Андрей Ляпчев",
+      "dni_upravlenie": 2002
+    },
+    {
+      "myasto": 9,
+      "ime": "Гриша Филипов",
+      "dni_upravlenie": 1827
+    },
+    {
+      "myasto": 10,
+      "ime": "Константин Стоилов",
+      "dni_upravlenie": 1758
+    },
+    {
+      "myasto": 11,
+      "ime": "Георги Кьосеиванов",
+      "dni_upravlenie": 1546
+    },
+    {
+      "myasto": 12,
+      "ime": "Иван Костов",
+      "dni_upravlenie": 1525
+    },
+    {
+      "myasto": 13,
+      "ime": "Симеон Сакскобургготски",
+      "dni_upravlenie": 1485
+    },
+    {
+      "myasto": 14,
+      "ime": "Сергей Станишев",
+      "dni_upravlenie": 1440
+    },
+    {
+      "myasto": 15,
+      "ime": "Александър Малинов",
+      "dni_upravlenie": 1420
+    },
+    {
+      "myasto": 16,
+      "ime": "Александър Стамболийски",
+      "dni_upravlenie": 1342
+    },
+    {
+      "myasto": 17,
+      "ime": "Георги Атанасов",
+      "dni_upravlenie": 1330
+    },
+    {
+      "myasto": 18,
+      "ime": "Рачо Петров",
+      "dni_upravlenie": 1305
+    },
+    {
+      "myasto": 19,
+      "ime": "Богдан Филов",
+      "dni_upravlenie": 1301
+    },
+    {
+      "myasto": 20,
+      "ime": "Петко Каравелов",
+      "dni_upravlenie": 1230
+    },
+    {
+      "myasto": 21,
+      "ime": "Кимон Георгиев",
+      "dni_upravlenie": 1053
+    },
+    {
+      "myasto": 22,
+      "ime": "Георги Димитров",
+      "dni_upravlenie": 952
+    },
+    {
+      "myasto": 23,
+      "ime": "Никола Мушанов",
+      "dni_upravlenie": 950
+    },
+    {
+      "myasto": 24,
+      "ime": "Александър Цанков",
+      "dni_upravlenie": 940
+    },
+    {
+      "myasto": 25,
+      "ime": "Иван Гешов",
+      "dni_upravlenie": 808
+    },
+    {
+      "myasto": 26,
+      "ime": "Жан Виденов",
+      "dni_upravlenie": 749
+    },
+    {
+      "myasto": 27,
+      "ime": "Любен Беров",
+      "dni_upravlenie": 656
+    },
+    {
+      "myasto": 28,
+      "ime": "Драган Цанков",
+      "dni_upravlenie": 543
+    },
+    {
+      "myasto": 29,
+      "ime": "Стоян Данев",
+      "dni_upravlenie": 533
+    },
+    {
+      "myasto": 30,
+      "ime": "Тодор Иванчов",
+      "dni_upravlenie": 468
+    },
+    {
+      "myasto": 31,
+      "ime": "Леонид Соболев",
+      "dni_upravlenie": 441
+    },
+    {
+      "myasto": 32,
+      "ime": "Пламен Орешарски",
+      "dni_upravlenie": 434
+    },
+    {
+      "myasto": 33,
+      "ime": "Филип Димитров",
+      "dni_upravlenie": 418
+    },
+    {
+      "myasto": 34,
+      "ime": "Росен Желязков",
+      "dni_upravlenie": 399
+    },
+    {
+      "myasto": 35,
+      "ime": "Димитър Попов",
+      "dni_upravlenie": 323
+    },
+    {
+      "myasto": 36,
+      "ime": "Петър Гудев",
+      "dni_upravlenie": 319
+    },
+    {
+      "myasto": 37,
+      "ime": "Андрей Луканов",
+      "dni_upravlenie": 315
+    },
+    {
+      "myasto": 38,
+      "ime": "Теодор Теодоров",
+      "dni_upravlenie": 311
+    },
+    {
+      "myasto": "= 39",
+      "ime": "Гълъб Донев",
+      "dni_upravlenie": 308
+    },
+    {
+      "myasto": "= 39",
+      "ime": "Николай Денков",
+      "dni_upravlenie": 308
+    },
+    {
+      "myasto": 41,
+      "ime": "Димитър Главчев",
+      "dni_upravlenie": 282
+    },
+    {
+      "myasto": 42,
+      "ime": "Добри Божилов",
+      "dni_upravlenie": 261
+    },
+    {
+      "myasto": 43,
+      "ime": "Димитър Греков",
+      "dni_upravlenie": 256
+    },
+    {
+      "myasto": 44,
+      "ime": "Кирил Петков",
+      "dni_upravlenie": 232
+    },
+    {
+      "myasto": 45,
+      "ime": "Андрей Тошев",
+      "dni_upravlenie": 216
+    },
+    {
+      "myasto": 46,
+      "ime": "Стефан Янев",
+      "dni_upravlenie": 215
+    },
+    {
+      "myasto": 47,
+      "ime": "Васил Коларов",
+      "dni_upravlenie": 205
+    },
+    {
+      "myasto": 48,
+      "ime": "Тодор Бурмов",
+      "dni_upravlenie": 142
+    },
+    {
+      "myasto": "= 49",
+      "ime": "Климент Търновски",
+      "dni_upravlenie": 126
+    },
+    {
+      "myasto": "= 49",
+      "ime": "Димитър Петков",
+      "dni_upravlenie": 126
+    },
+    {
+      "myasto": 51,
+      "ime": "Румен Радев",
+      "dni_upravlenie": 173
+    },
+    {
+      "myasto": 52,
+      "ime": "Ренета Инджова",
+      "dni_upravlenie": 100
+    },
+    {
+      "myasto": 53,
+      "ime": "Стефан Софиянски",
+      "dni_upravlenie": 98
+    },
+    {
+      "myasto": 54,
+      "ime": "Огнян Герджиков",
+      "dni_upravlenie": 97
+    },
+    {
+      "myasto": "= 55",
+      "ime": "Иван Багрянов",
+      "dni_upravlenie": 93
+    },
+    {
+      "myasto": "= 55",
+      "ime": "Георги Близнашки",
+      "dni_upravlenie": 93
+    },
+    {
+      "myasto": 57,
+      "ime": "Пенчо Златев",
+      "dni_upravlenie": 89
+    },
+    {
+      "myasto": 58,
+      "ime": "Андрей Гюров",
+      "dni_upravlenie": 78
+    },
+    {
+      "myasto": 59,
+      "ime": "Марин Райков",
+      "dni_upravlenie": 77
+    },
+    {
+      "myasto": 60,
+      "ime": "Казимир Ернрот",
+      "dni_upravlenie": 65
+    },
+    {
+      "myasto": 61,
+      "ime": "Константин Муравиев",
+      "dni_upravlenie": 7
+    },
+    {
+      "myasto": 62,
+      "ime": "Димитър Станчов",
+      "dni_upravlenie": 4
+    }
+  ],
+  "meta": {
+    "title": "Министър-председатели на България по продължителност на управление - Free Download",
+    "description": "Класация на българските министър-председатели по общ брой дни на управление. Contains 62 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Министър-председатели на България по продължителност на управление | ListBase",
+    "seo_description": "Download Министър-председатели на България по продължителност на управление — 62 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 62 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Министър-председатели_на_България_по_продължителност_на_управление"
+    ]
+  }
+}
