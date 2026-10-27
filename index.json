@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:08.043Z",
-  "total_datasets": 424,
-  "total_records": 190055,
+  "generated": "2026-10-27T02:21:10.357Z",
+  "total_datasets": 425,
+  "total_records": 190114,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -4119,6 +4119,31 @@
         "xlsx": {
           "name": "bg-bolnitsi_BG.xlsx",
           "size": 24315
+        }
+      }
+    },
+    {
+      "id": "bg-ministri-zdraveopazvane",
+      "name": "Министри на здравеопазването на България",
+      "category": "health",
+      "record_count": 59,
+      "columns": [
+        "pravitelstvo",
+        "ime",
+        "dati",
+        "partiya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Министър_на_здравеопазването_на_България",
+      "updated": "2026-10",
+      "size": 12603,
+      "files": {
+        "csv": {
+          "name": "bg-ministri-zdraveopazvane_BG.csv",
+          "size": 5688
+        },
+        "xlsx": {
+          "name": "bg-ministri-zdraveopazvane_BG.xlsx",
+          "size": 9218
         }
       }
     },
