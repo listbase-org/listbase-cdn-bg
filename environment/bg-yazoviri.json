@@ -1,0 +1,226 @@
+{
+  "id": "bg-yazoviri",
+  "name": "Язовири в България",
+  "title": "Язовири в България",
+  "description": "Най-големите язовири в България с област, площ, надморска височина и обем.",
+  "category": "environment",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_язовирите_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_язовирите_в_България",
+  "updated": "2026-10",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "plosht_km2",
+      "label": "Plosht Km2",
+      "type": "number"
+    },
+    {
+      "key": "nadmorska_visochina_m",
+      "label": "Nadmorska Visochina M",
+      "type": "number"
+    },
+    {
+      "key": "obem_mln_m3",
+      "label": "Obem Mln M3",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Ал. Стамболийски",
+      "oblast": "Велико Търново",
+      "plosht_km2": 17,
+      "nadmorska_visochina_m": 190,
+      "obem_mln_m3": 205
+    },
+    {
+      "ime": "Батак",
+      "oblast": "Пазарджик",
+      "plosht_km2": 22,
+      "nadmorska_visochina_m": 1107,
+      "obem_mln_m3": 310
+    },
+    {
+      "ime": "Белмекен",
+      "oblast": "Пазарджик",
+      "plosht_km2": 4.5,
+      "nadmorska_visochina_m": 1923,
+      "obem_mln_m3": 144
+    },
+    {
+      "ime": "Въча",
+      "oblast": "Пазарджик",
+      "plosht_km2": 4.9,
+      "nadmorska_visochina_m": 540,
+      "obem_mln_m3": 226
+    },
+    {
+      "ime": "Голям Беглик",
+      "oblast": "Пазарджик",
+      "plosht_km2": 4.1,
+      "nadmorska_visochina_m": 1528,
+      "obem_mln_m3": 62
+    },
+    {
+      "ime": "Горни Дъбник",
+      "oblast": "Плевен",
+      "plosht_km2": 11.8,
+      "nadmorska_visochina_m": 168,
+      "obem_mln_m3": 135
+    },
+    {
+      "ime": "Доспат",
+      "oblast": "Смолян , Пазарджик",
+      "plosht_km2": 18.3,
+      "nadmorska_visochina_m": 1200,
+      "obem_mln_m3": 449
+    },
+    {
+      "ime": "Жребчево",
+      "oblast": "Стара Загора",
+      "plosht_km2": 25,
+      "nadmorska_visochina_m": 269,
+      "obem_mln_m3": 400
+    },
+    {
+      "ime": "Ивайловград",
+      "oblast": "Хасково",
+      "plosht_km2": 15,
+      "nadmorska_visochina_m": 120,
+      "obem_mln_m3": 188
+    },
+    {
+      "ime": "Искър",
+      "oblast": "София",
+      "plosht_km2": 30,
+      "nadmorska_visochina_m": 817,
+      "obem_mln_m3": 673
+    },
+    {
+      "ime": "Йовковци",
+      "oblast": "Велико Търново",
+      "plosht_km2": 5.75,
+      "nadmorska_visochina_m": 365,
+      "obem_mln_m3": 92
+    },
+    {
+      "ime": "Камчия",
+      "oblast": "Бургас",
+      "plosht_km2": 9.6,
+      "nadmorska_visochina_m": 260,
+      "obem_mln_m3": 233
+    },
+    {
+      "ime": "Копринка",
+      "oblast": "Стара Загора",
+      "plosht_km2": 8.4,
+      "nadmorska_visochina_m": 400,
+      "obem_mln_m3": 140
+    },
+    {
+      "ime": "Кърджали",
+      "oblast": "Кърджали",
+      "plosht_km2": 16.4,
+      "nadmorska_visochina_m": 331,
+      "obem_mln_m3": 539
+    },
+    {
+      "ime": "Мандра",
+      "oblast": "Бургас",
+      "plosht_km2": 38.84,
+      "nadmorska_visochina_m": 4,
+      "obem_mln_m3": 165
+    },
+    {
+      "ime": "Овчарица",
+      "oblast": "Стара Загора",
+      "plosht_km2": 6.3,
+      "nadmorska_visochina_m": 140,
+      "obem_mln_m3": 45
+    },
+    {
+      "ime": "Огоста",
+      "oblast": "Монтана",
+      "plosht_km2": 23.6,
+      "nadmorska_visochina_m": 186,
+      "obem_mln_m3": 506
+    },
+    {
+      "ime": "Пясъчник",
+      "oblast": "Пловдив",
+      "plosht_km2": 9.1,
+      "nadmorska_visochina_m": 290,
+      "obem_mln_m3": 207
+    },
+    {
+      "ime": "Студен кладенец",
+      "oblast": "Кърджали",
+      "plosht_km2": 27.8,
+      "nadmorska_visochina_m": 227,
+      "obem_mln_m3": 489
+    },
+    {
+      "ime": "Тича",
+      "oblast": "Шумен",
+      "plosht_km2": 18.7,
+      "nadmorska_visochina_m": 185,
+      "obem_mln_m3": 311
+    },
+    {
+      "ime": "Тополница",
+      "oblast": "Пазарджик",
+      "plosht_km2": 5.7,
+      "nadmorska_visochina_m": 370,
+      "obem_mln_m3": 137
+    },
+    {
+      "ime": "Тракиец",
+      "oblast": "Хасково",
+      "plosht_km2": 8.2,
+      "nadmorska_visochina_m": 250,
+      "obem_mln_m3": 114
+    },
+    {
+      "ime": "Цанков камък",
+      "oblast": "Смолян",
+      "plosht_km2": 3.4,
+      "nadmorska_visochina_m": 688,
+      "obem_mln_m3": 111
+    },
+    {
+      "ime": "Цонево",
+      "oblast": "Варна",
+      "plosht_km2": 17.3,
+      "nadmorska_visochina_m": 185,
+      "obem_mln_m3": 330
+    },
+    {
+      "ime": "Широка поляна",
+      "oblast": "Пазарджик",
+      "plosht_km2": 4,
+      "nadmorska_visochina_m": 1500,
+      "obem_mln_m3": 24
+    }
+  ],
+  "meta": {
+    "title": "Язовири в България - Free Download",
+    "description": "Най-големите язовири в България с област, площ, надморска височина и обем. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Язовири в България | ListBase",
+    "seo_description": "Download Язовири в България — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_язовирите_в_България"
+    ]
+  }
+}

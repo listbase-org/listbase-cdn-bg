@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:34.343Z",
-  "total_datasets": 435,
-  "total_records": 190557,
+  "generated": "2026-10-27T02:21:36.824Z",
+  "total_datasets": 436,
+  "total_records": 190582,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "finance",
@@ -1905,6 +1905,32 @@
         "xlsx": {
           "name": "bg-yadreni-tsentrali_BG.xlsx",
           "size": 7473
+        }
+      }
+    },
+    {
+      "id": "bg-yazoviri",
+      "name": "Язовири в България",
+      "category": "environment",
+      "record_count": 25,
+      "columns": [
+        "ime",
+        "oblast",
+        "plosht_km2",
+        "nadmorska_visochina_m",
+        "obem_mln_m3"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_язовирите_в_България",
+      "updated": "2026-10",
+      "size": 6044,
+      "files": {
+        "csv": {
+          "name": "bg-yazoviri_BG.csv",
+          "size": 1515
+        },
+        "xlsx": {
+          "name": "bg-yazoviri_BG.xlsx",
+          "size": 7896
         }
       }
     },
