@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:20:58.226Z",
-  "total_datasets": 420,
-  "total_records": 189500,
+  "generated": "2026-10-27T02:21:00.817Z",
+  "total_datasets": 421,
+  "total_records": 189644,
   "categories": [
     {
       "id": "culture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -4292,6 +4292,31 @@
         "xlsx": {
           "name": "bg-ministar-predsedateli-prodalzhitelnost_BG.xlsx",
           "size": 8570
+        }
+      }
+    },
+    {
+      "id": "bg-ministri-otbrana",
+      "name": "Министри на отбраната на България",
+      "category": "politics",
+      "record_count": 144,
+      "columns": [
+        "pravitelstvo",
+        "ime",
+        "dati",
+        "partiya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Министър_на_отбраната_на_България",
+      "updated": "2026-10",
+      "size": 27666,
+      "files": {
+        "csv": {
+          "name": "bg-ministri-otbrana_BG.csv",
+          "size": 13922
+        },
+        "xlsx": {
+          "name": "bg-ministri-otbrana_BG.xlsx",
+          "size": 12132
         }
       }
     },
