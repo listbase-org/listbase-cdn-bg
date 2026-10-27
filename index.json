@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:21.990Z",
-  "total_datasets": 430,
-  "total_records": 190329,
+  "generated": "2026-10-27T02:21:24.385Z",
+  "total_datasets": 431,
+  "total_records": 190420,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -4526,6 +4526,32 @@
         "xlsx": {
           "name": "bg-partii-prodalzhitelnost-upravlenie_BG.xlsx",
           "size": 7363
+        }
+      }
+    },
+    {
+      "id": "bg-predsedateli-narodno-sabranie",
+      "name": "Председатели на Народното събрание на България",
+      "category": "politics",
+      "record_count": 91,
+      "columns": [
+        "darzhava",
+        "sabranie",
+        "ime",
+        "ot",
+        "do"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Председател_на_Народното_събрание_на_България",
+      "updated": "2026-10",
+      "size": 25362,
+      "files": {
+        "csv": {
+          "name": "bg-predsedateli-narodno-sabranie_BG.csv",
+          "size": 15047
+        },
+        "xlsx": {
+          "name": "bg-predsedateli-narodno-sabranie_BG.xlsx",
+          "size": 10871
         }
       }
     },
