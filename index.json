@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:20:30.288Z",
-  "total_datasets": 410,
-  "total_records": 188373,
+  "generated": "2026-10-27T02:20:33.143Z",
+  "total_datasets": 411,
+  "total_records": 188458,
   "categories": [
     {
       "id": "culture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -4047,6 +4047,33 @@
         "xlsx": {
           "name": "bg-arheologicheski-obekti_BG.xlsx",
           "size": 20549
+        }
+      }
+    },
+    {
+      "id": "bg-balgarski-vladeteli",
+      "name": "Български владетели",
+      "category": "history",
+      "record_count": 85,
+      "columns": [
+        "period",
+        "titla",
+        "ime",
+        "dinastiya",
+        "godini_upravlenie",
+        "belezhki"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Български_владетели",
+      "updated": "2026-10",
+      "size": 32855,
+      "files": {
+        "csv": {
+          "name": "bg-balgarski-vladeteli_BG.csv",
+          "size": 20325
+        },
+        "xlsx": {
+          "name": "bg-balgarski-vladeteli_BG.xlsx",
+          "size": 12418
         }
       }
     },
