@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:20:55.555Z",
-  "total_datasets": 419,
-  "total_records": 189354,
+  "generated": "2026-10-27T02:20:58.226Z",
+  "total_datasets": 420,
+  "total_records": 189500,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 30
+      "dataset_count": 31
     },
     {
       "id": "entertainment",
@@ -779,6 +779,31 @@
         "xlsx": {
           "name": "bg-lovech-uchilishta-registar_BG.xlsx",
           "size": 12011
+        }
+      }
+    },
+    {
+      "id": "bg-ministri-obrazovanie",
+      "name": "Министри на образованието на България",
+      "category": "education",
+      "record_count": 146,
+      "columns": [
+        "pravitelstvo",
+        "ime",
+        "dati",
+        "partiya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Министър_на_образованието_и_науката_на_България",
+      "updated": "2026-10",
+      "size": 30043,
+      "files": {
+        "csv": {
+          "name": "bg-ministri-obrazovanie_BG.csv",
+          "size": 15996
+        },
+        "xlsx": {
+          "name": "bg-ministri-obrazovanie_BG.xlsx",
+          "size": 12417
         }
       }
     },
