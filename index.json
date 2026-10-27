@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:24.385Z",
-  "total_datasets": 431,
-  "total_records": 190420,
+  "generated": "2026-10-27T02:21:26.695Z",
+  "total_datasets": 432,
+  "total_records": 190429,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -4552,6 +4552,33 @@
         "xlsx": {
           "name": "bg-predsedateli-narodno-sabranie_BG.xlsx",
           "size": 10871
+        }
+      }
+    },
+    {
+      "id": "bg-prezidenti",
+      "name": "Президенти на България",
+      "category": "politics",
+      "record_count": 9,
+      "columns": [
+        "nomer",
+        "ime",
+        "predishen_post",
+        "izbran",
+        "mandat",
+        "vitseprezident"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Президент_на_България",
+      "updated": "2026-10",
+      "size": 5517,
+      "files": {
+        "csv": {
+          "name": "bg-prezidenti_BG.csv",
+          "size": 2495
+        },
+        "xlsx": {
+          "name": "bg-prezidenti_BG.xlsx",
+          "size": 7732
         }
       }
     },

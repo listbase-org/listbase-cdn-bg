@@ -1,0 +1,128 @@
+{
+  "id": "bg-prezidenti",
+  "name": "Президенти на България",
+  "title": "Президенти на България",
+  "description": "Президентите на Република България от 1992 г.: предишен пост, година на избиране, мандат и вицепрезидент.",
+  "category": "politics",
+  "source": "https://bg.wikipedia.org/wiki/Президент_на_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Президент_на_България",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "predishen_post",
+      "label": "Predishen Post",
+      "type": "string"
+    },
+    {
+      "key": "izbran",
+      "label": "Izbran",
+      "type": "number"
+    },
+    {
+      "key": "mandat",
+      "label": "Mandat",
+      "type": "string"
+    },
+    {
+      "key": "vitseprezident",
+      "label": "Vitseprezident",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": "1",
+      "ime": "д-р Желю Желев (3 март 1935 – 30 януари 2015)",
+      "predishen_post": "Народен представител в VII велико народно събрание",
+      "izbran": "1992",
+      "mandat": "22 януари 1992 – 22 януари 1997",
+      "vitseprezident": "Блага Димитрова"
+    },
+    {
+      "nomer": "1",
+      "ime": "д-р Желю Желев (3 март 1935 – 30 януари 2015)",
+      "predishen_post": "Народен представител в VII велико народно събрание",
+      "izbran": "1992",
+      "mandat": "22 януари 1992 – 22 януари 1997",
+      "vitseprezident": "постът е незает (6 юли 1993 – 22 януари 1997)"
+    },
+    {
+      "nomer": "2",
+      "ime": "Петър Стоянов (р. 25 май 1952 г.)",
+      "predishen_post": "Народен представител в XXXVII народно събрание ; заместник-председател на партия СДС",
+      "izbran": "1996",
+      "mandat": "22 януари 1997 – 22 януари 2002",
+      "vitseprezident": "Тодор Кавалджиев"
+    },
+    {
+      "nomer": "3",
+      "ime": "Георги Първанов (р. 28 юни 1957 г.)",
+      "predishen_post": "Народен представител в ΧΧΧVΙΙ , ΧΧΧVΙΙΙ и XXXIX народно събрание",
+      "izbran": "2001",
+      "mandat": "22 януари 2002 – 22 януари 2007",
+      "vitseprezident": "Ангел Марин"
+    },
+    {
+      "nomer": "3",
+      "ime": "Георги Първанов (р. 28 юни 1957 г.)",
+      "predishen_post": "Народен представител в ΧΧΧVΙΙ , ΧΧΧVΙΙΙ и XXXIX народно събрание",
+      "izbran": "2006",
+      "mandat": "22 януари 2007 – 22 януари 2012",
+      "vitseprezident": "Ангел Марин"
+    },
+    {
+      "nomer": "4",
+      "ime": "Росен Плевнелиев (р. 14 май 1964 г.)",
+      "predishen_post": "Министър на регионалното развитие и благоустройството",
+      "izbran": "2011",
+      "mandat": "22 януари 2012 – 22 януари 2017",
+      "vitseprezident": "Маргарита Попова"
+    },
+    {
+      "nomer": "5",
+      "ime": "ген. м-р Румен Радев (р. 18 юни 1963 г.)",
+      "predishen_post": "Командир на Военовъздушните сили на Република България",
+      "izbran": "2016",
+      "mandat": "22 януари 2017 – 22 януари 2022",
+      "vitseprezident": "Илияна Йотова"
+    },
+    {
+      "nomer": "",
+      "ime": "ген. м-р Румен Радев (р. 18 юни 1963 г.)",
+      "predishen_post": "Командир на Военовъздушните сили на Република България",
+      "izbran": "2021",
+      "mandat": "22 януари 2022 – 23 януари 2026",
+      "vitseprezident": "Илияна Йотова"
+    },
+    {
+      "nomer": "6",
+      "ime": "Илияна Йотова (р. 24 октомври 1964 г.)",
+      "predishen_post": "Вицепрезидент на Република България",
+      "izbran": "Съгласно КРБ и Решение № 1/23.01.2026 на КС",
+      "mandat": "от 23 януари 2026 г.",
+      "vitseprezident": "постът е незает (от 23 януари 2026 г.)"
+    }
+  ],
+  "meta": {
+    "title": "Президенти на България - Free Download",
+    "description": "Президентите на Република България от 1992 г.: предишен пост, година на избиране, мандат и вицепрезидент. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Президенти на България | ListBase",
+    "seo_description": "Download Президенти на България — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Президент_на_България"
+    ]
+  }
+}
