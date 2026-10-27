@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:05.575Z",
-  "total_datasets": 423,
-  "total_records": 189916,
+  "generated": "2026-10-27T02:21:08.043Z",
+  "total_datasets": 424,
+  "total_records": 190055,
   "categories": [
     {
       "id": "culture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -4371,6 +4371,31 @@
         "xlsx": {
           "name": "bg-ministri-vanshni-raboti_BG.xlsx",
           "size": 11847
+        }
+      }
+    },
+    {
+      "id": "bg-ministri-vatreshni-raboti",
+      "name": "Министри на вътрешните работи на България",
+      "category": "politics",
+      "record_count": 139,
+      "columns": [
+        "pravitelstvo",
+        "ime",
+        "dati",
+        "partiya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Министър_на_вътрешните_работи_на_България",
+      "updated": "2026-10",
+      "size": 28629,
+      "files": {
+        "csv": {
+          "name": "bg-ministri-vatreshni-raboti_BG.csv",
+          "size": 15136
+        },
+        "xlsx": {
+          "name": "bg-ministri-vatreshni-raboti_BG.xlsx",
+          "size": 12226
         }
       }
     },
