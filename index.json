@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:19.688Z",
-  "total_datasets": 429,
-  "total_records": 190312,
+  "generated": "2026-10-27T02:21:21.990Z",
+  "total_datasets": 430,
+  "total_records": 190329,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -4297,6 +4297,32 @@
         "xlsx": {
           "name": "bg-ministri-pravosadie_BG.xlsx",
           "size": 12450
+        }
+      }
+    },
+    {
+      "id": "bg-predsedateli-konstitutsionen-sad",
+      "name": "Председатели на Конституционния съд на България",
+      "category": "law",
+      "record_count": 17,
+      "columns": [
+        "nomer",
+        "predsedatel",
+        "dati",
+        "mandat_sastav",
+        "status"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Конституционен_съд_на_България",
+      "updated": "2026-10",
+      "size": 6565,
+      "files": {
+        "csv": {
+          "name": "bg-predsedateli-konstitutsionen-sad_BG.csv",
+          "size": 2768
+        },
+        "xlsx": {
+          "name": "bg-predsedateli-konstitutsionen-sad_BG.xlsx",
+          "size": 7771
         }
       }
     },

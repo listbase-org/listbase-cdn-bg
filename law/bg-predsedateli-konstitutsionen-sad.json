@@ -1,0 +1,170 @@
+{
+  "id": "bg-predsedateli-konstitutsionen-sad",
+  "name": "Председатели на Конституционния съд на България",
+  "title": "Председатели на Конституционния съд на България",
+  "description": "Председателите на Конституционния съд на Република България от 1991 г.",
+  "category": "law",
+  "source": "https://bg.wikipedia.org/wiki/Конституционен_съд_на_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Конституционен_съд_на_България",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "predsedatel",
+      "label": "Predsedatel",
+      "type": "string"
+    },
+    {
+      "key": "dati",
+      "label": "Dati",
+      "type": "string"
+    },
+    {
+      "key": "mandat_sastav",
+      "label": "Mandat Sastav",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": "1",
+      "predsedatel": "Асен Димитров Манов (1)",
+      "dati": "3 октомври 1991 – 18 октомври 1994",
+      "mandat_sastav": "I мандат, 1 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "",
+      "predsedatel": "Асен Димитров Манов (2)",
+      "dati": "18 октомври 1994 – 14 октомври 1997",
+      "mandat_sastav": "I мандат, 2 състав",
+      "status": "втори мандат"
+    },
+    {
+      "nomer": "2",
+      "predsedatel": "Живко Стоянов Сталев",
+      "dati": "14 октомври 1997 – 19 октомври 2000",
+      "mandat_sastav": "I мандат, 3 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "3",
+      "predsedatel": "Христо Веселинов Данов",
+      "dati": "19 октомври 2000 – 17 февруари 2003",
+      "mandat_sastav": "II мандат, 1 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "4",
+      "predsedatel": "Неделчо Крумов Беронов (1)",
+      "dati": "17 февруари 2003 – 28 февруари 2003",
+      "mandat_sastav": "II мандат, 1 състав",
+      "status": "временен"
+    },
+    {
+      "nomer": "5",
+      "predsedatel": "Румен Петров Янков (1)",
+      "dati": "28 февруари 2003 – 28 октомври 2003",
+      "mandat_sastav": "II мандат, 1 състав",
+      "status": "временен"
+    },
+    {
+      "nomer": "",
+      "predsedatel": "Неделчо Крумов Беронов (2)",
+      "dati": "28 октомври 2003 – 3 октомври 2006",
+      "mandat_sastav": "II мандат, 2 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "6",
+      "predsedatel": "Васил Стоянов Гоцев",
+      "dati": "3 октомври 2006 – 8 ноември 2006",
+      "mandat_sastav": "II мандат, 2 състав",
+      "status": "временен"
+    },
+    {
+      "nomer": "",
+      "predsedatel": "Румен Петров Янков (2)",
+      "dati": "8 ноември 2006 – 9 октомври 2009",
+      "mandat_sastav": "II мандат, 3 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "7",
+      "predsedatel": "Димитър Великов Токушев (1)",
+      "dati": "9 октомври 2009 – 16 ноември 2009",
+      "mandat_sastav": "II мандат, 3 състав",
+      "status": "временен"
+    },
+    {
+      "nomer": "8",
+      "predsedatel": "Евгени Петров Танчев",
+      "dati": "16 ноември 2009 – 15 ноември 2012",
+      "mandat_sastav": "III мандат, 1 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "9",
+      "predsedatel": "Цанка Тодорова Цанкова",
+      "dati": "16 ноември 2012 – 3 март 2013",
+      "mandat_sastav": "III мандат, 2 състав",
+      "status": "временен"
+    },
+    {
+      "nomer": "",
+      "predsedatel": "Димитър Великов Токушев (2)",
+      "dati": "4 март 2013 – 11 ноември 2015",
+      "mandat_sastav": "III мандат, 2 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "10",
+      "predsedatel": "Борис Владимиров Велчев (1)",
+      "dati": "16 ноември 2015 -14 ноември 2018",
+      "mandat_sastav": "III мандат, 3 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "",
+      "predsedatel": "Борис Владимиров Велчев (2)",
+      "dati": "14 ноември 2018 – 15 ноември 2021",
+      "mandat_sastav": "IV мандат, 1 състав",
+      "status": "втори мандат"
+    },
+    {
+      "nomer": "11",
+      "predsedatel": "Павлина Стефанова Панова (1)",
+      "dati": "16 ноември 2021 – 15 ноември 2024 г.",
+      "mandat_sastav": "IV мандат, 2 състав",
+      "status": "първи мандат"
+    },
+    {
+      "nomer": "",
+      "predsedatel": "Павлина Стефанова Панова (2)",
+      "dati": "16 ноември 2024 –",
+      "mandat_sastav": "IV мандат, 3 състав",
+      "status": "втори мандат"
+    }
+  ],
+  "meta": {
+    "title": "Председатели на Конституционния съд на България - Free Download",
+    "description": "Председателите на Конституционния съд на Република България от 1991 г. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Председатели на Конституционния съд на България | ListBase",
+    "seo_description": "Download Председатели на Конституционния съд на България — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Конституционен_съд_на_България"
+    ]
+  }
+}
