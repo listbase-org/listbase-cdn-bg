@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-28T02:20:27.823Z",
-  "total_datasets": 437,
-  "total_records": 190643,
+  "generated": "2026-10-28T02:20:31.716Z",
+  "total_datasets": 438,
+  "total_records": 190732,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "geography",
@@ -2100,6 +2100,31 @@
         "xlsx": {
           "name": "bg-varna-banki_BG.xlsx",
           "size": 7125
+        }
+      }
+    },
+    {
+      "id": "bg-balgarski-yastia",
+      "name": "Български ястия — традиционна българска кухня",
+      "category": "food",
+      "record_count": 89,
+      "columns": [
+        "ime",
+        "grupa",
+        "region",
+        "opisanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Българска_кухня",
+      "updated": "2026-10",
+      "size": 39000,
+      "files": {
+        "csv": {
+          "name": "bg-balgarski-yastia_BG.csv",
+          "size": 30103
+        },
+        "xlsx": {
+          "name": "bg-balgarski-yastia_BG.xlsx",
+          "size": 14467
         }
       }
     },
