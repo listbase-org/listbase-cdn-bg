@@ -1,0 +1,112 @@
+{
+  "id": "bg-detska-evroviziya",
+  "name": "България в „Детска Евровизия“",
+  "title": "България в „Детска Евровизия“",
+  "description": "Участия на България в детския песенен конкурс „Евровизия“: година, град домакин, изпълнител, песен, класиране и точки.",
+  "category": "music",
+  "source": "https://bg.wikipedia.org/wiki/България_в_„Детска_Евровизия“",
+  "source_url": "https://bg.wikipedia.org/wiki/България_в_„Детска_Евровизия“",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "domakin",
+      "label": "Domakin",
+      "type": "string"
+    },
+    {
+      "key": "izpalnitel",
+      "label": "Izpalnitel",
+      "type": "string"
+    },
+    {
+      "key": "pesen",
+      "label": "Pesen",
+      "type": "string"
+    },
+    {
+      "key": "myasto",
+      "label": "Myasto",
+      "type": "number"
+    },
+    {
+      "key": "tochki",
+      "label": "Tochki",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 2007,
+      "domakin": "Нидерландия, Ротердам",
+      "izpalnitel": "Бон-Бон",
+      "pesen": "„Бонболандия“",
+      "myasto": 7,
+      "tochki": 86
+    },
+    {
+      "godina": 2008,
+      "domakin": "Кипър, Лимасол",
+      "izpalnitel": "Кристиана Кръстева",
+      "pesen": "„Една мечта“",
+      "myasto": 15,
+      "tochki": 15
+    },
+    {
+      "godina": 2011,
+      "domakin": "Армения, Ереван",
+      "izpalnitel": "Иван Иванов",
+      "pesen": "„Супергерой“",
+      "myasto": 8,
+      "tochki": 60
+    },
+    {
+      "godina": 2014,
+      "domakin": "Малта, Марса",
+      "izpalnitel": "Крисия, Хасан и Ибрахим Игнатови",
+      "pesen": "„Планетата на децата“",
+      "myasto": 2,
+      "tochki": 147
+    },
+    {
+      "godina": "2015 (домакин)",
+      "domakin": "България, София",
+      "izpalnitel": "Габриела Йорданова, Иван Стоянов",
+      "pesen": "„Цветът на надеждата“",
+      "myasto": 9,
+      "tochki": 62
+    },
+    {
+      "godina": 2016,
+      "domakin": "Малта, Валета",
+      "izpalnitel": "Лидия Ганева",
+      "pesen": "„Вълшебен ден“",
+      "myasto": 9,
+      "tochki": 161
+    },
+    {
+      "godina": 2021,
+      "domakin": "Франция, Париж",
+      "izpalnitel": "Денислава и Мартин",
+      "pesen": "„Voice of Love“",
+      "myasto": 16,
+      "tochki": 77
+    }
+  ],
+  "meta": {
+    "title": "България в „Детска Евровизия“ - Free Download",
+    "description": "Участия на България в детския песенен конкурс „Евровизия“: година, град домакин, изпълнител, песен, класиране и точки. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "България в „Детска Евровизия“ | ListBase",
+    "seo_description": "Download България в „Детска Евровизия“ — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/България_в_„Детска_Евровизия“"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-28T02:20:31.716Z",
-  "total_datasets": 438,
-  "total_records": 190732,
+  "generated": "2026-10-28T02:20:34.116Z",
+  "total_datasets": 439,
+  "total_records": 190739,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -4425,6 +4425,33 @@
         "xlsx": {
           "name": "bg-sadii-konstitutsionen-sad_BG.xlsx",
           "size": 7229
+        }
+      }
+    },
+    {
+      "id": "bg-detska-evroviziya",
+      "name": "България в „Детска Евровизия“",
+      "category": "music",
+      "record_count": 7,
+      "columns": [
+        "godina",
+        "domakin",
+        "izpalnitel",
+        "pesen",
+        "myasto",
+        "tochki"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/България_в_„Детска_Евровизия“",
+      "updated": "2026-10",
+      "size": 3762,
+      "files": {
+        "csv": {
+          "name": "bg-detska-evroviziya_BG.csv",
+          "size": 906
+        },
+        "xlsx": {
+          "name": "bg-detska-evroviziya_BG.xlsx",
+          "size": 7363
         }
       }
     },
