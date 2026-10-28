@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-28T02:20:36.525Z",
-  "total_datasets": 440,
-  "total_records": 190768,
+  "generated": "2026-10-28T02:20:38.792Z",
+  "total_datasets": 441,
+  "total_records": 190821,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -10876,6 +10876,37 @@
         "xlsx": {
           "name": "bg-naselenie-prebroyavaniya_BG.xlsx",
           "size": 6975
+        }
+      }
+    },
+    {
+      "id": "bg-razhdaemost-po-godini",
+      "name": "Раждаемост в България по години (от 1888 г.)",
+      "category": "society",
+      "record_count": 53,
+      "columns": [
+        "godina",
+        "period",
+        "naselenie_31_dekemvri",
+        "zhivorodeni_vsichko",
+        "izvanbrachni_detsa",
+        "v_gradovete",
+        "v_selata",
+        "koeficient_na_razhdaemost_promil",
+        "totalen_koeficient_na_plodovitost",
+        "aborti"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Население_на_България",
+      "updated": "2026-10",
+      "size": 22335,
+      "files": {
+        "csv": {
+          "name": "bg-razhdaemost-po-godini_BG.csv",
+          "size": 5528
+        },
+        "xlsx": {
+          "name": "bg-razhdaemost-po-godini_BG.xlsx",
+          "size": 9857
         }
       }
     },
