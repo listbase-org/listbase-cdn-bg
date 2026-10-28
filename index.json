@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-27T02:21:36.824Z",
-  "total_datasets": 436,
-  "total_records": 190582,
+  "generated": "2026-10-28T02:20:27.823Z",
+  "total_datasets": 437,
+  "total_records": 190643,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -481,6 +481,32 @@
         "xlsx": {
           "name": "bg-teatri_BG.xlsx",
           "size": 11098
+        }
+      }
+    },
+    {
+      "id": "bg-minimalna-rabotna-zaplata",
+      "name": "Минимална работна заплата в България (от 1991 г.)",
+      "category": "economy",
+      "record_count": 61,
+      "columns": [
+        "godina",
+        "srok_na_deystvie",
+        "minimalna_mesechna_zaplata",
+        "minimalno_pochasovo_zaplashtane",
+        "normativno_osnovanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Минимална_работна_заплата_в_България",
+      "updated": "2026-10",
+      "size": 19977,
+      "files": {
+        "csv": {
+          "name": "bg-minimalna-rabotna-zaplata_BG.csv",
+          "size": 7595
+        },
+        "xlsx": {
+          "name": "bg-minimalna-rabotna-zaplata_BG.xlsx",
+          "size": 10006
         }
       }
     },

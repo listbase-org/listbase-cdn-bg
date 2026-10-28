@@ -1,0 +1,478 @@
+{
+  "id": "bg-minimalna-rabotna-zaplata",
+  "name": "Минимална работна заплата в България (от 1991 г.)",
+  "title": "Минимална работна заплата в България (от 1991 г.)",
+  "description": "Размер на минималната месечна и почасова брутна работна заплата в България по периоди на действие и нормативно основание.",
+  "category": "economy",
+  "source": "https://bg.wikipedia.org/wiki/Минимална_работна_заплата_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Минимална_работна_заплата_в_България",
+  "updated": "2026-10",
+  "record_count": 61,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "srok_na_deystvie",
+      "label": "Srok Na Deystvie",
+      "type": "string"
+    },
+    {
+      "key": "minimalna_mesechna_zaplata",
+      "label": "Minimalna Mesechna Zaplata",
+      "type": "string"
+    },
+    {
+      "key": "minimalno_pochasovo_zaplashtane",
+      "label": "Minimalno Pochasovo Zaplashtane",
+      "type": "string"
+    },
+    {
+      "key": "normativno_osnovanie",
+      "label": "Normativno Osnovanie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godina": "1991",
+      "srok_na_deystvie": "1 юли 1991 – 31 декември 1991",
+      "minimalna_mesechna_zaplata": "620 лв.",
+      "minimalno_pochasovo_zaplashtane": "3,44 лв.",
+      "normativno_osnovanie": "ПМС № 129/5.07.1991 г."
+    },
+    {
+      "godina": "1992",
+      "srok_na_deystvie": "1.01.1992 – 30 юни 1992",
+      "minimalna_mesechna_zaplata": "620 лв.",
+      "minimalno_pochasovo_zaplashtane": "3,44 лв.",
+      "normativno_osnovanie": "ПМС № 135/17 юли 1992 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.07.1992 – 31 декември 1992",
+      "minimalna_mesechna_zaplata": "850 лв.",
+      "minimalno_pochasovo_zaplashtane": "4,72 лв.",
+      "normativno_osnovanie": ""
+    },
+    {
+      "godina": "1993",
+      "srok_na_deystvie": "1.01.1993 – 29 февруари 1993",
+      "minimalna_mesechna_zaplata": "850 лв.",
+      "minimalno_pochasovo_zaplashtane": "4,72 лв.",
+      "normativno_osnovanie": ""
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.03.1993 – 30 юни 1993",
+      "minimalna_mesechna_zaplata": "1200 лв.",
+      "minimalno_pochasovo_zaplashtane": "7,08 лв.",
+      "normativno_osnovanie": "ПМС № 65/26 март 1993 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.07.1993 – 30 септември 1993",
+      "minimalna_mesechna_zaplata": "1343 лв.",
+      "minimalno_pochasovo_zaplashtane": "7,92 лв.",
+      "normativno_osnovanie": "ПМС № 149/3.08.1993 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.10.1993 – 31 декември 1993",
+      "minimalna_mesechna_zaplata": "1414 лв.",
+      "minimalno_pochasovo_zaplashtane": "8,34 лв.",
+      "normativno_osnovanie": "ПМС № 214/12 ноември 1993 г."
+    },
+    {
+      "godina": "1994",
+      "srok_na_deystvie": "1.01.1994 – 30 юни 1994",
+      "minimalna_mesechna_zaplata": "1565 лв.",
+      "minimalno_pochasovo_zaplashtane": "9,18 лв.",
+      "normativno_osnovanie": "ПМС № 27/7.02.1994 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.07.1994 – 30 септември 1994",
+      "minimalna_mesechna_zaplata": "1814 лв.",
+      "minimalno_pochasovo_zaplashtane": "10,65 лв.",
+      "normativno_osnovanie": "ПМС № 146/1.08.1994 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.10.1994 – 31 декември 1994",
+      "minimalna_mesechna_zaplata": "2143 лв.",
+      "minimalno_pochasovo_zaplashtane": "12,58 лв.",
+      "normativno_osnovanie": "ПМС № 268/16 ноември 1994 г."
+    },
+    {
+      "godina": "1995",
+      "srok_na_deystvie": "1.01.1995 – 31 март 1995",
+      "minimalna_mesechna_zaplata": "2143 лв.",
+      "minimalno_pochasovo_zaplashtane": "12,58 лв.",
+      "normativno_osnovanie": ""
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.04.1995 – 30 юни 1995",
+      "minimalna_mesechna_zaplata": "2450 лв.",
+      "minimalno_pochasovo_zaplashtane": "14,47 лв.",
+      "normativno_osnovanie": "ПМС № 98/15 май 1995 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.07.1995 – 30 септември 1995",
+      "minimalna_mesechna_zaplata": "2555 лв.",
+      "minimalno_pochasovo_zaplashtane": "15,09 лв.",
+      "normativno_osnovanie": "ПМС № 166/16 август 1995 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.10.1995 – 31 декември 1995",
+      "minimalna_mesechna_zaplata": "2760 лв.",
+      "minimalno_pochasovo_zaplashtane": "16,30 лв.",
+      "normativno_osnovanie": "ПМС № 222/23 ноември 1995 г."
+    },
+    {
+      "godina": "1996",
+      "srok_na_deystvie": "1.01.1996 – 31 март 1996",
+      "minimalna_mesechna_zaplata": "2760 лв.",
+      "minimalno_pochasovo_zaplashtane": "16,30 лв.",
+      "normativno_osnovanie": ""
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.04.1996 – 30 юни 1996",
+      "minimalna_mesechna_zaplata": "3040 лв.",
+      "minimalno_pochasovo_zaplashtane": "17,88 лв.",
+      "normativno_osnovanie": "ПМС № 56/20 март 1996 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.07.1996 – 30 септември 1996",
+      "minimalna_mesechna_zaplata": "4000 лв.",
+      "minimalno_pochasovo_zaplashtane": "23,53 лв.",
+      "normativno_osnovanie": "ПМС № 172/18 юли 1996 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.10.1996 – 31 декември 1996",
+      "minimalna_mesechna_zaplata": "5500 лв.",
+      "minimalno_pochasovo_zaplashtane": "32,35 лв.",
+      "normativno_osnovanie": "ПМС № 245/26 септември 1996 г."
+    },
+    {
+      "godina": "1997",
+      "srok_na_deystvie": "1.01.1997 – 31 януари 1997",
+      "minimalna_mesechna_zaplata": "5500 лв.",
+      "minimalno_pochasovo_zaplashtane": "32,35 лв.",
+      "normativno_osnovanie": ""
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.02.1997 – 28 февруари 1997",
+      "minimalna_mesechna_zaplata": "11 000 лв.",
+      "minimalno_pochasovo_zaplashtane": "64,95 лв.",
+      "normativno_osnovanie": "ПМС № 34/6.02.1997 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.03.1997 – 31 март 1997",
+      "minimalna_mesechna_zaplata": "17 600 лв.",
+      "minimalno_pochasovo_zaplashtane": "103,92 лв.",
+      "normativno_osnovanie": "ПМС № 64/24 февруари 1997 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.04.1997 – 30 април 1997",
+      "minimalna_mesechna_zaplata": "29 920 лв.",
+      "minimalno_pochasovo_zaplashtane": "176,67 лв.",
+      "normativno_osnovanie": "ПМС № 123/27 март 1997 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.05.1997 – 30 септември 1997",
+      "minimalna_mesechna_zaplata": "41 290 лв.",
+      "minimalno_pochasovo_zaplashtane": "243,80 лв.",
+      "normativno_osnovanie": "ПМС № 181/2.05.1997 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.10.1997 – 31 декември 1997",
+      "minimalna_mesechna_zaplata": "45 500 лв.",
+      "minimalno_pochasovo_zaplashtane": "268,66 лв.",
+      "normativno_osnovanie": "ПМС № 415/5.11.1997 г."
+    },
+    {
+      "godina": "1998",
+      "srok_na_deystvie": "1.01.1998 – 31 март 1998",
+      "minimalna_mesechna_zaplata": "48 700 лв.",
+      "minimalno_pochasovo_zaplashtane": "286,47 лв.",
+      "normativno_osnovanie": "ПМС № 12/22 януари 1998 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.04.1998 – 31 август 1998",
+      "minimalna_mesechna_zaplata": "50 940 лв.",
+      "minimalno_pochasovo_zaplashtane": "299,65 лв.",
+      "normativno_osnovanie": "ПМС № 92/17 април 1998 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.09.1998 – 31 декември 1998",
+      "minimalna_mesechna_zaplata": "53 500 лв.",
+      "minimalno_pochasovo_zaplashtane": "314,70 лв.",
+      "normativno_osnovanie": "ПМС № 197/21 август 1998 г."
+    },
+    {
+      "godina": "1999",
+      "srok_na_deystvie": "1.01.1999 – 30 юни 1999",
+      "minimalna_mesechna_zaplata": "61 000 лв.",
+      "minimalno_pochasovo_zaplashtane": "368,95 лв.",
+      "normativno_osnovanie": "ПМС № 7/19 януари 1999 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.07.1999 – 4 юли 1999",
+      "minimalna_mesechna_zaplata": "67 000 лв.",
+      "minimalno_pochasovo_zaplashtane": "390,00 лв.",
+      "normativno_osnovanie": ""
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "5.07.1999 – 31 декември 1999",
+      "minimalna_mesechna_zaplata": "67 лв. (€34,26)",
+      "minimalno_pochasovo_zaplashtane": "0,39 лв. (€0,20)",
+      "normativno_osnovanie": "ПМС № 132/25 юни 1999 г."
+    },
+    {
+      "godina": "2000",
+      "srok_na_deystvie": "1.01.2000 – 31 януари 2000",
+      "minimalna_mesechna_zaplata": "67 лв. (€34,26)",
+      "minimalno_pochasovo_zaplashtane": "0,39 лв. (€0,20)",
+      "normativno_osnovanie": ""
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1.02.2000 – 30 септември 2000",
+      "minimalna_mesechna_zaplata": "75 лв. (€38,35)",
+      "minimalno_pochasovo_zaplashtane": "0,45 лв. (€0,23)",
+      "normativno_osnovanie": "ПМС № 12/14 февруари 2000 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1 октомври 2000 – 31 декември 2000",
+      "minimalna_mesechna_zaplata": "79 лв. (€40,39)",
+      "minimalno_pochasovo_zaplashtane": "0,47 лв. (€0,24)",
+      "normativno_osnovanie": "ПМС № 213/9.10.2000 г."
+    },
+    {
+      "godina": "2001",
+      "srok_na_deystvie": "1 януари 2001 – 31 март 2001",
+      "minimalna_mesechna_zaplata": "79 лв. (€40,39)",
+      "minimalno_pochasovo_zaplashtane": "0,47 лв. (€0,24)",
+      "normativno_osnovanie": ""
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1 април 2001 – 30 септември 2001",
+      "minimalna_mesechna_zaplata": "85 лв. (€43,46)",
+      "minimalno_pochasovo_zaplashtane": "0,50 лв. (€0,26)",
+      "normativno_osnovanie": "ПМС № 64/16 март 2001 г."
+    },
+    {
+      "godina": "",
+      "srok_na_deystvie": "1 октомври 2001 – 31 декември 2002",
+      "minimalna_mesechna_zaplata": "100 лв. (€51,13)",
+      "minimalno_pochasovo_zaplashtane": "0,59 лв. (€0,30)",
+      "normativno_osnovanie": "ПМС № 209/21 септември 2001 г."
+    },
+    {
+      "godina": "2003",
+      "srok_na_deystvie": "1 януари 2003 – 31 декември 2003",
+      "minimalna_mesechna_zaplata": "110 лв. (€56,24)",
+      "minimalno_pochasovo_zaplashtane": "0,65 лв. (€0,33)",
+      "normativno_osnovanie": "ПМС № 1/3.01.2003 г."
+    },
+    {
+      "godina": "2004",
+      "srok_na_deystvie": "1 януари 2004 – 31 декември 2004",
+      "minimalna_mesechna_zaplata": "120 лв. (€61,36)",
+      "minimalno_pochasovo_zaplashtane": "0,71 лв. (€0,36)",
+      "normativno_osnovanie": "ПМС № 7/16 януари 2004 г."
+    },
+    {
+      "godina": "2005",
+      "srok_na_deystvie": "1 януари 2005 – 31 декември 2005",
+      "minimalna_mesechna_zaplata": "150 лв. (€76,69)",
+      "minimalno_pochasovo_zaplashtane": "0,89 лв. (€0,46)",
+      "normativno_osnovanie": "ПМС № 12/21 януари 2005 г."
+    },
+    {
+      "godina": "2006",
+      "srok_na_deystvie": "1 януари 2006 – 31 декември 2006",
+      "minimalna_mesechna_zaplata": "160 лв. (€81,81)",
+      "minimalno_pochasovo_zaplashtane": "0,95 лв. (€0,49)",
+      "normativno_osnovanie": "ПМС № 8/20 януари 2006 г."
+    },
+    {
+      "godina": "2007",
+      "srok_na_deystvie": "1 януари 2007 – 31 декември 2007",
+      "minimalna_mesechna_zaplata": "180 лв. (€92,03)",
+      "minimalno_pochasovo_zaplashtane": "1,07 лв. (€0,55)",
+      "normativno_osnovanie": "ПМС № 324/6 декември 2006 г."
+    },
+    {
+      "godina": "2008",
+      "srok_na_deystvie": "1 януари 2008 – 31 декември 2008",
+      "minimalna_mesechna_zaplata": "220 лв. (€112,48)",
+      "minimalno_pochasovo_zaplashtane": "1,30 лв. (€0,66)",
+      "normativno_osnovanie": "ПМС № 1/11 януари 2008 г."
+    },
+    {
+      "godina": "2009",
+      "srok_na_deystvie": "1 януари 2009 – 31 декември 2009",
+      "minimalna_mesechna_zaplata": "240 лв. (€122,71)",
+      "minimalno_pochasovo_zaplashtane": "1,42 лв. (€0,73)",
+      "normativno_osnovanie": "ПМС № 1/10 януари 2009 г."
+    },
+    {
+      "godina": "2010",
+      "srok_na_deystvie": "1 януари 2010 – 31 август 2011",
+      "minimalna_mesechna_zaplata": "240 лв. (€122,71)",
+      "minimalno_pochasovo_zaplashtane": "1,42 лв. (€0,73)",
+      "normativno_osnovanie": "ПМС № 326/30 декември 2009 г."
+    },
+    {
+      "godina": "2011",
+      "srok_na_deystvie": "1 септември 2011 – 30 април 2012",
+      "minimalna_mesechna_zaplata": "270 лв. (€138,05)",
+      "minimalno_pochasovo_zaplashtane": "1,61 лв. (€0,82)",
+      "normativno_osnovanie": "ПМС № 180/30 юни 2011 г."
+    },
+    {
+      "godina": "2012",
+      "srok_na_deystvie": "1 май 2012 – 31 декември 2012",
+      "minimalna_mesechna_zaplata": "290 лв. (€148,27)",
+      "minimalno_pochasovo_zaplashtane": "1,70 лв. (€0,87)",
+      "normativno_osnovanie": "ПМС № 300/10 ноември 2011 г."
+    },
+    {
+      "godina": "2013",
+      "srok_na_deystvie": "1 януари 2013 – 31 декември 2013",
+      "minimalna_mesechna_zaplata": "310 лв. (€158,50)",
+      "minimalno_pochasovo_zaplashtane": "1,85 лв. (0,95€)",
+      "normativno_osnovanie": "ПМС № 250/11 октомври 2012 г."
+    },
+    {
+      "godina": "2014",
+      "srok_na_deystvie": "1 януари 2014 – 31 декември 2014",
+      "minimalna_mesechna_zaplata": "340 лв. (€173,84)",
+      "minimalno_pochasovo_zaplashtane": "2,03 лв. (€1,04)",
+      "normativno_osnovanie": "ПМС № 249/31 октомври 2013 г."
+    },
+    {
+      "godina": "2015",
+      "srok_na_deystvie": "1 януари 2015 – 30 юни 2015",
+      "minimalna_mesechna_zaplata": "360 лв. (€184,07)",
+      "minimalno_pochasovo_zaplashtane": "2,20 лв. (€1,12)",
+      "normativno_osnovanie": "ПМС № 139/4 юни 2015 г."
+    },
+    {
+      "godina": "2015",
+      "srok_na_deystvie": "1 юли 2015 – 31 декември 2015",
+      "minimalna_mesechna_zaplata": "380 лв. (€194,29)",
+      "minimalno_pochasovo_zaplashtane": "2,38 лв. (€1,22)",
+      "normativno_osnovanie": "ПМС № 139/4 юни 2015 г."
+    },
+    {
+      "godina": "2016",
+      "srok_na_deystvie": "1 януари 2016 – 31 декември 2016",
+      "minimalna_mesechna_zaplata": "420 лв. (€214,74)",
+      "minimalno_pochasovo_zaplashtane": "2,50 лв. (€1,28)",
+      "normativno_osnovanie": "ПМС № 375/28 декември 2015 г."
+    },
+    {
+      "godina": "2017",
+      "srok_na_deystvie": "1 януари 2017 – 31 декември 2017",
+      "minimalna_mesechna_zaplata": "460 лв. (€235,19)",
+      "minimalno_pochasovo_zaplashtane": "2,77 лв. (€1,42)",
+      "normativno_osnovanie": "ПМС № 372/22 декември 2016 г."
+    },
+    {
+      "godina": "2018",
+      "srok_na_deystvie": "1 януари 2018 – 31 декември 2018",
+      "minimalna_mesechna_zaplata": "510 лв. (€260,76)",
+      "minimalno_pochasovo_zaplashtane": "3,07 лв. (€1,57)",
+      "normativno_osnovanie": "ПМС № 316/20 декември 2017 г."
+    },
+    {
+      "godina": "2019",
+      "srok_na_deystvie": "1 януари 2019 – 31 декември 2019",
+      "minimalna_mesechna_zaplata": "560 лв. (€286,32)",
+      "minimalno_pochasovo_zaplashtane": "3,37 лв. (€1,72)",
+      "normativno_osnovanie": "ПМС № 320/20 декември 2018 г."
+    },
+    {
+      "godina": "2020",
+      "srok_na_deystvie": "1 януари 2020 – 31 декември 2020",
+      "minimalna_mesechna_zaplata": "610 лв. (€311,89)",
+      "minimalno_pochasovo_zaplashtane": "3,66 лв. (€1,87)",
+      "normativno_osnovanie": "ПМС № 350/19 декември 2019 г."
+    },
+    {
+      "godina": "2021",
+      "srok_na_deystvie": "1 януари 2021 – 31 март 2022",
+      "minimalna_mesechna_zaplata": "650 лв. (€332,34)",
+      "minimalno_pochasovo_zaplashtane": "3,92 лв. (€2,00)",
+      "normativno_osnovanie": "ПМС № 331/26 ноември 2020 г."
+    },
+    {
+      "godina": "2022",
+      "srok_na_deystvie": "1 април 2022 – 31 декември 2022",
+      "minimalna_mesechna_zaplata": "710 лв. (€363,02)",
+      "minimalno_pochasovo_zaplashtane": "4,29 лв. (€2,19)",
+      "normativno_osnovanie": "ПМС № 37/24 март 2022 г."
+    },
+    {
+      "godina": "2023",
+      "srok_na_deystvie": "1 януари 2023 – 31 декември 2023",
+      "minimalna_mesechna_zaplata": "780 лв. (€398,81)",
+      "minimalno_pochasovo_zaplashtane": "4,72 лв. (€2,41)",
+      "normativno_osnovanie": "ПМС № 497/29 декември 2022 г."
+    },
+    {
+      "godina": "2024",
+      "srok_na_deystvie": "1 януари 2024 – 31 декември 2024",
+      "minimalna_mesechna_zaplata": "933 лв. (€477,04)",
+      "minimalno_pochasovo_zaplashtane": "5,58 лв. (€2,85)",
+      "normativno_osnovanie": "ПМС № 193/12 октомври 2023 г."
+    },
+    {
+      "godina": "2025",
+      "srok_na_deystvie": "1 януари 2025 – 31 декември 2025",
+      "minimalna_mesechna_zaplata": "1077 лв. (€550,66)",
+      "minimalno_pochasovo_zaplashtane": "6,49 лв. (€3,32)",
+      "normativno_osnovanie": "ПМС № 359/23 октомври 2024 г."
+    },
+    {
+      "godina": "2026",
+      "srok_na_deystvie": "1 януари 2026 – 31 декември 2026",
+      "minimalna_mesechna_zaplata": "€620,00 (1212,61 лв.)",
+      "minimalno_pochasovo_zaplashtane": "",
+      "normativno_osnovanie": "Предстояща промяна"
+    }
+  ],
+  "meta": {
+    "title": "Минимална работна заплата в България (от 1991 г.) - Free Download",
+    "description": "Размер на минималната месечна и почасова брутна работна заплата в България по периоди на действие и нормативно основание. Contains 61 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Минимална работна заплата в България (от 1991 г.) | ListBase",
+    "seo_description": "Download Минимална работна заплата в България (от 1991 г.) — 61 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 61 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Минимална_работна_заплата_в_България"
+    ]
+  }
+}
