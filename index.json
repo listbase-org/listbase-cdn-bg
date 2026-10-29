@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-29T02:11:00.413Z",
-  "total_datasets": 442,
-  "total_records": 190865,
+  "generated": "2026-10-29T02:11:03.337Z",
+  "total_datasets": 443,
+  "total_records": 190910,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tech",
@@ -10932,6 +10932,33 @@
         "xlsx": {
           "name": "bg-razhdaemost-po-godini_BG.xlsx",
           "size": 9857
+        }
+      }
+    },
+    {
+      "id": "bg-kupa-na-balgariya-futbol-finali",
+      "name": "Купа на България по футбол – финали (от 1982 г.)",
+      "category": "sports",
+      "record_count": 45,
+      "columns": [
+        "sezon",
+        "nositel",
+        "rezultat",
+        "finalist",
+        "polufinalisti",
+        "grad_domakin"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Купа_на_България_по_футбол",
+      "updated": "2026-10",
+      "size": 17140,
+      "files": {
+        "csv": {
+          "name": "bg-kupa-na-balgariya-futbol-finali_BG.csv",
+          "size": 9064
+        },
+        "xlsx": {
+          "name": "bg-kupa-na-balgariya-futbol-finali_BG.xlsx",
+          "size": 9391
         }
       }
     },
