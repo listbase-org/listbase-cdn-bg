@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-28T02:20:38.792Z",
-  "total_datasets": 441,
-  "total_records": 190821,
+  "generated": "2026-10-29T02:11:00.413Z",
+  "total_datasets": 442,
+  "total_records": 190865,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "finance",
@@ -1957,6 +1957,31 @@
         "xlsx": {
           "name": "bg-yazoviri_BG.xlsx",
           "size": 7896
+        }
+      }
+    },
+    {
+      "id": "bg-zemetreseniya",
+      "name": "Земетресения в България",
+      "category": "environment",
+      "record_count": 44,
+      "columns": [
+        "data",
+        "epitsentar",
+        "koordinati",
+        "magnitud"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Земетресения_в_България",
+      "updated": "2026-10",
+      "size": 9598,
+      "files": {
+        "csv": {
+          "name": "bg-zemetreseniya_BG.csv",
+          "size": 3952
+        },
+        "xlsx": {
+          "name": "bg-zemetreseniya_BG.xlsx",
+          "size": 8700
         }
       }
     },

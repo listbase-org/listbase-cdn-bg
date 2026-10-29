@@ -1,0 +1,310 @@
+{
+  "id": "bg-zemetreseniya",
+  "name": "Земетресения в България",
+  "title": "Земетресения в България",
+  "description": "Списък на по-силните исторически земетресения с епицентър на територията на България – дата, епицентър, координати и магнитуд.",
+  "category": "environment",
+  "source": "https://bg.wikipedia.org/wiki/Земетресения_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Земетресения_в_България",
+  "updated": "2026-10",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "data",
+      "label": "Data",
+      "type": "string"
+    },
+    {
+      "key": "epitsentar",
+      "label": "Epitsentar",
+      "type": "string"
+    },
+    {
+      "key": "koordinati",
+      "label": "Koordinati",
+      "type": "string"
+    },
+    {
+      "key": "magnitud",
+      "label": "Magnitud",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "data": "1450 г.",
+      "epitsentar": "София",
+      "koordinati": "42.7° с. ш. 23.3° и. д.",
+      "magnitud": 6
+    },
+    {
+      "data": "1557 г.",
+      "epitsentar": "София",
+      "koordinati": "42.7° с. ш. 23.3° и. д.",
+      "magnitud": 5.5
+    },
+    {
+      "data": "25 април 1818 г.",
+      "epitsentar": "София",
+      "koordinati": "",
+      "magnitud": 6
+    },
+    {
+      "data": "19 септември 1818 г.",
+      "epitsentar": "София",
+      "koordinati": "",
+      "magnitud": 5
+    },
+    {
+      "data": "30 септември 1858 г.",
+      "epitsentar": "10 km югозападно от София",
+      "koordinati": "42.6° с. ш. 23.25° и. д.",
+      "magnitud": 6.6
+    },
+    {
+      "data": "31 август 1859 г.",
+      "epitsentar": "София",
+      "koordinati": "",
+      "magnitud": 4.4
+    },
+    {
+      "data": "19 декември 1866 г.",
+      "epitsentar": "София",
+      "koordinati": "",
+      "magnitud": 4.4
+    },
+    {
+      "data": "31 март 1901 г.",
+      "epitsentar": "Шабла , 10 – 20 km южно от нос Калиакра",
+      "koordinati": "",
+      "magnitud": 7.2
+    },
+    {
+      "data": "4 април 1904 г.",
+      "epitsentar": "долината на р. Струма , Крупник",
+      "koordinati": "",
+      "magnitud": "7.8 и 7.2"
+    },
+    {
+      "data": "8 октомври 1905 г.",
+      "epitsentar": "долината на р. Струма",
+      "koordinati": "",
+      "magnitud": 6.4
+    },
+    {
+      "data": "15 февруари 1909 г.",
+      "epitsentar": "Ямбол",
+      "koordinati": "",
+      "magnitud": 5.9
+    },
+    {
+      "data": "14 юни 1913 г.",
+      "epitsentar": "Горна Оряховица",
+      "koordinati": "43.1° с. ш. 25.7° и. д.",
+      "magnitud": 6.3
+    },
+    {
+      "data": "18 октомври 1917 г.",
+      "epitsentar": "София",
+      "koordinati": "42.42° с. ш. 23.2° и. д.",
+      "magnitud": 5.2
+    },
+    {
+      "data": "14 април 1928 г.",
+      "epitsentar": "Чирпан",
+      "koordinati": "42.16° с. ш. 25.18° и. д.",
+      "magnitud": 6.8
+    },
+    {
+      "data": "18 април 1928 г.",
+      "epitsentar": "Поповица и Гълъбово",
+      "koordinati": "",
+      "magnitud": 7
+    },
+    {
+      "data": "25 април 1928 г.",
+      "epitsentar": "Поповица и Гълъбово",
+      "koordinati": "",
+      "magnitud": 5.6
+    },
+    {
+      "data": "17 март 1942 г.",
+      "epitsentar": "Разград",
+      "koordinati": "",
+      "magnitud": 5.1
+    },
+    {
+      "data": "30 юни 1956 г.",
+      "epitsentar": "Шабла",
+      "koordinati": "",
+      "magnitud": 5.5
+    },
+    {
+      "data": "3 ноември 1977 г.",
+      "epitsentar": "Велинград",
+      "koordinati": "",
+      "magnitud": 5.3
+    },
+    {
+      "data": "21 февруари 1986 г.",
+      "epitsentar": "Стражица",
+      "koordinati": "",
+      "magnitud": 5.1
+    },
+    {
+      "data": "7 декември 1986 г.",
+      "epitsentar": "Стражица",
+      "koordinati": "43.27° с. ш. 25.91° и. д.",
+      "magnitud": 5.6
+    },
+    {
+      "data": "13 август 2001 г.",
+      "epitsentar": "Ямбол",
+      "koordinati": "",
+      "magnitud": 4.3
+    },
+    {
+      "data": "5 април 2002 г.",
+      "epitsentar": "между Пловдив и Асеновград",
+      "koordinati": "",
+      "magnitud": 4
+    },
+    {
+      "data": "29 април 2002 г.",
+      "epitsentar": "в района на Кюстендил",
+      "koordinati": "",
+      "magnitud": 4
+    },
+    {
+      "data": "17 декември 2003 г.",
+      "epitsentar": "34 km западно от Варна",
+      "koordinati": "43.2° с. ш. 27.5° и. д.",
+      "magnitud": 4.2
+    },
+    {
+      "data": "27 август 2004 г.",
+      "epitsentar": "17 km западно от Троян",
+      "koordinati": "42.9° с. ш. 24.5° и. д.",
+      "magnitud": 4.8
+    },
+    {
+      "data": "10 септември 2004 г.",
+      "epitsentar": "селата Труд и Калековец",
+      "koordinati": "",
+      "magnitud": 4.2
+    },
+    {
+      "data": "20 февруари 2006 г.",
+      "epitsentar": "16 km североизточно от Кърджали",
+      "koordinati": "41.71° с. ш. 25.54° и. д.",
+      "magnitud": 4.7
+    },
+    {
+      "data": "2 февруари 2007 г.",
+      "epitsentar": "7 km източно от Смолян",
+      "koordinati": "41.59° с. ш. 24.78° и. д.",
+      "magnitud": 4.3
+    },
+    {
+      "data": "15 април 2008 г.",
+      "epitsentar": "5 km северозападно от Трявна",
+      "koordinati": "42.85° с. ш. 25.45° и. д.",
+      "magnitud": 4.4
+    },
+    {
+      "data": "12 май 2008 г.",
+      "epitsentar": "19 km северозападно от Попово",
+      "koordinati": "43.23° с. ш. 26.07° и. д.",
+      "magnitud": 4.5
+    },
+    {
+      "data": "15 ноември 2008 г.",
+      "epitsentar": "4 km югозападно от София",
+      "koordinati": "42.66° с. ш. 23.29° и. д.",
+      "magnitud": 4.1
+    },
+    {
+      "data": "5 август 2009 г.",
+      "epitsentar": "15 km източно от нос Калиакра в Черно море",
+      "koordinati": "43.4° с. ш. 28.7° и. д.",
+      "magnitud": 4.9
+    },
+    {
+      "data": "21 август 2010 г.",
+      "epitsentar": "27 km югоизточно от Раднево",
+      "koordinati": "43.19° с. ш. 26.24° и. д.",
+      "magnitud": 4.3
+    },
+    {
+      "data": "7 октомври 2010 г.",
+      "epitsentar": "30 km западно от Варна",
+      "koordinati": "43.13° с. ш. 27.55° и. д.",
+      "magnitud": 4.5
+    },
+    {
+      "data": "22 май 2012 г.",
+      "epitsentar": "9 km северно от Перник",
+      "koordinati": "42.66° с. ш. 23.01° и. д.",
+      "magnitud": "5.8 , 4.7 и 4.2"
+    },
+    {
+      "data": "24 май 2012 г.",
+      "epitsentar": "9 km северно от Перник",
+      "koordinati": "42.58° с. ш. 23.06° и. д.",
+      "magnitud": 4.5
+    },
+    {
+      "data": "29 май 2012 г.",
+      "epitsentar": "9 km северно от Перник",
+      "koordinati": "42.61° с. ш. 22.98° и. д.",
+      "magnitud": 4.5
+    },
+    {
+      "data": "14 юли 2012 г.",
+      "epitsentar": "9 km северно от Перник",
+      "koordinati": "42.61° с. ш. 23.08° и. д.",
+      "magnitud": 4.5
+    },
+    {
+      "data": "18 април 2016 г.",
+      "epitsentar": "2 km югоизточно от Нова Загора .",
+      "koordinati": "42.49° с. ш. 26.04° и. д.",
+      "magnitud": 4.3
+    },
+    {
+      "data": "22 май 2016 г.",
+      "epitsentar": "5 km североизточно от Сандански",
+      "koordinati": "41.61° с. ш. 23.31° и. д.",
+      "magnitud": 4.5
+    },
+    {
+      "data": "22 февруари 2018 г.",
+      "epitsentar": "2 km североизточно от Асеновград",
+      "koordinati": "42.03° с. ш. 24.88° и. д.",
+      "magnitud": 4.8
+    },
+    {
+      "data": "1 май 2020 г.",
+      "epitsentar": "5 km югозападно от Раковски",
+      "koordinati": "42.24° с. ш. 24.85° и. д.",
+      "magnitud": 4.5
+    },
+    {
+      "data": "17 юни 2024 г.",
+      "epitsentar": "5 km от Асеновград , 15 km от Пловдив",
+      "koordinati": "",
+      "magnitud": 4.3
+    }
+  ],
+  "meta": {
+    "title": "Земетресения в България - Free Download",
+    "description": "Списък на по-силните исторически земетресения с епицентър на територията на България – дата, епицентър, координати и магнитуд. Contains 44 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Земетресения в България | ListBase",
+    "seo_description": "Download Земетресения в България — 44 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 44 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Земетресения_в_България"
+    ]
+  }
+}
