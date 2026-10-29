@@ -1,0 +1,527 @@
+{
+  "id": "bg-kupa-volejbol-mazhe",
+  "name": "Купа на България по волейбол (мъже)",
+  "title": "Купа на България по волейбол (мъже)",
+  "description": "Носители и финалисти на Купата на България по волейбол за мъже по години, с резултат и треньор на отбора носител.",
+  "category": "sports",
+  "source": "https://bg.wikipedia.org/wiki/Купа_на_България_по_волейбол_(мъже)",
+  "source_url": "https://bg.wikipedia.org/wiki/Купа_на_България_по_волейбол_(мъже)",
+  "updated": "2026-10",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "nositel",
+      "label": "Nositel",
+      "type": "string"
+    },
+    {
+      "key": "finalist",
+      "label": "Finalist",
+      "type": "string"
+    },
+    {
+      "key": "rezultat",
+      "label": "Rezultat",
+      "type": "string"
+    },
+    {
+      "key": "trenyor",
+      "label": "Trenyor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godina": "1954",
+      "nositel": "Димитрово (Перник) (1)",
+      "finalist": "",
+      "rezultat": "Финален турнир - 6 отбора",
+      "trenyor": "Борис Гюдеров"
+    },
+    {
+      "godina": "1955",
+      "nositel": "Димитрово (Перник) (2)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Борис Гюдеров"
+    },
+    {
+      "godina": "1956",
+      "nositel": "Инжстрой",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1957",
+      "nositel": "Славия (1)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Митко Димитров"
+    },
+    {
+      "godina": "1958",
+      "nositel": "Турнирът не се провежда",
+      "finalist": "Турнирът не се провежда",
+      "rezultat": "Турнирът не се провежда",
+      "trenyor": "Турнирът не се провежда"
+    },
+    {
+      "godina": "1959",
+      "nositel": "ВИФ",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1960",
+      "nositel": "Спартак (Сф) (1)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1961",
+      "nositel": "МЗ Ленин Пк",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1966",
+      "nositel": "Спартак (Сф) (2)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1967",
+      "nositel": "ЦСКА „Червено знаме“ (1)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1968",
+      "nositel": "Спартак (Сф) (3)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Митко Димитров"
+    },
+    {
+      "godina": "1969",
+      "nositel": "ЦСКА „Септемврийско знаме“ (2)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Милко Караиванов"
+    },
+    {
+      "godina": "1970",
+      "nositel": "ЦСКА „Септемврийско знаме“ (3)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1971",
+      "nositel": "Академик Сф",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1972",
+      "nositel": "Левски-Спартак (1)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1973",
+      "nositel": "ЦСКА „Септемврийско знаме“ (4)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Васил Симов"
+    },
+    {
+      "godina": "1974",
+      "nositel": "Славия (2)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Тодор Пиперков"
+    },
+    {
+      "godina": "1975",
+      "nositel": "Миньор Пк (3)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1976",
+      "nositel": "Славия (3)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Тодор Пиперков"
+    },
+    {
+      "godina": "1977",
+      "nositel": "Славия (4)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Тодор Пиперков"
+    },
+    {
+      "godina": "1978",
+      "nositel": "Славия (5)",
+      "finalist": "ЦСКА „Септемврийско знаме“",
+      "rezultat": "",
+      "trenyor": "Тодор Пиперков"
+    },
+    {
+      "godina": "1979",
+      "nositel": "ЦСКА „Септемврийско знаме“ (5)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1980",
+      "nositel": "Левски-Спартак (2)",
+      "finalist": "ЦСКА „Септемврийско знаме“",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1981",
+      "nositel": "ЦСКА „Септемврийско знаме“ (6)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Милко Караиванов"
+    },
+    {
+      "godina": "1982",
+      "nositel": "ЦСКА „Септемврийско знаме“ (7)",
+      "finalist": "2. Левски-Спартак",
+      "rezultat": "Финален турнир",
+      "trenyor": "Васил Симов"
+    },
+    {
+      "godina": "1983",
+      "nositel": "Левски-Спартак (3)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1984",
+      "nositel": "ЦСКА „Септемврийско знаме“ (8)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Васил Симов"
+    },
+    {
+      "godina": "1985",
+      "nositel": "ЦСКА „Септемврийско знаме“ (9)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Васил Симов"
+    },
+    {
+      "godina": "1986",
+      "nositel": "ЦСКА „Септемврийско знаме“ (10)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Димитър Златанов"
+    },
+    {
+      "godina": "1987",
+      "nositel": "Левски-Спартак (4)",
+      "finalist": "ЦСКА „Септемврийско знаме“",
+      "rezultat": "3–0 (15–7, 15–10, 15–11)",
+      "trenyor": ""
+    },
+    {
+      "godina": "1988",
+      "nositel": "ЦСКА „Септемврийско знаме“ (11)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Димитър Златанов"
+    },
+    {
+      "godina": "1989",
+      "nositel": "Левски-Спартак (5)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1990",
+      "nositel": "ЦСКА (12)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Иван Сеферинов"
+    },
+    {
+      "godina": "1991",
+      "nositel": "ЦСКА (13)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1992",
+      "nositel": "ЦСКА (14)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1993",
+      "nositel": "ЦСКА (15)",
+      "finalist": "2. Левски 3. Миньор(Бухово)",
+      "rezultat": "3–2 (13–15,15–8,10–15,15–2,15–10)",
+      "trenyor": ""
+    },
+    {
+      "godina": "1994",
+      "nositel": "Славия (6)",
+      "finalist": "ВК Добруджа",
+      "rezultat": "3–0",
+      "trenyor": ""
+    },
+    {
+      "godina": "1996",
+      "nositel": "Левски Сиконко (6)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1997",
+      "nositel": "Левски Сиконко (7)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1998",
+      "nositel": "Славия (8)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "1999",
+      "nositel": "Славия-Хебросгаз (9)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": ""
+    },
+    {
+      "godina": "2000",
+      "nositel": "Левски Сиконко (8)",
+      "finalist": "ЦСКА",
+      "rezultat": "",
+      "trenyor": "Брунко Илиев"
+    },
+    {
+      "godina": "2001",
+      "nositel": "Левски Сиконко (9)",
+      "finalist": "ЦСКА",
+      "rezultat": "3–0 (25–17, 25–16, 34–32)",
+      "trenyor": "Милорад Киац"
+    },
+    {
+      "godina": "2002",
+      "nositel": "ЦСКА-Ройал Кейк (16)",
+      "finalist": "Левски Сиконко",
+      "rezultat": "3–1",
+      "trenyor": "Александър Попов"
+    },
+    {
+      "godina": "2003",
+      "nositel": "Левски Сиконко (10)",
+      "finalist": "",
+      "rezultat": "",
+      "trenyor": "Милорад Киац"
+    },
+    {
+      "godina": "2004",
+      "nositel": "Левски Сиконко (11)",
+      "finalist": "ВК Марек Юнион-Ивкони",
+      "rezultat": "3–1 (25–17, 24–26, 25–22, 25–22)",
+      "trenyor": "Милорад Киац"
+    },
+    {
+      "godina": "2005",
+      "nositel": "Славия (10)",
+      "finalist": "Левски Сиконко",
+      "rezultat": "3–1 (25–17, 29–31, 26–24, 25–17)",
+      "trenyor": "Радостин Стойчев"
+    },
+    {
+      "godina": "2006",
+      "nositel": "Левски Сиконко (12)",
+      "finalist": "Лукойл Нефтохимик",
+      "rezultat": "3–2 (23–25, 23–25, 25–17, 25– , 15–7)",
+      "trenyor": "Мартин Стоев"
+    },
+    {
+      "godina": "2007",
+      "nositel": "Лукойл Нефтохимик ] (1)",
+      "finalist": "Пирин Балканстрой",
+      "rezultat": "3–0 (25–21, 25–18, 25–21)",
+      "trenyor": "Северин Димитров"
+    },
+    {
+      "godina": "2008",
+      "nositel": "Лукойл Нефтохимик (2)",
+      "finalist": "ЦСКА",
+      "rezultat": "3–0 (25–23, 25–23, 25–18)",
+      "trenyor": "Северин Димитров"
+    },
+    {
+      "godina": "2009",
+      "nositel": "ЦСКА (17)",
+      "finalist": "ВК Марек Юнион-Ивкони",
+      "rezultat": "3–2 (25–19, 25–18, 26–28, 20–25, 15–13)",
+      "trenyor": "Александър Попов"
+    },
+    {
+      "godina": "2010",
+      "nositel": "ЦСКА (18)",
+      "finalist": "Лукойл Нефтохимик",
+      "rezultat": "3–1 (25–22, 25–23, 21–25, 25–17)",
+      "trenyor": "Александър Попов"
+    },
+    {
+      "godina": "2011",
+      "nositel": "ЦСКА (19)",
+      "finalist": "Пирин Балканстрой",
+      "rezultat": "3–2 (26–24, 25–19, 23–25, 24–26, 15–4)",
+      "trenyor": "Александър Попов"
+    },
+    {
+      "godina": "2012",
+      "nositel": "Левски Сиконко (13)",
+      "finalist": "ВК Арда (Кърджали)",
+      "rezultat": "3–2 (12–25, 25–23, 22–25, 25–19, 17–15)",
+      "trenyor": "Георги Петров"
+    },
+    {
+      "godina": "2013",
+      "nositel": "ВК Марек Юнион-Ивкони",
+      "finalist": "ЦСКА",
+      "rezultat": "3–1 (25–15, 15–25, 25–19, 25–12)",
+      "trenyor": "Найден Найденов"
+    },
+    {
+      "godina": "2014",
+      "nositel": "Левски Боол",
+      "finalist": "ВК Добруджа 07",
+      "rezultat": "3–0 (25–18, 25–15, 25–15)",
+      "trenyor": "Джузепе Лорицио"
+    },
+    {
+      "godina": "2015",
+      "nositel": "ВК Добруджа 07 (1)",
+      "finalist": "Монтана Волей",
+      "rezultat": "3–0 (25–20, 32–30, 25–18)",
+      "trenyor": "Мирослав Живков"
+    },
+    {
+      "godina": "2016",
+      "nositel": "Нефтохимик 2010 (3)",
+      "finalist": "ВК Добруджа 07",
+      "rezultat": "3–1 (23–25, 25–19, 18–25, 16–25)",
+      "trenyor": "Петър Дочев"
+    },
+    {
+      "godina": "2017",
+      "nositel": "ВК Добруджа 07 (2)",
+      "finalist": "Монтана Волей",
+      "rezultat": "3–2 (21–25, 25–20, 16–25, 25–22, 15–9)",
+      "trenyor": "Мирослав Живков"
+    },
+    {
+      "godina": "2018",
+      "nositel": "Нефтохимик 2010 (4)",
+      "finalist": "Монтана Волей",
+      "rezultat": "3–0 (25–16, 25–23, 25–17)",
+      "trenyor": "Найден Найденов"
+    },
+    {
+      "godina": "2019",
+      "nositel": "ВК Хебър (1)",
+      "finalist": "Нефтохимик 2010",
+      "rezultat": "3–2 (27–25, 18–25, 23–25, 25–22, 15–7)",
+      "trenyor": "Атанас Петров"
+    },
+    {
+      "godina": "2020",
+      "nositel": "ВК Хебър (2)",
+      "finalist": "Нефтохимик 2010",
+      "rezultat": "3–0 (25–19, 25–23, 27–25)",
+      "trenyor": "Атанас Петров"
+    },
+    {
+      "godina": "2021",
+      "nositel": "Нефтохимик 2010 (5)",
+      "finalist": "ВК Добруджа 07",
+      "rezultat": "3–2 (25–21, 23–25, 25–21, 23–25, 15–11)",
+      "trenyor": "Николай Желязков"
+    },
+    {
+      "godina": "2022",
+      "nositel": "ВК Хебър (3)",
+      "finalist": "Нефтохимик 2010",
+      "rezultat": "3–1 (25–23, 25–27, 25–23, 25–21)",
+      "trenyor": "Камило Плачи"
+    },
+    {
+      "godina": "2023",
+      "nositel": "ВК Хебър (4)",
+      "finalist": "ВК Дея спорт (Бургас)",
+      "rezultat": "3–2 (15–25, 21–25, 25–22, 25–19, 15–12)",
+      "trenyor": "Камило Плачи"
+    },
+    {
+      "godina": "2024",
+      "nositel": "ВК Дея спорт (Бургас) (1)",
+      "finalist": "Левски София",
+      "rezultat": "3–1 (25–20, 18–25, 25–18, 25–18)",
+      "trenyor": "Франческо Кадеду"
+    },
+    {
+      "godina": "2025",
+      "nositel": "Левски София (14)",
+      "finalist": "Монтана Волей",
+      "rezultat": "3–1 (25–22, 18–25, 25–18, 25–16)",
+      "trenyor": "Николай Желязков"
+    },
+    {
+      "godina": "2026",
+      "nositel": "Нефтохимик 2010 (6)",
+      "finalist": "Пирин (Разлог)",
+      "rezultat": "3–1 (27–25, 25–19, 19–25, 25–20)",
+      "trenyor": "Иван Станев"
+    }
+  ],
+  "meta": {
+    "title": "Купа на България по волейбол (мъже) - Free Download",
+    "description": "Носители и финалисти на Купата на България по волейбол за мъже по години, с резултат и треньор на отбора носител. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Купа на България по волейбол (мъже) | ListBase",
+    "seo_description": "Download Купа на България по волейбол (мъже) — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Купа_на_България_по_волейбол_(мъже)"
+    ]
+  }
+}

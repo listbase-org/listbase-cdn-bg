@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-29T02:11:08.256Z",
-  "total_datasets": 445,
-  "total_records": 191076,
+  "generated": "2026-10-29T02:11:10.924Z",
+  "total_datasets": 446,
+  "total_records": 191144,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -10959,6 +10959,32 @@
         "xlsx": {
           "name": "bg-kupa-na-balgariya-futbol-finali_BG.xlsx",
           "size": 9391
+        }
+      }
+    },
+    {
+      "id": "bg-kupa-volejbol-mazhe",
+      "name": "Купа на България по волейбол (мъже)",
+      "category": "sports",
+      "record_count": 68,
+      "columns": [
+        "godina",
+        "nositel",
+        "finalist",
+        "rezultat",
+        "trenyor"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Купа_на_България_по_волейбол_(мъже)",
+      "updated": "2026-10",
+      "size": 15798,
+      "files": {
+        "csv": {
+          "name": "bg-kupa-volejbol-mazhe_BG.csv",
+          "size": 6766
+        },
+        "xlsx": {
+          "name": "bg-kupa-volejbol-mazhe_BG.xlsx",
+          "size": 9892
         }
       }
     },
