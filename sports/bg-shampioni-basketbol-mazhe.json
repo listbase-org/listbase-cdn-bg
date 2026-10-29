@@ -1,0 +1,550 @@
+{
+  "id": "bg-shampioni-basketbol-mazhe",
+  "name": "Шампиони на България по баскетбол (мъже)",
+  "title": "Шампиони на България по баскетбол (мъже)",
+  "description": "Шампиони, вицешампиони и бронзови медалисти в държавното първенство по баскетбол за мъже по сезони от 1942 г.",
+  "category": "sports",
+  "source": "https://bg.wikipedia.org/wiki/Национална_баскетболна_лига",
+  "source_url": "https://bg.wikipedia.org/wiki/Национална_баскетболна_лига",
+  "updated": "2026-10",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "sezon",
+      "label": "Sezon",
+      "type": "number"
+    },
+    {
+      "key": "shampion",
+      "label": "Shampion",
+      "type": "string"
+    },
+    {
+      "key": "vitseshampion",
+      "label": "Vitseshampion",
+      "type": "string"
+    },
+    {
+      "key": "bronzov_medalist",
+      "label": "Bronzov Medalist",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sezon": "1942",
+      "shampion": "Левски (1)",
+      "vitseshampion": "АС-23",
+      "bronzov_medalist": "ЖСК"
+    },
+    {
+      "sezon": "1943",
+      "shampion": "ЖСК (1)",
+      "vitseshampion": "Левски",
+      "bronzov_medalist": "Спортклуб"
+    },
+    {
+      "sezon": "1945",
+      "shampion": "ПСК Левски-45 (2)",
+      "vitseshampion": "Етър",
+      "bronzov_medalist": "Локомотив (София)"
+    },
+    {
+      "sezon": "1946",
+      "shampion": "Левски (3)",
+      "vitseshampion": "Раковски",
+      "bronzov_medalist": "Чавдар"
+    },
+    {
+      "sezon": "1947",
+      "shampion": "Левски (4)",
+      "vitseshampion": "Спартак (София)",
+      "bronzov_medalist": "Локомотив (София)"
+    },
+    {
+      "sezon": "1948",
+      "shampion": "Локомотив (София) (2)",
+      "vitseshampion": "Септември при ЦДВ",
+      "bronzov_medalist": "Спартак (София)"
+    },
+    {
+      "sezon": "1949",
+      "shampion": "ЦДНВ (1)",
+      "vitseshampion": "Локомотив (София)",
+      "bronzov_medalist": "Трапезица"
+    },
+    {
+      "sezon": "1950",
+      "shampion": "Народна войска (2)",
+      "vitseshampion": "Строител (София)",
+      "bronzov_medalist": "Торпедо"
+    },
+    {
+      "sezon": "1951",
+      "shampion": "ЦДНВ (3)",
+      "vitseshampion": "Академик (София)",
+      "bronzov_medalist": "Ударник"
+    },
+    {
+      "sezon": "1952",
+      "shampion": "Ударник (1)",
+      "vitseshampion": "Академик (София)",
+      "bronzov_medalist": "Локомотив (София)"
+    },
+    {
+      "sezon": "1953",
+      "shampion": "Ударник (2)",
+      "vitseshampion": "Академик (София)",
+      "bronzov_medalist": "ЦДНА"
+    },
+    {
+      "sezon": "1954",
+      "shampion": "Спартак (София) (1)",
+      "vitseshampion": "Ударник",
+      "bronzov_medalist": "Локомотив (София)"
+    },
+    {
+      "sezon": "1954/55",
+      "shampion": "Локомотив (София) (3)",
+      "vitseshampion": "Ударник",
+      "bronzov_medalist": "Спартак (София)"
+    },
+    {
+      "sezon": "1955/56",
+      "shampion": "Спартак (София) (2)",
+      "vitseshampion": "Академик (София)",
+      "bronzov_medalist": "ЦСКНА"
+    },
+    {
+      "sezon": "1957",
+      "shampion": "Академик (София) (1)",
+      "vitseshampion": "Локомотив (София)",
+      "bronzov_medalist": "Спартак (София)"
+    },
+    {
+      "sezon": "1958",
+      "shampion": "Академик (София) (2)",
+      "vitseshampion": "Спартак (София)",
+      "bronzov_medalist": "Локомотив (София)"
+    },
+    {
+      "sezon": "1959",
+      "shampion": "Академик (София) (3)",
+      "vitseshampion": "Локомотив (София)",
+      "bronzov_medalist": "Спартак (София)"
+    },
+    {
+      "sezon": "1960",
+      "shampion": "Спартак (София) (3)",
+      "vitseshampion": "Локомотив (София)",
+      "bronzov_medalist": "Академик (София)"
+    },
+    {
+      "sezon": "1961",
+      "shampion": "Локомотив (София) (4)",
+      "vitseshampion": "Академик (София)",
+      "bronzov_medalist": "Спартак (София)"
+    },
+    {
+      "sezon": "1962",
+      "shampion": "Спартак (София) (4)",
+      "vitseshampion": "Академик (София)",
+      "bronzov_medalist": "Левски"
+    },
+    {
+      "sezon": "1963",
+      "shampion": "Академик (София) (4)",
+      "vitseshampion": "Локомотив (София)",
+      "bronzov_medalist": "ЦДНА"
+    },
+    {
+      "sezon": "1964",
+      "shampion": "Локомотив (София) (5)",
+      "vitseshampion": "ЦСКА „Черв. знаме“",
+      "bronzov_medalist": "ВИФ"
+    },
+    {
+      "sezon": "1965",
+      "shampion": "ЦСКА „Черв. знаме“ (4)",
+      "vitseshampion": "Академик (София)",
+      "bronzov_medalist": "Левски"
+    },
+    {
+      "sezon": "1966",
+      "shampion": "Локомотив (София) (6)",
+      "vitseshampion": "ЦСКА „Черв. знаме“",
+      "bronzov_medalist": "Левски"
+    },
+    {
+      "sezon": "1967",
+      "shampion": "ЦСКА „Черв. знаме“ (5)",
+      "vitseshampion": "Академик (София)",
+      "bronzov_medalist": "Локомотив (София)"
+    },
+    {
+      "sezon": "1968",
+      "shampion": "Академик (София) (5)",
+      "vitseshampion": "ЦСКА „Черв. знаме“",
+      "bronzov_medalist": "Спартак (София)"
+    },
+    {
+      "sezon": "1969",
+      "shampion": "Академик (София) (6)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "ЦСКА „Септемврийско знаме“"
+    },
+    {
+      "sezon": "1970",
+      "shampion": "Академик (София) (7)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "ЦСКА „Септемврийско знаме“"
+    },
+    {
+      "sezon": "1971",
+      "shampion": "Академик (София) (8)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "ЦСКА „Септемврийско знаме“"
+    },
+    {
+      "sezon": "1972",
+      "shampion": "Академик (София) (9)",
+      "vitseshampion": "Балкан (Ботевград)",
+      "bronzov_medalist": "Левски-Спартак"
+    },
+    {
+      "sezon": "1973",
+      "shampion": "Академик (София) (10)",
+      "vitseshampion": "ЦСКА „Септемврийско знаме“",
+      "bronzov_medalist": "Балкан (Ботевград)"
+    },
+    {
+      "sezon": "1974",
+      "shampion": "Балкан (Ботевград) (1)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "Академик (София)"
+    },
+    {
+      "sezon": "1975 –",
+      "shampion": "Академик (София) (11)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "Балкан (Ботевград)"
+    },
+    {
+      "sezon": "1976",
+      "shampion": "Академик (София) (12)",
+      "vitseshampion": "ЦСКА „Септемврийско знаме“",
+      "bronzov_medalist": "Балкан (Ботевград)"
+    },
+    {
+      "sezon": "1977",
+      "shampion": "ЦСКА „Септемврийско знаме“ (6)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "Академик (София)"
+    },
+    {
+      "sezon": "1978",
+      "shampion": "Левски-Спартак (5)",
+      "vitseshampion": "ЦСКА „Септемврийско знаме“",
+      "bronzov_medalist": "Академик (София)"
+    },
+    {
+      "sezon": "1979",
+      "shampion": "Левски-Спартак (6)",
+      "vitseshampion": "ЦСКА „Септемврийско знаме“",
+      "bronzov_medalist": "Лъсков"
+    },
+    {
+      "sezon": "1980",
+      "shampion": "ЦСКА „Септемврийско знаме“ (7)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "Металург"
+    },
+    {
+      "sezon": "1981",
+      "shampion": "Левски-Спартак (7)",
+      "vitseshampion": "ЦСКА „Септемврийско знаме“",
+      "bronzov_medalist": "Черноморец"
+    },
+    {
+      "sezon": "1982",
+      "shampion": "Левски-Спартак (8)",
+      "vitseshampion": "ЦСКА „Септемврийско знаме“",
+      "bronzov_medalist": "Балкан (Ботевград)"
+    },
+    {
+      "sezon": "1983",
+      "shampion": "ЦСКА „Септемврийско знаме“ (8)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "Спартак (Плевен)"
+    },
+    {
+      "sezon": "1984",
+      "shampion": "ЦСКА „Септемврийско знаме“ (9)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "Академик (Варна)"
+    },
+    {
+      "sezon": "1985",
+      "shampion": "Академик (Варна) (1)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "ЦСКА „Септемврийско знаме“"
+    },
+    {
+      "sezon": "1986",
+      "shampion": "Левски-Спартак (9)",
+      "vitseshampion": "ЦСКА „Септемврийско знаме“",
+      "bronzov_medalist": "Спартак (Плевен)"
+    },
+    {
+      "sezon": "1987",
+      "shampion": "Балкан (Ботевград) (2)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "Спартак (Плевен)"
+    },
+    {
+      "sezon": "1988",
+      "shampion": "Балкан (Ботевград) (3)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "ЦСКА"
+    },
+    {
+      "sezon": "1989",
+      "shampion": "Балкан (Ботевград) (4)",
+      "vitseshampion": "Спартак (Плевен)",
+      "bronzov_medalist": "Левски-Спартак"
+    },
+    {
+      "sezon": "1990",
+      "shampion": "ЦСКА (10)",
+      "vitseshampion": "Академик (Варна)",
+      "bronzov_medalist": "Балкан (Ботевград)"
+    },
+    {
+      "sezon": "1991",
+      "shampion": "ЦСКА (11)",
+      "vitseshampion": "Академик (Варна)",
+      "bronzov_medalist": "Черноморец-БулеС (Бургас)"
+    },
+    {
+      "sezon": "1992",
+      "shampion": "ЦСКА (12)",
+      "vitseshampion": "Левски-Спартак",
+      "bronzov_medalist": "Спартак (Плевен)"
+    },
+    {
+      "sezon": "1993",
+      "shampion": "Левски Тотел (10)",
+      "vitseshampion": "ЦСКА",
+      "bronzov_medalist": "Академик Соди"
+    },
+    {
+      "sezon": "1994",
+      "shampion": "Левски Тотел (11)",
+      "vitseshampion": "Компакт",
+      "bronzov_medalist": "Плама (Плевен)"
+    },
+    {
+      "sezon": "1995",
+      "shampion": "Плама (Плевен) (1)",
+      "vitseshampion": "Славия",
+      "bronzov_medalist": "Компакт"
+    },
+    {
+      "sezon": "1996",
+      "shampion": "Плама (Плевен) (2)",
+      "vitseshampion": "Черно море Соди",
+      "bronzov_medalist": "Славия"
+    },
+    {
+      "sezon": "1997",
+      "shampion": "Славия ВИС-2 (3)",
+      "vitseshampion": "Черно море Соди",
+      "bronzov_medalist": "Компакт"
+    },
+    {
+      "sezon": "1998",
+      "shampion": "Черно море Соди (2)",
+      "vitseshampion": "Славия ВИС-2",
+      "bronzov_medalist": "Фикосота"
+    },
+    {
+      "sezon": "1999",
+      "shampion": "Черно море (3)",
+      "vitseshampion": "Левски",
+      "bronzov_medalist": "Фикосота"
+    },
+    {
+      "sezon": "1999/00",
+      "shampion": "Левски (12)",
+      "vitseshampion": "Черно море",
+      "bronzov_medalist": "Ямболгаз '92"
+    },
+    {
+      "sezon": "2000/01",
+      "shampion": "Левски (13)",
+      "vitseshampion": "Ямболгаз '92",
+      "bronzov_medalist": "Черно море"
+    },
+    {
+      "sezon": "2001/02",
+      "shampion": "Ямболгаз '92 (1)",
+      "vitseshampion": "Лукойл Академик",
+      "bronzov_medalist": "Левски"
+    },
+    {
+      "sezon": "2002/03",
+      "shampion": "Лукойл Академик (13)",
+      "vitseshampion": "Левски",
+      "bronzov_medalist": "Ямболгаз '92"
+    },
+    {
+      "sezon": "2003/04",
+      "shampion": "Лукойл Академик (14)",
+      "vitseshampion": "ЦСКА",
+      "bronzov_medalist": "Левски"
+    },
+    {
+      "sezon": "2004/05",
+      "shampion": "Лукойл Академик (15)",
+      "vitseshampion": "ЦСКА",
+      "bronzov_medalist": "Черно море Интерком груп"
+    },
+    {
+      "sezon": "2005/06",
+      "shampion": "Лукойл Академик (16)",
+      "vitseshampion": "Черно море Интерком груп",
+      "bronzov_medalist": "Левски"
+    },
+    {
+      "sezon": "2006/07",
+      "shampion": "Лукойл Академик (17)",
+      "vitseshampion": "ЦСКА",
+      "bronzov_medalist": "Черно море Интерком груп"
+    },
+    {
+      "sezon": "2007/08",
+      "shampion": "Лукойл Академик (18)",
+      "vitseshampion": "Балкан (Ботевград)",
+      "bronzov_medalist": "Левски"
+    },
+    {
+      "sezon": "2008/09",
+      "shampion": "Лукойл Академик (19)",
+      "vitseshampion": "Евро Инс Черно море",
+      "bronzov_medalist": "Левски"
+    },
+    {
+      "sezon": "2009/10",
+      "shampion": "Лукойл Академик (20)",
+      "vitseshampion": "Левски",
+      "bronzov_medalist": "Балкан (Ботевград)"
+    },
+    {
+      "sezon": "2010/11",
+      "shampion": "Лукойл Академик (21)",
+      "vitseshampion": "Левски",
+      "bronzov_medalist": "Ямбол"
+    },
+    {
+      "sezon": "2011/12",
+      "shampion": "Лукойл Академик (22)",
+      "vitseshampion": "Левски",
+      "bronzov_medalist": "Ямбол"
+    },
+    {
+      "sezon": "2012/13",
+      "shampion": "Лукойл Академик (23)",
+      "vitseshampion": "Левски",
+      "bronzov_medalist": "Рилски спортист"
+    },
+    {
+      "sezon": "2013/14",
+      "shampion": "Левски (14)",
+      "vitseshampion": "Лукойл Академик",
+      "bronzov_medalist": "Черно море-Порт"
+    },
+    {
+      "sezon": "2014/15",
+      "shampion": "Лукойл Академик (24)",
+      "vitseshampion": "Балкан",
+      "bronzov_medalist": "Черно море-Порт"
+    },
+    {
+      "sezon": "2015/16",
+      "shampion": "Лукойл Академик (25)",
+      "vitseshampion": "Балкан",
+      "bronzov_medalist": "Рилски спортист"
+    },
+    {
+      "sezon": "2016/17",
+      "shampion": "Лукойл Академик (26)",
+      "vitseshampion": "Берое",
+      "bronzov_medalist": "Рилски спортист"
+    },
+    {
+      "sezon": "2017/18",
+      "shampion": "Левски Лукойл (15)",
+      "vitseshampion": "Балкан (Ботевград)",
+      "bronzov_medalist": "Рилски спортист"
+    },
+    {
+      "sezon": "2018/19",
+      "shampion": "Балкан (Ботевград) (5)",
+      "vitseshampion": "Левски Лукойл",
+      "bronzov_medalist": "Берое"
+    },
+    {
+      "sezon": "2019/20",
+      "shampion": "-",
+      "vitseshampion": "-",
+      "bronzov_medalist": "-"
+    },
+    {
+      "sezon": "2020/21",
+      "shampion": "Левски Лукойл (16)",
+      "vitseshampion": "Рилски спортист",
+      "bronzov_medalist": "Академик (Пловдив)"
+    },
+    {
+      "sezon": "2021/22",
+      "shampion": "Балкан Ботевград (6)",
+      "vitseshampion": "Рилски спортист",
+      "bronzov_medalist": "Левски Лукойл"
+    },
+    {
+      "sezon": "2022/23",
+      "shampion": "Балкан Ботевград (7)",
+      "vitseshampion": "Черноморец",
+      "bronzov_medalist": "ЦСКА"
+    },
+    {
+      "sezon": "2023/24",
+      "shampion": "Рилски спортист (1)",
+      "vitseshampion": "Балкан Ботевград",
+      "bronzov_medalist": "Черноморец"
+    },
+    {
+      "sezon": "2024/25",
+      "shampion": "Рилски спортист (2)",
+      "vitseshampion": "Черно море Тича",
+      "bronzov_medalist": "Балкан Ботевград"
+    },
+    {
+      "sezon": "2024/25",
+      "shampion": "Балкан Ботевград (8)",
+      "vitseshampion": "Локомотив Пловдив",
+      "bronzov_medalist": "Рилски спортист"
+    }
+  ],
+  "meta": {
+    "title": "Шампиони на България по баскетбол (мъже) - Free Download",
+    "description": "Шампиони, вицешампиони и бронзови медалисти в държавното първенство по баскетбол за мъже по сезони от 1942 г. Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Шампиони на България по баскетбол (мъже) | ListBase",
+    "seo_description": "Download Шампиони на България по баскетбол (мъже) — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Национална_баскетболна_лига"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-29T02:11:03.337Z",
-  "total_datasets": 443,
-  "total_records": 190910,
+  "generated": "2026-10-29T02:11:05.786Z",
+  "total_datasets": 444,
+  "total_records": 190994,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -10959,6 +10959,31 @@
         "xlsx": {
           "name": "bg-kupa-na-balgariya-futbol-finali_BG.xlsx",
           "size": 9391
+        }
+      }
+    },
+    {
+      "id": "bg-shampioni-basketbol-mazhe",
+      "name": "Шампиони на България по баскетбол (мъже)",
+      "category": "sports",
+      "record_count": 84,
+      "columns": [
+        "sezon",
+        "shampion",
+        "vitseshampion",
+        "bronzov_medalist"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Национална_баскетболна_лига",
+      "updated": "2026-10",
+      "size": 18451,
+      "files": {
+        "csv": {
+          "name": "bg-shampioni-basketbol-mazhe_BG.csv",
+          "size": 8249
+        },
+        "xlsx": {
+          "name": "bg-shampioni-basketbol-mazhe_BG.xlsx",
+          "size": 9714
         }
       }
     },
