@@ -1,0 +1,1076 @@
+{
+  "id": "bg-balgarski-seriali",
+  "name": "Български телевизионни сериали",
+  "title": "Български телевизионни сериали",
+  "description": "Списък на българските телевизионни сериали с година на премиера, телевизия, брой сезони и епизоди, режисьори и продуценти.",
+  "category": "entertainment",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_български_сериали",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_български_сериали",
+  "updated": "2026-10",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "serial",
+      "label": "Serial",
+      "type": "string"
+    },
+    {
+      "key": "televiziya",
+      "label": "Televiziya",
+      "type": "string"
+    },
+    {
+      "key": "sezoni",
+      "label": "Sezoni",
+      "type": "string"
+    },
+    {
+      "key": "epizodi",
+      "label": "Epizodi",
+      "type": "string"
+    },
+    {
+      "key": "vremetraene",
+      "label": "Vremetraene",
+      "type": "string"
+    },
+    {
+      "key": "rezhisyor",
+      "label": "Rezhisyor",
+      "type": "string"
+    },
+    {
+      "key": "produtsent",
+      "label": "Produtsent",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "godina": "1990",
+      "serial": "Нон грата",
+      "televiziya": "Първа програма",
+      "sezoni": "1 сезон",
+      "epizodi": "3 епизода",
+      "vremetraene": "~ 52 мин.",
+      "rezhisyor": "Димитър Шарков",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1990",
+      "serial": "Под игото",
+      "televiziya": "Първа програма",
+      "sezoni": "1 сезон",
+      "epizodi": "9 епизода",
+      "vremetraene": "~ 60 мин.",
+      "rezhisyor": "Янко Янков и Нина Янкова",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1991",
+      "serial": "Бай Ганьо",
+      "televiziya": "Първа програма",
+      "sezoni": "1 сезон",
+      "epizodi": "5 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Иван Ничев",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1991",
+      "serial": "Бащата на яйцето",
+      "televiziya": "Първа програма",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~ 53 мин.",
+      "rezhisyor": "Анри Кулев",
+      "produtsent": "БНТ и СИФ „Бояна“"
+    },
+    {
+      "godina": "1991",
+      "serial": "Любовниците",
+      "televiziya": "Първа програма",
+      "sezoni": "1 сезон",
+      "epizodi": "8 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Тодор Стоянов",
+      "produtsent": "БНТ и СТФ „Екран“"
+    },
+    {
+      "godina": "1992",
+      "serial": "Живот на колела",
+      "televiziya": "Първа програма",
+      "sezoni": "1 сезон",
+      "epizodi": "5 епизода",
+      "vremetraene": "~ 57 мин.",
+      "rezhisyor": "Димитър Аврамов",
+      "produtsent": "БНТ и СТФ „Екран“"
+    },
+    {
+      "godina": "1993",
+      "serial": "Жребият",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "7 епизода",
+      "vremetraene": "~ 56 мин.",
+      "rezhisyor": "Иванка Гръбчева",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1994",
+      "serial": "Гори, гори огънче",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~ 52 мин.",
+      "rezhisyor": "Румяна Петкова",
+      "produtsent": "БНТ и НФЦ"
+    },
+    {
+      "godina": "1995",
+      "serial": "Полицаи и престъпници",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "3 епизода",
+      "vremetraene": "~ 60 мин.",
+      "rezhisyor": "Стефан Гърдев , Ивайло Джамбазов",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1996",
+      "serial": "BG – Невероятни разкази за един съвременен българин",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "2 епизода",
+      "vremetraene": "~ 60 мин.",
+      "rezhisyor": "Георги Дюлгеров , Светослав Овчаров",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1999",
+      "serial": "Големите игри",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "10 епизода",
+      "vremetraene": "~ 28 мин.",
+      "rezhisyor": "Иванка Гръбчева",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1999",
+      "serial": "Дунав мост",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "7 епизода",
+      "vremetraene": "~ 60 мин.",
+      "rezhisyor": "Иван Андонов",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1999",
+      "serial": "Клиника на третия етаж",
+      "televiziya": "Канал 1",
+      "sezoni": "3 сезона",
+      "epizodi": "35 епизода",
+      "vremetraene": "~ 25 мин.",
+      "rezhisyor": "Николай Акимов",
+      "produtsent": "БНТ и Ars Digital Studios"
+    },
+    {
+      "godina": "1999",
+      "serial": "Магьосници",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~ 29 мин.",
+      "rezhisyor": "Сотир Галев, Иван Георгиев-Гец",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "1999",
+      "serial": "Сламено сираче",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "5 епизода",
+      "vremetraene": "~ 27 мин.",
+      "rezhisyor": "Станислава Калчева",
+      "produtsent": "БНТ и ЦПТФ"
+    },
+    {
+      "godina": "2000",
+      "serial": "Хайка за вълци",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Станимир Трифонов",
+      "produtsent": "БНТ и ЦПТФ"
+    },
+    {
+      "godina": "2001",
+      "serial": "Огледалото на дявола",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~134 мин.",
+      "rezhisyor": "Николай Волев",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2002",
+      "serial": "Тя и той",
+      "televiziya": "bTV",
+      "sezoni": "4 сезона",
+      "epizodi": "95 епизода",
+      "vremetraene": "~ 22 мин.",
+      "rezhisyor": "Станислав Тодоров",
+      "produtsent": "bTV"
+    },
+    {
+      "godina": "2002",
+      "serial": "Камера! Завеса!",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 28 мин.",
+      "rezhisyor": "Християн Ночев, Петър Одаджиев, Ангел Тошев, Владо Краев, Николай Босилков",
+      "produtsent": "„Одавижън“"
+    },
+    {
+      "godina": "2003",
+      "serial": "Не се надвесвай навън",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "3 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Пламен Масларов",
+      "produtsent": "БНТ и ЦТФТ"
+    },
+    {
+      "godina": "2003",
+      "serial": "Едно дете в повече",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "7 епизода",
+      "vremetraene": "~ 20 мин.",
+      "rezhisyor": "Чавдар Гагов",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2004",
+      "serial": "Ганьо Балкански се завърна от Европа",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Иван Ничев",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2004",
+      "serial": "Хотел България",
+      "televiziya": "Нова ТВ",
+      "sezoni": "1 сезон",
+      "epizodi": "77 епизода",
+      "vremetraene": "~ 23 мин.",
+      "rezhisyor": "Петър Одаджиев",
+      "produtsent": "Нова ТВ и Global Films"
+    },
+    {
+      "godina": "2004",
+      "serial": "Църква за вълци",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Николай Ламбрев",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2005",
+      "serial": "Морска сол",
+      "televiziya": "Нова ТВ",
+      "sezoni": "1 сезон",
+      "epizodi": "35 епизода",
+      "vremetraene": "~ 22 – 25 мин.",
+      "rezhisyor": "Стефан Савов",
+      "produtsent": "Нова ТВ и Global Films"
+    },
+    {
+      "godina": "2005",
+      "serial": "Патриархат",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "7 епизода",
+      "vremetraene": "~ 60 мин.",
+      "rezhisyor": "Дочо Боджаков",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2006",
+      "serial": "Врабците през октомври",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "8 епизода",
+      "vremetraene": "~ 35 мин.",
+      "rezhisyor": "Анри Кулев",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2006",
+      "serial": "Добър ден, господин Жасмин",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "29 епизода",
+      "vremetraene": "~ 25 мин.",
+      "rezhisyor": "Мария Николова",
+      "produtsent": "БНТ и „Гекон“"
+    },
+    {
+      "godina": "2006",
+      "serial": "Малка нощна приказка",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~ 25 мин.",
+      "rezhisyor": "Николай Акимов",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2006",
+      "serial": "Неочакван обрат",
+      "televiziya": "TV7",
+      "sezoni": "1 сезон",
+      "epizodi": "13 епизода",
+      "vremetraene": "~ 25 мин.",
+      "rezhisyor": "Станислав Дончев",
+      "produtsent": "TV7 и Dynamic Arts"
+    },
+    {
+      "godina": "2007",
+      "serial": "Ваканцията на Лили",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 55 мин.",
+      "rezhisyor": "Иванка Гръбчева",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2007",
+      "serial": "Магна Аура – изгубеният град",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "13 епизода",
+      "vremetraene": "~ 90 мин.",
+      "rezhisyor": "Ирина Попова",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2008",
+      "serial": "Забранена любов",
+      "televiziya": "Нова ТВ",
+      "sezoni": "2 сезона",
+      "epizodi": "299 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Станислав Дончев",
+      "produtsent": "Нова ТВ"
+    },
+    {
+      "godina": "2008",
+      "serial": "Людмил и Руслана",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Мариана Евстатиева",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2008",
+      "serial": "Приключенията на един Арлекин",
+      "televiziya": "Канал 1",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Иван Ничев",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2009",
+      "serial": "Къде е батко?",
+      "televiziya": "bTV",
+      "sezoni": "1 сезон",
+      "epizodi": "3 епизода",
+      "vremetraene": "~ 25 мин.",
+      "rezhisyor": "Стефан Тасев",
+      "produtsent": "bTV и Seven-Eight Productions"
+    },
+    {
+      "godina": "2009",
+      "serial": "Хъшове",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Александър Морфов",
+      "produtsent": "БНТ и Camera"
+    },
+    {
+      "godina": "2010",
+      "serial": "Стъклен дом",
+      "televiziya": "bTV",
+      "sezoni": "5 сезона",
+      "epizodi": "64 епизода",
+      "vremetraene": "с. 1: ~ 70 мин. с. 2 – 3 и 5: ~ 90 мин. с. 4: ~ 45 мин.",
+      "rezhisyor": "Виктор Божинов",
+      "produtsent": "bTV, Camera и SIA Advertizing"
+    },
+    {
+      "godina": "2011",
+      "serial": "Столичани в повече",
+      "televiziya": "bTV",
+      "sezoni": "13 сезона",
+      "epizodi": "170 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Виктор Божинов",
+      "produtsent": "bTV и DreamTeam Productions"
+    },
+    {
+      "godina": "2011",
+      "serial": "Под прикритие",
+      "televiziya": "БНТ 1",
+      "sezoni": "6 сезона",
+      "epizodi": "72 епизода",
+      "vremetraene": "~ 52 мин.",
+      "rezhisyor": "Димитър Митовски , Димитър Гочев",
+      "produtsent": "БНТ и Camera; SIA Advertizing (с. 1.-4.)"
+    },
+    {
+      "godina": "2011",
+      "serial": "Английският съсед",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "4 епизода",
+      "vremetraene": "~ 55 мин.",
+      "rezhisyor": "Дочо Боджаков",
+      "produtsent": "БНТ и Прод. къща „Две и половина“"
+    },
+    {
+      "godina": "2011",
+      "serial": "Седем часа разлика",
+      "televiziya": "bTV",
+      "sezoni": "4 сезона",
+      "epizodi": "80 епизода",
+      "vremetraene": "~ 45/90 мин.",
+      "rezhisyor": "Магърдич Халваджиян",
+      "produtsent": "bTV и Global Films"
+    },
+    {
+      "godina": "2011",
+      "serial": "Етажна собственост",
+      "televiziya": "NOVA",
+      "sezoni": "4 сезона",
+      "epizodi": "48 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Тодор Николов",
+      "produtsent": "NOVA и Hidalgo Productions"
+    },
+    {
+      "godina": "2011",
+      "serial": "Домашен арест",
+      "televiziya": "bTV",
+      "sezoni": "4 сезона",
+      "epizodi": "86 епизода",
+      "vremetraene": "~ 25 мин.",
+      "rezhisyor": "Петър Вълчанов",
+      "produtsent": "bTV и bTV Studios"
+    },
+    {
+      "godina": "2012",
+      "serial": "Отплата",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 60 мин.",
+      "rezhisyor": "Иво Симеонов",
+      "produtsent": "NOVA и OldSchool Production"
+    },
+    {
+      "godina": "2012",
+      "serial": "Женени с деца в България",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "16 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Владо Ковачев",
+      "produtsent": "NOVA и OldSchool Production"
+    },
+    {
+      "godina": "2012",
+      "serial": "Сутрешен блок",
+      "televiziya": "TV7",
+      "sezoni": "1 сезон",
+      "epizodi": "32 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Стефан Тенев, Стефан Савов и Еленко Касалийски",
+      "produtsent": "TV7 и OldSchool Production"
+    },
+    {
+      "godina": "2012",
+      "serial": "Кантора Митрани",
+      "televiziya": "TV7",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Виктор Божинов",
+      "produtsent": "TV7, MediaPRO Entertainment и Optimists"
+    },
+    {
+      "godina": "2012",
+      "serial": "Къде е Маги?",
+      "televiziya": "bTV",
+      "sezoni": "1 сезон",
+      "epizodi": "51 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Станислав Дончев",
+      "produtsent": "bTV и bTV Studios"
+    },
+    {
+      "godina": "2012",
+      "serial": "Весела компания",
+      "televiziya": "TV+",
+      "sezoni": "1 сезон",
+      "epizodi": "23 епизода",
+      "vremetraene": "~ 20/50 мин.",
+      "rezhisyor": "Тодор Димитров, Лъчо Костов",
+      "produtsent": "TV+ и BG Top Music"
+    },
+    {
+      "godina": "2012",
+      "serial": "Революция Z",
+      "televiziya": "bTV",
+      "sezoni": "4 сезона",
+      "epizodi": "50 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Димитър Гочев , Зоран Петровски",
+      "produtsent": "bTV и Camera"
+    },
+    {
+      "godina": "2013",
+      "serial": "Дървото на живота",
+      "televiziya": "TV7",
+      "sezoni": "2 сезона",
+      "epizodi": "24 епизода",
+      "vremetraene": "с. 1: ~ 50 мин. с. 2: ~ 70 мин.",
+      "rezhisyor": "Тодор Чапкънов",
+      "produtsent": "TV7 и DreamTeam Films"
+    },
+    {
+      "godina": "2013",
+      "serial": "Недадените",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 60 мин.",
+      "rezhisyor": "Иван Митов, Вито Бонев",
+      "produtsent": "БНТ и ARTiSHOCK Productions"
+    },
+    {
+      "godina": "2013",
+      "serial": "Фамилията",
+      "televiziya": "bTV",
+      "sezoni": "3 сезон",
+      "epizodi": "39 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Димитър Гочев",
+      "produtsent": "bTV и Camera"
+    },
+    {
+      "godina": "2013",
+      "serial": "Sex, лъжи & TV: 8 дни в седмицата",
+      "televiziya": "TV7",
+      "sezoni": "1 сезон",
+      "epizodi": "24 епизода",
+      "vremetraene": "~ 45 – 50 мин.",
+      "rezhisyor": "Любен Дилов-син",
+      "produtsent": "TV7 и DreamTeam Films"
+    },
+    {
+      "godina": "2013",
+      "serial": "Четвърта власт",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Стоян Радев, Димитър Коцев",
+      "produtsent": "БНТ и Spotlight"
+    },
+    {
+      "godina": "2013",
+      "serial": "Шменти Капели: Легендата",
+      "televiziya": "TV7",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Владислав Карамфилов",
+      "produtsent": "TV7 и C&R Productions"
+    },
+    {
+      "godina": "2014",
+      "serial": "Знакът на българина",
+      "televiziya": "TV7",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Димитър Недков",
+      "produtsent": "TV7 и Story Studio"
+    },
+    {
+      "godina": "2014",
+      "serial": "На границата",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Станимир Трифонов",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2015",
+      "serial": "Връзки",
+      "televiziya": "bTV FOX Life",
+      "sezoni": "2 сезона",
+      "epizodi": "20 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Виктор Божинов",
+      "produtsent": "bTV и „Емо Вижън“"
+    },
+    {
+      "godina": "2015",
+      "serial": "София - ден и нощ",
+      "televiziya": "NOVA",
+      "sezoni": "4 сезона",
+      "epizodi": "574 епизода",
+      "vremetraene": "~ 25/45 мин.",
+      "rezhisyor": "риалити сериал",
+      "produtsent": "NOVA и Hidalgo Productions"
+    },
+    {
+      "godina": "2016",
+      "serial": "Откраднат живот",
+      "televiziya": "NOVA",
+      "sezoni": "11 сезона",
+      "epizodi": "507 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Петър Вълчанов",
+      "produtsent": "NOVA и DreamTeam Films (с. 1.-9.) / DreamTeam Group (с. 10.-11.)"
+    },
+    {
+      "godina": "2016",
+      "serial": "Играчи",
+      "televiziya": "bTV",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Мартин Райковски",
+      "produtsent": "bTV"
+    },
+    {
+      "godina": "2017",
+      "serial": "Ние, нашите и вашите",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "24 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Димитър Гочев",
+      "produtsent": "NOVA"
+    },
+    {
+      "godina": "2018",
+      "serial": "Скъпи наследници",
+      "televiziya": "bTV",
+      "sezoni": "1 сезон",
+      "epizodi": "170 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Тодор Чапкънов",
+      "produtsent": "bTV"
+    },
+    {
+      "godina": "2018",
+      "serial": "Полицаите от края на града",
+      "televiziya": "NOVA",
+      "sezoni": "2 сезона",
+      "epizodi": "25 епизода",
+      "vremetraene": "~ 90 мин.",
+      "rezhisyor": "Магърдич Халваджиян",
+      "produtsent": "NOVA и Global Films"
+    },
+    {
+      "godina": "2018",
+      "serial": "При щангистите",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "10 епизода",
+      "vremetraene": "~ 71 мин.",
+      "rezhisyor": "Ники Стоичков",
+      "produtsent": "БНТ и NO BLINK studio"
+    },
+    {
+      "godina": "2019",
+      "serial": "Денят на бащата",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Павел Веснаков",
+      "produtsent": "БНТ, ПЦ „Студия екран“ и АГИТПРОП"
+    },
+    {
+      "godina": "2019",
+      "serial": "Дяволското гърло",
+      "televiziya": "NOVA",
+      "sezoni": "2 сезона",
+      "epizodi": "24 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Павел Веснаков, Митко Димитров",
+      "produtsent": "NOVA и DreamTeam Films"
+    },
+    {
+      "godina": "2019",
+      "serial": "Господин X и морето",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Димитър Коцев-Шошо, Димитър Гочев",
+      "produtsent": "NOVA и Di Dreams Industry"
+    },
+    {
+      "godina": "2019",
+      "serial": "Островът на сините птици",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "8 епизода",
+      "vremetraene": "~ 51 – 54 мин.",
+      "rezhisyor": "Кристина Грозева, Петър Вълчанов",
+      "produtsent": "БНТ и „Ред карпет“ – Веселка Кирякова"
+    },
+    {
+      "godina": "2019",
+      "serial": "Пътят на честта",
+      "televiziya": "NOVA",
+      "sezoni": "2 сезона",
+      "epizodi": "92 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Виктор Божинов , Димитър Коцев-Шошо",
+      "produtsent": "NOVA и Global Films (с. 1.) / Albion Films (с. 2.)"
+    },
+    {
+      "godina": "2020",
+      "serial": "Съни бийч",
+      "televiziya": "bTV",
+      "sezoni": "3 сезона",
+      "epizodi": "40 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Димитър Димитров",
+      "produtsent": "bTV и „Междинна станция“"
+    },
+    {
+      "godina": "2020",
+      "serial": "Ягодова луна",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Зоран Петровски, Асен Блатечки , Димитър Гочев",
+      "produtsent": "NOVA"
+    },
+    {
+      "godina": "2020",
+      "serial": "All Inclusive",
+      "televiziya": "NOVA",
+      "sezoni": "5 сезона",
+      "epizodi": "60 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Боя Харизанова, Тодор Николов",
+      "produtsent": "NOVA и Hidalgo Productions"
+    },
+    {
+      "godina": "2020",
+      "serial": "Румбата, аз и Роналдо",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "8 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Станислав Тодоров – Роги, Александър Косев",
+      "produtsent": "БНТ и DreamTeam Films"
+    },
+    {
+      "godina": "2020",
+      "serial": "Братя",
+      "televiziya": "NOVA",
+      "sezoni": "5 сезона",
+      "epizodi": "269 епизода",
+      "vremetraene": "~ 30 мин.",
+      "rezhisyor": "Станислав Дончев , Николай Илиев, Боя Харизанова, Любомир Печев, Орлин Милчев",
+      "produtsent": "NOVA и Hidalgo Productions"
+    },
+    {
+      "godina": "2021",
+      "serial": "Белези",
+      "televiziya": "bTV",
+      "sezoni": "1 сезон",
+      "epizodi": "14 епизода",
+      "vremetraene": "~ 70 мин.",
+      "rezhisyor": "Драго Шолев, Станислав Тодоров – Роги, Петър Крумов, Виктор Чучков – син",
+      "produtsent": "bTV и Midwest"
+    },
+    {
+      "godina": "2021",
+      "serial": "Отдел Издирване",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "13 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Димитър Димитров",
+      "produtsent": "NOVA и Albion Films"
+    },
+    {
+      "godina": "2021",
+      "serial": "Порталът",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Илиян Джевелеков",
+      "produtsent": "БНТ и „Мирамар Филм“"
+    },
+    {
+      "godina": "2021",
+      "serial": "Татковци",
+      "televiziya": "bTV",
+      "sezoni": "2 сезона",
+      "epizodi": "100 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Яна Титова",
+      "produtsent": "bTV и DreamTeam Group"
+    },
+    {
+      "godina": "2022",
+      "serial": "Аз и моите жени",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Боя Харизанова",
+      "produtsent": "БНТ и „Ди индъстри“"
+    },
+    {
+      "godina": "2022",
+      "serial": "Лъжите в нас",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "52 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Павел Веснаков",
+      "produtsent": "NOVA и DreamTeam Group"
+    },
+    {
+      "godina": "2022",
+      "serial": "Мен не ме мислете",
+      "televiziya": "bTV",
+      "sezoni": "3 сезона",
+      "epizodi": "65 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Димитър Димитров",
+      "produtsent": "bTV и „Междинна станция“"
+    },
+    {
+      "godina": "2022",
+      "serial": "С река на сърцето",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "42 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Мартин Макариев и Ники Илиев",
+      "produtsent": "NOVA и New Generation Films"
+    },
+    {
+      "godina": "2023",
+      "serial": "Вина",
+      "televiziya": "БНТ 1",
+      "sezoni": "2 сезона",
+      "epizodi": "24 епизода",
+      "vremetraene": "~ 55 мин.",
+      "rezhisyor": "Виктор Божинов",
+      "produtsent": "БНТ и „Брод Филмс“"
+    },
+    {
+      "godina": "2023",
+      "serial": "Войната на буквите",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Виктор Чучков , Зоран Петровски",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2023",
+      "serial": "Много мой човек",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "13 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Боя Харизанова",
+      "produtsent": "NOVA и Hidalgo Productions"
+    },
+    {
+      "godina": "2023",
+      "serial": "Животът на Жоро",
+      "televiziya": "bTV Comedy",
+      "sezoni": "1 сезон",
+      "epizodi": "10 епизода",
+      "vremetraene": "~ 20 мин.",
+      "rezhisyor": "Димитър Димитров",
+      "produtsent": "bTV и „Междинна станция“"
+    },
+    {
+      "godina": "2023",
+      "serial": "София вкъщи",
+      "televiziya": "bTV",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Ясен Григоров",
+      "produtsent": "bTV и Concept Studio"
+    },
+    {
+      "godina": "2023",
+      "serial": "Алея на славата",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "39 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Виктор Чучков",
+      "produtsent": "NOVA и Светлин Нейнски"
+    },
+    {
+      "godina": "2023",
+      "serial": "Клетката",
+      "televiziya": "NOVA",
+      "sezoni": "2 сезона",
+      "epizodi": "24 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Любомир Печев, Атанас Бончев – Наката",
+      "produtsent": "NOVA и Hidalgo Productions"
+    },
+    {
+      "godina": "2024",
+      "serial": "Алфа",
+      "televiziya": "bTV",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 50 мин.",
+      "rezhisyor": "Димитър Коцев – Шошо",
+      "produtsent": "bTV Media Group"
+    },
+    {
+      "godina": "2024",
+      "serial": "Тревожност",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "13 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Илиян Джевелеков",
+      "produtsent": "БНТ, „Мирамар Филм“ и НФЦ"
+    },
+    {
+      "godina": "2025",
+      "serial": "Всичко за сина ми",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Евтим Милошев",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2025",
+      "serial": "Майките",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Виктор Чучков – син",
+      "produtsent": "NOVA"
+    },
+    {
+      "godina": "2025",
+      "serial": "Те, вълните",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Неда Морфова , Петър Крумов",
+      "produtsent": "БНТ"
+    },
+    {
+      "godina": "2026",
+      "serial": "Мамник",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Виктор Божинов",
+      "produtsent": "Global Films"
+    },
+    {
+      "godina": "2026",
+      "serial": "Вяра, Надежда, Любов",
+      "televiziya": "bTV",
+      "sezoni": "1 сезон",
+      "epizodi": "39 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Виктор Чучков , Станислав Тодоров – Роги, Мартин Илиев",
+      "produtsent": "bTV и Албион Филмс"
+    },
+    {
+      "godina": "2026",
+      "serial": "Ком – Емине",
+      "televiziya": "БНТ 1",
+      "sezoni": "1 сезон",
+      "epizodi": "12 епизода",
+      "vremetraene": "~ 54 мин.",
+      "rezhisyor": "Иван Владимиров , Бойко Боянов",
+      "produtsent": "Български туристически съюз , Мирамар филм и БНТ"
+    },
+    {
+      "godina": "2026",
+      "serial": "Дъждът оставя следи",
+      "televiziya": "NOVA",
+      "sezoni": "1 сезон",
+      "epizodi": "6 епизода",
+      "vremetraene": "~ 45 мин.",
+      "rezhisyor": "Петър Вълчанов, Кристина Грозева",
+      "produtsent": "NOVA"
+    }
+  ],
+  "meta": {
+    "title": "Български телевизионни сериали - Free Download",
+    "description": "Списък на българските телевизионни сериали с година на премиера, телевизия, брой сезони и епизоди, режисьори и продуценти. Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Български телевизионни сериали | ListBase",
+    "seo_description": "Download Български телевизионни сериали — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_български_сериали"
+    ]
+  }
+}

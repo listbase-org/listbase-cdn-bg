@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-29T02:11:10.924Z",
-  "total_datasets": 446,
-  "total_records": 191144,
+  "generated": "2026-10-29T02:11:13.311Z",
+  "total_datasets": 447,
+  "total_records": 191245,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "environment",
@@ -1600,6 +1600,35 @@
         "xlsx": {
           "name": "bg-askeer-nositeli_BG.xlsx",
           "size": 17736
+        }
+      }
+    },
+    {
+      "id": "bg-balgarski-seriali",
+      "name": "Български телевизионни сериали",
+      "category": "entertainment",
+      "record_count": 101,
+      "columns": [
+        "godina",
+        "serial",
+        "televiziya",
+        "sezoni",
+        "epizodi",
+        "vremetraene",
+        "rezhisyor",
+        "produtsent"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_български_сериали",
+      "updated": "2026-10",
+      "size": 35931,
+      "files": {
+        "csv": {
+          "name": "bg-balgarski-seriali_BG.csv",
+          "size": 17016
+        },
+        "xlsx": {
+          "name": "bg-balgarski-seriali_BG.xlsx",
+          "size": 14073
         }
       }
     },
