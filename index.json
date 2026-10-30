@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-30T02:10:14.807Z",
-  "total_datasets": 451,
-  "total_records": 191714,
+  "generated": "2026-10-30T02:10:22.266Z",
+  "total_datasets": 452,
+  "total_records": 191757,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -4507,6 +4507,33 @@
         "xlsx": {
           "name": "bg-megaliti_BG.xlsx",
           "size": 12904
+        }
+      }
+    },
+    {
+      "id": "bg-trakiyski-grobnitsi",
+      "name": "Древни гробници в България",
+      "category": "history",
+      "record_count": 43,
+      "columns": [
+        "ime",
+        "naseleno_myasto",
+        "oblast",
+        "period",
+        "otkrivatel",
+        "godina_na_otkrivane"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_гробниците_в_България",
+      "updated": "2026-10",
+      "size": 13545,
+      "files": {
+        "csv": {
+          "name": "bg-trakiyski-grobnitsi_BG.csv",
+          "size": 5620
+        },
+        "xlsx": {
+          "name": "bg-trakiyski-grobnitsi_BG.xlsx",
+          "size": 9026
         }
       }
     },

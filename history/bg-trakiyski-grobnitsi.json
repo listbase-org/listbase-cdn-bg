@@ -1,0 +1,400 @@
+{
+  "id": "bg-trakiyski-grobnitsi",
+  "name": "Древни гробници в България",
+  "title": "Древни гробници в България",
+  "description": "Тракийски и други древни гробници в България с населено място, област, период, откривател и година на откриване.",
+  "category": "history",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_гробниците_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_гробниците_в_България",
+  "updated": "2026-10",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "naseleno_myasto",
+      "label": "Naseleno Myasto",
+      "type": "string"
+    },
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "otkrivatel",
+      "label": "Otkrivatel",
+      "type": "string"
+    },
+    {
+      "key": "godina_na_otkrivane",
+      "label": "Godina Na Otkrivane",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Казанлъшка гробница",
+      "naseleno_myasto": "Казанлък",
+      "oblast": "Област Стара Загора",
+      "period": "IV в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "1944"
+    },
+    {
+      "ime": "Оструша",
+      "naseleno_myasto": "Шипка",
+      "oblast": "Област Стара Загора",
+      "period": "IV в. пр. н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "1993"
+    },
+    {
+      "ime": "Голяма Косматка",
+      "naseleno_myasto": "Шипка",
+      "oblast": "Област Стара Загора",
+      "period": "V в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2004"
+    },
+    {
+      "ime": "Могила на грифоните",
+      "naseleno_myasto": "Шипка",
+      "oblast": "Област Стара Загора",
+      "period": "V-IV в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "1996"
+    },
+    {
+      "ime": "Шушманец",
+      "naseleno_myasto": "Шипка",
+      "oblast": "Област Стара Загора",
+      "period": "V-IV в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "1996"
+    },
+    {
+      "ime": "Могила Светица",
+      "naseleno_myasto": "Шипка",
+      "oblast": "Област Стара Загора",
+      "period": "V в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2004"
+    },
+    {
+      "ime": "Голяма Арсеналка",
+      "naseleno_myasto": "Казанлък",
+      "oblast": "Област Стара Загора",
+      "period": "V в. пр. н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "1995"
+    },
+    {
+      "ime": "Сашова могила",
+      "naseleno_myasto": "Шипка",
+      "oblast": "Област Стара Загора",
+      "period": "III в.пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "1995"
+    },
+    {
+      "ime": "Сарафова могила",
+      "naseleno_myasto": "Крън",
+      "oblast": "Област Стара Загора",
+      "period": "IV–II в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "1995"
+    },
+    {
+      "ime": "Свещарска гробница",
+      "naseleno_myasto": "Свещари",
+      "oblast": "Област Разград",
+      "period": "III в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "1982"
+    },
+    {
+      "ime": "Александровска гробница",
+      "naseleno_myasto": "Александрово",
+      "oblast": "Област Хасково",
+      "period": "IV в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2000"
+    },
+    {
+      "ime": "Хелвеция (могила)",
+      "naseleno_myasto": "Шипка",
+      "oblast": "Област Стара Загора",
+      "period": "V-IV в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "1996"
+    },
+    {
+      "ime": "Далакова могила",
+      "naseleno_myasto": "Тополчане",
+      "oblast": "Област Сливен",
+      "period": "",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2007"
+    },
+    {
+      "ime": "Друмева могила",
+      "naseleno_myasto": "Старо село",
+      "oblast": "Област Сливен",
+      "period": "ІІ – ІІІ в.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2007"
+    },
+    {
+      "ime": "Якимова могила",
+      "naseleno_myasto": "Крушаре",
+      "oblast": "Област Сливен",
+      "period": "V в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "2008"
+    },
+    {
+      "ime": "Мъглижка гробница",
+      "naseleno_myasto": "Мъглиж",
+      "oblast": "Област Стара Загора",
+      "period": "III в. пр.н.е.",
+      "otkrivatel": "Людмил Гетов и Гергана Табакова-Цанова",
+      "godina_na_otkrivane": "1965"
+    },
+    {
+      "ime": "Недкова могила",
+      "naseleno_myasto": "Старосел",
+      "oblast": "Област Пловдив",
+      "period": "ІV в. пр. н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2002"
+    },
+    {
+      "ime": "Хоризонт (могила)",
+      "naseleno_myasto": "Старосел",
+      "oblast": "Област Пловдив",
+      "period": "V-IV в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2002"
+    },
+    {
+      "ime": "Малката могила",
+      "naseleno_myasto": "Шипка",
+      "oblast": "Област Стара Загора",
+      "period": "",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "1992"
+    },
+    {
+      "ime": "Четиньова могила (Старосел)",
+      "naseleno_myasto": "Старосел",
+      "oblast": "Област Пловдив",
+      "period": "IV в. пр. н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2002"
+    },
+    {
+      "ime": "Павлова могила",
+      "naseleno_myasto": "Старосел",
+      "oblast": "Област Пловдив",
+      "period": "",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2002"
+    },
+    {
+      "ime": "Коилишка могила",
+      "naseleno_myasto": "Старосел",
+      "oblast": "Област Пловдив",
+      "period": "",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2002"
+    },
+    {
+      "ime": "Маврова могила",
+      "naseleno_myasto": "Старосел",
+      "oblast": "Област Пловдив",
+      "period": "",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2002"
+    },
+    {
+      "ime": "Пейчова могила",
+      "naseleno_myasto": "Старосел",
+      "oblast": "Област Пловдив",
+      "period": "",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2000"
+    },
+    {
+      "ime": "Жаба могила",
+      "naseleno_myasto": "Стрелча",
+      "oblast": "Област Пазарджик",
+      "period": "V-IV в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "1976"
+    },
+    {
+      "ime": "Гаговска гробница",
+      "naseleno_myasto": "Гагово",
+      "oblast": "Област Търговище",
+      "period": "IV-III в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": ""
+    },
+    {
+      "ime": "Антична куполна гробница (Поморие)",
+      "naseleno_myasto": "Поморие",
+      "oblast": "Област Бургас",
+      "period": "ІІ – ІІІ в.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": ""
+    },
+    {
+      "ime": "Беловска гробница",
+      "naseleno_myasto": "Белово",
+      "oblast": "Област Пазарджик",
+      "period": "V-IV в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "1942"
+    },
+    {
+      "ime": "Малтепе",
+      "naseleno_myasto": "Маноле",
+      "oblast": "Област Пловдив",
+      "period": "ІІІ в.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "2018"
+    },
+    {
+      "ime": "Долнолуковска гробница",
+      "naseleno_myasto": "Долно Луково",
+      "oblast": "Област Хасково",
+      "period": "ІІІ в. пр. н.е.",
+      "otkrivatel": "Георги Нехризов и Георги Кулов",
+      "godina_na_otkrivane": "1992"
+    },
+    {
+      "ime": "Тракийска могила до село Ивански",
+      "naseleno_myasto": "Ивански",
+      "oblast": "Област Шумен",
+      "period": "IV в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": ""
+    },
+    {
+      "ime": "Кестелева могила",
+      "naseleno_myasto": "Мъглиж",
+      "oblast": "Област Стара Загора",
+      "period": "IV-III в. пр.н.е.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": "2004"
+    },
+    {
+      "ime": "Мезешка гробница",
+      "naseleno_myasto": "Мезек",
+      "oblast": "Област Хасково",
+      "period": "IV-III в. пр. н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "1931"
+    },
+    {
+      "ime": "Могиланска могила",
+      "naseleno_myasto": "Враца",
+      "oblast": "Област Враца",
+      "period": "IV в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "1965"
+    },
+    {
+      "ime": "Руженска гробница",
+      "naseleno_myasto": "Ружица",
+      "oblast": "Област Ямбол",
+      "period": "V в. пр. н.е.",
+      "otkrivatel": "Даниела Агре",
+      "godina_na_otkrivane": "2004"
+    },
+    {
+      "ime": "Крупнишка гробница",
+      "naseleno_myasto": "Крупник",
+      "oblast": "Област Благоевград",
+      "period": "IV в.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "1934"
+    },
+    {
+      "ime": "Оряховска могила",
+      "naseleno_myasto": "Оряховица",
+      "oblast": "Област Стара Загора",
+      "period": "",
+      "otkrivatel": "Христо Райков",
+      "godina_na_otkrivane": "1938"
+    },
+    {
+      "ime": "Септемвриска гробница",
+      "naseleno_myasto": "Септември",
+      "oblast": "Област Пазарджик",
+      "period": "",
+      "otkrivatel": "",
+      "godina_na_otkrivane": ""
+    },
+    {
+      "ime": "Злата могила",
+      "naseleno_myasto": "Съдиево",
+      "oblast": "Област Сливен",
+      "period": "І-ІІ в.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": "2004"
+    },
+    {
+      "ime": "Домикаловска гробница",
+      "naseleno_myasto": "Мезек",
+      "oblast": "Област Хасково",
+      "period": "",
+      "otkrivatel": "",
+      "godina_na_otkrivane": ""
+    },
+    {
+      "ime": "Нанина могила",
+      "naseleno_myasto": "Мъглиж",
+      "oblast": "Област Стара Загора",
+      "period": "ІV в.",
+      "otkrivatel": "Георги Китов",
+      "godina_na_otkrivane": ""
+    },
+    {
+      "ime": "Калояновска гробница",
+      "naseleno_myasto": "Сливен",
+      "oblast": "Област Сливен",
+      "period": "IV в. пр.н.е.",
+      "otkrivatel": "",
+      "godina_na_otkrivane": ""
+    },
+    {
+      "ime": "Ранна тракийска гробница - с. Бродилово",
+      "naseleno_myasto": "Бродилово",
+      "oblast": "Област Бургас",
+      "period": "IV в. пр.н.е.",
+      "otkrivatel": "Даниела Агре",
+      "godina_na_otkrivane": "2008"
+    }
+  ],
+  "meta": {
+    "title": "Древни гробници в България - Free Download",
+    "description": "Тракийски и други древни гробници в България с населено място, област, период, откривател и година на откриване. Contains 43 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Древни гробници в България | ListBase",
+    "seo_description": "Download Древни гробници в България — 43 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 43 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_гробниците_в_България"
+    ]
+  }
+}
