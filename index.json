@@ -1,12 +1,12 @@
 {
   "lang": "bg",
-  "generated": "2026-10-29T02:11:13.311Z",
-  "total_datasets": 447,
-  "total_records": 191245,
+  "generated": "2026-10-30T02:09:53.144Z",
+  "total_datasets": 448,
+  "total_records": 191379,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -98,6 +98,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "bg-medonosni-rasteniya",
+      "name": "Най-медоносни растения в България",
+      "category": "agriculture",
+      "record_count": 134,
+      "columns": [
+        "rastenie",
+        "latinsko_ime",
+        "vid",
+        "dobiv_med_kg_na_dka",
+        "zahar_kg_na_ha"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_най-медоносните_растения_в_България",
+      "updated": "2026-10",
+      "size": 27612,
+      "files": {
+        "csv": {
+          "name": "bg-medonosni-rasteniya_BG.csv",
+          "size": 8969
+        },
+        "xlsx": {
+          "name": "bg-medonosni-rasteniya_BG.xlsx",
+          "size": 12342
+        }
+      }
+    },
     {
       "id": "bg-ministri-zemedelie",
       "name": "Министри на земеделието на България",

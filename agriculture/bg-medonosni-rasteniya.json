@@ -1,0 +1,989 @@
+{
+  "id": "bg-medonosni-rasteniya",
+  "name": "Най-медоносни растения в България",
+  "title": "Най-медоносни растения в България",
+  "description": "Медоносни растения и овощни видове в България с латинско наименование и добив на мед (кг на декар) – справочник за пчеларите.",
+  "category": "agriculture",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_най-медоносните_растения_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_най-медоносните_растения_в_България",
+  "updated": "2026-10",
+  "record_count": 134,
+  "columns": [
+    {
+      "key": "rastenie",
+      "label": "Rastenie",
+      "type": "string"
+    },
+    {
+      "key": "latinsko_ime",
+      "label": "Latinsko Ime",
+      "type": "string"
+    },
+    {
+      "key": "vid",
+      "label": "Vid",
+      "type": "string"
+    },
+    {
+      "key": "dobiv_med_kg_na_dka",
+      "label": "Dobiv Med Kg Na Dka",
+      "type": "string"
+    },
+    {
+      "key": "zahar_kg_na_ha",
+      "label": "Zahar Kg Na Ha",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rastenie": "Асклепиас",
+      "latinsko_ime": "Asclepias syriaca L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "41 – 71",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Бял маргарит",
+      "latinsko_ime": "Symphoricarpus racemosus L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "27 – 46 (в други източници 230 кг)",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Коча билка",
+      "latinsko_ime": "Nepeta cataria L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "11 – 17 (в редки случаи до 41)",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Фацелия",
+      "latinsko_ime": "Phacelia tenacetifonia Benth.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "21 – 37",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Молдавска маточина",
+      "latinsko_ime": "Dracocephalum moldavicum L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "13 – 36",
+      "zahar_kg_na_ha": "160"
+    },
+    {
+      "rastenie": "Салвия (Градински чай)",
+      "latinsko_ime": "Salvia officinalis",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "6,5 – 34 (до 44,5)",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Дребнолистна липа (40-годишна)",
+      "latinsko_ime": "Tilia parvifolia Ehrt.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "15 – 32",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Исоп",
+      "latinsko_ime": "Hyssopus officinalis L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "20 – 33",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Бяла акация (40-годишна)",
+      "latinsko_ime": "Robinia pseudoacacia L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "11 – 30 (20 – 66)",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Кариоптерис",
+      "latinsko_ime": "Cariopteris incana Mig.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "29",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Теснолистна върбовка",
+      "latinsko_ime": "Epilobium angustifolium L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "29",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Бяла комунига (двегодишна)",
+      "latinsko_ime": "Melilotus albus",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "14 – 27",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Салвия скларея",
+      "latinsko_ime": "Salvia sclarea L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "4 – 25",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Пореч",
+      "latinsko_ime": "Borago officinalis",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "20",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Шестил (млечен явор)",
+      "latinsko_ime": "Acer platanoides",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "20",
+      "zahar_kg_na_ha": "200"
+    },
+    {
+      "rastenie": "Ясенолистен явор",
+      "latinsko_ime": "Acer negundo",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "50"
+    },
+    {
+      "rastenie": "Репко",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "20",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Мента",
+      "latinsko_ime": "Mentha",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "20",
+      "zahar_kg_na_ha": "200"
+    },
+    {
+      "rastenie": "Ранилист (едногодишен)",
+      "latinsko_ime": "Stachys",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "19",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Жълта комунига",
+      "latinsko_ime": "Melilotus Officinalis",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "14,5 – 19",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Едролистна липа (30-годишна)",
+      "latinsko_ime": "Tilia platyphyllos",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "10 – 16",
+      "zahar_kg_na_ha": "700"
+    },
+    {
+      "rastenie": "Мекиш",
+      "latinsko_ime": "Acer tataricum",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "4 – 15",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Бял синап",
+      "latinsko_ime": "Sinapis alba",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "15",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Лавандула",
+      "latinsko_ime": "Lavandula",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "14",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Комунига (едногодишна)",
+      "latinsko_ime": "Melilotus L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "8 – 13",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Ружа градинска",
+      "latinsko_ime": "Althaea officinalis",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "11 – 12",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Блатия върболистна",
+      "latinsko_ime": "Lythrum salicaria",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "6 – 11",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Дяволска уста",
+      "latinsko_ime": "Leonurus cardiaca",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "11",
+      "zahar_kg_na_ha": "200"
+    },
+    {
+      "rastenie": "Зърнастец",
+      "latinsko_ime": "Rhamnus",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "11",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Маточина",
+      "latinsko_ime": "Melissa officinalis",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "8 – 11",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Босилек",
+      "latinsko_ime": "Ocimum basilicum",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "1,5 – 10",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Анасон",
+      "latinsko_ime": "Pimpinella anisum",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "5 – 10",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Канадска златна пръчка",
+      "latinsko_ime": "Solidago canadensis",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "10",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Люцерна",
+      "latinsko_ime": "Medicago sativa",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "8 – 10",
+      "zahar_kg_na_ha": "170"
+    },
+    {
+      "rastenie": "Еспарзета",
+      "latinsko_ime": "Onobrychis",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "2,5 – 8,5",
+      "zahar_kg_na_ha": "172"
+    },
+    {
+      "rastenie": "Кромид лук",
+      "latinsko_ime": "Allium cepa",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "8",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Горска малина",
+      "latinsko_ime": "Rubus idaeus",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "7",
+      "zahar_kg_na_ha": "215"
+    },
+    {
+      "rastenie": "Слънчоглед",
+      "latinsko_ime": "Helianthus annuus",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "3,5 – 6",
+      "zahar_kg_na_ha": "24"
+    },
+    {
+      "rastenie": "Бяла акация (млади насаждения)",
+      "latinsko_ime": "Robinia pseudoacacia L.",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "3 – 4",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Гледичия",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "200"
+    },
+    {
+      "rastenie": "Глог",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "16"
+    },
+    {
+      "rastenie": "Глухарче",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "105"
+    },
+    {
+      "rastenie": "Горва",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "24"
+    },
+    {
+      "rastenie": "Горицвет",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "30"
+    },
+    {
+      "rastenie": "Гърлица",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "50"
+    },
+    {
+      "rastenie": "Детелина бяла",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "100"
+    },
+    {
+      "rastenie": "Детелина ливадна",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "90"
+    },
+    {
+      "rastenie": "Детелина планинска",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "23"
+    },
+    {
+      "rastenie": "Детелина хибридна",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "115"
+    },
+    {
+      "rastenie": "Детелина червена",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "255"
+    },
+    {
+      "rastenie": "Диня",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "12"
+    },
+    {
+      "rastenie": "Дрян",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "36"
+    },
+    {
+      "rastenie": "Елда",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "105"
+    },
+    {
+      "rastenie": "Живениче",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "621"
+    },
+    {
+      "rastenie": "Жълт кантарион",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "147"
+    },
+    {
+      "rastenie": "Жълтица есенна",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "91"
+    },
+    {
+      "rastenie": "Жълтурче пролетно",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "14"
+    },
+    {
+      "rastenie": "Звездан",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "30"
+    },
+    {
+      "rastenie": "Здравец блатен",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "20"
+    },
+    {
+      "rastenie": "Здравец ливаден",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "192"
+    },
+    {
+      "rastenie": "Зеле",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "70"
+    },
+    {
+      "rastenie": "Златник",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "53"
+    },
+    {
+      "rastenie": "Змеева глава",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "225"
+    },
+    {
+      "rastenie": "Змийско мляко",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "8"
+    },
+    {
+      "rastenie": "Иглика лечебна",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "2"
+    },
+    {
+      "rastenie": "Къпина горска",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "33"
+    },
+    {
+      "rastenie": "Къпина градинска",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "31"
+    },
+    {
+      "rastenie": "Кървавиче",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "42"
+    },
+    {
+      "rastenie": "Лаватера",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "200"
+    },
+    {
+      "rastenie": "Лоницера ядлива",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "22"
+    },
+    {
+      "rastenie": "Лук",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "258"
+    },
+    {
+      "rastenie": "Луличка обикновена",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "131"
+    },
+    {
+      "rastenie": "Лютиче",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "15"
+    },
+    {
+      "rastenie": "Магарешки бодил полски",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "185"
+    },
+    {
+      "rastenie": "Магарешки бодил речен",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "75"
+    },
+    {
+      "rastenie": "Маргаритка многогодишна",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "7"
+    },
+    {
+      "rastenie": "Мащерка",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "45"
+    },
+    {
+      "rastenie": "Медуница тъмна",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "76"
+    },
+    {
+      "rastenie": "Метличина синя",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "39"
+    },
+    {
+      "rastenie": "Метличина червена",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "194"
+    },
+    {
+      "rastenie": "Мордовник",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "680"
+    },
+    {
+      "rastenie": "Мъртва коприва бяла",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "280"
+    },
+    {
+      "rastenie": "Мъртва коприва петниста",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "124"
+    },
+    {
+      "rastenie": "Мъртва коприва червена",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "56"
+    },
+    {
+      "rastenie": "Намука лечебна",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "79"
+    },
+    {
+      "rastenie": "Незабравка блатна",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "6"
+    },
+    {
+      "rastenie": "Омайниче ручейно",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "255"
+    },
+    {
+      "rastenie": "Черен оман",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "326"
+    },
+    {
+      "rastenie": "Памук",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "150"
+    },
+    {
+      "rastenie": "Песекиня",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "20"
+    },
+    {
+      "rastenie": "Пищялка горска",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "116"
+    },
+    {
+      "rastenie": "Сминдух",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "84"
+    },
+    {
+      "rastenie": "Солешникова рунянка",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "13"
+    },
+    {
+      "rastenie": "Спирея",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "52"
+    },
+    {
+      "rastenie": "Срещниче пълзящо",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "80"
+    },
+    {
+      "rastenie": "Степник дълголистен",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "295"
+    },
+    {
+      "rastenie": "Сусам",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "40"
+    },
+    {
+      "rastenie": "Сърпец",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "276"
+    },
+    {
+      "rastenie": "Съсънка",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "8"
+    },
+    {
+      "rastenie": "Татарски нокът",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "147"
+    },
+    {
+      "rastenie": "Телчарка",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "16"
+    },
+    {
+      "rastenie": "Теснолистен кипрей",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "600"
+    },
+    {
+      "rastenie": "Тиква",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "36"
+    },
+    {
+      "rastenie": "Тлъстига лютива",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "122"
+    },
+    {
+      "rastenie": "Трън кисел",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "200"
+    },
+    {
+      "rastenie": "Трънка",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "22"
+    },
+    {
+      "rastenie": "Усойниче",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "325"
+    },
+    {
+      "rastenie": "Фасул",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "6"
+    },
+    {
+      "rastenie": "Фий",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "9"
+    },
+    {
+      "rastenie": "Френско грозде",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "50"
+    },
+    {
+      "rastenie": "Хераклеум",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "110"
+    },
+    {
+      "rastenie": "Цикория",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "100"
+    },
+    {
+      "rastenie": "Чашкодрян брадавичен",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "5"
+    },
+    {
+      "rastenie": "Чашкодрян европейски",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "110"
+    },
+    {
+      "rastenie": "Червеноглавче полско",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "65"
+    },
+    {
+      "rastenie": "Горска ягода",
+      "latinsko_ime": "Fragaria vesca",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "",
+      "zahar_kg_na_ha": "13"
+    },
+    {
+      "rastenie": "Черна акация (Аморфа)",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "86",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Лофант (лудо биле)",
+      "latinsko_ime": "Lophanthus Anisatus Benth",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "40",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "чубрица",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "74",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Розов маргарит",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "169,2",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "обикновен витекс",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "142",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "целолистна дряновица",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "115",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "градински чай",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "44,5",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "ефека",
+      "latinsko_ime": "",
+      "vid": "растение",
+      "dobiv_med_kg_na_dka": "40,4",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Бадем",
+      "latinsko_ime": "Amigdalus communis",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "0,5 – 5,3",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Вишна",
+      "latinsko_ime": "",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "1,4 – 18",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Джанка",
+      "latinsko_ime": "Prunus cerasifera",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "1",
+      "zahar_kg_na_ha": "35"
+    },
+    {
+      "rastenie": "Дюля",
+      "latinsko_ime": "Cydonia oblonga",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "0,2 – 2",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Кайсия",
+      "latinsko_ime": "Prunus armeniaca",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "4",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Праскова",
+      "latinsko_ime": "Prunus persica",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "0,5 – 1,9",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Слива",
+      "latinsko_ime": "Prunus domestica",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "5 – 7",
+      "zahar_kg_na_ha": ""
+    },
+    {
+      "rastenie": "Череша",
+      "latinsko_ime": "",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "3 – 16",
+      "zahar_kg_na_ha": "38"
+    },
+    {
+      "rastenie": "Череша градинска",
+      "latinsko_ime": "",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "3 – 16",
+      "zahar_kg_na_ha": "45"
+    },
+    {
+      "rastenie": "Ябълка",
+      "latinsko_ime": "Malus domestica",
+      "vid": "овощно растение",
+      "dobiv_med_kg_na_dka": "1 – 10",
+      "zahar_kg_na_ha": "23"
+    }
+  ],
+  "meta": {
+    "title": "Най-медоносни растения в България - Free Download",
+    "description": "Медоносни растения и овощни видове в България с латинско наименование и добив на мед (кг на декар) – справочник за пчеларите. Contains 134 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Най-медоносни растения в България | ListBase",
+    "seo_description": "Download Най-медоносни растения в България — 134 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 134 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_най-медоносните_растения_в_България"
+    ]
+  }
+}
