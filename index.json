@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-30T02:10:28.650Z",
-  "total_datasets": 453,
-  "total_records": 192418,
+  "generated": "2026-10-30T02:10:36.526Z",
+  "total_datasets": 454,
+  "total_records": 192495,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 31
+      "dataset_count": 32
     },
     {
       "id": "entertainment",
@@ -1123,6 +1123,34 @@
         "xlsx": {
           "name": "bg-razgrad-uchilishta-registar_BG.xlsx",
           "size": 11794
+        }
+      }
+    },
+    {
+      "id": "bg-rektori-sofiyski-universitet",
+      "name": "Ректори на Софийския университет",
+      "category": "education",
+      "record_count": 77,
+      "columns": [
+        "nomer",
+        "ime",
+        "godini_na_zhivot",
+        "vstapil",
+        "napusnal",
+        "belezhki",
+        "drugo"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_ректорите_на_Софийския_университет",
+      "updated": "2026-10",
+      "size": 35494,
+      "files": {
+        "csv": {
+          "name": "bg-rektori-sofiyski-universitet_BG.csv",
+          "size": 22587
+        },
+        "xlsx": {
+          "name": "bg-rektori-sofiyski-universitet_BG.xlsx",
+          "size": 14566
         }
       }
     },
