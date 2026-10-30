@@ -1,0 +1,492 @@
+{
+  "id": "bg-verigi-magazini",
+  "name": "Търговски вериги магазини в България",
+  "title": "Търговски вериги магазини в България",
+  "description": "Търговски вериги в България по вид (хранителни, строителни, техника, мода) с брой магазини и година на първия магазин; включени и закрити вериги.",
+  "category": "economy",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_вериги_магазини_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_вериги_магазини_в_България",
+  "updated": "2026-10",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "vid",
+      "label": "Vid",
+      "type": "string"
+    },
+    {
+      "key": "broy_magazini",
+      "label": "Broy Magazini",
+      "type": "number"
+    },
+    {
+      "key": "parvi_magazin",
+      "label": "Parvi Magazin",
+      "type": "number"
+    },
+    {
+      "key": "zatvoren_prodaden",
+      "label": "Zatvoren Prodaden",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Kam Market",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "22",
+      "parvi_magazin": "2017",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "BILLA",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "157",
+      "parvi_magazin": "2000",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "CBA",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "136",
+      "parvi_magazin": "2003",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Фантастико",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "44",
+      "parvi_magazin": "1991",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "BulMag",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "19",
+      "parvi_magazin": "1995",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Hit max",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "2",
+      "parvi_magazin": "2021",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Кауфланд",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "70",
+      "parvi_magazin": "2006",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Lidl",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "120",
+      "parvi_magazin": "2010",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "МЕТРО",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "11",
+      "parvi_magazin": "1999",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "ProMarket",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "22",
+      "parvi_magazin": "2002",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Т Market",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "100",
+      "parvi_magazin": "2005",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Триумф",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "11",
+      "parvi_magazin": "2000",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Карфур",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "5",
+      "parvi_magazin": "2009 (първоначално), 2024 (завръщане)",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Бурлекс",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "80",
+      "parvi_magazin": "",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "345 Магазинъ",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "10",
+      "parvi_magazin": "",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Дар",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "12",
+      "parvi_magazin": "1991",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Мандарин",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "3",
+      "parvi_magazin": "2009",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Смокиня",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "4",
+      "parvi_magazin": "",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Бакалия",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "11",
+      "parvi_magazin": "",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "ABC Market",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "11",
+      "parvi_magazin": "2004",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Mini Mart",
+      "vid": "Супермаркети и хипермаркети",
+      "broy_magazini": "107",
+      "parvi_magazin": "2023",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Меркатор",
+      "vid": "Бивши вериги",
+      "broy_magazini": "4",
+      "parvi_magazin": "2009",
+      "zatvoren_prodaden": "2013"
+    },
+    {
+      "ime": "Пени пазар",
+      "vid": "Бивши вериги",
+      "broy_magazini": "49",
+      "parvi_magazin": "2009",
+      "zatvoren_prodaden": "2015"
+    },
+    {
+      "ime": "Plus",
+      "vid": "Бивши вериги",
+      "broy_magazini": "23",
+      "parvi_magazin": "2009",
+      "zatvoren_prodaden": "2010"
+    },
+    {
+      "ime": "Рамстор",
+      "vid": "Бивши вериги",
+      "broy_magazini": "3",
+      "parvi_magazin": "2001",
+      "zatvoren_prodaden": "2007"
+    },
+    {
+      "ime": "Пикадили",
+      "vid": "Бивши вериги",
+      "broy_magazini": "",
+      "parvi_magazin": "1995",
+      "zatvoren_prodaden": "2017"
+    },
+    {
+      "ime": "Рода",
+      "vid": "Бивши вериги",
+      "broy_magazini": "",
+      "parvi_magazin": "2010",
+      "zatvoren_prodaden": "2013"
+    },
+    {
+      "ime": "CarpetMax",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "10",
+      "parvi_magazin": "1996",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Баухаус",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "1",
+      "parvi_magazin": "2012",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Хиполенд",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "27",
+      "parvi_magazin": "2005",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "HomeMax",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "8",
+      "parvi_magazin": "2014",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "ИКЕА",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "6",
+      "parvi_magazin": "2011",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Experts Doors",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "16",
+      "parvi_magazin": "2016",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Jumbo",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "10",
+      "parvi_magazin": "2007",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Jysk",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "43",
+      "parvi_magazin": "2005",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Мосю Бриколаж",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "11",
+      "parvi_magazin": "2000",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Практикер",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "11",
+      "parvi_magazin": "2004",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Практис",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "7",
+      "parvi_magazin": "2002",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Виденов",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "45",
+      "parvi_magazin": "1990",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Дискрет",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "3",
+      "parvi_magazin": "2007",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Pepco",
+      "vid": "Магазини на дома, мебели и играчки",
+      "broy_magazini": "112",
+      "parvi_magazin": "2019",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "bauMax",
+      "vid": "Бивши вериги",
+      "broy_magazini": "8",
+      "parvi_magazin": "2006",
+      "zatvoren_prodaden": "2014"
+    },
+    {
+      "ime": "Техномаркет",
+      "vid": "Магазини за електроника",
+      "broy_magazini": "45",
+      "parvi_magazin": "1999",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Технополис",
+      "vid": "Магазини за електроника",
+      "broy_magazini": "33",
+      "parvi_magazin": "2001",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Techmart",
+      "vid": "Магазини за електроника",
+      "broy_magazini": "19",
+      "parvi_magazin": "2013",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Зора",
+      "vid": "Магазини за електроника",
+      "broy_magazini": "37",
+      "parvi_magazin": "1991",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "ДОМО",
+      "vid": "Бивши вериги",
+      "broy_magazini": "50+",
+      "parvi_magazin": "2006",
+      "zatvoren_prodaden": "2010"
+    },
+    {
+      "ime": "Мултирама",
+      "vid": "Бивши вериги",
+      "broy_magazini": "11",
+      "parvi_magazin": "2005",
+      "zatvoren_prodaden": "2012"
+    },
+    {
+      "ime": "Bershka",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "7",
+      "parvi_magazin": "-",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Deichmann",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "21",
+      "parvi_magazin": "2009",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Decathlon",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "10",
+      "parvi_magazin": "2013",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "DM",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "95",
+      "parvi_magazin": "2009",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Lilly",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "90",
+      "parvi_magazin": "2010",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "H&M",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "20",
+      "parvi_magazin": "2012",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Масимо Дути",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "5",
+      "parvi_magazin": "-",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "NewYorker",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "12",
+      "parvi_magazin": "2008",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Oysho",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "5",
+      "parvi_magazin": "-",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Peek & Cloppenburg",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "2",
+      "parvi_magazin": "2010",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Pull & Bear",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "5",
+      "parvi_magazin": "-",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Sport Vision",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "12",
+      "parvi_magazin": "2013",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Страдивариус",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "5",
+      "parvi_magazin": "-",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Темпо",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "29",
+      "parvi_magazin": "2003",
+      "zatvoren_prodaden": ""
+    },
+    {
+      "ime": "Zara",
+      "vid": "Магазини за облекло, козметика, спорт и здравеопазване",
+      "broy_magazini": "7",
+      "parvi_magazin": "-",
+      "zatvoren_prodaden": ""
+    }
+  ],
+  "meta": {
+    "title": "Търговски вериги магазини в България - Free Download",
+    "description": "Търговски вериги в България по вид (хранителни, строителни, техника, мода) с брой магазини и година на първия магазин; включени и закрити вериги. Contains 63 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Търговски вериги магазини в България | ListBase",
+    "seo_description": "Download Търговски вериги магазини в България — 63 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 63 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_вериги_магазини_в_България"
+    ]
+  }
+}

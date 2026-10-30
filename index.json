@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-30T02:09:53.144Z",
-  "total_datasets": 448,
-  "total_records": 191379,
+  "generated": "2026-10-30T02:10:00.292Z",
+  "total_datasets": 449,
+  "total_records": 191442,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -558,6 +558,32 @@
         "xlsx": {
           "name": "bg-ministri-ikonomika_BG.xlsx",
           "size": 8325
+        }
+      }
+    },
+    {
+      "id": "bg-verigi-magazini",
+      "name": "Търговски вериги магазини в България",
+      "category": "economy",
+      "record_count": 63,
+      "columns": [
+        "ime",
+        "vid",
+        "broy_magazini",
+        "parvi_magazin",
+        "zatvoren_prodaden"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_вериги_магазини_в_България",
+      "updated": "2026-10",
+      "size": 15477,
+      "files": {
+        "csv": {
+          "name": "bg-verigi-magazini_BG.csv",
+          "size": 5980
+        },
+        "xlsx": {
+          "name": "bg-verigi-magazini_BG.xlsx",
+          "size": 9159
         }
       }
     },
