@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-30T02:10:22.266Z",
-  "total_datasets": 452,
-  "total_records": 191757,
+  "generated": "2026-10-30T02:10:28.650Z",
+  "total_datasets": 453,
+  "total_records": 192418,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -4483,6 +4483,30 @@
         "xlsx": {
           "name": "bg-balgarski-vladeteli_BG.xlsx",
           "size": 12418
+        }
+      }
+    },
+    {
+      "id": "bg-hayduti",
+      "name": "Български хайдути и войводи",
+      "category": "history",
+      "record_count": 661,
+      "columns": [
+        "ime",
+        "godini",
+        "opisanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_с_български_хайдути",
+      "updated": "2026-10",
+      "size": 249051,
+      "files": {
+        "csv": {
+          "name": "bg-hayduti_BG.csv",
+          "size": 206275
+        },
+        "xlsx": {
+          "name": "bg-hayduti_BG.xlsx",
+          "size": 65204
         }
       }
     },
