@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-30T02:10:08.282Z",
-  "total_datasets": 450,
-  "total_records": 191524,
+  "generated": "2026-10-30T02:10:14.807Z",
+  "total_datasets": 451,
+  "total_records": 191714,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -4483,6 +4483,30 @@
         "xlsx": {
           "name": "bg-balgarski-vladeteli_BG.xlsx",
           "size": 12418
+        }
+      }
+    },
+    {
+      "id": "bg-megaliti",
+      "name": "Мегалити в България",
+      "category": "history",
+      "record_count": 190,
+      "columns": [
+        "ime",
+        "naseleno_myasto",
+        "oblast"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_мегалитите_в_България",
+      "updated": "2026-10",
+      "size": 30987,
+      "files": {
+        "csv": {
+          "name": "bg-megaliti_BG.csv",
+          "size": 16143
+        },
+        "xlsx": {
+          "name": "bg-megaliti_BG.xlsx",
+          "size": 12904
         }
       }
     },
