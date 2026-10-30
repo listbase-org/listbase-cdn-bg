@@ -1,0 +1,712 @@
+{
+  "id": "bg-asteroidi-svarzani-s-balgariya",
+  "name": "Астероиди, свързани с България",
+  "title": "Астероиди, свързани с България",
+  "description": "Астероиди с имена, свързани с България – номер, име, дата и място на откриване, откриватели и значение на името.",
+  "category": "science",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_астероиди,_свързани_с_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_астероиди,_свързани_с_България",
+  "updated": "2026-10",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "data_na_otkrivane",
+      "label": "Data Na Otkrivane",
+      "type": "string"
+    },
+    {
+      "key": "myasto_na_otkritie",
+      "label": "Myasto Na Otkritie",
+      "type": "string"
+    },
+    {
+      "key": "otkrivateli",
+      "label": "Otkrivateli",
+      "type": "string"
+    },
+    {
+      "key": "znachenie_na_imeto",
+      "label": "Znachenie Na Imeto",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 785,
+      "ime": "Цветана",
+      "data_na_otkrivane": "30 март 1914 г.",
+      "myasto_na_otkritie": "Държавна обсерватория Хайделберг -Кьонигщул",
+      "otkrivateli": "Адам Масингер",
+      "znachenie_na_imeto": "Наречен е на дъщерята Цветана на акад. Кирил Попов , първия българин, изследвал астероиди."
+    },
+    {
+      "nomer": 2575,
+      "ime": "България",
+      "data_na_otkrivane": "4 август 1970 г.",
+      "myasto_na_otkritie": "Кримска астрофизическа обсерватория",
+      "otkrivateli": "Тамара Смирнова",
+      "znachenie_na_imeto": "Наречен е на България."
+    },
+    {
+      "nomer": 2371,
+      "ime": "Димитров",
+      "data_na_otkrivane": "2 ноември 1975 г.",
+      "myasto_na_otkritie": "Кримска астрофизическа обсерватория",
+      "otkrivateli": "Тамара Смирнова",
+      "znachenie_na_imeto": "Наречен е на българския политик Георги Димитров ."
+    },
+    {
+      "nomer": 2206,
+      "ime": "Габрова",
+      "data_na_otkrivane": "1 април 1976 г.",
+      "myasto_na_otkritie": "Кримска астрофизическа обсерватория",
+      "otkrivateli": "Николай Черних",
+      "znachenie_na_imeto": "Открит в Деня на шегата (1 април), е наречен на град Габрово , известен като столица на хумора и сатирата ."
+    },
+    {
+      "nomer": 2530,
+      "ime": "Шипка",
+      "data_na_otkrivane": "9 юли 1978 г.",
+      "myasto_na_otkritie": "Кримска астрофизическа обсерватория",
+      "otkrivateli": "Николай Черних",
+      "znachenie_na_imeto": "Наречен е на връх Шипка в Стара планина в памет на гериочната му отбрана (1877) от български и руски войски през Руско-турската война от 1877 – 1878 г."
+    },
+    {
+      "nomer": 4364,
+      "ime": "Шкодров",
+      "data_na_otkrivane": "7 ноември 1978 г.",
+      "myasto_na_otkritie": "Паломарска обсерватория",
+      "otkrivateli": "Елеонор Хелин Шелте Бъс",
+      "znachenie_na_imeto": "Наречен е на българския астроном проф. Владимир Шкодров ."
+    },
+    {
+      "nomer": 4365,
+      "ime": "Иванова",
+      "data_na_otkrivane": "7 ноември 1978 г.",
+      "myasto_na_otkritie": "Паломарска обсерватория",
+      "otkrivateli": "Елеонор Хелин Шелте Бъс",
+      "znachenie_na_imeto": "Наречен е на българската астрономка доц. Виолета Иванова ."
+    },
+    {
+      "nomer": 3546,
+      "ime": "Атанасов",
+      "data_na_otkrivane": "28 септември 1983 г.",
+      "myasto_na_otkritie": "Национална астрономическа обсерватория на връх Рожен",
+      "otkrivateli": "Елеонор Хелин Владимир Шкодров Ангелина Георгиева Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на математика от български произход Джон Атанасов , създал първия цифров електронен компютър."
+    },
+    {
+      "nomer": 4477,
+      "ime": "Кели",
+      "data_na_otkrivane": "28 септември 1983 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 4891,
+      "ime": "Блага",
+      "data_na_otkrivane": "4 април 1984 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Владимир Шкодров Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на българската поетеса Блага Димитрова ."
+    },
+    {
+      "nomer": 8260,
+      "ime": "Момчева",
+      "data_na_otkrivane": "23 септември 1984 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "",
+      "znachenie_na_imeto": "Наречен е на българската астрономка Ивелина Момчева , известна със своите изследвания върху гравитационните лещи и галактическите клъстъри ."
+    },
+    {
+      "nomer": 14342,
+      "ime": "Иглика",
+      "data_na_otkrivane": "23 септември 1984 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Владимир Шкодров Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на Иглика Манчева , чийто баща Христо Манчев е приятел на откривателите."
+    },
+    {
+      "nomer": 9732,
+      "ime": "Юхновски",
+      "data_na_otkrivane": "24 септември 1984 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Владимир Шкодров Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на българския химик акад. Иван Юхновски ."
+    },
+    {
+      "nomer": 4400,
+      "ime": "Багряна",
+      "data_na_otkrivane": "24 август 1985 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Владимир Шкодров Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на българската поетеса Елисавета Багряна ."
+    },
+    {
+      "nomer": 19957,
+      "ime": "1985 QG4",
+      "data_na_otkrivane": "24 август 1985 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 3952,
+      "ime": "Ръселмарк",
+      "data_na_otkrivane": "14 март 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 13498,
+      "ime": "Ал Чуризми",
+      "data_na_otkrivane": "6 август 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Виолета Иванова",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 22283,
+      "ime": "Питеас",
+      "data_na_otkrivane": "6 август 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Виолета Иванова",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 3860,
+      "ime": "Пловдив",
+      "data_na_otkrivane": "8 август 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на град Пловдив ."
+    },
+    {
+      "nomer": 9936,
+      "ime": "Али-Бируни",
+      "data_na_otkrivane": "8 август 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Виолета Иванова",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 4893,
+      "ime": "Сейтър",
+      "data_na_otkrivane": "9 август 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Виолета Иванова",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 5950,
+      "ime": "Леукипос",
+      "data_na_otkrivane": "9 август 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Виолета Иванова",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 24653,
+      "ime": "1986 RS5",
+      "data_na_otkrivane": "3 септември 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 7079,
+      "ime": "Багдад",
+      "data_na_otkrivane": "5 септември 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на град Багдад ."
+    },
+    {
+      "nomer": 30773,
+      "ime": "Шелд",
+      "data_na_otkrivane": "6 септември 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 4628,
+      "ime": "Лаплас",
+      "data_na_otkrivane": "7 септември 1986 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": "Наречен е на френския математик, астроном и физик Пиер-Симон Лаплас ."
+    },
+    {
+      "nomer": 6123,
+      "ime": "Аристотел",
+      "data_na_otkrivane": "19 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": "Наречен е на древногръцкия учен Аристотел ."
+    },
+    {
+      "nomer": 9020,
+      "ime": "Еукрифиа",
+      "data_na_otkrivane": "19 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 23446,
+      "ime": "1987 SJ2",
+      "data_na_otkrivane": "19 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 3903,
+      "ime": "Климент Охридски",
+      "data_na_otkrivane": "20 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": "Наречен е по повод 100-годишнината от основаването на Софийския университет „Климент Охридски“ на патрона му Климент Охридски ."
+    },
+    {
+      "nomer": 5002,
+      "ime": "Марникс",
+      "data_na_otkrivane": "20 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 6267,
+      "ime": "Рожен",
+      "data_na_otkrivane": "20 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Владимир Шкодров Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на връх Рожен в планината Родопи , край който се намира Националната астрономическа обсерватория на БАН"
+    },
+    {
+      "nomer": 9309,
+      "ime": "Платон",
+      "data_na_otkrivane": "20 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": "Наречен е на древногръцкия учен Платон ."
+    },
+    {
+      "nomer": 26820,
+      "ime": "1987 SR9",
+      "data_na_otkrivane": "20 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 11846,
+      "ime": "Верминнен",
+      "data_na_otkrivane": "21 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 29135,
+      "ime": "1987 SZ2",
+      "data_na_otkrivane": "21 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 30777,
+      "ime": "1987 SB3",
+      "data_na_otkrivane": "21 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 4486,
+      "ime": "Митра",
+      "data_na_otkrivane": "22 септември 1987 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст Владимир Шкодров",
+      "znachenie_na_imeto": "Наречен е на Митра , индо-ирански бог на светлината."
+    },
+    {
+      "nomer": 10059,
+      "ime": "1988 FS2",
+      "data_na_otkrivane": "21 март 1988 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 11852,
+      "ime": "Шумен",
+      "data_na_otkrivane": "10 септември 1988 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Владимир Шкодров Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на град Шумен и на Шуменския университет заради заслугите му в развитието на обучението по астрономия ."
+    },
+    {
+      "nomer": 6636,
+      "ime": "Кинтанар",
+      "data_na_otkrivane": "11 септември 1988 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Владимир Шкодров",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 11856,
+      "ime": "Никола Бонев",
+      "data_na_otkrivane": "11 септември 1988 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Владимир Шкодров Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на българския астроном акад. Никола Бонев ."
+    },
+    {
+      "nomer": 12246,
+      "ime": "Плиска",
+      "data_na_otkrivane": "11 септември 1988 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на град Плиска , столица на Първата българска държава и родно място на откривателката на астероида."
+    },
+    {
+      "nomer": 14839,
+      "ime": "1988 RH8",
+      "data_na_otkrivane": "11 септември 1988 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Владимир Шкодров",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 13930,
+      "ime": "Ташко",
+      "data_na_otkrivane": "12 септември 1988 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на Ташко Вълчев, астроном в НАО Рожен, загинал трагично преди защитата на докторската дисертация."
+    },
+    {
+      "nomer": 4102,
+      "ime": "Гергана",
+      "data_na_otkrivane": "15 октомври 1988 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Виолета Иванова",
+      "znachenie_na_imeto": "Наречен е на племенницата Гергана Гелкова на доц. Виолета Иванова ."
+    },
+    {
+      "nomer": 4583,
+      "ime": "Луго",
+      "data_na_otkrivane": "1 септември 1989 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 18343,
+      "ime": "1989 TN",
+      "data_na_otkrivane": "2 октомври 1989 г.",
+      "myasto_na_otkritie": "НАО Рожен",
+      "otkrivateli": "Ерик Валтер Елст",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 52292,
+      "ime": "Камджалов",
+      "data_na_otkrivane": "10 октомври 1990 г.",
+      "myasto_na_otkritie": "Таутенбърг",
+      "otkrivateli": "Л. Шмадел Ф. Бьорнген",
+      "znachenie_na_imeto": "Наречен е на българския диригент Йордан Камджалов , спечелил множество награди."
+    },
+    {
+      "nomer": 12386,
+      "ime": "Николова",
+      "data_na_otkrivane": "28 октомври 1994 г.",
+      "myasto_na_otkritie": "Национална обсерватория „Кит Пийк“",
+      "otkrivateli": "Spacewatch",
+      "znachenie_na_imeto": "Наречен е на българската астрономка Симона Николова ."
+    },
+    {
+      "nomer": 20363,
+      "ime": "Комитов",
+      "data_na_otkrivane": "18 май 1998 г.",
+      "myasto_na_otkritie": "Станция Андерсон-Меса",
+      "otkrivateli": "LONEOS",
+      "znachenie_na_imeto": "Наречен е на българския астроном доц. Борис Комитов , работил в Института по астрономия към БАН ."
+    },
+    {
+      "nomer": 20366,
+      "ime": "Бонев",
+      "data_na_otkrivane": "23 май 1998 г.",
+      "myasto_na_otkritie": "Станция Андерсон-Меса",
+      "otkrivateli": "LONEOS",
+      "znachenie_na_imeto": "Наречен е на Бончо П. Бонев, доцент в Католическия университет на Америка във Вашингтон , допринесъл за разбирането ни за химията на кометите."
+    },
+    {
+      "nomer": 30053,
+      "ime": "Иван Пасков",
+      "data_na_otkrivane": "9 март 2000 г.",
+      "myasto_na_otkritie": "Socorro",
+      "otkrivateli": "LINEAR",
+      "znachenie_na_imeto": "Наречен е на Иван Пасков, финалист в научния конкурс Intel Science Talent Search през 2014 г."
+    },
+    {
+      "nomer": 31896,
+      "ime": "Гайдаров",
+      "data_na_otkrivane": "30 март 2000 г.",
+      "myasto_na_otkritie": "Socorro",
+      "otkrivateli": "LINEAR",
+      "znachenie_na_imeto": "Наречен е на Петър Гайдаров, на 2-ро място с математически проект в Intel International Science and Engineering Fair, 2015 г."
+    },
+    {
+      "nomer": 30524,
+      "ime": "Мандушев",
+      "data_na_otkrivane": "16 юни 2001 г.",
+      "myasto_na_otkritie": "Станция Андерсон-Меса",
+      "otkrivateli": "LONEOS",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 30593,
+      "ime": "Данговски",
+      "data_na_otkrivane": "16 август 2001 г.",
+      "myasto_na_otkritie": "Socorro",
+      "otkrivateli": "LINEAR",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 368719,
+      "ime": "Аспарух",
+      "data_na_otkrivane": "25 октомври 2005 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": "Наречен е на Аспарух , прабългарски владетел и основател на Първата българска държава ."
+    },
+    {
+      "nomer": 239203,
+      "ime": "Симеон",
+      "data_na_otkrivane": "27 юли 2006 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": "Наречен е на Симеон I , цар на Първата българска държава."
+    },
+    {
+      "nomer": 319519,
+      "ime": "2006 RJ",
+      "data_na_otkrivane": "1 септември 2006 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 204831,
+      "ime": "Левски",
+      "data_na_otkrivane": "14 август 2007 г.",
+      "myasto_na_otkritie": "Обсерватория „Звездно общество“ (IAU A79)",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": "Наречен е на българския революционер Васил Левски ."
+    },
+    {
+      "nomer": 236785,
+      "ime": "Хилендарски",
+      "data_na_otkrivane": "15 август 2007 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": "Наречен е на Паисий Хилендарски , български народен будител и духовник, автор на „ История славянобългарска “."
+    },
+    {
+      "nomer": 343743,
+      "ime": "Кюркчиева",
+      "data_na_otkrivane": "5 септември 2008 г.",
+      "myasto_na_otkritie": "Национална обсерватория „Кит Пийк“",
+      "otkrivateli": "Spacewatch",
+      "znachenie_na_imeto": "Наречен е на българската астрономка проф. дфн Диана Кюркчиева в Шуменския университет ."
+    },
+    {
+      "nomer": 295908,
+      "ime": "2008 WN96",
+      "data_na_otkrivane": "30 ноември 2008 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 225232,
+      "ime": "Кирчева",
+      "data_na_otkrivane": "21 юли 2009 г.",
+      "myasto_na_otkritie": "Обсерватория „Звездно общество“ (IAU A79)",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 274821,
+      "ime": "2009 OW2",
+      "data_na_otkrivane": "21 юли 2009 г.",
+      "myasto_na_otkritie": "",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 225238,
+      "ime": "Христо Ботев",
+      "data_na_otkrivane": "17 август 2009 г.",
+      "myasto_na_otkritie": "Обсерватория „Звездно общество“ (IAU A79)",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": "Наречен е на българския революционер Христо Ботев ."
+    },
+    {
+      "nomer": 375722,
+      "ime": "2009 QK32",
+      "data_na_otkrivane": "25 август 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 264033,
+      "ime": "Борис-Михаил",
+      "data_na_otkrivane": "26 август 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": "Наречен е на Борис I , цар на Първата българска държава."
+    },
+    {
+      "nomer": 321429,
+      "ime": "2009 QL34",
+      "data_na_otkrivane": "26 август 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 225249,
+      "ime": "2009 QT33",
+      "data_na_otkrivane": "26 август 2009 г.",
+      "myasto_na_otkritie": "Обсерватория „Звездно общество“ (IAU A79)",
+      "otkrivateli": "",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 470964,
+      "ime": "2009 QU33",
+      "data_na_otkrivane": "27 август 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 362275,
+      "ime": "2009 QU34",
+      "data_na_otkrivane": "28 август 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 328803,
+      "ime": "2009 VH42",
+      "data_na_otkrivane": "13 ноември 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 279252,
+      "ime": "2009 VU44",
+      "data_na_otkrivane": "14 ноември 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 269548,
+      "ime": "2009 WR",
+      "data_na_otkrivane": "16 ноември 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 425235,
+      "ime": "2009 WZ5",
+      "data_na_otkrivane": "18 ноември 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 432361,
+      "ime": "Раковски",
+      "data_na_otkrivane": "20 ноември 2009 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": "Наречен е на българския революционер и възрожденец Георги Раковски ."
+    },
+    {
+      "nomer": 445308,
+      "ime": "2010 ET20",
+      "data_na_otkrivane": "7 март 2010 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 241558,
+      "ime": "2010 GN33",
+      "data_na_otkrivane": "9 април 2010 г.",
+      "myasto_na_otkritie": "Обсерватория „Звездно общество“ (IAU A79)",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 386820,
+      "ime": "2010 GK33",
+      "data_na_otkrivane": "10 април 2010 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 312718,
+      "ime": "2010 RG44",
+      "data_na_otkrivane": "6 септември 2010 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    },
+    {
+      "nomer": 365603,
+      "ime": "2010 TL174",
+      "data_na_otkrivane": "10 октомври 2010 г.",
+      "myasto_na_otkritie": "IAU A79",
+      "otkrivateli": "Филип Фратев",
+      "znachenie_na_imeto": ""
+    }
+  ],
+  "meta": {
+    "title": "Астероиди, свързани с България - Free Download",
+    "description": "Астероиди с имена, свързани с България – номер, име, дата и място на откриване, откриватели и значение на името. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Астероиди, свързани с България | ListBase",
+    "seo_description": "Download Астероиди, свързани с България — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_астероиди,_свързани_с_България"
+    ]
+  }
+}

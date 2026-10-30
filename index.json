@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-30T02:10:00.292Z",
-  "total_datasets": 449,
-  "total_records": 191442,
+  "generated": "2026-10-30T02:10:08.282Z",
+  "total_datasets": 450,
+  "total_records": 191524,
   "categories": [
     {
       "id": "agriculture",
@@ -67,6 +67,10 @@
     {
       "id": "reference",
       "dataset_count": 174
+    },
+    {
+      "id": "science",
+      "dataset_count": 1
     },
     {
       "id": "society",
@@ -10904,6 +10908,33 @@
         "xlsx": {
           "name": "bg-zooparkove_BG.xlsx",
           "size": 7931
+        }
+      }
+    },
+    {
+      "id": "bg-asteroidi-svarzani-s-balgariya",
+      "name": "Астероиди, свързани с България",
+      "category": "science",
+      "record_count": 82,
+      "columns": [
+        "nomer",
+        "ime",
+        "data_na_otkrivane",
+        "myasto_na_otkritie",
+        "otkrivateli",
+        "znachenie_na_imeto"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_астероиди,_свързани_с_България",
+      "updated": "2026-10",
+      "size": 29467,
+      "files": {
+        "csv": {
+          "name": "bg-asteroidi-svarzani-s-balgariya_BG.csv",
+          "size": 15194
+        },
+        "xlsx": {
+          "name": "bg-asteroidi-svarzani-s-balgariya_BG.xlsx",
+          "size": 12273
         }
       }
     },
