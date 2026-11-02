@@ -1,0 +1,178 @@
+{
+  "id": "bg-pivovarni-i-marki-bira",
+  "name": "Български пивоварни и марки бира",
+  "title": "Български пивоварни и марки бира",
+  "description": "Пивоварните в България и марките бира, които произвеждат – собствени и лицензни, с компанията собственик.",
+  "category": "food",
+  "source": "https://bg.wikipedia.org/wiki/Българска_бира",
+  "source_url": "https://bg.wikipedia.org/wiki/Българска_бира",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "pivovarna",
+      "label": "Pivovarna",
+      "type": "string"
+    },
+    {
+      "key": "sobstvenik",
+      "label": "Sobstvenik",
+      "type": "string"
+    },
+    {
+      "key": "sobstveni_marki",
+      "label": "Sobstveni Marki",
+      "type": "string"
+    },
+    {
+      "key": "litsenzni_marki",
+      "label": "Litsenzni Marki",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "pivovarna": "Загорка АД",
+      "sobstvenik": "Heineken",
+      "sobstveni_marki": "Ариана, Загорка и Столично",
+      "litsenzni_marki": "Амстел и Хайнекен"
+    },
+    {
+      "pivovarna": "Каменица АД",
+      "sobstvenik": "Molson Coors",
+      "sobstveni_marki": "Каменица, Астика, Бургаско и Славена",
+      "litsenzni_marki": "Бекс, Старопрамен, Стела Артоа"
+    },
+    {
+      "pivovarna": "Карлсберг България АД",
+      "sobstvenik": "Carlsberg Group",
+      "sobstveni_marki": "Шуменско и Пиринско",
+      "litsenzni_marki": "Карлсберг, Туборг, Будвайзер Будвар и Холстен"
+    },
+    {
+      "pivovarna": "„Болярка ВТ\" АД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Болярка, Балканско, Диана, Кингс и Швейк",
+      "litsenzni_marki": "Калтенберг"
+    },
+    {
+      "pivovarna": "„Ломско пиво\" АД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Алмус, Мизия, Шопско пиво, Дунавско пиво, Гредберг",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "Леденика България 1964 ЕООД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Леденика",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "Бритос - Велико Търново",
+      "sobstvenik": "",
+      "sobstveni_marki": "Бритос, Бритос Опушена, Бритос Hoppy Blond",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "Пивоварна Метълхед",
+      "sobstvenik": "",
+      "sobstveni_marki": "Metalhead beer",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Агрима\" АД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Струмско пиво",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Бълборг\" АД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Бълборг",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Бритос\" ЕООД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Бритос",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Тримекс – Сервиз\" АД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Кметско пиво",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Пети океан\" ООД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Пети океан",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Микроспектър\" ООД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Галахър",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Белинвест – Трявна\" ООД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Люкс",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Пивоварна 359\" ЕООД",
+      "sobstvenik": "",
+      "sobstveni_marki": "Диво пиво",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Гларус Крафт Брюинг“",
+      "sobstvenik": "",
+      "sobstveni_marki": "Гларус",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Блек Пайн“",
+      "sobstvenik": "",
+      "sobstveni_marki": "Блек Пайн",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Фийл Гууд Брю Ко.“",
+      "sobstvenik": "",
+      "sobstveni_marki": "„Айляк“",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "Сервежариа контемпоръня",
+      "sobstvenik": "",
+      "sobstveni_marki": "EVOÉ BEER",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Бял щърк бирена компания“ АД",
+      "sobstvenik": "",
+      "sobstveni_marki": "",
+      "litsenzni_marki": ""
+    },
+    {
+      "pivovarna": "„Крафт пивоварна Ромбус“",
+      "sobstvenik": "",
+      "sobstveni_marki": "",
+      "litsenzni_marki": ""
+    }
+  ],
+  "meta": {
+    "title": "Български пивоварни и марки бира - Free Download",
+    "description": "Пивоварните в България и марките бира, които произвеждат – собствени и лицензни, с компанията собственик. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Български пивоварни и марки бира | ListBase",
+    "seo_description": "Download Български пивоварни и марки бира — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Българска_бира"
+    ]
+  }
+}

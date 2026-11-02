@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-02T02:18:57.801Z",
-  "total_datasets": 457,
-  "total_records": 192597,
+  "generated": "2026-11-02T02:19:04.946Z",
+  "total_datasets": 458,
+  "total_records": 192619,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "geography",
@@ -2287,6 +2287,31 @@
         "xlsx": {
           "name": "bg-pekarni_BG.xlsx",
           "size": 21787
+        }
+      }
+    },
+    {
+      "id": "bg-pivovarni-i-marki-bira",
+      "name": "Български пивоварни и марки бира",
+      "category": "food",
+      "record_count": 22,
+      "columns": [
+        "pivovarna",
+        "sobstvenik",
+        "sobstveni_marki",
+        "litsenzni_marki"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Българска_бира",
+      "updated": "2026-11",
+      "size": 6063,
+      "files": {
+        "csv": {
+          "name": "bg-pivovarni-i-marki-bira_BG.csv",
+          "size": 1925
+        },
+        "xlsx": {
+          "name": "bg-pivovarni-i-marki-bira_BG.xlsx",
+          "size": 7962
         }
       }
     },
