@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-02T02:19:12.514Z",
-  "total_datasets": 459,
-  "total_records": 192731,
+  "generated": "2026-11-02T02:19:19.620Z",
+  "total_datasets": 460,
+  "total_records": 192739,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -4759,6 +4759,30 @@
         "xlsx": {
           "name": "bg-sadii-konstitutsionen-sad_BG.xlsx",
           "size": 7229
+        }
+      }
+    },
+    {
+      "id": "bg-vidove-sadilishta",
+      "name": "Видове съдилища в България",
+      "category": "law",
+      "record_count": 8,
+      "columns": [
+        "vid_sad",
+        "broy",
+        "kompetentnost"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Съдебна_система_на_България",
+      "updated": "2026-11",
+      "size": 5065,
+      "files": {
+        "csv": {
+          "name": "bg-vidove-sadilishta_BG.csv",
+          "size": 2784
+        },
+        "xlsx": {
+          "name": "bg-vidove-sadilishta_BG.xlsx",
+          "size": 7738
         }
       }
     },
