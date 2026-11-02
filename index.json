@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-02T02:18:51.507Z",
-  "total_datasets": 456,
-  "total_records": 192568,
+  "generated": "2026-11-02T02:18:57.801Z",
+  "total_datasets": 457,
+  "total_records": 192597,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "society",
@@ -11062,6 +11062,29 @@
         "xlsx": {
           "name": "bg-asteroidi-svarzani-s-balgariya_BG.xlsx",
           "size": 12273
+        }
+      }
+    },
+    {
+      "id": "bg-nauchni-otkritiya",
+      "name": "Български научни открития и изобретения",
+      "category": "science",
+      "record_count": 29,
+      "columns": [
+        "oblast",
+        "opisanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Български_научни_открития",
+      "updated": "2026-11",
+      "size": 12622,
+      "files": {
+        "csv": {
+          "name": "bg-nauchni-otkritiya_BG.csv",
+          "size": 9452
+        },
+        "xlsx": {
+          "name": "bg-nauchni-otkritiya_BG.xlsx",
+          "size": 10178
         }
       }
     },
