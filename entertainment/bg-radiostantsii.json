@@ -1,0 +1,601 @@
+{
+  "id": "bg-radiostantsii",
+  "name": "Радиостанции в България",
+  "title": "Радиостанции в България",
+  "description": "Радиостанциите в България – национални програми, национални радиомрежи, регионални станции на БНР, местни радиа по райони и закрити станции.",
+  "category": "entertainment",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_радиостанциите_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_радиостанциите_в_България",
+  "updated": "2026-11",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "radiostantsiya",
+      "label": "Radiostantsiya",
+      "type": "string"
+    },
+    {
+      "key": "grad_ili_pokritie",
+      "label": "Grad Ili Pokritie",
+      "type": "string"
+    },
+    {
+      "key": "grupa",
+      "label": "Grupa",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "radiostantsiya": "Хоризонт на БНР",
+      "grad_ili_pokritie": "",
+      "grupa": "Национални радиопрограми"
+    },
+    {
+      "radiostantsiya": "Христо Ботев на БНР",
+      "grad_ili_pokritie": "",
+      "grupa": "Национални радиопрограми"
+    },
+    {
+      "radiostantsiya": "Дарик радио",
+      "grad_ili_pokritie": "",
+      "grupa": "Национални радиопрограми"
+    },
+    {
+      "radiostantsiya": "Радио 1",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Радио 1 Рок",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Energy",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Радио Нова Нюз",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Bulgaria on Air",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Magic FM",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Вива Рок Радио",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "БГ Радио",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Авторадио (радиостанция)",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Вероника",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Веселина",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Витоша",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Радио Евронюз България",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Радио Сити",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "N-JOY",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Z-Rock",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "City",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "FM+",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Фокус",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Radio Fresh",
+      "grad_ili_pokritie": "",
+      "grupa": "Радиомрежи с национален характер"
+    },
+    {
+      "radiostantsiya": "Радио София",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "Радио Благоевград",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "Радио Бургас",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "Радио Видин",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "Радио Варна",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "Радио Пловдив",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "Радио Стара Загора",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "Радио Шумен",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "Радио България",
+      "grad_ili_pokritie": "",
+      "grupa": "Станции на БНР"
+    },
+    {
+      "radiostantsiya": "The Voice",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "bTV Radio",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "Classic FM",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "Jazz FM",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "К2 (радио)",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "Радио Нова",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "Зорана",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "Дарик Nostalgie",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "Melody",
+      "grad_ili_pokritie": "",
+      "grupa": "София"
+    },
+    {
+      "radiostantsiya": "Радио Благоевград (Българско национално радио)",
+      "grad_ili_pokritie": "",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Ауреа",
+      "grad_ili_pokritie": "Златица",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Вега плюс",
+      "grad_ili_pokritie": "Благоевград и Петрич",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Ултра",
+      "grad_ili_pokritie": "Перник, Благоевград, Кресна, Симитли, Петрич и Сандански",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Кракра",
+      "grad_ili_pokritie": "Перник",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Ритъм плюс",
+      "grad_ili_pokritie": "Кюстендил",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Астра плюс",
+      "grad_ili_pokritie": "Дупница",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Белла",
+      "grad_ili_pokritie": "Петрич и Банско",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Гея",
+      "grad_ili_pokritie": "Сандански",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио В-99",
+      "grad_ili_pokritie": "Гоце Делчев",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Бумеранг",
+      "grad_ili_pokritie": "Разлог (студио в Банско)",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Дъга",
+      "grad_ili_pokritie": "Разлог",
+      "grupa": "Югозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Пловдив (Българско национално радио)",
+      "grad_ili_pokritie": "",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио KATRA FM",
+      "grad_ili_pokritie": "Пловдив",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Алматея",
+      "grad_ili_pokritie": "Пазарджик",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Деж",
+      "grad_ili_pokritie": "Пазарджик",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Пазарджик (Общинска радиостанция)",
+      "grad_ili_pokritie": "",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Метроном",
+      "grad_ili_pokritie": "Хасково",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Вис виталис",
+      "grad_ili_pokritie": "Казанлък",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Девин",
+      "grad_ili_pokritie": "Девин",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Пайнер",
+      "grad_ili_pokritie": "Димитровград",
+      "grupa": "Южен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Мая",
+      "grad_ili_pokritie": "Бургас",
+      "grupa": "Югоизточен район"
+    },
+    {
+      "radiostantsiya": "Радио Нова",
+      "grad_ili_pokritie": "Нова Загора",
+      "grupa": "Югоизточен район"
+    },
+    {
+      "radiostantsiya": "Радио 999",
+      "grad_ili_pokritie": "Ямбол",
+      "grupa": "Югоизточен район"
+    },
+    {
+      "radiostantsiya": "Радио Бургас",
+      "grad_ili_pokritie": "Бургас (Българско национално радио)",
+      "grupa": "Югоизточен район"
+    },
+    {
+      "radiostantsiya": "Радио Стара Загора (Българско национално радио)",
+      "grad_ili_pokritie": "",
+      "grupa": "Югоизточен район"
+    },
+    {
+      "radiostantsiya": "Радио Микс",
+      "grad_ili_pokritie": "Поморие (студио в Бургас)",
+      "grupa": "Югоизточен район"
+    },
+    {
+      "radiostantsiya": "Радио Варна (Българско национално радио)",
+      "grad_ili_pokritie": "",
+      "grupa": "Североизточен район"
+    },
+    {
+      "radiostantsiya": "Радио Шумен (Българско национално радио)",
+      "grad_ili_pokritie": "",
+      "grupa": "Североизточен район"
+    },
+    {
+      "radiostantsiya": "Радио Добруджа",
+      "grad_ili_pokritie": "Добрич",
+      "grupa": "Североизточен район"
+    },
+    {
+      "radiostantsiya": "Форте Радио",
+      "grad_ili_pokritie": "Шумен",
+      "grupa": "Североизточен район"
+    },
+    {
+      "radiostantsiya": "Ново Радио Търговище",
+      "grad_ili_pokritie": "",
+      "grupa": "Североизточен район"
+    },
+    {
+      "radiostantsiya": "Радио Резонанс",
+      "grad_ili_pokritie": "Велико Търново и Свищов (студио в Горна Оряховица)",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Фаворит",
+      "grad_ili_pokritie": "Велико Търново и Ботевград",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Бумеранг",
+      "grad_ili_pokritie": "Габрово",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Севлиево",
+      "grad_ili_pokritie": "",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Арена",
+      "grad_ili_pokritie": "Русе",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Темпо",
+      "grad_ili_pokritie": "Русе",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Шлагер",
+      "grad_ili_pokritie": "Русе",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Мелодия",
+      "grad_ili_pokritie": "Силистра",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Менес",
+      "grad_ili_pokritie": "Силистра",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Рая",
+      "grad_ili_pokritie": "Дулово",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Исперих (общинска радиостанция)",
+      "grad_ili_pokritie": "",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Антола",
+      "grad_ili_pokritie": "Попово",
+      "grupa": "Северен централен район"
+    },
+    {
+      "radiostantsiya": "Радио Видин (Българско национално радио)",
+      "grad_ili_pokritie": "",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Скай",
+      "grad_ili_pokritie": "Видин",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Гама",
+      "grad_ili_pokritie": "Видин",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Силвър",
+      "grad_ili_pokritie": "Враца",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Хот ФМ",
+      "grad_ili_pokritie": "Враца",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Беркк",
+      "grad_ili_pokritie": "Берковица и Монтана",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Враца (Общинска радиостанция)",
+      "grad_ili_pokritie": "",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Елто",
+      "grad_ili_pokritie": "Козлодуй",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Плевен (Общинска радиостанция)",
+      "grad_ili_pokritie": "",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "Радио Зетра",
+      "grad_ili_pokritie": "Ловеч",
+      "grupa": "Северозападен район"
+    },
+    {
+      "radiostantsiya": "RFI Bulgarie (РФИ България)",
+      "grad_ili_pokritie": "излъчва на български и френски език в София (студио в Париж и София)",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "BBC World Service",
+      "grad_ili_pokritie": "излъчва на английски език в София (студио в Лондон)",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Мила",
+      "grad_ili_pokritie": "",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Аура",
+      "grad_ili_pokritie": "Благоевград",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Мила Голд",
+      "grad_ili_pokritie": "",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Dance FM (Денс ФМ)",
+      "grad_ili_pokritie": "Самоков",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио ЧЛК",
+      "grad_ili_pokritie": "Велинград",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Трели",
+      "grad_ili_pokritie": "Стара Загора",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Екстаз",
+      "grad_ili_pokritie": "Стара Загора",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Макс ФМ",
+      "grad_ili_pokritie": "Разград",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Вива Хит",
+      "grad_ili_pokritie": "Троян",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Бъдин",
+      "grad_ili_pokritie": "Видин",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Ведерник",
+      "grad_ili_pokritie": "Белоградчик (студио във Видин)",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Етно Радио",
+      "grad_ili_pokritie": "Монтана",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Чан",
+      "grad_ili_pokritie": "Смолян",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Star FM",
+      "grad_ili_pokritie": "",
+      "grupa": "Закрити радиостанции"
+    },
+    {
+      "radiostantsiya": "Радио Браво",
+      "grad_ili_pokritie": "Варна, Шумен, Бургас, Несебър, Царево",
+      "grupa": "Закрити радиостанции"
+    }
+  ],
+  "meta": {
+    "title": "Радиостанции в България - Free Download",
+    "description": "Радиостанциите в България – национални програми, национални радиомрежи, регионални станции на БНР, местни радиа по райони и закрити станции. Contains 112 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Радиостанции в България | ListBase",
+    "seo_description": "Download Радиостанции в България — 112 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 112 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_радиостанциите_в_България"
+    ]
+  }
+}

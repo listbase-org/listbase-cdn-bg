@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-02T02:19:04.946Z",
-  "total_datasets": 458,
-  "total_records": 192619,
+  "generated": "2026-11-02T02:19:12.514Z",
+  "total_datasets": 459,
+  "total_records": 192731,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "environment",
@@ -1713,6 +1713,30 @@
         "xlsx": {
           "name": "bg-balgarski-seriali_BG.xlsx",
           "size": 14073
+        }
+      }
+    },
+    {
+      "id": "bg-radiostantsii",
+      "name": "Радиостанции в България",
+      "category": "entertainment",
+      "record_count": 112,
+      "columns": [
+        "radiostantsiya",
+        "grad_ili_pokritie",
+        "grupa"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_радиостанциите_в_България",
+      "updated": "2026-11",
+      "size": 20671,
+      "files": {
+        "csv": {
+          "name": "bg-radiostantsii_BG.csv",
+          "size": 9682
+        },
+        "xlsx": {
+          "name": "bg-radiostantsii_BG.xlsx",
+          "size": 10001
         }
       }
     },
