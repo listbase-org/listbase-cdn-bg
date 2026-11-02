@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-10-30T02:10:36.526Z",
-  "total_datasets": 454,
-  "total_records": 192495,
+  "generated": "2026-11-02T02:18:45.016Z",
+  "total_datasets": 455,
+  "total_records": 192553,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -4586,6 +4586,30 @@
         "xlsx": {
           "name": "bg-trakiyski-grobnitsi_BG.xlsx",
           "size": 9026
+        }
+      }
+    },
+    {
+      "id": "bg-ezikovedi",
+      "name": "Български езиковеди",
+      "category": "language",
+      "record_count": 58,
+      "columns": [
+        "ezikoved",
+        "oblast_na_izsledvane",
+        "zvanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_с_български_езиковеди",
+      "updated": "2026-11",
+      "size": 12606,
+      "files": {
+        "csv": {
+          "name": "bg-ezikovedi_BG.csv",
+          "size": 6210
+        },
+        "xlsx": {
+          "name": "bg-ezikovedi_BG.xlsx",
+          "size": 8987
         }
       }
     },
