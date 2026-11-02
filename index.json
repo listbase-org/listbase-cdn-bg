@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-02T02:18:45.016Z",
-  "total_datasets": 455,
-  "total_records": 192553,
+  "generated": "2026-11-02T02:18:51.507Z",
+  "total_datasets": 456,
+  "total_records": 192568,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -11370,6 +11370,30 @@
         "xlsx": {
           "name": "bg-biblioteki_BG.xlsx",
           "size": 9570
+        }
+      }
+    },
+    {
+      "id": "bg-kompyutri-pravets-modeli",
+      "name": "Модели компютри „Правец“",
+      "category": "tech",
+      "record_count": 15,
+      "columns": [
+        "model",
+        "arhitektura",
+        "opisanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Правец_(компютри)",
+      "updated": "2026-11",
+      "size": 13455,
+      "files": {
+        "csv": {
+          "name": "bg-kompyutri-pravets-modeli_BG.csv",
+          "size": 10654
+        },
+        "xlsx": {
+          "name": "bg-kompyutri-pravets-modeli_BG.xlsx",
+          "size": 10330
         }
       }
     },
