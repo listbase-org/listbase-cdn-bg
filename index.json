@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-02T02:19:19.620Z",
-  "total_datasets": 460,
-  "total_records": 192739,
+  "generated": "2026-11-03T02:12:42.478Z",
+  "total_datasets": 461,
+  "total_records": 192789,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -4388,6 +4388,32 @@
         "xlsx": {
           "name": "bg-zhelezopatni-gari_BG.xlsx",
           "size": 28524
+        }
+      }
+    },
+    {
+      "id": "bg-balneologichni-kurorti",
+      "name": "Балнеологични курорти в България",
+      "category": "health",
+      "record_count": 50,
+      "columns": [
+        "grad",
+        "oblast",
+        "temperatura_i_debit",
+        "mineralen_sastav",
+        "lechenie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_балнеологични_курорти_в_България",
+      "updated": "2026-11",
+      "size": 36812,
+      "files": {
+        "csv": {
+          "name": "bg-balneologichni-kurorti_BG.csv",
+          "size": 28632
+        },
+        "xlsx": {
+          "name": "bg-balneologichni-kurorti_BG.xlsx",
+          "size": 13393
         }
       }
     },
