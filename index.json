@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-03T02:13:05.191Z",
-  "total_datasets": 464,
-  "total_records": 194140,
+  "generated": "2026-11-03T02:13:12.210Z",
+  "total_datasets": 465,
+  "total_records": 194339,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "economy",
@@ -451,6 +451,29 @@
         "xlsx": {
           "name": "bg-obekti-na-svetovnoto-nasledstvo-unesco_BG.xlsx",
           "size": 10238
+        }
+      }
+    },
+    {
+      "id": "bg-pravoslavni-svettsi",
+      "name": "Български православни светци",
+      "category": "culture",
+      "record_count": 199,
+      "columns": [
+        "ime",
+        "opisanie_i_pamet"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_българските_православни_светци",
+      "updated": "2026-11",
+      "size": 30892,
+      "files": {
+        "csv": {
+          "name": "bg-pravoslavni-svettsi_BG.csv",
+          "size": 18514
+        },
+        "xlsx": {
+          "name": "bg-pravoslavni-svettsi_BG.xlsx",
+          "size": 14663
         }
       }
     },
