@@ -1,0 +1,6616 @@
+{
+  "id": "bg-chervena-kniga-vidove",
+  "name": "Видове в Червената книга на Република България",
+  "title": "Видове в Червената книга на Република България",
+  "description": "Списък на растенията, гъбите и животните, включени в Червената книга на Република България, с латинско наименование и категория на застрашеност (CR, EN, VU, RE и др.).",
+  "category": "environment",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_видовете_в_Червената_книга_на_Република_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_видовете_в_Червената_книга_на_Република_България",
+  "updated": "2026-11",
+  "record_count": 1095,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "latinsko_ime",
+      "label": "Latinsko Ime",
+      "type": "string"
+    },
+    {
+      "key": "grupa",
+      "label": "Grupa",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Австрийски плеуроспермум",
+      "latinsko_ime": "Pleurospermum austriacum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Азиатска каменоломка",
+      "latinsko_ime": "Saxifraga mollis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Азиатска мишовка",
+      "latinsko_ime": "Minuartia mesogitana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Азиатска песъчарка",
+      "latinsko_ime": "Arenaria gypsophiloides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Айтоски клин",
+      "latinsko_ime": "Astracantha arnacantha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Албански крем",
+      "latinsko_ime": "Lilium albanicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Алдрованда",
+      "latinsko_ime": "Aldrovanda vesiculosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Алепска млечка",
+      "latinsko_ime": "Euphorbia aleppica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алиботушка боянка",
+      "latinsko_ime": "Erysimum slavjankae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алоевиден стратиотес",
+      "latinsko_ime": "Stratiotes aloides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Алпийска мантийка",
+      "latinsko_ime": "Petrorhagia alpina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алпийска телчарка",
+      "latinsko_ime": "Polygala alpestris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алпийска чашка",
+      "latinsko_ime": "Microstoma protractum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алпийски зърнастец",
+      "latinsko_ime": "Rhamnus alpinus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алпийски корал",
+      "latinsko_ime": "Hericium flagellum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алпийски пелин",
+      "latinsko_ime": "Artemisia eriantha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алпийско плюскавиче",
+      "latinsko_ime": "Silene vulgaris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Алпийско притцелаго",
+      "latinsko_ime": "Pritzelago alpina subsp. brevicaulis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алпийско сграбиче",
+      "latinsko_ime": "Astragalus alopecurus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Алпийско секирче",
+      "latinsko_ime": "Lathyrus alpestris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Аметистова гълъбка",
+      "latinsko_ime": "Russula amethystina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Анасонов лопен",
+      "latinsko_ime": "Verbascum anisophyllum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Андерсонов инонотус",
+      "latinsko_ime": "Inonotus andersonii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Андрахне",
+      "latinsko_ime": "Andrachne telephioides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Арабска етионема",
+      "latinsko_ime": "Aethionema arabicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ароматен хиднелум",
+      "latinsko_ime": "Hydnellum suaveolens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ароматна матиола",
+      "latinsko_ime": "Matthiola odoratissima",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Архангелиев лазерпициум",
+      "latinsko_ime": "Laserpitium archangelica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Арчеров клатрус",
+      "latinsko_ime": "Clathrus archeri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Атинска мерендера",
+      "latinsko_ime": "Merendera attica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ахтарова метличина",
+      "latinsko_ime": "Cyanus achtarovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ахтарово шапиче",
+      "latinsko_ime": "Alchemilla achtarowii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Багрилна звъника",
+      "latinsko_ime": "Hypericum androsaemum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Балкански вечерник",
+      "latinsko_ime": "Hesperis theophrasti",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Балкански ранилист",
+      "latinsko_ime": "Betonica haussknechtii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Балкански цялолист",
+      "latinsko_ime": "Haplophyllum balcanicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Балкански шпорец",
+      "latinsko_ime": "Delphinium balcanicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Балканско часовниче",
+      "latinsko_ime": "Erodium absinthoides subsp. balcanicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Балканско шапиче",
+      "latinsko_ime": "Alchemilla catachnoa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Баумгартеново великденче",
+      "latinsko_ime": "Veronica baumgartenii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Безлистна перуника",
+      "latinsko_ime": "Iris aphylla",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Безстъблена тинтява",
+      "latinsko_ime": "Gentiana acaulis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Безстъблов клин",
+      "latinsko_ime": "Astragalus exscapus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Белардиева кобрезия",
+      "latinsko_ime": "Kobresia myosuroides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Белевалия",
+      "latinsko_ime": "Bellevalia sarmatica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Беловлакнест равнец",
+      "latinsko_ime": "Achillea chrysocoma",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Белоградчишка рунянка",
+      "latinsko_ime": "Hieracium belogradcense",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Белоезичест чистец",
+      "latinsko_ime": "Stachys leucoglossa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Белоцветен шпорец",
+      "latinsko_ime": "Delphinium albiflorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Бесарабско глухарче",
+      "latinsko_ime": "Taraxacum bessarabicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Бесерова змийска трева",
+      "latinsko_ime": "Goniolimon besseranum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Битинска дрипавка",
+      "latinsko_ime": "Crepis bithynica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Битински синчец",
+      "latinsko_ime": "Scilla bithynica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Битинско глухарче",
+      "latinsko_ime": "Taraxacum bithynicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Благаево бясно дърво",
+      "latinsko_ime": "Daphne blagayana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Блатен дремник",
+      "latinsko_ime": "Epipactis palustris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Блатен кострец",
+      "latinsko_ime": "Sonchus palustris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Блатен плаун",
+      "latinsko_ime": "Lycopodiella inundata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Блатен спореж",
+      "latinsko_ime": "Senecio paludosus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Блатна митрула",
+      "latinsko_ime": "Mitrula paludosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Блатна перушина",
+      "latinsko_ime": "Hottonia palustris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Блатна самодивска трева",
+      "latinsko_ime": "Peucedanum palustre",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Блатна теменуга",
+      "latinsko_ime": "Viola palustris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Блатна хамарбия",
+      "latinsko_ime": "Hammarbya paludosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Блатно пропадниче",
+      "latinsko_ime": "Pedicularis palustris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Блатно секирче",
+      "latinsko_ime": "Lathyrus palustris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Бледоохрена рутщрьомия",
+      "latinsko_ime": "Rutstroemia calopus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Бледоцветен карамфил",
+      "latinsko_ime": "Dianthus pallidiflorus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Блестящ напръстник",
+      "latinsko_ime": "Digitalis laevigata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Блестящо лале",
+      "latinsko_ime": "Tulipa splendens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Боасиерова звъника",
+      "latinsko_ime": "Hypericum boissieri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Бодлив миск",
+      "latinsko_ime": "Jurinea tzar-ferdinandii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Бодлив паленис",
+      "latinsko_ime": "Pallenis spinosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Бодлив страшник",
+      "latinsko_ime": "Acanthus spinosus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Бодлива меластиза",
+      "latinsko_ime": "Melastiza cornubiensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Бодливолистен джел",
+      "latinsko_ime": "Ilex aquifolium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Борзеанов игловръх",
+      "latinsko_ime": "Alyssum borzaeanum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Борисово подрумиче",
+      "latinsko_ime": "Anthemis regis-borisii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Бохемски здравец",
+      "latinsko_ime": "Geranium bohemicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Бохусова печурка",
+      "latinsko_ime": "Agaricus bohusii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Брястов инонотус",
+      "latinsko_ime": "Inonotus ulmicola",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Булка гъба",
+      "latinsko_ime": "Amanita caesarea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Буниум",
+      "latinsko_ime": "Bunium ferulaceum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Българска ауриния",
+      "latinsko_ime": "Aurinia uechtritziana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Българска гърлица",
+      "latinsko_ime": "Limonium bulgaricum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Българска паламида",
+      "latinsko_ime": "Cirsium bulgaricum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Българска тимелея",
+      "latinsko_ime": "Thymelaea bulgarica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Български ерантис",
+      "latinsko_ime": "Eranthis bulgaricus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Български жълт хедизарум",
+      "latinsko_ime": "Hedysarum grandiflorum subsp. bulgaricum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Български опопанакс",
+      "latinsko_ime": "Opopanax chironium subsp. bulgaricum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Български ранилист",
+      "latinsko_ime": "Betonica bulgarica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Български скален копър",
+      "latinsko_ime": "Seseli bulgaricum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Български сърпец",
+      "latinsko_ime": "Serratula bulgarica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Бъндерицово шапиче",
+      "latinsko_ime": "Alchemilla bandericensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Бюлярдов паяжинник",
+      "latinsko_ime": "Cortinarius bulliardii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Бялоопасана неотиелла",
+      "latinsko_ime": "Neottiella albocincta",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Вагеницова метличина",
+      "latinsko_ime": "Centaurea wagenitziana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Вайлантова антродия",
+      "latinsko_ime": "Antrodia vaillantii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Варненски пирей",
+      "latinsko_ime": "Elymus varnensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Вебиев див бадем",
+      "latinsko_ime": "Amygdalus delipavlovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Веленовскиево еньовче",
+      "latinsko_ime": "Galium velenovskyi",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Великолепна манатарка",
+      "latinsko_ime": "Boletus permagnificus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Величествена осмунда",
+      "latinsko_ime": "Osmunda regalis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Велчево плюскавиче",
+      "latinsko_ime": "Silene velcevii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Венерин косъм",
+      "latinsko_ime": "Adiantum capillus-veneris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Венерина обувка",
+      "latinsko_ime": "Cypripedium calceolus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Византийско червеноглавче",
+      "latinsko_ime": "Knautia byzantina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Вилмотианов клин",
+      "latinsko_ime": "Astragalus wilmottianus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Винчелистен лопен",
+      "latinsko_ime": "Verbascum bugulifolium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Виолетов паяжинник",
+      "latinsko_ime": "Cortinarius violaceus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Виолетова звезданка",
+      "latinsko_ime": "Sarcosphaera coronaria",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Виолетова кегла",
+      "latinsko_ime": "Ombrophila violacea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Виолетова тръбенка",
+      "latinsko_ime": "Gomphus clavatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Вкореняваща се орешарка",
+      "latinsko_ime": "Clitocybe vermicularis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Влагалищна власатка",
+      "latinsko_ime": "Festuca vaginata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Влакнест скорпиурус",
+      "latinsko_ime": "Scorpiurus subvillosus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Влакнеста басия",
+      "latinsko_ime": "Bassia hirsuta",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Влакнеста жълтуга",
+      "latinsko_ime": "Genista pilosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Воден орех",
+      "latinsko_ime": "Trapa natans",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Водна детелина",
+      "latinsko_ime": "Menyanthes trifoliata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Водна лилия",
+      "latinsko_ime": "Nymphaea alba",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Волска метличина",
+      "latinsko_ime": "Centaurea bovina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Вонящо обичниче",
+      "latinsko_ime": "Thalictrum foetidum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Восъчна черешова гъба",
+      "latinsko_ime": "Hygrocybe ceracea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Врязанолистна върба",
+      "latinsko_ime": "Salix retusa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Врязанолистно шапиче",
+      "latinsko_ime": "Alchemilla fissa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Възлестоцветна целина",
+      "latinsko_ime": "Apium nodiflorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Вълнест миризлив бурен",
+      "latinsko_ime": "Sideritis lanata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Вълнеста камбанка",
+      "latinsko_ime": "Campanula lanata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Вълнеста козя брада",
+      "latinsko_ime": "Tragopogon floccosus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Вълнеста рунянка",
+      "latinsko_ime": "Hieracium villosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Вълнестоцветен клин",
+      "latinsko_ime": "Astragalus dasyanthus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Върболистен тъжник",
+      "latinsko_ime": "Spiraea salicifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Габърова манатарка",
+      "latinsko_ime": "Boletus depilatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гарванова градония",
+      "latinsko_ime": "Graddonia coracina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Германска наумка",
+      "latinsko_ime": "Cynoglossum germanicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гигантска дипленка",
+      "latinsko_ime": "Gyromitra gigas",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Глухарчевидна жълтица",
+      "latinsko_ime": "Leontodon saxatilis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гмелинова гърлица",
+      "latinsko_ime": "Limonium gmelini",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гол сладник",
+      "latinsko_ime": "Glycyrrhiza glabra",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гола копривка",
+      "latinsko_ime": "Celtis glabrata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гола кумарка",
+      "latinsko_ime": "Arbutus andrachne",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Голяма есенна гъба",
+      "latinsko_ime": "Tricholoma colossus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Горчива есенна гъба",
+      "latinsko_ime": "Tricholoma acerbum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Горчива рогачка",
+      "latinsko_ime": "Sarcodon leucopus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Горчива телчарка",
+      "latinsko_ime": "Polygala amarella",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Горчивчева рейхардия",
+      "latinsko_ime": "Reichardia picroides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Гризебахова кутявка",
+      "latinsko_ime": "Moehringia grisebachii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гризебахова теменуга",
+      "latinsko_ime": "Viola grisebachiana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гризебахово великденче",
+      "latinsko_ime": "Veronica grisebachii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Грудеста жълтица",
+      "latinsko_ime": "Leontodon tuberosus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Грудеста тръстичина",
+      "latinsko_ime": "Phalaris aquatica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Грудков здравец",
+      "latinsko_ime": "Geranium tuberosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гръцко плюскавиче",
+      "latinsko_ime": "Silene graeca",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гъст ръждавец",
+      "latinsko_ime": "Groenlandia densa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Гъстоцветен пирей",
+      "latinsko_ime": "Elymus pycnanthus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Давидов лопен",
+      "latinsko_ime": "Verbascum davidoffii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Давидов мразовец",
+      "latinsko_ime": "Colchicum davidovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Давидово винче",
+      "latinsko_ime": "Anchusa davidovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Далматинска змийска трева",
+      "latinsko_ime": "Goniolimon dalmaticum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Двувърха алеурия",
+      "latinsko_ime": "Aleuria bicuculata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Двуцветна саусурея",
+      "latinsko_ime": "Saussurea discolor",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дебелолист",
+      "latinsko_ime": "Crassula tillaea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дебърски бъз",
+      "latinsko_ime": "Sambucus deborensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дегенов скален копър",
+      "latinsko_ime": "Seseli degenii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Декоративен лопен",
+      "latinsko_ime": "Verbascum decorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Демидов пирофомес",
+      "latinsko_ime": "Pyrofomes demidoffii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Джованелиев клитопилус",
+      "latinsko_ime": "Clitopilus giovanellae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Диекианов лопен",
+      "latinsko_ime": "Verbascum dieckianum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Динарско червеноглавче",
+      "latinsko_ime": "Knautia dinarica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дисковидна бучка",
+      "latinsko_ime": "Helvella pezizoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дисковидна дилянка",
+      "latinsko_ime": "Valeriana dioscoridis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Добруджански овес",
+      "latinsko_ime": "Avena eriantha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Добруджанско коило",
+      "latinsko_ime": "Stipa lessingiana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Донкиопория",
+      "latinsko_ime": "Donkioporia expansa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Драконче",
+      "latinsko_ime": "Dracocephalum thymiflorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Дребнолюспеста млечница",
+      "latinsko_ime": "Lactarius spinosulus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дребна камбанка",
+      "latinsko_ime": "Campanula cochlearifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дребна мехурка",
+      "latinsko_ime": "Utricularia minor",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дребна теменуга",
+      "latinsko_ime": "Viola parvula",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дребно еньовче",
+      "latinsko_ime": "Galium demisum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дребнолистен глог",
+      "latinsko_ime": "Crataegus microphylla",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дребнолюспеста печурка",
+      "latinsko_ime": "Agaricus squamulifer",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дребноплоден горицвет",
+      "latinsko_ime": "Adonis microcarpa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дребноцветен кокеш",
+      "latinsko_ime": "Scorzonera parviflora",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дребноцветен лопен",
+      "latinsko_ime": "Verbascum minutiflorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дребноцветна горва",
+      "latinsko_ime": "Cardamine parviflora",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Дремников главопрашник",
+      "latinsko_ime": "Cephalanthera epipactoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дреновскиев карамфил",
+      "latinsko_ime": "Dianthus drenowskyanus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дряновска ведрица",
+      "latinsko_ime": "Fritillaria drenovskii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дългогрудеста метличина",
+      "latinsko_ime": "Cyanus pseudoaxillaris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дълголиста урока",
+      "latinsko_ime": "Bupleurum longifolium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дългопънчеста печурка",
+      "latinsko_ime": "Agaricus altipes",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дългостълбчесто винче",
+      "latinsko_ime": "Anchusa stylosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дългошпореста теменуга",
+      "latinsko_ime": "Viola delphinantha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дърворазрушаваща манатарка",
+      "latinsko_ime": "Buchwaldoboletus lignicola",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дълговлакнеста теменуга",
+      "latinsko_ime": "Viola crinita",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дьорфлеров мразовец",
+      "latinsko_ime": "Colchicum doerfleri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дяволска манатарка",
+      "latinsko_ime": "Boletus satanas",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Евксинска камбанка",
+      "latinsko_ime": "Campanula euxina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Егейско еньовче",
+      "latinsko_ime": "Galium aegeum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Еделвайс",
+      "latinsko_ime": "Leontopodium alpinum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едногрудков херминиум",
+      "latinsko_ime": "Herminium monorchis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Едножилков лен",
+      "latinsko_ime": "Linum uninerve",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едностранна вулпия",
+      "latinsko_ime": "Vulpia unilateralis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едноцветна скална подкова",
+      "latinsko_ime": "Hippocrepis unisiliquosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едрокласа овсига",
+      "latinsko_ime": "Bromus lanceolatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Едрокошничесто подрумиче",
+      "latinsko_ime": "Anthemis macrantha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едроплоден хрян",
+      "latinsko_ime": "Armoracia macrocarpa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едроплодна печурка",
+      "latinsko_ime": "Agaricus macrocarpus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едростълбчест здравец",
+      "latinsko_ime": "Geranium macrostylum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едроцветно секирче",
+      "latinsko_ime": "Lathyrus grandiflorus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Едър анасон",
+      "latinsko_ime": "Pimpinella major",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Езерен шилолист",
+      "latinsko_ime": "Isoetes lacustris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Елвезиево кокиче",
+      "latinsko_ime": "Galanthus elwesii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Елиптичнолистен оман",
+      "latinsko_ime": "Inula spiraeifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Емилипопово прозорче",
+      "latinsko_ime": "Potentilla emili-popii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ехинофора",
+      "latinsko_ime": "Echinophora sibthorpiana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Жилковиден дисциотис",
+      "latinsko_ime": "Disciotis venosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Жлезист лопен",
+      "latinsko_ime": "Verbascum purpureum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Жлезиста кумарка",
+      "latinsko_ime": "Arbutus unedo",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Жълт коренов трюфел",
+      "latinsko_ime": "Hymenogaster luteus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Жълта водна роза",
+      "latinsko_ime": "Nuphar lutea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Жълта каменоломка",
+      "latinsko_ime": "Saxifraga aizoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Жълта тинтява",
+      "latinsko_ime": "Gentiana lutea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Жълтеникаво шапиче",
+      "latinsko_ime": "Alchemilla straminea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Жълто-бяла дисцина",
+      "latinsko_ime": "Discina leucoxantha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Звездолен",
+      "latinsko_ime": "Asterolinon linum-stellatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Звездоспорова октавиания",
+      "latinsko_ime": "Octaviania asterosperma",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Звездоцветно шапиче",
+      "latinsko_ime": "Alchemilla asteroantha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Зеленикаво плюскавиче",
+      "latinsko_ime": "Silene chlorantha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Зелчеста гъба",
+      "latinsko_ime": "Sparassis crispa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Златиста арахнопезиза",
+      "latinsko_ime": "Arachnopeziza aurelia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Златисто лале",
+      "latinsko_ime": "Tulipa aureolina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Златистотръбеста манатарка",
+      "latinsko_ime": "Aureoboletus gentilis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Златовръх",
+      "latinsko_ime": "Rhodiola rosea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Зъбчата урока",
+      "latinsko_ime": "Bupleurum odontites",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Зърнастецов ракитник",
+      "latinsko_ime": "Hippophae rhamnoides caucasica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Зърнест червенокафяв трюфел",
+      "latinsko_ime": "Elaphomyces granulatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ивичест коренов трюфел",
+      "latinsko_ime": "Hymenogaster verrucosus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ивичест хигрофорус",
+      "latinsko_ime": "Hygrophorus arbustivus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Игловиден корал",
+      "latinsko_ime": "Hericium erinaceus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Извит парафолис",
+      "latinsko_ime": "Parapholis incurva",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Извитожилковиден бял трюфел",
+      "latinsko_ime": "Choiromyces maeandriformis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Изменчива антродия",
+      "latinsko_ime": "Antrodia heteromorpha",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Изменчива мъдрица",
+      "latinsko_ime": "Sisymbrium polymorphum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Изрязанолистна глушина",
+      "latinsko_ime": "Vicia incisa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Източен миск",
+      "latinsko_ime": "Jurinea ledebourii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Източна тамянка",
+      "latinsko_ime": "Ferula orientalis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Източна челебитка",
+      "latinsko_ime": "Nigella orientalis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Имануелова метличина",
+      "latinsko_ime": "Centaurea immanuelis-loewii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Истинска горчивка",
+      "latinsko_ime": "Gentianella amarella",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Йорданова айважива",
+      "latinsko_ime": "Alkanna jordanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Йорданова камбанка",
+      "latinsko_ime": "Campanula jordanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Йорданова ливадина",
+      "latinsko_ime": "Poa jordanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Йорданово подрумиче",
+      "latinsko_ime": "Anthemis jordanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Кавказка детелина",
+      "latinsko_ime": "Trifolium spumosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Кавказка манатарка",
+      "latinsko_ime": "Boletus caucasicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Казашка хвойна",
+      "latinsko_ime": "Juniperus sabina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кайсиевоцветна манатарка",
+      "latinsko_ime": "Boletus armeniacus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Калабрийски бор",
+      "latinsko_ime": "Pinus brutia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Калиакренско плюскавиче",
+      "latinsko_ime": "Silene caliacrae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Калописиев дланокоренник",
+      "latinsko_ime": "Dactylorhiza kalopissii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Калъфкостъблена тулостома",
+      "latinsko_ime": "Tulostoma volvulatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Каринтийска рупа",
+      "latinsko_ime": "Draba siliquosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Карниолска блатница",
+      "latinsko_ime": "Eleocharis carniolica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Карниолска телчарка",
+      "latinsko_ime": "Polygala carniolica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Карпатска тоция",
+      "latinsko_ime": "Tozzia alpina subsp. carpathica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Карстова люцерна",
+      "latinsko_ime": "Medicago carstiensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Картъловиден карамфил",
+      "latinsko_ime": "Dianthus nardiformis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Катерлива ефедра",
+      "latinsko_ime": "Ephedra fragilis subsp. campylopoda",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Качулесто диво жито",
+      "latinsko_ime": "Aegilops comosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Келереров центрантус",
+      "latinsko_ime": "Centranthus kellereri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Кернерова метличина",
+      "latinsko_ime": "Centaurea kernerana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кестен",
+      "latinsko_ime": "Castanea sativa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кипарисова пития",
+      "latinsko_ime": "Pithya cupressina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Киттанова рунянка",
+      "latinsko_ime": "Hieracium kittaniae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кичест блатняк",
+      "latinsko_ime": "Caltha polypetala",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кладенчово лютиче",
+      "latinsko_ime": "Ranunculus fontanus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кладованов карамфил",
+      "latinsko_ime": "Dianthus pontederae subsp. kladovanus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Клинолистен див тютюн",
+      "latinsko_ime": "Ligularia glauca",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Клубеновидна печурка",
+      "latinsko_ime": "Agaricus essettei",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ковачев зановец",
+      "latinsko_ime": "Chamaecytisus kovacevii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кожухаров окситропис",
+      "latinsko_ime": "Oxytropis kozuharovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Кози крак",
+      "latinsko_ime": "Albatrellus pes-caprae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Колхидски джел",
+      "latinsko_ime": "Ilex colchica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Конски кестен",
+      "latinsko_ime": "Aesculus hippocastanum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Конусовидна верпа",
+      "latinsko_ime": "Verpa conica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Копъровиден тургениопсис",
+      "latinsko_ime": "Turgeniopsis foeniculacea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Коренолюбив полипорус",
+      "latinsko_ime": "Polyporus rhizophilus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Короноплодна люцерна",
+      "latinsko_ime": "Medicago coronata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Костова тлъстига",
+      "latinsko_ime": "Sedum kostovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Кочиев равнец",
+      "latinsko_ime": "Achillea kotschyi",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Крайбрежен елуропус",
+      "latinsko_ime": "Aeluropus littoralis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Крайбрежна люцерна",
+      "latinsko_ime": "Medicago littoralis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Крайморски отантус",
+      "latinsko_ime": "Otanthus maritimus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Крайморски ранилист",
+      "latinsko_ime": "Stachys maritima",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Крайморско чадърче",
+      "latinsko_ime": "Calystegia soldanella",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Красиволистна попова лъжичка",
+      "latinsko_ime": "Thlaspi bellidifolium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Креса",
+      "latinsko_ime": "Cressa cretica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Крилата паламида",
+      "latinsko_ime": "Cirsium alatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кримска какула",
+      "latinsko_ime": "Salvia scabiosifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Кримско зарасличе",
+      "latinsko_ime": "Symphytum tauricum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Критска песъчарка",
+      "latinsko_ime": "Arenaria cretica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Критски ветрогон",
+      "latinsko_ime": "Eryngium creticum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кръглолистна вълча ябълка",
+      "latinsko_ime": "Aristolochia rotunda",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ксантийска върба",
+      "latinsko_ime": "Salix xanthicola",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Кучешки мутинус",
+      "latinsko_ime": "Mutinus caninus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Къдрава горчивка",
+      "latinsko_ime": "Gentianella crispata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Кълбеста детелина",
+      "latinsko_ime": "Trifolium globosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кълбовидна ботриотиния",
+      "latinsko_ime": "Botryotinia globosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кълбоплодна люцерна",
+      "latinsko_ime": "Medicago constricta",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кълбосеменно лютиче",
+      "latinsko_ime": "Ranunculus sphaerospermus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Кървавочервена манатарка",
+      "latinsko_ime": "Boletus dupainii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Късна лойдия",
+      "latinsko_ime": "Lloydia serotina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Късовлакнест трюфел",
+      "latinsko_ime": "Tuber puberulum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Късозъба детелина",
+      "latinsko_ime": "Trifolium squamosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Късолистна луличка",
+      "latinsko_ime": "Linaria brachyphylla",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Лаврово бясно дърво",
+      "latinsko_ime": "Daphne laureola",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Лагуров лопен",
+      "latinsko_ime": "Verbascum lagurus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Лайколистна лунна папрат",
+      "latinsko_ime": "Botrychium matricariifolium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ленолистно секирче",
+      "latinsko_ime": "Lathyrus linifolius",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Лепкава гълъбка",
+      "latinsko_ime": "Russula viscida",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Лепкава лимацела",
+      "latinsko_ime": "Limacella glioderma",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Лепкаво земно езиче",
+      "latinsko_ime": "Geoglossum glutinosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Летен трюфел",
+      "latinsko_ime": "Tuber aestivum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Лещовидна пахиелла",
+      "latinsko_ime": "Pachyella babingtonii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Лидиево плюскавиче",
+      "latinsko_ime": "Silene lydia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Листовидна грифола",
+      "latinsko_ime": "Grifola frondosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Луковичен паяжинник",
+      "latinsko_ime": "Leucocortinarius bulbiger",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Лъжеблагороден лопен",
+      "latinsko_ime": "Verbascum pseudonobile",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Льозелов липарис",
+      "latinsko_ime": "Liparis loeselii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Люспесто изтравниче",
+      "latinsko_ime": "Asplenium lepidum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Лютиковидна урока",
+      "latinsko_ime": "Bupleurum ranunculoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Мавритански кринипелис",
+      "latinsko_ime": "Crinipellis mauretanica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Магеленска тлъстига",
+      "latinsko_ime": "Sedum magellense",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Македонско винче",
+      "latinsko_ime": "Anchusa macedonica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Малка ежова главица",
+      "latinsko_ime": "Sparganium minimum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Манагетова метличина",
+      "latinsko_ime": "Centaurea mannagettae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Маноловска гърлица",
+      "latinsko_ime": "Limonium asterotrichum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Маришко подрумиче",
+      "latinsko_ime": "Anthemis argyrophylla",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Маршалова метличина",
+      "latinsko_ime": "Psephellus marschallianus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Маршалска камилска трева",
+      "latinsko_ime": "Corispermum marschalii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Мащерколистно плюскавиче",
+      "latinsko_ime": "Silene thymifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Медножълта манатарка",
+      "latinsko_ime": "Boletus luteocupreus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Мейерова гърлица",
+      "latinsko_ime": "Limonium meyeri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Меколистно шапиче",
+      "latinsko_ime": "Alchemilla mollis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Месесточервен дланокоренник",
+      "latinsko_ime": "Dactylorhiza incarnata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Местенски дъб",
+      "latinsko_ime": "Quercus mestensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Мехуреста детелина",
+      "latinsko_ime": "Trifolium physodes",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Мечи лентинелус",
+      "latinsko_ime": "Lentinellus ursinus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Мизийски рожец",
+      "latinsko_ime": "Cerastium moesiacum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Миланов чистец",
+      "latinsko_ime": "Stachys milanii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Миризлива пърхутка",
+      "latinsko_ime": "Bovista graveolens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Мирикария",
+      "latinsko_ime": "Myricaria germanica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Миртолистен рододендрон",
+      "latinsko_ime": "Rhododendron myrtifolium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Млечнобяла бучка",
+      "latinsko_ime": "Helvella lactea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Многогодишна сверция",
+      "latinsko_ime": "Swertia perennis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Многоцветен парвотризетум",
+      "latinsko_ime": "Parvotrisetum myrianthum myrianthum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Моравска манатарка",
+      "latinsko_ime": "Boletus moravicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Морски копър",
+      "latinsko_ime": "Crithmum maritimum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Морски червен кантарион",
+      "latinsko_ime": "Centaurium maritimum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Муховидна пчелица",
+      "latinsko_ime": "Ophrys insectifera",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Мъхнатоцветен клин",
+      "latinsko_ime": "Astragalus pubiflorus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Набраздена бучка",
+      "latinsko_ime": "Helvella phlebophora",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Наделенолистно великденче",
+      "latinsko_ime": "Veronica multifida",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Наплъстена рупа",
+      "latinsko_ime": "Draba korabensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Напрашена манатарка",
+      "latinsko_ime": "Boletus pulverulentus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Нарязанолистен тъжник",
+      "latinsko_ime": "Spiraea crenata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Небодлива метличина",
+      "latinsko_ime": "Centaurea inermis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Нежен лен",
+      "latinsko_ime": "Linum elegans",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Нежна аубриета",
+      "latinsko_ime": "Aubrieta gracilis subsp. scardica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Нежна линдерния",
+      "latinsko_ime": "Lindernia procumbens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Нежна метличина",
+      "latinsko_ime": "Centaurea gracilenta",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Немска жълтуга",
+      "latinsko_ime": "Genista germanica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Неразделнолистно шапиче",
+      "latinsko_ime": "Alchemilla indivisa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Низбягващо еньовче",
+      "latinsko_ime": "Galium procurrens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ниска теменуга",
+      "latinsko_ime": "Viola pumila",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ниско бясно дърво",
+      "latinsko_ime": "Daphne cneorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ничичово прозорче",
+      "latinsko_ime": "Potentilla nicicii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Нишковидно секирче",
+      "latinsko_ime": "Lathyrus filiformis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновен аурискалпиум",
+      "latinsko_ime": "Auriscalpium vulgare",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновен дракункулус",
+      "latinsko_ime": "Dracunculus vulgaris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Обикновен еласмомицес",
+      "latinsko_ime": "Elasmomyces mattirolianus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Обикновен копър",
+      "latinsko_ime": "Anetum graveolens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновен омфалиастер",
+      "latinsko_ime": "Omphaliaster asterosporus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновен тис",
+      "latinsko_ime": "Taxus baccata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновен тремискус",
+      "latinsko_ime": "Tremiscus helvelloides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновен филопорус",
+      "latinsko_ime": "Phylloporus pelletieri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновена желатинова шапчица",
+      "latinsko_ime": "Leotia lubrica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновена кавиния",
+      "latinsko_ime": "Kavinia himantia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Обикновена морска трева",
+      "latinsko_ime": "Zostera marina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновена скрежовка",
+      "latinsko_ime": "Rozites caperatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновена хиподерма",
+      "latinsko_ime": "Hypoderma commune",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Одрински лопен",
+      "latinsko_ime": "Verbascum adrianopolitanum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Оедерово пропадниче",
+      "latinsko_ime": "Pedicularis oederi",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Оловносив гиродон",
+      "latinsko_ime": "Gyrodon lividus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Опасана есенна гъба",
+      "latinsko_ime": "Tricholoma focale",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Опашато диво жито",
+      "latinsko_ime": "Aegilops dichasians",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Оранжев хиднелум",
+      "latinsko_ime": "Hydnellum aurantiacum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Оранжево подрумиче",
+      "latinsko_ime": "Anthemis gaudium-solis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Оранжевочервена хасиела",
+      "latinsko_ime": "Haasiella venustissima",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Орбелийски игловръх",
+      "latinsko_ime": "Alyssum orbelicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Орфанидиева камбанка",
+      "latinsko_ime": "Campanula orphanidea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Осилест здравец",
+      "latinsko_ime": "Geranium aristatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Островърха галилея",
+      "latinsko_ime": "Galilea mucronata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Отровна рунянка",
+      "latinsko_ime": "Hieracium virosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Отровна цикута",
+      "latinsko_ime": "Cicuta virosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Отсеченовърха бухалка",
+      "latinsko_ime": "Clavariadelphus truncatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Паласов лен",
+      "latinsko_ime": "Linum pallasianum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Палешников серапиас",
+      "latinsko_ime": "Serapias vomeracea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Паничковидна бучка",
+      "latinsko_ime": "Helvella leucomelaena",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Панчичев млечник",
+      "latinsko_ime": "Cicerbita pancicii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Панчичево секирче",
+      "latinsko_ime": "Lathyrus pancicii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Паразитна манатарка",
+      "latinsko_ime": "Boletus parasiticus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Парилска метличина",
+      "latinsko_ime": "Centaurea parilica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Парилска овсига",
+      "latinsko_ime": "Bromus parilicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Парнасиеволистна калдезия",
+      "latinsko_ime": "Caldesia parnassifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Перест млечник",
+      "latinsko_ime": "Cicerbita plumieri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Переста какула",
+      "latinsko_ime": "Salvia pinnata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Перидикцион",
+      "latinsko_ime": "Peridictyon sanctum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Персийска поветица",
+      "latinsko_ime": "Convolvulus persicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Петниста сверция",
+      "latinsko_ime": "Swertia punctata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Петниста тинтява",
+      "latinsko_ime": "Gentiana punctata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Петросимония",
+      "latinsko_ime": "Petrosimonia brachiata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Петтичинкова върба",
+      "latinsko_ime": "Salix pentandra",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Печурковиден ендоптихум",
+      "latinsko_ime": "Endoptychum agaricoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пилатов фелинус",
+      "latinsko_ime": "Phellinus pilatii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пирамидална камбанка",
+      "latinsko_ime": "Campanula thyrsoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пиренейска теменуга",
+      "latinsko_ime": "Viola pyrenaica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пиренейско шапиче",
+      "latinsko_ime": "Alchemilla pyrenaica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пиринска гъшарка",
+      "latinsko_ime": "Arabis ferdinandi-coburgii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пиринска лазаркиня",
+      "latinsko_ime": "Asperula suberosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Пиринска ливадина",
+      "latinsko_ime": "Poa pirinica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Пиринска мащерка",
+      "latinsko_ime": "Thymus perinicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пиринска песъчарка",
+      "latinsko_ime": "Arenaria pirinica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пиринска теменуга",
+      "latinsko_ime": "Viola perinensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пирински игловръх",
+      "latinsko_ime": "Alyssum pirinicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пирински мак",
+      "latinsko_ime": "Papaver degenii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Пирински чай",
+      "latinsko_ime": "Sideritis scardica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пиринско зеле",
+      "latinsko_ime": "Brassica jordanoffii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Пиринско лале",
+      "latinsko_ime": "Tulipa pirinica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Планинска бондарцевия",
+      "latinsko_ime": "Bondarzewia mesenterica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Планинска дилянка",
+      "latinsko_ime": "Valeriana montana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Планински жълт смил",
+      "latinsko_ime": "Helichrysum plicatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Планински пелин",
+      "latinsko_ime": "Artemisia chamaemelifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Планински явор",
+      "latinsko_ime": "Acer heldreichii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Плосколюспесто подрумиче",
+      "latinsko_ime": "Anthemis virescens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Подземноплодов уров",
+      "latinsko_ime": "Vicia amphicarpa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Подофомес",
+      "latinsko_ime": "Podofomes trogii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Подуточашково клинавче",
+      "latinsko_ime": "Astragalus physocalyx",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Прасковеноцветна манатарка",
+      "latinsko_ime": "Boletus persicolor",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Превъзходен паяжинник",
+      "latinsko_ime": "Cortinarius praestans",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Прекрасна теменуга",
+      "latinsko_ime": "Viola speciosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Прекъсната ветрушка",
+      "latinsko_ime": "Apera interrupta",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Прешленолистен надводник",
+      "latinsko_ime": "Elatine alsinastrum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Прилегналовлакнест равнец",
+      "latinsko_ime": "Achillea leptophylla",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Прилегналолюспест магарешки бодил",
+      "latinsko_ime": "Carduus adpressus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Приморски ветрогон",
+      "latinsko_ime": "Eryngium maritimum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Приморски триостренник",
+      "latinsko_ime": "Triglochin maritima",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Провански салеп",
+      "latinsko_ime": "Orchis provincialis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Пролетно котенце",
+      "latinsko_ime": "Pulsatilla vernalis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Променливоцветна камбанка",
+      "latinsko_ime": "Campanula versicolor",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пурпурен дремник",
+      "latinsko_ime": "Epipactis purpurata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пурпурна манатарка",
+      "latinsko_ime": "Boletus rhodopurpureus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пчелоносно бръмбарче",
+      "latinsko_ime": "Ophrys apifera",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пълзящ гръмотрън",
+      "latinsko_ime": "Ononis repens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Пълзящ хименолобус",
+      "latinsko_ime": "Hymenolobus procumbens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Пълзяща гудиера",
+      "latinsko_ime": "Goodyera repens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пърнар",
+      "latinsko_ime": "Quercus coccifera",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пърчовка",
+      "latinsko_ime": "Himantoglossum caprinum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Пъстър меланогастер",
+      "latinsko_ime": "Melanogaster variegatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Пясъчна лилия",
+      "latinsko_ime": "Pancratium maritimum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Равенски ериантус",
+      "latinsko_ime": "Erianthus ravennae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Разнолистна суеда",
+      "latinsko_ime": "Suaeda heterophylla",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Разнолистно шапиче",
+      "latinsko_ime": "Alchemilla heterophylla",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Разперенозъба детелина",
+      "latinsko_ime": "Trifolium squarrosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Разпростряна сибалдия",
+      "latinsko_ime": "Sibbaldia procumbens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ракитников фелинус",
+      "latinsko_ime": "Phellinus hippophaëicola",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ракитовицов инонотус",
+      "latinsko_ime": "Inonotus tamaricis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Редкоцветен живовлек",
+      "latinsko_ime": "Plantago tenuiflora",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Режещ кладиум",
+      "latinsko_ime": "Cladium mariscus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Рейнхолдова пчелица",
+      "latinsko_ime": "Ophrys reinholdii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ресничеста песъчарка",
+      "latinsko_ime": "Arenaria ciliata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Рилска иглика",
+      "latinsko_ime": "Primula deorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Рилска теменуга",
+      "latinsko_ime": "Viola orbelica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Рилски ревен",
+      "latinsko_ime": "Rheum rhaponticum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Рилско подрумиче",
+      "latinsko_ime": "Anthemis orbelica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Рогат живовлек",
+      "latinsko_ime": "Plantago cornuti",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Рогчест клин",
+      "latinsko_ime": "Astragalus corniculatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Родопска люцерна",
+      "latinsko_ime": "Medicago rhodopea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Родопска песъчарка",
+      "latinsko_ime": "Arenaria rhodopaea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Родопска ръж",
+      "latinsko_ime": "Secale rhodopaeum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Родопски крем",
+      "latinsko_ime": "Lilium rhodopaeum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Родопски лопен",
+      "latinsko_ime": "Verbascum spathulisepalum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Родопско еньовче",
+      "latinsko_ime": "Galium rhodopeum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Родопско лале",
+      "latinsko_ime": "Tulipa rhodopea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Родопско омразниче",
+      "latinsko_ime": "Onosma rhodopea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Розетка",
+      "latinsko_ime": "Cotylidia pannosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Розмаринолистна върба",
+      "latinsko_ime": "Salix rosmarinifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Розов божур",
+      "latinsko_ime": "Paeonia mascula",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Розовееща манатарка",
+      "latinsko_ime": "Boletus roseoalbidus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Рубинена манатарка",
+      "latinsko_ime": "Rubinoboletus rubinus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Рубинова детелина",
+      "latinsko_ime": "Trifolium rubens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ружевидна поветица",
+      "latinsko_ime": "Convolvulus althaeoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Румелийска метличина",
+      "latinsko_ime": "Centaurea rumelica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Румелийски тръбоцвет",
+      "latinsko_ime": "Trachelium rumelianum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Румелийско подрумиче",
+      "latinsko_ime": "Anthemis rumelica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Руска самодивска трева",
+      "latinsko_ime": "Peucedanum ruthenicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ръбестостъблен лук",
+      "latinsko_ime": "Allium angulosum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Рьомерия",
+      "latinsko_ime": "Roemeria hybrida",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сбит овесец",
+      "latinsko_ime": "Danthoniastrum compactum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Светииваново подрумиче",
+      "latinsko_ime": "Anthemis sancti-johannis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сгънатолистно шапиче",
+      "latinsko_ime": "Alchemilla plicatula",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Северен амилоцистис",
+      "latinsko_ime": "Amylocystis lapponicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Седефче",
+      "latinsko_ime": "Ruta graveolens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Седловидна бучка",
+      "latinsko_ime": "Helvella ephippium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сенниковиден полипорус",
+      "latinsko_ime": "Polyporus umbellatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сибирска масловка",
+      "latinsko_ime": "Suillus sibiricus subsp. helveticus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сибирска телчарка",
+      "latinsko_ime": "Polygala sibirica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сибирски див тютюн",
+      "latinsko_ime": "Ligularia sibirica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сиво великденче",
+      "latinsko_ime": "Veronica glauca",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сиво-кафява леписта",
+      "latinsko_ime": "Lepista luscina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сивокафява черешова гъба",
+      "latinsko_ime": "Hygrocybe murinacea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сивосинкав клин",
+      "latinsko_ime": "Astragalus glaucus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сивосинкав паяжинник",
+      "latinsko_ime": "Cortinarius caesiocanescens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сивочервеникав хигрофорус",
+      "latinsko_ime": "Hygrophorus poetarum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Синя айважива",
+      "latinsko_ime": "Alkanna tinctoria",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Синя тойна",
+      "latinsko_ime": "Trachomitum venetum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сирийски миризлив бурен",
+      "latinsko_ime": "Sideritis syriaca",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Скален лопен",
+      "latinsko_ime": "Verbascum rupestre",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Скален пелин",
+      "latinsko_ime": "Artemisia pedemontana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Скална метличина",
+      "latinsko_ime": "Centaurea finazzeri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Скална поветица",
+      "latinsko_ime": "Convolvulus boissieri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Скална тинтява",
+      "latinsko_ime": "Gentiana frigida",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Скално секирче",
+      "latinsko_ime": "Lathyrus saxatilis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Славянско котенце",
+      "latinsko_ime": "Pulsatilla slaviankae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Слънчева гълъбка",
+      "latinsko_ime": "Russula solaris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Смърчов фелинус",
+      "latinsko_ime": "Phellinus viticola",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Снежна тинтява",
+      "latinsko_ime": "Gentiana nivalis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Снежно кокиче",
+      "latinsko_ime": "Galanthus nivalis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сплескан дифазиаструм",
+      "latinsko_ime": "Diphasiastrum complanatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Сребриста поветица",
+      "latinsko_ime": "Convolvulus holosericeus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сръбска рамонда",
+      "latinsko_ime": "Ramonda serbica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сръбски едрайант",
+      "latinsko_ime": "Edraianthus serbicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сръбски ранилист",
+      "latinsko_ime": "Stachys serbica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Старопланинска иглика",
+      "latinsko_ime": "Primula frondosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Стефчова тлъстига",
+      "latinsko_ime": "Sedum stefco",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Стоянова айважива",
+      "latinsko_ime": "Alkanna stojanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Стоянова дрипавка",
+      "latinsko_ime": "Crepis stojanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Стоянова мащерка",
+      "latinsko_ime": "Thymus stojanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Стоянова мишовка",
+      "latinsko_ime": "Minuartia stojanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Стоянова паламида",
+      "latinsko_ime": "Cirsium stojanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Стоянова теменуга",
+      "latinsko_ime": "Viola stojanowii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Стояново лютиче",
+      "latinsko_ime": "Ranunculus stojanovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Странджанска боровинка",
+      "latinsko_ime": "Vaccinium arctostaphylos",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Странджанска детелина",
+      "latinsko_ime": "Trifolium ligusticum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Странджанска лазаркиня",
+      "latinsko_ime": "Asperula involucrata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Странджански воден морач",
+      "latinsko_ime": "Oenanthe tenuifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Странджанско бясно дърво",
+      "latinsko_ime": "Daphne pontica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Странджанско сапунче",
+      "latinsko_ime": "Saponaria stranjensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Стрибърниева козя брада",
+      "latinsko_ime": "Tragopogon stribrnyi",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Стрибърниево подрумиче",
+      "latinsko_ime": "Anthemis stribrnyi",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Стрибърнов карамфил",
+      "latinsko_ime": "Dianthus stribrnyi",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Стрибърнова ведрица",
+      "latinsko_ime": "Fritillaria stribrnyi",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Стройна теменуга",
+      "latinsko_ime": "Viola gracilis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Стройна флавосцифа",
+      "latinsko_ime": "Flavoscypha cantharella",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Стъблообхващащ стрептопус",
+      "latinsko_ime": "Streptopus amplexifolius",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Стълбчеста аубриета",
+      "latinsko_ime": "Aubrieta columnae subsp. pirinica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Субалпийски спореж",
+      "latinsko_ime": "Senecio subalpinus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сусамовиден клин",
+      "latinsko_ime": "Astragalus sesameus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сфагнова галерина",
+      "latinsko_ime": "Galerina sphagnorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Съждивосив болетопсис",
+      "latinsko_ime": "Boletopsis leucomelaena",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Съчленен коринефорус",
+      "latinsko_ime": "Corynephorus divaricatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тамянка",
+      "latinsko_ime": "Cistus salvifolius",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тасоска звъника",
+      "latinsko_ime": "Hypericum thasium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Татарска салата",
+      "latinsko_ime": "Lactuca tatarica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Татарско диво зеле",
+      "latinsko_ime": "Crambe tataria",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Твърдолистна песъчарка",
+      "latinsko_ime": "Arenaria rigida",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Текирска мишорка",
+      "latinsko_ime": "Gypsophila tekirae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тесалийска мантийка",
+      "latinsko_ime": "Petrorhagia thessala",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Теснолист божур",
+      "latinsko_ime": "Paeonia tenuifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тимотейкова детелина",
+      "latinsko_ime": "Trifolium phleoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тинеста острица",
+      "latinsko_ime": "Carex limosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Томасиниев минзухар",
+      "latinsko_ime": "Crocus tommasinianus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Торен циатус",
+      "latinsko_ime": "Cyathus stercoreus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Торфена галерина",
+      "latinsko_ime": "Galerina paludosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Торфена фолиота",
+      "latinsko_ime": "Pholiota myosotis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Торфено псилоцибе",
+      "latinsko_ime": "Psilocybe uda",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тракийска власатка",
+      "latinsko_ime": "Festuca thracica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тракийска класица",
+      "latinsko_ime": "Alopecurus thracicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тракийска овчарска торбичка",
+      "latinsko_ime": "Capsella bursa-pastoris subsp. thracica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тракийски дъб",
+      "latinsko_ime": "Quercus thracica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тракийски клин",
+      "latinsko_ime": "Astracantha thracica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Тракийски магарешки бодил",
+      "latinsko_ime": "Carduus thracicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Тракийски равнец",
+      "latinsko_ime": "Achillea thracica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тракийско лале",
+      "latinsko_ime": "Tulipa thracica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Трансилванска камбанка",
+      "latinsko_ime": "Campanula transsilvanica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Трансилванско секирче",
+      "latinsko_ime": "Lathyrus transsilvanicus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Траунстейнера",
+      "latinsko_ime": "Traunsteinera globosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Триразделнолистен ериолобус",
+      "latinsko_ime": "Eriolobus trilobata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тритичинков надводник",
+      "latinsko_ime": "Elatine triandra",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Трицветен леукопаксилус",
+      "latinsko_ime": "Leucopaxillus compactus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Трицветна дзука",
+      "latinsko_ime": "Juncus triglumis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тройновилужна мишорка",
+      "latinsko_ime": "Gypsophila trichotoma",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тройножилчеста метличина",
+      "latinsko_ime": "Centaurea trinervia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Туфест карамфил",
+      "latinsko_ime": "Dianthus simulans",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Туфеста острица",
+      "latinsko_ime": "Carex elata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тъмнолилава самогризка",
+      "latinsko_ime": "Scabiosa atropurpurea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тъмнопурпурна метличина",
+      "latinsko_ime": "Centaurea calocephala",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тъмносин паяжинник",
+      "latinsko_ime": "Cortinarius coerulescens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тъмночервена черешова гъба",
+      "latinsko_ime": "Hygrocybe punicea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тъполистен оклоп",
+      "latinsko_ime": "Androsace obtusifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тъполистна калугерка",
+      "latinsko_ime": "Nonea obtusifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Търилово великденче",
+      "latinsko_ime": "Veronica turrilliana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тюланова хиднотрия",
+      "latinsko_ime": "Hydnotrya tulasnei",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тяснолистна поветица",
+      "latinsko_ime": "Convolvulus lineatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Украинско коило",
+      "latinsko_ime": "Stipa ucrainica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Уроспермум",
+      "latinsko_ime": "Urospermum picroides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Урумов кривец",
+      "latinsko_ime": "Chondrilla urumoffii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Урумов лопен",
+      "latinsko_ime": "Verbascum urumoffii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Урумов окситропис",
+      "latinsko_ime": "Oxytropis urumovii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Урумово лале",
+      "latinsko_ime": "Tulipa urumoffii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Уховидна арения",
+      "latinsko_ime": "Arrhenia lobata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Уховидно подрумиче",
+      "latinsko_ime": "Anthemis auriculata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Фалоидна батареа",
+      "latinsko_ime": "Battarrea phalloides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ферулов прангос",
+      "latinsko_ime": "Prangos ferulacea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Франкения",
+      "latinsko_ime": "Frankenia pulverulenta",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Фривалдска микромерия",
+      "latinsko_ime": "Micromeria frivaldszkyana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Фривалдскиев зановец",
+      "latinsko_ime": "Chamaecytisus frivaldszkyanus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Фривалдскиев пчелинок",
+      "latinsko_ime": "Marrubium friwaldskyanum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Фризиев пачи крак",
+      "latinsko_ime": "Cantharellus friesii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Хаарбахиев клин",
+      "latinsko_ime": "Astragalus suberosus subsp. haarbachii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Халерово котенце",
+      "latinsko_ime": "Pulsatilla halleri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Хвойнова антродия",
+      "latinsko_ime": "Antrodia juniperina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Хименокарпос",
+      "latinsko_ime": "Hymenocarpos circinatus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Обикновен хипурис",
+      "latinsko_ime": "Hippuris vulgaris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Хойфелови миши уши",
+      "latinsko_ime": "Hieracium heuffelii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Храстовидна карагана",
+      "latinsko_ime": "Caragana frutex subsp. mollis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Хълмова гъшарка",
+      "latinsko_ime": "Arabis collina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Цар-Борисов лопен",
+      "latinsko_ime": "Verbascum tzar-borisii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Цариградски нахут",
+      "latinsko_ime": "Cicer montbretii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Царска катателазма",
+      "latinsko_ime": "Catathelasma imperiale",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Царска манатарка",
+      "latinsko_ime": "Boletus regius",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Царска трева",
+      "latinsko_ime": "Imperata cylindrica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Целолистна дилянка",
+      "latinsko_ime": "Valeriana simplicifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Цоликоферова тлъстига",
+      "latinsko_ime": "Sedum zollicoferi",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Чашеносещ корал",
+      "latinsko_ime": "Clavicorona pyxidata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Чашковидна звъника",
+      "latinsko_ime": "Hypericum calycinum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Червен хедизарум",
+      "latinsko_ime": "Hedysarum tauricum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Червен цитинус",
+      "latinsko_ime": "Cytinus clusii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Червенеещ хигрофорус",
+      "latinsko_ime": "Hygrophorus erubescens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Червено усойниче",
+      "latinsko_ime": "Echium russicum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Червено-кафява чашка",
+      "latinsko_ime": "Peziza michelii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Черен емпетрум",
+      "latinsko_ime": "Empetrum nigrum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Черна бучка",
+      "latinsko_ime": "Helvella atra",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Чернеещ геоглосум",
+      "latinsko_ime": "Geoglossum umbratile",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Чернееща метличина",
+      "latinsko_ime": "Centaurea nigrescens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Чернееща четинковидна плектания",
+      "latinsko_ime": "Plectania melaena",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черно френско грозде",
+      "latinsko_ime": "Ribes nigrum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черно-кафява чашка",
+      "latinsko_ime": "Peziza brunneoatra",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Черногорско прозорче",
+      "latinsko_ime": "Potentilla montenegrina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черноморски астродаукус",
+      "latinsko_ime": "Astrodaucus littoralis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черноморски хипекоум",
+      "latinsko_ime": "Hypecoum ponticum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Черноморско великденче",
+      "latinsko_ime": "Veronica euxina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "RE"
+    },
+    {
+      "ime": "Черноморско плюскавиче",
+      "latinsko_ime": "Silene euxina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Черноточковиден сакоболус",
+      "latinsko_ime": "Saccobolus beckii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Четинест жълт кантарион",
+      "latinsko_ime": "Hypericum setiferum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Четинест трихоглосум",
+      "latinsko_ime": "Trichoglossum hirsutum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Четириделна земна звезда",
+      "latinsko_ime": "Geastrum quadrifidum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Четирилистно разковниче",
+      "latinsko_ime": "Marsilea quadrifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Четириръбеста боянка",
+      "latinsko_ime": "Erysimum quadrangulum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Чуждоземен шпорец",
+      "latinsko_ime": "Delphinium peregrinum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Шарпланински ранилист",
+      "latinsko_ime": "Betonica scardica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Шахматовидна ведрица",
+      "latinsko_ime": "Fritillaria meleagroides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Шахтиева дрипавка",
+      "latinsko_ime": "Crepis schachtii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Шибойна боянка",
+      "latinsko_ime": "Erysimum cheiranthoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Шиверекия",
+      "latinsko_ime": "Schivereckia doerfleri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Широколистен мразовец",
+      "latinsko_ime": "Colchicum bivonae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Широколистна камбанка",
+      "latinsko_ime": "Campanula latifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Широколистна кръстатка",
+      "latinsko_ime": "Crucianella latifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Шишарковидна мухоморка",
+      "latinsko_ime": "Amanita strobiliformis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Шлемоносен салеп",
+      "latinsko_ime": "Orchis militaris",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Шпицелов салеп",
+      "latinsko_ime": "Orchis spitzelii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Шпрунерова каменоломка",
+      "latinsko_ime": "Saxifraga spruneri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Щитолистни какички",
+      "latinsko_ime": "Nymphoides peltata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ъглолистна малколмия",
+      "latinsko_ime": "Malcolmia orsiniana subsp. angulifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Южна леща",
+      "latinsko_ime": "Lens ervoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Южна мехурка",
+      "latinsko_ime": "Utricularia australis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Южна микромерия",
+      "latinsko_ime": "Micromeria juliana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Юмрукчалско шапиче",
+      "latinsko_ime": "Alchemilla jumrukczalica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Юрушки лопен",
+      "latinsko_ime": "Verbascum juruk",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Яворкова клопачка",
+      "latinsko_ime": "Rhinanthus javorkae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Яйцевидна мухоморка",
+      "latinsko_ime": "Amanita ovoidea",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ямболски мразовец",
+      "latinsko_ime": "Colchicum diampolis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Янкиев лопен",
+      "latinsko_ime": "Verbascum jankaeanum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Янкиева кутявка",
+      "latinsko_ime": "Moehringia jankae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Янкиева метличина",
+      "latinsko_ime": "Centaurea jankae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Яркожълта люспеница",
+      "latinsko_ime": "Pholiota lucifera",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Яркожълта манатарка",
+      "latinsko_ime": "Boletus pseudosulphureus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Anomodon rostratus",
+      "latinsko_ime": "Anomodon rostratus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Aphanorhegma patens",
+      "latinsko_ime": "Aphanorhegma patens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Aulacomnium androgynum",
+      "latinsko_ime": "Aulacomnium androgynum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Barbilophozia kunzeana",
+      "latinsko_ime": "Barbilophozia kunzeana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Bazzania flaccida",
+      "latinsko_ime": "Bazzania flaccida",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Brachydontium trichodes",
+      "latinsko_ime": "Brachydontium trichodes",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Brachythecium geheebii",
+      "latinsko_ime": "Brachythecium geheebii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Breidleria pratensis",
+      "latinsko_ime": "Breidleria pratensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Bryopsis hypnoides",
+      "latinsko_ime": "Bryopsis hypnoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Bryum cyclophyllum",
+      "latinsko_ime": "Bryum cyclophyllum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Bryum gemmiparum",
+      "latinsko_ime": "Bryum gemmiparum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Bryum mildeanum",
+      "latinsko_ime": "Bryum mildeanum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Bryum torquescens",
+      "latinsko_ime": "Bryum torquescens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Buxbaumia aphylla",
+      "latinsko_ime": "Buxbaumia aphylla",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Calliergon giganteum",
+      "latinsko_ime": "Calliergon giganteum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Calypogeia fissa",
+      "latinsko_ime": "Calypogeia fissa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Calypogeia sphagnicola",
+      "latinsko_ime": "Calypogeia sphagnicola",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Campylium polygamum",
+      "latinsko_ime": "Campylium polygamum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Cephalozia catenulata",
+      "latinsko_ime": "Cephalozia catenulata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Cephalozia loitlesbergeri",
+      "latinsko_ime": "Cephalozia loitlesbergeri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Cephaloziella hampeana",
+      "latinsko_ime": "Cephaloziella hampeana",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Cephaloziella rubella",
+      "latinsko_ime": "Cephaloziella rubella",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Cephaloziella turneri",
+      "latinsko_ime": "Cephaloziella turneri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Chara kokeilii",
+      "latinsko_ime": "Chara kokeilii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Cheilothela chloropus",
+      "latinsko_ime": "Cheilothela chloropus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Corsinia coriandrina",
+      "latinsko_ime": "Corsinia coriandrina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ctenidium procerrimum",
+      "latinsko_ime": "Ctenidium procerrimum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Dicranodontium denudatum",
+      "latinsko_ime": "Dicranodontium denudatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Dicranum bergeri",
+      "latinsko_ime": "Dicranum bergeri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Dicranum viride",
+      "latinsko_ime": "Dicranum viride",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ditrichum pallidum",
+      "latinsko_ime": "Ditrichum pallidum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Drepanocladus sendtneri",
+      "latinsko_ime": "Drepanocladus sendtneri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ephemerum recurvifolium",
+      "latinsko_ime": "Ephemerum recurvifolium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Eurhynchium pumilum",
+      "latinsko_ime": "Eurhynchium pumilum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Eurhynchium schleicheri",
+      "latinsko_ime": "Eurhynchium schleicheri",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Fissidens fontanus",
+      "latinsko_ime": "Fissidens fontanus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Fissidens rivularis",
+      "latinsko_ime": "Fissidens rivularis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Fossombronia angulosa",
+      "latinsko_ime": "Fossombronia angulosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Fossombronia husnotii",
+      "latinsko_ime": "Fossombronia husnotii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Frullania fragilifolia",
+      "latinsko_ime": "Frullania fragilifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Frullania jackii",
+      "latinsko_ime": "Frullania jackii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Frullania riparia",
+      "latinsko_ime": "Frullania riparia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Grimmia crinita",
+      "latinsko_ime": "Grimmia crinita",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Grimmia teretinervis",
+      "latinsko_ime": "Grimmia teretinervis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Hamatocaulis vernicosus",
+      "latinsko_ime": "Hamatocaulis vernicosus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Helodium blandowii",
+      "latinsko_ime": "Helodium blandowii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Hypnum fertile",
+      "latinsko_ime": "Hypnum fertile",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Isothecium myosuroides",
+      "latinsko_ime": "Isothecium myosuroides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Jungermannia caespiticia",
+      "latinsko_ime": "Jungermannia caespiticia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Jungermannia confertissima",
+      "latinsko_ime": "Jungermannia confertissima",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Leptodictyum humile",
+      "latinsko_ime": "Leptodictyum humile",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Lophozia longidens",
+      "latinsko_ime": "Lophozia longidens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Mannia androgyna",
+      "latinsko_ime": "Mannia androgyna",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Mannia triandra",
+      "latinsko_ime": "Mannia triandra",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Meesia uliginosa",
+      "latinsko_ime": "Meesia uliginosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Microbryum starckeanum",
+      "latinsko_ime": "Microbryum starckeanum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Mnium ambiguum",
+      "latinsko_ime": "Mnium ambiguum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Mylia anomala",
+      "latinsko_ime": "Mylia anomala",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Nardia geoscyphus",
+      "latinsko_ime": "Nardia geoscyphus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Neckera pennata",
+      "latinsko_ime": "Neckera pennata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Neckera pumila",
+      "latinsko_ime": "Neckera pumila",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Nemalion helminthoides",
+      "latinsko_ime": "Nemalion helminthoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Orthotrichum stellatum",
+      "latinsko_ime": "Orthotrichum stellatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Orthotrichum urnigerum",
+      "latinsko_ime": "Orthotrichum urnigerum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Padina pavonica",
+      "latinsko_ime": "Padina pavonica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Philonotis arnellii",
+      "latinsko_ime": "Philonotis arnellii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Philonotis marchica",
+      "latinsko_ime": "Philonotis marchica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Plagiothecium undulatum",
+      "latinsko_ime": "Plagiothecium undulatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Polytrichum longisetum",
+      "latinsko_ime": "Polytrichum longisetum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Porella pinnata",
+      "latinsko_ime": "Porella pinnata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Pseudocalliergon trifarium",
+      "latinsko_ime": "Pseudocalliergon trifarium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ptilidium ciliare",
+      "latinsko_ime": "Ptilidium ciliare",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ptilium crista",
+      "latinsko_ime": "Ptilium crista-castrensis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Riccia crustata",
+      "latinsko_ime": "Riccia crustata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Riccia crystallina",
+      "latinsko_ime": "Riccia crystallina",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Riccia glauca",
+      "latinsko_ime": "Riccia glauca",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Riccia papillosa",
+      "latinsko_ime": "Riccia papillosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Scapania apiculata",
+      "latinsko_ime": "Scapania apiculata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Scapania compacta",
+      "latinsko_ime": "Scapania compacta",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Scapania scandica",
+      "latinsko_ime": "Scapania scandica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Scapania verrucosa",
+      "latinsko_ime": "Scapania verrucosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Scleropodium touretii",
+      "latinsko_ime": "Scleropodium touretii",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Scorpidium revolvens",
+      "latinsko_ime": "Scorpidium revolvens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Scorpidium scorpioides",
+      "latinsko_ime": "Scorpidium scorpioides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Scorpiurium circinatum",
+      "latinsko_ime": "Scorpiurium circinatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Sphagnum cuspidatum",
+      "latinsko_ime": "Sphagnum cuspidatum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Sphagnum riparium",
+      "latinsko_ime": "Sphagnum riparium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Sphagnum subfulvum",
+      "latinsko_ime": "Sphagnum subfulvum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Sphagnum subnitens",
+      "latinsko_ime": "Sphagnum subnitens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Syntrichia laevipila",
+      "latinsko_ime": "Syntrichia laevipila",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Syntrichia latifolia",
+      "latinsko_ime": "Syntrichia latifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Syntrichia pagorum",
+      "latinsko_ime": "Syntrichia pagorum",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Syntrichia papillosa",
+      "latinsko_ime": "Syntrichia papillosa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Tayloria splachnoides",
+      "latinsko_ime": "Tayloria splachnoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Thorea hispida",
+      "latinsko_ime": "Thorea hispida",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Timmia norvegica",
+      "latinsko_ime": "Timmia norvegica",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Tolypella intricata",
+      "latinsko_ime": "Tolypella intricata",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Tomentypnum nitens",
+      "latinsko_ime": "Tomentypnum nitens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Tortella humilis",
+      "latinsko_ime": "Tortella humilis",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Tortella nitida",
+      "latinsko_ime": "Tortella nitida",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Tortula canescens",
+      "latinsko_ime": "Tortula canescens",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Tortula cuneifolia",
+      "latinsko_ime": "Tortula cuneifolia",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Tortula protobryoides",
+      "latinsko_ime": "Tortula protobryoides",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Trematodon ambiguus",
+      "latinsko_ime": "Trematodon ambiguus",
+      "grupa": "Растения и гъби",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Trichocolea tomentella",
+      "latinsko_ime": "Trichocolea tomentella",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Trichostomum brachydontium",
+      "latinsko_ime": "Trichostomum brachydontium",
+      "grupa": "Растения и гъби",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ulota crispa",
+      "latinsko_ime": "Ulota crispa",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ulota hutchinsiae",
+      "latinsko_ime": "Ulota hutchinsiae",
+      "grupa": "Растения и гъби",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Алпийски тритон",
+      "latinsko_ime": "Triturus alpestris",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Андреев еуполиботрус",
+      "latinsko_ime": "Eupolybothrus andreevi",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Аспида",
+      "latinsko_ime": "Vipera aspis",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Афала",
+      "latinsko_ime": "Tursiops truncatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Балканска кротушка",
+      "latinsko_ime": "Romanogobio kessleri",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Балканска чучулига",
+      "latinsko_ime": "Eremophila alpestris",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Балкански кеклик",
+      "latinsko_ime": "Alectoris graeca",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Балкански щипок",
+      "latinsko_ime": "Sabanejewia balcanica",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Белобуза рибарка",
+      "latinsko_ime": "Chlidonias hybridus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Беловрата мухоловка",
+      "latinsko_ime": "Ficedula albicollis",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Белоглав лешояд",
+      "latinsko_ime": "Gyps fulvus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Белоока потапница",
+      "latinsko_ime": "Aythya nyroca",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Белоопашат мишелов",
+      "latinsko_ime": "Buteo rufinus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Белопера кротушка",
+      "latinsko_ime": "Romanogobio albipinnatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Белочела рибарка",
+      "latinsko_ime": "Sterna albifrons",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Белочела сврачка",
+      "latinsko_ime": "Lanius nubicus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Белошипа ветрушка",
+      "latinsko_ime": "Falco naumanni",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Беронов мегафилум",
+      "latinsko_ime": "Megaphyllum beroni",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Бехщайнов нощник",
+      "latinsko_ime": "Myotis bechsteinii",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Бешков сенокосец",
+      "latinsko_ime": "Siro beschkovi",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Блатно сатирче",
+      "latinsko_ime": "Coenonympha oedippus",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Блестящ ибис",
+      "latinsko_ime": "Plegadis falcinellus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Блеч",
+      "latinsko_ime": "Alosa maeotica",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Брадат лешояд",
+      "latinsko_ime": "Gypaetus barbatus",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Брияна",
+      "latinsko_ime": "Chalcalburnus chalcoides",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Бурешова паралола",
+      "latinsko_ime": "Paralola buresi",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Бухал",
+      "latinsko_ime": "Bubo bubo",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Български парастенокарис",
+      "latinsko_ime": "Parastenocaris bulgarica",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Бял ангъч",
+      "latinsko_ime": "Tadorna tadorna",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Бял щъркел",
+      "latinsko_ime": "Ciconia ciconia",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Вечерна ветрушка",
+      "latinsko_ime": "Falco vespertinus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Видра",
+      "latinsko_ime": "Lutra lutra",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Високотел бибан",
+      "latinsko_ime": "Gymnocephalus baloni",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Виюн",
+      "latinsko_ime": "Misgurnus fossilis",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Влакноопашато тритонче",
+      "latinsko_ime": "Triturus vulgaris",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Воден паяк",
+      "latinsko_ime": "Argyroneta aquatica",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Врабчова кукумявка",
+      "latinsko_ime": "Glaucidium passerinum",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Вълк",
+      "latinsko_ime": "Canis lupus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Върловка",
+      "latinsko_ime": "Leucaspius delineatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Гигантски вечерник",
+      "latinsko_ime": "Nyctalus lasiopterus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Главоч",
+      "latinsko_ime": "Cottus gobio",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Глухар",
+      "latinsko_ime": "Tetrao urogallus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Голям воден бик",
+      "latinsko_ime": "Botaurus stellaris",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Голям гмурец",
+      "latinsko_ime": "Podiceps cristatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Голям креслив орел",
+      "latinsko_ime": "Aquila clanga",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Голям маслинов присмехулник",
+      "latinsko_ime": "Hippolais olivetorum",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Голям ястреб",
+      "latinsko_ime": "Accipiter gentilis",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Голяма бяла чапла",
+      "latinsko_ime": "Egretta alba",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Голяма вретенарка",
+      "latinsko_ime": "Zingel zingel",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Голяма дропла",
+      "latinsko_ime": "Otis tarda",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Голяма еднодневка",
+      "latinsko_ime": "Neoephemera maxima",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Голяма пъструшка",
+      "latinsko_ime": "Porzana porzana",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Голямо мъхово водно конче",
+      "latinsko_ime": "Leucorrhinia pectoralis",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Голямоок сатир",
+      "latinsko_ime": "Lopinga achine",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Горски бекас",
+      "latinsko_ime": "Scolopax rusticola",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Горски водобегач",
+      "latinsko_ime": "Tringa ochropus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Градинска червеноопашка",
+      "latinsko_ime": "Phoenicurus phoenicurus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Градински присмехулник",
+      "latinsko_ime": "Hippolais icterina",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Градинско коприварче",
+      "latinsko_ime": "Sylvia borin",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Грапав бегач",
+      "latinsko_ime": "Carabus variolosus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Гривеста рибарка",
+      "latinsko_ime": "Sterna sandvicensis",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гривеста чапла",
+      "latinsko_ime": "Ardeola ralloides",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Гръцка сага",
+      "latinsko_ime": "Saga hellenica",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Гулеш",
+      "latinsko_ime": "Barbatula barbatula",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Гълъб хралупар",
+      "latinsko_ime": "Columba oenas",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Далматински сокол",
+      "latinsko_ime": "Falco biarmicus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Двуцветнопипална сизира",
+      "latinsko_ime": "Sisyra terminalis",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дебелоклюна рибарка",
+      "latinsko_ime": "Sterna nilotica",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дебелоклюна чучулига",
+      "latinsko_ime": "Melanocorypha calandra",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Деветигла бодливка",
+      "latinsko_ime": "Pungitius platygaster",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Див шаран",
+      "latinsko_ime": "Cyprinus carpio",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дива коза",
+      "latinsko_ime": "Rupicapra rupicapra",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дива котка",
+      "latinsko_ime": "Felis silvestris",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Дренскиев троглохифантес",
+      "latinsko_ime": "Troglohyphantes drenskii",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дунавска русалка",
+      "latinsko_ime": "Palingenia longicauda",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Дунавски гребенест тритон",
+      "latinsko_ime": "Triturus dobrogicus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Дунавски щипок",
+      "latinsko_ime": "Sabanejewia bulgarica",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Дългоопашато попче",
+      "latinsko_ime": "Knipowitschia longecaudata",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Дългопръст нощник",
+      "latinsko_ime": "Myotis capaccinii",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Европейски лалугер",
+      "latinsko_ime": "Spermophilus citellus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Египетски лешояд",
+      "latinsko_ime": "Neophron percnopterus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Езерна цаца",
+      "latinsko_ime": "Clupeonella cultriventris",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Елшова скатия",
+      "latinsko_ime": "Carduelis spinus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ефорон",
+      "latinsko_ime": "Ephoron virgo",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Жълтоклюна хайдушка гарга",
+      "latinsko_ime": "Pyrrhocorax graculus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Жълтокоремник",
+      "latinsko_ime": "Pseudopus apodus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Забулена сова",
+      "latinsko_ime": "Tyto alba",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Звездовидно попче",
+      "latinsko_ime": "Benthophilus stellatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Златиста каракуда",
+      "latinsko_ime": "Carassius carassius",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Златка",
+      "latinsko_ime": "Martes martes",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Змиеок гущер",
+      "latinsko_ime": "Ophisops elegans",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ивичест бибан",
+      "latinsko_ime": "Gymnocephalus schraetser",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ивичест смок",
+      "latinsko_ime": "Elaphe quatuorlineata",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Индийско шаварче",
+      "latinsko_ime": "Acrocephalus agricola",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Италианска висяща муха",
+      "latinsko_ime": "Bittacus italicus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Карагьоз",
+      "latinsko_ime": "Alosa pontica",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Кафява мечка",
+      "latinsko_ime": "Ursus arctos",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Кафявоглава потапница",
+      "latinsko_ime": "Aythya ferina",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Кафявокрил огърличник",
+      "latinsko_ime": "Glareola pratincola",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Качулата кукувица",
+      "latinsko_ime": "Clamator glandarius",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Качулата червеноглава потапница",
+      "latinsko_ime": "Netta rufina",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Кодреанува псеудамникола",
+      "latinsko_ime": "Pseudamnicola codreanui",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Кокилобегач",
+      "latinsko_ime": "Himantopus himantopus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Колхидски фазан",
+      "latinsko_ime": "Phasianus colchicus",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Котешка змия",
+      "latinsko_ime": "Telescopus fallax",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Крайморска каменарка",
+      "latinsko_ime": "Paranocarodes straubei",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Крехка еднодневка",
+      "latinsko_ime": "Ametropus fragilis",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Кръстат орел",
+      "latinsko_ime": "Aquila heliaca",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Къдроглав пеликан",
+      "latinsko_ime": "Pelecanus crispus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Късопръст ястреб",
+      "latinsko_ime": "Accipiter brevipes",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Късопръста чучулига",
+      "latinsko_ime": "Calandrella brachydactyla",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Лакатнишка протелсония",
+      "latinsko_ime": "Protelsonia lakatnicensis",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Левантински буревестник",
+      "latinsko_ime": "Puffinus yelkouan",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Леопардов смок",
+      "latinsko_ime": "Zamenis situla",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Ливаден блатар",
+      "latinsko_ime": "Circus pygargus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ливаден дърдавец",
+      "latinsko_ime": "Crex crex",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ловен сокол",
+      "latinsko_ime": "Falco cherrug",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Лопатарка",
+      "latinsko_ime": "Platalea leucorodia",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Лупавец",
+      "latinsko_ime": "Rutilus frisii",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Лятно бърне",
+      "latinsko_ime": "Anas querquedula",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Малка белочела гъска",
+      "latinsko_ime": "Anser erythropus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Малка бяла риба",
+      "latinsko_ime": "Sander volgensis",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Малка бяла чапла",
+      "latinsko_ime": "Egretta garzetta",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Малка вретенарка",
+      "latinsko_ime": "Zingel streber",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Малка еднодневка",
+      "latinsko_ime": "Cercobrachys minutus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Малка кротушка",
+      "latinsko_ime": "Romanogobio uranoscopus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Малка пъструшка",
+      "latinsko_ime": "Porzana pusilla",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Малка черноглава чайка",
+      "latinsko_ime": "Larus melanocephalus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Малко ивичесто водно конче",
+      "latinsko_ime": "Cordulegaster insignis",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Малко мъхово водно конче",
+      "latinsko_ime": "Leucorrhinia dubia",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Малък вечерник",
+      "latinsko_ime": "Nyctalus leisleri",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Малък воден бик",
+      "latinsko_ime": "Ixobrychus minutus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Малък гмурец",
+      "latinsko_ime": "Tachybaptus ruficollis",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Малък корморан",
+      "latinsko_ime": "Phalacrocorax pygmeus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Малък креслив орел",
+      "latinsko_ime": "Aquila pomarina",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Малък лебед",
+      "latinsko_ime": "Cygnus columbianus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Малък орел",
+      "latinsko_ime": "Hieraaetus pennatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Малък речен кефал",
+      "latinsko_ime": "Petroleuciscus borysthenicus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Малък червеноног водобегач",
+      "latinsko_ime": "Tringa totanus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Малък ястреб",
+      "latinsko_ime": "Accipiter nisus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Маришки морунаш",
+      "latinsko_ime": "Vimba melanops",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Медведев сив скакалец",
+      "latinsko_ime": "Platycleis medvedevi",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Меланопсис",
+      "latinsko_ime": "Melanopsis parreyssi",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Михалца",
+      "latinsko_ime": "Lota lota",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Мишевиден сънливец",
+      "latinsko_ime": "Myomimus roachi",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Момин жерав",
+      "latinsko_ime": "Anthropoides virgo",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Морска свиня",
+      "latinsko_ime": "Phocoena phocoena",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Морски дъждосвирец",
+      "latinsko_ime": "Charadrius alexandrinus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Морски орел",
+      "latinsko_ime": "Haliaeetus albicilla",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Морско шило",
+      "latinsko_ime": "Nerophis ophidion",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Моруна",
+      "latinsko_ime": "Huso huso",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Мустакат синигер",
+      "latinsko_ime": "Panurus biarmicus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Немска есетра",
+      "latinsko_ime": "Acipenser sturio",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Никаринус",
+      "latinsko_ime": "Nicarinus poecilopterus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Норка",
+      "latinsko_ime": "Mustela lutreola",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Нощна чапла",
+      "latinsko_ime": "Nycticorax nycticorax",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Нурсция",
+      "latinsko_ime": "Nurscia albosignata",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ням лебед",
+      "latinsko_ime": "Cygnus olor",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Обикновен хомяк",
+      "latinsko_ime": "Cricetus cricetus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Обикновена мряна",
+      "latinsko_ime": "Barbus barbus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Орел змияр",
+      "latinsko_ime": "Circaetus gallicus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Орел рибар",
+      "latinsko_ime": "Pandion haliaetus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Орфеево коприварче",
+      "latinsko_ime": "Sylvia hortensis",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Осояд",
+      "latinsko_ime": "Pernis apivorus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Паласов теодоксус",
+      "latinsko_ime": "Theodoxus pallasi",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Пахикарус",
+      "latinsko_ime": "Pachycarus atrocoeruleus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Паяк рибар",
+      "latinsko_ime": "Dolomedes plantarius",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Пернатонога кукумявка",
+      "latinsko_ime": "Aegolius funereus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Петнистоопашата еднодневка",
+      "latinsko_ime": "Serratella maculocaudata",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Пещерен дългокрил",
+      "latinsko_ime": "Miniopterus schreibersii",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Пизидиум",
+      "latinsko_ime": "Pisidium supinum",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Планински трипръст кълвач",
+      "latinsko_ime": "Picoides tridactylus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Подковонос на Мехели",
+      "latinsko_ime": "Rhinolophus mehelyi",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Поен лебед",
+      "latinsko_ime": "Cygnus cygnus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Полски блатар",
+      "latinsko_ime": "Circus cyaneus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Полубеловрата мухоловка",
+      "latinsko_ime": "Ficedula semitorquata",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Приморска мряна",
+      "latinsko_ime": "Barbus tauricus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Пъстрогуша завирушка",
+      "latinsko_ime": "Prunella collaris",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Пъструга",
+      "latinsko_ime": "Acipenser stellatus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Пъстър жътвар",
+      "latinsko_ime": "Callimenus macrogaster",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Пъстър пор",
+      "latinsko_ime": "Vormela peregusna",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Пъстър смок",
+      "latinsko_ime": "Elaphe sauromates",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Распер",
+      "latinsko_ime": "Aspius aspius",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Реликтна еднодневка",
+      "latinsko_ime": "Ameletus inopinatus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Речен дъждосвирец",
+      "latinsko_ime": "Charadrius dubius",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Речен цвъркач",
+      "latinsko_ime": "Locustella fluviatilis",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Речна змиорка",
+      "latinsko_ime": "Anguilla anguilla",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Речна рибарка",
+      "latinsko_ime": "Sterna hirundo",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Речна чайка",
+      "latinsko_ime": "Larus ridibundus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Рис",
+      "latinsko_ime": "Lynx lynx",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Ровещ бирсинус",
+      "latinsko_ime": "Byrsinus fossor",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Родопски балканопеталум",
+      "latinsko_ime": "Balkanopetalum rhodopinum",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Розов пеликан",
+      "latinsko_ime": "Pelecanus onocrotalus",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Розов скорец",
+      "latinsko_ime": "Sturnus roseus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Руска есетра",
+      "latinsko_ime": "Acipenser gueldenstaedti",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сабица",
+      "latinsko_ime": "Pelecus cultratus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Саблеклюн",
+      "latinsko_ime": "Recurvirostra avosetta",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Свилено шаварче",
+      "latinsko_ime": "Cettia cetti",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Северен гребенест тритон",
+      "latinsko_ime": "Triturus cristatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Северно блестящо водно конче",
+      "latinsko_ime": "Somatochlora arctica",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сив жерав",
+      "latinsko_ime": "Grus grus",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Сив кълвач",
+      "latinsko_ime": "Picus canus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сива гъска",
+      "latinsko_ime": "Anser anser",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Сива патица",
+      "latinsko_ime": "Anas strepera",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сива сврачка",
+      "latinsko_ime": "Lanius excubitor",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Сива чапла",
+      "latinsko_ime": "Ardea cinerea",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Сиво хомяче",
+      "latinsko_ime": "Cricetulus migratorius",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Син скален дрозд",
+      "latinsko_ime": "Monticola solitarius",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Синявица",
+      "latinsko_ime": "Coracias garrulus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Сирман",
+      "latinsko_ime": "Neogobius syrman",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Скален гълъб",
+      "latinsko_ime": "Columba livia",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Скален орел",
+      "latinsko_ime": "Aquila chrysaetos",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Скална зидарка",
+      "latinsko_ime": "Sitta neumayer",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Скалолазка",
+      "latinsko_ime": "Tichodroma muraria",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Сокол орко",
+      "latinsko_ime": "Falco subbuteo",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Сокол скитник",
+      "latinsko_ime": "Falco peregrinus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Среден гмурец",
+      "latinsko_ime": "Podiceps grisegena",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Среден корморан",
+      "latinsko_ime": "Phalacrocorax aristotelis",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Средиземноморски подковонос",
+      "latinsko_ime": "Rhinolophus blasii",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Средиземноморски сокол",
+      "latinsko_ime": "Falco eleonorae",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Средна бекасина",
+      "latinsko_ime": "Gallinago gallinago",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Средна пъструшка",
+      "latinsko_ime": "Porzana parva",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Степен блатар",
+      "latinsko_ime": "Circus macrourus",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Степен орел",
+      "latinsko_ime": "Aquila nipalensis",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Степен пор",
+      "latinsko_ime": "Mustela eversmanni",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Степна скачаща мишка",
+      "latinsko_ime": "Sicista subtilis",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Степна усойница",
+      "latinsko_ime": "Vipera ursinii",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Стибаропус",
+      "latinsko_ime": "Stibaropus henkei",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Стрепет",
+      "latinsko_ime": "Tetrax tetrax",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Стридояд",
+      "latinsko_ime": "Haematopus ostralegus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Струмски гулеш",
+      "latinsko_ime": "Barbatula bureschi",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Субарктично голямо водно конче",
+      "latinsko_ime": "Aeshna subarctica",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Тетрев",
+      "latinsko_ime": "Tetrao tetrix",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Торбогнезден синигер",
+      "latinsko_ime": "Remiz pendulinus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Тракийски кеклик",
+      "latinsko_ime": "Alectoris chukar",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Трантеев сенокосец",
+      "latinsko_ime": "Tranteeva paradoxa",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тревно попче",
+      "latinsko_ime": "Zosterisessor ophiocephalus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Триигла бодливка",
+      "latinsko_ime": "Gasterosteus aculeatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Трицветен нощник",
+      "latinsko_ime": "Myotis emarginatus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Тръноопашата потапница",
+      "latinsko_ime": "Oxyura leucocephala",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тръстиков блатар",
+      "latinsko_ime": "Circus aeruginosus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Турилик",
+      "latinsko_ime": "Burhinus oedicnemus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Туркменски скакалец",
+      "latinsko_ime": "Pallasiella turcomana",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Турска боа",
+      "latinsko_ime": "Eryx jaculus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Тъмно смарагдово водно шило",
+      "latinsko_ime": "Lestes macrostigma",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тъмносива еднодневка",
+      "latinsko_ime": "Kageronia fuscogrisea",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тънкоклюн свирец",
+      "latinsko_ime": "Numenius tenuirostris",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Тюлен монах",
+      "latinsko_ime": "Monachus monachus",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Украинска минога",
+      "latinsko_ime": "Eudontomyzon mariae",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Умбра",
+      "latinsko_ime": "Umbra krameri",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Уралска улулица",
+      "latinsko_ime": "Strix uralensis",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Халофилен скакалец",
+      "latinsko_ime": "Platypygius crassus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Харип",
+      "latinsko_ime": "Alosa caspia",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Харисова еднодневка",
+      "latinsko_ime": "Brachycercus harrisella",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Хауфения",
+      "latinsko_ime": "Hauffenia lucidula",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Цилхова мацедоника",
+      "latinsko_ime": "Macedonica zilchi",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Червен ангъч",
+      "latinsko_ime": "Tadorna ferruginea",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Червена каня",
+      "latinsko_ime": "Milvus milvus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Червена чапла",
+      "latinsko_ime": "Ardea purpurea",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Червеногуша гъска",
+      "latinsko_ime": "Branta ruficollis",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Червеногуша мухоловка",
+      "latinsko_ime": "Ficedula parva",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Черен кълвач",
+      "latinsko_ime": "Dryocopus martius",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Черен лешояд",
+      "latinsko_ime": "Aegypius monachus",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Черен щъркел",
+      "latinsko_ime": "Ciconia nigra",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Черна каня",
+      "latinsko_ime": "Milvus migrans",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Черна рибарка",
+      "latinsko_ime": "Chlidonias niger",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черно плоско водно конче",
+      "latinsko_ime": "Selysiothemis nigra",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черноврат гмурец",
+      "latinsko_ime": "Podiceps nigricollis",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черноврата стрелушка",
+      "latinsko_ime": "Platyceps collaris",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черногръбо каменарче",
+      "latinsko_ime": "Oenanthe pleschanka",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Черногръд хомяк",
+      "latinsko_ime": "Mesocricetus newtoni",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Чернокрака голямокрилка",
+      "latinsko_ime": "Sialis nigripes",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Чернокрил огърличник",
+      "latinsko_ime": "Glareola nordmanni",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черноморска пъстърва",
+      "latinsko_ime": "Salmo labrax",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черноморска скумрия",
+      "latinsko_ime": "Scomber scombrus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Черноморски калкан",
+      "latinsko_ime": "Psetta maxima",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Чига",
+      "latinsko_ime": "Acipenser ruthenus",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Шабленско попче",
+      "latinsko_ime": "Benthophiloides brauneri",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Шип",
+      "latinsko_ime": "Acipenser nudiventris",
+      "grupa": "Животни",
+      "kategoriya": "EX"
+    },
+    {
+      "ime": "Шипобедрена сухоземна костенурка",
+      "latinsko_ime": "Testudo graeca",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Шипоопашата сухоземна костенурка",
+      "latinsko_ime": "Testudo hermanni",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Широкоух прилеп",
+      "latinsko_ime": "Barbastella barbastellus",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Южен белогръб кълвач",
+      "latinsko_ime": "Dendrocopos leucotos",
+      "grupa": "Животни",
+      "kategoriya": "EN"
+    },
+    {
+      "ime": "Южен подковонос",
+      "latinsko_ime": "Rhinolophus euryale",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Южен троглодикус",
+      "latinsko_ime": "Troglodicus meridionale",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    },
+    {
+      "ime": "Южна блатна костенурка",
+      "latinsko_ime": "Mauremys rivulata",
+      "grupa": "Животни",
+      "kategoriya": "VU"
+    },
+    {
+      "ime": "Ястребов орел",
+      "latinsko_ime": "Hieraaetus fasciatus",
+      "grupa": "Животни",
+      "kategoriya": "CR"
+    }
+  ],
+  "meta": {
+    "title": "Видове в Червената книга на Република България - Free Download",
+    "description": "Списък на растенията, гъбите и животните, включени в Червената книга на Република България, с латинско наименование и категория на застрашеност (CR, EN, VU, RE и др.). Contains 1095 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Видове в Червената книга на Република България | ListBase",
+    "seo_description": "Download Видове в Червената книга на Република България — 1095 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 1095 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_видовете_в_Червената_книга_на_Република_България"
+    ]
+  }
+}

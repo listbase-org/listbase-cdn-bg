@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-03T02:12:50.270Z",
-  "total_datasets": 462,
-  "total_records": 192836,
+  "generated": "2026-11-03T02:12:58.381Z",
+  "total_datasets": 463,
+  "total_records": 193931,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 11
+      "dataset_count": 12
     },
     {
       "id": "finance",
@@ -1737,6 +1737,31 @@
         "xlsx": {
           "name": "bg-radiostantsii_BG.xlsx",
           "size": 10001
+        }
+      }
+    },
+    {
+      "id": "bg-chervena-kniga-vidove",
+      "name": "Видове в Червената книга на Република България",
+      "category": "environment",
+      "record_count": 1095,
+      "columns": [
+        "ime",
+        "latinsko_ime",
+        "grupa",
+        "kategoriya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_видовете_в_Червената_книга_на_Република_България",
+      "updated": "2026-11",
+      "size": 192864,
+      "files": {
+        "csv": {
+          "name": "bg-chervena-kniga-vidove_BG.csv",
+          "size": 96304
+        },
+        "xlsx": {
+          "name": "bg-chervena-kniga-vidove_BG.xlsx",
+          "size": 47569
         }
       }
     },
