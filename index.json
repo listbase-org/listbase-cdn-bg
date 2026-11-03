@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-03T02:12:58.381Z",
-  "total_datasets": 463,
-  "total_records": 193931,
+  "generated": "2026-11-03T02:13:05.191Z",
+  "total_datasets": 464,
+  "total_records": 194140,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -11186,6 +11186,31 @@
         "xlsx": {
           "name": "bg-asteroidi-svarzani-s-balgariya_BG.xlsx",
           "size": 12273
+        }
+      }
+    },
+    {
+      "id": "bg-dnevni-peperudi",
+      "name": "Дневни пеперуди в България",
+      "category": "science",
+      "record_count": 209,
+      "columns": [
+        "vid",
+        "avtor",
+        "semeystvo",
+        "semeystvo_bg"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_дневните_пеперуди_на_България",
+      "updated": "2026-11",
+      "size": 32432,
+      "files": {
+        "csv": {
+          "name": "bg-dnevni-peperudi_BG.csv",
+          "size": 12796
+        },
+        "xlsx": {
+          "name": "bg-dnevni-peperudi_BG.xlsx",
+          "size": 13290
         }
       }
     },

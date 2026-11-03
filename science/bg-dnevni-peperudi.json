@@ -1,0 +1,1300 @@
+{
+  "id": "bg-dnevni-peperudi",
+  "name": "Дневни пеперуди в България",
+  "title": "Дневни пеперуди в България",
+  "description": "Списък на видовете дневни пеперуди, срещащи се в България, по семейства, с автор и година на описание.",
+  "category": "science",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_дневните_пеперуди_на_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_дневните_пеперуди_на_България",
+  "updated": "2026-11",
+  "record_count": 209,
+  "columns": [
+    {
+      "key": "vid",
+      "label": "Vid",
+      "type": "string"
+    },
+    {
+      "key": "avtor",
+      "label": "Avtor",
+      "type": "string"
+    },
+    {
+      "key": "semeystvo",
+      "label": "Semeystvo",
+      "type": "string"
+    },
+    {
+      "key": "semeystvo_bg",
+      "label": "Semeystvo Bg",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "vid": "Carcharodus alceae",
+      "avtor": "Esper, 1780",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Carcharodus floccifera",
+      "avtor": "Zeller, 1847",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Carcharodus lavatherae",
+      "avtor": "Esper, 1783",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Carcharodus orientalis",
+      "avtor": "Reverdin, 1913",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Carterocephalus palaemon",
+      "avtor": "Pallas, 1771",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Erynnis marloyi",
+      "avtor": "Boisduval, 1834",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Erynnis tages",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Gegenes nostrodamus",
+      "avtor": "Fabricius, 1793",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Hesperia comma",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Heteropterus morpheus",
+      "avtor": "Pallas, 1771",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Muschampia cribrellum",
+      "avtor": "Eversmann, 1841",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Muschampia tessellum",
+      "avtor": "Hübner, 1803",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Ochlodes sylvanus",
+      "avtor": "Esper, 1777",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Pyrgus alveus",
+      "avtor": "Hübner, 1803",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Pyrgus armoricanus",
+      "avtor": "Oberthur, 1910",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Pyrgus cacaliae",
+      "avtor": "Rambur, 1839",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Pyrgus carthami",
+      "avtor": "Hübner, 1813",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Pyrgus cinarae",
+      "avtor": "Rambur, 1839",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Pyrgus malvae",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Pyrgus serratulae",
+      "avtor": "Rambur, 1839",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Pyrgus sidae",
+      "avtor": "Esper, 1784",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Spialia orbifer",
+      "avtor": "Hübner, 1823",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Spialia phlomidis",
+      "avtor": "Herrich-Schäffer, 1845",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Thymelicus acteon",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Thymelicus lineola",
+      "avtor": "Ochsenheimer, 1808",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Thymelicus sylvestris",
+      "avtor": "Poda, 1761",
+      "semeystvo": "Hesperiidae",
+      "semeystvo_bg": "Дебелоглавки"
+    },
+    {
+      "vid": "Agriades dardanus",
+      "avtor": "Freyer, 1845",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Aricia agestis",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Aricia anteros",
+      "avtor": "Freyer, 1838",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Aricia artaxerxes",
+      "avtor": "Fabricius, 1793",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Callophrys rubi",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Celastrina argiolus",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Cupido minimus",
+      "avtor": "Fuessly, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Cupido osiris",
+      "avtor": "Meigen, 1829",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Cupido alcetas",
+      "avtor": "Hoffmannsegg, 1804",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Cupido argiades",
+      "avtor": "Pallas, 1771",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Cupido decolorata",
+      "avtor": "Staudinger, 1886",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Cyaniris semiargus",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Eumedonia eumedon",
+      "avtor": "Esper, 1780",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Favonius quercus",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Glaucopsyche alexis",
+      "avtor": "Poda, 1761",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Iolana iolas",
+      "avtor": "Ochsenheimer, 1816",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Kretania sephirus",
+      "avtor": "Frivaldszky, 1835",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lampides boeticus",
+      "avtor": "Linnaeus, 1767",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Leptotes pirithous",
+      "avtor": "Linnaeus, 1767",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena alciphron",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena candens",
+      "avtor": "Herrich-Schäffer, 1844",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena dispar",
+      "avtor": "Haworth, 1802",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena helle",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena ottomanus",
+      "avtor": "Lefebvre, 1830",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena phlaeas",
+      "avtor": "Linnaeus, 1761",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena thersamon",
+      "avtor": "Esper, 1784",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena tityrus",
+      "avtor": "Poda, 1761",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lycaena virgaureae",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lysandra bellargus",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Lysandra coridon",
+      "avtor": "Poda, 1761",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Phengaris alcon",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Phengaris arion",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Phengaris nausithous",
+      "avtor": "Bergstrasser, 1779",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Plebejus argus",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Plebejus argyrognomon",
+      "avtor": "Bergstrasser, 1779",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Plebejus idas",
+      "avtor": "Linnaeus, 1761",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus admetus",
+      "avtor": "Esper, 1783",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus aroaniensis",
+      "avtor": "Brown, 1976",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus nephohiptamenos",
+      "avtor": "Brown & Coutsis, 1978",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus orphicus",
+      "avtor": "Kolev, 2005",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus ripartii",
+      "avtor": "Freyer, 1830",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus daphnis",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus amandus",
+      "avtor": "Schneider, 1792",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus dorylas",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus eros",
+      "avtor": "Ochsenheimer, 1808",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus escheri",
+      "avtor": "Hübner, 1823",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus icarus",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Polyommatus thersites",
+      "avtor": "Cantener, 1835",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Pseudophilotes vicrama",
+      "avtor": "Moore, 1865",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Satyrium acaciae",
+      "avtor": "Fabricius, 1787",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Satyrium ilicis",
+      "avtor": "Esper, 1779",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Satyrium pruni",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Satyrium spini",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Satyrium w-album",
+      "avtor": "Knoch, 1782",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Scolitantides orion",
+      "avtor": "Pallas, 1771",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Tarucus balkanica",
+      "avtor": "Freyer, 1844",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Thecla betulae",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Lycaenidae",
+      "semeystvo_bg": "Синевки"
+    },
+    {
+      "vid": "Aglais io",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Aglais urticae",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Apatura ilia",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Apatura iris",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Apatura metis",
+      "avtor": "Freyer, 1829",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Aphantopus hyperantus",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Araschnia levana",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Arethusana arethusa",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Argynnis paphia",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Argynnis pandora",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Boloria graeca",
+      "avtor": "Staudinger, 1870",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Boloria pales",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Boloria dia",
+      "avtor": "Linnaeus, 1767",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Boloria euphrosyne",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Boloria selene",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Boloria eunomia",
+      "avtor": "Esper, 1799",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Brenthis daphne",
+      "avtor": "Bergstrasser, 1780",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Brenthis hecate",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Brenthis ino",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Brintesia circe",
+      "avtor": "Fabricius, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Chazara briseis",
+      "avtor": "Linnaeus, 1764",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Coenonympha arcania",
+      "avtor": "Linnaeus, 1761",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Coenonympha glycerion",
+      "avtor": "Borkhausen, 1788",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Coenonympha leander",
+      "avtor": "Esper, 1784",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Coenonympha oedippus",
+      "avtor": "Fabricius, 1787",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Coenonympha pamphilus",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Coenonympha rhodopensis",
+      "avtor": "Elwes, 1900",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia aethiops",
+      "avtor": "Esper, 1777",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia alberganus",
+      "avtor": "de Prunner, 1798",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia cassioides",
+      "avtor": "Reiner & Hochenwarth, 1792",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia euryale",
+      "avtor": "Esper, 1805",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia gorge",
+      "avtor": "Hübner, 1804",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia ligea",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia medusa",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia melas",
+      "avtor": "Herbst, 1796",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia oeme",
+      "avtor": "Hübner, 1804",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia orientalis",
+      "avtor": "Elwes, 1900",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia ottomana",
+      "avtor": "Herrich-Schäffer, 1847",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia pandrose",
+      "avtor": "Borkhausen, 1788",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia pronoe",
+      "avtor": "Esper, 1780",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Erebia rhodopensis",
+      "avtor": "Nicholl, 1900",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Euphydryas aurinia",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Euphydryas cynthia",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Euphydryas maturna",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Fabriciana adippe",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Fabriciana niobe",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hipparchia fagi",
+      "avtor": "Scopoli, 1763",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hipparchia syriaca",
+      "avtor": "Staudinger, 1871",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hipparchia fatua",
+      "avtor": "Freyer, 1844",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hipparchia statilinus",
+      "avtor": "Hufnagel, 1766",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hipparchia semele",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hipparchia senthes",
+      "avtor": "Fruhstorfer, 1908",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hipparchia volgensis",
+      "avtor": "Mazochin-Porshnjakov, 1952",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hyponephele lupinus",
+      "avtor": "O. Costa, 1836",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hyponephele lycaon",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Issoria lathonia",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Kirinia climene",
+      "avtor": "Esper, 1783",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Kirinia roxelana",
+      "avtor": "Cramer, 1777",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Lasiommata maera",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Lasiommata megera",
+      "avtor": "Linnaeus, 1767",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Lasiommata petropolitana",
+      "avtor": "Fabricius, 1787",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Libythea celtis",
+      "avtor": "Laicharting, 1782",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Limenitis camilla",
+      "avtor": "Linnaeus, 1764",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Limenitis populi",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Limenitis reducta",
+      "avtor": "Staudinger, 1901",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Lopinga achine",
+      "avtor": "Scopoli, 1763",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Maniola jurtina",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melanargia galathea",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melanargia larissa",
+      "avtor": "Geyer, 1828",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea arduinna",
+      "avtor": "Esper, 1783",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea athalia",
+      "avtor": "Rottemburg, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea aurelia",
+      "avtor": "Nickerl, 1850",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea britomartis",
+      "avtor": "Assmann, 1847",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea cinxia",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea diamina",
+      "avtor": "Lang, 1789",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea didyma",
+      "avtor": "Esper, 1778",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea phoebe",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea telona",
+      "avtor": "Fruhstorfer, 1908",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Melitaea trivia",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Minois dryas",
+      "avtor": "Scopoli, 1763",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Neptis rivularis",
+      "avtor": "Scopoli, 1763",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Neptis sappho",
+      "avtor": "Pallas, 1771",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Nymphalis antiopa",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Nymphalis polychloros",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Nymphalis xanthomelas",
+      "avtor": "Esper, 1781",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pararge aegeria",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Polygonia c-album",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Polygonia egea",
+      "avtor": "Cramer, 1775",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pseudochazara anthelea",
+      "avtor": "Hübner, 1824",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pseudochazara orestes",
+      "avtor": "De Prins & van der Poorten, 1981",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pyronia tithonus",
+      "avtor": "Linnaeus, 1767",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Satyrus ferula",
+      "avtor": "Fabricius, 1793",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Speyeria aglaja",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Vanessa atalanta",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Vanessa cardui",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Nymphalidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Iphiclides podalirius",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Papilionidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Papilio machaon",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Papilionidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Parnassius apollo",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Papilionidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Parnassius mnemosyne",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Papilionidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Zerynthia cerisy",
+      "avtor": "Godart, 1824",
+      "semeystvo": "Papilionidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Zerynthia polyxena",
+      "avtor": "Denis & Schiffermüller, 1775",
+      "semeystvo": "Papilionidae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Anthocharis cardamines",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Anthocharis gruneri",
+      "avtor": "Herrich-Schäffer, 1851",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Aporia crataegi",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Colias alfacariensis",
+      "avtor": "Ribbe, 1905",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Colias caucasica",
+      "avtor": "Staudinger, 1871",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Colias croceus",
+      "avtor": "Fourcroy, 1785",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Colias erate",
+      "avtor": "Esper, 1805",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Colias hyale",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Colias myrmidone",
+      "avtor": "Esper, 1781",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Euchloe penia",
+      "avtor": "Freyer, 1851",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Euchloe ausonia",
+      "avtor": "Hübner, 1804",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Gonepteryx farinosa",
+      "avtor": "Zeller, 1847",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Gonepteryx rhamni",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Leptidea duponcheli",
+      "avtor": "Staudinger, 1871",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Leptidea juvernica",
+      "avtor": "Reissinger, 1990",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Leptidea sinapis",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pieris brassicae",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pieris ergane",
+      "avtor": "Geyer, 1828",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pieris krueperi",
+      "avtor": "Staudinger, 1860",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pieris mannii",
+      "avtor": "Mayer, 1851",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pieris napi",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pieris rapae",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pontia chloridice",
+      "avtor": "Hübner, 1813",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Pontia edusa",
+      "avtor": "Fabricius, 1777",
+      "semeystvo": "Pieridae",
+      "semeystvo_bg": ""
+    },
+    {
+      "vid": "Hamearis lucina",
+      "avtor": "Linnaeus, 1758",
+      "semeystvo": "Riodinidae",
+      "semeystvo_bg": ""
+    }
+  ],
+  "meta": {
+    "title": "Дневни пеперуди в България - Free Download",
+    "description": "Списък на видовете дневни пеперуди, срещащи се в България, по семейства, с автор и година на описание. Contains 209 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Дневни пеперуди в България | ListBase",
+    "seo_description": "Download Дневни пеперуди в България — 209 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 209 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_дневните_пеперуди_на_България"
+    ]
+  }
+}
