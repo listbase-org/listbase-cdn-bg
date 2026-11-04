@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-03T02:13:12.210Z",
-  "total_datasets": 465,
-  "total_records": 194339,
+  "generated": "2026-11-04T02:17:12.443Z",
+  "total_datasets": 466,
+  "total_records": 194417,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -4709,6 +4709,29 @@
         "xlsx": {
           "name": "bg-trakiyski-grobnitsi_BG.xlsx",
           "size": 9026
+        }
+      }
+    },
+    {
+      "id": "bg-dumi-s-golyama-nosovka",
+      "name": "Думи, писани с голяма носовка (ѫ)",
+      "category": "language",
+      "record_count": 78,
+      "columns": [
+        "duma",
+        "razdel"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_думите,_писани_с_голяма_носовка",
+      "updated": "2026-11",
+      "size": 7019,
+      "files": {
+        "csv": {
+          "name": "bg-dumi-s-golyama-nosovka_BG.csv",
+          "size": 1792
+        },
+        "xlsx": {
+          "name": "bg-dumi-s-golyama-nosovka_BG.xlsx",
+          "size": 8261
         }
       }
     },
