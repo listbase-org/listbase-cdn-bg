@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-04T02:17:26.827Z",
-  "total_datasets": 468,
-  "total_records": 194814,
+  "generated": "2026-11-04T02:17:34.349Z",
+  "total_datasets": 469,
+  "total_records": 194915,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -4804,6 +4804,30 @@
         "xlsx": {
           "name": "bg-ezitsi_BG.xlsx",
           "size": 25212
+        }
+      }
+    },
+    {
+      "id": "bg-toponimi-ot-balgari",
+      "name": "Топоними, произхождащи от „българи“",
+      "category": "language",
+      "record_count": 101,
+      "columns": [
+        "toponim",
+        "opisanie",
+        "darzhava"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_топоними,_произхождащи_от_„българи“",
+      "updated": "2026-11",
+      "size": 21173,
+      "files": {
+        "csv": {
+          "name": "bg-toponimi-ot-balgari_BG.csv",
+          "size": 12280
+        },
+        "xlsx": {
+          "name": "bg-toponimi-ot-balgari_BG.xlsx",
+          "size": 11182
         }
       }
     },
