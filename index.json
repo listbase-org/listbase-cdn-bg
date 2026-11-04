@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-04T02:17:12.443Z",
-  "total_datasets": 466,
-  "total_records": 194417,
+  "generated": "2026-11-04T02:17:19.078Z",
+  "total_datasets": 467,
+  "total_records": 194425,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 21
+      "dataset_count": 22
     }
   ],
   "datasets": [
@@ -15555,6 +15555,30 @@
         "xlsx": {
           "name": "bg-merni-edinitsi-volume_BG.xlsx",
           "size": 9423
+        }
+      }
+    },
+    {
+      "id": "bg-narodni-merki-za-dalzhina",
+      "name": "Български народни мерки за дължина",
+      "category": "units",
+      "record_count": 8,
+      "columns": [
+        "myarka",
+        "vid",
+        "opisanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Български_народни_мерки",
+      "updated": "2026-11",
+      "size": 5710,
+      "files": {
+        "csv": {
+          "name": "bg-narodni-merki-za-dalzhina_BG.csv",
+          "size": 3278
+        },
+        "xlsx": {
+          "name": "bg-narodni-merki-za-dalzhina_BG.xlsx",
+          "size": 7817
         }
       }
     }
