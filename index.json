@@ -1,12 +1,12 @@
 {
   "lang": "bg",
-  "generated": "2026-11-05T02:49:35.210Z",
-  "total_datasets": 471,
-  "total_records": 195122,
+  "generated": "2026-11-05T02:49:41.829Z",
+  "total_datasets": 472,
+  "total_records": 195172,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -102,6 +102,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "bg-balgarski-sortove-grozde",
+      "name": "Български сортове грозде",
+      "category": "agriculture",
+      "record_count": 50,
+      "columns": [
+        "sort",
+        "tsvyat",
+        "darzhava",
+        "vivc",
+        "opisanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Категория:Български_сортове_грозде",
+      "updated": "2026-11",
+      "size": 19407,
+      "files": {
+        "csv": {
+          "name": "bg-balgarski-sortove-grozde_BG.csv",
+          "size": 12572
+        },
+        "xlsx": {
+          "name": "bg-balgarski-sortove-grozde_BG.xlsx",
+          "size": 10094
+        }
+      }
+    },
     {
       "id": "bg-medonosni-rasteniya",
       "name": "Най-медоносни растения в България",
