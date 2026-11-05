@@ -1,0 +1,1393 @@
+{
+  "id": "bg-balgarski-korabi",
+  "name": "Български кораби",
+  "title": "Български кораби",
+  "description": "Списък на кораби под български флаг – име, тип, позивна (call sign), MMSI, пристанище на домуване и собственик.",
+  "category": "transport",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_български_кораби",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_български_кораби",
+  "updated": "2026-11",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    },
+    {
+      "key": "pozivna",
+      "label": "Pozivna",
+      "type": "string"
+    },
+    {
+      "key": "mmsi",
+      "label": "Mmsi",
+      "type": "number"
+    },
+    {
+      "key": "opisanie",
+      "label": "Opisanie",
+      "type": "string"
+    },
+    {
+      "key": "pristanishte",
+      "label": "Pristanishte",
+      "type": "string"
+    },
+    {
+      "key": "sobstvenik",
+      "label": "Sobstvenik",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "AKADEMIK",
+      "tip": "Научноизследователски кораб",
+      "pozivna": "LZDA",
+      "mmsi": "207038000",
+      "opisanie": "Активен",
+      "pristanishte": "ТЕРЕМ – КРЗ Флотски арсенал, Варна",
+      "sobstvenik": "БАН, Република България"
+    },
+    {
+      "ime": "AHELOY",
+      "tip": "Военен кораб",
+      "pozivna": "LZIS",
+      "mmsi": "207245000",
+      "opisanie": "Миночистач",
+      "pristanishte": "",
+      "sobstvenik": "Приватизиран към частен собственик"
+    },
+    {
+      "ime": "ALEXANDER DIMITROV",
+      "tip": "Товарен кораб",
+      "pozivna": "LZEM",
+      "mmsi": "207015000",
+      "opisanie": "Нарязан и унищожен през 2013 г. Тежкотоварен кораб, който е пътувал в открито море.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ARMEEC",
+      "tip": "Яхта",
+      "pozivna": "LZH2625",
+      "mmsi": "207826250",
+      "opisanie": "Луксозна яхта",
+      "pristanishte": "Яхтено пристанище, Варна",
+      "sobstvenik": "ТИМ"
+    },
+    {
+      "ime": "DRAZKI",
+      "tip": "Военен кораб",
+      "pozivna": "LZBA",
+      "mmsi": "207501000",
+      "opisanie": "Фрегата. Използва се аквитно в операции на НАТО",
+      "pristanishte": "Военноморска база, Варна",
+      "sobstvenik": "Военноморски сили, Република България"
+    },
+    {
+      "ime": "VERNI",
+      "tip": "Военен кораб",
+      "pozivna": "LZBW",
+      "mmsi": "207522200",
+      "opisanie": "Фрегата",
+      "pristanishte": "Военноморска база, Варна",
+      "sobstvenik": "Военноморски сили, Република България"
+    },
+    {
+      "ime": "GORDI",
+      "tip": "Военен кораб",
+      "pozivna": "LZBU",
+      "mmsi": "207521000",
+      "opisanie": "В състояние на нужда от ремонт",
+      "pristanishte": "Пристанище, Бургас",
+      "sobstvenik": "Военноморски сили, Република България"
+    },
+    {
+      "ime": "PILOT 1",
+      "tip": "Военен кораб",
+      "pozivna": "LZH2933",
+      "mmsi": "207829330",
+      "opisanie": "Брегова охрана. Катер, който патрулира варненското пристанище",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": "Гранична полиция, Република България"
+    },
+    {
+      "ime": "ATANAS DIMITROV",
+      "tip": "Военен кораб",
+      "pozivna": "LZIH",
+      "mmsi": "207110000",
+      "opisanie": "Брегова охрана. Паркиран",
+      "pristanishte": "Островна промишлина зона, Варна",
+      "sobstvenik": "Гранична полиция, Република България"
+    },
+    {
+      "ime": "STV KALIAKRA",
+      "tip": "Ветроход",
+      "pozivna": "LZKY",
+      "mmsi": "207037000",
+      "opisanie": "",
+      "pristanishte": "Островна промишлина зона, Варна",
+      "sobstvenik": "Частен собственик"
+    },
+    {
+      "ime": "NICKY JUNIOR VN7507",
+      "tip": "Други",
+      "pozivna": "LZH2552",
+      "mmsi": "207825520",
+      "opisanie": "Спомагателни дейности",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ALKAID",
+      "tip": "Кораб влекач",
+      "pozivna": "LZQD",
+      "mmsi": "207364000",
+      "opisanie": "",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SANMAR XII",
+      "tip": "Кораб влекач",
+      "pozivna": "LZSD",
+      "mmsi": "207400000",
+      "opisanie": "",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SANMAR XIII",
+      "tip": "Кораб влекач",
+      "pozivna": "LZSF",
+      "mmsi": "207401000",
+      "opisanie": "",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GOLDEN EAGLE",
+      "tip": "Кораб влекач",
+      "pozivna": "LZFV",
+      "mmsi": "207236000",
+      "opisanie": "",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GALAXY ECO",
+      "tip": "Нефтен танкер",
+      "pozivna": "LZMF",
+      "mmsi": "207228000",
+      "opisanie": "Кораб за борба с нефтени разливи. Нает от Европейската агенция по морска безопасност за периода 2017 – 2012 по европроект.",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": "„Космос шипинг“ АД."
+    },
+    {
+      "ime": "ELENA VN7571",
+      "tip": "Катер",
+      "pozivna": "LZH2674",
+      "mmsi": "207826740",
+      "opisanie": "Малък катер",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": "Частен собственик"
+    },
+    {
+      "ime": "AGAMEMNON",
+      "tip": "Нефтен танкер",
+      "pozivna": "LZFH",
+      "mmsi": "207133000",
+      "opisanie": "Кораб, който се използва за доставка на гориво и провизии до други кораби",
+      "pristanishte": "Петролна база на „Петрол АД“, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TULENOVO 2",
+      "tip": "Нефтен танкер",
+      "pozivna": "LZH2238",
+      "mmsi": "207822380",
+      "opisanie": "В миналото регистриран с имената GASTRADER 2, CLASO и SZRENICA. Използва се транспорт.",
+      "pristanishte": "Петролна база на „Петрол АД“, Варна",
+      "sobstvenik": "Частен собственик"
+    },
+    {
+      "ime": "SEVEN STAR",
+      "tip": "Товарен кораб",
+      "pozivna": "LZMZ",
+      "mmsi": "207229000",
+      "opisanie": "Арестуран по неизвестни причини в Италия през 2017 г.",
+      "pristanishte": "",
+      "sobstvenik": "Low Sea Shipping Management Co."
+    },
+    {
+      "ime": "OGINEV",
+      "tip": "Яхта",
+      "pozivna": "LZH3248",
+      "mmsi": "207832480",
+      "opisanie": "Плавателна яхта",
+      "pristanishte": "Яхтено пристанище, Варна",
+      "sobstvenik": "Частен собственик"
+    },
+    {
+      "ime": "ITHAKA",
+      "tip": "Яхта",
+      "pozivna": "LZH2428",
+      "mmsi": "207824280",
+      "opisanie": "Паркирана яхта",
+      "pristanishte": "Яхтено пристанище, Варна",
+      "sobstvenik": "Частен собственик"
+    },
+    {
+      "ime": "SENY STAR",
+      "tip": "Катер",
+      "pozivna": "LZUA",
+      "mmsi": "207296000",
+      "opisanie": "Сервизен катер, който се отдава под наем.",
+      "pristanishte": "Яхтено пристанище, Варна",
+      "sobstvenik": "„Сени“ ЕООД"
+    },
+    {
+      "ime": "EGEO 2",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH3228",
+      "mmsi": "207832280",
+      "opisanie": "",
+      "pristanishte": "Яхтено пристанище, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SKY MEN",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2749",
+      "mmsi": "207827490",
+      "opisanie": "",
+      "pristanishte": "Яхтено пристанище, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "DIAMANT",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2779",
+      "mmsi": "207827790",
+      "opisanie": "",
+      "pristanishte": "Яхтено пристанище, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "HERMES 3",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZVK6",
+      "mmsi": "207343400",
+      "opisanie": "",
+      "pristanishte": "Варненско езеро, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "DANCHOVOTO GEORGI",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2323",
+      "mmsi": "207823230",
+      "opisanie": "",
+      "pristanishte": "Канал 2 Море-езеро, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "IVA 1",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2952",
+      "mmsi": "207829520",
+      "opisanie": "",
+      "pristanishte": "Канал 2 Море-езеро, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TRIGONA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2262",
+      "mmsi": "207822620",
+      "opisanie": "",
+      "pristanishte": "Канал 2 Море-езеро, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SVETI NIKOLA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZVKV",
+      "mmsi": "207343600",
+      "opisanie": "",
+      "pristanishte": "Канал 2 Море-езеро, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "HARASIMOV MLADSHI",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2732",
+      "mmsi": "207827320",
+      "opisanie": "",
+      "pristanishte": "Канал 2 Море-езеро, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SSH37",
+      "tip": "Други",
+      "pozivna": "LZF2244",
+      "mmsi": "207622440",
+      "opisanie": "Специален съд. Стои паркиран в Езерово",
+      "pristanishte": "Езерово, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "DUBHE",
+      "tip": "Кораб влекач",
+      "pozivna": "LZPN",
+      "mmsi": "207095000",
+      "opisanie": "",
+      "pristanishte": "Езерово, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ALEXANDRA",
+      "tip": "Кораб влекач",
+      "pozivna": "LZPB",
+      "mmsi": "207224000",
+      "opisanie": "Рядко е активен",
+      "pristanishte": "Пристанище Запад, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "NAVI",
+      "tip": "Нефтен танкер",
+      "pozivna": "LZKM",
+      "mmsi": "207372000",
+      "opisanie": "Голям нефтен танкер, който е рядко активен",
+      "pristanishte": "Пристанище Запад, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "KOCHAB",
+      "tip": "Кораб влекач",
+      "pozivna": "LZPL",
+      "mmsi": "207096000",
+      "opisanie": "Построен 1991 г.",
+      "pristanishte": "Пристанище Запад, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SANMAR XIV",
+      "tip": "Кораб влекач",
+      "pozivna": "LZSC",
+      "mmsi": "207402000",
+      "opisanie": "",
+      "pristanishte": "Пристанище Запад, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ANNE SOFIE",
+      "tip": "Товарен кораб",
+      "pozivna": "LZHS",
+      "mmsi": "207819000",
+      "opisanie": "Тежкотоварен кораб. Неактивен от 2011 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ATLAS",
+      "tip": "Други",
+      "pozivna": "LZF2242",
+      "mmsi": "207622420",
+      "opisanie": "Кран-влекач",
+      "pristanishte": "Езерово, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "BISCAYA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZRA",
+      "mmsi": "207246000",
+      "opisanie": "Трал. Построен през 1966 г. Вероятно вече изваден от употреба",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "BRIZ",
+      "tip": "Военен кораб",
+      "pozivna": "LZRV",
+      "mmsi": "207297000",
+      "opisanie": "Използван като миночистач от армията. След това е приватизиран",
+      "pristanishte": "",
+      "sobstvenik": "Лукойл"
+    },
+    {
+      "ime": "BULGARIA",
+      "tip": "-",
+      "pozivna": "LZDC",
+      "mmsi": "207004000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "EMONA",
+      "tip": "-",
+      "pozivna": "LZSE",
+      "mmsi": "207320000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ENTERPRISE",
+      "tip": "Други",
+      "pozivna": "LZKN",
+      "mmsi": "207348000",
+      "opisanie": "Кораб за доставка на материали до други кораби. Построен през 1975 г.",
+      "pristanishte": "Пристанище Запад, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "EVEREST",
+      "tip": "-",
+      "pozivna": "LZRF",
+      "mmsi": "207288000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GEORGIA",
+      "tip": "Специални",
+      "pozivna": "LZVL7",
+      "mmsi": "207344700",
+      "opisanie": "Кораб, който не носи информация за себе си. Активен",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GEROITE NA ODESSA",
+      "tip": "Товарен кораб",
+      "pozivna": "LZEA",
+      "mmsi": "207007000",
+      "opisanie": "Тежкотоварен кораб. Активен",
+      "pristanishte": "Пристанище Запад, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GEROITE NA SEVASTOPOL",
+      "tip": "Товарен кораб",
+      "pozivna": "LZEB",
+      "mmsi": "207008000",
+      "opisanie": "Тежкотоварен кораб. Активен",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GIGANT",
+      "tip": "-",
+      "pozivna": "LZIL",
+      "mmsi": "207346200",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GOLDEN BLESSED",
+      "tip": "Други",
+      "pozivna": "LZPG",
+      "mmsi": "207243000",
+      "opisanie": "Кораб за гасене на пожари. Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GOLDEN HORSE-TUG",
+      "tip": "Кораб влекач",
+      "pozivna": "LZPF",
+      "mmsi": "207235000",
+      "opisanie": "Активен",
+      "pristanishte": "Пристанище терминал Росенец, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SLAVA",
+      "tip": "Товарен кораб",
+      "pozivna": "LZIN",
+      "mmsi": "207285000",
+      "opisanie": "Регистриран още с името HRISMAR. В неизвестност от 2011 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "LENA KOLEVA",
+      "tip": "-",
+      "pozivna": "LZSH",
+      "mmsi": "207347000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "LILIANA DIMITROVA",
+      "tip": "Товарен кораб",
+      "pozivna": "LZDD",
+      "mmsi": "207020000",
+      "opisanie": "В неизвестност от 2012 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MARINE PRINCESS",
+      "tip": "Пътнически кораб",
+      "pozivna": "LZH2287",
+      "mmsi": "207822870",
+      "opisanie": "В неизвестност от 2009 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MARY MAGDALENE",
+      "tip": "Яхта",
+      "pozivna": "LZH2326",
+      "mmsi": "207823260",
+      "opisanie": "",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "BARRACUDA",
+      "tip": "Кораб влекач",
+      "pozivna": "LZQT",
+      "mmsi": "207386000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MEGREZ",
+      "tip": "Кораб влекач",
+      "pozivna": "LZPJ",
+      "mmsi": "207234000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MIZAR",
+      "tip": "Кораб влекач",
+      "pozivna": "LZPI",
+      "mmsi": "207223000",
+      "opisanie": "В неизвестност от 2011 г.",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MULTRATUG 8",
+      "tip": "Кораб влекач",
+      "pozivna": "LZQR",
+      "mmsi": "207352000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MULTRATUG 8",
+      "tip": "Кораб влекач",
+      "pozivna": "LZQS",
+      "mmsi": "207385000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MULTRATUG 21",
+      "tip": "Кораб влекач",
+      "pozivna": "LZRE",
+      "mmsi": "207291000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MULTRATUG 22",
+      "tip": "Кораб влекач",
+      "pozivna": "LZRD",
+      "mmsi": "207290000",
+      "opisanie": "Активен",
+      "pristanishte": "Антверп, Холандия",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MULTRATUG 23",
+      "tip": "Кораб влекач",
+      "pozivna": "LZRG",
+      "mmsi": "207298000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MULTRATUG 24",
+      "tip": "Кораб влекач",
+      "pozivna": "LZRC",
+      "mmsi": "207289000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MULTRATUG 25",
+      "tip": "Кораб влекач",
+      "pozivna": "LZRI",
+      "mmsi": "207351000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TATTOO",
+      "tip": "Пътнически кораб",
+      "pozivna": "LZH2796",
+      "mmsi": "207827960",
+      "opisanie": "Отдава се под наем за частни партита. Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": "Частен собственик"
+    },
+    {
+      "ime": "PATRIOT V",
+      "tip": "Яхта",
+      "pozivna": "LZH2482",
+      "mmsi": "207824820",
+      "opisanie": "Яхтата е марка „Ferretti 830“. Дълга 25 метра и оценявана на 4.5 млн. евро.",
+      "pristanishte": "",
+      "sobstvenik": "Динко Динев и Йордан Динев (строителни предприемачи)"
+    },
+    {
+      "ime": "PHECDA",
+      "tip": "Кораб влекач",
+      "pozivna": "LZPM",
+      "mmsi": "207093000",
+      "opisanie": "Построен 1991 г. Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "PLOVDIV",
+      "tip": "Товарен кораб",
+      "pozivna": "LZFQ",
+      "mmsi": "207122000",
+      "opisanie": "В неизвестност от 2012 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "POLARIS",
+      "tip": "Нефтен танкер",
+      "pozivna": "LZFK",
+      "mmsi": "207345200",
+      "opisanie": "Активен",
+      "pristanishte": "Нефтено пристанище Росенец, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "PROCYON",
+      "tip": "Кораб влекач",
+      "pozivna": "LZPK",
+      "mmsi": "207233000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "PROFESOR ALEKSANDAR VALKANOV",
+      "tip": "Научноизследователски кораб",
+      "pozivna": "LZTG",
+      "mmsi": "207406000",
+      "opisanie": "Построен 1979 г. В доста лошо състояние. Неактивен от 2012 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "PROTEO",
+      "tip": "Военен кораб",
+      "pozivna": "LZBI",
+      "mmsi": "207509000",
+      "opisanie": "Военен спасителен кораб",
+      "pristanishte": "Военноморска база, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ROYAL HELENA",
+      "tip": "Ветроход",
+      "pozivna": "LZKZ",
+      "mmsi": "207369000",
+      "opisanie": "Дървен ветроход построен през 2009 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SILVIA",
+      "tip": "-",
+      "pozivna": "LZSI",
+      "mmsi": "207354000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SOZOPOL 1",
+      "tip": "-",
+      "pozivna": "LZGB",
+      "mmsi": "207021000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SV. GEORGI",
+      "tip": "Товарен кораб",
+      "pozivna": "LZEF",
+      "mmsi": "207045000",
+      "opisanie": "Нарязан и унищожен през 2013 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SV. NIKOLAY",
+      "tip": "-",
+      "pozivna": "LZDY",
+      "mmsi": "207046000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TANGRA",
+      "tip": "Други",
+      "pozivna": "LZTA",
+      "mmsi": "207213000",
+      "opisanie": "Цивилен спасителен кораб. В неизвестност от 2013 г.",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TANGRA 2",
+      "tip": "Други",
+      "pozivna": "LZTB",
+      "mmsi": "207214000",
+      "opisanie": "Цивилен спасителен кораб. В неизвестност от 2012 г.",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TETEVEN",
+      "tip": "Товарен кораб",
+      "pozivna": "LZDJ",
+      "mmsi": "207057000",
+      "opisanie": "В неизвестност от 2012 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TSIBAR",
+      "tip": "Военен кораб",
+      "pozivna": "LZBX",
+      "mmsi": "207523000",
+      "opisanie": "Рядко активен",
+      "pristanishte": "Военноморска база, Варна",
+      "sobstvenik": "Военноморски сили, Република България"
+    },
+    {
+      "ime": "VANESSA",
+      "tip": "-",
+      "pozivna": "LZRJ",
+      "mmsi": "207343000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "VARNA",
+      "tip": "Товарен кораб",
+      "pozivna": "LZFZ",
+      "mmsi": "207136000",
+      "opisanie": "Тежкотоварен кораб. Построен през 1995 г. Активен в търговията с Русия",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "VESLETZ",
+      "tip": "-",
+      "pozivna": "LZKB",
+      "mmsi": "207102000",
+      "opisanie": "В неизвестност",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TIULENOVO",
+      "tip": "Други",
+      "pozivna": "LZQG",
+      "mmsi": "207321000",
+      "opisanie": "Кораб за почистване на замърсявания",
+      "pristanishte": "Петролна база на „Петрол АД“, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ANASTASIA",
+      "tip": "Пътнически кораб",
+      "pozivna": "LZH3246",
+      "mmsi": "207832460",
+      "opisanie": "Морски транспорт",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ELS",
+      "tip": "Яхта",
+      "pozivna": "LZUP",
+      "mmsi": "207318000",
+      "opisanie": "Активен",
+      "pristanishte": "Яхтено пристанище, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "PLEONA",
+      "tip": "Яхта",
+      "pozivna": "LZUK",
+      "mmsi": "207313000",
+      "opisanie": "Активен",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "BOOMERANG",
+      "tip": "Яхта",
+      "pozivna": "LZUN",
+      "mmsi": "207316000",
+      "opisanie": "Активен",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "PARADISE SAILING",
+      "tip": "Катер",
+      "pozivna": "LZH2859",
+      "mmsi": "207828590",
+      "opisanie": "Активен",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "KORSAR",
+      "tip": "Катер",
+      "pozivna": "LZH2474",
+      "mmsi": "207824740",
+      "opisanie": "Активен",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "RK 26",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZTN",
+      "mmsi": "207420000",
+      "opisanie": "Активен",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "RK 27",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZTO",
+      "mmsi": "207421000",
+      "opisanie": "Активен",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "STELLA MARISS",
+      "tip": "Ветроход",
+      "pozivna": "LZUM",
+      "mmsi": "207315000",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "AGALINA",
+      "tip": "Ветроход",
+      "pozivna": "LZUL",
+      "mmsi": "207314000",
+      "opisanie": "Активен",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "HEMUS",
+      "tip": "Товарен кораб",
+      "pozivna": "LZG2232",
+      "mmsi": "207072232",
+      "opisanie": "Активен. Точният вид на този съд не е известен",
+      "pristanishte": "Пристанище, Русе",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MARIANE",
+      "tip": "Други",
+      "pozivna": "LZG2356",
+      "mmsi": "207072356",
+      "opisanie": "Активен. Точният вид на този съд не е известен",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "2073 19",
+      "tip": "Специални",
+      "pozivna": "-",
+      "mmsi": "207300019",
+      "opisanie": "Кораб, който плава под български флаг, но не излъчва идентификационен сигнал. Активен в Китайско море",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SMELI",
+      "tip": "Военен кораб",
+      "pozivna": "-",
+      "mmsi": "207511000",
+      "opisanie": "Фрегата. Номер: 11",
+      "pristanishte": "ТЕРЕМ – КРЗ Флотски арсенал, Варна",
+      "sobstvenik": "Военноморски сили, Република България"
+    },
+    {
+      "ime": "PRIBOI",
+      "tip": "Военен кораб",
+      "pozivna": "LZBP",
+      "mmsi": "207506300",
+      "opisanie": "Базов миночистач, проект 1265Э НАТО клас „Соня“",
+      "pristanishte": "",
+      "sobstvenik": "Военноморски сили, Република България"
+    },
+    {
+      "ime": "OBZOR",
+      "tip": "Военен кораб",
+      "pozivna": "LZCC",
+      "mmsi": "207452500",
+      "opisanie": "Патрул на Гранична полиция. Има доста широк маршрут. Активен",
+      "pristanishte": "ТЕРЕМ – КРЗ Флотски арсенал, Варна",
+      "sobstvenik": "Гранична полиция, Република България"
+    },
+    {
+      "ime": "VYARA",
+      "tip": "Други",
+      "pozivna": "LZF2229",
+      "mmsi": "207622290",
+      "opisanie": "Кораб за спасителни дейности",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "BURGAS",
+      "tip": "Нефтен танкер",
+      "pozivna": "LZ2224",
+      "mmsi": "207751400",
+      "opisanie": "Активен",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "KALIAKRA",
+      "tip": "Яхта",
+      "pozivna": "LZC2232",
+      "mmsi": "207453000",
+      "opisanie": "Да не се бърка с ветроход STV KALIAKRA.",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "BALGARSKI CHERVEN KR",
+      "tip": "Други",
+      "pozivna": "LZH2828",
+      "mmsi": "207828280",
+      "opisanie": "Спасителен катер. Активен",
+      "pristanishte": "Пристанище Изток, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "FPB POMORIE",
+      "tip": "Военен кораб",
+      "pozivna": "-",
+      "mmsi": "207451100",
+      "opisanie": "Патрул на Гранична полиция. Рядко активен",
+      "pristanishte": "",
+      "sobstvenik": "Гранична полиция, Република България"
+    },
+    {
+      "ime": "PERUN",
+      "tip": "Други",
+      "pozivna": "LZGK",
+      "mmsi": "207212000",
+      "opisanie": "Кораб за спасителни дейности построен през 1977 г. Бил е дърважна собственост. Приватизиран през 2008 г. В неизвестност от 2010 г.",
+      "pristanishte": "Пристанище Запад, Варна",
+      "sobstvenik": "Частен собственик"
+    },
+    {
+      "ime": "RALITSA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2236",
+      "mmsi": "207822360",
+      "opisanie": "Активен",
+      "pristanishte": "Белослав, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "CHELSEA",
+      "tip": "Яхта",
+      "pozivna": "LZH2445",
+      "mmsi": "207824450",
+      "opisanie": "Паркирана яхта",
+      "pristanishte": "Св. Константин и Елена, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "GAS PLATFORM",
+      "tip": "Други",
+      "pozivna": "2070910",
+      "mmsi": "2070910",
+      "opisanie": "Газова платформа, разположена е в икономическата зона на българските води на изток от Варна. Още известна с името „Galata Platform“",
+      "pristanishte": "Черно море",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ALCOR",
+      "tip": "Кораб влекач",
+      "pozivna": "LZF2246",
+      "mmsi": "207622460",
+      "opisanie": "Активен",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "ORKA 1",
+      "tip": "Военен кораб",
+      "pozivna": "LZH2996",
+      "mmsi": "207829960",
+      "opisanie": "Брегова охрана. Катер, патрулиращ бургаското пристанище",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "NORD 3",
+      "tip": "Военен кораб",
+      "pozivna": "LZH2846",
+      "mmsi": "207828460",
+      "opisanie": "Брегова охрана. Катер, патрулиращ бургаското пристанище",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": "Гранична полиция, Република България"
+    },
+    {
+      "ime": "PATROL",
+      "tip": "Военен кораб",
+      "pozivna": "LZH3269",
+      "mmsi": "207832690",
+      "opisanie": "Брегова охрана. Катер, патрулиращ бургаското пристанище",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": "Гранична полиция, Република България"
+    },
+    {
+      "ime": "HAITHABU",
+      "tip": "Научноизследователски кораб",
+      "pozivna": "LZHC",
+      "mmsi": "207139000",
+      "opisanie": "",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "NADEZHDA",
+      "tip": "Други",
+      "pozivna": "LZF2236",
+      "mmsi": "207622360",
+      "opisanie": "Малък спасителен катер",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "MADARA",
+      "tip": "Нефтен танкер",
+      "pozivna": "LZNN",
+      "mmsi": "207261414",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Русе",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "YAKOS",
+      "tip": "Товарен кораб",
+      "pozivna": "LZQJ",
+      "mmsi": "207261710",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Русе",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "PRESLAV",
+      "tip": "Товарен кораб",
+      "pozivna": "LZG2244",
+      "mmsi": "207072244",
+      "opisanie": "Малък товарен катер",
+      "pristanishte": "Пристанище, Русе",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "RODA",
+      "tip": "Товарен кораб",
+      "pozivna": "LZG2368",
+      "mmsi": "207072368",
+      "opisanie": "Малък товарен катер. Предназначен за плаване в реки",
+      "pristanishte": "Пристанище, Русе",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "VASIL APRILOV",
+      "tip": "Товарен кораб",
+      "pozivna": "LZLE",
+      "mmsi": "207261205",
+      "opisanie": "Също работи като кораб влекач",
+      "pristanishte": "Пристанище, Русе",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "EVROPA",
+      "tip": "Товарен кораб",
+      "pozivna": "LZG2265",
+      "mmsi": "207072265",
+      "opisanie": "Също работи като кораб влекач",
+      "pristanishte": "Пристанище, Русе",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "RUSCHUK",
+      "tip": "Пътнически кораб",
+      "pozivna": "LZG2282",
+      "mmsi": "207072282",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Русе",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "BODRI",
+      "tip": "Военен кораб",
+      "pozivna": "",
+      "mmsi": "",
+      "opisanie": "Фрегата. Номер: 14. Вероятно се ремонтира",
+      "pristanishte": "ТЕРЕМ – КРЗ Флотски арсенал, Варна",
+      "sobstvenik": "Военноморски сили, Република България"
+    },
+    {
+      "ime": "555555555",
+      "tip": "Други",
+      "pozivna": "22222",
+      "mmsi": "207000000",
+      "opisanie": "Катер с неизвестно приложение",
+      "pristanishte": "Военноморска база, Варна",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "BARBUN",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2937",
+      "mmsi": "207829370",
+      "opisanie": "Рибарска лодка около Бургас. Известна още с име BARBUN VN79 79",
+      "pristanishte": "Терминал Запад, Бургас",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "EGEO 1",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH3277",
+      "mmsi": "207832770",
+      "opisanie": "Рибарска лодка около Бургас",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "SVETA ANNA 1",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2975",
+      "mmsi": "207829750",
+      "opisanie": "Рибарска лодка около Бургас",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "VN7822",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2894",
+      "mmsi": "207828940",
+      "opisanie": "Рибарска лодка около Бургас",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "VIKTORIA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH3257",
+      "mmsi": "207832570",
+      "opisanie": "Рибарска лодка около Бургас",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "KALIAKRA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2929",
+      "mmsi": "207829290",
+      "opisanie": "Рибарска лодка около Бургас",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TRIGONA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2262",
+      "mmsi": "207822620",
+      "opisanie": "Рибарска лодка около Бургас",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "VN 2998",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2853",
+      "mmsi": "207828530",
+      "opisanie": "Рибарска лодка около Бургас",
+      "pristanishte": "Пристанище, Черноморец",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "HERMES 4",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2936",
+      "mmsi": "207829360",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Черноморец",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "NIKOLA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2257",
+      "mmsi": "207822570",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "DELTA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2228",
+      "mmsi": "207822280",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "IRINA",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2928",
+      "mmsi": "207829280",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "HERSON",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2265",
+      "mmsi": "207822650",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "CHAVDAR",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2264",
+      "mmsi": "207882640",
+      "opisanie": "",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "TESI",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZH2735",
+      "mmsi": "207827350",
+      "opisanie": "",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "RK 28",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZUU",
+      "mmsi": "207422000",
+      "opisanie": "Трал",
+      "pristanishte": "Пристанище, Созопол",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "RK 37",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZUV",
+      "mmsi": "207424000",
+      "opisanie": "Трал",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "RK 40",
+      "tip": "Рибарска лодка",
+      "pozivna": "-",
+      "mmsi": "207425000",
+      "opisanie": "Трал. Постоен през 1990 г.",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "RK 41",
+      "tip": "Рибарска лодка",
+      "pozivna": "LZTQ",
+      "mmsi": "207426000",
+      "opisanie": "Трал",
+      "pristanishte": "",
+      "sobstvenik": ""
+    },
+    {
+      "ime": "AXS 2018",
+      "tip": "кораб",
+      "pozivna": "LZHQ",
+      "mmsi": "200000001",
+      "opisanie": "неизвестен",
+      "pristanishte": "София",
+      "sobstvenik": ""
+    }
+  ],
+  "meta": {
+    "title": "Български кораби - Free Download",
+    "description": "Списък на кораби под български флаг – име, тип, позивна (call sign), MMSI, пристанище на домуване и собственик. Contains 148 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Български кораби | ListBase",
+    "seo_description": "Download Български кораби — 148 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 148 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_български_кораби"
+    ]
+  }
+}
