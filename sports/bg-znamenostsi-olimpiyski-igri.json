@@ -1,0 +1,233 @@
+{
+  "id": "bg-znamenostsi-olimpiyski-igri",
+  "name": "Знаменосци на България на олимпийските игри",
+  "title": "Знаменосци на България на олимпийските игри",
+  "description": "Български спортисти, носили националното знаме на церемониите по откриване на летните и зимните олимпийски игри, по година, сезон и спорт.",
+  "category": "sports",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_знаменосци_на_България_на_олимпийските_игри",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_знаменосци_на_България_на_олимпийските_игри",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "sezon",
+      "label": "Sezon",
+      "type": "string"
+    },
+    {
+      "key": "znamenosets",
+      "label": "Znamenosets",
+      "type": "string"
+    },
+    {
+      "key": "sport",
+      "label": "Sport",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "godina": 1936,
+      "sezon": "лято",
+      "znamenosets": "Любен Дойчев",
+      "sport": "лека атлетика"
+    },
+    {
+      "nomer": 2,
+      "godina": 1972,
+      "sezon": "лято",
+      "znamenosets": "Димитър Златанов",
+      "sport": "волейбол"
+    },
+    {
+      "nomer": 3,
+      "godina": 1976,
+      "sezon": "лято",
+      "znamenosets": "Александър Томов",
+      "sport": "борба"
+    },
+    {
+      "nomer": 4,
+      "godina": 1980,
+      "sezon": "зима",
+      "znamenosets": "Петър Попангелов",
+      "sport": "ски алпийски дисциплини"
+    },
+    {
+      "nomer": 5,
+      "godina": 1984,
+      "sezon": "зима",
+      "znamenosets": "Владимир Величков",
+      "sport": "биатлон"
+    },
+    {
+      "nomer": 6,
+      "godina": 1988,
+      "sezon": "зима",
+      "znamenosets": "Владимир Величков",
+      "sport": "биатлон"
+    },
+    {
+      "nomer": 7,
+      "godina": 1988,
+      "sezon": "лято",
+      "znamenosets": "Васил Етрополски",
+      "sport": "фехтовка"
+    },
+    {
+      "nomer": 8,
+      "godina": 1992,
+      "sezon": "зима",
+      "znamenosets": "Ива Шкодрева",
+      "sport": "биатлон"
+    },
+    {
+      "nomer": 9,
+      "godina": 1992,
+      "sezon": "лято",
+      "znamenosets": "Ивайло Йорданов",
+      "sport": "футбол"
+    },
+    {
+      "nomer": 10,
+      "godina": 1994,
+      "sezon": "зима",
+      "znamenosets": "Надежда Алексиева",
+      "sport": "биатлон"
+    },
+    {
+      "nomer": 11,
+      "godina": 1996,
+      "sezon": "лято",
+      "znamenosets": "Димо Тонев",
+      "sport": "волейбол"
+    },
+    {
+      "nomer": 12,
+      "godina": 1998,
+      "sezon": "зима",
+      "znamenosets": "Любомир Попов",
+      "sport": "ски алпийски дисциплини"
+    },
+    {
+      "nomer": 13,
+      "godina": 2000,
+      "sezon": "лято",
+      "znamenosets": "Иво Янакиев",
+      "sport": "академично гребане"
+    },
+    {
+      "nomer": 14,
+      "godina": 2002,
+      "sezon": "зима",
+      "znamenosets": "Стефан Георгиев",
+      "sport": "ски алпийски дисциплини"
+    },
+    {
+      "nomer": 15,
+      "godina": 2004,
+      "sezon": "лято",
+      "znamenosets": "Мария Гроздева",
+      "sport": "стрелба"
+    },
+    {
+      "nomer": 16,
+      "godina": 2006,
+      "sezon": "зима",
+      "znamenosets": "Екатерина Дафовска",
+      "sport": "биатлон"
+    },
+    {
+      "nomer": 17,
+      "godina": 2008,
+      "sezon": "лято",
+      "znamenosets": "Петър Стойчев",
+      "sport": "плуване"
+    },
+    {
+      "nomer": 18,
+      "godina": 2010,
+      "sezon": "зима",
+      "znamenosets": "Александра Жекова",
+      "sport": "сноуборд"
+    },
+    {
+      "nomer": 19,
+      "godina": 2012,
+      "sezon": "лято",
+      "znamenosets": "Йордан Йовчев",
+      "sport": "гимнастика"
+    },
+    {
+      "nomer": 20,
+      "godina": 2014,
+      "sezon": "зима",
+      "znamenosets": "Мария Киркова",
+      "sport": "ски алпийски дисциплини"
+    },
+    {
+      "nomer": 21,
+      "godina": 2016,
+      "sezon": "лято",
+      "znamenosets": "Ивет Лалова-Колио",
+      "sport": "лека атлетика"
+    },
+    {
+      "nomer": 22,
+      "godina": 2018,
+      "sezon": "зима",
+      "znamenosets": "Радослав Янков",
+      "sport": "сноуборд"
+    },
+    {
+      "nomer": 23,
+      "godina": 2020,
+      "sezon": "лято",
+      "znamenosets": "Мария Гроздева и Йосиф Миладинов",
+      "sport": "спортна стрелба и плуване"
+    },
+    {
+      "nomer": 24,
+      "godina": 2022,
+      "sezon": "зима",
+      "znamenosets": "Мария Здравкова и Радослав Янков",
+      "sport": "биатлон и сноуборд"
+    },
+    {
+      "nomer": 25,
+      "godina": 2024,
+      "sezon": "лято",
+      "znamenosets": "Любомир Епитропов и Станимира Петрова",
+      "sport": "плуване и бокс"
+    },
+    {
+      "nomer": 26,
+      "godina": 2026,
+      "sezon": "зима",
+      "znamenosets": "Александра Фейгин и Владимир Илиев",
+      "sport": "фигурно пързаляне и биатлон"
+    }
+  ],
+  "meta": {
+    "title": "Знаменосци на България на олимпийските игри - Free Download",
+    "description": "Български спортисти, носили националното знаме на церемониите по откриване на летните и зимните олимпийски игри, по година, сезон и спорт. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Знаменосци на България на олимпийските игри | ListBase",
+    "seo_description": "Download Знаменосци на България на олимпийските игри — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_знаменосци_на_България_на_олимпийските_игри"
+    ]
+  }
+}

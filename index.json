@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-05T02:49:41.829Z",
-  "total_datasets": 472,
-  "total_records": 195172,
+  "generated": "2026-11-05T02:49:49.444Z",
+  "total_datasets": 473,
+  "total_records": 195198,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -11658,6 +11658,32 @@
         "xlsx": {
           "name": "bg-shampionska-liga-na-uefa-machove_BG.xlsx",
           "size": 146542
+        }
+      }
+    },
+    {
+      "id": "bg-znamenostsi-olimpiyski-igri",
+      "name": "Знаменосци на България на олимпийските игри",
+      "category": "sports",
+      "record_count": 26,
+      "columns": [
+        "nomer",
+        "godina",
+        "sezon",
+        "znamenosets",
+        "sport"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_знаменосци_на_България_на_олимпийските_игри",
+      "updated": "2026-11",
+      "size": 7104,
+      "files": {
+        "csv": {
+          "name": "bg-znamenostsi-olimpiyski-igri_BG.csv",
+          "size": 2308
+        },
+        "xlsx": {
+          "name": "bg-znamenostsi-olimpiyski-igri_BG.xlsx",
+          "size": 7991
         }
       }
     },
