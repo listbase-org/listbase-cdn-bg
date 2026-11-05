@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-05T02:49:26.985Z",
-  "total_datasets": 470,
-  "total_records": 195063,
+  "generated": "2026-11-05T02:49:35.210Z",
+  "total_datasets": 471,
+  "total_records": 195122,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -4928,6 +4928,32 @@
         "xlsx": {
           "name": "bg-vidove-sadilishta_BG.xlsx",
           "size": 7738
+        }
+      }
+    },
+    {
+      "id": "bg-balgarski-rok-grupi",
+      "name": "Български рок групи",
+      "category": "music",
+      "record_count": 59,
+      "columns": [
+        "grupa",
+        "ot",
+        "stil",
+        "aktivnost",
+        "opisanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Категория:Български_рок_групи",
+      "updated": "2026-11",
+      "size": 21860,
+      "files": {
+        "csv": {
+          "name": "bg-balgarski-rok-grupi_BG.csv",
+          "size": 14463
+        },
+        "xlsx": {
+          "name": "bg-balgarski-rok-grupi_BG.xlsx",
+          "size": 12005
         }
       }
     },
