@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-06T02:25:19.111Z",
-  "total_datasets": 479,
-  "total_records": 196115,
+  "generated": "2026-11-06T02:25:29.276Z",
+  "total_datasets": 480,
+  "total_records": 196338,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 13
+      "dataset_count": 14
     },
     {
       "id": "economy",
@@ -409,6 +409,29 @@
         "xlsx": {
           "name": "bg-muzei_BG.xlsx",
           "size": 14224
+        }
+      }
+    },
+    {
+      "id": "bg-muzei-po-oblasti",
+      "name": "Музеи в България по области",
+      "category": "culture",
+      "record_count": 223,
+      "columns": [
+        "ime",
+        "oblast"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Музеи_в_България",
+      "updated": "2026-11",
+      "size": 29257,
+      "files": {
+        "csv": {
+          "name": "bg-muzei-po-oblasti_BG.csv",
+          "size": 18118
+        },
+        "xlsx": {
+          "name": "bg-muzei-po-oblasti_BG.xlsx",
+          "size": 12662
         }
       }
     },
