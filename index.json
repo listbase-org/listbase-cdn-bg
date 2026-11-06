@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-06T02:25:10.308Z",
-  "total_datasets": 478,
-  "total_records": 196064,
+  "generated": "2026-11-06T02:25:19.111Z",
+  "total_datasets": 479,
+  "total_records": 196115,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 32
+      "dataset_count": 33
     },
     {
       "id": "entertainment",
@@ -1671,6 +1671,32 @@
         "xlsx": {
           "name": "bg-vidin-uchilishta-registar_BG.xlsx",
           "size": 10261
+        }
+      }
+    },
+    {
+      "id": "bg-visshi-uchilishta",
+      "name": "Висши училища в България",
+      "category": "education",
+      "record_count": 51,
+      "columns": [
+        "ime",
+        "grad",
+        "osnovane",
+        "vid",
+        "sayt"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_висшите_училища_в_България",
+      "updated": "2026-11",
+      "size": 13062,
+      "files": {
+        "csv": {
+          "name": "bg-visshi-uchilishta_BG.csv",
+          "size": 6704
+        },
+        "xlsx": {
+          "name": "bg-visshi-uchilishta_BG.xlsx",
+          "size": 9648
         }
       }
     },
