@@ -1,0 +1,60 @@
+{
+  "id": "bg-softuerni-firmi",
+  "name": "Български софтуерни фирми",
+  "title": "Български софтуерни фирми",
+  "description": "Подбрани български софтуерни компании, описани в статията „Софтуерна индустрия в България“ в Уикипедия.",
+  "category": "tech",
+  "source": "https://bg.wikipedia.org/wiki/Софтуерна_индустрия_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Софтуерна_индустрия_в_България",
+  "updated": "2026-11",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "firma",
+      "label": "Firma",
+      "type": "string"
+    },
+    {
+      "key": "iztochnik",
+      "label": "Iztochnik",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "firma": "Информационно обслужване АД",
+      "iztochnik": "Софтуерна индустрия в България"
+    },
+    {
+      "firma": "Телерик",
+      "iztochnik": "Софтуерна индустрия в България"
+    },
+    {
+      "firma": "Нетинфо",
+      "iztochnik": "Софтуерна индустрия в България"
+    },
+    {
+      "firma": "Инвестор.БГ АД",
+      "iztochnik": "Софтуерна индустрия в България"
+    },
+    {
+      "firma": "Империя онлайн",
+      "iztochnik": "Софтуерна индустрия в България"
+    },
+    {
+      "firma": "NaXex Technological Development",
+      "iztochnik": "Софтуерна индустрия в България"
+    }
+  ],
+  "meta": {
+    "title": "Български софтуерни фирми - Free Download",
+    "description": "Подбрани български софтуерни компании, описани в статията „Софтуерна индустрия в България“ в Уикипедия. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Български софтуерни фирми | ListBase",
+    "seo_description": "Download Български софтуерни фирми — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Софтуерна_индустрия_в_България"
+    ]
+  }
+}

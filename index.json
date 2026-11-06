@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-06T02:24:33.754Z",
-  "total_datasets": 474,
-  "total_records": 195205,
+  "generated": "2026-11-06T02:24:44.037Z",
+  "total_datasets": 475,
+  "total_records": 195211,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -11762,6 +11762,29 @@
         "xlsx": {
           "name": "bg-mobilni-operatori_BG.xlsx",
           "size": 7024
+        }
+      }
+    },
+    {
+      "id": "bg-softuerni-firmi",
+      "name": "Български софтуерни фирми",
+      "category": "tech",
+      "record_count": 6,
+      "columns": [
+        "firma",
+        "iztochnik"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Софтуерна_индустрия_в_България",
+      "updated": "2026-11",
+      "size": 2526,
+      "files": {
+        "csv": {
+          "name": "bg-softuerni-firmi_BG.csv",
+          "size": 564
+        },
+        "xlsx": {
+          "name": "bg-softuerni-firmi_BG.xlsx",
+          "size": 6905
         }
       }
     },
