@@ -1,0 +1,186 @@
+{
+  "id": "bg-efirni-televizii",
+  "name": "Ефирни телевизии в България",
+  "title": "Ефирни телевизии в България",
+  "description": "Настоящи и бивши ефирни (наземни) телевизионни канали в България – национални и регионални.",
+  "category": "tech",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_ефирните_телевизии_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_ефирните_телевизии_в_България",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "kanal",
+      "label": "Kanal",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "tip",
+      "label": "Tip",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kanal": "БНТ 1",
+      "status": "Настояще",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "БНТ 2",
+      "status": "Настояще",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "БНТ 3",
+      "status": "Настояще",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "БТВ",
+      "status": "Настояще",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "Нова ТВ",
+      "status": "Настояще",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "BG ON AIR (само в някои райони)",
+      "status": "Настояще",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "Нова Нюз (Мултиплекс София)",
+      "status": "Настояще",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "Фолклор ТВ (Мултиплекс София)",
+      "status": "Настояще",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "Евронюз България (Мултиплекс София)",
+      "status": "Настояще",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "БТВ Екшън",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "PRO.BG",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "TV2",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "CTN",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "ТОП ТВ",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "БТВ Лейди +1",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "Ринг ТВ +1",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "Диема Фемили +1",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "TV7",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "News7",
+      "status": "Минало",
+      "tip": "Национални"
+    },
+    {
+      "kanal": "Европа ТВ",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "The Voice",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "Алфа ТВ",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "Вест ТВ",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "Канал 3",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "GTV (2005-2009)",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "Триада (телевизия) (1994-1997)",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "7 дни",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "ББТ",
+      "status": "Минало",
+      "tip": "Регионални"
+    },
+    {
+      "kanal": "Фен Фолк",
+      "status": "Минало",
+      "tip": "Регионални"
+    }
+  ],
+  "meta": {
+    "title": "Ефирни телевизии в България - Free Download",
+    "description": "Настоящи и бивши ефирни (наземни) телевизионни канали в България – национални и регионални. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ефирни телевизии в България | ListBase",
+    "seo_description": "Download Ефирни телевизии в България — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_ефирните_телевизии_в_България"
+    ]
+  }
+}
