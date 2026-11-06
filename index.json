@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-06T02:25:29.276Z",
-  "total_datasets": 480,
-  "total_records": 196338,
+  "generated": "2026-11-06T02:25:37.752Z",
+  "total_datasets": 481,
+  "total_records": 196685,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -11588,6 +11588,30 @@
         "xlsx": {
           "name": "bg-razhdaemost-po-godini_BG.xlsx",
           "size": 9857
+        }
+      }
+    },
+    {
+      "id": "bg-imena-na-futbolni-otbori",
+      "name": "Имена на български футболни отбори",
+      "category": "sports",
+      "record_count": 347,
+      "columns": [
+        "otbor",
+        "znachenie",
+        "tema"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Имена_на_български_футболни_отбори",
+      "updated": "2026-11",
+      "size": 46863,
+      "files": {
+        "csv": {
+          "name": "bg-imena-na-futbolni-otbori_BG.csv",
+          "size": 23135
+        },
+        "xlsx": {
+          "name": "bg-imena-na-futbolni-otbori_BG.xlsx",
+          "size": 16224
         }
       }
     },
