@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-06T02:25:01.862Z",
-  "total_datasets": 477,
-  "total_records": 195718,
+  "generated": "2026-11-06T02:25:10.308Z",
+  "total_datasets": 478,
+  "total_records": 196064,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 73
+      "dataset_count": 74
     },
     {
       "id": "health",
@@ -4357,6 +4357,32 @@
         "xlsx": {
           "name": "bg-planini_BG.xlsx",
           "size": 16009
+        }
+      }
+    },
+    {
+      "id": "bg-reki",
+      "name": "Реки в България",
+      "category": "geography",
+      "record_count": 346,
+      "columns": [
+        "ime",
+        "dalzhina_km",
+        "plosht_km2",
+        "beleshka",
+        "bukva"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_реките_в_България",
+      "updated": "2026-11",
+      "size": 71636,
+      "files": {
+        "csv": {
+          "name": "bg-reki_BG.csv",
+          "size": 35121
+        },
+        "xlsx": {
+          "name": "bg-reki_BG.xlsx",
+          "size": 20222
         }
       }
     },
