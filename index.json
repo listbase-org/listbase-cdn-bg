@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-06T02:24:52.572Z",
-  "total_datasets": 476,
-  "total_records": 195240,
+  "generated": "2026-11-06T02:25:01.862Z",
+  "total_datasets": 477,
+  "total_records": 195718,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 72
+      "dataset_count": 73
     },
     {
       "id": "health",
@@ -4333,6 +4333,30 @@
         "xlsx": {
           "name": "bg-peshteri_BG.xlsx",
           "size": 40852
+        }
+      }
+    },
+    {
+      "id": "bg-planini",
+      "name": "Планини в България",
+      "category": "geography",
+      "record_count": 478,
+      "columns": [
+        "ime",
+        "drugi_imena",
+        "bukva"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_планините_в_България",
+      "updated": "2026-11",
+      "size": 51172,
+      "files": {
+        "csv": {
+          "name": "bg-planini_BG.csv",
+          "size": 18886
+        },
+        "xlsx": {
+          "name": "bg-planini_BG.xlsx",
+          "size": 16009
         }
       }
     },
