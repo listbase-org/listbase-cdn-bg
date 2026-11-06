@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-05T02:49:49.444Z",
-  "total_datasets": 473,
-  "total_records": 195198,
+  "generated": "2026-11-06T02:24:33.754Z",
+  "total_datasets": 474,
+  "total_records": 195205,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -11738,6 +11738,30 @@
         "xlsx": {
           "name": "bg-kompyutri-pravets-modeli_BG.xlsx",
           "size": 10330
+        }
+      }
+    },
+    {
+      "id": "bg-mobilni-operatori",
+      "name": "Мобилни оператори в България",
+      "category": "tech",
+      "record_count": 7,
+      "columns": [
+        "kompaniya",
+        "tehnologii",
+        "marka"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Мобилен_оператор",
+      "updated": "2026-11",
+      "size": 2616,
+      "files": {
+        "csv": {
+          "name": "bg-mobilni-operatori_BG.csv",
+          "size": 531
+        },
+        "xlsx": {
+          "name": "bg-mobilni-operatori_BG.xlsx",
+          "size": 7024
         }
       }
     },

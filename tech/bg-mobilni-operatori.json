@@ -1,0 +1,76 @@
+{
+  "id": "bg-mobilni-operatori",
+  "name": "Мобилни оператори в България",
+  "title": "Мобилни оператори в България",
+  "description": "Мобилни мрежови оператори в България с технологии (GSM/UMTS/LTE/5G) и търговски марки.",
+  "category": "tech",
+  "source": "https://bg.wikipedia.org/wiki/Мобилен_оператор",
+  "source_url": "https://bg.wikipedia.org/wiki/Мобилен_оператор",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "kompaniya",
+      "label": "Kompaniya",
+      "type": "string"
+    },
+    {
+      "key": "tehnologii",
+      "label": "Tehnologii",
+      "type": "string"
+    },
+    {
+      "key": "marka",
+      "label": "Marka",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kompaniya": "Мобилтел ЕАД",
+      "tehnologii": "4G LTE/ GSM / UMTS",
+      "marka": "M-tel"
+    },
+    {
+      "kompaniya": "Теленор България",
+      "tehnologii": "4G LTE / GSM / UMTS",
+      "marka": "Теленор"
+    },
+    {
+      "kompaniya": "БТК",
+      "tehnologii": "4G LTE / GSM / UMTS",
+      "marka": "Вивател (по времето на БТК Мобайл ЕООД, до 2009) и Виваком"
+    },
+    {
+      "kompaniya": "Макс Телеком ООД",
+      "tehnologii": "4G LTE",
+      "marka": "Макс"
+    },
+    {
+      "kompaniya": "А1 България",
+      "tehnologii": "5G / 4G LTE / GSM / UMTS",
+      "marka": "A1"
+    },
+    {
+      "kompaniya": "БТК",
+      "tehnologii": "5G / 4G LTE / GSM / UMTS",
+      "marka": "Виваком"
+    },
+    {
+      "kompaniya": "Йеттел България",
+      "tehnologii": "5G / 4G LTE / GSM / UMTS",
+      "marka": "Йеттел"
+    }
+  ],
+  "meta": {
+    "title": "Мобилни оператори в България - Free Download",
+    "description": "Мобилни мрежови оператори в България с технологии (GSM/UMTS/LTE/5G) и търговски марки. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Мобилни оператори в България | ListBase",
+    "seo_description": "Download Мобилни оператори в България — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Мобилен_оператор"
+    ]
+  }
+}
