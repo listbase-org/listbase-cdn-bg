@@ -1,12 +1,12 @@
 {
   "lang": "bg",
-  "generated": "2026-11-09T02:30:21.048Z",
-  "total_datasets": 483,
-  "total_records": 196805,
+  "generated": "2026-11-09T02:30:30.567Z",
+  "total_datasets": 484,
+  "total_records": 196825,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -176,6 +176,31 @@
         "xlsx": {
           "name": "bg-ministri-zemedelie_BG.xlsx",
           "size": 12032
+        }
+      }
+    },
+    {
+      "id": "bg-rozovo-maslo-proizvodstvo",
+      "name": "Производство на розово масло в България по години",
+      "category": "agriculture",
+      "record_count": 20,
+      "columns": [
+        "godina",
+        "ploshti_dka",
+        "rozovo_maslo_tona",
+        "rozov_tsvyat_tona"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Розово_масло",
+      "updated": "2026-11",
+      "size": 4575,
+      "files": {
+        "csv": {
+          "name": "bg-rozovo-maslo-proizvodstvo_BG.csv",
+          "size": 518
+        },
+        "xlsx": {
+          "name": "bg-rozovo-maslo-proizvodstvo_BG.xlsx",
+          "size": 7197
         }
       }
     },
