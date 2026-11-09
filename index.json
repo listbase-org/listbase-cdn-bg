@@ -1,12 +1,12 @@
 {
   "lang": "bg",
-  "generated": "2026-11-09T02:30:39.916Z",
-  "total_datasets": 485,
-  "total_records": 196865,
+  "generated": "2026-11-09T02:30:50.672Z",
+  "total_datasets": 486,
+  "total_records": 196905,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -239,6 +239,39 @@
         "xlsx": {
           "name": "bg-tehnicheski-kulturi-proizvodstvo-1870-1924_BG.xlsx",
           "size": 9977
+        }
+      }
+    },
+    {
+      "id": "bg-zarneni-kulturi-proizvodstvo-1870-1924",
+      "name": "Производство на зърнени култури в България (1870–1924)",
+      "category": "agriculture",
+      "record_count": 40,
+      "columns": [
+        "godina",
+        "zhito",
+        "raj",
+        "smes",
+        "echemik",
+        "oves",
+        "limets",
+        "proso",
+        "tsarevitsa",
+        "oriz",
+        "elda",
+        "obshto_hil_kg"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Икономика_на_Царство_България",
+      "updated": "2026-11",
+      "size": 14299,
+      "files": {
+        "csv": {
+          "name": "bg-zarneni-kulturi-proizvodstvo-1870-1924_BG.csv",
+          "size": 3858
+        },
+        "xlsx": {
+          "name": "bg-zarneni-kulturi-proizvodstvo-1870-1924_BG.xlsx",
+          "size": 9861
         }
       }
     },
