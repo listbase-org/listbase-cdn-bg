@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-06T02:25:37.752Z",
-  "total_datasets": 481,
-  "total_records": 196685,
+  "generated": "2026-11-09T02:30:11.787Z",
+  "total_datasets": 482,
+  "total_records": 196702,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -583,6 +583,38 @@
         "xlsx": {
           "name": "bg-teatri_BG.xlsx",
           "size": 11098
+        }
+      }
+    },
+    {
+      "id": "bg-bezrabotitsa-po-godini",
+      "name": "Безработица в България по години (1989–2018)",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "godina",
+        "litsa_trudosposobna_vazrast",
+        "zaeti_litsa",
+        "registrirani_q1",
+        "registrirani_q2",
+        "registrirani_q3",
+        "registrirani_q4",
+        "protsent_q1",
+        "protsent_q2",
+        "protsent_q3",
+        "protsent_q4"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Безработица_в_България",
+      "updated": "2026-11",
+      "size": 8834,
+      "files": {
+        "csv": {
+          "name": "bg-bezrabotitsa-po-godini_BG.csv",
+          "size": 1452
+        },
+        "xlsx": {
+          "name": "bg-bezrabotitsa-po-godini_BG.xlsx",
+          "size": 7992
         }
       }
     },

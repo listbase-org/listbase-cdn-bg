@@ -1,0 +1,302 @@
+{
+  "id": "bg-bezrabotitsa-po-godini",
+  "name": "Безработица в България по години (1989–2018)",
+  "title": "Безработица в България по години (1989–2018)",
+  "description": "Лица в трудоспособна възраст, заети лица и регистрирани безработни в бюрата по труда (брой и процент по тримесечия) в България по години.",
+  "category": "economy",
+  "source": "https://bg.wikipedia.org/wiki/Безработица_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Безработица_в_България",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "godina",
+      "label": "Godina",
+      "type": "number"
+    },
+    {
+      "key": "litsa_trudosposobna_vazrast",
+      "label": "Litsa Trudosposobna Vazrast",
+      "type": "string"
+    },
+    {
+      "key": "zaeti_litsa",
+      "label": "Zaeti Litsa",
+      "type": "string"
+    },
+    {
+      "key": "registrirani_q1",
+      "label": "Registrirani Q1",
+      "type": "string"
+    },
+    {
+      "key": "registrirani_q2",
+      "label": "Registrirani Q2",
+      "type": "string"
+    },
+    {
+      "key": "registrirani_q3",
+      "label": "Registrirani Q3",
+      "type": "string"
+    },
+    {
+      "key": "registrirani_q4",
+      "label": "Registrirani Q4",
+      "type": "string"
+    },
+    {
+      "key": "protsent_q1",
+      "label": "Protsent Q1",
+      "type": "number"
+    },
+    {
+      "key": "protsent_q2",
+      "label": "Protsent Q2",
+      "type": "number"
+    },
+    {
+      "key": "protsent_q3",
+      "label": "Protsent Q3",
+      "type": "number"
+    },
+    {
+      "key": "protsent_q4",
+      "label": "Protsent Q4",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "godina": 1990,
+      "litsa_trudosposobna_vazrast": "4 805 944",
+      "zaeti_litsa": "",
+      "registrirani_q1": "",
+      "registrirani_q2": "",
+      "registrirani_q3": "",
+      "registrirani_q4": "",
+      "protsent_q1": "",
+      "protsent_q2": "",
+      "protsent_q3": "",
+      "protsent_q4": ""
+    },
+    {
+      "godina": 1995,
+      "litsa_trudosposobna_vazrast": "4 745 424",
+      "zaeti_litsa": "",
+      "registrirani_q1": "",
+      "registrirani_q2": "",
+      "registrirani_q3": "",
+      "registrirani_q4": "",
+      "protsent_q1": "",
+      "protsent_q2": "",
+      "protsent_q3": "",
+      "protsent_q4": ""
+    },
+    {
+      "godina": 2001,
+      "litsa_trudosposobna_vazrast": "4 673 219",
+      "zaeti_litsa": "",
+      "registrirani_q1": "",
+      "registrirani_q2": "",
+      "registrirani_q3": "",
+      "registrirani_q4": "",
+      "protsent_q1": "",
+      "protsent_q2": "",
+      "protsent_q3": "",
+      "protsent_q4": ""
+    },
+    {
+      "godina": 2005,
+      "litsa_trudosposobna_vazrast": "4 814 112",
+      "zaeti_litsa": "",
+      "registrirani_q1": "",
+      "registrirani_q2": "",
+      "registrirani_q3": "",
+      "registrirani_q4": "",
+      "protsent_q1": "",
+      "protsent_q2": "",
+      "protsent_q3": "",
+      "protsent_q4": ""
+    },
+    {
+      "godina": 2006,
+      "litsa_trudosposobna_vazrast": "",
+      "zaeti_litsa": "",
+      "registrirani_q1": "",
+      "registrirani_q2": "",
+      "registrirani_q3": "",
+      "registrirani_q4": "~ 288 400",
+      "protsent_q1": "",
+      "protsent_q2": "",
+      "protsent_q3": "",
+      "protsent_q4": "8.4"
+    },
+    {
+      "godina": 2007,
+      "litsa_trudosposobna_vazrast": "4 817 100",
+      "zaeti_litsa": "",
+      "registrirani_q1": "",
+      "registrirani_q2": "",
+      "registrirani_q3": "",
+      "registrirani_q4": "~ 215 300",
+      "protsent_q1": "",
+      "protsent_q2": "",
+      "protsent_q3": "",
+      "protsent_q4": "6.1"
+    },
+    {
+      "godina": 2008,
+      "litsa_trudosposobna_vazrast": "4 805 893",
+      "zaeti_litsa": "",
+      "registrirani_q1": "",
+      "registrirani_q2": "",
+      "registrirani_q3": "",
+      "registrirani_q4": "~ 177 700",
+      "protsent_q1": "6.5",
+      "protsent_q2": "5.8",
+      "protsent_q3": "5.1",
+      "protsent_q4": "5.0"
+    },
+    {
+      "godina": 2009,
+      "litsa_trudosposobna_vazrast": "4 773 929",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 222 200",
+      "registrirani_q2": "~ 222 600",
+      "registrirani_q3": "~ 234 500",
+      "registrirani_q4": "~ 272 800",
+      "protsent_q1": "6.4",
+      "protsent_q2": "6.3",
+      "protsent_q3": "6.7",
+      "protsent_q4": "7.9"
+    },
+    {
+      "godina": 2010,
+      "litsa_trudosposobna_vazrast": "",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 341 000",
+      "registrirani_q2": "~ 342 200",
+      "registrirani_q3": "~ 326 600",
+      "registrirani_q4": "~ 382 400",
+      "protsent_q1": "10.2",
+      "protsent_q2": "10.0",
+      "protsent_q3": "9.5",
+      "protsent_q4": "11.2"
+    },
+    {
+      "godina": 2011,
+      "litsa_trudosposobna_vazrast": "",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 395 500",
+      "registrirani_q2": "~ 369 800",
+      "registrirani_q3": "~ 343 000",
+      "registrirani_q4": "~ 380 600",
+      "protsent_q1": "12.0",
+      "protsent_q2": "11.2",
+      "protsent_q3": "10.2",
+      "protsent_q4": "11.4"
+    },
+    {
+      "godina": 2012,
+      "litsa_trudosposobna_vazrast": "",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 422 500",
+      "registrirani_q2": "~ 409 500",
+      "registrirani_q3": "~ 393 200",
+      "registrirani_q4": "~ 417 300",
+      "protsent_q1": "12.9",
+      "protsent_q2": "12.3",
+      "protsent_q3": "11.5",
+      "protsent_q4": "12.4"
+    },
+    {
+      "godina": 2013,
+      "litsa_trudosposobna_vazrast": "",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 456 400",
+      "registrirani_q2": "~ 437 300",
+      "registrirani_q3": "~ 411 600",
+      "registrirani_q4": "~ 423 300",
+      "protsent_q1": "13.8",
+      "protsent_q2": "12.9",
+      "protsent_q3": "12.0",
+      "protsent_q4": "13.0"
+    },
+    {
+      "godina": 2014,
+      "litsa_trudosposobna_vazrast": "~ 4 349 000",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 417 000",
+      "registrirani_q2": "~ 381 800",
+      "registrirani_q3": "~ 368 800",
+      "registrirani_q4": "~ 354 500",
+      "protsent_q1": "13.0",
+      "protsent_q2": "11.4",
+      "protsent_q3": "10.8",
+      "protsent_q4": "10.6"
+    },
+    {
+      "godina": 2015,
+      "litsa_trudosposobna_vazrast": "~ 4 295 000",
+      "zaeti_litsa": "~ 3 030 000",
+      "registrirani_q1": "~ 349 200",
+      "registrirani_q2": "~ 330 900",
+      "registrirani_q3": "~ 279 300",
+      "registrirani_q4": "~ 261 000",
+      "protsent_q1": "10.6",
+      "protsent_q2": "9.9",
+      "protsent_q3": "8.3",
+      "protsent_q4": "7.9"
+    },
+    {
+      "godina": 2016,
+      "litsa_trudosposobna_vazrast": "~ 4 304 000",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 279 600",
+      "registrirani_q2": "~ 265 600",
+      "registrirani_q3": "~ 229 000",
+      "registrirani_q4": "~ 214 900",
+      "protsent_q1": "8.6",
+      "protsent_q2": "8.0",
+      "protsent_q3": "7.0",
+      "protsent_q4": "6.7"
+    },
+    {
+      "godina": 2017,
+      "litsa_trudosposobna_vazrast": "",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 224 400",
+      "registrirani_q2": "~ 213 900",
+      "registrirani_q3": "~ 200 200",
+      "registrirani_q4": "~ 189 300",
+      "protsent_q1": "6.9",
+      "protsent_q2": "6.3",
+      "protsent_q3": "5.8",
+      "protsent_q4": "5.6"
+    },
+    {
+      "godina": 2018,
+      "litsa_trudosposobna_vazrast": "",
+      "zaeti_litsa": "",
+      "registrirani_q1": "~ 188 700",
+      "registrirani_q2": "~ 182 200",
+      "registrirani_q3": "~ 168 300",
+      "registrirani_q4": "",
+      "protsent_q1": "5.7",
+      "protsent_q2": "5.5",
+      "protsent_q3": "5.0",
+      "protsent_q4": ""
+    }
+  ],
+  "meta": {
+    "title": "Безработица в България по години (1989–2018) - Free Download",
+    "description": "Лица в трудоспособна възраст, заети лица и регистрирани безработни в бюрата по труда (брой и процент по тримесечия) в България по години. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Безработица в България по години (1989–2018) | ListBase",
+    "seo_description": "Download Безработица в България по години (1989–2018) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Безработица_в_България"
+    ]
+  }
+}
