@@ -1,0 +1,880 @@
+{
+  "id": "bg-bozainitsi",
+  "name": "Бозайници в България",
+  "title": "Бозайници в България",
+  "description": "Видове диви бозайници, срещащи се в България, със семейство, род, латинско име, природозащитен статус и разпространение.",
+  "category": "science",
+  "source": "https://bg.wikipedia.org/wiki/Бозайници_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Бозайници_в_България",
+  "updated": "2026-11",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "semeystvo",
+      "label": "Semeystvo",
+      "type": "string"
+    },
+    {
+      "key": "rod",
+      "label": "Rod",
+      "type": "string"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "latinsko_ime",
+      "label": "Latinsko Ime",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "razprostranenie",
+      "label": "Razprostranenie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "semeystvo": "Семейство Кухороги (Bovidae)",
+      "rod": "Род Бизони Bison",
+      "ime": "Зубър Европейски бизон",
+      "latinsko_ime": "Bison bonasus",
+      "status": "Почти застрашен",
+      "razprostranenie": "Видът е интродуциран през 1962 година в Ловно стопанство Воден; през 2013 година в ловния резерват „Студен кладенец“ и през 2025 година в ДЛС \"Женда\""
+    },
+    {
+      "semeystvo": "Семейство Кухороги (Bovidae)",
+      "rod": "Род Говеда Bos",
+      "ime": "Як Тибетски як",
+      "latinsko_ime": "Bos grunniens",
+      "status": "Уязвим",
+      "razprostranenie": "Видът е интродуциран в ловните стопанства Витиня до Ботевград и Кормисош край Лъки."
+    },
+    {
+      "semeystvo": "Семейство Кухороги (Bovidae)",
+      "rod": "Род Кози Capra",
+      "ime": "Алпийски козирог",
+      "latinsko_ime": "Capra ibex",
+      "status": "Незастрашен",
+      "razprostranenie": "Видът е интродуциран в ловното стопанство Кормисош край Лъки."
+    },
+    {
+      "semeystvo": "Семейство Кухороги (Bovidae)",
+      "rod": "Род Овце Ovis",
+      "ime": "Муфлон Овца",
+      "latinsko_ime": "Ovis aries",
+      "status": "Уязвим",
+      "razprostranenie": "Видът е интродуциран е в средата на 20 век на много места в страната."
+    },
+    {
+      "semeystvo": "Семейство Кухороги (Bovidae)",
+      "rod": "Род Диви кози Rupicapra",
+      "ime": "Дива коза",
+      "latinsko_ime": "Rupicapra rupicapra",
+      "status": "Незастрашен",
+      "razprostranenie": "1700 екземпляра (1988) в изолирани находища, главно защитени територии, в Рила, Пирин, Родопите и Стара планина."
+    },
+    {
+      "semeystvo": "Семейство Еленови (Cervidae)",
+      "rod": "Род Сърни Capreolus",
+      "ime": "Сърна",
+      "latinsko_ime": "Capreolus capreolus",
+      "status": "Незастрашен",
+      "razprostranenie": "121 хиляди екземпляра (1992) в цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Еленови (Cervidae)",
+      "rod": "Род Елени Cervus",
+      "ime": "Благороден елен",
+      "latinsko_ime": "Cervus elaphus",
+      "status": "Незастрашен",
+      "razprostranenie": "28 хиляди екземпляра (1992) в цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Еленови (Cervidae)",
+      "rod": "Род Елени лопатари Dama",
+      "ime": "Елен лопатар",
+      "latinsko_ime": "Dama dama",
+      "status": "Незастрашен",
+      "razprostranenie": "Интродуциран е през 1904 година в ловното стопанство Кричим, след това е разселен на много места в страната. 5737 екземпляра (1986)."
+    },
+    {
+      "semeystvo": "Семейство Свиневи (Suidae)",
+      "rod": "Род Свине Sus",
+      "ime": "Дива свиня",
+      "latinsko_ime": "Sus scrofa",
+      "status": "Незастрашен",
+      "razprostranenie": "49 хиляди екземпляра (1992) в цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Коне (Equidae)",
+      "rod": "Род Същински коне Equus",
+      "ime": "Коник",
+      "latinsko_ime": "Equus ferus",
+      "status": "Опитомен",
+      "razprostranenie": "Интродуцирани през 2011 г. в района на село Сбор, община Крумовград."
+    },
+    {
+      "semeystvo": "Семейство Коткови (Felidae)",
+      "rod": "Род Котки Felis",
+      "ime": "Дива котка Котка",
+      "latinsko_ime": "Felis silvestris",
+      "status": "Незастрашен",
+      "razprostranenie": "3700 – 4000 екземпляра (1993) в цялата страна, главно в горите в хълмисти и нископланински райони."
+    },
+    {
+      "semeystvo": "Семейство Коткови (Felidae)",
+      "rod": "Род Рисове Lynx",
+      "ime": "Рис Евроазиатски рис",
+      "latinsko_ime": "Lynx lynx",
+      "status": "Незастрашен",
+      "razprostranenie": "В Стара планина, Странджа, Осогово, планините от Краище."
+    },
+    {
+      "semeystvo": "Семейство Кучеви (Canidae)",
+      "rod": "Род Кучета Canis",
+      "ime": "Златист чакал",
+      "latinsko_ime": "Canis aureus",
+      "status": "Незастрашен",
+      "razprostranenie": "Над 40 хиляди екземпляра (2015) в цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Кучеви (Canidae)",
+      "rod": "Род Кучета Canis",
+      "ime": "Вълк",
+      "latinsko_ime": "Canis lupus",
+      "status": "Незастрашен",
+      "razprostranenie": "Над 1200 екземпляра (2015) главно в планински крайгранични райони."
+    },
+    {
+      "semeystvo": "Семейство Кучеви (Canidae)",
+      "rod": "Род Енотовидни кучета Nyctereutes",
+      "ime": "Енотовидно куче",
+      "latinsko_ime": "Nyctereutes procyonoides",
+      "status": "Незастрашен",
+      "razprostranenie": "Среща се рядко в равнините в цялата страна. Първите сведения от територията на България са от 1968 година, като се предполага, че се е разселил от Северна Добруджа."
+    },
+    {
+      "semeystvo": "Семейство Кучеви (Canidae)",
+      "rod": "Лисици Vulpes",
+      "ime": "Лисица",
+      "latinsko_ime": "Vulpes vulpes",
+      "status": "Незастрашен",
+      "razprostranenie": "53 хиляди екземпляра (1983) в цялата страна, с най-голяма плътност в Дунавската равнина."
+    },
+    {
+      "semeystvo": "Семейство Порови (Mustelidae)",
+      "rod": "Род Видри Lutra",
+      "ime": "Видра",
+      "latinsko_ime": "Lutra lutra",
+      "status": "Почти застрашен",
+      "razprostranenie": "1000 – 1400 екземпляра (1993) в цялата страна, с изключение на североизточните райони."
+    },
+    {
+      "semeystvo": "Семейство Порови (Mustelidae)",
+      "rod": "Род Белки Martes",
+      "ime": "Белка Бялка",
+      "latinsko_ime": "Martes foina",
+      "status": "Незастрашен",
+      "razprostranenie": "32 хиляди екземпляра (1986) в цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Порови (Mustelidae)",
+      "rod": "Род Белки Martes",
+      "ime": "Златка",
+      "latinsko_ime": "Martes martes",
+      "status": "Незастрашен",
+      "razprostranenie": "3000 екземпляра (1986) в цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Порови (Mustelidae)",
+      "rod": "Род Язовци Meles",
+      "ime": "Язовец Борсук",
+      "latinsko_ime": "Meles meles",
+      "status": "Незастрашен",
+      "razprostranenie": "30 хиляди екземпляра (1986) в цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Порови (Mustelidae)",
+      "rod": "Род Порове Mustela",
+      "ime": "Степен пор",
+      "latinsko_ime": "Mustela eversmannii",
+      "status": "Незастрашен",
+      "razprostranenie": "Много рядък, в Североизточна България."
+    },
+    {
+      "semeystvo": "Семейство Порови (Mustelidae)",
+      "rod": "Род Порове Mustela",
+      "ime": "Невестулка",
+      "latinsko_ime": "Mustela nivalis",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Порови (Mustelidae)",
+      "rod": "Род Порове Mustela",
+      "ime": "Черен пор",
+      "latinsko_ime": "Mustela putorius",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Порови (Mustelidae)",
+      "rod": "Род Пъстри порове Vormela",
+      "ime": "Пъстър пор",
+      "latinsko_ime": "Vormela peregusna",
+      "status": "Уязвим",
+      "razprostranenie": "В изолирани находища, главно в Източна България."
+    },
+    {
+      "semeystvo": "Семейство Същински тюлени (Phocidae)",
+      "rod": "Род Тюлени монаси Monachus",
+      "ime": "Тюлен монах Средиземноморски тюлен монах",
+      "latinsko_ime": "Monachus monachus",
+      "status": "Критично застрашен",
+      "razprostranenie": "2 – 3 възрастни екземпляра (1993) в района на Царево и Резово."
+    },
+    {
+      "semeystvo": "Семейство Мечки (Ursidae)",
+      "rod": "Род Мечки Ursus",
+      "ime": "Кафява мечка",
+      "latinsko_ime": "Ursus arctos",
+      "status": "Незастрашен",
+      "razprostranenie": "1000 – 1050 екземпляра (2010) в Средна Стара планина, Витоша, Рила, Пирин и Западните Родопи."
+    },
+    {
+      "semeystvo": "Семейство Делфинови (Delphinidae)",
+      "rod": "Род Обикновени делфини Delphinus",
+      "ime": "Обикновен делфин Белокоремен делфин",
+      "latinsko_ime": "Delphinus delphis",
+      "status": "Незастрашен",
+      "razprostranenie": "В Черно море."
+    },
+    {
+      "semeystvo": "Семейство Делфинови (Delphinidae)",
+      "rod": "Род Афалини Tursiops",
+      "ime": "Афала Афалина Пъхтун",
+      "latinsko_ime": "Tursiops truncatus",
+      "status": "Незастрашен",
+      "razprostranenie": "В Черно море."
+    },
+    {
+      "semeystvo": "Семейство Морски свине (Phocoenidae)",
+      "rod": "Род Морски свине Phocoena",
+      "ime": "Морска свиня Муткур Муткуп",
+      "latinsko_ime": "Phocoena phocoena",
+      "status": "Незастрашен",
+      "razprostranenie": "В Черно море."
+    },
+    {
+      "semeystvo": "Семейство Булдогови прилепи (Molossidae)",
+      "rod": "Род Tadarida",
+      "ime": "Булдогов прилеп",
+      "latinsko_ime": "Tadarida teniotis",
+      "status": "Незастрашен",
+      "razprostranenie": "В южните части на страната."
+    },
+    {
+      "semeystvo": "Семейство Подковоносови (Rhinolophidae)",
+      "rod": "Род Подковоноси Rhinolophus",
+      "ime": "Средиземноморски подковонос",
+      "latinsko_ime": "Rhinolophus blasii",
+      "status": "Почти застрашен",
+      "razprostranenie": "В цялата страна, с по-голяма концентрация в южните райони."
+    },
+    {
+      "semeystvo": "Семейство Подковоносови (Rhinolophidae)",
+      "rod": "Род Подковоноси Rhinolophus",
+      "ime": "Южен подковонос",
+      "latinsko_ime": "Rhinolophus euryale",
+      "status": "Почти застрашен",
+      "razprostranenie": "В цялата страна, най-често в карстови райони с надморска височина до 1000 m."
+    },
+    {
+      "semeystvo": "Семейство Подковоносови (Rhinolophidae)",
+      "rod": "Род Подковоноси Rhinolophus",
+      "ime": "Голям подковонос",
+      "latinsko_ime": "Rhinolophus ferrumequinum",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Подковоносови (Rhinolophidae)",
+      "rod": "Род Подковоноси Rhinolophus",
+      "ime": "Малък подковонос",
+      "latinsko_ime": "Rhinolophus hipposideros",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Подковоносови (Rhinolophidae)",
+      "rod": "Род Подковоноси Rhinolophus",
+      "ime": "Подковонос на Мехели",
+      "latinsko_ime": "Rhinolophus mehelyi",
+      "status": "Уязвим",
+      "razprostranenie": "Среща се рядко, главно в райони с малка надморска височина."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Широкоухи прилепи Barbastella",
+      "ime": "Широкоух прилеп",
+      "latinsko_ime": "Barbastella barbastellus",
+      "status": "Почти застрашен",
+      "razprostranenie": "Среща се рядко, главно в гористи местности в планините."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Полунощни прилепи Eptesicus",
+      "ime": "Северен полунощен прилеп",
+      "latinsko_ime": "Eptesicus nilssonii",
+      "status": "Незастрашен",
+      "razprostranenie": "Известен е един екземпляр, открит мъртъв при Рибните езера през 1980 година."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Полунощни прилепи Eptesicus",
+      "ime": "Полунощен прилеп",
+      "latinsko_ime": "Eptesicus serotinus",
+      "status": "Незастрашен",
+      "razprostranenie": "Единични находища, разпръснати в цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Hypsugo",
+      "ime": "Прилеп на Сави",
+      "latinsko_ime": "Hypsugo savii",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна, най-често в карстови райони."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Дългокрили прилепи Miniopterus",
+      "ime": "Дългокрил прилеп",
+      "latinsko_ime": "Miniopterus schreibersii",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна, най-често в близост до пещери."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Южен мустакат нощник",
+      "latinsko_ime": "Myotis aurascens",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна, главно в планините."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Дългоух нощник Бехщайнов нощник",
+      "latinsko_ime": "Myotis bechsteinii",
+      "status": "Уязвим",
+      "razprostranenie": "Среща се рядко, главно в равнинните и хълмисти области."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Остроух нощник",
+      "latinsko_ime": "Myotis blythii",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна до надморска височина от 1400 m, най-често в карстови райони."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Нощник на Брант",
+      "latinsko_ime": "Myotis brandtii",
+      "status": "Незастрашен",
+      "razprostranenie": "Главно в планински райони (Родопите, Стара планина)."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Дългопръст нощник",
+      "latinsko_ime": "Myotis capaccinii",
+      "status": "Уязвим",
+      "razprostranenie": "Главно в карстови райони с надморска височина до 400 m."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Езерен нощник",
+      "latinsko_ime": "Myotis dasycneme",
+      "status": "Почти застрашен",
+      "razprostranenie": "Регистриран е веднъж с ултразвуков детектор край река Дунав."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Воден нощник",
+      "latinsko_ime": "Myotis daubentonii",
+      "status": "Незастрашен",
+      "razprostranenie": "Среща се рядко, главно в планински местности."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Трицветен нощник",
+      "latinsko_ime": "Myotis emarginatus",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Голям нощник",
+      "latinsko_ime": "Myotis myotis",
+      "status": "Незастрашен",
+      "razprostranenie": "В карстови райони в цялата страна, до 1200 m надморска височина; един от най-разпространените пещерни прилепи."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Мустакат нощник",
+      "latinsko_ime": "Myotis mystacinus",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Нощници Myotis",
+      "ime": "Натереров нощник Нощник на Натерер",
+      "latinsko_ime": "Myotis nattereri",
+      "status": "Незастрашен",
+      "razprostranenie": "Среща се рядко, главно в планински райони."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Вечерници Nyctalus",
+      "ime": "Голям вечерник",
+      "latinsko_ime": "Nyctalus lasiopterus",
+      "status": "Незастрашен",
+      "razprostranenie": "Среща се рядко, в няколко отделни находища в Странджа и Рила."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Вечерници Nyctalus",
+      "ime": "Малък вечерник",
+      "latinsko_ime": "Nyctalus leisleri",
+      "status": "Незастрашен",
+      "razprostranenie": "Среща се в цялата страна, макар и рядко."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Вечерници Nyctalus",
+      "ime": "Ръждив вечерник Обикновен вечерник",
+      "latinsko_ime": "Nyctalus noctula",
+      "status": "Незастрашен",
+      "razprostranenie": "Един от най-често срещаните прилепи, главно в широколистни гори в равнините."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Прилепчета Pipistrellus",
+      "ime": "Средиземноморско прилепче",
+      "latinsko_ime": "Pipistrellus kuhlii",
+      "status": "Незастрашен",
+      "razprostranenie": "Само в две находища – при Петрич и Русе."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Прилепчета Pipistrellus",
+      "ime": "Прилепче на Натузий",
+      "latinsko_ime": "Pipistrellus nathusii",
+      "status": "Незастрашен",
+      "razprostranenie": "Среща се много рядко, на места, разпръснати из цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Прилепчета Pipistrellus",
+      "ime": "Кафяво прилепче",
+      "latinsko_ime": "Pipistrellus pipistrellus",
+      "status": "Незастрашен",
+      "razprostranenie": "Среща рядко, но на почти цялата територия на страната."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Дългоухи прилепи Plecotus",
+      "ime": "Кафяв дългоух прилеп",
+      "latinsko_ime": "Plecotus auritus",
+      "status": "Незастрашен",
+      "razprostranenie": "Само във високите планини при надморска височина над 1100 m."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Дългоухи прилепи Plecotus",
+      "ime": "Сив дългоух прилеп",
+      "latinsko_ime": "Plecotus austriacus",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна, предимно в равнините."
+    },
+    {
+      "semeystvo": "Семейство Гладконоси прилепи (Vespertilionidae)",
+      "rod": "Род Кожовидни прилепи Vespertilio",
+      "ime": "Двуцветен кожовиден прилеп",
+      "latinsko_ime": "Vespertilio murinus",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Таралежови (Erinaceidae)",
+      "rod": "Род Таралежи Erinaceus",
+      "ime": "Източноевропейски таралеж Северен белогръд таралеж",
+      "latinsko_ime": "Erinaceus roumanicus",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна, до 1800 m надморска височина."
+    },
+    {
+      "semeystvo": "Семейство Земеровкови (Soricidae)",
+      "rod": "Род Белозъбки Crocidura",
+      "ime": "Белокоремна белозъбка",
+      "latinsko_ime": "Crocidura leucodon",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна до надморска височина около 1000 m."
+    },
+    {
+      "semeystvo": "Семейство Земеровкови (Soricidae)",
+      "rod": "Род Белозъбки Crocidura",
+      "ime": "Малка белозъбка",
+      "latinsko_ime": "Crocidura suaveolens",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна, по-често в равнините."
+    },
+    {
+      "semeystvo": "Семейство Земеровкови (Soricidae)",
+      "rod": "Род Водни земеровки Neomys",
+      "ime": "Малка водна земеровка",
+      "latinsko_ime": "Neomys anomalus",
+      "status": "Незастрашен",
+      "razprostranenie": "Главно в Южна България."
+    },
+    {
+      "semeystvo": "Семейство Земеровкови (Soricidae)",
+      "rod": "Род Водни земеровки Neomys",
+      "ime": "Голяма водна земеровка",
+      "latinsko_ime": "Neomys fodiens",
+      "status": "Незастрашен",
+      "razprostranenie": "Главно в планините."
+    },
+    {
+      "semeystvo": "Семейство Земеровкови (Soricidae)",
+      "rod": "Род Кафявозъбки Sorex",
+      "ime": "Обикновена кафявозъбка",
+      "latinsko_ime": "Sorex araneus",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна, значително по-често в планинските райони."
+    },
+    {
+      "semeystvo": "Семейство Земеровкови (Soricidae)",
+      "rod": "Род Кафявозъбки Sorex",
+      "ime": "Малка кафявозъбка",
+      "latinsko_ime": "Sorex minutus",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна, по-често в планинските райони."
+    },
+    {
+      "semeystvo": "Семейство Земеровкови (Soricidae)",
+      "rod": "Род Многозъби белозъбки Suncus",
+      "ime": "Етруска земеровка Етруска белозъбка",
+      "latinsko_ime": "Suncus etruscus",
+      "status": "Незастрашен",
+      "razprostranenie": "Главно около езерата и крайбрежните райони в Бургаско."
+    },
+    {
+      "semeystvo": "Семейство Къртицови (Talpidae)",
+      "rod": "Род Къртици Talpa",
+      "ime": "Европейска къртица",
+      "latinsko_ime": "Talpa europaea",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Къртицови (Talpidae)",
+      "rod": "Род Къртици Talpa",
+      "ime": "Средиземноморска къртица",
+      "latinsko_ime": "Talpa levantis",
+      "status": "Незастрашен",
+      "razprostranenie": "Един екземпляр, открит през 2000 година в местността Силистар."
+    },
+    {
+      "semeystvo": "Семейство Зайцови (Leporidae)",
+      "rod": "Род Зайци Lepus",
+      "ime": "Див заек",
+      "latinsko_ime": "Lepus europaeus",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Зайцови (Leporidae)",
+      "rod": "Род Зайци подземници Oryctolagus",
+      "ime": "Заек подземник",
+      "latinsko_ime": "Oryctolagus cuniculus",
+      "status": "Почти застрашен",
+      "razprostranenie": "Интродуциран на остров Свети Иван."
+    },
+    {
+      "semeystvo": "Семейство Боброви (Castoridae)",
+      "rod": "Род Бобри Castor",
+      "ime": "Европейски бобър",
+      "latinsko_ime": "Castor fiber",
+      "status": "Незастрашен",
+      "razprostranenie": "Първите научни съобщения за завръщане на бобрите в България са от 2020 г. за района на природен парк Русенски Лом. Предполага се, че това са животни от извършени реинтродукции на бобри в р. Олт в Румъния."
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Водни полевки Arvicola",
+      "ime": "Воден плъх",
+      "latinsko_ime": "Arvicola amphibius",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Снежни полевки Chionomys",
+      "ime": "Снежна полевка",
+      "latinsko_ime": "Chionomys nivalis",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Хомячета Cricetulus",
+      "ime": "Сиво хомяче Малък хомяк",
+      "latinsko_ime": "Cricetulus migratorius",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Хомяци Cricetus",
+      "ime": "Обикновен хомяк Голям хомяк",
+      "latinsko_ime": "Cricetus cricetus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Средни хомяци Mesocricetus",
+      "ime": "Черногръд хомяк Среден хомяк Добруджански хомяк",
+      "latinsko_ime": "Mesocricetus newtoni",
+      "status": "Почти застрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Сиви полевки Microtus",
+      "ime": "Сива полевка Обикновена полевка",
+      "latinsko_ime": "Microtus arvalis",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Сиви полевки Microtus",
+      "ime": "Гюнтерова полевка",
+      "latinsko_ime": "Microtus guentheri",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Сиви полевки Microtus",
+      "ime": "Подземна полевка",
+      "latinsko_ime": "Microtus subterraneus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Горски полевки Myodes",
+      "ime": "Ръждива горска полевка",
+      "latinsko_ime": "Myodes glareolus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Хомякови (Cricetidae)",
+      "rod": "Род Ондатри Ondatra",
+      "ime": "Ондатра",
+      "latinsko_ime": "Ondatra zibethicus",
+      "status": "Незастрашен",
+      "razprostranenie": "Интродуциран вид."
+    },
+    {
+      "semeystvo": "Семейство Тушканчикови (Dipodidae)",
+      "rod": "Род Същински скачащи мишки Sicista",
+      "ime": "Степна скачаща мишка",
+      "latinsko_ime": "Sicista subtilis",
+      "status": "Незастрашен",
+      "razprostranenie": "Само два екземпляра, последният е открит през 1954 година край Генерал Тошево."
+    },
+    {
+      "semeystvo": "Семейство Сънливцови (Gliridae)",
+      "rod": "Род Горски сънливци Dryomys",
+      "ime": "Горски сънливец",
+      "latinsko_ime": "Dryomys nitedula",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Сънливцови (Gliridae)",
+      "rod": "Род Обикновени сънливци Glis",
+      "ime": "Обикновен сънливец",
+      "latinsko_ime": "Glis glis",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Сънливцови (Gliridae)",
+      "rod": "Род Лешникови сънливци Muscardinus",
+      "ime": "Лешников сънливец",
+      "latinsko_ime": "Muscardinus avellanarius",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Сънливцови (Gliridae)",
+      "rod": "Род Мишевидни сънливци Myomimus",
+      "ime": "Мишевиден сънливец",
+      "latinsko_ime": "Myomimus roachi",
+      "status": "Уязвим",
+      "razprostranenie": "В югоизточната част на страната."
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Полски мишки Apodemus",
+      "ime": "Полска мишка",
+      "latinsko_ime": "Apodemus agrarius",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Полски мишки Apodemus",
+      "ime": "Жълтогърла горска мишка",
+      "latinsko_ime": "Apodemus flavicollis",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Полски мишки Apodemus",
+      "ime": "Скална мишка",
+      "latinsko_ime": "Apodemus mystacinus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Полски мишки Apodemus",
+      "ime": "Обикновена горска мишка",
+      "latinsko_ime": "Apodemus sylvaticus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Полски мишки Apodemus",
+      "ime": "Малка горска мишка Уралска мишка",
+      "latinsko_ime": "Apodemus uralensis",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Малки мишки Micromys",
+      "ime": "Оризищна мишка",
+      "latinsko_ime": "Micromys minutus",
+      "status": "Незастрашен",
+      "razprostranenie": "Главно в равнините."
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Домашни мишки Mus",
+      "ime": "Македонска мишка",
+      "latinsko_ime": "Mus macedonicus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Домашни мишки Mus",
+      "ime": "Домашна мишка",
+      "latinsko_ime": "Mus musculus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Домашни мишки Mus",
+      "ime": "Степна мишка",
+      "latinsko_ime": "Mus spicilegus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Плъхове Rattus",
+      "ime": "Сив плъх",
+      "latinsko_ime": "Rattus norvegicus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Мишкови (Muridae)",
+      "rod": "Род Плъхове Rattus",
+      "ime": "Черен плъх",
+      "latinsko_ime": "Rattus rattus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Нутриеви (Myocastoridae)",
+      "rod": "Род Нутрии Myocastor",
+      "ime": "Нутрия",
+      "latinsko_ime": "Myocastor coypus",
+      "status": "Незастрашен",
+      "razprostranenie": ""
+    },
+    {
+      "semeystvo": "Семейство Катерицови (Sciuridae)",
+      "rod": "Род Лалугери Spermophilus",
+      "ime": "Лалугер Суек",
+      "latinsko_ime": "Spermophilus citellus",
+      "status": "Уязвим",
+      "razprostranenie": "В цялата страна, главно в равнините."
+    },
+    {
+      "semeystvo": "Семейство Катерицови (Sciuridae)",
+      "rod": "Род Катерици Sciurus",
+      "ime": "Катерица",
+      "latinsko_ime": "Sciurus vulgaris",
+      "status": "Незастрашен",
+      "razprostranenie": "В цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Слепи кучета (Spalacidae)",
+      "rod": "Род Същински слепи кучета Spalax",
+      "ime": "Планинско сляпо куче",
+      "latinsko_ime": "Spalax leucodon",
+      "status": "Недостатъчно данни",
+      "razprostranenie": "В цялата страна."
+    }
+  ],
+  "meta": {
+    "title": "Бозайници в България - Free Download",
+    "description": "Видове диви бозайници, срещащи се в България, със семейство, род, латинско име, природозащитен статус и разпространение. Contains 103 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Бозайници в България | ListBase",
+    "seo_description": "Download Бозайници в България — 103 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 103 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Бозайници_в_България"
+    ]
+  }
+}

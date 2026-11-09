@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-09T02:30:11.787Z",
-  "total_datasets": 482,
-  "total_records": 196702,
+  "generated": "2026-11-09T02:30:21.048Z",
+  "total_datasets": 483,
+  "total_records": 196805,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -11463,6 +11463,33 @@
         "xlsx": {
           "name": "bg-asteroidi-svarzani-s-balgariya_BG.xlsx",
           "size": 12273
+        }
+      }
+    },
+    {
+      "id": "bg-bozainitsi",
+      "name": "Бозайници в България",
+      "category": "science",
+      "record_count": 103,
+      "columns": [
+        "semeystvo",
+        "rod",
+        "ime",
+        "latinsko_ime",
+        "status",
+        "razprostranenie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Бозайници_в_България",
+      "updated": "2026-11",
+      "size": 41011,
+      "files": {
+        "csv": {
+          "name": "bg-bozainitsi_BG.csv",
+          "size": 26100
+        },
+        "xlsx": {
+          "name": "bg-bozainitsi_BG.xlsx",
+          "size": 14454
         }
       }
     },
