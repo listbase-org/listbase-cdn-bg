@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-10T02:17:01.673Z",
-  "total_datasets": 488,
-  "total_records": 196982,
+  "generated": "2026-11-10T02:17:11.271Z",
+  "total_datasets": 489,
+  "total_records": 197012,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -5081,6 +5081,29 @@
         "xlsx": {
           "name": "bg-ezitsi_BG.xlsx",
           "size": 25212
+        }
+      }
+    },
+    {
+      "id": "bg-pismeni-proizvedeniya-po-godini",
+      "name": "Български писмени паметници и произведения по години",
+      "category": "language",
+      "record_count": 30,
+      "columns": [
+        "godina_period",
+        "proizvedenie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_българските_писмени_произведения_по_години",
+      "updated": "2026-11",
+      "size": 7232,
+      "files": {
+        "csv": {
+          "name": "bg-pismeni-proizvedeniya-po-godini_BG.csv",
+          "size": 3342
+        },
+        "xlsx": {
+          "name": "bg-pismeni-proizvedeniya-po-godini_BG.xlsx",
+          "size": 8296
         }
       }
     },
