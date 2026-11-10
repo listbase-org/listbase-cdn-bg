@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-10T02:17:11.271Z",
-  "total_datasets": 489,
-  "total_records": 197012,
+  "generated": "2026-11-10T02:17:20.501Z",
+  "total_datasets": 490,
+  "total_records": 197041,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -762,6 +762,29 @@
         "xlsx": {
           "name": "bg-ministri-ikonomika_BG.xlsx",
           "size": 8325
+        }
+      }
+    },
+    {
+      "id": "bg-razdarzhaveni-predpriyatiya",
+      "name": "Раздържавени след 1989 г. предприятия в България",
+      "category": "economy",
+      "record_count": 29,
+      "columns": [
+        "predpriyatie",
+        "belezhka"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_раздържавените_след_1989_г._предприятия_в_Република_България",
+      "updated": "2026-11",
+      "size": 4704,
+      "files": {
+        "csv": {
+          "name": "bg-razdarzhaveni-predpriyatiya_BG.csv",
+          "size": 1135
+        },
+        "xlsx": {
+          "name": "bg-razdarzhaveni-predpriyatiya_BG.xlsx",
+          "size": 7482
         }
       }
     },
