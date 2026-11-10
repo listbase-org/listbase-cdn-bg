@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-10T02:16:50.351Z",
-  "total_datasets": 487,
-  "total_records": 196948,
+  "generated": "2026-11-10T02:17:01.673Z",
+  "total_datasets": 488,
+  "total_records": 196982,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -5285,6 +5285,31 @@
         "xlsx": {
           "name": "bg-evroviziya_BG.xlsx",
           "size": 7979
+        }
+      }
+    },
+    {
+      "id": "bg-melodiya-na-godinata",
+      "name": "„Мелодия на годината“ — победители",
+      "category": "music",
+      "record_count": 34,
+      "columns": [
+        "godina",
+        "klasatsiya",
+        "izpalnitel",
+        "pesen"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Мелодия_на_годината",
+      "updated": "2026-11",
+      "size": 9115,
+      "files": {
+        "csv": {
+          "name": "bg-melodiya-na-godinata_BG.csv",
+          "size": 4284
+        },
+        "xlsx": {
+          "name": "bg-melodiya-na-godinata_BG.xlsx",
+          "size": 8317
         }
       }
     },
