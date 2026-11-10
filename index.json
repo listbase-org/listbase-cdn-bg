@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-09T02:30:50.672Z",
-  "total_datasets": 486,
-  "total_records": 196905,
+  "generated": "2026-11-10T02:16:50.351Z",
+  "total_datasets": 487,
+  "total_records": 196948,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -4884,6 +4884,30 @@
         "xlsx": {
           "name": "bg-arheologicheski-obekti_BG.xlsx",
           "size": 20549
+        }
+      }
+    },
+    {
+      "id": "bg-balgaro-vizantiyski-bitki",
+      "name": "Българо-византийски битки",
+      "category": "history",
+      "record_count": 43,
+      "columns": [
+        "period",
+        "bitka",
+        "opisanie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_българо-византийските_битки",
+      "updated": "2026-11",
+      "size": 12130,
+      "files": {
+        "csv": {
+          "name": "bg-balgaro-vizantiyski-bitki_BG.csv",
+          "size": 7670
+        },
+        "xlsx": {
+          "name": "bg-balgaro-vizantiyski-bitki_BG.xlsx",
+          "size": 8801
         }
       }
     },
