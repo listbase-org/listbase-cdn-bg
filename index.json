@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-11T02:08:23.955Z",
-  "total_datasets": 491,
-  "total_records": 197072,
+  "generated": "2026-11-11T02:08:35.238Z",
+  "total_datasets": 492,
+  "total_records": 197093,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "music",
@@ -5151,6 +5151,31 @@
         "xlsx": {
           "name": "bg-toponimi-ot-balgari_BG.xlsx",
           "size": 11182
+        }
+      }
+    },
+    {
+      "id": "bg-glavni-prokurori",
+      "name": "Главни прокурори на България",
+      "category": "law",
+      "record_count": 21,
+      "columns": [
+        "ime",
+        "mandat",
+        "naznachen_ot",
+        "belezhki"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Главен_прокурор_на_България",
+      "updated": "2026-11",
+      "size": 5828,
+      "files": {
+        "csv": {
+          "name": "bg-glavni-prokurori_BG.csv",
+          "size": 2187
+        },
+        "xlsx": {
+          "name": "bg-glavni-prokurori_BG.xlsx",
+          "size": 7870
         }
       }
     },

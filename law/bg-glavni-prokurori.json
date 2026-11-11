@@ -1,0 +1,172 @@
+{
+  "id": "bg-glavni-prokurori",
+  "name": "Главни прокурори на България",
+  "title": "Главни прокурори на България",
+  "description": "Хронологичен списък на главните прокурори на България от 1947 г. до днес с мандат, орган на назначаване и бележки.",
+  "category": "law",
+  "source": "https://bg.wikipedia.org/wiki/Главен_прокурор_на_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Главен_прокурор_на_България",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "mandat",
+      "label": "Mandat",
+      "type": "string"
+    },
+    {
+      "key": "naznachen_ot",
+      "label": "Naznachen Ot",
+      "type": "string"
+    },
+    {
+      "key": "belezhki",
+      "label": "Belezhki",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "ime": "Димитър Запрянов (1)",
+      "mandat": "18 декември 1947 – 10 февруари 1953",
+      "naznachen_ot": "VI ВНС",
+      "belezhki": ""
+    },
+    {
+      "ime": "Димитър Запрянов (2)",
+      "mandat": "10 февруари 1953 – 10 април 1954",
+      "naznachen_ot": "II НС",
+      "belezhki": ""
+    },
+    {
+      "ime": "Йордан Чобанов",
+      "mandat": "9 април 1954 – 14 март 1959",
+      "naznachen_ot": "III НС",
+      "belezhki": ""
+    },
+    {
+      "ime": "Минчо Минчев",
+      "mandat": "14 март 1959 – 8 ноември 1962",
+      "naznachen_ot": "IV НС",
+      "belezhki": ""
+    },
+    {
+      "ime": "Иван Вачков (1)",
+      "mandat": "25 декември 1962 – 14 декември 1967",
+      "naznachen_ot": "V НС",
+      "belezhki": ""
+    },
+    {
+      "ime": "Иван Вачков (2)",
+      "mandat": "14 декември 1967 – 8 юли 1971",
+      "naznachen_ot": "VI НС",
+      "belezhki": ""
+    },
+    {
+      "ime": "Иван Вачков (3)",
+      "mandat": "8 юли 1971 – 16 юни 1976",
+      "naznachen_ot": "VII НС",
+      "belezhki": ""
+    },
+    {
+      "ime": "Иван Вачков (4)",
+      "mandat": "16 юни 1976 – 12 юни 1981",
+      "naznachen_ot": "VIII НС",
+      "belezhki": ""
+    },
+    {
+      "ime": "Костадин Лютов",
+      "mandat": "17 юни 1981 – 3 май 1987",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Васил Мръчков",
+      "mandat": "18 август 1987 – 14 декември 1989",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Евтим Стоименов",
+      "mandat": "14 декември 1989 – 6 ноември 1990",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Мартин Гунев",
+      "mandat": "1 ноември 1990 – 19 февруари 1992",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Иван Татарчев",
+      "mandat": "17 февруари 1992 – 21 февруари 1999",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Никола Филчев",
+      "mandat": "16 февруари 1999 – 22 февруари 2006",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Борис Велчев",
+      "mandat": "23 февруари 2006 – 2 ноември 2012",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Бойко Найденов",
+      "mandat": "6 ноември 2012 – 10 януари 2013",
+      "naznachen_ot": "",
+      "belezhki": "изпълняващ длъжността"
+    },
+    {
+      "ime": "Сотир Цацаров",
+      "mandat": "10 януари 2013 – 18 декември 2019",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Иван Гешев",
+      "mandat": "18 декември 2019 – 15 юни 2023",
+      "naznachen_ot": "",
+      "belezhki": ""
+    },
+    {
+      "ime": "Борислав Сарафов",
+      "mandat": "16 юни 2023 – 22 април 2026",
+      "naznachen_ot": "",
+      "belezhki": "изпълняващ длъжността"
+    },
+    {
+      "ime": "Ваня Стефанова",
+      "mandat": "22 април 2026 – 23 октомври 2026",
+      "naznachen_ot": "",
+      "belezhki": "изпълняваща длъжността (първата жена главен прокурор на България)"
+    },
+    {
+      "ime": "Магдалена Лазарова-Проданова",
+      "mandat": "23 октомври 2026 –",
+      "naznachen_ot": "",
+      "belezhki": "изпълняваща длъжността (втората жена главен прокурор на България)"
+    }
+  ],
+  "meta": {
+    "title": "Главни прокурори на България - Free Download",
+    "description": "Хронологичен списък на главните прокурори на България от 1947 г. до днес с мандат, орган на назначаване и бележки. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Главни прокурори на България | ListBase",
+    "seo_description": "Download Главни прокурори на България — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Главен_прокурор_на_България"
+    ]
+  }
+}
