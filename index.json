@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-11T02:08:35.238Z",
-  "total_datasets": 492,
-  "total_records": 197093,
+  "generated": "2026-11-11T02:08:47.228Z",
+  "total_datasets": 493,
+  "total_records": 197117,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -5227,6 +5227,30 @@
         "xlsx": {
           "name": "bg-predsedateli-konstitutsionen-sad_BG.xlsx",
           "size": 7771
+        }
+      }
+    },
+    {
+      "id": "bg-predsedateli-vks",
+      "name": "Председатели на Върховния касационен съд на България",
+      "category": "law",
+      "record_count": 24,
+      "columns": [
+        "ime",
+        "period",
+        "mandat"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Председатели_на_ВКС",
+      "updated": "2026-11",
+      "size": 5466,
+      "files": {
+        "csv": {
+          "name": "bg-predsedateli-vks_BG.csv",
+          "size": 2035
+        },
+        "xlsx": {
+          "name": "bg-predsedateli-vks_BG.xlsx",
+          "size": 7747
         }
       }
     },
