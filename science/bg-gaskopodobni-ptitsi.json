@@ -1,0 +1,232 @@
+{
+  "id": "bg-gaskopodobni-ptitsi",
+  "name": "Гъскоподобни птици в България (патици, гъски, лебеди)",
+  "title": "Гъскоподобни птици в България (патици, гъски, лебеди)",
+  "description": "Видове от разред Гъскоподобни (Anseriformes), установени в България – патици, гъски и лебеди, с латинско и българско име, семейство и род.",
+  "category": "science",
+  "source": "https://bg.wikipedia.org/wiki/Птици_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Птици_в_България",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "latinsko_ime",
+      "label": "Latinsko Ime",
+      "type": "string"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "semeystvo",
+      "label": "Semeystvo",
+      "type": "string"
+    },
+    {
+      "key": "rod",
+      "label": "Rod",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "latinsko_ime": "Anas acuta (Linnaeus, 1758)",
+      "ime": "Шилоопашата патица (Кълкуйрук)",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas angustirostris (Linnaeus, 1758)",
+      "ime": "Мраморна патица",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas carolinensis Gmelin, 1789)",
+      "ime": "Каролинско зимно бърне",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas clypeata (Linnaeus, 1758)",
+      "ime": "Клопач (Лопатарка)",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas crecca (Linnaeus, 1758)",
+      "ime": "Зимно бърне (Примкар, Завирушка)",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas falcata (Georgi, 1775)",
+      "ime": "Сърпокрила патица",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas penelope (Linnaeus, 1758)",
+      "ime": "Фиш (Фиовец, Патица свирачка)",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas platyrhynchos (Linnaeus, 1758)",
+      "ime": "Зеленоглава патица",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas querquedula (Linnaeus, 1758)",
+      "ime": "Лятно бърне (Чакръкчийка)",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anas strepera (Linnaeus, 1758)",
+      "ime": "Сива патица",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anas (Патици)"
+    },
+    {
+      "latinsko_ime": "Anser albifrons (Scopoli, 1769)",
+      "ime": "Голяма белочела гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anser (Гъски)"
+    },
+    {
+      "latinsko_ime": "Anser anser (Linnaeus, 1758)",
+      "ime": "Сива гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anser (Гъски)"
+    },
+    {
+      "latinsko_ime": "Anser brachyrhynchus (Baillon, 1834)",
+      "ime": "Късоклюна гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anser (Гъски)"
+    },
+    {
+      "latinsko_ime": "Anser erythropus (Linnaeus, 1758)",
+      "ime": "Малка белочела гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anser (Гъски)"
+    },
+    {
+      "latinsko_ime": "Anser fabalis (Latham, 1787)",
+      "ime": "Посевна гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Anser (Гъски)"
+    },
+    {
+      "latinsko_ime": "Aythya ferina (Linnaeus, 1758)",
+      "ime": "Кафявоглава потапница",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Aythya (Потапници)"
+    },
+    {
+      "latinsko_ime": "Aythya fuligula (Linnaeus, 1758)",
+      "ime": "Качулата потапница",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Aythya (Потапници)"
+    },
+    {
+      "latinsko_ime": "Aythya marila (Linnaeus, 1761)",
+      "ime": "Планинска потапница",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Aythya (Потапници)"
+    },
+    {
+      "latinsko_ime": "Aythya nyroca (Guldenstadt, 1770)",
+      "ime": "Белоока потапница",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Aythya (Потапници)"
+    },
+    {
+      "latinsko_ime": "Branta bernicla (Linnaeus, 1758)",
+      "ime": "Черна гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Branta (Черни гъски)"
+    },
+    {
+      "latinsko_ime": "Branta canadensis (Linnaeus, 1758)",
+      "ime": "Канадска гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Branta (Черни гъски)"
+    },
+    {
+      "latinsko_ime": "Branta leucopsis (Bechstein, 1803)",
+      "ime": "Белобуза гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Branta (Черни гъски)"
+    },
+    {
+      "latinsko_ime": "Branta ruficollis (Pallas, 1769)",
+      "ime": "Червеногуша гъска",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Branta (Черни гъски)"
+    },
+    {
+      "latinsko_ime": "Bucephala clangula (Linnaeus, 1758)",
+      "ime": "Звънарка",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Bucephala (Звънарки)"
+    },
+    {
+      "latinsko_ime": "Clangula hyemalis (Linnaeus, 1758)",
+      "ime": "Ледена потапница",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Clangula (Ледени потапници)"
+    },
+    {
+      "latinsko_ime": "Cygnus bewickii (Ord, 1815)",
+      "ime": "Малък (тундров) лебед",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Cygnus (Лебеди)"
+    },
+    {
+      "latinsko_ime": "Cygnus cygnus (Linnaeus, 1758)",
+      "ime": "Поен лебед",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Cygnus (Лебеди)"
+    },
+    {
+      "latinsko_ime": "Cygnus olor (J. F. Gmelin, 1789)",
+      "ime": "Ням лебед",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Cygnus (Лебеди)"
+    },
+    {
+      "latinsko_ime": "Marmaronetta angustirostris (Menetries, 1832)",
+      "ime": "Мраморна патица",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Marmaronetta (Мраморни патици (обединявана с Род Anas)"
+    },
+    {
+      "latinsko_ime": "Melanitta fusca (Linnaeus, 1758)",
+      "ime": "Кадифена потапница",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Melanitta (Траурни потапници)"
+    },
+    {
+      "latinsko_ime": "Melanitta nigra (Linnaeus, 1758)",
+      "ime": "Траурна потапница",
+      "semeystvo": "Anatidae (Патицови)",
+      "rod": "Melanitta (Траурни потапници)"
+    }
+  ],
+  "meta": {
+    "title": "Гъскоподобни птици в България (патици, гъски, лебеди) - Free Download",
+    "description": "Видове от разред Гъскоподобни (Anseriformes), установени в България – патици, гъски и лебеди, с латинско и българско име, семейство и род. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Гъскоподобни птици в България (патици, гъски, лебеди) | ListBase",
+    "seo_description": "Download Гъскоподобни птици в България (патици, гъски, лебеди) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Птици_в_България"
+    ]
+  }
+}
