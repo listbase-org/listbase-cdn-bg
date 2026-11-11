@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-11T02:08:47.228Z",
-  "total_datasets": 493,
-  "total_records": 197117,
+  "generated": "2026-11-11T02:08:59.214Z",
+  "total_datasets": 494,
+  "total_records": 197137,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "society",
@@ -11803,6 +11803,32 @@
         "xlsx": {
           "name": "bg-nauchni-otkritiya_BG.xlsx",
           "size": 10178
+        }
+      }
+    },
+    {
+      "id": "bg-zemnovodni",
+      "name": "Земноводни в България",
+      "category": "science",
+      "record_count": 20,
+      "columns": [
+        "semeystvo",
+        "rod",
+        "vid",
+        "status",
+        "razprostranenie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Земноводни_в_България",
+      "updated": "2026-11",
+      "size": 9850,
+      "files": {
+        "csv": {
+          "name": "bg-zemnovodni_BG.csv",
+          "size": 5892
+        },
+        "xlsx": {
+          "name": "bg-zemnovodni_BG.xlsx",
+          "size": 8413
         }
       }
     },

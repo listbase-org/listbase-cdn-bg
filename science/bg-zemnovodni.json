@@ -1,0 +1,191 @@
+{
+  "id": "bg-zemnovodni",
+  "name": "Земноводни в България",
+  "title": "Земноводни в България",
+  "description": "Видове земноводни (жаби, тритони, саламандри), срещащи се в България, със семейство, род, природозащитен статус и разпространение.",
+  "category": "science",
+  "source": "https://bg.wikipedia.org/wiki/Земноводни_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Земноводни_в_България",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "semeystvo",
+      "label": "Semeystvo",
+      "type": "string"
+    },
+    {
+      "key": "rod",
+      "label": "Rod",
+      "type": "string"
+    },
+    {
+      "key": "vid",
+      "label": "Vid",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "razprostranenie",
+      "label": "Razprostranenie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "semeystvo": "Семейство Бумкови (Bombinatoridae)",
+      "rod": "Род Бумки Bombina",
+      "vid": "Червенокоремна бумка (Bombina bombina)",
+      "status": "Незастрашен",
+      "razprostranenie": "В почти цялата страна до надморска височина 400 m."
+    },
+    {
+      "semeystvo": "Семейство Бумкови (Bombinatoridae)",
+      "rod": "Род Бумки Bombina",
+      "vid": "Жълтокоремна бумка (Bombina variegata)",
+      "status": "Незастрашен",
+      "razprostranenie": "В почти цялата страна до надморска височина 1900 m."
+    },
+    {
+      "semeystvo": "Семейство Крастави жаби (Bufonidae)",
+      "rod": "Род Крастави жаби Bufo",
+      "vid": "Кафява крастава жаба (Bufo bufo) Голяма крастава жаба",
+      "status": "Незастрашен",
+      "razprostranenie": "В почти цялата страна до надморска височина 1300 m."
+    },
+    {
+      "semeystvo": "Семейство Крастави жаби (Bufonidae)",
+      "rod": "Род Крастави жаби Bufo",
+      "vid": "Зелена крастава жаба (Bufo viridis)",
+      "status": "Незастрашен",
+      "razprostranenie": "В почти цялата страна до надморска височина 2300 m."
+    },
+    {
+      "semeystvo": "Семейство Дървесници (Hylidae)",
+      "rod": "Род Същински дървесници Hyla",
+      "vid": "Дървесница (Hyla arborea)",
+      "status": "Незастрашен",
+      "razprostranenie": "В почти цялата страна до надморска височина 1300 m."
+    },
+    {
+      "semeystvo": "Семейство Чесновникови (Pelobatidae)",
+      "rod": "Род Чесновници Pelobates",
+      "vid": "Обикновена чесновница (Pelobates fuscus) Северна чесновница",
+      "status": "Незастрашен",
+      "razprostranenie": "Разпространена е на север от Стара Планина."
+    },
+    {
+      "semeystvo": "Семейство Чесновникови (Pelobatidae)",
+      "rod": "Род Чесновници Pelobates",
+      "vid": "Балканска чесновница (Pelobates balcanicus)",
+      "status": "",
+      "razprostranenie": "Южната част на страната и по крайбрежието на Черно море и Дунав при надморска височина до 350 m."
+    },
+    {
+      "semeystvo": "Семейство Водни жаби (Ranidae)",
+      "rod": "Род Същински водни жаби Rana",
+      "vid": "Горска жаба (Rana dalmatina) Дългокрака горска жаба",
+      "status": "Незастрашен",
+      "razprostranenie": "В почти цялата страна до надморска височина 1500 m."
+    },
+    {
+      "semeystvo": "Семейство Водни жаби (Ranidae)",
+      "rod": "Род Същински водни жаби Rana",
+      "vid": "Зелена водна жаба (Rana esculenta)",
+      "status": "Незастрашен",
+      "razprostranenie": "В България се среща само на разстояние до 4 – 5 km от река Дунав."
+    },
+    {
+      "semeystvo": "Семейство Водни жаби (Ranidae)",
+      "rod": "Род Същински водни жаби Rana",
+      "vid": "Гръцка жаба (Rana graeca) Гръцка дългокрака жаба",
+      "status": "Незастрашен",
+      "razprostranenie": "В югозападната част на страната на надморска височина от 240 до 1210 m."
+    },
+    {
+      "semeystvo": "Семейство Водни жаби (Ranidae)",
+      "rod": "Род Същински водни жаби Rana",
+      "vid": "Голяма водна жаба (Rana ridibunda) Водна жаба",
+      "status": "Незастрашен",
+      "razprostranenie": "В почти цялата страна до надморска височина 1400 m."
+    },
+    {
+      "semeystvo": "Семейство Водни жаби (Ranidae)",
+      "rod": "Род Същински водни жаби Rana",
+      "vid": "Планинска жаба (Rana temporaria) Планинска водна жаба",
+      "status": "Незастрашен",
+      "razprostranenie": "Среща се предимно, но не само по високите планини на надморска височина от 800 до 2500 m."
+    },
+    {
+      "semeystvo": "Семейство Саламандрови (Salamandridae)",
+      "rod": "Род Алпийски тритони Ichthyosaura",
+      "vid": "Алпийски тритон (Ichthyosaura alpestris)",
+      "status": "Незастрашен",
+      "razprostranenie": "В планините в Западна и Южна България."
+    },
+    {
+      "semeystvo": "Семейство Саламандрови (Salamandridae)",
+      "rod": "Род Малки тритони Lissotriton",
+      "vid": "Гръцки малък тритон (Lissotriton graecus)",
+      "status": "Неоценен",
+      "razprostranenie": "В Санданско-Петричката котловина."
+    },
+    {
+      "semeystvo": "Семейство Саламандрови (Salamandridae)",
+      "rod": "Род Малки тритони Lissotriton",
+      "vid": "Малък тритон на Шмитлер (Lissotriton schmidtleri)",
+      "status": "Неоценен",
+      "razprostranenie": "В Югоизточна България."
+    },
+    {
+      "semeystvo": "Семейство Саламандрови (Salamandridae)",
+      "rod": "Род Малки тритони Lissotriton",
+      "vid": "Малък гребенест тритон (Lissotriton vulgaris) Обикновен тритон",
+      "status": "Незастрашен",
+      "razprostranenie": "В почти цялата страна."
+    },
+    {
+      "semeystvo": "Семейство Саламандрови (Salamandridae)",
+      "rod": "Род Дъждовници Salamandra",
+      "vid": "Дъждовник (Salamandra salamandra)",
+      "status": "Незастрашен",
+      "razprostranenie": "В по-голямата част на страната, извън крайните северни и югоизточни райони."
+    },
+    {
+      "semeystvo": "Семейство Саламандрови (Salamandridae)",
+      "rod": "Род Тритони Triturus",
+      "vid": "Дунавски гребенест тритон (Triturus dobrogicus) Добруджански тритон Крайдунавски тритон",
+      "status": "Почти застрашен",
+      "razprostranenie": "В близост до река Дунав."
+    },
+    {
+      "semeystvo": "Семейство Саламандрови (Salamandridae)",
+      "rod": "Род Тритони Triturus",
+      "vid": "Гребенест тритон на Буреш (Triturus ivanbureschi) Голям гребенест тритон Балкански гребенест тритон",
+      "status": "Неоценен",
+      "razprostranenie": "В по-голямата част на страната."
+    },
+    {
+      "semeystvo": "Семейство Саламандрови (Salamandridae)",
+      "rod": "Род Тритони Triturus",
+      "vid": "Северен гребенест тритон (Triturus cristatus)",
+      "status": "Незастрашен",
+      "razprostranenie": "В Западна Стара планина."
+    }
+  ],
+  "meta": {
+    "title": "Земноводни в България - Free Download",
+    "description": "Видове земноводни (жаби, тритони, саламандри), срещащи се в България, със семейство, род, природозащитен статус и разпространение. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Земноводни в България | ListBase",
+    "seo_description": "Download Земноводни в България — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Земноводни_в_България"
+    ]
+  }
+}
