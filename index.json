@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-12T02:03:13.199Z",
-  "total_datasets": 496,
-  "total_records": 197224,
+  "generated": "2026-11-12T02:03:24.737Z",
+  "total_datasets": 497,
+  "total_records": 197358,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -12336,6 +12336,31 @@
         "xlsx": {
           "name": "bg-softuerni-firmi_BG.xlsx",
           "size": 6905
+        }
+      }
+    },
+    {
+      "id": "bg-imeni-dni-kalendar",
+      "name": "Календар на имените дни в България",
+      "category": "time",
+      "record_count": 134,
+      "columns": [
+        "mesets",
+        "den",
+        "imena",
+        "praznik"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Имен_ден",
+      "updated": "2026-11",
+      "size": 33577,
+      "files": {
+        "csv": {
+          "name": "bg-imeni-dni-kalendar_BG.csv",
+          "size": 21762
+        },
+        "xlsx": {
+          "name": "bg-imeni-dni-kalendar_BG.xlsx",
+          "size": 14441
         }
       }
     },
