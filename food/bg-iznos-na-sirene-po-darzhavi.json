@@ -1,0 +1,76 @@
+{
+  "id": "bg-iznos-na-sirene-po-darzhavi",
+  "name": "Основни направления на износа на българско сирене",
+  "title": "Основни направления на износа на българско сирене",
+  "description": "Основните държави – вносители на българско сирене и техният дял (%) от общия износ на сирене от България.",
+  "category": "food",
+  "source": "https://bg.wikipedia.org/wiki/Сирене",
+  "source_url": "https://bg.wikipedia.org/wiki/Сирене",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "darzhava",
+      "label": "Darzhava",
+      "type": "string"
+    },
+    {
+      "key": "dyal_ot_iznosa_pct",
+      "label": "Dyal Ot Iznosa Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "darzhava": "САЩ",
+      "dyal_ot_iznosa_pct": 31.4
+    },
+    {
+      "darzhava": "Гърция",
+      "dyal_ot_iznosa_pct": 20.7
+    },
+    {
+      "darzhava": "Австралия",
+      "dyal_ot_iznosa_pct": 13.8
+    },
+    {
+      "darzhava": "Ливан",
+      "dyal_ot_iznosa_pct": 9.2
+    },
+    {
+      "darzhava": "Германия",
+      "dyal_ot_iznosa_pct": 7.3
+    },
+    {
+      "darzhava": "Канада",
+      "dyal_ot_iznosa_pct": 2.6
+    },
+    {
+      "darzhava": "Азербайджан",
+      "dyal_ot_iznosa_pct": 1.7
+    },
+    {
+      "darzhava": "Унгария",
+      "dyal_ot_iznosa_pct": 1.4
+    },
+    {
+      "darzhava": "Обединени арабски емирства",
+      "dyal_ot_iznosa_pct": 0.9
+    },
+    {
+      "darzhava": "Румъния",
+      "dyal_ot_iznosa_pct": 0.81
+    }
+  ],
+  "meta": {
+    "title": "Основни направления на износа на българско сирене - Free Download",
+    "description": "Основните държави – вносители на българско сирене и техният дял (%) от общия износ на сирене от България. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Основни направления на износа на българско сирене | ListBase",
+    "seo_description": "Download Основни направления на износа на българско сирене — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Сирене"
+    ]
+  }
+}
