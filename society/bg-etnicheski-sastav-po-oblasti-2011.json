@@ -1,0 +1,445 @@
+{
+  "id": "bg-etnicheski-sastav-po-oblasti-2011",
+  "name": "Етнически състав на населението по области (преброяване 2011)",
+  "title": "Етнически състав на населението по области (преброяване 2011)",
+  "description": "Население на България по области и етническа група (българи, турци, цигани, други) според преброяването от 2011 г., с абсолютни стойности и дялове.",
+  "category": "society",
+  "source": "https://bg.wikipedia.org/wiki/Преброяване_на_населението_в_България_(2011)",
+  "source_url": "https://bg.wikipedia.org/wiki/Преброяване_на_населението_в_България_(2011)",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "obshto",
+      "label": "Obshto",
+      "type": "number"
+    },
+    {
+      "key": "balgari",
+      "label": "Balgari",
+      "type": "number"
+    },
+    {
+      "key": "turtsi",
+      "label": "Turtsi",
+      "type": "number"
+    },
+    {
+      "key": "tsigani",
+      "label": "Tsigani",
+      "type": "number"
+    },
+    {
+      "key": "drugi",
+      "label": "Drugi",
+      "type": "number"
+    },
+    {
+      "key": "ne_se_samoopredelyat",
+      "label": "Ne Se Samoopredelyat",
+      "type": "number"
+    },
+    {
+      "key": "ne_otgovorili",
+      "label": "Ne Otgovorili",
+      "type": "number"
+    },
+    {
+      "key": "balgari_pct",
+      "label": "Balgari Pct",
+      "type": "number"
+    },
+    {
+      "key": "turtsi_pct",
+      "label": "Turtsi Pct",
+      "type": "number"
+    },
+    {
+      "key": "tsigani_pct",
+      "label": "Tsigani Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "oblast": "Благоевград",
+      "obshto": 323552,
+      "balgari": 251097,
+      "turtsi": 17027,
+      "tsigani": 9739,
+      "drugi": 3080,
+      "ne_se_samoopredelyat": 2613,
+      "ne_otgovorili": 39996,
+      "balgari_pct": 77.6,
+      "turtsi_pct": 5.26,
+      "tsigani_pct": 3.01
+    },
+    {
+      "oblast": "Бургас",
+      "obshto": 415817,
+      "balgari": 298128,
+      "turtsi": 49354,
+      "tsigani": 18424,
+      "drugi": 2632,
+      "ne_se_samoopredelyat": 2006,
+      "ne_otgovorili": 45273,
+      "balgari_pct": 71.69,
+      "turtsi_pct": 11.86,
+      "tsigani_pct": 4.43
+    },
+    {
+      "oblast": "Варна",
+      "obshto": 475074,
+      "balgari": 371048,
+      "turtsi": 30469,
+      "tsigani": 13432,
+      "drugi": 5638,
+      "ne_se_samoopredelyat": 4306,
+      "ne_otgovorili": 50181,
+      "balgari_pct": 78.1,
+      "turtsi_pct": 6.41,
+      "tsigani_pct": 2.82
+    },
+    {
+      "oblast": "Велико Търново",
+      "obshto": 258494,
+      "balgari": 211353,
+      "turtsi": 15709,
+      "tsigani": 3875,
+      "drugi": 1145,
+      "ne_se_samoopredelyat": 1910,
+      "ne_otgovorili": 24502,
+      "balgari_pct": 81.76,
+      "turtsi_pct": 6.07,
+      "tsigani_pct": 1.49
+    },
+    {
+      "oblast": "Видин",
+      "obshto": 101018,
+      "balgari": 86802,
+      "turtsi": 85,
+      "tsigani": 7282,
+      "drugi": 466,
+      "ne_se_samoopredelyat": 491,
+      "ne_otgovorili": 5892,
+      "balgari_pct": 85.92,
+      "turtsi_pct": 0.08,
+      "tsigani_pct": 7.2
+    },
+    {
+      "oblast": "Враца",
+      "obshto": 186848,
+      "balgari": 151183,
+      "turtsi": 565,
+      "tsigani": 10082,
+      "drugi": 434,
+      "ne_se_samoopredelyat": 771,
+      "ne_otgovorili": 23813,
+      "balgari_pct": 80.91,
+      "turtsi_pct": 0.3,
+      "tsigani_pct": 5.39
+    },
+    {
+      "oblast": "Габрово",
+      "obshto": 122702,
+      "balgari": 106406,
+      "turtsi": 6464,
+      "tsigani": 1305,
+      "drugi": 533,
+      "ne_se_samoopredelyat": 650,
+      "ne_otgovorili": 7344,
+      "balgari_pct": 86.71,
+      "turtsi_pct": 5.26,
+      "tsigani_pct": 1.06
+    },
+    {
+      "oblast": "Добрич",
+      "obshto": 189677,
+      "balgari": 131114,
+      "turtsi": 23484,
+      "tsigani": 15323,
+      "drugi": 1609,
+      "ne_se_samoopredelyat": 2369,
+      "ne_otgovorili": 15778,
+      "balgari_pct": 69.12,
+      "turtsi_pct": 12.38,
+      "tsigani_pct": 8.07
+    },
+    {
+      "oblast": "Кърджали",
+      "obshto": 152808,
+      "balgari": 39519,
+      "turtsi": 86527,
+      "tsigani": 1296,
+      "drugi": 753,
+      "ne_se_samoopredelyat": 2686,
+      "ne_otgovorili": 22027,
+      "balgari_pct": 25.86,
+      "turtsi_pct": 56.62,
+      "tsigani_pct": 0.84
+    },
+    {
+      "oblast": "Кюстендил",
+      "obshto": 136686,
+      "balgari": 121351,
+      "turtsi": 105,
+      "tsigani": 8305,
+      "drugi": 354,
+      "ne_se_samoopredelyat": 500,
+      "ne_otgovorili": 6071,
+      "balgari_pct": 88.78,
+      "turtsi_pct": 0.07,
+      "tsigani_pct": 6.07
+    },
+    {
+      "oblast": "Ловеч",
+      "obshto": 141422,
+      "balgari": 118346,
+      "turtsi": 4337,
+      "tsigani": 5705,
+      "drugi": 911,
+      "ne_se_samoopredelyat": 881,
+      "ne_otgovorili": 11242,
+      "balgari_pct": 83.68,
+      "turtsi_pct": 3.06,
+      "tsigani_pct": 4.03
+    },
+    {
+      "oblast": "Монтана",
+      "obshto": 148098,
+      "balgari": 123820,
+      "turtsi": 171,
+      "tsigani": 18228,
+      "drugi": 420,
+      "ne_se_samoopredelyat": 828,
+      "ne_otgovorili": 4631,
+      "balgari_pct": 83.6,
+      "turtsi_pct": 0.11,
+      "tsigani_pct": 12.3
+    },
+    {
+      "oblast": "Пазарджик",
+      "obshto": 275548,
+      "balgari": 206110,
+      "turtsi": 14062,
+      "tsigani": 20350,
+      "drugi": 2123,
+      "ne_se_samoopredelyat": 3357,
+      "ne_otgovorili": 29546,
+      "balgari_pct": 74.8,
+      "turtsi_pct": 5.1,
+      "tsigani_pct": 7.38
+    },
+    {
+      "oblast": "Перник",
+      "obshto": 133530,
+      "balgari": 120929,
+      "turtsi": 231,
+      "tsigani": 3560,
+      "drugi": 259,
+      "ne_se_samoopredelyat": 443,
+      "ne_otgovorili": 8108,
+      "balgari_pct": 90.56,
+      "turtsi_pct": 0.17,
+      "tsigani_pct": 2.66
+    },
+    {
+      "oblast": "Плевен",
+      "obshto": 269752,
+      "balgari": 219612,
+      "turtsi": 8666,
+      "tsigani": 9961,
+      "drugi": 826,
+      "ne_se_samoopredelyat": 1200,
+      "ne_otgovorili": 29487,
+      "balgari_pct": 81.41,
+      "turtsi_pct": 3.21,
+      "tsigani_pct": 3.69
+    },
+    {
+      "oblast": "Пловдив",
+      "obshto": 683027,
+      "balgari": 540303,
+      "turtsi": 40255,
+      "tsigani": 30202,
+      "drugi": 3985,
+      "ne_se_samoopredelyat": 5628,
+      "ne_otgovorili": 62654,
+      "balgari_pct": 79.1,
+      "turtsi_pct": 5.89,
+      "tsigani_pct": 4.42
+    },
+    {
+      "oblast": "Разград",
+      "obshto": 125190,
+      "balgari": 49229,
+      "turtsi": 57261,
+      "tsigani": 5719,
+      "drugi": 702,
+      "ne_se_samoopredelyat": 1564,
+      "ne_otgovorili": 10715,
+      "balgari_pct": 39.32,
+      "turtsi_pct": 45.73,
+      "tsigani_pct": 4.56
+    },
+    {
+      "oblast": "Русе",
+      "obshto": 235252,
+      "balgari": 176413,
+      "turtsi": 28658,
+      "tsigani": 8615,
+      "drugi": 1869,
+      "ne_se_samoopredelyat": 1057,
+      "ne_otgovorili": 18640,
+      "balgari_pct": 74.98,
+      "turtsi_pct": 12.18,
+      "tsigani_pct": 3.66
+    },
+    {
+      "oblast": "Силистра",
+      "obshto": 119474,
+      "balgari": 64050,
+      "turtsi": 40272,
+      "tsigani": 5697,
+      "drugi": 974,
+      "ne_se_samoopredelyat": 597,
+      "ne_otgovorili": 7884,
+      "balgari_pct": 53.6,
+      "turtsi_pct": 33.7,
+      "tsigani_pct": 4.76
+    },
+    {
+      "oblast": "Сливен",
+      "obshto": 197473,
+      "balgari": 132697,
+      "turtsi": 16784,
+      "tsigani": 20478,
+      "drugi": 1954,
+      "ne_se_samoopredelyat": 1293,
+      "ne_otgovorili": 24267,
+      "balgari_pct": 67.19,
+      "turtsi_pct": 8.49,
+      "tsigani_pct": 10.37
+    },
+    {
+      "oblast": "Смолян",
+      "obshto": 121752,
+      "balgari": 86847,
+      "turtsi": 4696,
+      "tsigani": 448,
+      "drugi": 1826,
+      "ne_se_samoopredelyat": 1358,
+      "ne_otgovorili": 26577,
+      "balgari_pct": 71.33,
+      "turtsi_pct": 3.85,
+      "tsigani_pct": 0.36
+    },
+    {
+      "oblast": "София",
+      "obshto": 1291591,
+      "balgari": 1136433,
+      "turtsi": 6526,
+      "tsigani": 18284,
+      "drugi": 9848,
+      "ne_se_samoopredelyat": 7240,
+      "ne_otgovorili": 113260,
+      "balgari_pct": 87.98,
+      "turtsi_pct": 0.5,
+      "tsigani_pct": 1.41
+    },
+    {
+      "oblast": "Софийска",
+      "obshto": 247489,
+      "balgari": 210974,
+      "turtsi": 422,
+      "tsigani": 17079,
+      "drugi": 646,
+      "ne_se_samoopredelyat": 1660,
+      "ne_otgovorili": 16708,
+      "balgari_pct": 85.24,
+      "turtsi_pct": 0.17,
+      "tsigani_pct": 6.9
+    },
+    {
+      "oblast": "Стара Загора",
+      "obshto": 333265,
+      "balgari": 265618,
+      "turtsi": 15035,
+      "tsigani": 24018,
+      "drugi": 1715,
+      "ne_se_samoopredelyat": 1720,
+      "ne_otgovorili": 25159,
+      "balgari_pct": 79.7,
+      "turtsi_pct": 4.51,
+      "tsigani_pct": 7.2
+    },
+    {
+      "oblast": "Търговище",
+      "obshto": 120818,
+      "balgari": 58371,
+      "turtsi": 38231,
+      "tsigani": 7767,
+      "drugi": 959,
+      "ne_se_samoopredelyat": 1472,
+      "ne_otgovorili": 14018,
+      "balgari_pct": 48.31,
+      "turtsi_pct": 31.64,
+      "tsigani_pct": 6.42
+    },
+    {
+      "oblast": "Хасково",
+      "obshto": 246238,
+      "balgari": 180541,
+      "turtsi": 28444,
+      "tsigani": 15889,
+      "drugi": 891,
+      "ne_se_samoopredelyat": 1617,
+      "ne_otgovorili": 18856,
+      "balgari_pct": 73.31,
+      "turtsi_pct": 11.55,
+      "tsigani_pct": 6.45
+    },
+    {
+      "oblast": "Шумен",
+      "obshto": 180528,
+      "balgari": 99446,
+      "turtsi": 50878,
+      "tsigani": 13847,
+      "drugi": 2093,
+      "ne_se_samoopredelyat": 1688,
+      "ne_otgovorili": 12576,
+      "balgari_pct": 55.08,
+      "turtsi_pct": 28.18,
+      "tsigani_pct": 7.67
+    },
+    {
+      "oblast": "Ямбол",
+      "obshto": 131447,
+      "balgari": 106884,
+      "turtsi": 3600,
+      "tsigani": 10433,
+      "drugi": 659,
+      "ne_se_samoopredelyat": 1486,
+      "ne_otgovorili": 8385,
+      "balgari_pct": 81.31,
+      "turtsi_pct": 2.73,
+      "tsigani_pct": 7.93
+    }
+  ],
+  "meta": {
+    "title": "Етнически състав на населението по области (преброяване 2011) - Free Download",
+    "description": "Население на България по области и етническа група (българи, турци, цигани, други) според преброяването от 2011 г., с абсолютни стойности и дялове. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Етнически състав на населението по области (преброяване 2011) | ListBase",
+    "seo_description": "Download Етнически състав на населението по области (преброяване 2011) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Преброяване_на_населението_в_България_(2011)"
+    ]
+  }
+}
