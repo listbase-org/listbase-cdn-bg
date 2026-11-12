@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-12T02:03:24.737Z",
-  "total_datasets": 497,
-  "total_records": 197358,
+  "generated": "2026-11-12T02:03:36.978Z",
+  "total_datasets": 498,
+  "total_records": 197386,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -11992,6 +11992,39 @@
         "xlsx": {
           "name": "bg-razhdaemost-po-godini_BG.xlsx",
           "size": 9857
+        }
+      }
+    },
+    {
+      "id": "bg-veroizpovedanie-po-oblasti-2011",
+      "name": "Вероизповедание на населението по области (преброяване 2011)",
+      "category": "society",
+      "record_count": 28,
+      "columns": [
+        "oblast",
+        "obshto",
+        "pravoslavie",
+        "katolitsizam",
+        "protestantstvo",
+        "islyam",
+        "drugo",
+        "nyamat",
+        "ne_se_samoopredelyat",
+        "nepokazano",
+        "pravoslavie_pct",
+        "islyam_pct"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Преброяване_на_населението_в_България_(2011)",
+      "updated": "2026-11",
+      "size": 12700,
+      "files": {
+        "csv": {
+          "name": "bg-veroizpovedanie-po-oblasti-2011_BG.csv",
+          "size": 2933
+        },
+        "xlsx": {
+          "name": "bg-veroizpovedanie-po-oblasti-2011_BG.xlsx",
+          "size": 9275
         }
       }
     },
