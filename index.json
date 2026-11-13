@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-13T02:10:31.061Z",
-  "total_datasets": 501,
-  "total_records": 197421,
+  "generated": "2026-11-13T02:10:39.670Z",
+  "total_datasets": 502,
+  "total_records": 197428,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 12
+      "dataset_count": 13
     },
     {
       "id": "finance",
@@ -2238,6 +2238,33 @@
         "xlsx": {
           "name": "bg-merni-edinitsi-temperature_BG.xlsx",
           "size": 7179
+        }
+      }
+    },
+    {
+      "id": "bg-nay-starite-darveta",
+      "name": "Най-старите дървета в България",
+      "category": "environment",
+      "record_count": 7,
+      "columns": [
+        "rank",
+        "name",
+        "age_years",
+        "species",
+        "location",
+        "notes"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_най-старите_дървета_в_България",
+      "updated": "2026-11",
+      "size": 5031,
+      "files": {
+        "csv": {
+          "name": "bg-nay-starite-darveta_BG.csv",
+          "size": 2203
+        },
+        "xlsx": {
+          "name": "bg-nay-starite-darveta_BG.xlsx",
+          "size": 7822
         }
       }
     },

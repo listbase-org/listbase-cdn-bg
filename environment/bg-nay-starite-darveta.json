@@ -1,0 +1,112 @@
+{
+  "id": "bg-nay-starite-darveta",
+  "name": "Най-старите дървета в България",
+  "title": "Най-старите дървета в България",
+  "description": "Най-старите известни дървета в България с приблизителна възраст, вид, местоположение и бележки.",
+  "category": "environment",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_най-старите_дървета_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_най-старите_дървета_в_България",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "age_years",
+      "label": "Age Years",
+      "type": "string"
+    },
+    {
+      "key": "species",
+      "label": "Species",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Гранитски дъб",
+      "age_years": "~1700",
+      "species": "обикновен дъб Quercus robur",
+      "location": "Гранит, България",
+      "notes": "Най-старото известно дърво в България. Днес само един от основните му клони е жив."
+    },
+    {
+      "rank": 2,
+      "name": "Байкушева мура",
+      "age_years": "~1300",
+      "species": "черна мура Pinus heldreichii",
+      "location": "Близо до хижа Бъндерица, Банско, България",
+      "notes": "Най-старото иглолистно дърво в България"
+    },
+    {
+      "rank": 3,
+      "name": "Златолистки чинар",
+      "age_years": "1295",
+      "species": "източен чинар Plantus orientalis",
+      "location": "В двора на манастира „Св. Георги Победоносец“ в село Златолист, близо до Сандански, България",
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "name": "Старият бряст",
+      "age_years": "над 1000",
+      "species": "полски бряст Ulmus minor",
+      "location": "В центъра на Сливен, България",
+      "notes": "Болното от трахеомикоза дърво претърпява санитарна сеч на всичките си клони през 2018 г. Въпреки това дървото е живо и има надежда за възстановяване, тъй като се появяват издънки."
+    },
+    {
+      "rank": 5,
+      "name": "Кръстатият дъб",
+      "age_years": "ок. 1000",
+      "species": "дъб",
+      "location": "Плана планина, над Кокалянския манастир",
+      "notes": "Зимна буря и рязане на ствола от иманяри убиват дървото 2010 г."
+    },
+    {
+      "rank": 6,
+      "name": "Старият чинар (Стара Загора)",
+      "age_years": "Установена възраст през 1960 г.: 680 години",
+      "species": "източен чинар Plantus orientalis",
+      "location": "кв. \"Градински\", парк „Бедечка“ край Стара Загора",
+      "notes": "диаметър в основата 3,5 м и обиколка 11 м, а височината му е 17 м."
+    },
+    {
+      "rank": 7,
+      "name": "Заградски чинар",
+      "age_years": "Установена възраст през 1968 г.: ~ 600 години",
+      "species": "източен чинар Plantus orientalis",
+      "location": "Намира се в квартал „ Заграде “ на неврокопското село Гърмен",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Най-старите дървета в България - Free Download",
+    "description": "Най-старите известни дървета в България с приблизителна възраст, вид, местоположение и бележки. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Най-старите дървета в България | ListBase",
+    "seo_description": "Download Най-старите дървета в България — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_най-старите_дървета_в_България"
+    ]
+  }
+}
