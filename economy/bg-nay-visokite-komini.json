@@ -1,0 +1,961 @@
+{
+  "id": "bg-nay-visokite-komini",
+  "name": "Най-високите комини в България",
+  "title": "Най-високите комини в България",
+  "description": "Най-високите промишлени комини и охладителни кули в България по предприятие, град, област и височина, вкл. разрушени.",
+  "category": "economy",
+  "source": "https://bg.wikipedia.org/wiki/Списък_на_най-високите_комини_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_на_най-високите_комини_в_България",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "height_m",
+      "label": "Height M",
+      "type": "number"
+    },
+    {
+      "key": "platforms",
+      "label": "Platforms",
+      "type": "number"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Комин на „Аурубис България“",
+      "city": "Пирдоп",
+      "province": "София област",
+      "height_m": 325.4,
+      "platforms": 8,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Марица изток 3“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 325,
+      "platforms": 8,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Марица изток 2“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 325,
+      "platforms": 8,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Марица изток 2“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 325,
+      "platforms": 8,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Бобов дол“",
+      "city": "Бобов дол",
+      "province": "Кюстендил",
+      "height_m": 200,
+      "platforms": 6,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Солвей Соди“",
+      "city": "Девня",
+      "province": "Варна",
+      "height_m": 180,
+      "platforms": 5,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Солвей Соди“",
+      "city": "Девня",
+      "province": "Варна",
+      "height_m": 180,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Марица изток 2“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 180,
+      "platforms": 5,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Марица изток 2“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 180,
+      "platforms": 5,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на АЕЦ Козлодуй",
+      "city": "Козлодуй",
+      "province": "Враца",
+      "height_m": 180,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на АЕЦ Козлодуй",
+      "city": "Козлодуй",
+      "province": "Враца",
+      "height_m": 180,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на АЕЦ Козлодуй",
+      "city": "Козлодуй",
+      "province": "Враца",
+      "height_m": 180,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Русе Изток",
+      "city": "Русе",
+      "province": "Русе",
+      "height_m": 180,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Русе Изток",
+      "city": "Русе",
+      "province": "Русе",
+      "height_m": 180,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Пловдив – Север",
+      "city": "Пловдив",
+      "province": "Пловдив",
+      "height_m": 180,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Лукойл",
+      "city": "Бургас",
+      "province": "Бургас",
+      "height_m": 180,
+      "platforms": 5,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на КЦМ",
+      "city": "Пловдив",
+      "province": "Пловдив",
+      "height_m": 160,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Марица 3",
+      "city": "Димитровград",
+      "province": "Хасково",
+      "height_m": 160,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Свилоза“",
+      "city": "Свищов",
+      "province": "Велико Търново",
+      "height_m": 150,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Свилоза“",
+      "city": "Свищов",
+      "province": "Велико Търново",
+      "height_m": 150,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Свилоза“",
+      "city": "Свищов",
+      "province": "Велико Търново",
+      "height_m": 150,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Земляне",
+      "city": "София",
+      "province": "София",
+      "height_m": 150,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Варна",
+      "city": "Варна",
+      "province": "Варна",
+      "height_m": 150,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Варна",
+      "city": "Варна",
+      "province": "Варна",
+      "height_m": 150,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Марица изток 2“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 135,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Охладителна кула на ТЕЦ „Ей И Ес Марица Изток I“",
+      "city": "Гълъбово",
+      "province": "Стара Загора",
+      "height_m": 135,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Тракия Глас България“ ЕАД",
+      "city": "Търговище",
+      "province": "Търговище",
+      "height_m": 135,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Тракия Глас България“ ЕАД",
+      "city": "Търговище",
+      "province": "Търговище",
+      "height_m": 135,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ София",
+      "city": "София",
+      "province": "София",
+      "height_m": 124,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ София",
+      "city": "София",
+      "province": "София",
+      "height_m": 124,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ София",
+      "city": "София",
+      "province": "София",
+      "height_m": 124,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ София Изток",
+      "city": "София",
+      "province": "София",
+      "height_m": 124,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ София Изток",
+      "city": "София",
+      "province": "София",
+      "height_m": 124,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ София Изток",
+      "city": "София",
+      "province": "София",
+      "height_m": 124,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ София Изток",
+      "city": "София",
+      "province": "София",
+      "height_m": 124,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Плевен",
+      "city": "Плевен",
+      "province": "Плевен",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Лукойл",
+      "city": "Бургас",
+      "province": "Бургас",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Бургас",
+      "city": "Бургас",
+      "province": "Бургас",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Земляне",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Кремиковци",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Кремиковци АД",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Кремиковци АД",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Кремиковци АД",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Кремиковци АД",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Кремиковци АД",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Кремиковци АД",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ОЦ „Люлин“",
+      "city": "София",
+      "province": "София",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Враца",
+      "city": "Враца",
+      "province": "Враца",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Химко“",
+      "city": "Враца",
+      "province": "Враца",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Брикел“",
+      "city": "Гълъбово",
+      "province": "Стара Загора",
+      "height_m": 120,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Монди Стамболийски",
+      "city": "Стамболийски",
+      "province": "Пловдив",
+      "height_m": 120,
+      "platforms": 4,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Шумен",
+      "city": "Шумен",
+      "province": "Шумен",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Видахим“",
+      "city": "Видин",
+      "province": "Видин",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Сливен",
+      "city": "Сливен",
+      "province": "Сливен",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Сливен",
+      "city": "Сливен",
+      "province": "Сливен",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Горна Оряховица",
+      "city": "Горна Оряховица",
+      "province": "Велико Търново",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Велико Търново",
+      "city": "Велико Търново",
+      "province": "Велико Търново",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на фуражен завод",
+      "city": "Долна Митрополия",
+      "province": "Плевен",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Каучук“ АД",
+      "city": "Пазарджик",
+      "province": "Пазарджик",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Република",
+      "city": "Перник",
+      "province": "Перник",
+      "height_m": 120,
+      "platforms": 2,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Русе Запад",
+      "city": "Русе",
+      "province": "Русе",
+      "height_m": 120,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Русе Изток",
+      "city": "Русе",
+      "province": "Русе",
+      "height_m": 100,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Пловдив – Север",
+      "city": "Пловдив",
+      "province": "Пловдив",
+      "height_m": 100,
+      "platforms": 3,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Габрово",
+      "city": "Габрово",
+      "province": "Габрово",
+      "height_m": 100,
+      "platforms": 2,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Монди Стамболийски",
+      "city": "Стамболийски",
+      "province": "Пловдив",
+      "height_m": 100,
+      "platforms": 1,
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Охладителна кула на ТЕЦ „Марица изток 3“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 100,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Охладителна кула на ТЕЦ „Марица изток 3“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 100,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Охладителна кула на ТЕЦ „Марица изток 2“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 100,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Охладителна кула на ТЕЦ „Бобов дол“",
+      "city": "Бобов дол",
+      "province": "Кюстендил",
+      "height_m": 100,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Охладителна кула на ТЕЦ „Бобов дол“",
+      "city": "Бобов дол",
+      "province": "Кюстендил",
+      "height_m": 100,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Охладителна кула на ТЕЦ „Бобов дол“",
+      "city": "Бобов дол",
+      "province": "Кюстендил",
+      "height_m": 100,
+      "platforms": "",
+      "status": "съществуващ",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Ровотел",
+      "city": "Нови Искър",
+      "province": "София",
+      "height_m": 85,
+      "platforms": 2,
+      "status": "съществуващ (друг)",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Идеал Стандарт – Видима“",
+      "city": "Севлиево",
+      "province": "Габрово",
+      "height_m": 85,
+      "platforms": 2,
+      "status": "съществуващ (друг)",
+      "notes": ""
+    },
+    {
+      "name": "Комин",
+      "city": "Дряново",
+      "province": "Габрово",
+      "height_m": 85,
+      "platforms": 2,
+      "status": "съществуващ (друг)",
+      "notes": ""
+    },
+    {
+      "name": "Комин",
+      "city": "Видин",
+      "province": "Видин",
+      "height_m": 85,
+      "platforms": 2,
+      "status": "съществуващ (друг)",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Сокола“ АД",
+      "city": "Пещера",
+      "province": "Пазарджик",
+      "height_m": 85,
+      "platforms": 2,
+      "status": "съществуващ (друг)",
+      "notes": ""
+    },
+    {
+      "name": "Комин на Болярка ВТ АД",
+      "city": "Велико Търново",
+      "province": "Велико Търново",
+      "height_m": 80,
+      "platforms": "–",
+      "status": "съществуващ (друг)",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Марица изток 2“",
+      "city": "",
+      "province": "Стара Загора",
+      "height_m": 180,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Хайделберг Матириълс Девня“",
+      "city": "Девня",
+      "province": "Варна",
+      "height_m": 160,
+      "platforms": 4,
+      "status": "разрушен",
+      "notes": "Съборен на 25.09.2024 г."
+    },
+    {
+      "name": "Комин на ТЕЦ Хасково",
+      "city": "Хасково",
+      "province": "Хасково",
+      "height_m": 160,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 24.02.2010 г."
+    },
+    {
+      "name": "Комин на ТЕЦ „Тракия“",
+      "city": "Пазарджик",
+      "province": "Пазарджик",
+      "height_m": "160?",
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Незавършен по време на събарянето му."
+    },
+    {
+      "name": "Комин на ТЕЦ „Нова Плама“",
+      "city": "Плевен",
+      "province": "Плевен",
+      "height_m": 150,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Брикел“",
+      "city": "Гълъбово",
+      "province": "Стара Загова",
+      "height_m": 150,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Агробиохим“",
+      "city": "Стара Загора",
+      "province": "Стара Загора",
+      "height_m": 125,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 13.06.2008 г."
+    },
+    {
+      "name": "Комин на ТЕЦ „Агробиохим“",
+      "city": "Стара Загора",
+      "province": "Стара Загора",
+      "height_m": 125,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ Казанлък",
+      "city": "Казанлък",
+      "province": "Стара Загора",
+      "height_m": 125,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 7 юли 2021 г."
+    },
+    {
+      "name": "Комин на ТЕЦ „Брикел“",
+      "city": "Гълъбово",
+      "province": "Стара Загова",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": ""
+    },
+    {
+      "name": "Комин на „Аурубис България“",
+      "city": "Пирдоп",
+      "province": "София",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Разрушен май 2019 г."
+    },
+    {
+      "name": "Комин на ОЦ „Пловдив – Юг“",
+      "city": "Пловдив",
+      "province": "Пловдив",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 14.10.2014 г."
+    },
+    {
+      "name": "Комин на Циментов завод „Гранитоид“",
+      "city": "Батановци",
+      "province": "Перник",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": ""
+    },
+    {
+      "name": "Комин на ТЕЦ „Биовет“",
+      "city": "Разград",
+      "province": "Разград",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 20.09.2012 г."
+    },
+    {
+      "name": "Комин на „Амилум България“",
+      "city": "Разград",
+      "province": "Разград",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 14.09.2013 г."
+    },
+    {
+      "name": "Комин на ТЕЦ „Ботевград“",
+      "city": "Ботевград",
+      "province": "София област",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 01.09.2012 г."
+    },
+    {
+      "name": "Комин на ТЕЦ „Пиринхарт“",
+      "city": "Разлог",
+      "province": "Благоевград",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 19 януари 2010 г."
+    },
+    {
+      "name": "Комин на захарен завод",
+      "city": "Лом",
+      "province": "Монтана",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 25.03.2011 г."
+    },
+    {
+      "name": "Комин на ОЦК",
+      "city": "Кърджали",
+      "province": "Кърджали",
+      "height_m": 120,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 20.04.2016 г."
+    },
+    {
+      "name": "Комин на ОЦК",
+      "city": "Кърджали",
+      "province": "Кърджали",
+      "height_m": 90,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 20.04.2016 г."
+    },
+    {
+      "name": "Комин на ТЕЦ „Добрич“",
+      "city": "Добрич",
+      "province": "Добрич",
+      "height_m": 85,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 01.06.2006 г."
+    },
+    {
+      "name": "Комин на „Диамант“",
+      "city": "Разград",
+      "province": "Разград",
+      "height_m": 85,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 26.11.2010 г."
+    },
+    {
+      "name": "Комин на „Цератицит България“ АД",
+      "city": "Габрово",
+      "province": "Габрово",
+      "height_m": 85,
+      "platforms": "",
+      "status": "разрушен",
+      "notes": "Съборен на 05.07.2015 г."
+    }
+  ],
+  "meta": {
+    "title": "Най-високите комини в България - Free Download",
+    "description": "Най-високите промишлени комини и охладителни кули в България по предприятие, град, област и височина, вкл. разрушени. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Най-високите комини в България | ListBase",
+    "seo_description": "Download Най-високите комини в България — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_на_най-високите_комини_в_България"
+    ]
+  }
+}

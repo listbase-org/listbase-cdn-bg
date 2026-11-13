@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-13T02:10:39.670Z",
-  "total_datasets": 502,
-  "total_records": 197428,
+  "generated": "2026-11-13T02:10:48.910Z",
+  "total_datasets": 503,
+  "total_records": 197528,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -762,6 +762,34 @@
         "xlsx": {
           "name": "bg-ministri-ikonomika_BG.xlsx",
           "size": 8325
+        }
+      }
+    },
+    {
+      "id": "bg-nay-visokite-komini",
+      "name": "Най-високите комини в България",
+      "category": "economy",
+      "record_count": 100,
+      "columns": [
+        "name",
+        "city",
+        "province",
+        "height_m",
+        "platforms",
+        "status",
+        "notes"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_най-високите_комини_в_България",
+      "updated": "2026-11",
+      "size": 27704,
+      "files": {
+        "csv": {
+          "name": "bg-nay-visokite-komini_BG.csv",
+          "size": 12531
+        },
+        "xlsx": {
+          "name": "bg-nay-visokite-komini_BG.xlsx",
+          "size": 10870
         }
       }
     },
