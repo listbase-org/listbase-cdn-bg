@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-13T02:10:21.254Z",
-  "total_datasets": 500,
-  "total_records": 197414,
+  "generated": "2026-11-13T02:10:31.061Z",
+  "total_datasets": 501,
+  "total_records": 197421,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -12604,6 +12604,31 @@
         "xlsx": {
           "name": "bg-chasovnikovi-kuli_BG.xlsx",
           "size": 8135
+        }
+      }
+    },
+    {
+      "id": "bg-golf-igrishta",
+      "name": "Голф игрища в България",
+      "category": "tourism",
+      "record_count": 7,
+      "columns": [
+        "name",
+        "region",
+        "holes",
+        "description"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_на_голф_игрищата_в_България",
+      "updated": "2026-11",
+      "size": 5658,
+      "files": {
+        "csv": {
+          "name": "bg-golf-igrishta_BG.csv",
+          "size": 3434
+        },
+        "xlsx": {
+          "name": "bg-golf-igrishta_BG.xlsx",
+          "size": 8021
         }
       }
     },
