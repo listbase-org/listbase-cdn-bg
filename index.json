@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-13T02:10:48.910Z",
-  "total_datasets": 503,
-  "total_records": 197528,
+  "generated": "2026-11-13T02:24:40.126Z",
+  "total_datasets": 504,
+  "total_records": 197604,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -2737,6 +2737,36 @@
         "xlsx": {
           "name": "bg-pivovarni-i-marki-bira_BG.xlsx",
           "size": 7962
+        }
+      }
+    },
+    {
+      "id": "bg-zashtiteni-geografski-oznacheniya-es",
+      "name": "Защитени наименования за произход и географски указания на България в ЕС",
+      "category": "food",
+      "record_count": 76,
+      "columns": [
+        "name",
+        "other_names",
+        "gi_type",
+        "product_type",
+        "status",
+        "file_number",
+        "application_date",
+        "registration_date",
+        "cn_code"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 27614,
+      "files": {
+        "csv": {
+          "name": "bg-zashtiteni-geografski-oznacheniya-es_BG.csv",
+          "size": 9447
+        },
+        "xlsx": {
+          "name": "bg-zashtiteni-geografski-oznacheniya-es_BG.xlsx",
+          "size": 11386
         }
       }
     },

@@ -1,0 +1,907 @@
+{
+  "id": "bg-zashtiteni-geografski-oznacheniya-es",
+  "name": "Защитени наименования за произход и географски указания на България в ЕС",
+  "title": "Защитени наименования за произход и географски указания на България в ЕС",
+  "description": "Български храни, вина и спиртни напитки със защитено наименование за произход (PDO/ЗНП) или защитено географско указание (PGI/ЗГУ) в регистъра eAmbrosia на ЕС.",
+  "category": "food",
+  "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "source_url": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "gi_type",
+      "label": "Gi Type",
+      "type": "string"
+    },
+    {
+      "key": "product_type",
+      "label": "Product Type",
+      "type": "string"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "type": "string"
+    },
+    {
+      "key": "file_number",
+      "label": "File Number",
+      "type": "string"
+    },
+    {
+      "key": "application_date",
+      "label": "Application Date",
+      "type": "date"
+    },
+    {
+      "key": "registration_date",
+      "label": "Registration Date",
+      "type": "date"
+    },
+    {
+      "key": "cn_code",
+      "label": "Cn Code",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Българско бяло саламурено сирене",
+      "other_names": "Bulgarsko byalo salamureno sirene",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-02656",
+      "application_date": "2021-02-04",
+      "registration_date": "2023-07-31",
+      "cn_code": "0406"
+    },
+    {
+      "name": "Българско кисело мляко",
+      "other_names": "Bulgarsko kiselo mlуako",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-02657",
+      "application_date": "2021-02-04",
+      "registration_date": "2023-07-25",
+      "cn_code": "04"
+    },
+    {
+      "name": "Българско розово масло",
+      "other_names": "Bulgarsko rozovo maslo",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-1050",
+      "application_date": "2012-10-26",
+      "registration_date": "2014-09-27",
+      "cn_code": "3301"
+    },
+    {
+      "name": "Горнооряховски суджук",
+      "other_names": "Gornooryahovski sudzhuk",
+      "gi_type": "PGI",
+      "product_type": "Food",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-0732",
+      "application_date": "2008-12-10",
+      "registration_date": "2011-12-22",
+      "cn_code": "16"
+    },
+    {
+      "name": "Натурална минерална вода Велинград",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "status": "APPLIED",
+      "file_number": "PDO-BG-03425",
+      "application_date": "2025-05-12",
+      "registration_date": "",
+      "cn_code": "2201 10"
+    },
+    {
+      "name": "Натурална минерална вода Михалково",
+      "other_names": "Naturalna mineralna voda Mihalkovo",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "status": "APPLIED",
+      "file_number": "PDO-BG-03427",
+      "application_date": "2025-05-12",
+      "registration_date": "",
+      "cn_code": "2201 10"
+    },
+    {
+      "name": "Натурална минерална вода Хисар",
+      "other_names": "Naturalna mineralna voda Hisar; Натурална минерална вода Хисаря; Naturalna mineralna voda Hisarya; Хисарска натурална минерална вода; Hisarska naturalna mineralna voda",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "status": "APPLIED",
+      "file_number": "PDO-BG-03426",
+      "application_date": "2025-05-12",
+      "registration_date": "",
+      "cn_code": "2201 10"
+    },
+    {
+      "name": "Натурална минерална вода от Горна Баня",
+      "other_names": "Натурална минерална вода Горна Баня; Naturalna mineralna voda ot Gorna Banya; Naturalna mineralna voda Gorna Banya",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "status": "APPLIED",
+      "file_number": "PDO-BG-03424",
+      "application_date": "2025-05-12",
+      "registration_date": "",
+      "cn_code": "2201 10"
+    },
+    {
+      "name": "Странджански билков чай",
+      "other_names": "Strandzhanski bilkov chay",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-02851",
+      "application_date": "2022-06-07",
+      "registration_date": "2025-06-03",
+      "cn_code": "1211 90 86"
+    },
+    {
+      "name": "Странджански манов мед",
+      "other_names": "Strandzhanski manov med; Maнов мед от Странджа; Manov med ot Strandzha",
+      "gi_type": "PDO",
+      "product_type": "Food",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-02306",
+      "application_date": "2017-04-12",
+      "registration_date": "2019-04-02",
+      "cn_code": "04"
+    },
+    {
+      "name": "Бургаска Мускатова ракия",
+      "other_names": "Мускатова ракия от Бургас; Bourgaska Muscatova rakya; Muscatova rakya from Bourgas",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01859",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Гроздова ракия от Търговище",
+      "other_names": "Grozdova rakya ot Targovishte",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01864",
+      "application_date": "2014-01-07",
+      "registration_date": "2018-11-28",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Карловска гроздова ракия",
+      "other_names": "Гроздова Ракия от Карлово; Karlovska grozdova rakya; Grozdova Rakya from Karlovo",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01861",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Карнобатска гроздова ракия",
+      "other_names": "Гроздова ракия от Карнобат; Karnobatska grozdova rakya; Grozdova rakya ot Karnobat",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01865",
+      "application_date": "2014-01-07",
+      "registration_date": "2018-11-30",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Ловешка сливова ракия",
+      "other_names": "Сливова ракия от Ловеч; Loveshka slivova rakya; Slivova rakya from Lovech",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01863",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Поморийска гроздова ракия",
+      "other_names": "Гроздова ракия от Поморие; Pomoriyska grozdova rakya; Grozdova rakya from Pomorie",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01858",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Сливенска перла",
+      "other_names": "Сливенска гроздова ракия; Гроздова ракия от Сливен; Slivenska perla; Slivenska grozdova rakya; Grozdova rakya from Sliven",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01856",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Стралджанска Мускатова ракия",
+      "other_names": "Мускатова ракия от Стралджа; Straldjanska Muscatova rakya; Muscatova rakya from Straldja",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01857",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Сунгурларска гроздова ракия",
+      "other_names": "Гроздова ракия от Сунгурларе; Sungurlarska grozdova rakya; Grozdova rakya from Sungurlare",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01855",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Сухиндолска гроздова ракия",
+      "other_names": "Гроздова ракия от Сухиндол; Suhindolska grozdova rakya; Grozdova rakya from Suhindol",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01860",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Троянска сливова ракия",
+      "other_names": "Сливова ракия от Троян; Troyanska slivova rakya; Slivova rakya from Troyan",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01862",
+      "application_date": "",
+      "registration_date": "2005-06-21",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Ямболска гроздова ракия",
+      "other_names": "Гроздова ракия от Ямбол; Yambolska grozdova rakya; Grozdova rakya ot Yambol",
+      "gi_type": "PGI",
+      "product_type": "Spirit drink",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-01867",
+      "application_date": "2014-01-07",
+      "registration_date": "2019-10-09",
+      "cn_code": "2208"
+    },
+    {
+      "name": "Асеновград",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0877",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Болярово",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0985",
+      "application_date": "",
+      "registration_date": "2009-08-01",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Брестник",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0944",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Варна",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1032",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Велики Преслав",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0885",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Видин",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1346",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Враца",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0955",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Върбица",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0370",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Долината на Струма",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1473",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Драгоево",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0952",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Дунавска равнина",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-A1538",
+      "application_date": "",
+      "registration_date": "2007-04-28",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Евксиноград",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0881",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Ивайловград",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1047",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Карлово",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1044",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Карнобат",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1175",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Ловеч",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0956",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Лозица",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0360",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Лом",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1441",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Любимец",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1177",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Лясковец",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0951",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Мелник",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1472",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Монтана",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1314",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Нова Загора",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1494",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Нови Пазар",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1031",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Ново село",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0382",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Оряховица",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1344",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Павликени",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0420",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Пазарджик",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1182",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Перущица",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1474",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Плевен",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1477",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Пловдив",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1297",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Поморие",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0430",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Русе",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1425",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Сакар",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0013",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Сандански",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1006",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Свищов",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0957",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Септември",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1185",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Славянци",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1008",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Сливен",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1190",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Стамболово",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1487",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Стара Загора",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1394",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Сунгурларе",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1489",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Сухиндол",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1018",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Тракийска низина",
+      "other_names": "",
+      "gi_type": "PGI",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PGI-BG-A1552",
+      "application_date": "",
+      "registration_date": "2007-04-28",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Търговище",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1439",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Хан Крум",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1030",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Хасково",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1043",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Хисаря",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1393",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Хърсово",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0946",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Черноморски район",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1392",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Шивачево",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1391",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Шумен",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A0997",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Южно Черноморие",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1347",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    },
+    {
+      "name": "Ямбол",
+      "other_names": "",
+      "gi_type": "PDO",
+      "product_type": "Wine",
+      "status": "REGISTERED",
+      "file_number": "PDO-BG-A1179",
+      "application_date": "",
+      "registration_date": "2007-05-10",
+      "cn_code": "2204"
+    }
+  ],
+  "meta": {
+    "title": "Защитени наименования за произход и географски указания на България в ЕС - Free Download",
+    "description": "Български храни, вина и спиртни напитки със защитено наименование за произход (PDO/ЗНП) или защитено географско указание (PGI/ЗГУ) в регистъра eAmbrosia на ЕС. Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Защитени наименования за произход и географски указания на България в ЕС | ListBase",
+    "seo_description": "Download Защитени наименования за произход и географски указания на България в ЕС — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/"
+    ]
+  }
+}
