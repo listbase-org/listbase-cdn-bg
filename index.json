@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-14T02:11:27.658Z",
-  "total_datasets": 506,
-  "total_records": 197700,
+  "generated": "2026-11-14T02:11:36.705Z",
+  "total_datasets": 507,
+  "total_records": 197741,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -2645,6 +2645,31 @@
         "xlsx": {
           "name": "bg-sofiya-banki_BG.xlsx",
           "size": 11112
+        }
+      }
+    },
+    {
+      "id": "bg-upraviteli-bnb",
+      "name": "Управители на Българската народна банка",
+      "category": "finance",
+      "record_count": 41,
+      "columns": [
+        "name",
+        "from",
+        "to",
+        "status"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Управител_на_БНБ",
+      "updated": "2026-11",
+      "size": 8825,
+      "files": {
+        "csv": {
+          "name": "bg-upraviteli-bnb_BG.csv",
+          "size": 3952
+        },
+        "xlsx": {
+          "name": "bg-upraviteli-bnb_BG.xlsx",
+          "size": 8395
         }
       }
     },
