@@ -1,0 +1,268 @@
+{
+  "id": "bg-moneti-i-banknoti-na-leva",
+  "name": "Монети и банкноти на българския лев (1999–2025)",
+  "title": "Монети и банкноти на българския лев (1999–2025)",
+  "description": "Монетите и банкнотите на българския лев от деноминацията през 1999 г. до приемането на еврото: номинал, размери, маса, състав или цвят, лице, гръб, воден знак и години на емисия.",
+  "category": "finance",
+  "source": "https://bg.wikipedia.org/wiki/Български_лев",
+  "source_url": "https://bg.wikipedia.org/wiki/Български_лев",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "denomination",
+      "label": "Denomination",
+      "type": "string"
+    },
+    {
+      "key": "size",
+      "label": "Size",
+      "type": "string"
+    },
+    {
+      "key": "mass",
+      "label": "Mass",
+      "type": "string"
+    },
+    {
+      "key": "composition_or_color",
+      "label": "Composition Or Color",
+      "type": "string"
+    },
+    {
+      "key": "obverse",
+      "label": "Obverse",
+      "type": "string"
+    },
+    {
+      "key": "reverse",
+      "label": "Reverse",
+      "type": "string"
+    },
+    {
+      "key": "watermark",
+      "label": "Watermark",
+      "type": "string"
+    },
+    {
+      "key": "issue_years",
+      "label": "Issue Years",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "монета",
+      "denomination": "1 стотинка",
+      "size": "16 mm",
+      "mass": "1,8 g",
+      "composition_or_color": "1999 – Сплав мед - алуминий - никел 2000, 2002 – стомана с електролитно покритие",
+      "obverse": "Номинал, година и 12 звезди",
+      "reverse": "Мадарският конник и надпис „ България “",
+      "watermark": "",
+      "issue_years": "1999, 2000, 2002",
+      "note": ""
+    },
+    {
+      "type": "монета",
+      "denomination": "2 стотинки",
+      "size": "18 mm",
+      "mass": "2,5 g",
+      "composition_or_color": "1999 – Сплав мед - алуминий - никел 2000, 2002 – стомана с електролитно покритие",
+      "obverse": "Номинал, година и 12 звезди",
+      "reverse": "Мадарският конник и надпис „ България “",
+      "watermark": "",
+      "issue_years": "1999, 2000, 2002",
+      "note": ""
+    },
+    {
+      "type": "монета",
+      "denomination": "5 стотинки",
+      "size": "22 mm",
+      "mass": "3,5 g",
+      "composition_or_color": "1999 – Сплав мед - алуминий - никел 2000, 2002 – стомана с електролитно покритие",
+      "obverse": "Номинал, година и 12 звезди",
+      "reverse": "Мадарският конник и надпис „ България “",
+      "watermark": "",
+      "issue_years": "1999, 2000, 2002",
+      "note": ""
+    },
+    {
+      "type": "монета",
+      "denomination": "10 стотинки",
+      "size": "18,5 mm",
+      "mass": "3 g",
+      "composition_or_color": "Сплав – мед- цинк -никел",
+      "obverse": "Номинал, година и 12 звезди",
+      "reverse": "Мадарският конник и надпис „ България “",
+      "watermark": "",
+      "issue_years": "1999, 2002",
+      "note": ""
+    },
+    {
+      "type": "монета",
+      "denomination": "20 стотинки",
+      "size": "20,5 mm",
+      "mass": "4 g",
+      "composition_or_color": "Сплав – мед- цинк -никел",
+      "obverse": "Номинал, година и 12 звезди",
+      "reverse": "Мадарският конник и надпис „ България “",
+      "watermark": "",
+      "issue_years": "1999, 2002",
+      "note": ""
+    },
+    {
+      "type": "монета",
+      "denomination": "50 стотинки",
+      "size": "22,5 mm",
+      "mass": "5 g",
+      "composition_or_color": "Сплав – мед- цинк -никел",
+      "obverse": "Номинал, година и 12 звезди",
+      "reverse": "1999, 2002 – Мадарският конник и надпис „ БЪЛГАРИЯ “ 2004 – Лъвът от герба върху емблемата на НАТО и надпис „БЪЛГАРИЯ В НАТО “ 2005 – фрагмент от фреска от Казанлъшката гробница, 12 звезди и надписи „EU“ и „БЪЛГАРИЯ“ 2007 – разтворена старинна българска книга върху колона, 12 звезди, цвят на роза и надпис „БЪЛГАРИЯ В ЕС “",
+      "watermark": "",
+      "issue_years": "1999, 2002, 2004, 2005, 2007",
+      "note": ""
+    },
+    {
+      "type": "монета",
+      "denomination": "1 лев",
+      "size": "24,5 mm",
+      "mass": "7 g",
+      "composition_or_color": "Външен пръстен – мед-цинк-никел Вътрешен кръг – цинк-никел",
+      "obverse": "Номинал, година и пресечени линии",
+      "reverse": "Ликът на Св. Иван Рилски и надписи „БЪЛГАРИЯ“ и „СВ. ИВАН РИЛСКИ“",
+      "watermark": "",
+      "issue_years": "2002",
+      "note": ""
+    },
+    {
+      "type": "монета",
+      "denomination": "2 лева",
+      "size": "26,5 mm",
+      "mass": "9 g",
+      "composition_or_color": "Външен пръстен – мед-никел Вътрешен кръг – мед-цинк-никел",
+      "obverse": "Номинал, година и пресечени линии",
+      "reverse": "2015 – Ликът на Паисий Хилендарски и надписи „БЪЛГАРИЯ“, „ПАИСИЙ ХИЛЕНДАРСКИ“ и „1722 – 1773“ 2018 – Надпис „Българско председателство на Съвета на ЕС ♦ eu2018bg ♦“ и емблемата на европредседателството",
+      "watermark": "",
+      "issue_years": "2015, 2018",
+      "note": ""
+    },
+    {
+      "type": "банкнота",
+      "denomination": "1 лев",
+      "size": "112 × 60 mm",
+      "mass": "",
+      "composition_or_color": "Червен",
+      "obverse": "Иван Рилски",
+      "reverse": "Рилски манастир",
+      "watermark": "Лъв",
+      "issue_years": "1999",
+      "note": "Банкнотата е извадена от обращение на 1 януари 2016 г."
+    },
+    {
+      "type": "банкнота",
+      "denomination": "2 лева",
+      "size": "116 × 64 mm",
+      "mass": "",
+      "composition_or_color": "Виолетов",
+      "obverse": "Паисий Хилендарски",
+      "reverse": "История славянобългарска, Български гербове",
+      "watermark": "Лъв",
+      "issue_years": "1999, 2005",
+      "note": "Банкнотата е извадена от обращение на 1 януари 2021 г."
+    },
+    {
+      "type": "банкнота",
+      "denomination": "5 лева",
+      "size": "121 × 67 mm",
+      "mass": "",
+      "composition_or_color": "Бордо",
+      "obverse": "Иван Милев",
+      "reverse": "Картини на Иван Милев",
+      "watermark": "Иван Милев",
+      "issue_years": "1999, 2009, 2020",
+      "note": ""
+    },
+    {
+      "type": "банкнота",
+      "denomination": "10 лева",
+      "size": "126 × 70 mm",
+      "mass": "",
+      "composition_or_color": "Зелено",
+      "obverse": "Петър Берон",
+      "reverse": "Скици от трудовете на Петър Берон, Телескоп",
+      "watermark": "Петър Берон",
+      "issue_years": "1999, 2008, 2020",
+      "note": "Същият дизайн се използва и за банкнотата от 10 000 лева (BGL, преди деноминацията от 1999)"
+    },
+    {
+      "type": "банкнота",
+      "denomination": "20 лева",
+      "size": "131 × 73 mm",
+      "mass": "",
+      "composition_or_color": "Синьо",
+      "obverse": "Стефан Стамболов",
+      "reverse": "Народно събрание, Орлов мост, Лъвов мост",
+      "watermark": "Стефан Стамболов",
+      "issue_years": "1999, 2007, 2020",
+      "note": "Най-използваната банкнота в българските банкомати"
+    },
+    {
+      "type": "банкнота",
+      "denomination": "20 лева",
+      "size": "134 × 77 mm",
+      "mass": "",
+      "composition_or_color": "Лилав",
+      "obverse": "Елементи от сградата на БНБ",
+      "reverse": "Реплика на първата българска банкнота, старата сграда на БНБ, седнала женска фигура, държавният герб на Княжество България",
+      "watermark": "полутоново изображение на изправен лъв",
+      "issue_years": "2005",
+      "note": "Ограничена емисия по повод 120 г. от навлизането в обращение на първите български банкноти"
+    },
+    {
+      "type": "банкнота",
+      "denomination": "50 лева",
+      "size": "136 × 76 mm",
+      "mass": "",
+      "composition_or_color": "Кафяво",
+      "obverse": "Пенчо Славейков",
+      "reverse": "Илюстрации и ръкопис на Пенчо Славейков",
+      "watermark": "Пенчо Славейков",
+      "issue_years": "1999, 2006, 2019",
+      "note": ""
+    },
+    {
+      "type": "банкнота",
+      "denomination": "100 лева",
+      "size": "141 × 79 mm",
+      "mass": "",
+      "composition_or_color": "Зелено",
+      "obverse": "Алеко Константинов",
+      "reverse": "Алеко Константинов и книгата Бай Ганьо",
+      "watermark": "Алеко Константинов",
+      "issue_years": "2003, 2018",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Монети и банкноти на българския лев (1999–2025) - Free Download",
+    "description": "Монетите и банкнотите на българския лев от деноминацията през 1999 г. до приемането на еврото: номинал, размери, маса, състав или цвят, лице, гръб, воден знак и години на емисия. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Монети и банкноти на българския лев (1999–2025) | ListBase",
+    "seo_description": "Download Монети и банкноти на българския лев (1999–2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Български_лев"
+    ]
+  }
+}

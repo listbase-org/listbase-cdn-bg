@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-14T02:11:12.138Z",
-  "total_datasets": 505,
-  "total_records": 197684,
+  "generated": "2026-11-14T02:11:27.658Z",
+  "total_datasets": 506,
+  "total_records": 197700,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -2562,6 +2562,37 @@
         "xlsx": {
           "name": "bg-ministri-finansi_BG.xlsx",
           "size": 11716
+        }
+      }
+    },
+    {
+      "id": "bg-moneti-i-banknoti-na-leva",
+      "name": "Монети и банкноти на българския лев (1999–2025)",
+      "category": "finance",
+      "record_count": 16,
+      "columns": [
+        "type",
+        "denomination",
+        "size",
+        "mass",
+        "composition_or_color",
+        "obverse",
+        "reverse",
+        "watermark",
+        "issue_years",
+        "note"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Български_лев",
+      "updated": "2026-11",
+      "size": 11674,
+      "files": {
+        "csv": {
+          "name": "bg-moneti-i-banknoti-na-leva_BG.csv",
+          "size": 5797
+        },
+        "xlsx": {
+          "name": "bg-moneti-i-banknoti-na-leva_BG.xlsx",
+          "size": 9031
         }
       }
     },
