@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-15T02:14:56.744Z",
-  "total_datasets": 509,
-  "total_records": 198023,
+  "generated": "2026-11-15T02:15:06.772Z",
+  "total_datasets": 510,
+  "total_records": 198037,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -2020,6 +2020,38 @@
         "xlsx": {
           "name": "bg-glasat-na-balgariya-sezoni_BG.xlsx",
           "size": 7838
+        }
+      }
+    },
+    {
+      "id": "bg-kato-dve-kapki-voda-sezoni",
+      "name": "„Като две капки вода“ — сезони и победители",
+      "category": "entertainment",
+      "record_count": 14,
+      "columns": [
+        "season",
+        "channel",
+        "year",
+        "episodes",
+        "schedule",
+        "start",
+        "final",
+        "hosts",
+        "contestants",
+        "winner",
+        "prize"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Като_две_капки_вода",
+      "updated": "2026-11",
+      "size": 8539,
+      "files": {
+        "csv": {
+          "name": "bg-kato-dve-kapki-voda-sezoni_BG.csv",
+          "size": 3263
+        },
+        "xlsx": {
+          "name": "bg-kato-dve-kapki-voda-sezoni_BG.xlsx",
+          "size": 7945
         }
       }
     },

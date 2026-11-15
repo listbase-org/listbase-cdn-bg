@@ -1,0 +1,263 @@
+{
+  "id": "bg-kato-dve-kapki-voda-sezoni",
+  "name": "„Като две капки вода“ — сезони и победители",
+  "title": "„Като две капки вода“ — сезони и победители",
+  "description": "Сезоните на шоуто за имитации „Като две капки вода“ по NOVA: година, брой епизоди, водещи, брой участници, победител и награда.",
+  "category": "entertainment",
+  "source": "https://bg.wikipedia.org/wiki/Като_две_капки_вода",
+  "source_url": "https://bg.wikipedia.org/wiki/Като_две_капки_вода",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "channel",
+      "label": "Channel",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "episodes",
+      "label": "Episodes",
+      "type": "number"
+    },
+    {
+      "key": "schedule",
+      "label": "Schedule",
+      "type": "string"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "final",
+      "label": "Final",
+      "type": "string"
+    },
+    {
+      "key": "hosts",
+      "label": "Hosts",
+      "type": "string"
+    },
+    {
+      "key": "contestants",
+      "label": "Contestants",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "prize",
+      "label": "Prize",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": 1,
+      "channel": "NOVA",
+      "year": 2013,
+      "episodes": 12,
+      "schedule": "сряда, 20:00 – 23:00",
+      "start": "13 март",
+      "final": "5 юни",
+      "hosts": "Димитър Рачков и Васил Василев – Зуека",
+      "contestants": 8,
+      "winner": "Рафи Бохосян",
+      "prize": "автомобил"
+    },
+    {
+      "season": 2,
+      "channel": "NOVA",
+      "year": 2014,
+      "episodes": 13,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "10 март",
+      "final": "9 юни",
+      "hosts": "Димитър Рачков и Васил Василев – Зуека",
+      "contestants": 8,
+      "winner": "Невена Бозукова – Неве",
+      "prize": "автомобил"
+    },
+    {
+      "season": 3,
+      "channel": "NOVA",
+      "year": 2015,
+      "episodes": 12,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "3 март",
+      "final": "25 май",
+      "hosts": "Димитър Рачков и Васил Василев – Зуека",
+      "contestants": 8,
+      "winner": "Ненчо Балабанов",
+      "prize": "автомобил"
+    },
+    {
+      "season": 4,
+      "channel": "NOVA",
+      "year": 2016,
+      "episodes": 12,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "3 март",
+      "final": "30 май",
+      "hosts": "Димитър Рачков и Васил Василев – Зуека",
+      "contestants": 8,
+      "winner": "Калин Врачански",
+      "prize": "автомобил"
+    },
+    {
+      "season": 5,
+      "channel": "NOVA",
+      "year": 2017,
+      "episodes": 13,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "27 февруари",
+      "final": "29 май",
+      "hosts": "Димитър Рачков и Васил Василев – Зуека",
+      "contestants": 8,
+      "winner": "Михаела Маринова",
+      "prize": "автомобил"
+    },
+    {
+      "season": 6,
+      "channel": "NOVA",
+      "year": 2018,
+      "episodes": 13,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "26 февруари",
+      "final": "28 май",
+      "hosts": "Димитър Рачков и Васил Василев – Зуека",
+      "contestants": 8,
+      "winner": "Славин Славчев",
+      "prize": "автомобил"
+    },
+    {
+      "season": 7,
+      "channel": "NOVA",
+      "year": 2019,
+      "episodes": 13,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "25 февруари",
+      "final": "27 май",
+      "hosts": "Димитър Рачков и Васил Василев – Зуека",
+      "contestants": 8,
+      "winner": "Стефан Илчев",
+      "prize": "автомобил"
+    },
+    {
+      "season": 8,
+      "channel": "NOVA",
+      "year": 2020,
+      "episodes": 13,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "24 февруари",
+      "final": "18 май",
+      "hosts": "Димитър Рачков и Васил Василев – Зуека",
+      "contestants": 9,
+      "winner": "Фики",
+      "prize": "автомобил"
+    },
+    {
+      "season": 9,
+      "channel": "NOVA",
+      "year": 2021,
+      "episodes": 13,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "22 февруари",
+      "final": "24 май",
+      "hosts": "Герасим Георгиев – Геро и Васил Василев – Зуека",
+      "contestants": 8,
+      "winner": "Рафи Бохосян",
+      "prize": "автомобил"
+    },
+    {
+      "season": 10,
+      "channel": "NOVA",
+      "year": 2022,
+      "episodes": 13,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "14 февруари",
+      "final": "16 май",
+      "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
+      "contestants": 10,
+      "winner": "Краси Радков",
+      "prize": "автомобил"
+    },
+    {
+      "season": 11,
+      "channel": "NOVA",
+      "year": 2023,
+      "episodes": 12,
+      "schedule": "неделя, 20:00 – 23:00",
+      "start": "19 февруари",
+      "final": "21 май",
+      "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
+      "contestants": 9,
+      "winner": "Владимир Михайлов",
+      "prize": "автомобил"
+    },
+    {
+      "season": 12,
+      "channel": "NOVA",
+      "year": 2024,
+      "episodes": 12,
+      "schedule": "понеделник, 20:00 – 23:00",
+      "start": "19 февруари",
+      "final": "13 май",
+      "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
+      "contestants": 8,
+      "winner": "Владимир Зомбори",
+      "prize": "автомобил"
+    },
+    {
+      "season": 13,
+      "channel": "NOVA",
+      "year": 2025,
+      "episodes": 12,
+      "schedule": "неделя, 20:00 – 23:00",
+      "start": "23 февруари",
+      "final": "18 май",
+      "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
+      "contestants": 9,
+      "winner": "Вениамин Димитров",
+      "prize": "автомобил"
+    },
+    {
+      "season": 14,
+      "channel": "NOVA",
+      "year": 2026,
+      "episodes": 12,
+      "schedule": "понеделник, 20:00 – 23:30",
+      "start": "16 февруари",
+      "final": "18 май",
+      "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
+      "contestants": 9,
+      "winner": "Даниел Пеев – Дънди",
+      "prize": "автомобил"
+    }
+  ],
+  "meta": {
+    "title": "„Като две капки вода“ — сезони и победители - Free Download",
+    "description": "Сезоните на шоуто за имитации „Като две капки вода“ по NOVA: година, брой епизоди, водещи, брой участници, победител и награда. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "„Като две капки вода“ — сезони и победители | ListBase",
+    "seo_description": "Download „Като две капки вода“ — сезони и победители — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Като_две_капки_вода"
+    ]
+  }
+}
