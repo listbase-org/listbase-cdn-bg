@@ -1,6 +1,6 @@
 {
   "lang": "bg",
-  "generated": "2026-11-15T02:20:38.259Z",
+  "generated": "2026-11-15T02:20:48.253Z",
   "total_datasets": 511,
   "total_records": 198068,
   "categories": [
@@ -2029,7 +2029,6 @@
       "record_count": 14,
       "columns": [
         "season",
-        "channel",
         "year",
         "episodes",
         "schedule",
@@ -2037,20 +2036,19 @@
         "final",
         "hosts",
         "contestants",
-        "winner",
-        "prize"
+        "winner"
       ],
       "source": "https://bg.wikipedia.org/wiki/Като_две_капки_вода",
       "updated": "2026-11",
-      "size": 8539,
+      "size": 7502,
       "files": {
         "csv": {
           "name": "bg-kato-dve-kapki-voda-sezoni_BG.csv",
-          "size": 3263
+          "size": 2853
         },
         "xlsx": {
           "name": "bg-kato-dve-kapki-voda-sezoni_BG.xlsx",
-          "size": 7945
+          "size": 7809
         }
       }
     },

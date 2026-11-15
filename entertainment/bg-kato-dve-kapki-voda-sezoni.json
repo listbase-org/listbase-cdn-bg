@@ -15,11 +15,6 @@
       "type": "number"
     },
     {
-      "key": "channel",
-      "label": "Channel",
-      "type": "string"
-    },
-    {
       "key": "year",
       "label": "Year",
       "type": "number"
@@ -58,17 +53,11 @@
       "key": "winner",
       "label": "Winner",
       "type": "string"
-    },
-    {
-      "key": "prize",
-      "label": "Prize",
-      "type": "string"
     }
   ],
   "rows": [
     {
       "season": 1,
-      "channel": "NOVA",
       "year": 2013,
       "episodes": 12,
       "schedule": "сряда, 20:00 – 23:00",
@@ -76,12 +65,10 @@
       "final": "5 юни",
       "hosts": "Димитър Рачков и Васил Василев – Зуека",
       "contestants": 8,
-      "winner": "Рафи Бохосян",
-      "prize": "автомобил"
+      "winner": "Рафи Бохосян"
     },
     {
       "season": 2,
-      "channel": "NOVA",
       "year": 2014,
       "episodes": 13,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -89,12 +76,10 @@
       "final": "9 юни",
       "hosts": "Димитър Рачков и Васил Василев – Зуека",
       "contestants": 8,
-      "winner": "Невена Бозукова – Неве",
-      "prize": "автомобил"
+      "winner": "Невена Бозукова – Неве"
     },
     {
       "season": 3,
-      "channel": "NOVA",
       "year": 2015,
       "episodes": 12,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -102,12 +87,10 @@
       "final": "25 май",
       "hosts": "Димитър Рачков и Васил Василев – Зуека",
       "contestants": 8,
-      "winner": "Ненчо Балабанов",
-      "prize": "автомобил"
+      "winner": "Ненчо Балабанов"
     },
     {
       "season": 4,
-      "channel": "NOVA",
       "year": 2016,
       "episodes": 12,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -115,12 +98,10 @@
       "final": "30 май",
       "hosts": "Димитър Рачков и Васил Василев – Зуека",
       "contestants": 8,
-      "winner": "Калин Врачански",
-      "prize": "автомобил"
+      "winner": "Калин Врачански"
     },
     {
       "season": 5,
-      "channel": "NOVA",
       "year": 2017,
       "episodes": 13,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -128,12 +109,10 @@
       "final": "29 май",
       "hosts": "Димитър Рачков и Васил Василев – Зуека",
       "contestants": 8,
-      "winner": "Михаела Маринова",
-      "prize": "автомобил"
+      "winner": "Михаела Маринова"
     },
     {
       "season": 6,
-      "channel": "NOVA",
       "year": 2018,
       "episodes": 13,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -141,12 +120,10 @@
       "final": "28 май",
       "hosts": "Димитър Рачков и Васил Василев – Зуека",
       "contestants": 8,
-      "winner": "Славин Славчев",
-      "prize": "автомобил"
+      "winner": "Славин Славчев"
     },
     {
       "season": 7,
-      "channel": "NOVA",
       "year": 2019,
       "episodes": 13,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -154,12 +131,10 @@
       "final": "27 май",
       "hosts": "Димитър Рачков и Васил Василев – Зуека",
       "contestants": 8,
-      "winner": "Стефан Илчев",
-      "prize": "автомобил"
+      "winner": "Стефан Илчев"
     },
     {
       "season": 8,
-      "channel": "NOVA",
       "year": 2020,
       "episodes": 13,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -167,12 +142,10 @@
       "final": "18 май",
       "hosts": "Димитър Рачков и Васил Василев – Зуека",
       "contestants": 9,
-      "winner": "Фики",
-      "prize": "автомобил"
+      "winner": "Фики"
     },
     {
       "season": 9,
-      "channel": "NOVA",
       "year": 2021,
       "episodes": 13,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -180,12 +153,10 @@
       "final": "24 май",
       "hosts": "Герасим Георгиев – Геро и Васил Василев – Зуека",
       "contestants": 8,
-      "winner": "Рафи Бохосян",
-      "prize": "автомобил"
+      "winner": "Рафи Бохосян"
     },
     {
       "season": 10,
-      "channel": "NOVA",
       "year": 2022,
       "episodes": 13,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -193,12 +164,10 @@
       "final": "16 май",
       "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
       "contestants": 10,
-      "winner": "Краси Радков",
-      "prize": "автомобил"
+      "winner": "Краси Радков"
     },
     {
       "season": 11,
-      "channel": "NOVA",
       "year": 2023,
       "episodes": 12,
       "schedule": "неделя, 20:00 – 23:00",
@@ -206,12 +175,10 @@
       "final": "21 май",
       "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
       "contestants": 9,
-      "winner": "Владимир Михайлов",
-      "prize": "автомобил"
+      "winner": "Владимир Михайлов"
     },
     {
       "season": 12,
-      "channel": "NOVA",
       "year": 2024,
       "episodes": 12,
       "schedule": "понеделник, 20:00 – 23:00",
@@ -219,12 +186,10 @@
       "final": "13 май",
       "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
       "contestants": 8,
-      "winner": "Владимир Зомбори",
-      "prize": "автомобил"
+      "winner": "Владимир Зомбори"
     },
     {
       "season": 13,
-      "channel": "NOVA",
       "year": 2025,
       "episodes": 12,
       "schedule": "неделя, 20:00 – 23:00",
@@ -232,12 +197,10 @@
       "final": "18 май",
       "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
       "contestants": 9,
-      "winner": "Вениамин Димитров",
-      "prize": "автомобил"
+      "winner": "Вениамин Димитров"
     },
     {
       "season": 14,
-      "channel": "NOVA",
       "year": 2026,
       "episodes": 12,
       "schedule": "понеделник, 20:00 – 23:30",
@@ -245,8 +208,7 @@
       "final": "18 май",
       "hosts": "Герасим Георгиев – Геро и Димитър Рачков",
       "contestants": 9,
-      "winner": "Даниел Пеев – Дънди",
-      "prize": "автомобил"
+      "winner": "Даниел Пеев – Дънди"
     }
   ],
   "meta": {
@@ -255,7 +217,7 @@
     "seo_title": "„Като две капки вода“ — сезони и победители | ListBase",
     "seo_description": "Download „Като две капки вода“ — сезони и победители — 14 records. Available in Excel, CSV, PDF formats.",
     "key_takeaways": [
-      "Contains 14 records / 11 fields",
+      "Contains 14 records / 9 fields",
       "Available for free download in Excel, CSV, and PDF formats",
       "Data sourced from: https://bg.wikipedia.org/wiki/Като_две_капки_вода"
     ]
