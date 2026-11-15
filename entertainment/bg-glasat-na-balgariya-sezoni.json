@@ -1,0 +1,203 @@
+{
+  "id": "bg-glasat-na-balgariya-sezoni",
+  "name": "„Гласът на България“ — сезони и победители",
+  "title": "„Гласът на България“ — сезони и победители",
+  "description": "Сезоните на музикалното риалити „Гласът на България“: телевизия, период на излъчване, брой епизоди, победител, отбор на треньора и награда.",
+  "category": "entertainment",
+  "source": "https://bg.wikipedia.org/wiki/Гласът_на_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Гласът_на_България",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "channel",
+      "label": "Channel",
+      "type": "string"
+    },
+    {
+      "key": "tv_season",
+      "label": "Tv Season",
+      "type": "string"
+    },
+    {
+      "key": "episodes",
+      "label": "Episodes",
+      "type": "number"
+    },
+    {
+      "key": "start",
+      "label": "Start",
+      "type": "string"
+    },
+    {
+      "key": "final",
+      "label": "Final",
+      "type": "string"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "winning_coach",
+      "label": "Winning Coach",
+      "type": "string"
+    },
+    {
+      "key": "prize",
+      "label": "Prize",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": 1,
+      "channel": "bTV",
+      "tv_season": "2011 (лято-есен)",
+      "episodes": 31,
+      "start": "18 юли",
+      "final": "24 октомври",
+      "winner": "Стелияна Христова",
+      "winning_coach": "Мариана Попова",
+      "prize": "запис на сингъл в Universal Music"
+    },
+    {
+      "season": 2,
+      "channel": "bTV",
+      "tv_season": "2013 (пролет)",
+      "episodes": 34,
+      "start": "11 февруари",
+      "final": "27 май",
+      "winner": "Ивайло Донков",
+      "winning_coach": "Миро",
+      "prize": "обучение в Музикалния колеж в Бъркли"
+    },
+    {
+      "season": 3,
+      "channel": "bTV",
+      "tv_season": "2014 (есен)",
+      "episodes": 27,
+      "start": "21 септември",
+      "final": "21 декември",
+      "winner": "Кристина Иванова",
+      "winning_coach": "Деси Слава",
+      "prize": "20 000 лв., автомобил, запис на сингъл"
+    },
+    {
+      "season": 4,
+      "channel": "bTV",
+      "tv_season": "2017 (пролет)",
+      "episodes": 16,
+      "start": "26 февруари",
+      "final": "11 юни",
+      "winner": "Радко Петков",
+      "winning_coach": "Иван Лечев",
+      "prize": "50 000 лв."
+    },
+    {
+      "season": 5,
+      "channel": "bTV",
+      "tv_season": "2018 (пролет)",
+      "episodes": 16,
+      "start": "18 февруари",
+      "final": "3 юни",
+      "winner": "Ния Петрова",
+      "winning_coach": "Иван Лечев",
+      "prize": "50 000 лв."
+    },
+    {
+      "season": 6,
+      "channel": "bTV",
+      "tv_season": "2019 (пролет)",
+      "episodes": 16,
+      "start": "24 февруари",
+      "final": "9 юни",
+      "winner": "Атанас Кателиев",
+      "winning_coach": "Графа",
+      "prize": "50 000 лв."
+    },
+    {
+      "season": 7,
+      "channel": "bTV",
+      "tv_season": "2020 (пролет)",
+      "episodes": 17,
+      "start": "23 февруари",
+      "final": "14 юни",
+      "winner": "Георги Шопов",
+      "winning_coach": "Иван Лечев",
+      "prize": "50 000 лв."
+    },
+    {
+      "season": 8,
+      "channel": "bTV",
+      "tv_season": "2021 (есен)",
+      "episodes": 14,
+      "start": "12 септември",
+      "final": "12 декември",
+      "winner": "Петя Панева",
+      "winning_coach": "Галена",
+      "prize": "50 000 лв."
+    },
+    {
+      "season": 9,
+      "channel": "bTV",
+      "tv_season": "2022 (есен)",
+      "episodes": 14,
+      "start": "4 септември",
+      "final": "4 декември",
+      "winner": "Жаклин Таракчи",
+      "winning_coach": "Дара",
+      "prize": "50 000 лв."
+    },
+    {
+      "season": 10,
+      "channel": "bTV",
+      "tv_season": "2023 (есен)",
+      "episodes": 15,
+      "start": "10 септември",
+      "final": "17 декември",
+      "winner": "Надежда Ковачева",
+      "winning_coach": "Миро",
+      "prize": "50 000 лв."
+    },
+    {
+      "season": 11,
+      "channel": "bTV",
+      "tv_season": "2024 (есен)",
+      "episodes": 15,
+      "start": "14 септември",
+      "final": "15 декември",
+      "winner": "Славея Иванова",
+      "winning_coach": "Дара",
+      "prize": "50 000 лв."
+    },
+    {
+      "season": 12,
+      "channel": "bTV",
+      "tv_season": "2026 (есен)",
+      "episodes": "",
+      "start": "6 септември",
+      "final": "",
+      "winner": "",
+      "winning_coach": "",
+      "prize": "30 000 €"
+    }
+  ],
+  "meta": {
+    "title": "„Гласът на България“ — сезони и победители - Free Download",
+    "description": "Сезоните на музикалното риалити „Гласът на България“: телевизия, период на излъчване, брой епизоди, победител, отбор на треньора и награда. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "„Гласът на България“ — сезони и победители | ListBase",
+    "seo_description": "Download „Гласът на България“ — сезони и победители — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Гласът_на_България"
+    ]
+  }
+}
