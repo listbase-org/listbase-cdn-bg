@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-14T02:11:36.705Z",
-  "total_datasets": 507,
-  "total_records": 197741,
+  "generated": "2026-11-15T02:14:38.107Z",
+  "total_datasets": 508,
+  "total_records": 198011,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -5641,6 +5641,30 @@
         "xlsx": {
           "name": "bg-melodiya-na-godinata_BG.xlsx",
           "size": 8317
+        }
+      }
+    },
+    {
+      "id": "bg-muzikalni-nagradi-bg-radio-pobediteli",
+      "name": "Годишни музикални награди на БГ Радио — победители",
+      "category": "music",
+      "record_count": 270,
+      "columns": [
+        "year",
+        "category",
+        "winner"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Годишни_музикални_награди_на_БГ_Радио",
+      "updated": "2026-11",
+      "size": 38586,
+      "files": {
+        "csv": {
+          "name": "bg-muzikalni-nagradi-bg-radio-pobediteli_BG.csv",
+          "size": 19984
+        },
+        "xlsx": {
+          "name": "bg-muzikalni-nagradi-bg-radio-pobediteli_BG.xlsx",
+          "size": 14569
         }
       }
     },
