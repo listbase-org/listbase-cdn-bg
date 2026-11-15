@@ -1,6 +1,6 @@
 {
   "lang": "bg",
-  "generated": "2026-11-15T02:15:16.943Z",
+  "generated": "2026-11-15T02:20:38.259Z",
   "total_datasets": 511,
   "total_records": 198068,
   "categories": [
@@ -2000,7 +2000,6 @@
       "record_count": 12,
       "columns": [
         "season",
-        "channel",
         "tv_season",
         "episodes",
         "start",
@@ -2011,15 +2010,15 @@
       ],
       "source": "https://bg.wikipedia.org/wiki/Гласът_на_България",
       "updated": "2026-11",
-      "size": 6318,
+      "size": 5944,
       "files": {
         "csv": {
           "name": "bg-glasat-na-balgariya-sezoni_BG.csv",
-          "size": 1813
+          "size": 1731
         },
         "xlsx": {
           "name": "bg-glasat-na-balgariya-sezoni_BG.xlsx",
-          "size": 7838
+          "size": 7791
         }
       }
     },
