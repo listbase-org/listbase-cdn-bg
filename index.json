@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-15T02:15:06.772Z",
-  "total_datasets": 510,
-  "total_records": 198037,
+  "generated": "2026-11-15T02:15:16.943Z",
+  "total_datasets": 511,
+  "total_records": 198068,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -5062,6 +5062,29 @@
         "xlsx": {
           "name": "bg-ministri-zdraveopazvane_BG.xlsx",
           "size": 9218
+        }
+      }
+    },
+    {
+      "id": "bg-onkologichni-bolnitsi-i-tsentrove",
+      "name": "Онкологични болници и центрове в България",
+      "category": "health",
+      "record_count": 31,
+      "columns": [
+        "city",
+        "name"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Онкологични_болници_и_центрове_в_България",
+      "updated": "2026-11",
+      "size": 7725,
+      "files": {
+        "csv": {
+          "name": "bg-onkologichni-bolnitsi-i-tsentrove_BG.csv",
+          "size": 4454
+        },
+        "xlsx": {
+          "name": "bg-onkologichni-bolnitsi-i-tsentrove_BG.xlsx",
+          "size": 8084
         }
       }
     },
