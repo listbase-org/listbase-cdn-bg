@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-15T02:20:48.253Z",
-  "total_datasets": 511,
-  "total_records": 198068,
+  "generated": "2026-11-16T02:13:49.817Z",
+  "total_datasets": 512,
+  "total_records": 198124,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -12618,6 +12618,30 @@
         "xlsx": {
           "name": "bg-efirni-televizii_BG.xlsx",
           "size": 7505
+        }
+      }
+    },
+    {
+      "id": "bg-elektronni-kalkulatori-elka-modeli",
+      "name": "Модели електронни калкулатори „Елка“",
+      "category": "tech",
+      "record_count": 56,
+      "columns": [
+        "year",
+        "model",
+        "comment"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Елка",
+      "updated": "2026-11",
+      "size": 14589,
+      "files": {
+        "csv": {
+          "name": "bg-elektronni-kalkulatori-elka-modeli_BG.csv",
+          "size": 9385
+        },
+        "xlsx": {
+          "name": "bg-elektronni-kalkulatori-elka-modeli_BG.xlsx",
+          "size": 10102
         }
       }
     },
