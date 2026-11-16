@@ -1,0 +1,107 @@
+{
+  "id": "bg-ministri-elektronno-upravlenie",
+  "name": "Министри на електронното управление на България",
+  "title": "Министри на електронното управление на България",
+  "description": "Министрите на електронното управление на България от създаването на министерството през 2021 г. с номер на правителството, мандат и партийна принадлежност.",
+  "category": "tech",
+  "source": "https://bg.wikipedia.org/wiki/Министър_на_електронното_управление_на_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Министър_на_електронното_управление_на_България",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "government_no",
+      "label": "Government No",
+      "type": "number"
+    },
+    {
+      "key": "minister",
+      "label": "Minister",
+      "type": "string"
+    },
+    {
+      "key": "term_from",
+      "label": "Term From",
+      "type": "string"
+    },
+    {
+      "key": "term_to",
+      "label": "Term To",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "government_no": 99,
+      "minister": "Божидар Божанов",
+      "term_from": "13 декември 2021",
+      "term_to": "2 август 2022",
+      "party": "ДБ"
+    },
+    {
+      "government_no": 100,
+      "minister": "Георги Тодоров",
+      "term_from": "2 август 2022",
+      "term_to": "3 февруари 2023",
+      "party": "безпартиен"
+    },
+    {
+      "government_no": 101,
+      "minister": "Георги Тодоров",
+      "term_from": "3 февруари 2023",
+      "term_to": "6 юни 2023",
+      "party": "безпартиен"
+    },
+    {
+      "government_no": 102,
+      "minister": "Александър Йоловски",
+      "term_from": "6 юни 2023",
+      "term_to": "9 април 2024",
+      "party": "безпартиен"
+    },
+    {
+      "government_no": 103,
+      "minister": "Валентин Мундров",
+      "term_from": "9 април 2024",
+      "term_to": "27 август 2024",
+      "party": "безпартиен"
+    },
+    {
+      "government_no": 104,
+      "minister": "Валентин Мундров",
+      "term_from": "27 август 2024",
+      "term_to": "16 януари 2025",
+      "party": "безпартиен"
+    },
+    {
+      "government_no": 105,
+      "minister": "Валентин Мундров",
+      "term_from": "16 януари 2025",
+      "term_to": "19 февруари 2026",
+      "party": "безпартиен"
+    },
+    {
+      "government_no": 106,
+      "minister": "Георги Шарков",
+      "term_from": "19 февруари 2026",
+      "term_to": "8 май 2026",
+      "party": "безпартиен"
+    }
+  ],
+  "meta": {
+    "title": "Министри на електронното управление на България - Free Download",
+    "description": "Министрите на електронното управление на България от създаването на министерството през 2021 г. с номер на правителството, мандат и партийна принадлежност. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Министри на електронното управление на България | ListBase",
+    "seo_description": "Download Министри на електронното управление на България — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Министър_на_електронното_управление_на_България"
+    ]
+  }
+}
