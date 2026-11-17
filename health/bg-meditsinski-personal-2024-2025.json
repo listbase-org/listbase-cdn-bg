@@ -1,0 +1,128 @@
+{
+  "id": "bg-meditsinski-personal-2024-2025",
+  "name": "Медицински персонал в България (2024–2025)",
+  "title": "Медицински персонал в България (2024–2025)",
+  "description": "Брой лекари, лекари по дентална медицина, медицински сестри и други медицински специалисти в България и на 10 000 души от населението към края на 2024 и 2025 г. (НСИ).",
+  "category": "health",
+  "source": "https://www.nsi.bg/file/36227/lechebni_zavedeniya_za_bolnichna_i_izvanbolnichna_pomosht_i_zdravni_zavedeniya_kam_31_12_2025_godina.pdf",
+  "source_url": "https://www.nsi.bg/file/36227/lechebni_zavedeniya_za_bolnichna_i_izvanbolnichna_pomosht_i_zdravni_zavedeniya_kam_31_12_2025_godina.pdf",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "staff",
+      "label": "Staff",
+      "type": "string"
+    },
+    {
+      "key": "parent_group",
+      "label": "Parent Group",
+      "type": "string"
+    },
+    {
+      "key": "count_2024",
+      "label": "Count 2024",
+      "type": "number"
+    },
+    {
+      "key": "count_2025",
+      "label": "Count 2025",
+      "type": "number"
+    },
+    {
+      "key": "per_10000_2024",
+      "label": "Per 10000 2024",
+      "type": "number"
+    },
+    {
+      "key": "per_10000_2025",
+      "label": "Per 10000 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "staff": "Лекари",
+      "parent_group": "",
+      "count_2024": 30149,
+      "count_2025": 30409,
+      "per_10000_2024": 46.8,
+      "per_10000_2025": 47.3
+    },
+    {
+      "staff": "Лекари по дентална медицина",
+      "parent_group": "",
+      "count_2024": 7784,
+      "count_2025": 8080,
+      "per_10000_2024": 12.1,
+      "per_10000_2025": 12.6
+    },
+    {
+      "staff": "Професионалисти по здравни грижи и други медицински специалисти",
+      "parent_group": "",
+      "count_2024": 44554,
+      "count_2025": 44772,
+      "per_10000_2024": 69.2,
+      "per_10000_2025": 69.7
+    },
+    {
+      "staff": "Фелдшери",
+      "parent_group": "Професионалисти по здравни грижи и други медицински специалисти",
+      "count_2024": 1538,
+      "count_2025": 1512,
+      "per_10000_2024": 2.4,
+      "per_10000_2025": 2.4
+    },
+    {
+      "staff": "Акушерки",
+      "parent_group": "Професионалисти по здравни грижи и други медицински специалисти",
+      "count_2024": 3254,
+      "count_2025": 3338,
+      "per_10000_2024": 5.1,
+      "per_10000_2025": 5.2
+    },
+    {
+      "staff": "Медицински сестри",
+      "parent_group": "Професионалисти по здравни грижи и други медицински специалисти",
+      "count_2024": 28393,
+      "count_2025": 28357,
+      "per_10000_2024": 44.1,
+      "per_10000_2025": 44.1
+    },
+    {
+      "staff": "Лаборанти (медицински и рентгенови)",
+      "parent_group": "Професионалисти по здравни грижи и други медицински специалисти",
+      "count_2024": 6140,
+      "count_2025": 6190,
+      "per_10000_2024": 9.5,
+      "per_10000_2025": 9.6
+    },
+    {
+      "staff": "Зъботехници",
+      "parent_group": "Професионалисти по здравни грижи и други медицински специалисти",
+      "count_2024": 1714,
+      "count_2025": 1749,
+      "per_10000_2024": 2.7,
+      "per_10000_2025": 2.7
+    },
+    {
+      "staff": "Други професионалисти и медицински специалисти",
+      "parent_group": "Професионалисти по здравни грижи и други медицински специалисти",
+      "count_2024": 3515,
+      "count_2025": 3626,
+      "per_10000_2024": 5.5,
+      "per_10000_2025": 5.6
+    }
+  ],
+  "meta": {
+    "title": "Медицински персонал в България (2024–2025) - Free Download",
+    "description": "Брой лекари, лекари по дентална медицина, медицински сестри и други медицински специалисти в България и на 10 000 души от населението към края на 2024 и 2025 г. (НСИ). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Медицински персонал в България (2024–2025) | ListBase",
+    "seo_description": "Download Медицински персонал в България (2024–2025) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.nsi.bg/file/36227/lechebni_zavedeniya_za_bolnichna_i_izvanbolnichna_pomosht_i_zdravni_zavedeniya_kam_31_12_2025_godina.pdf"
+    ]
+  }
+}

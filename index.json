@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-17T02:16:40.722Z",
-  "total_datasets": 515,
-  "total_records": 198206,
+  "generated": "2026-11-17T02:16:56.359Z",
+  "total_datasets": 516,
+  "total_records": 198215,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -5059,6 +5059,33 @@
         "xlsx": {
           "name": "bg-lechebni-zavedeniya-i-legla-2025_BG.xlsx",
           "size": 7494
+        }
+      }
+    },
+    {
+      "id": "bg-meditsinski-personal-2024-2025",
+      "name": "Медицински персонал в България (2024–2025)",
+      "category": "health",
+      "record_count": 9,
+      "columns": [
+        "staff",
+        "parent_group",
+        "count_2024",
+        "count_2025",
+        "per_10000_2024",
+        "per_10000_2025"
+      ],
+      "source": "https://www.nsi.bg/file/36227/lechebni_zavedeniya_za_bolnichna_i_izvanbolnichna_pomosht_i_zdravni_zavedeniya_kam_31_12_2025_godina.pdf",
+      "updated": "2026-11",
+      "size": 5198,
+      "files": {
+        "csv": {
+          "name": "bg-meditsinski-personal-2024-2025_BG.csv",
+          "size": 1523
+        },
+        "xlsx": {
+          "name": "bg-meditsinski-personal-2024-2025_BG.xlsx",
+          "size": 7274
         }
       }
     },
