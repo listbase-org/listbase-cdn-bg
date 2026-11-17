@@ -1,0 +1,142 @@
+{
+  "id": "bg-lechebni-zavedeniya-i-legla-2025",
+  "name": "Лечебни и здравни заведения и легла в България (31.12.2025)",
+  "title": "Лечебни и здравни заведения и легла в България (31.12.2025)",
+  "description": "Брой лечебни и здравни заведения и легла по видове в България към 31.12.2025 г. по данни на НСИ.",
+  "category": "health",
+  "source": "https://www.nsi.bg/file/36227/lechebni_zavedeniya_za_bolnichna_i_izvanbolnichna_pomosht_i_zdravni_zavedeniya_kam_31_12_2025_godina.pdf",
+  "source_url": "https://www.nsi.bg/file/36227/lechebni_zavedeniya_za_bolnichna_i_izvanbolnichna_pomosht_i_zdravni_zavedeniya_kam_31_12_2025_godina.pdf",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "parent_group",
+      "label": "Parent Group",
+      "type": "string"
+    },
+    {
+      "key": "establishments",
+      "label": "Establishments",
+      "type": "number"
+    },
+    {
+      "key": "beds",
+      "label": "Beds",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "type": "Лечебни заведения за болнична помощ",
+      "parent_group": "",
+      "establishments": 338,
+      "beds": 56925
+    },
+    {
+      "type": "Болници",
+      "parent_group": "Лечебни заведения за болнична помощ",
+      "establishments": 316,
+      "beds": 54674
+    },
+    {
+      "type": "Многопрофилни болници",
+      "parent_group": "Болници",
+      "establishments": 178,
+      "beds": 40434
+    },
+    {
+      "type": "Специализирани болници",
+      "parent_group": "Болници",
+      "establishments": 138,
+      "beds": 14240
+    },
+    {
+      "type": "Центрове за кожно-венерически заболявания",
+      "parent_group": "Лечебни заведения за болнична помощ",
+      "establishments": 3,
+      "beds": 30
+    },
+    {
+      "type": "Комплексни онкологични центрове",
+      "parent_group": "Лечебни заведения за болнична помощ",
+      "establishments": 7,
+      "beds": 1199
+    },
+    {
+      "type": "Центрове за психично здраве",
+      "parent_group": "Лечебни заведения за болнична помощ",
+      "establishments": 12,
+      "beds": 1022
+    },
+    {
+      "type": "Лечебни заведения за извънболнична помощ",
+      "parent_group": "",
+      "establishments": 2380,
+      "beds": 1382
+    },
+    {
+      "type": "Диагностично-консултативни центрове",
+      "parent_group": "Лечебни заведения за извънболнична помощ",
+      "establishments": 114,
+      "beds": 288
+    },
+    {
+      "type": "Медицински центрове",
+      "parent_group": "Лечебни заведения за извънболнична помощ",
+      "establishments": 906,
+      "beds": 1017
+    },
+    {
+      "type": "Дентални центрове",
+      "parent_group": "Лечебни заведения за извънболнична помощ",
+      "establishments": 70,
+      "beds": 3
+    },
+    {
+      "type": "Медико-дентални центрове",
+      "parent_group": "Лечебни заведения за извънболнична помощ",
+      "establishments": 76,
+      "beds": 74
+    },
+    {
+      "type": "Самостоятелни медико-диагностични и медико-технически лаборатории",
+      "parent_group": "Лечебни заведения за извънболнична помощ",
+      "establishments": 1214,
+      "beds": ""
+    },
+    {
+      "type": "Други лечебни и здравни заведения",
+      "parent_group": "",
+      "establishments": 148,
+      "beds": 1875
+    },
+    {
+      "type": "Хосписи",
+      "parent_group": "Други лечебни и здравни заведения",
+      "establishments": 46,
+      "beds": 1493
+    },
+    {
+      "type": "Центрове за комплексно обслужване на деца с увреждания и хронични заболявания",
+      "parent_group": "Други лечебни и здравни заведения",
+      "establishments": 12,
+      "beds": 210
+    }
+  ],
+  "meta": {
+    "title": "Лечебни и здравни заведения и легла в България (31.12.2025) - Free Download",
+    "description": "Брой лечебни и здравни заведения и легла по видове в България към 31.12.2025 г. по данни на НСИ. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Лечебни и здравни заведения и легла в България (31.12.2025) | ListBase",
+    "seo_description": "Download Лечебни и здравни заведения и легла в България (31.12.2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.nsi.bg/file/36227/lechebni_zavedeniya_za_bolnichna_i_izvanbolnichna_pomosht_i_zdravni_zavedeniya_kam_31_12_2025_godina.pdf"
+    ]
+  }
+}
