@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-17T02:16:56.359Z",
-  "total_datasets": 516,
-  "total_records": 198215,
+  "generated": "2026-11-17T02:17:04.215Z",
+  "total_datasets": 517,
+  "total_records": 198221,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -5549,6 +5549,32 @@
         "xlsx": {
           "name": "bg-ministri-pravosadie_BG.xlsx",
           "size": 12450
+        }
+      }
+    },
+    {
+      "id": "bg-ombudsmani",
+      "name": "Омбудсмани на Република България",
+      "category": "law",
+      "record_count": 6,
+      "columns": [
+        "no",
+        "ombudsman",
+        "term_start",
+        "term_end",
+        "election_vote"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Омбудсман_на_Република_България",
+      "updated": "2026-11",
+      "size": 3591,
+      "files": {
+        "csv": {
+          "name": "bg-ombudsmani_BG.csv",
+          "size": 837
+        },
+        "xlsx": {
+          "name": "bg-ombudsmani_BG.xlsx",
+          "size": 7191
         }
       }
     },

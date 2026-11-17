@@ -1,0 +1,93 @@
+{
+  "id": "bg-ombudsmani",
+  "name": "Омбудсмани на Република България",
+  "title": "Омбудсмани на Република България",
+  "description": "Омбудсмани на Република България от създаването на институцията през 2005 г. с дати на мандата и резултат от гласуването в Народното събрание.",
+  "category": "law",
+  "source": "https://bg.wikipedia.org/wiki/Омбудсман_на_Република_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Омбудсман_на_Република_България",
+  "updated": "2026-11",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "ombudsman",
+      "label": "Ombudsman",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "election_vote",
+      "label": "Election Vote",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "ombudsman": "Гиньо Ганев",
+      "term_start": "13 април 2005",
+      "term_end": "20 октомври 2010",
+      "election_vote": "141 гласа за срещу 46 гласа"
+    },
+    {
+      "no": "2",
+      "ombudsman": "Константин Пенчев",
+      "term_start": "20 октомври 2010",
+      "term_end": "20 октомври 2015",
+      "election_vote": "137 гласа за срещу 51 гласа"
+    },
+    {
+      "no": "3",
+      "ombudsman": "Мая Манолова",
+      "term_start": "20 октомври 2015",
+      "term_end": "4 септември 2019",
+      "election_vote": "129 гласа за срещу 82 гласа"
+    },
+    {
+      "no": "",
+      "ombudsman": "Диана Ковачева",
+      "term_start": "4 септември 2019",
+      "term_end": "21 май 2020",
+      "election_vote": "изпълняващ длъжността до избор"
+    },
+    {
+      "no": "4",
+      "ombudsman": "Диана Ковачева",
+      "term_start": "21 май 2020",
+      "term_end": "10 април 2024",
+      "election_vote": "173 гласа за срещу 0 гласа"
+    },
+    {
+      "no": "5",
+      "ombudsman": "Велислава Делчева",
+      "term_start": "18 юли 2025",
+      "term_end": "до момента",
+      "election_vote": "123 гласа за срещу 92 гласа"
+    }
+  ],
+  "meta": {
+    "title": "Омбудсмани на Република България - Free Download",
+    "description": "Омбудсмани на Република България от създаването на институцията през 2005 г. с дати на мандата и резултат от гласуването в Народното събрание. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Омбудсмани на Република България | ListBase",
+    "seo_description": "Download Омбудсмани на Република България — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Омбудсман_на_Република_България"
+    ]
+  }
+}
