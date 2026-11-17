@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-17T02:17:04.215Z",
-  "total_datasets": 517,
-  "total_records": 198221,
+  "generated": "2026-11-17T02:17:13.702Z",
+  "total_datasets": 518,
+  "total_records": 198292,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -2852,6 +2852,48 @@
         "xlsx": {
           "name": "bg-pivovarni-i-marki-bira_BG.xlsx",
           "size": 7962
+        }
+      }
+    },
+    {
+      "id": "bg-potreblenie-hranitelni-produkti-na-litse",
+      "name": "Потребление на основни хранителни продукти средно на лице (2008–2025)",
+      "category": "food",
+      "record_count": 71,
+      "columns": [
+        "product",
+        "group",
+        "unit",
+        "y2008",
+        "y2009",
+        "y2010",
+        "y2011",
+        "y2012",
+        "y2013",
+        "y2014",
+        "y2015",
+        "y2016",
+        "y2017",
+        "y2018",
+        "y2019",
+        "y2020",
+        "y2021",
+        "y2022",
+        "y2023",
+        "y2024",
+        "y2025"
+      ],
+      "source": "https://www.nsi.bg/statistical-data/251/796",
+      "updated": "2026-11",
+      "size": 37774,
+      "files": {
+        "csv": {
+          "name": "bg-potreblenie-hranitelni-produkti-na-litse_BG.csv",
+          "size": 11997
+        },
+        "xlsx": {
+          "name": "bg-potreblenie-hranitelni-produkti-na-litse_BG.xlsx",
+          "size": 13754
         }
       }
     },
