@@ -1,0 +1,471 @@
+{
+  "id": "bg-narodni-sabraniya-mandati",
+  "name": "Народни събрания на България – мандати и брой депутати",
+  "title": "Народни събрания на България – мандати и брой депутати",
+  "description": "Списък на всички обикновени и велики народни събрания на България от Учредителното събрание (1879) до днес с начало и край на мандата, продължителност в дни и брой депутати.",
+  "category": "history",
+  "source": "https://bg.wikipedia.org/wiki/Народно_събрание",
+  "source_url": "https://bg.wikipedia.org/wiki/Народно_събрание",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "parliament",
+      "label": "Parliament",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "total_days",
+      "label": "Total Days",
+      "type": "number"
+    },
+    {
+      "key": "deputies",
+      "label": "Deputies",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "parliament": "Учредително събрание",
+      "term_start": "10.02.1879",
+      "term_end": "16.04.1879",
+      "total_days": 65,
+      "deputies": 231
+    },
+    {
+      "parliament": "I велико народно събрание",
+      "term_start": "17.04.1879",
+      "term_end": "26.06.1879",
+      "total_days": 70,
+      "deputies": 231
+    },
+    {
+      "parliament": "I обикновено народно събрание",
+      "term_start": "21.10.1879",
+      "term_end": "24.11.1879",
+      "total_days": 34,
+      "deputies": 158
+    },
+    {
+      "parliament": "II обикновено народно събрание",
+      "term_start": "23.03.1880",
+      "term_end": "18.12.1880",
+      "total_days": 270,
+      "deputies": 172
+    },
+    {
+      "parliament": "II велико народно събрание",
+      "term_start": "01.07.1881",
+      "term_end": "",
+      "total_days": 1,
+      "deputies": 307
+    },
+    {
+      "parliament": "III обикновено народно събрание",
+      "term_start": "10.12.1882",
+      "term_end": "25.12.1883",
+      "total_days": 380,
+      "deputies": "47 / 55"
+    },
+    {
+      "parliament": "IV обикновено народно събрание",
+      "term_start": "27.06.1884",
+      "term_end": "06.09.1886",
+      "total_days": 801,
+      "deputies": "195 / 286"
+    },
+    {
+      "parliament": "III велико народно събрание",
+      "term_start": "19.10.1886",
+      "term_end": "03.08.1887",
+      "total_days": 288,
+      "deputies": 493
+    },
+    {
+      "parliament": "V обикновено народно събрание",
+      "term_start": "15.10.1887",
+      "term_end": "17.12.1889",
+      "total_days": 794,
+      "deputies": 285
+    },
+    {
+      "parliament": "VI обикновено народно събрание",
+      "term_start": "15.10.1890",
+      "term_end": "15.12.1892",
+      "total_days": 792,
+      "deputies": 276
+    },
+    {
+      "parliament": "IV велико народно събрание",
+      "term_start": "03.05.1893",
+      "term_end": "17.05.1893",
+      "total_days": 14,
+      "deputies": 577
+    },
+    {
+      "parliament": "VII обикновено народно събрание",
+      "term_start": "15.10.1893",
+      "term_end": "21.12.1893",
+      "total_days": 67,
+      "deputies": 145
+    },
+    {
+      "parliament": "VIII обикновено народно събрание",
+      "term_start": "15.10.1894",
+      "term_end": "04.02.1896",
+      "total_days": 477,
+      "deputies": 149
+    },
+    {
+      "parliament": "IX обикновено народно събрание",
+      "term_start": "01.12.1896",
+      "term_end": "19.12.1898",
+      "total_days": 748,
+      "deputies": 159
+    },
+    {
+      "parliament": "X обикновено народно събрание",
+      "term_start": "16.05.1899",
+      "term_end": "29.11.1900",
+      "total_days": 562,
+      "deputies": 169
+    },
+    {
+      "parliament": "XI обикновено народно събрание",
+      "term_start": "22.02.1901",
+      "term_end": "23.12.1901",
+      "total_days": 304,
+      "deputies": 166
+    },
+    {
+      "parliament": "XII обикновено народно събрание",
+      "term_start": "22.04.1902",
+      "term_end": "31.03.1903",
+      "total_days": 343,
+      "deputies": 188
+    },
+    {
+      "parliament": "XIII обикновено народно събрание",
+      "term_start": "02.11.1903",
+      "term_end": "22.12.1907",
+      "total_days": 1511,
+      "deputies": 189
+    },
+    {
+      "parliament": "XIV обикновено народно събрание",
+      "term_start": "15.06.1908",
+      "term_end": "15.02.1911",
+      "total_days": 975,
+      "deputies": 203
+    },
+    {
+      "parliament": "V велико народно събрание",
+      "term_start": "09.06.1911",
+      "term_end": "09.07.1911",
+      "total_days": 30,
+      "deputies": 414
+    },
+    {
+      "parliament": "XV обикновено народно събрание",
+      "term_start": "15.10.1911",
+      "term_end": "23.07.1913",
+      "total_days": 647,
+      "deputies": 213
+    },
+    {
+      "parliament": "XVI обикновено народно събрание",
+      "term_start": "19.12.1913",
+      "term_end": "31.12.1913",
+      "total_days": 12,
+      "deputies": 204
+    },
+    {
+      "parliament": "XVII обикновено народно събрание",
+      "term_start": "20.03.1914",
+      "term_end": "15.04.1919",
+      "total_days": 1852,
+      "deputies": 257
+    },
+    {
+      "parliament": "XVIII обикновено народно събрание",
+      "term_start": "02.10.1919",
+      "term_end": "20.02.1920",
+      "total_days": 141,
+      "deputies": 237
+    },
+    {
+      "parliament": "XIX обикновено народно събрание",
+      "term_start": "15.04.1920",
+      "term_end": "11.03.1923",
+      "total_days": 1060,
+      "deputies": 232
+    },
+    {
+      "parliament": "XX обикновено народно събрание",
+      "term_start": "21.05.1923",
+      "term_end": "11.06.1923",
+      "total_days": 21,
+      "deputies": 245
+    },
+    {
+      "parliament": "XXI обикновено народно събрание",
+      "term_start": "09.12.1923",
+      "term_end": "15.04.1927",
+      "total_days": 1223,
+      "deputies": 267
+    },
+    {
+      "parliament": "XXII обикновено народно събрание",
+      "term_start": "19.06.1927",
+      "term_end": "18.04.1931",
+      "total_days": 1399,
+      "deputies": 275
+    },
+    {
+      "parliament": "XXIII обикновено народно събрание",
+      "term_start": "20.08.1931",
+      "term_end": "19.05.1934",
+      "total_days": 1003,
+      "deputies": 283
+    },
+    {
+      "parliament": "XXIV обикновено народно събрание",
+      "term_start": "22.05.1938",
+      "term_end": "27.04.1939",
+      "total_days": 340,
+      "deputies": 160
+    },
+    {
+      "parliament": "XXV обикновено народно събрание",
+      "term_start": "24.02.1940",
+      "term_end": "23.08.1944",
+      "total_days": 1642,
+      "deputies": 160
+    },
+    {
+      "parliament": "XXVI обикновено народно събрание",
+      "term_start": "15.12.1945",
+      "term_end": "28.09.1946",
+      "total_days": 287,
+      "deputies": 279
+    },
+    {
+      "parliament": "VI велико народно събрание",
+      "term_start": "07.11.1946",
+      "term_end": "21.10.1949",
+      "total_days": 1079,
+      "deputies": "465 (375)"
+    },
+    {
+      "parliament": "I народно събрание",
+      "term_start": "17.01.1950",
+      "term_end": "02.11.1953",
+      "total_days": 1385,
+      "deputies": 239
+    },
+    {
+      "parliament": "II народно събрание",
+      "term_start": "14.01.1954",
+      "term_end": "11.12.1957",
+      "total_days": 1427,
+      "deputies": 249
+    },
+    {
+      "parliament": "III народно събрание",
+      "term_start": "13.01.1958",
+      "term_end": "04.11.1961",
+      "total_days": 1391,
+      "deputies": 254
+    },
+    {
+      "parliament": "IV народно събрание",
+      "term_start": "15.03.1962",
+      "term_end": "08.12.1965",
+      "total_days": 1364,
+      "deputies": 321
+    },
+    {
+      "parliament": "V народно събрание",
+      "term_start": "11.03.1966",
+      "term_end": "18.05.1971",
+      "total_days": 1894,
+      "deputies": 416
+    },
+    {
+      "parliament": "VI народно събрание",
+      "term_start": "07.07.1971",
+      "term_end": "09.03.1976",
+      "total_days": 1707,
+      "deputies": 400
+    },
+    {
+      "parliament": "VII народно събрание",
+      "term_start": "15.06.1976",
+      "term_end": "07.04.1981",
+      "total_days": 1757,
+      "deputies": 400
+    },
+    {
+      "parliament": "VIII народно събрание",
+      "term_start": "16.06.1981",
+      "term_end": "21.03.1986",
+      "total_days": 1739,
+      "deputies": 400
+    },
+    {
+      "parliament": "IX народно събрание",
+      "term_start": "17.06.1986",
+      "term_end": "03.04.1990",
+      "total_days": 1386,
+      "deputies": 400
+    },
+    {
+      "parliament": "VII велико народно събрание",
+      "term_start": "10.07.1990",
+      "term_end": "02.10.1991",
+      "total_days": 449,
+      "deputies": 400
+    },
+    {
+      "parliament": "XXXVI народно събрание",
+      "term_start": "04.11.1991",
+      "term_end": "17.10.1994",
+      "total_days": 1078,
+      "deputies": 240
+    },
+    {
+      "parliament": "XXXVII народно събрание",
+      "term_start": "12.01.1995",
+      "term_end": "13.02.1997",
+      "total_days": 763,
+      "deputies": 240
+    },
+    {
+      "parliament": "XXXVIII народно събрание",
+      "term_start": "07.05.1997",
+      "term_end": "19.04.2001",
+      "total_days": 1443,
+      "deputies": 240
+    },
+    {
+      "parliament": "XXXIX народно събрание",
+      "term_start": "05.07.2001",
+      "term_end": "17.06.2005",
+      "total_days": 1443,
+      "deputies": 240
+    },
+    {
+      "parliament": "XL народно събрание",
+      "term_start": "11.07.2005",
+      "term_end": "25.06.2009",
+      "total_days": 1445,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLI народно събрание",
+      "term_start": "14.07.2009",
+      "term_end": "14.03.2013",
+      "total_days": 1339,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLII народно събрание",
+      "term_start": "21.05.2013",
+      "term_end": "05.08.2014",
+      "total_days": 441,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLIII народно събрание",
+      "term_start": "27.10.2014",
+      "term_end": "26.01.2017",
+      "total_days": 822,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLIV народно събрание",
+      "term_start": "19.04.2017",
+      "term_end": "26.03.2021",
+      "total_days": 1437,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLV народно събрание",
+      "term_start": "15.04.2021",
+      "term_end": "11.05.2021",
+      "total_days": 26,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLVI народно събрание",
+      "term_start": "21.07.2021",
+      "term_end": "15.09.2021",
+      "total_days": 56,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLVII народно събрание",
+      "term_start": "03.12.2021",
+      "term_end": "01.08.2022",
+      "total_days": 242,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLVIII народно събрание",
+      "term_start": "19.10.2022",
+      "term_end": "02.02.2023",
+      "total_days": 107,
+      "deputies": 240
+    },
+    {
+      "parliament": "XLIX народно събрание",
+      "term_start": "12.04.2023",
+      "term_end": "18.06.2024",
+      "total_days": 434,
+      "deputies": 240
+    },
+    {
+      "parliament": "L народно събрание",
+      "term_start": "19.06.2024",
+      "term_end": "10.11.2024",
+      "total_days": 145,
+      "deputies": 240
+    },
+    {
+      "parliament": "LI народно събрание",
+      "term_start": "11.11.2024",
+      "term_end": "29.04.2026",
+      "total_days": 534,
+      "deputies": 240
+    },
+    {
+      "parliament": "LII народно събрание",
+      "term_start": "30.04.2026",
+      "term_end": "",
+      "total_days": 203,
+      "deputies": 240
+    }
+  ],
+  "meta": {
+    "title": "Народни събрания на България – мандати и брой депутати - Free Download",
+    "description": "Списък на всички обикновени и велики народни събрания на България от Учредителното събрание (1879) до днес с начало и край на мандата, продължителност в дни и брой депутати. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Народни събрания на България – мандати и брой депутати | ListBase",
+    "seo_description": "Download Народни събрания на България – мандати и брой депутати — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Народно_събрание"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-18T02:17:17.432Z",
-  "total_datasets": 519,
-  "total_records": 198353,
+  "generated": "2026-11-18T02:17:26.053Z",
+  "total_datasets": 520,
+  "total_records": 198413,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -5398,6 +5398,32 @@
         "xlsx": {
           "name": "bg-megaliti_BG.xlsx",
           "size": 12904
+        }
+      }
+    },
+    {
+      "id": "bg-narodni-sabraniya-mandati",
+      "name": "Народни събрания на България – мандати и брой депутати",
+      "category": "history",
+      "record_count": 60,
+      "columns": [
+        "parliament",
+        "term_start",
+        "term_end",
+        "total_days",
+        "deputies"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Народно_събрание",
+      "updated": "2026-11",
+      "size": 14169,
+      "files": {
+        "csv": {
+          "name": "bg-narodni-sabraniya-mandati_BG.csv",
+          "size": 5272
+        },
+        "xlsx": {
+          "name": "bg-narodni-sabraniya-mandati_BG.xlsx",
+          "size": 9287
         }
       }
     },
