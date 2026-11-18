@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-17T02:17:13.702Z",
-  "total_datasets": 518,
-  "total_records": 198292,
+  "generated": "2026-11-18T02:17:17.432Z",
+  "total_datasets": 519,
+  "total_records": 198353,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -5347,6 +5347,33 @@
         "xlsx": {
           "name": "bg-hayduti_BG.xlsx",
           "size": 65204
+        }
+      }
+    },
+    {
+      "id": "bg-kmetove-na-sofia",
+      "name": "Кметове на София",
+      "category": "history",
+      "record_count": 61,
+      "columns": [
+        "no",
+        "name",
+        "from_date",
+        "to_date",
+        "party",
+        "note"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Кметове_на_София",
+      "updated": "2026-11",
+      "size": 15768,
+      "files": {
+        "csv": {
+          "name": "bg-kmetove-na-sofia_BG.csv",
+          "size": 7459
+        },
+        "xlsx": {
+          "name": "bg-kmetove-na-sofia_BG.xlsx",
+          "size": 10118
         }
       }
     },
