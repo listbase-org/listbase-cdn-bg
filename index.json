@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-18T02:17:26.053Z",
-  "total_datasets": 520,
-  "total_records": 198413,
+  "generated": "2026-11-18T02:17:34.511Z",
+  "total_datasets": 521,
+  "total_records": 198785,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -5920,6 +5920,34 @@
         "xlsx": {
           "name": "bg-muzikalni-nagradi-bg-radio-pobediteli_BG.xlsx",
           "size": 14569
+        }
+      }
+    },
+    {
+      "id": "bg-pesni-lili-ivanova",
+      "name": "Песни на Лили Иванова",
+      "category": "music",
+      "record_count": 372,
+      "columns": [
+        "title",
+        "year",
+        "version",
+        "duration",
+        "album",
+        "authors",
+        "notes"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_с_песни_на_Лили_Иванова",
+      "updated": "2026-11",
+      "size": 132949,
+      "files": {
+        "csv": {
+          "name": "bg-pesni-lili-ivanova_BG.csv",
+          "size": 83258
+        },
+        "xlsx": {
+          "name": "bg-pesni-lili-ivanova_BG.xlsx",
+          "size": 26820
         }
       }
     },
