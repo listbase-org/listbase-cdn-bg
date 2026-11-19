@@ -1,12 +1,12 @@
 {
   "lang": "bg",
-  "generated": "2026-11-19T02:18:49.254Z",
-  "total_datasets": 523,
-  "total_records": 198887,
+  "generated": "2026-11-19T02:18:57.297Z",
+  "total_datasets": 524,
+  "total_records": 199152,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -268,6 +268,36 @@
         "xlsx": {
           "name": "bg-tseni-selskostopanska-produktsiya-2025_BG.xlsx",
           "size": 10791
+        }
+      }
+    },
+    {
+      "id": "bg-tseni-zemedelska-zemya-po-obshtini",
+      "name": "Средни цени на земеделската земя по общини (2024–2025)",
+      "category": "agriculture",
+      "record_count": 265,
+      "columns": [
+        "municipality",
+        "district",
+        "region",
+        "agri_land_2024",
+        "agri_land_2025",
+        "arable_2024",
+        "arable_2025",
+        "pasture_2024",
+        "pasture_2025"
+      ],
+      "source": "https://www.nsi.bg/statistical-data/10/19",
+      "updated": "2026-11",
+      "size": 81530,
+      "files": {
+        "csv": {
+          "name": "bg-tseni-zemedelska-zemya-po-obshtini_BG.csv",
+          "size": 25758
+        },
+        "xlsx": {
+          "name": "bg-tseni-zemedelska-zemya-po-obshtini_BG.xlsx",
+          "size": 19947
         }
       }
     },
