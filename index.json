@@ -1,12 +1,12 @@
 {
   "lang": "bg",
-  "generated": "2026-11-19T02:18:40.569Z",
-  "total_datasets": 522,
-  "total_records": 198821,
+  "generated": "2026-11-19T02:18:49.254Z",
+  "total_datasets": 523,
+  "total_records": 198887,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -239,6 +239,35 @@
         "xlsx": {
           "name": "bg-tehnicheski-kulturi-proizvodstvo-1870-1924_BG.xlsx",
           "size": 9977
+        }
+      }
+    },
+    {
+      "id": "bg-tseni-selskostopanska-produktsiya-2025",
+      "name": "Цени на селскостопанската продукция в България (2025)",
+      "category": "agriculture",
+      "record_count": 66,
+      "columns": [
+        "code",
+        "product",
+        "unit",
+        "q1_eur",
+        "q2_eur",
+        "q3_eur",
+        "q4_eur",
+        "year_2025_eur"
+      ],
+      "source": "https://www.nsi.bg/statistical-data/12/25",
+      "updated": "2026-11",
+      "size": 17531,
+      "files": {
+        "csv": {
+          "name": "bg-tseni-selskostopanska-produktsiya-2025_BG.csv",
+          "size": 5847
+        },
+        "xlsx": {
+          "name": "bg-tseni-selskostopanska-produktsiya-2025_BG.xlsx",
+          "size": 10791
         }
       }
     },
