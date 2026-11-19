@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-18T02:17:34.511Z",
-  "total_datasets": 521,
-  "total_records": 198785,
+  "generated": "2026-11-19T02:18:40.569Z",
+  "total_datasets": 522,
+  "total_records": 198821,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -13224,6 +13224,36 @@
         "xlsx": {
           "name": "bg-kashti-za-gosti_BG.xlsx",
           "size": 33602
+        }
+      }
+    },
+    {
+      "id": "bg-poseshteniya-chuzhdentsi-po-strani-2026",
+      "name": "Посещения на чужди граждани в България по страни (януари–юли 2026)",
+      "category": "tourism",
+      "record_count": 36,
+      "columns": [
+        "country",
+        "group",
+        "jan",
+        "feb",
+        "mar",
+        "apr",
+        "may",
+        "jun",
+        "jul"
+      ],
+      "source": "https://www.nsi.bg/statistical-data/280/1364",
+      "updated": "2026-11",
+      "size": 11067,
+      "files": {
+        "csv": {
+          "name": "bg-poseshteniya-chuzhdentsi-po-strani-2026_BG.csv",
+          "size": 3883
+        },
+        "xlsx": {
+          "name": "bg-poseshteniya-chuzhdentsi-po-strani-2026_BG.xlsx",
+          "size": 9077
         }
       }
     },
