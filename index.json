@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-19T02:18:57.297Z",
-  "total_datasets": 524,
-  "total_records": 199152,
+  "generated": "2026-11-20T02:17:25.928Z",
+  "total_datasets": 525,
+  "total_records": 199189,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -770,6 +770,36 @@
         "xlsx": {
           "name": "bg-bezrabotitsa-po-godini_BG.xlsx",
           "size": 7992
+        }
+      }
+    },
+    {
+      "id": "bg-bvp-po-oblasti-2024",
+      "name": "БВП и брутна добавена стойност по области и райони (2024)",
+      "category": "economy",
+      "record_count": 37,
+      "columns": [
+        "nuts_kod",
+        "ime",
+        "nivo",
+        "bds_agraren_mln_evro",
+        "bds_industriya_mln_evro",
+        "bds_uslugi_mln_evro",
+        "bds_obshto_mln_evro",
+        "bvp_mln_evro",
+        "bvp_na_chovek_evro"
+      ],
+      "source": "https://www.nsi.bg/statistical-data/141/429",
+      "updated": "2026-11",
+      "size": 15038,
+      "files": {
+        "csv": {
+          "name": "bg-bvp-po-oblasti-2024_BG.csv",
+          "size": 3882
+        },
+        "xlsx": {
+          "name": "bg-bvp-po-oblasti-2024_BG.xlsx",
+          "size": 9408
         }
       }
     },

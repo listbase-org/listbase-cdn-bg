@@ -1,0 +1,478 @@
+{
+  "id": "bg-bvp-po-oblasti-2024",
+  "name": "БВП и брутна добавена стойност по области и райони (2024)",
+  "title": "БВП и брутна добавена стойност по области и райони (2024)",
+  "description": "Брутен вътрешен продукт, брутна добавена стойност по икономически сектори (аграрен, индустрия, услуги) и БВП на човек от населението в евро за България, статистическите зони, районите и 28-те области през 2024 г. По данни на НСИ.",
+  "category": "economy",
+  "source": "https://www.nsi.bg/statistical-data/141/429",
+  "source_url": "https://www.nsi.bg/statistical-data/141/429",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "nuts_kod",
+      "label": "Nuts Kod",
+      "type": "string"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "nivo",
+      "label": "Nivo",
+      "type": "string"
+    },
+    {
+      "key": "bds_agraren_mln_evro",
+      "label": "Bds Agraren Mln Evro",
+      "type": "number"
+    },
+    {
+      "key": "bds_industriya_mln_evro",
+      "label": "Bds Industriya Mln Evro",
+      "type": "number"
+    },
+    {
+      "key": "bds_uslugi_mln_evro",
+      "label": "Bds Uslugi Mln Evro",
+      "type": "number"
+    },
+    {
+      "key": "bds_obshto_mln_evro",
+      "label": "Bds Obshto Mln Evro",
+      "type": "number"
+    },
+    {
+      "key": "bvp_mln_evro",
+      "label": "Bvp Mln Evro",
+      "type": "number"
+    },
+    {
+      "key": "bvp_na_chovek_evro",
+      "label": "Bvp Na Chovek Evro",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nuts_kod": "BG",
+      "ime": "БЪЛГАРИЯ",
+      "nivo": "държава",
+      "bds_agraren_mln_evro": 2463.1,
+      "bds_industriya_mln_evro": 22139.1,
+      "bds_uslugi_mln_evro": 66802.3,
+      "bds_obshto_mln_evro": 91404.5,
+      "bvp_mln_evro": 104767.2,
+      "bvp_na_chovek_evro": 16265
+    },
+    {
+      "nuts_kod": "BG3",
+      "ime": "Северна и Югоизточна България",
+      "nivo": "статистическа зона",
+      "bds_agraren_mln_evro": 1582.6,
+      "bds_industriya_mln_evro": 10878.9,
+      "bds_uslugi_mln_evro": 20357.2,
+      "bds_obshto_mln_evro": 32818.7,
+      "bvp_mln_evro": 37616.5,
+      "bvp_na_chovek_evro": 12077
+    },
+    {
+      "nuts_kod": "BG31",
+      "ime": "Северозападен район",
+      "nivo": "статистически район",
+      "bds_agraren_mln_evro": 404,
+      "bds_industriya_mln_evro": 1989.2,
+      "bds_uslugi_mln_evro": 3534.8,
+      "bds_obshto_mln_evro": 5928,
+      "bvp_mln_evro": 6794.6,
+      "bvp_na_chovek_evro": 10299
+    },
+    {
+      "nuts_kod": "BG311",
+      "ime": "Видин",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 59.9,
+      "bds_industriya_mln_evro": 52,
+      "bds_uslugi_mln_evro": 402,
+      "bds_obshto_mln_evro": 513.9,
+      "bvp_mln_evro": 589,
+      "bvp_na_chovek_evro": 8278
+    },
+    {
+      "nuts_kod": "BG313",
+      "ime": "Враца",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 91.4,
+      "bds_industriya_mln_evro": 1076.4,
+      "bds_uslugi_mln_evro": 723.4,
+      "bds_obshto_mln_evro": 1891.3,
+      "bvp_mln_evro": 2167.8,
+      "bvp_na_chovek_evro": 14766
+    },
+    {
+      "nuts_kod": "BG315",
+      "ime": "Ловеч",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 58.8,
+      "bds_industriya_mln_evro": 228.7,
+      "bds_uslugi_mln_evro": 605.4,
+      "bds_obshto_mln_evro": 892.9,
+      "bvp_mln_evro": 1023.4,
+      "bvp_na_chovek_evro": 9176
+    },
+    {
+      "nuts_kod": "BG312",
+      "ime": "Монтана",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 94.6,
+      "bds_industriya_mln_evro": 137.5,
+      "bds_uslugi_mln_evro": 542.9,
+      "bds_obshto_mln_evro": 775,
+      "bvp_mln_evro": 888.3,
+      "bvp_na_chovek_evro": 7818
+    },
+    {
+      "nuts_kod": "BG314",
+      "ime": "Плевен",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 99.3,
+      "bds_industriya_mln_evro": 494.6,
+      "bds_uslugi_mln_evro": 1261,
+      "bds_obshto_mln_evro": 1854.9,
+      "bvp_mln_evro": 2126.1,
+      "bvp_na_chovek_evro": 9816
+    },
+    {
+      "nuts_kod": "BG32",
+      "ime": "Северен централен район",
+      "nivo": "статистически район",
+      "bds_agraren_mln_evro": 407.8,
+      "bds_industriya_mln_evro": 1654.9,
+      "bds_uslugi_mln_evro": 4241.3,
+      "bds_obshto_mln_evro": 6304.1,
+      "bvp_mln_evro": 7225.7,
+      "bvp_na_chovek_evro": 10676
+    },
+    {
+      "nuts_kod": "BG321",
+      "ime": "Велико Търново",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 98.5,
+      "bds_industriya_mln_evro": 494.4,
+      "bds_uslugi_mln_evro": 1383.6,
+      "bds_obshto_mln_evro": 1976.5,
+      "bvp_mln_evro": 2265.5,
+      "bvp_na_chovek_evro": 11253
+    },
+    {
+      "nuts_kod": "BG322",
+      "ime": "Габрово",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 44.2,
+      "bds_industriya_mln_evro": 405.4,
+      "bds_uslugi_mln_evro": 592.4,
+      "bds_obshto_mln_evro": 1042,
+      "bvp_mln_evro": 1194.4,
+      "bvp_na_chovek_evro": 12660
+    },
+    {
+      "nuts_kod": "BG324",
+      "ime": "Разград",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 85.7,
+      "bds_industriya_mln_evro": 200.8,
+      "bds_uslugi_mln_evro": 506.6,
+      "bds_obshto_mln_evro": 793,
+      "bvp_mln_evro": 908.9,
+      "bvp_na_chovek_evro": 9082
+    },
+    {
+      "nuts_kod": "BG323",
+      "ime": "Русе",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 91.3,
+      "bds_industriya_mln_evro": 471.2,
+      "bds_uslugi_mln_evro": 1330.2,
+      "bds_obshto_mln_evro": 1892.8,
+      "bvp_mln_evro": 2169.5,
+      "bvp_na_chovek_evro": 11604
+    },
+    {
+      "nuts_kod": "BG325",
+      "ime": "Силистра",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 88.1,
+      "bds_industriya_mln_evro": 83.1,
+      "bds_uslugi_mln_evro": 428.5,
+      "bds_obshto_mln_evro": 599.7,
+      "bvp_mln_evro": 687.4,
+      "bvp_na_chovek_evro": 7301
+    },
+    {
+      "nuts_kod": "BG33",
+      "ime": "Североизточен район",
+      "nivo": "статистически район",
+      "bds_agraren_mln_evro": 427.6,
+      "bds_industriya_mln_evro": 2055.2,
+      "bds_uslugi_mln_evro": 6524.5,
+      "bds_obshto_mln_evro": 9007.3,
+      "bvp_mln_evro": 10324.1,
+      "bvp_na_chovek_evro": 12492
+    },
+    {
+      "nuts_kod": "BG331",
+      "ime": "Варна",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 97.6,
+      "bds_industriya_mln_evro": 1270.4,
+      "bds_uslugi_mln_evro": 4404.6,
+      "bds_obshto_mln_evro": 5772.6,
+      "bvp_mln_evro": 6616.5,
+      "bvp_na_chovek_evro": 15180
+    },
+    {
+      "nuts_kod": "BG332",
+      "ime": "Добрич",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 131.7,
+      "bds_industriya_mln_evro": 250.9,
+      "bds_uslugi_mln_evro": 780.9,
+      "bds_obshto_mln_evro": 1163.5,
+      "bvp_mln_evro": 1333.6,
+      "bvp_na_chovek_evro": 9139
+    },
+    {
+      "nuts_kod": "BG334",
+      "ime": "Търговище",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 86.4,
+      "bds_industriya_mln_evro": 213.4,
+      "bds_uslugi_mln_evro": 564.3,
+      "bds_obshto_mln_evro": 864,
+      "bvp_mln_evro": 990.3,
+      "bvp_na_chovek_evro": 10406
+    },
+    {
+      "nuts_kod": "BG333",
+      "ime": "Шумен",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 111.9,
+      "bds_industriya_mln_evro": 320.5,
+      "bds_uslugi_mln_evro": 774.7,
+      "bds_obshto_mln_evro": 1207.2,
+      "bvp_mln_evro": 1383.7,
+      "bvp_na_chovek_evro": 9256
+    },
+    {
+      "nuts_kod": "BG34",
+      "ime": "Югоизточен район",
+      "nivo": "статистически район",
+      "bds_agraren_mln_evro": 343.3,
+      "bds_industriya_mln_evro": 5179.6,
+      "bds_uslugi_mln_evro": 6056.5,
+      "bds_obshto_mln_evro": 11579.3,
+      "bvp_mln_evro": 13272.2,
+      "bvp_na_chovek_evro": 13945
+    },
+    {
+      "nuts_kod": "BG341",
+      "ime": "Бургас",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 105.5,
+      "bds_industriya_mln_evro": 965.7,
+      "bds_uslugi_mln_evro": 2955.1,
+      "bds_obshto_mln_evro": 4026.3,
+      "bvp_mln_evro": 4615,
+      "bvp_na_chovek_evro": 11935
+    },
+    {
+      "nuts_kod": "BG342",
+      "ime": "Сливен",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 66.5,
+      "bds_industriya_mln_evro": 133.8,
+      "bds_uslugi_mln_evro": 791.4,
+      "bds_obshto_mln_evro": 991.7,
+      "bvp_mln_evro": 1136.7,
+      "bvp_na_chovek_evro": 6699
+    },
+    {
+      "nuts_kod": "BG344",
+      "ime": "Стара Загора",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 96.6,
+      "bds_industriya_mln_evro": 3850,
+      "bds_uslugi_mln_evro": 1700.4,
+      "bds_obshto_mln_evro": 5647,
+      "bvp_mln_evro": 6472.6,
+      "bvp_na_chovek_evro": 22354
+    },
+    {
+      "nuts_kod": "BG343",
+      "ime": "Ямбол",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 74.6,
+      "bds_industriya_mln_evro": 230.1,
+      "bds_uslugi_mln_evro": 609.6,
+      "bds_obshto_mln_evro": 914.2,
+      "bvp_mln_evro": 1047.9,
+      "bvp_na_chovek_evro": 9898
+    },
+    {
+      "nuts_kod": "BG4",
+      "ime": "Югозападна и Южна Централна България",
+      "nivo": "статистическа зона",
+      "bds_agraren_mln_evro": 880.5,
+      "bds_industriya_mln_evro": 11260.2,
+      "bds_uslugi_mln_evro": 46445.1,
+      "bds_obshto_mln_evro": 58585.8,
+      "bvp_mln_evro": 67150.7,
+      "bvp_na_chovek_evro": 20186
+    },
+    {
+      "nuts_kod": "BG41",
+      "ime": "Югозападен район",
+      "nivo": "статистически район",
+      "bds_agraren_mln_evro": 334.2,
+      "bds_industriya_mln_evro": 7530.6,
+      "bds_uslugi_mln_evro": 38521.4,
+      "bds_obshto_mln_evro": 46386.2,
+      "bvp_mln_evro": 53167.6,
+      "bvp_na_chovek_evro": 26307
+    },
+    {
+      "nuts_kod": "BG413",
+      "ime": "Благоевград",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 128.7,
+      "bds_industriya_mln_evro": 541,
+      "bds_uslugi_mln_evro": 1633.9,
+      "bds_obshto_mln_evro": 2303.6,
+      "bvp_mln_evro": 2640.4,
+      "bvp_na_chovek_evro": 9209
+    },
+    {
+      "nuts_kod": "BG415",
+      "ime": "Кюстендил",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 48.7,
+      "bds_industriya_mln_evro": 195.9,
+      "bds_uslugi_mln_evro": 534.3,
+      "bds_obshto_mln_evro": 779,
+      "bvp_mln_evro": 892.8,
+      "bvp_na_chovek_evro": 8352
+    },
+    {
+      "nuts_kod": "BG414",
+      "ime": "Перник",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 31.2,
+      "bds_industriya_mln_evro": 279.3,
+      "bds_uslugi_mln_evro": 565.3,
+      "bds_obshto_mln_evro": 875.8,
+      "bvp_mln_evro": 1003.8,
+      "bvp_na_chovek_evro": 9087
+    },
+    {
+      "nuts_kod": "BG412",
+      "ime": "София",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 90.2,
+      "bds_industriya_mln_evro": 1326.1,
+      "bds_uslugi_mln_evro": 1112.4,
+      "bds_obshto_mln_evro": 2528.6,
+      "bvp_mln_evro": 2898.3,
+      "bvp_na_chovek_evro": 12849
+    },
+    {
+      "nuts_kod": "BG411",
+      "ime": "София (столица)",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 35.4,
+      "bds_industriya_mln_evro": 5188.3,
+      "bds_uslugi_mln_evro": 34675.6,
+      "bds_obshto_mln_evro": 39899.3,
+      "bvp_mln_evro": 45732.3,
+      "bvp_na_chovek_evro": 35412
+    },
+    {
+      "nuts_kod": "BG42",
+      "ime": "Южен централен район",
+      "nivo": "статистически район",
+      "bds_agraren_mln_evro": 546.3,
+      "bds_industriya_mln_evro": 3729.6,
+      "bds_uslugi_mln_evro": 7923.7,
+      "bds_obshto_mln_evro": 12199.6,
+      "bvp_mln_evro": 13983.1,
+      "bvp_na_chovek_evro": 10710
+    },
+    {
+      "nuts_kod": "BG425",
+      "ime": "Кърджали",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 122.7,
+      "bds_industriya_mln_evro": 380.2,
+      "bds_uslugi_mln_evro": 559.4,
+      "bds_obshto_mln_evro": 1062.3,
+      "bvp_mln_evro": 1217.6,
+      "bvp_na_chovek_evro": 8226
+    },
+    {
+      "nuts_kod": "BG423",
+      "ime": "Пазарджик",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 116.1,
+      "bds_industriya_mln_evro": 581,
+      "bds_uslugi_mln_evro": 1076.4,
+      "bds_obshto_mln_evro": 1773.4,
+      "bvp_mln_evro": 2032.7,
+      "bvp_na_chovek_evro": 9059
+    },
+    {
+      "nuts_kod": "BG421",
+      "ime": "Пловдив",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 165.3,
+      "bds_industriya_mln_evro": 2303.2,
+      "bds_uslugi_mln_evro": 4807,
+      "bds_obshto_mln_evro": 7275.6,
+      "bvp_mln_evro": 8339.3,
+      "bvp_na_chovek_evro": 13141
+    },
+    {
+      "nuts_kod": "BG424",
+      "ime": "Смолян",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 47.5,
+      "bds_industriya_mln_evro": 236.5,
+      "bds_uslugi_mln_evro": 475.3,
+      "bds_obshto_mln_evro": 759.3,
+      "bvp_mln_evro": 870.3,
+      "bvp_na_chovek_evro": 9531
+    },
+    {
+      "nuts_kod": "BG422",
+      "ime": "Хасково",
+      "nivo": "област",
+      "bds_agraren_mln_evro": 94.8,
+      "bds_industriya_mln_evro": 228.6,
+      "bds_uslugi_mln_evro": 1005.6,
+      "bds_obshto_mln_evro": 1329,
+      "bvp_mln_evro": 1523.3,
+      "bvp_na_chovek_evro": 7350
+    }
+  ],
+  "meta": {
+    "title": "БВП и брутна добавена стойност по области и райони (2024) - Free Download",
+    "description": "Брутен вътрешен продукт, брутна добавена стойност по икономически сектори (аграрен, индустрия, услуги) и БВП на човек от населението в евро за България, статистическите зони, районите и 28-те области през 2024 г. По данни на НСИ. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "БВП и брутна добавена стойност по области и райони (2024) | ListBase",
+    "seo_description": "Download БВП и брутна добавена стойност по области и райони (2024) — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.nsi.bg/statistical-data/141/429"
+    ]
+  }
+}
