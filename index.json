@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-20T02:17:49.627Z",
-  "total_datasets": 527,
-  "total_records": 199239,
+  "generated": "2026-11-20T02:18:02.454Z",
+  "total_datasets": 528,
+  "total_records": 199267,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -902,6 +902,34 @@
         "xlsx": {
           "name": "bg-razdarzhaveni-predpriyatiya_BG.xlsx",
           "size": 7482
+        }
+      }
+    },
+    {
+      "id": "bg-sredna-godishna-zaplata-po-oblasti",
+      "name": "Средна годишна заплата по области (2020–2024)",
+      "category": "economy",
+      "record_count": 28,
+      "columns": [
+        "oblast",
+        "statisticheski_rayon",
+        "zaplata_2020",
+        "zaplata_2021",
+        "zaplata_2022",
+        "zaplata_2023",
+        "zaplata_2024"
+      ],
+      "source": "https://www.nsi.bg/statistical-data/173/559",
+      "updated": "2026-11",
+      "size": 9765,
+      "files": {
+        "csv": {
+          "name": "bg-sredna-godishna-zaplata-po-oblasti_BG.csv",
+          "size": 2716
+        },
+        "xlsx": {
+          "name": "bg-sredna-godishna-zaplata-po-oblasti_BG.xlsx",
+          "size": 8310
         }
       }
     },

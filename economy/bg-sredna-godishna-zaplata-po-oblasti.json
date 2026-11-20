@@ -1,0 +1,313 @@
+{
+  "id": "bg-sredna-godishna-zaplata-po-oblasti",
+  "name": "Средна годишна заплата по области (2020–2024)",
+  "title": "Средна годишна заплата по области (2020–2024)",
+  "description": "Средна годишна брутна заплата (в евро) на наетите лица по трудово и служебно правоотношение в 28-те области на България, групирани по статистически райони, за периода 2020–2024 г. По данни на НСИ.",
+  "category": "economy",
+  "source": "https://www.nsi.bg/statistical-data/173/559",
+  "source_url": "https://www.nsi.bg/statistical-data/173/559",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "statisticheski_rayon",
+      "label": "Statisticheski Rayon",
+      "type": "string"
+    },
+    {
+      "key": "zaplata_2020",
+      "label": "Zaplata 2020",
+      "type": "number"
+    },
+    {
+      "key": "zaplata_2021",
+      "label": "Zaplata 2021",
+      "type": "number"
+    },
+    {
+      "key": "zaplata_2022",
+      "label": "Zaplata 2022",
+      "type": "number"
+    },
+    {
+      "key": "zaplata_2023",
+      "label": "Zaplata 2023",
+      "type": "number"
+    },
+    {
+      "key": "zaplata_2024",
+      "label": "Zaplata 2024",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "oblast": "Видин",
+      "statisticheski_rayon": "Северозападен район",
+      "zaplata_2020": 5754,
+      "zaplata_2021": 6573,
+      "zaplata_2022": 7447,
+      "zaplata_2023": 8386,
+      "zaplata_2024": 9942
+    },
+    {
+      "oblast": "Враца",
+      "statisticheski_rayon": "Северозападен район",
+      "zaplata_2020": 7944,
+      "zaplata_2021": 8858,
+      "zaplata_2022": 9940,
+      "zaplata_2023": 11136,
+      "zaplata_2024": 12809
+    },
+    {
+      "oblast": "Ловеч",
+      "statisticheski_rayon": "Северозападен район",
+      "zaplata_2020": 6439,
+      "zaplata_2021": 7283,
+      "zaplata_2022": 8029,
+      "zaplata_2023": 9184,
+      "zaplata_2024": 10566
+    },
+    {
+      "oblast": "Монтана",
+      "statisticheski_rayon": "Северозападен район",
+      "zaplata_2020": 6385,
+      "zaplata_2021": 7149,
+      "zaplata_2022": 7932,
+      "zaplata_2023": 9051,
+      "zaplata_2024": 10598
+    },
+    {
+      "oblast": "Плевен",
+      "statisticheski_rayon": "Северозападен район",
+      "zaplata_2020": 6473,
+      "zaplata_2021": 7469,
+      "zaplata_2022": 8707,
+      "zaplata_2023": 9746,
+      "zaplata_2024": 11213
+    },
+    {
+      "oblast": "Велико Търново",
+      "statisticheski_rayon": "Северен централен район",
+      "zaplata_2020": 6651,
+      "zaplata_2021": 7437,
+      "zaplata_2022": 8234,
+      "zaplata_2023": 9445,
+      "zaplata_2024": 11026
+    },
+    {
+      "oblast": "Габрово",
+      "statisticheski_rayon": "Северен централен район",
+      "zaplata_2020": 7108,
+      "zaplata_2021": 8064,
+      "zaplata_2022": 8752,
+      "zaplata_2023": 9907,
+      "zaplata_2024": 11385
+    },
+    {
+      "oblast": "Разград",
+      "statisticheski_rayon": "Северен централен район",
+      "zaplata_2020": 7108,
+      "zaplata_2021": 7934,
+      "zaplata_2022": 8669,
+      "zaplata_2023": 9831,
+      "zaplata_2024": 11128
+    },
+    {
+      "oblast": "Русе",
+      "statisticheski_rayon": "Северен централен район",
+      "zaplata_2020": 6949,
+      "zaplata_2021": 7896,
+      "zaplata_2022": 8771,
+      "zaplata_2023": 10053,
+      "zaplata_2024": 11499
+    },
+    {
+      "oblast": "Силистра",
+      "statisticheski_rayon": "Северен централен район",
+      "zaplata_2020": 5996,
+      "zaplata_2021": 6786,
+      "zaplata_2022": 7574,
+      "zaplata_2023": 8588,
+      "zaplata_2024": 9955
+    },
+    {
+      "oblast": "Варна",
+      "statisticheski_rayon": "Североизточен район",
+      "zaplata_2020": 7822,
+      "zaplata_2021": 8795,
+      "zaplata_2022": 9944,
+      "zaplata_2023": 11549,
+      "zaplata_2024": 13297
+    },
+    {
+      "oblast": "Добрич",
+      "statisticheski_rayon": "Североизточен район",
+      "zaplata_2020": 6416,
+      "zaplata_2021": 7209,
+      "zaplata_2022": 8097,
+      "zaplata_2023": 9306,
+      "zaplata_2024": 10655
+    },
+    {
+      "oblast": "Търговище",
+      "statisticheski_rayon": "Североизточен район",
+      "zaplata_2020": 6835,
+      "zaplata_2021": 7726,
+      "zaplata_2022": 8867,
+      "zaplata_2023": 9491,
+      "zaplata_2024": 10818
+    },
+    {
+      "oblast": "Шумен",
+      "statisticheski_rayon": "Североизточен район",
+      "zaplata_2020": 6823,
+      "zaplata_2021": 7723,
+      "zaplata_2022": 8540,
+      "zaplata_2023": 9800,
+      "zaplata_2024": 11297
+    },
+    {
+      "oblast": "Бургас",
+      "statisticheski_rayon": "Югоизточен район",
+      "zaplata_2020": 6889,
+      "zaplata_2021": 7594,
+      "zaplata_2022": 8338,
+      "zaplata_2023": 9615,
+      "zaplata_2024": 11066
+    },
+    {
+      "oblast": "Сливен",
+      "statisticheski_rayon": "Югоизточен район",
+      "zaplata_2020": 6325,
+      "zaplata_2021": 7175,
+      "zaplata_2022": 7829,
+      "zaplata_2023": 9126,
+      "zaplata_2024": 10495
+    },
+    {
+      "oblast": "Стара Загора",
+      "statisticheski_rayon": "Югоизточен район",
+      "zaplata_2020": 7674,
+      "zaplata_2021": 8525,
+      "zaplata_2022": 9704,
+      "zaplata_2023": 11368,
+      "zaplata_2024": 12645
+    },
+    {
+      "oblast": "Ямбол",
+      "statisticheski_rayon": "Югоизточен район",
+      "zaplata_2020": 6675,
+      "zaplata_2021": 7556,
+      "zaplata_2022": 8422,
+      "zaplata_2023": 9385,
+      "zaplata_2024": 10805
+    },
+    {
+      "oblast": "Благоевград",
+      "statisticheski_rayon": "Югозападен район",
+      "zaplata_2020": 5563,
+      "zaplata_2021": 6251,
+      "zaplata_2022": 7073,
+      "zaplata_2023": 8180,
+      "zaplata_2024": 9733
+    },
+    {
+      "oblast": "Кюстендил",
+      "statisticheski_rayon": "Югозападен район",
+      "zaplata_2020": 5890,
+      "zaplata_2021": 6503,
+      "zaplata_2022": 7152,
+      "zaplata_2023": 8285,
+      "zaplata_2024": 9702
+    },
+    {
+      "oblast": "Перник",
+      "statisticheski_rayon": "Югозападен район",
+      "zaplata_2020": 6319,
+      "zaplata_2021": 7196,
+      "zaplata_2022": 8277,
+      "zaplata_2023": 9646,
+      "zaplata_2024": 11065
+    },
+    {
+      "oblast": "София",
+      "statisticheski_rayon": "Югозападен район",
+      "zaplata_2020": 8108,
+      "zaplata_2021": 9048,
+      "zaplata_2022": 9883,
+      "zaplata_2023": 11354,
+      "zaplata_2024": 12879
+    },
+    {
+      "oblast": "София (столица)",
+      "statisticheski_rayon": "Югозападен район",
+      "zaplata_2020": 11734,
+      "zaplata_2021": 13152,
+      "zaplata_2022": 15184,
+      "zaplata_2023": 17518,
+      "zaplata_2024": 19801
+    },
+    {
+      "oblast": "Кърджали",
+      "statisticheski_rayon": "Южен централен район",
+      "zaplata_2020": 6496,
+      "zaplata_2021": 7418,
+      "zaplata_2022": 8024,
+      "zaplata_2023": 9244,
+      "zaplata_2024": 10391
+    },
+    {
+      "oblast": "Пазарджик",
+      "statisticheski_rayon": "Южен централен район",
+      "zaplata_2020": 6693,
+      "zaplata_2021": 7589,
+      "zaplata_2022": 8389,
+      "zaplata_2023": 9752,
+      "zaplata_2024": 10938
+    },
+    {
+      "oblast": "Пловдив",
+      "statisticheski_rayon": "Южен централен район",
+      "zaplata_2020": 7246,
+      "zaplata_2021": 8148,
+      "zaplata_2022": 9168,
+      "zaplata_2023": 10508,
+      "zaplata_2024": 12002
+    },
+    {
+      "oblast": "Смолян",
+      "statisticheski_rayon": "Южен централен район",
+      "zaplata_2020": 6154,
+      "zaplata_2021": 6841,
+      "zaplata_2022": 7482,
+      "zaplata_2023": 8529,
+      "zaplata_2024": 9668
+    },
+    {
+      "oblast": "Хасково",
+      "statisticheski_rayon": "Южен централен район",
+      "zaplata_2020": 5952,
+      "zaplata_2021": 6599,
+      "zaplata_2022": 7316,
+      "zaplata_2023": 8357,
+      "zaplata_2024": 9930
+    }
+  ],
+  "meta": {
+    "title": "Средна годишна заплата по области (2020–2024) - Free Download",
+    "description": "Средна годишна брутна заплата (в евро) на наетите лица по трудово и служебно правоотношение в 28-те области на България, групирани по статистически райони, за периода 2020–2024 г. По данни на НСИ. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Средна годишна заплата по области (2020–2024) | ListBase",
+    "seo_description": "Download Средна годишна заплата по области (2020–2024) — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.nsi.bg/statistical-data/173/559"
+    ]
+  }
+}
