@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-20T02:17:38.644Z",
-  "total_datasets": 526,
-  "total_records": 199210,
+  "generated": "2026-11-20T02:17:49.627Z",
+  "total_datasets": 527,
+  "total_records": 199239,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -12630,6 +12630,46 @@
         "xlsx": {
           "name": "bg-razhdaemost-po-godini_BG.xlsx",
           "size": 9857
+        }
+      }
+    },
+    {
+      "id": "bg-sklyucheni-brakove-po-oblasti",
+      "name": "Сключени бракове по области (2010–2025)",
+      "category": "society",
+      "record_count": 29,
+      "columns": [
+        "oblast",
+        "brakove_2010",
+        "brakove_2011",
+        "brakove_2012",
+        "brakove_2013",
+        "brakove_2014",
+        "brakove_2015",
+        "brakove_2016",
+        "brakove_2017",
+        "brakove_2018",
+        "brakove_2019",
+        "brakove_2020",
+        "brakove_2021",
+        "brakove_2022",
+        "brakove_2023",
+        "brakove_2024",
+        "brakove_2025",
+        "v_gradovete_2025",
+        "v_selata_2025"
+      ],
+      "source": "https://www.nsi.bg/statistical-data/211/677",
+      "updated": "2026-11",
+      "size": 19164,
+      "files": {
+        "csv": {
+          "name": "bg-sklyucheni-brakove-po-oblasti_BG.csv",
+          "size": 4045
+        },
+        "xlsx": {
+          "name": "bg-sklyucheni-brakove-po-oblasti_BG.xlsx",
+          "size": 9953
         }
       }
     },
