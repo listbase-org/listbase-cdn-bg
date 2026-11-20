@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-20T02:17:25.928Z",
-  "total_datasets": 525,
-  "total_records": 199189,
+  "generated": "2026-11-20T02:17:38.644Z",
+  "total_datasets": 526,
+  "total_records": 199210,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -12435,6 +12435,34 @@
         "xlsx": {
           "name": "bg-nauchni-otkritiya_BG.xlsx",
           "size": 10178
+        }
+      }
+    },
+    {
+      "id": "bg-razhodi-za-nird-po-oblasti-na-naukata",
+      "name": "Разходи за научноизследователска и развойна дейност (НИРД) по области на науката (2021–2025)",
+      "category": "science",
+      "record_count": 21,
+      "columns": [
+        "sektor",
+        "oblast_na_naukata",
+        "razhodi_2021",
+        "razhodi_2022",
+        "razhodi_2023",
+        "razhodi_2024",
+        "razhodi_2025"
+      ],
+      "source": "https://www.nsi.bg/statistical-data/307/888",
+      "updated": "2026-11",
+      "size": 8848,
+      "files": {
+        "csv": {
+          "name": "bg-razhodi-za-nird-po-oblasti-na-naukata_BG.csv",
+          "size": 2351
+        },
+        "xlsx": {
+          "name": "bg-razhodi-za-nird-po-oblasti-na-naukata_BG.xlsx",
+          "size": 7859
         }
       }
     },

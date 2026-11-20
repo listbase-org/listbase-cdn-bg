@@ -1,0 +1,250 @@
+{
+  "id": "bg-razhodi-za-nird-po-oblasti-na-naukata",
+  "name": "Разходи за научноизследователска и развойна дейност (НИРД) по области на науката (2021–2025)",
+  "title": "Разходи за научноизследователска и развойна дейност (НИРД) по области на науката (2021–2025)",
+  "description": "Разходи за НИРД в България в хиляди евро по области на науката (естествени, технически, медицински, селскостопански, обществени и хуманитарни науки) – общо, в сектор „Предприятия“ и в държавния сектор, 2021–2025 г. (2025 – предварителни данни). По данни на НСИ.",
+  "category": "science",
+  "source": "https://www.nsi.bg/statistical-data/307/888",
+  "source_url": "https://www.nsi.bg/statistical-data/307/888",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "sektor",
+      "label": "Sektor",
+      "type": "string"
+    },
+    {
+      "key": "oblast_na_naukata",
+      "label": "Oblast Na Naukata",
+      "type": "string"
+    },
+    {
+      "key": "razhodi_2021",
+      "label": "Razhodi 2021",
+      "type": "number"
+    },
+    {
+      "key": "razhodi_2022",
+      "label": "Razhodi 2022",
+      "type": "number"
+    },
+    {
+      "key": "razhodi_2023",
+      "label": "Razhodi 2023",
+      "type": "number"
+    },
+    {
+      "key": "razhodi_2024",
+      "label": "Razhodi 2024",
+      "type": "number"
+    },
+    {
+      "key": "razhodi_2025",
+      "label": "Razhodi 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "sektor": "Всички сектори",
+      "oblast_na_naukata": "Общо",
+      "razhodi_2021": 549130,
+      "razhodi_2022": 647109,
+      "razhodi_2023": 750316,
+      "razhodi_2024": 804844,
+      "razhodi_2025": 867764
+    },
+    {
+      "sektor": "Всички сектори",
+      "oblast_na_naukata": "Естествени науки",
+      "razhodi_2021": 95618,
+      "razhodi_2022": 111025,
+      "razhodi_2023": 140026,
+      "razhodi_2024": 144148,
+      "razhodi_2025": 169442
+    },
+    {
+      "sektor": "Всички сектори",
+      "oblast_na_naukata": "Технически науки",
+      "razhodi_2021": 282840,
+      "razhodi_2022": 326510,
+      "razhodi_2023": 354572,
+      "razhodi_2024": 381550,
+      "razhodi_2025": 388653
+    },
+    {
+      "sektor": "Всички сектори",
+      "oblast_na_naukata": "Медицински и здравни науки",
+      "razhodi_2021": 105687,
+      "razhodi_2022": 132593,
+      "razhodi_2023": 167140,
+      "razhodi_2024": 176921,
+      "razhodi_2025": 191305
+    },
+    {
+      "sektor": "Всички сектори",
+      "oblast_na_naukata": "Селскостопански и ветеринарни науки",
+      "razhodi_2021": 29426,
+      "razhodi_2022": 39119,
+      "razhodi_2023": 41703,
+      "razhodi_2024": 51329,
+      "razhodi_2025": 60174
+    },
+    {
+      "sektor": "Всички сектори",
+      "oblast_na_naukata": "Обществени науки",
+      "razhodi_2021": 13084,
+      "razhodi_2022": 14483,
+      "razhodi_2023": 17650,
+      "razhodi_2024": 21267,
+      "razhodi_2025": 24138
+    },
+    {
+      "sektor": "Всички сектори",
+      "oblast_na_naukata": "Хуманитарни науки и изкуства",
+      "razhodi_2021": 22475,
+      "razhodi_2022": 23379,
+      "razhodi_2023": 29225,
+      "razhodi_2024": 29629,
+      "razhodi_2025": 34052
+    },
+    {
+      "sektor": "Предприятия",
+      "oblast_na_naukata": "Общо",
+      "razhodi_2021": 361583,
+      "razhodi_2022": 438859,
+      "razhodi_2023": 482530,
+      "razhodi_2024": 524112,
+      "razhodi_2025": 528217
+    },
+    {
+      "sektor": "Предприятия",
+      "oblast_na_naukata": "Естествени науки",
+      "razhodi_2021": 13037,
+      "razhodi_2022": 18265,
+      "razhodi_2023": 19585,
+      "razhodi_2024": 25073,
+      "razhodi_2025": 27942
+    },
+    {
+      "sektor": "Предприятия",
+      "oblast_na_naukata": "Технически науки",
+      "razhodi_2021": 251493,
+      "razhodi_2022": 295315,
+      "razhodi_2023": 309558,
+      "razhodi_2024": 335729,
+      "razhodi_2025": 332375
+    },
+    {
+      "sektor": "Предприятия",
+      "oblast_na_naukata": "Медицински и здравни науки",
+      "razhodi_2021": 91905,
+      "razhodi_2022": 117830,
+      "razhodi_2023": 146086,
+      "razhodi_2024": 153005,
+      "razhodi_2025": 158302
+    },
+    {
+      "sektor": "Предприятия",
+      "oblast_na_naukata": "Селскостопански и ветеринарни науки",
+      "razhodi_2021": 1452,
+      "razhodi_2022": 2852,
+      "razhodi_2023": 2730,
+      "razhodi_2024": 3823,
+      "razhodi_2025": 3355
+    },
+    {
+      "sektor": "Предприятия",
+      "oblast_na_naukata": "Обществени науки",
+      "razhodi_2021": 2660,
+      "razhodi_2022": 3737,
+      "razhodi_2023": 3906,
+      "razhodi_2024": 5752,
+      "razhodi_2025": 5562
+    },
+    {
+      "sektor": "Предприятия",
+      "oblast_na_naukata": "Хуманитарни науки и изкуства",
+      "razhodi_2021": 1036,
+      "razhodi_2022": 860,
+      "razhodi_2023": 665,
+      "razhodi_2024": 730,
+      "razhodi_2025": 681
+    },
+    {
+      "sektor": "Държавен",
+      "oblast_na_naukata": "Общо",
+      "razhodi_2021": 148926,
+      "razhodi_2022": 164596,
+      "razhodi_2023": 215672,
+      "razhodi_2024": 217066,
+      "razhodi_2025": 263173
+    },
+    {
+      "sektor": "Държавен",
+      "oblast_na_naukata": "Естествени науки",
+      "razhodi_2021": 70477,
+      "razhodi_2022": 76034,
+      "razhodi_2023": 104948,
+      "razhodi_2024": 100415,
+      "razhodi_2025": 122037
+    },
+    {
+      "sektor": "Държавен",
+      "oblast_na_naukata": "Технически науки",
+      "razhodi_2021": 21117,
+      "razhodi_2022": 21592,
+      "razhodi_2023": 30125,
+      "razhodi_2024": 28889,
+      "razhodi_2025": 35163
+    },
+    {
+      "sektor": "Държавен",
+      "oblast_na_naukata": "Медицински и здравни науки",
+      "razhodi_2021": 3479,
+      "razhodi_2022": 4621,
+      "razhodi_2023": 8418,
+      "razhodi_2024": 5328,
+      "razhodi_2025": 6729
+    },
+    {
+      "sektor": "Държавен",
+      "oblast_na_naukata": "Селскостопански и ветеринарни науки",
+      "razhodi_2021": 27364,
+      "razhodi_2022": 35581,
+      "razhodi_2023": 38222,
+      "razhodi_2024": 46273,
+      "razhodi_2025": 56006
+    },
+    {
+      "sektor": "Държавен",
+      "oblast_na_naukata": "Обществени науки",
+      "razhodi_2021": 7171,
+      "razhodi_2022": 6584,
+      "razhodi_2023": 8138,
+      "razhodi_2024": 10077,
+      "razhodi_2025": 11761
+    },
+    {
+      "sektor": "Държавен",
+      "oblast_na_naukata": "Хуманитарни науки и изкуства",
+      "razhodi_2021": 19318,
+      "razhodi_2022": 20184,
+      "razhodi_2023": 25821,
+      "razhodi_2024": 26084,
+      "razhodi_2025": 31477
+    }
+  ],
+  "meta": {
+    "title": "Разходи за научноизследователска и развойна дейност (НИРД) по области на науката (2021–2025) - Free Download",
+    "description": "Разходи за НИРД в България в хиляди евро по области на науката (естествени, технически, медицински, селскостопански, обществени и хуманитарни науки) – общо, в сектор „Предприятия“ и в държавния сектор, 2021–2025 г. (2025 – предварителни данни). По данни на НСИ. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Разходи за научноизследователска и развойна дейност (НИРД) по области на науката (2021–2025) | ListBase",
+    "seo_description": "Download Разходи за научноизследователска и развойна дейност (НИРД) по области на науката (2021–2025) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.nsi.bg/statistical-data/307/888"
+    ]
+  }
+}
