@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-23T02:31:42.664Z",
-  "total_datasets": 529,
-  "total_records": 199374,
+  "generated": "2026-11-23T02:31:54.838Z",
+  "total_datasets": 530,
+  "total_records": 199391,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -12651,6 +12651,35 @@
         "xlsx": {
           "name": "bg-naselenie-prebroyavaniya_BG.xlsx",
           "size": 6975
+        }
+      }
+    },
+    {
+      "id": "bg-nay-vazrastnite-hora-v-balgariya",
+      "name": "Най-възрастните хора в България (107+ години)",
+      "category": "society",
+      "record_count": 17,
+      "columns": [
+        "nomer",
+        "ime",
+        "pol",
+        "data_na_razhdane",
+        "data_na_smartta",
+        "vazrast",
+        "myasto_na_razhdane",
+        "myasto_na_smartta_ili_zhiveene"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_с_най-възрастните_хора_в_България",
+      "updated": "2026-11",
+      "size": 8955,
+      "files": {
+        "csv": {
+          "name": "bg-nay-vazrastnite-hora-v-balgariya_BG.csv",
+          "size": 2974
+        },
+        "xlsx": {
+          "name": "bg-nay-vazrastnite-hora-v-balgariya_BG.xlsx",
+          "size": 8418
         }
       }
     },

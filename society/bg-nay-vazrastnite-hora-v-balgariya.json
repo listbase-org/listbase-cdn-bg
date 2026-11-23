@@ -1,0 +1,236 @@
+{
+  "id": "bg-nay-vazrastnite-hora-v-balgariya",
+  "name": "Най-възрастните хора в България (107+ години)",
+  "title": "Най-възрастните хора в България (107+ години)",
+  "description": "Списък на най-дълголетните хора, родени или живели в България, достигнали 107 и повече години — дата на раждане и смърт, възраст, място на раждане и място на смъртта или местоживеене.",
+  "category": "society",
+  "source": "https://bg.wikipedia.org/wiki/Списък_с_най-възрастните_хора_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Списък_с_най-възрастните_хора_в_България",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "pol",
+      "label": "Pol",
+      "type": "string"
+    },
+    {
+      "key": "data_na_razhdane",
+      "label": "Data Na Razhdane",
+      "type": "string"
+    },
+    {
+      "key": "data_na_smartta",
+      "label": "Data Na Smartta",
+      "type": "string"
+    },
+    {
+      "key": "vazrast",
+      "label": "Vazrast",
+      "type": "string"
+    },
+    {
+      "key": "myasto_na_razhdane",
+      "label": "Myasto Na Razhdane",
+      "type": "string"
+    },
+    {
+      "key": "myasto_na_smartta_ili_zhiveene",
+      "label": "Myasto Na Smartta Ili Zhiveene",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "ime": "Анна Томова",
+      "pol": "Ж",
+      "data_na_razhdane": "14 май 1914",
+      "data_na_smartta": "30 януари 2025",
+      "vazrast": "110 години, 8 месеца и 16 дни",
+      "myasto_na_razhdane": "Пазарджик",
+      "myasto_na_smartta_ili_zhiveene": "Пловдив"
+    },
+    {
+      "nomer": 2,
+      "ime": "Карамфила Стоянова",
+      "pol": "Ж",
+      "data_na_razhdane": "17 септември 1903",
+      "data_na_smartta": "27 април 2014",
+      "vazrast": "110 години, 7 месеца и 10 дни",
+      "myasto_na_razhdane": "Фролош",
+      "myasto_na_smartta_ili_zhiveene": "Николово"
+    },
+    {
+      "nomer": 3,
+      "ime": "Нурие Дерменджиева",
+      "pol": "Ж",
+      "data_na_razhdane": "25 октомври 1912",
+      "data_na_smartta": "12 януари 2023",
+      "vazrast": "110 години, 2 месеца и 18 дни",
+      "myasto_na_razhdane": "Дъбова",
+      "myasto_na_smartta_ili_zhiveene": "Средногорци"
+    },
+    {
+      "nomer": 4,
+      "ime": "Есма Мустафа",
+      "pol": "Ж",
+      "data_na_razhdane": "2 май 1917",
+      "data_na_smartta": "жива",
+      "vazrast": "109 години, 6 месеца и 21 дни",
+      "myasto_na_razhdane": "Подкова",
+      "myasto_na_smartta_ili_zhiveene": "Подкова"
+    },
+    {
+      "nomer": 5,
+      "ime": "Велика Събева",
+      "pol": "Ж",
+      "data_na_razhdane": "22 август 1902",
+      "data_na_smartta": "6 февруари 2012",
+      "vazrast": "109 години, 5 месеца и 15 дни",
+      "myasto_na_razhdane": "Табачка",
+      "myasto_na_smartta_ili_zhiveene": "Варна"
+    },
+    {
+      "nomer": 6,
+      "ime": "Гюлбие Юмер",
+      "pol": "Ж",
+      "data_na_razhdane": "14 януари 1907",
+      "data_na_smartta": "15 февруари 2016",
+      "vazrast": "109 години, 1 месец и 1 ден",
+      "myasto_na_razhdane": "Веселец",
+      "myasto_na_smartta_ili_zhiveene": "Свещари"
+    },
+    {
+      "nomer": 7,
+      "ime": "Христана Карагяурова",
+      "pol": "Ж",
+      "data_na_razhdane": "19 август 1895",
+      "data_na_smartta": "7 август 2004",
+      "vazrast": "108 години, 11 месеца и 19 дни",
+      "myasto_na_razhdane": "Сандрово",
+      "myasto_na_smartta_ili_zhiveene": "Сандрово"
+    },
+    {
+      "nomer": 8,
+      "ime": "Веселина Данкова",
+      "pol": "Ж",
+      "data_na_razhdane": "2 януари 1897",
+      "data_na_smartta": "24 август 2005",
+      "vazrast": "108 години, 7 месеца и 22 дни",
+      "myasto_na_razhdane": "Стежерово",
+      "myasto_na_smartta_ili_zhiveene": "Стежерово"
+    },
+    {
+      "nomer": 9,
+      "ime": "Матена Златилова",
+      "pol": "Ж",
+      "data_na_razhdane": "13 януари 1910",
+      "data_na_smartta": "4 юли 2018",
+      "vazrast": "108 години, 5 месеца и 21 дни",
+      "myasto_na_razhdane": "Голям Дервент",
+      "myasto_na_smartta_ili_zhiveene": "Ламбух"
+    },
+    {
+      "nomer": 10,
+      "ime": "Сона Крекманова",
+      "pol": "Ж",
+      "data_na_razhdane": "23 декември 1894",
+      "data_na_smartta": "5 март 2003",
+      "vazrast": "108 години, 2 месеца и 10 дни",
+      "myasto_na_razhdane": "Крайници",
+      "myasto_na_smartta_ili_zhiveene": "Крайници"
+    },
+    {
+      "nomer": 11,
+      "ime": "Неделчо Бойков",
+      "pol": "M",
+      "data_na_razhdane": "4 април 1912",
+      "data_na_smartta": "5 март 2020",
+      "vazrast": "107 години, 11 месеца и 1 ден",
+      "myasto_na_razhdane": "Мерхамли",
+      "myasto_na_smartta_ili_zhiveene": "Свиленград"
+    },
+    {
+      "nomer": 12,
+      "ime": "Павел Христов",
+      "pol": "M",
+      "data_na_razhdane": "23 юни 1909",
+      "data_na_smartta": "30 април 2017",
+      "vazrast": "107 години, 10 месеца и 7 дни",
+      "myasto_na_razhdane": "Ветрен",
+      "myasto_na_smartta_ili_zhiveene": "Мараш"
+    },
+    {
+      "nomer": 13,
+      "ime": "Петър Цинцарски",
+      "pol": "M",
+      "data_na_razhdane": "6 февруари 1899",
+      "data_na_smartta": "13 юли 2006",
+      "vazrast": "107 години, 5 месеца и 7 дни",
+      "myasto_na_razhdane": "Типченица",
+      "myasto_na_smartta_ili_zhiveene": "Типченица"
+    },
+    {
+      "nomer": 14,
+      "ime": "Тодор Карагогов",
+      "pol": "M",
+      "data_na_razhdane": "6 декември 1913",
+      "data_na_smartta": "3 май 2021",
+      "vazrast": "107 години, 4 месеца и 27 дни",
+      "myasto_na_razhdane": "Бунархисар",
+      "myasto_na_smartta_ili_zhiveene": "Царево"
+    },
+    {
+      "nomer": 15,
+      "ime": "Борис Дамянов",
+      "pol": "M",
+      "data_na_razhdane": "11 септември 1904",
+      "data_na_smartta": "4 февруари 2012",
+      "vazrast": "107 години, 4 месеца и 24 дни",
+      "myasto_na_razhdane": "Правище",
+      "myasto_na_smartta_ili_zhiveene": "Стамболийски"
+    },
+    {
+      "nomer": 16,
+      "ime": "Евдокия Чочева",
+      "pol": "Ж",
+      "data_na_razhdane": "29 септември 1919",
+      "data_na_smartta": "жива",
+      "vazrast": "107 години, 1 месец и 25 дни",
+      "myasto_na_razhdane": "Варна",
+      "myasto_na_smartta_ili_zhiveene": "Варна"
+    },
+    {
+      "nomer": 17,
+      "ime": "Георги Георгиев",
+      "pol": "M",
+      "data_na_razhdane": "27 март 1913",
+      "data_na_smartta": "18 април 2020",
+      "vazrast": "107 години и 22 дни",
+      "myasto_na_razhdane": "Бенковски",
+      "myasto_na_smartta_ili_zhiveene": "Бенковски"
+    }
+  ],
+  "meta": {
+    "title": "Най-възрастните хора в България (107+ години) - Free Download",
+    "description": "Списък на най-дълголетните хора, родени или живели в България, достигнали 107 и повече години — дата на раждане и смърт, възраст, място на раждане и място на смъртта или местоживеене. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Най-възрастните хора в България (107+ години) | ListBase",
+    "seo_description": "Download Най-възрастните хора в България (107+ години) — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Списък_с_най-възрастните_хора_в_България"
+    ]
+  }
+}
