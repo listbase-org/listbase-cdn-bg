@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-20T02:18:02.454Z",
-  "total_datasets": 528,
-  "total_records": 199267,
+  "generated": "2026-11-23T02:31:42.664Z",
+  "total_datasets": 529,
+  "total_records": 199374,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "language",
@@ -5464,6 +5464,30 @@
         "xlsx": {
           "name": "bg-hayduti_BG.xlsx",
           "size": 65204
+        }
+      }
+    },
+    {
+      "id": "bg-hronologiya-osmansko-vladichestvo",
+      "name": "Хронология на османското владичество над българските земи (1341–1923)",
+      "category": "history",
+      "record_count": 107,
+      "columns": [
+        "godina",
+        "period",
+        "sabitie"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Списък_с_дати_от_османското_владичество_над_българските_земи",
+      "updated": "2026-11",
+      "size": 72269,
+      "files": {
+        "csv": {
+          "name": "bg-hronologiya-osmansko-vladichestvo_BG.csv",
+          "size": 62675
+        },
+        "xlsx": {
+          "name": "bg-hronologiya-osmansko-vladichestvo_BG.xlsx",
+          "size": 24639
         }
       }
     },
