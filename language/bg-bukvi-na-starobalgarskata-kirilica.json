@@ -1,0 +1,424 @@
+{
+  "id": "bg-bukvi-na-starobalgarskata-kirilica",
+  "name": "Букви на старобългарската азбука (кирилица)",
+  "title": "Букви на старобългарската азбука (кирилица)",
+  "description": "Буквите на старобългарската кирилска азбука: буква, старобългарско название, произношение (МФА), транслитерация, произход на знака и числена стойност.",
+  "category": "language",
+  "source": "https://bg.wikipedia.org/wiki/Старобългарска_азбука",
+  "source_url": "https://bg.wikipedia.org/wiki/Старобългарска_азбука",
+  "updated": "2026-11",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "bukva",
+      "label": "Bukva",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "proiznoshenie",
+      "label": "Proiznoshenie",
+      "type": "string"
+    },
+    {
+      "key": "transliteraciya",
+      "label": "Transliteraciya",
+      "type": "string"
+    },
+    {
+      "key": "proizhod",
+      "label": "Proizhod",
+      "type": "string"
+    },
+    {
+      "key": "chislena_stoynost",
+      "label": "Chislena Stoynost",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bukva": "А а",
+      "nazvanie": "азъ",
+      "proiznoshenie": "[azŭ]",
+      "transliteraciya": "a",
+      "proizhod": "Гръцко (Α, α)",
+      "chislena_stoynost": 1
+    },
+    {
+      "bukva": "Б б",
+      "nazvanie": "боукꙑ",
+      "proiznoshenie": "[buky], [bukŭi]",
+      "transliteraciya": "b",
+      "proizhod": "Гръцко (Β, β)",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "В в",
+      "nazvanie": "вѣди",
+      "proiznoshenie": "[vædi]",
+      "transliteraciya": "v",
+      "proizhod": "Гръцко (Β, β)",
+      "chislena_stoynost": 2
+    },
+    {
+      "bukva": "Г г",
+      "nazvanie": "глаголи",
+      "proiznoshenie": "[glagoli]",
+      "transliteraciya": "g",
+      "proizhod": "Гръцко (Γ, γ)",
+      "chislena_stoynost": 3
+    },
+    {
+      "bukva": "Д д",
+      "nazvanie": "добро",
+      "proiznoshenie": "[dobro]",
+      "transliteraciya": "d",
+      "proizhod": "Гръцко (Δ, δ)",
+      "chislena_stoynost": 4
+    },
+    {
+      "bukva": "Є є",
+      "nazvanie": "єсть",
+      "proiznoshenie": "[ɛstĭ]",
+      "transliteraciya": "e",
+      "proizhod": "Гръцко (Ε, ε)",
+      "chislena_stoynost": 5
+    },
+    {
+      "bukva": "Ж ж",
+      "nazvanie": "живѣтє",
+      "proiznoshenie": "[ʒivætɛ]",
+      "transliteraciya": "ž, zh",
+      "proizhod": "Глаголическо, Живете",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ѕ ѕ / Ꙃ ꙃ",
+      "nazvanie": "sѣло",
+      "proiznoshenie": "[ʣælo]",
+      "transliteraciya": "dz",
+      "proizhod": "",
+      "chislena_stoynost": 6
+    },
+    {
+      "bukva": "З з / Ꙁ ꙁ",
+      "nazvanie": "землꙗ",
+      "proiznoshenie": "[zemlja]",
+      "transliteraciya": "z",
+      "proizhod": "Гръцко (Ζ, ζ)",
+      "chislena_stoynost": 7
+    },
+    {
+      "bukva": "И и",
+      "nazvanie": "ижє",
+      "proiznoshenie": "[iʒɛ]",
+      "transliteraciya": "i",
+      "proizhod": "Гръцко (Η, η)",
+      "chislena_stoynost": 8
+    },
+    {
+      "bukva": "І і / Ї ї",
+      "nazvanie": "іжєі/їнїнъ",
+      "proiznoshenie": "[iʒɛі, inіnŭ]",
+      "transliteraciya": "i, I",
+      "proizhod": "Гръцко (Ι, ι)",
+      "chislena_stoynost": 10
+    },
+    {
+      "bukva": "К к",
+      "nazvanie": "како",
+      "proiznoshenie": "[kako]",
+      "transliteraciya": "k",
+      "proizhod": "Гръцко (Κ, κ)",
+      "chislena_stoynost": 20
+    },
+    {
+      "bukva": "Л л",
+      "nazvanie": "людиѥ",
+      "proiznoshenie": "[ljudijɛ]",
+      "transliteraciya": "l",
+      "proizhod": "Гръцко (Λ, λ)",
+      "chislena_stoynost": 30
+    },
+    {
+      "bukva": "М м",
+      "nazvanie": "мꙑслитє",
+      "proiznoshenie": "[myslɛtɛ] / [mŭislɛtɛ]",
+      "transliteraciya": "m",
+      "proizhod": "Гръцко (Μ, μ)",
+      "chislena_stoynost": 40
+    },
+    {
+      "bukva": "Н н",
+      "nazvanie": "нашь",
+      "proiznoshenie": "[naʃĭ]",
+      "transliteraciya": "n",
+      "proizhod": "Гръцко (Ν, ν)",
+      "chislena_stoynost": 50
+    },
+    {
+      "bukva": "О о",
+      "nazvanie": "онъ",
+      "proiznoshenie": "[onŭ]",
+      "transliteraciya": "o",
+      "proizhod": "Гръцко (Ο, ο)",
+      "chislena_stoynost": 70
+    },
+    {
+      "bukva": "П п",
+      "nazvanie": "покои",
+      "proiznoshenie": "[pokoj]",
+      "transliteraciya": "p",
+      "proizhod": "Гръцко (Π, π)",
+      "chislena_stoynost": 80
+    },
+    {
+      "bukva": "Р р",
+      "nazvanie": "рьци",
+      "proiznoshenie": "[rĭʦi]",
+      "transliteraciya": "r",
+      "proizhod": "Гръцко (Ρ, ρ)",
+      "chislena_stoynost": 100
+    },
+    {
+      "bukva": "С с",
+      "nazvanie": "слово",
+      "proiznoshenie": "[slovo]",
+      "transliteraciya": "s",
+      "proizhod": "Гръцко (Ϲ, ϲ)",
+      "chislena_stoynost": 200
+    },
+    {
+      "bukva": "Т т",
+      "nazvanie": "тврьдо",
+      "proiznoshenie": "[tvr̥do]",
+      "transliteraciya": "t",
+      "proizhod": "Гръцко (Τ, τ)",
+      "chislena_stoynost": 300
+    },
+    {
+      "bukva": "Ѹ оу / Ꙋ ꙋ",
+      "nazvanie": "о​͡укъ",
+      "proiznoshenie": "[ukŭ]",
+      "transliteraciya": "u",
+      "proizhod": "Гръцко (Ο, ο и Υ, υ)",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ф ф",
+      "nazvanie": "фрьтъ",
+      "proiznoshenie": "[fr̤̥tŭ]",
+      "transliteraciya": "f",
+      "proizhod": "Гръцко (Φ, φ)",
+      "chislena_stoynost": 500
+    },
+    {
+      "bukva": "Х х",
+      "nazvanie": "хѣръ",
+      "proiznoshenie": "[xærŭ]",
+      "transliteraciya": "x",
+      "proizhod": "Гръцко (Χ, χ)",
+      "chislena_stoynost": 600
+    },
+    {
+      "bukva": "Ѡ ѡ",
+      "nazvanie": "ѡмега",
+      "proiznoshenie": "[omɛga]",
+      "transliteraciya": "ō, w",
+      "proizhod": "Гръцко (Ω, ω)",
+      "chislena_stoynost": 800
+    },
+    {
+      "bukva": "Ц ц",
+      "nazvanie": "ци",
+      "proiznoshenie": "[ʦi]",
+      "transliteraciya": "c",
+      "proizhod": "Етиопско ሃ(?), Еврейско צ(?), Коптско ϥ(?)",
+      "chislena_stoynost": 900
+    },
+    {
+      "bukva": "Ч ч",
+      "nazvanie": "чрьвь",
+      "proiznoshenie": "[ʧr̤̥vĭ]",
+      "transliteraciya": "č, ch",
+      "proizhod": "",
+      "chislena_stoynost": 90
+    },
+    {
+      "bukva": "Ш ш",
+      "nazvanie": "ша",
+      "proiznoshenie": "[ʃa]",
+      "transliteraciya": "š, sh",
+      "proizhod": "Етиопско ሠ(?), Еврейско ש(?), Коптско ϣ(?)",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Щ щ",
+      "nazvanie": "ща",
+      "proiznoshenie": "[ʃta]",
+      "transliteraciya": "št, sht",
+      "proizhod": "Лигатура Ш-Т",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ъ ъ",
+      "nazvanie": "ѥръ; ѥръ (голям)",
+      "proiznoshenie": "jɛrŭ",
+      "transliteraciya": "ŭ, u:",
+      "proizhod": "",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ꙑ ꙑ/Ы ы",
+      "nazvanie": "ѥрꙑ",
+      "proiznoshenie": "jɛry",
+      "transliteraciya": "y",
+      "proizhod": "Лигатура Ъ-І",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ь ь",
+      "nazvanie": "ѥрь; ѥрь (малък)",
+      "proiznoshenie": "jɛrĭ",
+      "transliteraciya": "ĭ, i:",
+      "proizhod": "",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ѣ ѣ",
+      "nazvanie": "ѣть",
+      "proiznoshenie": "jatĭ",
+      "transliteraciya": "ě",
+      "proizhod": "",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ю ю",
+      "nazvanie": "ю",
+      "proiznoshenie": "[ju]",
+      "transliteraciya": "ju",
+      "proizhod": "Лигатура I-ОУ",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ꙗ ꙗ / Я я",
+      "nazvanie": "ꙗ",
+      "proiznoshenie": "[ja]",
+      "transliteraciya": "ja",
+      "proizhod": "Лигатура I-А",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ѥ ѥ",
+      "nazvanie": "ѥ; [ие]; (йотирано е)",
+      "proiznoshenie": "[jɛ]",
+      "transliteraciya": "je",
+      "proizhod": "Лигатура І-Є",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ѧ ѧ",
+      "nazvanie": "ѧсъ; малък юс; малка носовка",
+      "proiznoshenie": "[ɛ̃sŭ]",
+      "transliteraciya": "ę, ẽ",
+      "proizhod": "",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ѩ ѩ",
+      "nazvanie": "ѩсъ; йотиран малък юс",
+      "proiznoshenie": "[jɛ̃sŭ]",
+      "transliteraciya": "ję, jẽ",
+      "proizhod": "Лигатура I-Ѧ",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ѫ ѫ",
+      "nazvanie": "ѫсъ; голям юс; голяма носовка",
+      "proiznoshenie": "[ɔ̃sŭ]",
+      "transliteraciya": "ǫ, õ",
+      "proizhod": "",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ѭ ѭ",
+      "nazvanie": "ѭсъ; йотиран голям юс",
+      "proiznoshenie": "[jɔ̃sŭ]",
+      "transliteraciya": "jǫ, jõ",
+      "proizhod": "Лигатура I-Ѫ",
+      "chislena_stoynost": ""
+    },
+    {
+      "bukva": "Ѯ ѯ",
+      "nazvanie": "ѯи; кси",
+      "proiznoshenie": "[ksi]",
+      "transliteraciya": "ks",
+      "proizhod": "Гръцко (Ξ, ξ)",
+      "chislena_stoynost": 60
+    },
+    {
+      "bukva": "Ѱ ѱ",
+      "nazvanie": "ѱи; пси",
+      "proiznoshenie": "[psi]",
+      "transliteraciya": "ps",
+      "proizhod": "Гръцко (Ψ, ψ)",
+      "chislena_stoynost": 700
+    },
+    {
+      "bukva": "Ѳ ѳ",
+      "nazvanie": "ѳита; тита; фита",
+      "proiznoshenie": "[fita]",
+      "transliteraciya": "θ, th, T, F",
+      "proizhod": "Гръцко (Θ, θ)",
+      "chislena_stoynost": 9
+    },
+    {
+      "bukva": "Ѵ ѵ",
+      "nazvanie": "ѵжица; ижица",
+      "proiznoshenie": "[iʒiʦa]",
+      "transliteraciya": "ü",
+      "proizhod": "Гръцко (Υ, υ)",
+      "chislena_stoynost": 400
+    },
+    {
+      "bukva": "Ѵ ѵ",
+      "nazvanie": "ѷжица съ кєндима",
+      "proiznoshenie": "[(Ϋ) [ʏ]",
+      "transliteraciya": "",
+      "proizhod": "",
+      "chislena_stoynost": 400
+    },
+    {
+      "bukva": "Ҁ ҁ ²",
+      "nazvanie": "ҁо́па",
+      "proiznoshenie": "",
+      "transliteraciya": "",
+      "proizhod": "Гръцко (Ϙ, ϙ)",
+      "chislena_stoynost": 90
+    },
+    {
+      "bukva": "Ѿ ѿ",
+      "nazvanie": "ѿъ",
+      "proiznoshenie": "[otŭ]",
+      "transliteraciya": "ot",
+      "proizhod": "Лигатура Ѡ-Т",
+      "chislena_stoynost": 800
+    }
+  ],
+  "meta": {
+    "title": "Букви на старобългарската азбука (кирилица) - Free Download",
+    "description": "Буквите на старобългарската кирилска азбука: буква, старобългарско название, произношение (МФА), транслитерация, произход на знака и числена стойност. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Букви на старобългарската азбука (кирилица) | ListBase",
+    "seo_description": "Download Букви на старобългарската азбука (кирилица) — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Старобългарска_азбука"
+    ]
+  }
+}
