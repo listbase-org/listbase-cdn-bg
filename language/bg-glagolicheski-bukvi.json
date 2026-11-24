@@ -1,0 +1,384 @@
+{
+  "id": "bg-glagolicheski-bukvi",
+  "name": "Букви на глаголицата",
+  "title": "Букви на глаголицата",
+  "description": "Буквите на глаголицата – първата славянска азбука, създадена от св. Кирил и Методий: глаголически знак (Unicode), име на буквата, звук, числена стойност, връзка с гръцката азбука и съответствие в кирилицата.",
+  "category": "language",
+  "source": "https://bg.wikipedia.org/wiki/Глаголица",
+  "source_url": "https://bg.wikipedia.org/wiki/Глаголица",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "bukva",
+      "label": "Bukva",
+      "type": "string"
+    },
+    {
+      "key": "ime",
+      "label": "Ime",
+      "type": "string"
+    },
+    {
+      "key": "zvuk",
+      "label": "Zvuk",
+      "type": "string"
+    },
+    {
+      "key": "chislena_stoynost",
+      "label": "Chislena Stoynost",
+      "type": "number"
+    },
+    {
+      "key": "vrazka_s_grackiya",
+      "label": "Vrazka S Grackiya",
+      "type": "string"
+    },
+    {
+      "key": "vrazka_s_kirilicata",
+      "label": "Vrazka S Kirilicata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bukva": "Ⰰ",
+      "ime": "Аз",
+      "zvuk": "а",
+      "chislena_stoynost": 1,
+      "vrazka_s_grackiya": "Alpha (Α)",
+      "vrazka_s_kirilicata": "А"
+    },
+    {
+      "bukva": "Ⰱ",
+      "ime": "Буки",
+      "zvuk": "б",
+      "chislena_stoynost": 2,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Б"
+    },
+    {
+      "bukva": "Ⰲ",
+      "ime": "Веди",
+      "zvuk": "в",
+      "chislena_stoynost": 3,
+      "vrazka_s_grackiya": "Beta (Β)",
+      "vrazka_s_kirilicata": "В"
+    },
+    {
+      "bukva": "Ⰳ",
+      "ime": "Глагол",
+      "zvuk": "г",
+      "chislena_stoynost": 4,
+      "vrazka_s_grackiya": "Gamma (Γ)",
+      "vrazka_s_kirilicata": "Г"
+    },
+    {
+      "bukva": "Ⰴ",
+      "ime": "Добро",
+      "zvuk": "д",
+      "chislena_stoynost": 5,
+      "vrazka_s_grackiya": "Delta (Δ)",
+      "vrazka_s_kirilicata": "Д"
+    },
+    {
+      "bukva": "Ⰵ",
+      "ime": "Есть",
+      "zvuk": "е",
+      "chislena_stoynost": 6,
+      "vrazka_s_grackiya": "Epsilon (Ε)",
+      "vrazka_s_kirilicata": "Е"
+    },
+    {
+      "bukva": "Ⰶ",
+      "ime": "Живете",
+      "zvuk": "ж",
+      "chislena_stoynost": 7,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Ж"
+    },
+    {
+      "bukva": "Ⰷ",
+      "ime": "Дзело",
+      "zvuk": "дз",
+      "chislena_stoynost": 8,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "S („дз“)"
+    },
+    {
+      "bukva": "Ⰸ",
+      "ime": "Земля",
+      "zvuk": "з",
+      "chislena_stoynost": 9,
+      "vrazka_s_grackiya": "Zeta (Ζ)",
+      "vrazka_s_kirilicata": "З"
+    },
+    {
+      "bukva": "Ⰹ, Ⰺ",
+      "ime": "Йота",
+      "zvuk": "и",
+      "chislena_stoynost": 10,
+      "vrazka_s_grackiya": "Iota (Ι)",
+      "vrazka_s_kirilicata": "Й, I"
+    },
+    {
+      "bukva": "Ⰻ",
+      "ime": "Иже",
+      "zvuk": "и",
+      "chislena_stoynost": 20,
+      "vrazka_s_grackiya": "Eta (Η)",
+      "vrazka_s_kirilicata": "И"
+    },
+    {
+      "bukva": "Ⰼ",
+      "ime": "Герв",
+      "zvuk": "г'",
+      "chislena_stoynost": 30,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Г' („гь“), сръбско Ђ („джь“))"
+    },
+    {
+      "bukva": "Ⰽ",
+      "ime": "Како",
+      "zvuk": "к",
+      "chislena_stoynost": 40,
+      "vrazka_s_grackiya": "Kappa (Κ)",
+      "vrazka_s_kirilicata": "К"
+    },
+    {
+      "bukva": "Ⰾ",
+      "ime": "Люди",
+      "zvuk": "л",
+      "chislena_stoynost": 50,
+      "vrazka_s_grackiya": "Lambda (Λ)",
+      "vrazka_s_kirilicata": "Л"
+    },
+    {
+      "bukva": "Ⰿ",
+      "ime": "Мислете",
+      "zvuk": "м",
+      "chislena_stoynost": 60,
+      "vrazka_s_grackiya": "Mu (Μ)",
+      "vrazka_s_kirilicata": "М"
+    },
+    {
+      "bukva": "Ⱀ",
+      "ime": "Наш",
+      "zvuk": "н",
+      "chislena_stoynost": 70,
+      "vrazka_s_grackiya": "Nu (Ν)",
+      "vrazka_s_kirilicata": "Н"
+    },
+    {
+      "bukva": "Ⱁ",
+      "ime": "Он",
+      "zvuk": "о",
+      "chislena_stoynost": 80,
+      "vrazka_s_grackiya": "Omicron (Ο)",
+      "vrazka_s_kirilicata": "О"
+    },
+    {
+      "bukva": "Ⱂ",
+      "ime": "Покой",
+      "zvuk": "п",
+      "chislena_stoynost": 90,
+      "vrazka_s_grackiya": "Pi (Π)",
+      "vrazka_s_kirilicata": "П"
+    },
+    {
+      "bukva": "Ⱃ",
+      "ime": "Рци",
+      "zvuk": "р",
+      "chislena_stoynost": 100,
+      "vrazka_s_grackiya": "Rho (Ρ)",
+      "vrazka_s_kirilicata": "Р"
+    },
+    {
+      "bukva": "Ⱄ",
+      "ime": "Слово",
+      "zvuk": "с",
+      "chislena_stoynost": 200,
+      "vrazka_s_grackiya": "Sigma (Σ)",
+      "vrazka_s_kirilicata": "С"
+    },
+    {
+      "bukva": "Ⱅ",
+      "ime": "Твердо",
+      "zvuk": "т",
+      "chislena_stoynost": 300,
+      "vrazka_s_grackiya": "Tau (Τ)",
+      "vrazka_s_kirilicata": "Т"
+    },
+    {
+      "bukva": "Ⱆ",
+      "ime": "Ук",
+      "zvuk": "у",
+      "chislena_stoynost": 400,
+      "vrazka_s_grackiya": "Upsilon (Υ)",
+      "vrazka_s_kirilicata": "У"
+    },
+    {
+      "bukva": "Ⱇ",
+      "ime": "Ферт",
+      "zvuk": "ф",
+      "chislena_stoynost": 500,
+      "vrazka_s_grackiya": "Phi (Φ)",
+      "vrazka_s_kirilicata": "Ф"
+    },
+    {
+      "bukva": "Ⱈ",
+      "ime": "Ха",
+      "zvuk": "х",
+      "chislena_stoynost": 600,
+      "vrazka_s_grackiya": "Chi (Χ)",
+      "vrazka_s_kirilicata": "Х"
+    },
+    {
+      "bukva": "Ⱉ",
+      "ime": "От",
+      "zvuk": "о",
+      "chislena_stoynost": 700,
+      "vrazka_s_grackiya": "Omega (Ω)",
+      "vrazka_s_kirilicata": "използвана само за възпроизвеждане на гръцки"
+    },
+    {
+      "bukva": "Ⱌ",
+      "ime": "Ци",
+      "zvuk": "ц",
+      "chislena_stoynost": 900,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Ц"
+    },
+    {
+      "bukva": "Ⱍ",
+      "ime": "Черв",
+      "zvuk": "ч",
+      "chislena_stoynost": 1000,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Ч"
+    },
+    {
+      "bukva": "Ⱎ",
+      "ime": "Ша",
+      "zvuk": "ш",
+      "chislena_stoynost": 2000,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Ш"
+    },
+    {
+      "bukva": "Ⱋ",
+      "ime": "Ща",
+      "zvuk": "щ",
+      "chislena_stoynost": 800,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Щ"
+    },
+    {
+      "bukva": "Ⱏ",
+      "ime": "Ер голям",
+      "zvuk": "ъ",
+      "chislena_stoynost": 3000,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Ъ"
+    },
+    {
+      "bukva": "Ⰺ",
+      "ime": "Еры",
+      "zvuk": "ы",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Ы"
+    },
+    {
+      "bukva": "Ⱐ",
+      "ime": "Ер малък",
+      "zvuk": "ь",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Ь"
+    },
+    {
+      "bukva": "Ⱑ",
+      "ime": "Ят (е-двойно)",
+      "zvuk": "ѣ",
+      "chislena_stoynost": 4000,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "ѣ (произнася се „е“ или „я“), премахната през 1945"
+    },
+    {
+      "bukva": "Ⱖ",
+      "ime": "Я",
+      "zvuk": "я",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Я"
+    },
+    {
+      "bukva": "Ⱓ",
+      "ime": "Ю",
+      "zvuk": "ю",
+      "chislena_stoynost": 5000,
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "Ю"
+    },
+    {
+      "bukva": "Ⱔ",
+      "ime": "Юс малък",
+      "zvuk": "е н",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "ѧ, не се употребява"
+    },
+    {
+      "bukva": "Ⱗ",
+      "ime": "Юс малък йотиран",
+      "zvuk": "йе н",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "ѩ, не се употребява"
+    },
+    {
+      "bukva": "Ⱘ",
+      "ime": "Юс голям (носовка)",
+      "zvuk": "о н",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "ѫ (чете се „ъ“, „о н “), премахната от българския през 1945"
+    },
+    {
+      "bukva": "Ⱙ",
+      "ime": "Юс голям йотиран",
+      "zvuk": "йо н",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "",
+      "vrazka_s_kirilicata": "ѭ, не се употребява"
+    },
+    {
+      "bukva": "Ⱚ",
+      "ime": "Тита",
+      "zvuk": "Т",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "Theta",
+      "vrazka_s_kirilicata": "ѳ, използвана само за възпроизвеждане на гръцки"
+    },
+    {
+      "bukva": "Ⱛ",
+      "ime": "Ижица",
+      "zvuk": "и",
+      "chislena_stoynost": "",
+      "vrazka_s_grackiya": "Upsilon",
+      "vrazka_s_kirilicata": "ѵ, премахната от руския през 1917"
+    }
+  ],
+  "meta": {
+    "title": "Букви на глаголицата - Free Download",
+    "description": "Буквите на глаголицата – първата славянска азбука, създадена от св. Кирил и Методий: глаголически знак (Unicode), име на буквата, звук, числена стойност, връзка с гръцката азбука и съответствие в кирилицата. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Букви на глаголицата | ListBase",
+    "seo_description": "Download Букви на глаголицата — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Глаголица"
+    ]
+  }
+}

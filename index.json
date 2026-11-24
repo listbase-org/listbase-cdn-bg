@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-24T02:12:40.251Z",
-  "total_datasets": 531,
-  "total_records": 199437,
+  "generated": "2026-11-24T02:12:51.229Z",
+  "total_datasets": 532,
+  "total_records": 199478,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -5715,6 +5715,33 @@
         "xlsx": {
           "name": "bg-ezitsi_BG.xlsx",
           "size": 25212
+        }
+      }
+    },
+    {
+      "id": "bg-glagolicheski-bukvi",
+      "name": "Букви на глаголицата",
+      "category": "language",
+      "record_count": 41,
+      "columns": [
+        "bukva",
+        "ime",
+        "zvuk",
+        "chislena_stoynost",
+        "vrazka_s_grackiya",
+        "vrazka_s_kirilicata"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Глаголица",
+      "updated": "2026-11",
+      "size": 10387,
+      "files": {
+        "csv": {
+          "name": "bg-glagolicheski-bukvi_BG.csv",
+          "size": 2392
+        },
+        "xlsx": {
+          "name": "bg-glagolicheski-bukvi_BG.xlsx",
+          "size": 8971
         }
       }
     },
