@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-25T02:15:13.488Z",
-  "total_datasets": 534,
-  "total_records": 199508,
+  "generated": "2026-11-25T02:27:23.619Z",
+  "total_datasets": 535,
+  "total_records": 199537,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -13567,6 +13567,37 @@
         "xlsx": {
           "name": "bg-kashti-za-gosti_BG.xlsx",
           "size": 33602
+        }
+      }
+    },
+    {
+      "id": "bg-noshtuvki-v-mesta-za-nastanyavane-po-oblasti",
+      "name": "Нощувки в местата за настаняване по области (2020–2025)",
+      "category": "tourism",
+      "record_count": 29,
+      "columns": [
+        "oblast",
+        "kod_nuts",
+        "noshtuvki_2020",
+        "noshtuvki_2021",
+        "noshtuvki_2022",
+        "noshtuvki_2023",
+        "noshtuvki_2024",
+        "noshtuvki_2025",
+        "noshtuvki_chuzhdentsi_2025",
+        "dyal_chuzhdentsi_2025_protsent"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+      "updated": "2026-11",
+      "size": 13568,
+      "files": {
+        "csv": {
+          "name": "bg-noshtuvki-v-mesta-za-nastanyavane-po-oblasti_BG.csv",
+          "size": 2924
+        },
+        "xlsx": {
+          "name": "bg-noshtuvki-v-mesta-za-nastanyavane-po-oblasti_BG.xlsx",
+          "size": 9128
         }
       }
     },

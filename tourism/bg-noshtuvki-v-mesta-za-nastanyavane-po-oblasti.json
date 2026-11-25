@@ -1,0 +1,424 @@
+{
+  "id": "bg-noshtuvki-v-mesta-za-nastanyavane-po-oblasti",
+  "name": "Нощувки в местата за настаняване по области (2020–2025)",
+  "title": "Нощувки в местата за настаняване по области (2020–2025)",
+  "description": "Брой реализирани нощувки в местата за настаняване (хотели, къмпинги и други места за краткосрочно настаняване) в България и по области за 2020–2025 г., включително нощувките на чужденци и техния дял през 2025 г. Източник: Евростат (tour_occ_nin2), данни на НСИ.",
+  "category": "tourism",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "oblast",
+      "label": "Oblast",
+      "type": "string"
+    },
+    {
+      "key": "kod_nuts",
+      "label": "Kod Nuts",
+      "type": "string"
+    },
+    {
+      "key": "noshtuvki_2020",
+      "label": "Noshtuvki 2020",
+      "type": "number"
+    },
+    {
+      "key": "noshtuvki_2021",
+      "label": "Noshtuvki 2021",
+      "type": "number"
+    },
+    {
+      "key": "noshtuvki_2022",
+      "label": "Noshtuvki 2022",
+      "type": "number"
+    },
+    {
+      "key": "noshtuvki_2023",
+      "label": "Noshtuvki 2023",
+      "type": "number"
+    },
+    {
+      "key": "noshtuvki_2024",
+      "label": "Noshtuvki 2024",
+      "type": "number"
+    },
+    {
+      "key": "noshtuvki_2025",
+      "label": "Noshtuvki 2025",
+      "type": "number"
+    },
+    {
+      "key": "noshtuvki_chuzhdentsi_2025",
+      "label": "Noshtuvki Chuzhdentsi 2025",
+      "type": "number"
+    },
+    {
+      "key": "dyal_chuzhdentsi_2025_protsent",
+      "label": "Dyal Chuzhdentsi 2025 Protsent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "oblast": "България (общо)",
+      "kod_nuts": "BG",
+      "noshtuvki_2020": 11968483,
+      "noshtuvki_2021": 17620268,
+      "noshtuvki_2022": 24173291,
+      "noshtuvki_2023": 26865046,
+      "noshtuvki_2024": 27646201,
+      "noshtuvki_2025": 28816601,
+      "noshtuvki_chuzhdentsi_2025": 16083286,
+      "dyal_chuzhdentsi_2025_protsent": 55.8
+    },
+    {
+      "oblast": "Бургас",
+      "kod_nuts": "BG341",
+      "noshtuvki_2020": 3605948,
+      "noshtuvki_2021": 6321134,
+      "noshtuvki_2022": 8990147,
+      "noshtuvki_2023": 9636004,
+      "noshtuvki_2024": 9905089,
+      "noshtuvki_2025": 10104597,
+      "noshtuvki_chuzhdentsi_2025": 7102596,
+      "dyal_chuzhdentsi_2025_protsent": 70.3
+    },
+    {
+      "oblast": "Варна",
+      "kod_nuts": "BG331",
+      "noshtuvki_2020": 1927181,
+      "noshtuvki_2021": 3335420,
+      "noshtuvki_2022": 4073641,
+      "noshtuvki_2023": 4565334,
+      "noshtuvki_2024": 4752786,
+      "noshtuvki_2025": 5024610,
+      "noshtuvki_chuzhdentsi_2025": 3956611,
+      "dyal_chuzhdentsi_2025_protsent": 78.7
+    },
+    {
+      "oblast": "София (столица)",
+      "kod_nuts": "BG411",
+      "noshtuvki_2020": 756011,
+      "noshtuvki_2021": 1171327,
+      "noshtuvki_2022": 2061901,
+      "noshtuvki_2023": 2185868,
+      "noshtuvki_2024": 2267902,
+      "noshtuvki_2025": 2468303,
+      "noshtuvki_chuzhdentsi_2025": 1669477,
+      "dyal_chuzhdentsi_2025_protsent": 67.6
+    },
+    {
+      "oblast": "Добрич",
+      "kod_nuts": "BG332",
+      "noshtuvki_2020": 853193,
+      "noshtuvki_2021": 1216325,
+      "noshtuvki_2022": 1399375,
+      "noshtuvki_2023": 1600030,
+      "noshtuvki_2024": 1749331,
+      "noshtuvki_2025": 1826096,
+      "noshtuvki_chuzhdentsi_2025": 1270563,
+      "dyal_chuzhdentsi_2025_protsent": 69.6
+    },
+    {
+      "oblast": "Благоевград",
+      "kod_nuts": "BG413",
+      "noshtuvki_2020": 892107,
+      "noshtuvki_2021": 913295,
+      "noshtuvki_2022": 1387710,
+      "noshtuvki_2023": 1800095,
+      "noshtuvki_2024": 1786125,
+      "noshtuvki_2025": 1778517,
+      "noshtuvki_chuzhdentsi_2025": 639044,
+      "dyal_chuzhdentsi_2025_protsent": 35.9
+    },
+    {
+      "oblast": "Пловдив",
+      "kod_nuts": "BG421",
+      "noshtuvki_2020": 668450,
+      "noshtuvki_2021": 920567,
+      "noshtuvki_2022": 1241178,
+      "noshtuvki_2023": 1370231,
+      "noshtuvki_2024": 1414851,
+      "noshtuvki_2025": 1554996,
+      "noshtuvki_chuzhdentsi_2025": 330582,
+      "dyal_chuzhdentsi_2025_protsent": 21.3
+    },
+    {
+      "oblast": "Пазарджик",
+      "kod_nuts": "BG423",
+      "noshtuvki_2020": 389699,
+      "noshtuvki_2021": 506697,
+      "noshtuvki_2022": 846953,
+      "noshtuvki_2023": 1131944,
+      "noshtuvki_2024": 1100960,
+      "noshtuvki_2025": 1128463,
+      "noshtuvki_chuzhdentsi_2025": 65944,
+      "dyal_chuzhdentsi_2025_protsent": 5.8
+    },
+    {
+      "oblast": "Смолян",
+      "kod_nuts": "BG424",
+      "noshtuvki_2020": 627142,
+      "noshtuvki_2021": 608175,
+      "noshtuvki_2022": 753356,
+      "noshtuvki_2023": 813518,
+      "noshtuvki_2024": 826373,
+      "noshtuvki_2025": 803159,
+      "noshtuvki_chuzhdentsi_2025": 116202,
+      "dyal_chuzhdentsi_2025_protsent": 14.5
+    },
+    {
+      "oblast": "София",
+      "kod_nuts": "BG412",
+      "noshtuvki_2020": 515648,
+      "noshtuvki_2021": 544325,
+      "noshtuvki_2022": 657196,
+      "noshtuvki_2023": 658259,
+      "noshtuvki_2024": 707173,
+      "noshtuvki_2025": 758345,
+      "noshtuvki_chuzhdentsi_2025": 271810,
+      "dyal_chuzhdentsi_2025_protsent": 35.8
+    },
+    {
+      "oblast": "Стара Загора",
+      "kod_nuts": "BG344",
+      "noshtuvki_2020": 225594,
+      "noshtuvki_2021": 319157,
+      "noshtuvki_2022": 499109,
+      "noshtuvki_2023": 636963,
+      "noshtuvki_2024": 657087,
+      "noshtuvki_2025": 665024,
+      "noshtuvki_chuzhdentsi_2025": 68057,
+      "dyal_chuzhdentsi_2025_protsent": 10.2
+    },
+    {
+      "oblast": "Хасково",
+      "kod_nuts": "BG422",
+      "noshtuvki_2020": 83568,
+      "noshtuvki_2021": 111189,
+      "noshtuvki_2022": 188094,
+      "noshtuvki_2023": 215209,
+      "noshtuvki_2024": 257193,
+      "noshtuvki_2025": 403748,
+      "noshtuvki_chuzhdentsi_2025": 225620,
+      "dyal_chuzhdentsi_2025_protsent": 55.9
+    },
+    {
+      "oblast": "Велико Търново",
+      "kod_nuts": "BG321",
+      "noshtuvki_2020": 224109,
+      "noshtuvki_2021": 279694,
+      "noshtuvki_2022": 317103,
+      "noshtuvki_2023": 329257,
+      "noshtuvki_2024": 352026,
+      "noshtuvki_2025": 369000,
+      "noshtuvki_chuzhdentsi_2025": 89598,
+      "dyal_chuzhdentsi_2025_protsent": 24.3
+    },
+    {
+      "oblast": "Ловеч",
+      "kod_nuts": "BG315",
+      "noshtuvki_2020": 197397,
+      "noshtuvki_2021": 257080,
+      "noshtuvki_2022": 297588,
+      "noshtuvki_2023": 306785,
+      "noshtuvki_2024": 295764,
+      "noshtuvki_2025": 284618,
+      "noshtuvki_chuzhdentsi_2025": 14117,
+      "dyal_chuzhdentsi_2025_protsent": 5
+    },
+    {
+      "oblast": "Кюстендил",
+      "kod_nuts": "BG415",
+      "noshtuvki_2020": 110879,
+      "noshtuvki_2021": 145457,
+      "noshtuvki_2022": 191933,
+      "noshtuvki_2023": 247772,
+      "noshtuvki_2024": 241171,
+      "noshtuvki_2025": 241150,
+      "noshtuvki_chuzhdentsi_2025": 27645,
+      "dyal_chuzhdentsi_2025_protsent": 11.5
+    },
+    {
+      "oblast": "Русе",
+      "kod_nuts": "BG323",
+      "noshtuvki_2020": 90357,
+      "noshtuvki_2021": 131207,
+      "noshtuvki_2022": 173587,
+      "noshtuvki_2023": 200543,
+      "noshtuvki_2024": 173093,
+      "noshtuvki_2025": 196753,
+      "noshtuvki_chuzhdentsi_2025": 57757,
+      "dyal_chuzhdentsi_2025_protsent": 29.4
+    },
+    {
+      "oblast": "Габрово",
+      "kod_nuts": "BG322",
+      "noshtuvki_2020": 110852,
+      "noshtuvki_2021": 147029,
+      "noshtuvki_2022": 208057,
+      "noshtuvki_2023": 209144,
+      "noshtuvki_2024": 196480,
+      "noshtuvki_2025": 194309,
+      "noshtuvki_chuzhdentsi_2025": 20213,
+      "dyal_chuzhdentsi_2025_protsent": 10.4
+    },
+    {
+      "oblast": "Плевен",
+      "kod_nuts": "BG314",
+      "noshtuvki_2020": 82289,
+      "noshtuvki_2021": 74394,
+      "noshtuvki_2022": 117390,
+      "noshtuvki_2023": 156893,
+      "noshtuvki_2024": 137221,
+      "noshtuvki_2025": 151617,
+      "noshtuvki_chuzhdentsi_2025": 30431,
+      "dyal_chuzhdentsi_2025_protsent": 20.1
+    },
+    {
+      "oblast": "Кърджали",
+      "kod_nuts": "BG425",
+      "noshtuvki_2020": 72726,
+      "noshtuvki_2021": 134749,
+      "noshtuvki_2022": 123110,
+      "noshtuvki_2023": 123585,
+      "noshtuvki_2024": 122348,
+      "noshtuvki_2025": 139668,
+      "noshtuvki_chuzhdentsi_2025": 12013,
+      "dyal_chuzhdentsi_2025_protsent": 8.6
+    },
+    {
+      "oblast": "Враца",
+      "kod_nuts": "BG313",
+      "noshtuvki_2020": 58195,
+      "noshtuvki_2021": 73650,
+      "noshtuvki_2022": 109630,
+      "noshtuvki_2023": 110879,
+      "noshtuvki_2024": 134374,
+      "noshtuvki_2025": 124139,
+      "noshtuvki_chuzhdentsi_2025": 14980,
+      "dyal_chuzhdentsi_2025_protsent": 12.1
+    },
+    {
+      "oblast": "Монтана",
+      "kod_nuts": "BG312",
+      "noshtuvki_2020": 103680,
+      "noshtuvki_2021": 64389,
+      "noshtuvki_2022": 86195,
+      "noshtuvki_2023": 94955,
+      "noshtuvki_2024": 107898,
+      "noshtuvki_2025": 108142,
+      "noshtuvki_chuzhdentsi_2025": 9565,
+      "dyal_chuzhdentsi_2025_protsent": 8.8
+    },
+    {
+      "oblast": "Сливен",
+      "kod_nuts": "BG342",
+      "noshtuvki_2020": 52255,
+      "noshtuvki_2021": 76031,
+      "noshtuvki_2022": 90072,
+      "noshtuvki_2023": 100094,
+      "noshtuvki_2024": 95276,
+      "noshtuvki_2025": 96686,
+      "noshtuvki_chuzhdentsi_2025": 21525,
+      "dyal_chuzhdentsi_2025_protsent": 22.3
+    },
+    {
+      "oblast": "Шумен",
+      "kod_nuts": "BG333",
+      "noshtuvki_2020": 61282,
+      "noshtuvki_2021": 63473,
+      "noshtuvki_2022": 75908,
+      "noshtuvki_2023": 77034,
+      "noshtuvki_2024": 84000,
+      "noshtuvki_2025": 91803,
+      "noshtuvki_chuzhdentsi_2025": 14708,
+      "dyal_chuzhdentsi_2025_protsent": 16
+    },
+    {
+      "oblast": "Видин",
+      "kod_nuts": "BG311",
+      "noshtuvki_2020": 87614,
+      "noshtuvki_2021": 50050,
+      "noshtuvki_2022": 66967,
+      "noshtuvki_2023": 71534,
+      "noshtuvki_2024": 75508,
+      "noshtuvki_2025": 78710,
+      "noshtuvki_chuzhdentsi_2025": 11880,
+      "dyal_chuzhdentsi_2025_protsent": 15.1
+    },
+    {
+      "oblast": "Разград",
+      "kod_nuts": "BG324",
+      "noshtuvki_2020": 63807,
+      "noshtuvki_2021": 50962,
+      "noshtuvki_2022": 50459,
+      "noshtuvki_2023": 47807,
+      "noshtuvki_2024": 49453,
+      "noshtuvki_2025": 51670,
+      "noshtuvki_chuzhdentsi_2025": 9605,
+      "dyal_chuzhdentsi_2025_protsent": 18.6
+    },
+    {
+      "oblast": "Силистра",
+      "kod_nuts": "BG325",
+      "noshtuvki_2020": 26115,
+      "noshtuvki_2021": 31436,
+      "noshtuvki_2022": 47656,
+      "noshtuvki_2023": 42780,
+      "noshtuvki_2024": 40428,
+      "noshtuvki_2025": 50528,
+      "noshtuvki_chuzhdentsi_2025": 7617,
+      "dyal_chuzhdentsi_2025_protsent": 15.1
+    },
+    {
+      "oblast": "Търговище",
+      "kod_nuts": "BG334",
+      "noshtuvki_2020": 39724,
+      "noshtuvki_2021": 28371,
+      "noshtuvki_2022": 34796,
+      "noshtuvki_2023": 36545,
+      "noshtuvki_2024": 36530,
+      "noshtuvki_2025": 40835,
+      "noshtuvki_chuzhdentsi_2025": 7777,
+      "dyal_chuzhdentsi_2025_protsent": 19
+    },
+    {
+      "oblast": "Перник",
+      "kod_nuts": "BG414",
+      "noshtuvki_2020": 19878,
+      "noshtuvki_2021": 16990,
+      "noshtuvki_2022": 36981,
+      "noshtuvki_2023": 47684,
+      "noshtuvki_2024": 38499,
+      "noshtuvki_2025": 40676,
+      "noshtuvki_chuzhdentsi_2025": 8654,
+      "dyal_chuzhdentsi_2025_protsent": 21.3
+    },
+    {
+      "oblast": "Ямбол",
+      "kod_nuts": "BG343",
+      "noshtuvki_2020": 22783,
+      "noshtuvki_2021": 27695,
+      "noshtuvki_2022": 47199,
+      "noshtuvki_2023": 48300,
+      "noshtuvki_2024": 41262,
+      "noshtuvki_2025": 40439,
+      "noshtuvki_chuzhdentsi_2025": 8695,
+      "dyal_chuzhdentsi_2025_protsent": 21.5
+    }
+  ],
+  "meta": {
+    "title": "Нощувки в местата за настаняване по области (2020–2025) - Free Download",
+    "description": "Брой реализирани нощувки в местата за настаняване (хотели, къмпинги и други места за краткосрочно настаняване) в България и по области за 2020–2025 г., включително нощувките на чужденци и техния дял през 2025 г. Източник: Евростат (tour_occ_nin2), данни на НСИ. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Нощувки в местата за настаняване по области (2020–2025) | ListBase",
+    "seo_description": "Download Нощувки в местата за настаняване по области (2020–2025) — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table"
+    ]
+  }
+}
