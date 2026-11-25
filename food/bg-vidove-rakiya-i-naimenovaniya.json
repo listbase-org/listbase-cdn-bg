@@ -1,0 +1,131 @@
+{
+  "id": "bg-vidove-rakiya-i-naimenovaniya",
+  "name": "Видове ракия и народните им наименования",
+  "title": "Видове ракия и народните им наименования",
+  "description": "Основни видове българска ракия според плода или суровината, от която се дестилират (грозде, сливи, кайсии, круши, дюли и др.), и видове с добавки (билки, анасон, орехи, мед, лимон), с народните им наименования.",
+  "category": "food",
+  "source": "https://bg.wikipedia.org/wiki/Ракия",
+  "source_url": "https://bg.wikipedia.org/wiki/Ракия",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "surovina",
+      "label": "Surovina",
+      "type": "string"
+    },
+    {
+      "key": "vid",
+      "label": "Vid",
+      "type": "string"
+    },
+    {
+      "key": "naimenovaniya",
+      "label": "Naimenovaniya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "surovina": "грозде",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "гроздова, гроздовица, грозданка, лозова, мускатова"
+    },
+    {
+      "surovina": "от остатъците грозде и чепки",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "джиброва, джибровица"
+    },
+    {
+      "surovina": "сливи",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "сливова, сливовица, шльокавица"
+    },
+    {
+      "surovina": "кайсии",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "кайсиева"
+    },
+    {
+      "surovina": "круши",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "крушова"
+    },
+    {
+      "surovina": "ябълки",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "калвадос"
+    },
+    {
+      "surovina": "дюли",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "дюлева"
+    },
+    {
+      "surovina": "смокини",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "смокинова"
+    },
+    {
+      "surovina": "череши",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "черешова"
+    },
+    {
+      "surovina": "вишни",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "вишнева"
+    },
+    {
+      "surovina": "плодове",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "плодова"
+    },
+    {
+      "surovina": "праскови",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "прасковена"
+    },
+    {
+      "surovina": "маслодайната роза",
+      "vid": "основен вид (според плода)",
+      "naimenovaniya": "гюловица"
+    },
+    {
+      "surovina": "с билки",
+      "vid": "с добавки",
+      "naimenovaniya": "билкова"
+    },
+    {
+      "surovina": "с анасон",
+      "vid": "с добавки",
+      "naimenovaniya": "анасонлийка"
+    },
+    {
+      "surovina": "с орехи",
+      "vid": "с добавки",
+      "naimenovaniya": "орехова"
+    },
+    {
+      "surovina": "с мед",
+      "vid": "с добавки",
+      "naimenovaniya": "медова"
+    },
+    {
+      "surovina": "с лимон",
+      "vid": "с добавки",
+      "naimenovaniya": "лимонка"
+    }
+  ],
+  "meta": {
+    "title": "Видове ракия и народните им наименования - Free Download",
+    "description": "Основни видове българска ракия според плода или суровината, от която се дестилират (грозде, сливи, кайсии, круши, дюли и др.), и видове с добавки (билки, анасон, орехи, мед, лимон), с народните им наименования. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Видове ракия и народните им наименования | ListBase",
+    "seo_description": "Download Видове ракия и народните им наименования — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Ракия"
+    ]
+  }
+}

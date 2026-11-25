@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-25T02:14:09.011Z",
-  "total_datasets": 533,
-  "total_records": 199490,
+  "generated": "2026-11-25T02:15:13.488Z",
+  "total_datasets": 534,
+  "total_records": 199508,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -3011,6 +3011,30 @@
         "xlsx": {
           "name": "bg-potreblenie-hranitelni-produkti-na-litse_BG.xlsx",
           "size": 13754
+        }
+      }
+    },
+    {
+      "id": "bg-vidove-rakiya-i-naimenovaniya",
+      "name": "Видове ракия и народните им наименования",
+      "category": "food",
+      "record_count": 18,
+      "columns": [
+        "surovina",
+        "vid",
+        "naimenovaniya"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Ракия",
+      "updated": "2026-11",
+      "size": 4952,
+      "files": {
+        "csv": {
+          "name": "bg-vidove-rakiya-i-naimenovaniya_BG.csv",
+          "size": 1589
+        },
+        "xlsx": {
+          "name": "bg-vidove-rakiya-i-naimenovaniya_BG.xlsx",
+          "size": 7361
         }
       }
     },
