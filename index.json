@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-24T02:12:51.229Z",
-  "total_datasets": 532,
-  "total_records": 199478,
+  "generated": "2026-11-25T02:14:09.011Z",
+  "total_datasets": 533,
+  "total_records": 199490,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -13384,6 +13384,33 @@
         "xlsx": {
           "name": "bg-praznitsi-multiezikov_BG.xlsx",
           "size": 22738
+        }
+      }
+    },
+    {
+      "id": "bg-starobalgarski-i-prabalgarski-imena-na-mesetsite",
+      "name": "Старобългарски и прабългарски имена на месеците",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "nomer",
+        "latinsko_ime",
+        "savremenno_ime",
+        "starobalgarski_imena",
+        "znachenie_na_starobalgarskite_imena",
+        "prabalgarsko_ime"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Български_месеци",
+      "updated": "2026-11",
+      "size": 6070,
+      "files": {
+        "csv": {
+          "name": "bg-starobalgarski-i-prabalgarski-imena-na-mesetsite_BG.csv",
+          "size": 1478
+        },
+        "xlsx": {
+          "name": "bg-starobalgarski-i-prabalgarski-imena-na-mesetsite_BG.xlsx",
+          "size": 7752
         }
       }
     },

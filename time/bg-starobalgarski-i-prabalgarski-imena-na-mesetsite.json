@@ -1,0 +1,152 @@
+{
+  "id": "bg-starobalgarski-i-prabalgarski-imena-na-mesetsite",
+  "name": "Старобългарски и прабългарски имена на месеците",
+  "title": "Старобългарски и прабългарски имена на месеците",
+  "description": "Дванадесетте месеца на годината с латинското име, съвременното българско име, старобългарските (славянски) имена и тяхното значение, както и прабългарските имена на месеците.",
+  "category": "time",
+  "source": "https://bg.wikipedia.org/wiki/Български_месеци",
+  "source_url": "https://bg.wikipedia.org/wiki/Български_месеци",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "latinsko_ime",
+      "label": "Latinsko Ime",
+      "type": "string"
+    },
+    {
+      "key": "savremenno_ime",
+      "label": "Savremenno Ime",
+      "type": "string"
+    },
+    {
+      "key": "starobalgarski_imena",
+      "label": "Starobalgarski Imena",
+      "type": "string"
+    },
+    {
+      "key": "znachenie_na_starobalgarskite_imena",
+      "label": "Znachenie Na Starobalgarskite Imena",
+      "type": "string"
+    },
+    {
+      "key": "prabalgarsko_ime",
+      "label": "Prabalgarsko Ime",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "latinsko_ime": "ianuarius",
+      "savremenno_ime": "януари",
+      "starobalgarski_imena": "просинец, колог, коложег, голям сечко",
+      "znachenie_na_starobalgarskite_imena": "слънцето просиява (започва да грее по-дълго), горящ дънер",
+      "prabalgarsko_ime": "алем"
+    },
+    {
+      "nomer": 2,
+      "latinsko_ime": "februarius",
+      "savremenno_ime": "февруари",
+      "starobalgarski_imena": "сечец, сечко, малък сечко",
+      "znachenie_na_starobalgarskite_imena": "студът сече",
+      "prabalgarsko_ime": "тутом"
+    },
+    {
+      "nomer": 3,
+      "latinsko_ime": "martius",
+      "savremenno_ime": "март",
+      "starobalgarski_imena": "сух",
+      "znachenie_na_starobalgarskite_imena": "сух месец",
+      "prabalgarsko_ime": "читем"
+    },
+    {
+      "nomer": 4,
+      "latinsko_ime": "aprilis",
+      "savremenno_ime": "април",
+      "starobalgarski_imena": "брезов",
+      "znachenie_na_starobalgarskite_imena": "месец на брезите",
+      "prabalgarsko_ime": "твирем"
+    },
+    {
+      "nomer": 5,
+      "latinsko_ime": "maius",
+      "savremenno_ime": "май",
+      "starobalgarski_imena": "изок",
+      "znachenie_na_starobalgarskite_imena": "вид скакалец",
+      "prabalgarsko_ime": "вечем"
+    },
+    {
+      "nomer": 6,
+      "latinsko_ime": "iunius",
+      "savremenno_ime": "юни",
+      "starobalgarski_imena": "тревен",
+      "znachenie_na_starobalgarskite_imena": "месец на тревата",
+      "prabalgarsko_ime": "шехтем"
+    },
+    {
+      "nomer": 7,
+      "latinsko_ime": "iulius",
+      "savremenno_ime": "юли",
+      "starobalgarski_imena": "чръвен",
+      "znachenie_na_starobalgarskite_imena": "червеи, от които се добива червена боя",
+      "prabalgarsko_ime": "сетем"
+    },
+    {
+      "nomer": 8,
+      "latinsko_ime": "augustus",
+      "savremenno_ime": "август",
+      "starobalgarski_imena": "зарев",
+      "znachenie_na_starobalgarskite_imena": "от глагола зарева (рев на елени)",
+      "prabalgarsko_ime": "есем"
+    },
+    {
+      "nomer": 9,
+      "latinsko_ime": "september",
+      "savremenno_ime": "септември",
+      "starobalgarski_imena": "руен",
+      "znachenie_na_starobalgarskite_imena": "руен ('жълто-червен') – от есенните багри",
+      "prabalgarsko_ime": "девем"
+    },
+    {
+      "nomer": 10,
+      "latinsko_ime": "october",
+      "savremenno_ime": "октомври",
+      "starobalgarski_imena": "листопад",
+      "znachenie_na_starobalgarskite_imena": "месец на падащите листа",
+      "prabalgarsko_ime": "елем"
+    },
+    {
+      "nomer": 11,
+      "latinsko_ime": "november",
+      "savremenno_ime": "ноември",
+      "starobalgarski_imena": "груден",
+      "znachenie_na_starobalgarskite_imena": "земята става на грудки от студ",
+      "prabalgarsko_ime": "елнем"
+    },
+    {
+      "nomer": 12,
+      "latinsko_ime": "december",
+      "savremenno_ime": "декември",
+      "starobalgarski_imena": "студен",
+      "znachenie_na_starobalgarskite_imena": "студен месец",
+      "prabalgarsko_ime": "алтом (елтем)"
+    }
+  ],
+  "meta": {
+    "title": "Старобългарски и прабългарски имена на месеците - Free Download",
+    "description": "Дванадесетте месеца на годината с латинското име, съвременното българско име, старобългарските (славянски) имена и тяхното значение, както и прабългарските имена на месеците. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Старобългарски и прабългарски имена на месеците | ListBase",
+    "seo_description": "Download Старобългарски и прабългарски имена на месеците — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Български_месеци"
+    ]
+  }
+}
