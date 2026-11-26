@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-25T02:27:23.619Z",
-  "total_datasets": 535,
-  "total_records": 199537,
+  "generated": "2026-11-26T02:08:00.238Z",
+  "total_datasets": 536,
+  "total_records": 199566,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "food",
@@ -2673,6 +2673,32 @@
         "xlsx": {
           "name": "bg-zemetreseniya_BG.xlsx",
           "size": 8700
+        }
+      }
+    },
+    {
+      "id": "bg-byudzheten-defitsit-i-darzhaven-dalg",
+      "name": "Бюджетен дефицит/излишък и държавен дълг на България (1997–2025)",
+      "category": "finance",
+      "record_count": 29,
+      "columns": [
+        "year",
+        "deficit_surplus_pct_gdp",
+        "deficit_surplus_mln_eur",
+        "gov_debt_pct_gdp",
+        "gov_debt_mln_eur"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table",
+      "updated": "2026-11",
+      "size": 7969,
+      "files": {
+        "csv": {
+          "name": "bg-byudzheten-defitsit-i-darzhaven-dalg_BG.csv",
+          "size": 1188
+        },
+        "xlsx": {
+          "name": "bg-byudzheten-defitsit-i-darzhaven-dalg_BG.xlsx",
+          "size": 7674
         }
       }
     },
