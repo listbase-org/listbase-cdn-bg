@@ -1,0 +1,282 @@
+{
+  "id": "bg-registrirani-prestapleniya-po-vidove",
+  "name": "Регистрирани от полицията престъпления в България по видове (2016–2024)",
+  "title": "Регистрирани от полицията престъпления в България по видове (2016–2024)",
+  "description": "Годишен брой регистрирани от полицията престъпления в България по видове според Международната класификация на престъпленията (ICCS): умишлени убийства и опити, тежки телесни повреди, отвличания, сексуално насилие, грабежи, взломни кражби, кражби, кражби на МПС, наркотични престъпления, измами, корупция, подкупи, пране на пари и компютърни престъпления, 2016–2024 г. Източник: Евростат (crim_off_cat).",
+  "category": "law",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+  "updated": "2026-11",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "intentional_homicide",
+      "label": "Intentional Homicide",
+      "type": "number"
+    },
+    {
+      "key": "attempted_homicide",
+      "label": "Attempted Homicide",
+      "type": "number"
+    },
+    {
+      "key": "serious_assault",
+      "label": "Serious Assault",
+      "type": "number"
+    },
+    {
+      "key": "kidnapping",
+      "label": "Kidnapping",
+      "type": "number"
+    },
+    {
+      "key": "sexual_violence",
+      "label": "Sexual Violence",
+      "type": "number"
+    },
+    {
+      "key": "rape",
+      "label": "Rape",
+      "type": "number"
+    },
+    {
+      "key": "robbery",
+      "label": "Robbery",
+      "type": "number"
+    },
+    {
+      "key": "burglary",
+      "label": "Burglary",
+      "type": "number"
+    },
+    {
+      "key": "theft",
+      "label": "Theft",
+      "type": "number"
+    },
+    {
+      "key": "motor_vehicle_theft",
+      "label": "Motor Vehicle Theft",
+      "type": "number"
+    },
+    {
+      "key": "drug_offences",
+      "label": "Drug Offences",
+      "type": "number"
+    },
+    {
+      "key": "fraud",
+      "label": "Fraud",
+      "type": "number"
+    },
+    {
+      "key": "corruption",
+      "label": "Corruption",
+      "type": "number"
+    },
+    {
+      "key": "bribery",
+      "label": "Bribery",
+      "type": "number"
+    },
+    {
+      "key": "money_laundering",
+      "label": "Money Laundering",
+      "type": "number"
+    },
+    {
+      "key": "cybercrime",
+      "label": "Cybercrime",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2016,
+      "intentional_homicide": 79,
+      "attempted_homicide": 76,
+      "serious_assault": 2470,
+      "kidnapping": 70,
+      "sexual_violence": 554,
+      "rape": 127,
+      "robbery": 1666,
+      "burglary": 10161,
+      "theft": 32727,
+      "motor_vehicle_theft": 3192,
+      "drug_offences": 4738,
+      "fraud": 3605,
+      "corruption": 223,
+      "bribery": 132,
+      "money_laundering": 31,
+      "cybercrime": 58
+    },
+    {
+      "year": 2017,
+      "intentional_homicide": 95,
+      "attempted_homicide": 31,
+      "serious_assault": 2811,
+      "kidnapping": 102,
+      "sexual_violence": 653,
+      "rape": 142,
+      "robbery": 1558,
+      "burglary": 8847,
+      "theft": 40947,
+      "motor_vehicle_theft": 2356,
+      "drug_offences": 4989,
+      "fraud": 3370,
+      "corruption": 233,
+      "bribery": 139,
+      "money_laundering": 45,
+      "cybercrime": 71
+    },
+    {
+      "year": 2018,
+      "intentional_homicide": 92,
+      "attempted_homicide": 46,
+      "serious_assault": 2518,
+      "kidnapping": 63,
+      "sexual_violence": 575,
+      "rape": 113,
+      "robbery": 1265,
+      "burglary": 7664,
+      "theft": 36922,
+      "motor_vehicle_theft": 2068,
+      "drug_offences": 5536,
+      "fraud": 2850,
+      "corruption": 673,
+      "bribery": 167,
+      "money_laundering": 38,
+      "cybercrime": 58
+    },
+    {
+      "year": 2019,
+      "intentional_homicide": 81,
+      "attempted_homicide": 38,
+      "serious_assault": 2768,
+      "kidnapping": 72,
+      "sexual_violence": 605,
+      "rape": 131,
+      "robbery": 1183,
+      "burglary": 6226,
+      "theft": 33172,
+      "motor_vehicle_theft": 1631,
+      "drug_offences": 5470,
+      "fraud": 2103,
+      "corruption": 585,
+      "bribery": 130,
+      "money_laundering": 31,
+      "cybercrime": 66
+    },
+    {
+      "year": 2020,
+      "intentional_homicide": 67,
+      "attempted_homicide": 32,
+      "serious_assault": 2657,
+      "kidnapping": 81,
+      "sexual_violence": 568,
+      "rape": 109,
+      "robbery": 1002,
+      "burglary": 5344,
+      "theft": 27036,
+      "motor_vehicle_theft": 1754,
+      "drug_offences": 4915,
+      "fraud": 1671,
+      "corruption": 486,
+      "bribery": 118,
+      "money_laundering": 48,
+      "cybercrime": 48
+    },
+    {
+      "year": 2021,
+      "intentional_homicide": 89,
+      "attempted_homicide": 28,
+      "serious_assault": 2758,
+      "kidnapping": 69,
+      "sexual_violence": 547,
+      "rape": 80,
+      "robbery": 840,
+      "burglary": 4134,
+      "theft": 24435,
+      "motor_vehicle_theft": 1344,
+      "drug_offences": 4914,
+      "fraud": 1639,
+      "corruption": 565,
+      "bribery": 101,
+      "money_laundering": 44,
+      "cybercrime": 51
+    },
+    {
+      "year": 2022,
+      "intentional_homicide": 76,
+      "attempted_homicide": 46,
+      "serious_assault": 3131,
+      "kidnapping": 83,
+      "sexual_violence": 567,
+      "rape": 96,
+      "robbery": 902,
+      "burglary": 4340,
+      "theft": 28250,
+      "motor_vehicle_theft": 1504,
+      "drug_offences": 5356,
+      "fraud": 2299,
+      "corruption": 534,
+      "bribery": 105,
+      "money_laundering": 41,
+      "cybercrime": 61
+    },
+    {
+      "year": 2023,
+      "intentional_homicide": 74,
+      "attempted_homicide": 45,
+      "serious_assault": 3856,
+      "kidnapping": 89,
+      "sexual_violence": 624,
+      "rape": 75,
+      "robbery": 899,
+      "burglary": 3337,
+      "theft": 26153,
+      "motor_vehicle_theft": 1316,
+      "drug_offences": 5691,
+      "fraud": 2379,
+      "corruption": 572,
+      "bribery": 98,
+      "money_laundering": 42,
+      "cybercrime": 104
+    },
+    {
+      "year": 2024,
+      "intentional_homicide": 79,
+      "attempted_homicide": 33,
+      "serious_assault": 5300,
+      "kidnapping": 93,
+      "sexual_violence": 606,
+      "rape": 111,
+      "robbery": 913,
+      "burglary": 2970,
+      "theft": 24610,
+      "motor_vehicle_theft": 1185,
+      "drug_offences": 6713,
+      "fraud": 2748,
+      "corruption": 522,
+      "bribery": 78,
+      "money_laundering": 51,
+      "cybercrime": 112
+    }
+  ],
+  "meta": {
+    "title": "Регистрирани от полицията престъпления в България по видове (2016–2024) - Free Download",
+    "description": "Годишен брой регистрирани от полицията престъпления в България по видове според Международната класификация на престъпленията (ICCS): умишлени убийства и опити, тежки телесни повреди, отвличания, сексуално насилие, грабежи, взломни кражби, кражби, кражби на МПС, наркотични престъпления, измами, корупция, подкупи, пране на пари и компютърни престъпления, 2016–2024 г. Източник: Евростат (crim_off_cat). Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Регистрирани от полицията престъпления в България по видове (2016–2024) | ListBase",
+    "seo_description": "Download Регистрирани от полицията престъпления в България по видове (2016–2024) — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 17 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table"
+    ]
+  }
+}

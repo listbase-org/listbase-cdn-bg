@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-26T02:08:11.681Z",
-  "total_datasets": 537,
-  "total_records": 199604,
+  "generated": "2026-11-26T02:08:22.611Z",
+  "total_datasets": 538,
+  "total_records": 199613,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -5988,6 +5988,44 @@
         "xlsx": {
           "name": "bg-predsedateli-vks_BG.xlsx",
           "size": 7747
+        }
+      }
+    },
+    {
+      "id": "bg-registrirani-prestapleniya-po-vidove",
+      "name": "Регистрирани от полицията престъпления в България по видове (2016–2024)",
+      "category": "law",
+      "record_count": 9,
+      "columns": [
+        "year",
+        "intentional_homicide",
+        "attempted_homicide",
+        "serious_assault",
+        "kidnapping",
+        "sexual_violence",
+        "rape",
+        "robbery",
+        "burglary",
+        "theft",
+        "motor_vehicle_theft",
+        "drug_offences",
+        "fraud",
+        "corruption",
+        "bribery",
+        "money_laundering",
+        "cybercrime"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/crim_off_cat/default/table",
+      "updated": "2026-11",
+      "size": 8632,
+      "files": {
+        "csv": {
+          "name": "bg-registrirani-prestapleniya-po-vidove_BG.csv",
+          "size": 1188
+        },
+        "xlsx": {
+          "name": "bg-registrirani-prestapleniya-po-vidove_BG.xlsx",
+          "size": 7820
         }
       }
     },
