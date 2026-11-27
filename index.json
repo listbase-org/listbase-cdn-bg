@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-26T02:08:22.611Z",
-  "total_datasets": 538,
-  "total_records": 199613,
+  "generated": "2026-11-27T02:10:36.898Z",
+  "total_datasets": 539,
+  "total_records": 199633,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -13246,6 +13246,32 @@
         "xlsx": {
           "name": "bg-elektronni-kalkulatori-elka-modeli_BG.xlsx",
           "size": 10102
+        }
+      }
+    },
+    {
+      "id": "bg-izpolzvane-na-internet-po-godini",
+      "name": "Достъп до и използване на интернет в България по години",
+      "category": "tech",
+      "record_count": 20,
+      "columns": [
+        "year",
+        "households_with_internet_pct",
+        "used_internet_last_3_months_pct",
+        "never_used_internet_pct",
+        "daily_internet_users_pct"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ifp_iu/default/table",
+      "updated": "2026-11",
+      "size": 6674,
+      "files": {
+        "csv": {
+          "name": "bg-izpolzvane-na-internet-po-godini_BG.csv",
+          "size": 897
+        },
+        "xlsx": {
+          "name": "bg-izpolzvane-na-internet-po-godini_BG.xlsx",
+          "size": 7454
         }
       }
     },

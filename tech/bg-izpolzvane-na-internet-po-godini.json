@@ -1,0 +1,191 @@
+{
+  "id": "bg-izpolzvane-na-internet-po-godini",
+  "name": "Достъп до и използване на интернет в България по години",
+  "title": "Достъп до и използване на интернет в България по години",
+  "description": "Дял на домакинствата с достъп до интернет и на лицата (16–74 г.), използвали интернет през последните 3 месеца, ежедневно или никога, по години от 2006 г. насам (Евростат).",
+  "category": "tech",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ifp_iu/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ifp_iu/default/table",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "households_with_internet_pct",
+      "label": "Households With Internet Pct",
+      "type": "number"
+    },
+    {
+      "key": "used_internet_last_3_months_pct",
+      "label": "Used Internet Last 3 Months Pct",
+      "type": "number"
+    },
+    {
+      "key": "never_used_internet_pct",
+      "label": "Never Used Internet Pct",
+      "type": "number"
+    },
+    {
+      "key": "daily_internet_users_pct",
+      "label": "Daily Internet Users Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2006,
+      "households_with_internet_pct": 17.01,
+      "used_internet_last_3_months_pct": 24.35,
+      "never_used_internet_pct": 70.65,
+      "daily_internet_users_pct": 14.18
+    },
+    {
+      "year": 2007,
+      "households_with_internet_pct": 18.96,
+      "used_internet_last_3_months_pct": 30.78,
+      "never_used_internet_pct": 64.55,
+      "daily_internet_users_pct": 19.84
+    },
+    {
+      "year": 2008,
+      "households_with_internet_pct": 25.29,
+      "used_internet_last_3_months_pct": 34.86,
+      "never_used_internet_pct": 57.03,
+      "daily_internet_users_pct": 22.94
+    },
+    {
+      "year": 2009,
+      "households_with_internet_pct": 29.6,
+      "used_internet_last_3_months_pct": 41.79,
+      "never_used_internet_pct": 52.93,
+      "daily_internet_users_pct": 30.6
+    },
+    {
+      "year": 2010,
+      "households_with_internet_pct": 33.11,
+      "used_internet_last_3_months_pct": 43.36,
+      "never_used_internet_pct": 51.23,
+      "daily_internet_users_pct": 32.59
+    },
+    {
+      "year": 2011,
+      "households_with_internet_pct": 45,
+      "used_internet_last_3_months_pct": 47.98,
+      "never_used_internet_pct": 45.81,
+      "daily_internet_users_pct": 37.44
+    },
+    {
+      "year": 2012,
+      "households_with_internet_pct": 50.92,
+      "used_internet_last_3_months_pct": 51.9,
+      "never_used_internet_pct": 42.03,
+      "daily_internet_users_pct": 40.38
+    },
+    {
+      "year": 2013,
+      "households_with_internet_pct": 53.71,
+      "used_internet_last_3_months_pct": 53.06,
+      "never_used_internet_pct": 40.59,
+      "daily_internet_users_pct": 42.51
+    },
+    {
+      "year": 2014,
+      "households_with_internet_pct": 56.65,
+      "used_internet_last_3_months_pct": 55.49,
+      "never_used_internet_pct": 37.07,
+      "daily_internet_users_pct": 45.52
+    },
+    {
+      "year": 2015,
+      "households_with_internet_pct": 59.14,
+      "used_internet_last_3_months_pct": 56.66,
+      "never_used_internet_pct": 34.72,
+      "daily_internet_users_pct": 46.48
+    },
+    {
+      "year": 2016,
+      "households_with_internet_pct": 63.54,
+      "used_internet_last_3_months_pct": 59.47,
+      "never_used_internet_pct": 33.32,
+      "daily_internet_users_pct": 48.59
+    },
+    {
+      "year": 2017,
+      "households_with_internet_pct": 67.33,
+      "used_internet_last_3_months_pct": 63.41,
+      "never_used_internet_pct": 30.29,
+      "daily_internet_users_pct": 54.04
+    },
+    {
+      "year": 2018,
+      "households_with_internet_pct": 72.13,
+      "used_internet_last_3_months_pct": 64.78,
+      "never_used_internet_pct": 26.68,
+      "daily_internet_users_pct": 55.31
+    },
+    {
+      "year": 2019,
+      "households_with_internet_pct": 75.07,
+      "used_internet_last_3_months_pct": 67.95,
+      "never_used_internet_pct": 24.49,
+      "daily_internet_users_pct": 59.77
+    },
+    {
+      "year": 2020,
+      "households_with_internet_pct": 78.85,
+      "used_internet_last_3_months_pct": 70.16,
+      "never_used_internet_pct": 20.89,
+      "daily_internet_users_pct": 61.76
+    },
+    {
+      "year": 2021,
+      "households_with_internet_pct": 83.53,
+      "used_internet_last_3_months_pct": 75.27,
+      "never_used_internet_pct": 17.02,
+      "daily_internet_users_pct": 67.42
+    },
+    {
+      "year": 2022,
+      "households_with_internet_pct": 87.31,
+      "used_internet_last_3_months_pct": 79.13,
+      "never_used_internet_pct": 12.76,
+      "daily_internet_users_pct": 74.87
+    },
+    {
+      "year": 2023,
+      "households_with_internet_pct": 88.5,
+      "used_internet_last_3_months_pct": 80.39,
+      "never_used_internet_pct": 11.82,
+      "daily_internet_users_pct": 76.74
+    },
+    {
+      "year": 2024,
+      "households_with_internet_pct": 92.12,
+      "used_internet_last_3_months_pct": 82.44,
+      "never_used_internet_pct": 9.32,
+      "daily_internet_users_pct": 78.79
+    },
+    {
+      "year": 2025,
+      "households_with_internet_pct": 92.82,
+      "used_internet_last_3_months_pct": 86.85,
+      "never_used_internet_pct": 6.99,
+      "daily_internet_users_pct": 82.7
+    }
+  ],
+  "meta": {
+    "title": "Достъп до и използване на интернет в България по години - Free Download",
+    "description": "Дял на домакинствата с достъп до интернет и на лицата (16–74 г.), използвали интернет през последните 3 месеца, ежедневно или никога, по години от 2006 г. насам (Евростат). Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Достъп до и използване на интернет в България по години | ListBase",
+    "seo_description": "Download Достъп до и използване на интернет в България по години — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ifp_iu/default/table"
+    ]
+  }
+}
