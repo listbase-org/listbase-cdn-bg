@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-27T02:10:36.898Z",
-  "total_datasets": 539,
-  "total_records": 199633,
+  "generated": "2026-11-27T02:10:48.709Z",
+  "total_datasets": 540,
+  "total_records": 199670,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -12680,6 +12680,33 @@
         "xlsx": {
           "name": "bg-razhodi-za-nird-po-oblasti-na-naukata_BG.xlsx",
           "size": 7859
+        }
+      }
+    },
+    {
+      "id": "bg-vlechugi-v-balgariya",
+      "name": "Влечуги в България",
+      "category": "science",
+      "record_count": 37,
+      "columns": [
+        "name",
+        "latin_name",
+        "other_names",
+        "family",
+        "family_latin",
+        "group"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Влечуги_в_България",
+      "updated": "2026-11",
+      "size": 11628,
+      "files": {
+        "csv": {
+          "name": "bg-vlechugi-v-balgariya_BG.csv",
+          "size": 5005
+        },
+        "xlsx": {
+          "name": "bg-vlechugi-v-balgariya_BG.xlsx",
+          "size": 8952
         }
       }
     },

@@ -1,0 +1,352 @@
+{
+  "id": "bg-vlechugi-v-balgariya",
+  "name": "Влечуги в България",
+  "title": "Влечуги в България",
+  "description": "Списък на видовете влечуги (змии, гущери и костенурки), срещащи се в България, с латинско наименование, семейство и други народни имена.",
+  "category": "science",
+  "source": "https://bg.wikipedia.org/wiki/Влечуги_в_България",
+  "source_url": "https://bg.wikipedia.org/wiki/Влечуги_в_България",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latin_name",
+      "label": "Latin Name",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "family_latin",
+      "label": "Family Latin",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "Group",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Пясъчна боа",
+      "latin_name": "Eryx jaculus",
+      "other_names": "Змия пясъчница, Турска боа",
+      "family": "Боидни (Лъжекраки)",
+      "family_latin": "Boidae",
+      "group": "Змии"
+    },
+    {
+      "name": "Смок стрелец",
+      "latin_name": "Coluber caspius",
+      "other_names": "Синурник",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Стрелушка",
+      "latin_name": "Coluber najadum",
+      "other_names": "Тънък стрелец, Тънък смок, Синьопетнист смок",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Черноврата стрелушка",
+      "latin_name": "Coluber rubriceps",
+      "other_names": "",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Медянка",
+      "latin_name": "Coronella austriaca",
+      "other_names": "",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Смок мишкар",
+      "latin_name": "Elaphe longissima",
+      "other_names": "",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Ивичест смок",
+      "latin_name": "Elaphe quatuorlineata",
+      "other_names": "",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Пъстър смок",
+      "latin_name": "Elaphe sauromates",
+      "other_names": "",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Вдлъбнаточел смок",
+      "latin_name": "Malpolon insignitus",
+      "other_names": "",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Жълтоуха водна змия",
+      "latin_name": "Natrix natrix",
+      "other_names": "Обикновена водна змия",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Сива водна змия",
+      "latin_name": "Natrix tessellata",
+      "other_names": "Дългоглава водна змия",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Котешка змия",
+      "latin_name": "Telescopus fallax",
+      "other_names": "",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Леопардов смок",
+      "latin_name": "Zamenis situla",
+      "other_names": "",
+      "family": "Смокообразни (Смокове)",
+      "family_latin": "Colubridae",
+      "group": "Змии"
+    },
+    {
+      "name": "Змия червейница",
+      "latin_name": "Typhlops vermicularis",
+      "other_names": "",
+      "family": "Червейници",
+      "family_latin": "Typhlopidae",
+      "group": "Змии"
+    },
+    {
+      "name": "Пепелянка",
+      "latin_name": "Vipera ammodytes",
+      "other_names": "",
+      "family": "Отровници",
+      "family_latin": "Viperidae",
+      "group": "Змии"
+    },
+    {
+      "name": "Аспида",
+      "latin_name": "Vipera aspis",
+      "other_names": "Каменарка",
+      "family": "Отровници",
+      "family_latin": "Viperidae",
+      "group": "Змии"
+    },
+    {
+      "name": "Усойница",
+      "latin_name": "Vipera berus",
+      "other_names": "",
+      "family": "Отровници",
+      "family_latin": "Viperidae",
+      "group": "Змии"
+    },
+    {
+      "name": "Степна усойница",
+      "latin_name": "Vipera ursinii",
+      "other_names": "Остромуцунеста усойница, Урсиниева усойница",
+      "family": "Отровници",
+      "family_latin": "Viperidae",
+      "group": "Змии"
+    },
+    {
+      "name": "Слепок",
+      "latin_name": "Anguis fragilis",
+      "other_names": "Крехар",
+      "family": "Слепоци",
+      "family_latin": "Anguidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Змиегущер",
+      "latin_name": "Ophisaurus apodus",
+      "other_names": "Жълтокоремен гущер, Жълтокоремник",
+      "family": "Слепоци",
+      "family_latin": "Anguidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Балкански гекон",
+      "latin_name": "Cyrtopodion kotschyi",
+      "other_names": "Нощен гущер",
+      "family": "Геконови",
+      "family_latin": "Gekkonidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Ливаден гущер",
+      "latin_name": "Lacerta agilis",
+      "other_names": "",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Горски гущер",
+      "latin_name": "Lacerta praticola",
+      "other_names": "",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Ивичест гущер",
+      "latin_name": "Lacerta trilineata",
+      "other_names": "",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Зелен гущер",
+      "latin_name": "Lacerta viridis",
+      "other_names": "",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Живороден гущер",
+      "latin_name": "Lacerta vivipara",
+      "other_names": "Планински гущер",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Змиеок гущер",
+      "latin_name": "Ophisops elegans",
+      "other_names": "",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Македонски гущер",
+      "latin_name": "Podarcis erhardii",
+      "other_names": "",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Стенен гущер",
+      "latin_name": "Podarcis muralis",
+      "other_names": "",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Кримски гущер",
+      "latin_name": "Podarcis taurica",
+      "other_names": "",
+      "family": "Същински гущери (Гущерови, Гущери)",
+      "family_latin": "Lacertidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Късокрак гущер",
+      "latin_name": "Ablepharus kitaibelii",
+      "other_names": "",
+      "family": "Сцинкови",
+      "family_latin": "Scincidae",
+      "group": "Гущери"
+    },
+    {
+      "name": "Карета",
+      "latin_name": "Caretta caretta",
+      "other_names": "",
+      "family": "Морски костенурки",
+      "family_latin": "Cheloniidae",
+      "group": "Костенурки"
+    },
+    {
+      "name": "Зелена морска костенурка",
+      "latin_name": "Chelonia mydas",
+      "other_names": "",
+      "family": "Морски костенурки",
+      "family_latin": "Cheloniidae",
+      "group": "Костенурки"
+    },
+    {
+      "name": "Европейска блатна костенурка",
+      "latin_name": "Emys orbicularis",
+      "other_names": "",
+      "family": "Блатни костенурки",
+      "family_latin": "Emydidae",
+      "group": "Костенурки"
+    },
+    {
+      "name": "Южна блатна костенурка",
+      "latin_name": "Mauremys rivulata",
+      "other_names": "",
+      "family": "Азиатски речни костенурки",
+      "family_latin": "Geoemydae",
+      "group": "Костенурки"
+    },
+    {
+      "name": "Шипобедрена костенурка",
+      "latin_name": "Testudo graeca",
+      "other_names": "",
+      "family": "Сухоземни костенурки",
+      "family_latin": "Testudinidae",
+      "group": "Костенурки"
+    },
+    {
+      "name": "Шипоопашата костенурка",
+      "latin_name": "Testudo hermanni",
+      "other_names": "",
+      "family": "Сухоземни костенурки",
+      "family_latin": "Testudinidae",
+      "group": "Костенурки"
+    }
+  ],
+  "meta": {
+    "title": "Влечуги в България - Free Download",
+    "description": "Списък на видовете влечуги (змии, гущери и костенурки), срещащи се в България, с латинско наименование, семейство и други народни имена. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Влечуги в България | ListBase",
+    "seo_description": "Download Влечуги в България — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Влечуги_в_България"
+    ]
+  }
+}
