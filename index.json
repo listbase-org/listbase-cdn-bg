@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-27T02:10:48.709Z",
-  "total_datasets": 540,
-  "total_records": 199670,
+  "generated": "2026-11-27T02:11:00.468Z",
+  "total_datasets": 541,
+  "total_records": 199720,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -6254,6 +6254,33 @@
         "xlsx": {
           "name": "bg-pesni-lili-ivanova_BG.xlsx",
           "size": 26820
+        }
+      }
+    },
+    {
+      "id": "bg-zlatniyat-orfey-nagradi-za-pesen",
+      "name": "Наградени песни на фестивала „Златният Орфей“",
+      "category": "music",
+      "record_count": 50,
+      "columns": [
+        "award",
+        "year",
+        "song",
+        "music",
+        "lyrics",
+        "performer"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Златният_Орфей",
+      "updated": "2026-11",
+      "size": 17680,
+      "files": {
+        "csv": {
+          "name": "bg-zlatniyat-orfey-nagradi-za-pesen_BG.csv",
+          "size": 9960
+        },
+        "xlsx": {
+          "name": "bg-zlatniyat-orfey-nagradi-za-pesen_BG.xlsx",
+          "size": 9887
         }
       }
     },
