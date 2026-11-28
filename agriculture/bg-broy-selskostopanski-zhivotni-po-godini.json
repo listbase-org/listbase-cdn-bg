@@ -1,0 +1,264 @@
+{
+  "id": "bg-broy-selskostopanski-zhivotni-po-godini",
+  "name": "Брой селскостопански животни в България по години",
+  "title": "Брой селскостопански животни в България по години",
+  "description": "Брой говеда, млечни крави, свине, овце и кози в България към края на годината (ноември–декември), хил. глави, 2000–2025 (Евростат).",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mt_lscatl/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/apro_mt_lscatl/default/table",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "cattle_thousand_heads",
+      "label": "Cattle Thousand Heads",
+      "type": "number"
+    },
+    {
+      "key": "dairy_cows_thousand_heads",
+      "label": "Dairy Cows Thousand Heads",
+      "type": "number"
+    },
+    {
+      "key": "pigs_thousand_heads",
+      "label": "Pigs Thousand Heads",
+      "type": "number"
+    },
+    {
+      "key": "sheep_thousand_heads",
+      "label": "Sheep Thousand Heads",
+      "type": "number"
+    },
+    {
+      "key": "goats_thousand_heads",
+      "label": "Goats Thousand Heads",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2000,
+      "cattle_thousand_heads": 652.2,
+      "dairy_cows_thousand_heads": 362.6,
+      "pigs_thousand_heads": 831.4,
+      "sheep_thousand_heads": 1709.7,
+      "goats_thousand_heads": 740
+    },
+    {
+      "year": 2001,
+      "cattle_thousand_heads": 641.1,
+      "dairy_cows_thousand_heads": 358.6,
+      "pigs_thousand_heads": 788.5,
+      "sheep_thousand_heads": 1571.4,
+      "goats_thousand_heads": 675.3
+    },
+    {
+      "year": 2002,
+      "cattle_thousand_heads": 699,
+      "dairy_cows_thousand_heads": 358.2,
+      "pigs_thousand_heads": 996.5,
+      "sheep_thousand_heads": 1728.4,
+      "goats_thousand_heads": 754.5
+    },
+    {
+      "year": 2003,
+      "cattle_thousand_heads": 736.2,
+      "dairy_cows_thousand_heads": 361.8,
+      "pigs_thousand_heads": 1032.3,
+      "sheep_thousand_heads": 1598.6,
+      "goats_thousand_heads": 725.3
+    },
+    {
+      "year": 2004,
+      "cattle_thousand_heads": 679.55,
+      "dairy_cows_thousand_heads": 368.72,
+      "pigs_thousand_heads": 942.99,
+      "sheep_thousand_heads": 1692.51,
+      "goats_thousand_heads": 718.12
+    },
+    {
+      "year": 2005,
+      "cattle_thousand_heads": 630,
+      "dairy_cows_thousand_heads": 347.75,
+      "pigs_thousand_heads": 932.7,
+      "sheep_thousand_heads": 1602.26,
+      "goats_thousand_heads": 608.43
+    },
+    {
+      "year": 2006,
+      "cattle_thousand_heads": 636.52,
+      "dairy_cows_thousand_heads": 350.14,
+      "pigs_thousand_heads": 1012.66,
+      "sheep_thousand_heads": 1635.41,
+      "goats_thousand_heads": 549.08
+    },
+    {
+      "year": 2007,
+      "cattle_thousand_heads": 611.02,
+      "dairy_cows_thousand_heads": 335.89,
+      "pigs_thousand_heads": 888.61,
+      "sheep_thousand_heads": 1526.39,
+      "goats_thousand_heads": 495.48
+    },
+    {
+      "year": 2008,
+      "cattle_thousand_heads": 574.13,
+      "dairy_cows_thousand_heads": 314.67,
+      "pigs_thousand_heads": 783.69,
+      "sheep_thousand_heads": 1474.85,
+      "goats_thousand_heads": 429.83
+    },
+    {
+      "year": 2009,
+      "cattle_thousand_heads": 547.87,
+      "dairy_cows_thousand_heads": 296.76,
+      "pigs_thousand_heads": 729.8,
+      "sheep_thousand_heads": 1400.25,
+      "goats_thousand_heads": 360.82
+    },
+    {
+      "year": 2010,
+      "cattle_thousand_heads": 553.7,
+      "dairy_cows_thousand_heads": 313.61,
+      "pigs_thousand_heads": 664,
+      "sheep_thousand_heads": 1367.99,
+      "goats_thousand_heads": 356.34
+    },
+    {
+      "year": 2011,
+      "cattle_thousand_heads": 567.53,
+      "dairy_cows_thousand_heads": 313.18,
+      "pigs_thousand_heads": 608.27,
+      "sheep_thousand_heads": 1454.62,
+      "goats_thousand_heads": 341.36
+    },
+    {
+      "year": 2012,
+      "cattle_thousand_heads": 535.32,
+      "dairy_cows_thousand_heads": 294.49,
+      "pigs_thousand_heads": 530.95,
+      "sheep_thousand_heads": 1361.55,
+      "goats_thousand_heads": 293.64
+    },
+    {
+      "year": 2013,
+      "cattle_thousand_heads": 585.55,
+      "dairy_cows_thousand_heads": 313.25,
+      "pigs_thousand_heads": 586.42,
+      "sheep_thousand_heads": 1369.58,
+      "goats_thousand_heads": 289.31
+    },
+    {
+      "year": 2014,
+      "cattle_thousand_heads": 562.36,
+      "dairy_cows_thousand_heads": 301.71,
+      "pigs_thousand_heads": 553.11,
+      "sheep_thousand_heads": 1335.28,
+      "goats_thousand_heads": 292.64
+    },
+    {
+      "year": 2015,
+      "cattle_thousand_heads": 561.04,
+      "dairy_cows_thousand_heads": 282.96,
+      "pigs_thousand_heads": 600.07,
+      "sheep_thousand_heads": 1331.89,
+      "goats_thousand_heads": 276.92
+    },
+    {
+      "year": 2016,
+      "cattle_thousand_heads": 570.14,
+      "dairy_cows_thousand_heads": 278.92,
+      "pigs_thousand_heads": 616.43,
+      "sheep_thousand_heads": 1360.09,
+      "goats_thousand_heads": 237.54
+    },
+    {
+      "year": 2017,
+      "cattle_thousand_heads": 552.92,
+      "dairy_cows_thousand_heads": 260.78,
+      "pigs_thousand_heads": 593.15,
+      "sheep_thousand_heads": 1316.78,
+      "goats_thousand_heads": 256.97
+    },
+    {
+      "year": 2018,
+      "cattle_thousand_heads": 542.12,
+      "dairy_cows_thousand_heads": 244.36,
+      "pigs_thousand_heads": 654.55,
+      "sheep_thousand_heads": 1350.03,
+      "goats_thousand_heads": 271.74
+    },
+    {
+      "year": 2019,
+      "cattle_thousand_heads": 527.19,
+      "dairy_cows_thousand_heads": 226.69,
+      "pigs_thousand_heads": 491.81,
+      "sheep_thousand_heads": 1280.98,
+      "goats_thousand_heads": 228.49
+    },
+    {
+      "year": 2020,
+      "cattle_thousand_heads": 588.91,
+      "dairy_cows_thousand_heads": 241.94,
+      "pigs_thousand_heads": 592.1,
+      "sheep_thousand_heads": 1307.77,
+      "goats_thousand_heads": 253.4
+    },
+    {
+      "year": 2021,
+      "cattle_thousand_heads": 611.2,
+      "dairy_cows_thousand_heads": 230.34,
+      "pigs_thousand_heads": 694.66,
+      "sheep_thousand_heads": 1199.55,
+      "goats_thousand_heads": 215
+    },
+    {
+      "year": 2022,
+      "cattle_thousand_heads": 579.86,
+      "dairy_cows_thousand_heads": 212.84,
+      "pigs_thousand_heads": 601.7,
+      "sheep_thousand_heads": 1096.4,
+      "goats_thousand_heads": 184.02
+    },
+    {
+      "year": 2023,
+      "cattle_thousand_heads": 574.3,
+      "dairy_cows_thousand_heads": 202.41,
+      "pigs_thousand_heads": 724.75,
+      "sheep_thousand_heads": 1072.77,
+      "goats_thousand_heads": 174.95
+    },
+    {
+      "year": 2024,
+      "cattle_thousand_heads": 558.77,
+      "dairy_cows_thousand_heads": 189.59,
+      "pigs_thousand_heads": 700.78,
+      "sheep_thousand_heads": 1016.7,
+      "goats_thousand_heads": 150
+    },
+    {
+      "year": 2025,
+      "cattle_thousand_heads": 563,
+      "dairy_cows_thousand_heads": 184.58,
+      "pigs_thousand_heads": 718.19,
+      "sheep_thousand_heads": 968.85,
+      "goats_thousand_heads": 145.37
+    }
+  ],
+  "meta": {
+    "title": "Брой селскостопански животни в България по години - Free Download",
+    "description": "Брой говеда, млечни крави, свине, овце и кози в България към края на годината (ноември–декември), хил. глави, 2000–2025 (Евростат). Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Брой селскостопански животни в България по години | ListBase",
+    "seo_description": "Download Брой селскостопански животни в България по години — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/apro_mt_lscatl/default/table"
+    ]
+  }
+}

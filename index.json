@@ -1,12 +1,12 @@
 {
   "lang": "bg",
-  "generated": "2026-11-27T02:11:00.468Z",
-  "total_datasets": 541,
-  "total_records": 199720,
+  "generated": "2026-11-28T02:16:24.285Z",
+  "total_datasets": 542,
+  "total_records": 199746,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -125,6 +125,33 @@
         "xlsx": {
           "name": "bg-balgarski-sortove-grozde_BG.xlsx",
           "size": 10094
+        }
+      }
+    },
+    {
+      "id": "bg-broy-selskostopanski-zhivotni-po-godini",
+      "name": "Брой селскостопански животни в България по години",
+      "category": "agriculture",
+      "record_count": 26,
+      "columns": [
+        "year",
+        "cattle_thousand_heads",
+        "dairy_cows_thousand_heads",
+        "pigs_thousand_heads",
+        "sheep_thousand_heads",
+        "goats_thousand_heads"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mt_lscatl/default/table",
+      "updated": "2026-11",
+      "size": 8339,
+      "files": {
+        "csv": {
+          "name": "bg-broy-selskostopanski-zhivotni-po-godini_BG.csv",
+          "size": 1459
+        },
+        "xlsx": {
+          "name": "bg-broy-selskostopanski-zhivotni-po-godini_BG.xlsx",
+          "size": 7902
         }
       }
     },
