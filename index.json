@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-28T02:16:24.285Z",
-  "total_datasets": 542,
-  "total_records": 199746,
+  "generated": "2026-11-28T02:16:39.311Z",
+  "total_datasets": 543,
+  "total_records": 199777,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -13531,6 +13531,30 @@
         "xlsx": {
           "name": "bg-oficialni-i-uchilishchni-praznitsi_BG.xlsx",
           "size": 38164
+        }
+      }
+    },
+    {
+      "id": "bg-podvizhni-tsarkovni-praznitsi-spryamo-velikden",
+      "name": "Подвижни православни църковни празници спрямо Великден",
+      "category": "time",
+      "record_count": 31,
+      "columns": [
+        "feast",
+        "offset_from_easter_days",
+        "date_2026"
+      ],
+      "source": "https://bg.wikipedia.org/wiki/Календар_на_православните_църковни_празници",
+      "updated": "2026-11",
+      "size": 6865,
+      "files": {
+        "csv": {
+          "name": "bg-podvizhni-tsarkovni-praznitsi-spryamo-velikden_BG.csv",
+          "size": 2114
+        },
+        "xlsx": {
+          "name": "bg-podvizhni-tsarkovni-praznitsi-spryamo-velikden_BG.xlsx",
+          "size": 7930
         }
       }
     },

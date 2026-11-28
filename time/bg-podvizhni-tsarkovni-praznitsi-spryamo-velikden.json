@@ -1,0 +1,196 @@
+{
+  "id": "bg-podvizhni-tsarkovni-praznitsi-spryamo-velikden",
+  "name": "Подвижни православни църковни празници спрямо Великден",
+  "title": "Подвижни православни църковни празници спрямо Великден",
+  "description": "Подвижните празници от църковния календар на Българската православна църква с отместването им в дни спрямо Великден и датата им през 2026 г.",
+  "category": "time",
+  "source": "https://bg.wikipedia.org/wiki/Календар_на_православните_църковни_празници",
+  "source_url": "https://bg.wikipedia.org/wiki/Календар_на_православните_църковни_празници",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "feast",
+      "label": "Feast",
+      "type": "string"
+    },
+    {
+      "key": "offset_from_easter_days",
+      "label": "Offset From Easter Days",
+      "type": "number"
+    },
+    {
+      "key": "date_2026",
+      "label": "Date 2026",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "feast": "Неделя на митаря и фарисея",
+      "offset_from_easter_days": -70,
+      "date_2026": "1 февруари"
+    },
+    {
+      "feast": "Неделя на блудния син",
+      "offset_from_easter_days": -63,
+      "date_2026": "8 февруари"
+    },
+    {
+      "feast": "Месопустна задушница",
+      "offset_from_easter_days": -57,
+      "date_2026": "14 февруари"
+    },
+    {
+      "feast": "Месни заговезни",
+      "offset_from_easter_days": -56,
+      "date_2026": "15 февруари"
+    },
+    {
+      "feast": "Сирни заговезни",
+      "offset_from_easter_days": -49,
+      "date_2026": "22 февруари"
+    },
+    {
+      "feast": "Начало на Великия пост",
+      "offset_from_easter_days": -48,
+      "date_2026": "23 февруари"
+    },
+    {
+      "feast": "Тодоровден",
+      "offset_from_easter_days": -43,
+      "date_2026": "28 февруари"
+    },
+    {
+      "feast": "Първа неделя на Великия пост – Православна",
+      "offset_from_easter_days": -42,
+      "date_2026": "1 март"
+    },
+    {
+      "feast": "Втора неделя на Великия пост – на свети Григорий Палама",
+      "offset_from_easter_days": -35,
+      "date_2026": "8 март"
+    },
+    {
+      "feast": "Трета неделя на Великия пост – Кръстопоклонна",
+      "offset_from_easter_days": -28,
+      "date_2026": "15 март"
+    },
+    {
+      "feast": "Четвърта неделя на Великия пост – на свети преподобни Йоан Лествичник",
+      "offset_from_easter_days": -21,
+      "date_2026": "22 март"
+    },
+    {
+      "feast": "Пета неделя на Великия пост – на света преподобна Мария Египетска",
+      "offset_from_easter_days": -14,
+      "date_2026": "29 март"
+    },
+    {
+      "feast": "Лазаровден",
+      "offset_from_easter_days": -8,
+      "date_2026": "4 април"
+    },
+    {
+      "feast": "Цветница",
+      "offset_from_easter_days": -7,
+      "date_2026": "5 април"
+    },
+    {
+      "feast": "Велики понеделник",
+      "offset_from_easter_days": -6,
+      "date_2026": "6 април"
+    },
+    {
+      "feast": "Велики вторник",
+      "offset_from_easter_days": -5,
+      "date_2026": "7 април"
+    },
+    {
+      "feast": "Велика сряда",
+      "offset_from_easter_days": -4,
+      "date_2026": "8 април"
+    },
+    {
+      "feast": "Велики четвъртък",
+      "offset_from_easter_days": -3,
+      "date_2026": "9 април"
+    },
+    {
+      "feast": "Разпети петък",
+      "offset_from_easter_days": -2,
+      "date_2026": "10 април"
+    },
+    {
+      "feast": "Велика събота",
+      "offset_from_easter_days": -1,
+      "date_2026": "11 април"
+    },
+    {
+      "feast": "Великден",
+      "offset_from_easter_days": 0,
+      "date_2026": "12 април"
+    },
+    {
+      "feast": "Живоприемни източник",
+      "offset_from_easter_days": 5,
+      "date_2026": "17 април"
+    },
+    {
+      "feast": "Томина неделя",
+      "offset_from_easter_days": 7,
+      "date_2026": "19 април"
+    },
+    {
+      "feast": "Възнесение Господне",
+      "offset_from_easter_days": 39,
+      "date_2026": "21 май"
+    },
+    {
+      "feast": "Черешова задушница",
+      "offset_from_easter_days": 48,
+      "date_2026": "30 май"
+    },
+    {
+      "feast": "Петдесетница",
+      "offset_from_easter_days": 49,
+      "date_2026": "31 май"
+    },
+    {
+      "feast": "Свети Дух",
+      "offset_from_easter_days": 50,
+      "date_2026": "1 юни"
+    },
+    {
+      "feast": "Петрови заговезни",
+      "offset_from_easter_days": 56,
+      "date_2026": "7 юни"
+    },
+    {
+      "feast": "Начало на Петровия пост",
+      "offset_from_easter_days": 57,
+      "date_2026": "8 юни"
+    },
+    {
+      "feast": "Всички български светии",
+      "offset_from_easter_days": 63,
+      "date_2026": "14 юни"
+    },
+    {
+      "feast": "Архангелова задушница",
+      "offset_from_easter_days": 181,
+      "date_2026": "10 октомври"
+    }
+  ],
+  "meta": {
+    "title": "Подвижни православни църковни празници спрямо Великден - Free Download",
+    "description": "Подвижните празници от църковния календар на Българската православна църква с отместването им в дни спрямо Великден и датата им през 2026 г. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Подвижни православни църковни празници спрямо Великден | ListBase",
+    "seo_description": "Download Подвижни православни църковни празници спрямо Великден — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://bg.wikipedia.org/wiki/Календар_на_православните_църковни_празници"
+    ]
+  }
+}
