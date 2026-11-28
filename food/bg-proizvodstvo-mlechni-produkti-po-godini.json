@@ -1,0 +1,280 @@
+{
+  "id": "bg-proizvodstvo-mlechni-produkti-po-godini",
+  "name": "Производство на мляко и млечни продукти в България по години",
+  "title": "Производство на мляко и млечни продукти в България по години",
+  "description": "Изкупено краве мляко и производство на прясно мляко за пиене, кисело мляко, масло и сирене (общо, от краве, овче и козе мляко) в млекопреработвателните предприятия в България, хил. тона, 2007–2025 (Евростат).",
+  "category": "food",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "raw_cow_milk_delivered_thousand_t",
+      "label": "Raw Cow Milk Delivered Thousand T",
+      "type": "number"
+    },
+    {
+      "key": "drinking_milk_thousand_t",
+      "label": "Drinking Milk Thousand T",
+      "type": "number"
+    },
+    {
+      "key": "yoghurt_acidified_milk_thousand_t",
+      "label": "Yoghurt Acidified Milk Thousand T",
+      "type": "number"
+    },
+    {
+      "key": "butter_thousand_t",
+      "label": "Butter Thousand T",
+      "type": "number"
+    },
+    {
+      "key": "cheese_total_thousand_t",
+      "label": "Cheese Total Thousand T",
+      "type": "number"
+    },
+    {
+      "key": "cheese_cow_milk_thousand_t",
+      "label": "Cheese Cow Milk Thousand T",
+      "type": "number"
+    },
+    {
+      "key": "cheese_ewe_milk_thousand_t",
+      "label": "Cheese Ewe Milk Thousand T",
+      "type": "number"
+    },
+    {
+      "key": "cheese_goat_milk_thousand_t",
+      "label": "Cheese Goat Milk Thousand T",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2007,
+      "raw_cow_milk_delivered_thousand_t": 745.5,
+      "drinking_milk_thousand_t": 28.27,
+      "yoghurt_acidified_milk_thousand_t": 106.37,
+      "butter_thousand_t": 46.83,
+      "cheese_total_thousand_t": 579.39,
+      "cheese_cow_milk_thousand_t": 512.45,
+      "cheese_ewe_milk_thousand_t": 7.51,
+      "cheese_goat_milk_thousand_t": 0.41
+    },
+    {
+      "year": 2008,
+      "raw_cow_milk_delivered_thousand_t": 704.78,
+      "drinking_milk_thousand_t": 34.13,
+      "yoghurt_acidified_milk_thousand_t": 116.77,
+      "butter_thousand_t": 29.8,
+      "cheese_total_thousand_t": 518.04,
+      "cheese_cow_milk_thousand_t": 483.18,
+      "cheese_ewe_milk_thousand_t": 5.35,
+      "cheese_goat_milk_thousand_t": 0.46
+    },
+    {
+      "year": 2009,
+      "raw_cow_milk_delivered_thousand_t": 599.88,
+      "drinking_milk_thousand_t": 38.78,
+      "yoghurt_acidified_milk_thousand_t": 123.65,
+      "butter_thousand_t": 25.76,
+      "cheese_total_thousand_t": 513.04,
+      "cheese_cow_milk_thousand_t": 471.85,
+      "cheese_ewe_milk_thousand_t": 6.8,
+      "cheese_goat_milk_thousand_t": 0.67
+    },
+    {
+      "year": 2010,
+      "raw_cow_milk_delivered_thousand_t": 564.55,
+      "drinking_milk_thousand_t": 33.01,
+      "yoghurt_acidified_milk_thousand_t": 118.81,
+      "butter_thousand_t": 24.46,
+      "cheese_total_thousand_t": 395.78,
+      "cheese_cow_milk_thousand_t": 345.44,
+      "cheese_ewe_milk_thousand_t": 6.49,
+      "cheese_goat_milk_thousand_t": 0.49
+    },
+    {
+      "year": 2011,
+      "raw_cow_milk_delivered_thousand_t": 549.13,
+      "drinking_milk_thousand_t": 34.71,
+      "yoghurt_acidified_milk_thousand_t": 104.25,
+      "butter_thousand_t": 25.51,
+      "cheese_total_thousand_t": 412.51,
+      "cheese_cow_milk_thousand_t": 344.08,
+      "cheese_ewe_milk_thousand_t": 6.31,
+      "cheese_goat_milk_thousand_t": 0.53
+    },
+    {
+      "year": 2012,
+      "raw_cow_milk_delivered_thousand_t": 513.98,
+      "drinking_milk_thousand_t": 41,
+      "yoghurt_acidified_milk_thousand_t": 103.64,
+      "butter_thousand_t": 24.82,
+      "cheese_total_thousand_t": 371.63,
+      "cheese_cow_milk_thousand_t": 335.76,
+      "cheese_ewe_milk_thousand_t": 6.24,
+      "cheese_goat_milk_thousand_t": 0.79
+    },
+    {
+      "year": 2013,
+      "raw_cow_milk_delivered_thousand_t": 510.99,
+      "drinking_milk_thousand_t": 38.27,
+      "yoghurt_acidified_milk_thousand_t": 101.99,
+      "butter_thousand_t": 24.36,
+      "cheese_total_thousand_t": 366.81,
+      "cheese_cow_milk_thousand_t": 332.35,
+      "cheese_ewe_milk_thousand_t": 6.23,
+      "cheese_goat_milk_thousand_t": 0.58
+    },
+    {
+      "year": 2014,
+      "raw_cow_milk_delivered_thousand_t": 494.54,
+      "drinking_milk_thousand_t": 34.48,
+      "yoghurt_acidified_milk_thousand_t": 92.49,
+      "butter_thousand_t": 21.51,
+      "cheese_total_thousand_t": 413.17,
+      "cheese_cow_milk_thousand_t": 355.36,
+      "cheese_ewe_milk_thousand_t": 6.11,
+      "cheese_goat_milk_thousand_t": 0.72
+    },
+    {
+      "year": 2015,
+      "raw_cow_milk_delivered_thousand_t": 488.5,
+      "drinking_milk_thousand_t": 43.04,
+      "yoghurt_acidified_milk_thousand_t": 89.61,
+      "butter_thousand_t": 21.79,
+      "cheese_total_thousand_t": 387.97,
+      "cheese_cow_milk_thousand_t": 356.75,
+      "cheese_ewe_milk_thousand_t": 4.6,
+      "cheese_goat_milk_thousand_t": 0.77
+    },
+    {
+      "year": 2016,
+      "raw_cow_milk_delivered_thousand_t": 524.04,
+      "drinking_milk_thousand_t": 32.75,
+      "yoghurt_acidified_milk_thousand_t": 113.37,
+      "butter_thousand_t": 19.69,
+      "cheese_total_thousand_t": 416.25,
+      "cheese_cow_milk_thousand_t": 388.18,
+      "cheese_ewe_milk_thousand_t": 6.35,
+      "cheese_goat_milk_thousand_t": 0.78
+    },
+    {
+      "year": 2017,
+      "raw_cow_milk_delivered_thousand_t": 578.79,
+      "drinking_milk_thousand_t": 40.82,
+      "yoghurt_acidified_milk_thousand_t": 99.2,
+      "butter_thousand_t": 23.44,
+      "cheese_total_thousand_t": 462.93,
+      "cheese_cow_milk_thousand_t": 374.73,
+      "cheese_ewe_milk_thousand_t": 7.55,
+      "cheese_goat_milk_thousand_t": 0.79
+    },
+    {
+      "year": 2018,
+      "raw_cow_milk_delivered_thousand_t": 643,
+      "drinking_milk_thousand_t": 41.38,
+      "yoghurt_acidified_milk_thousand_t": 103.08,
+      "butter_thousand_t": 23.98,
+      "cheese_total_thousand_t": 554.05,
+      "cheese_cow_milk_thousand_t": 532.42,
+      "cheese_ewe_milk_thousand_t": 6.7,
+      "cheese_goat_milk_thousand_t": 1
+    },
+    {
+      "year": 2019,
+      "raw_cow_milk_delivered_thousand_t": 651.51,
+      "drinking_milk_thousand_t": 37.14,
+      "yoghurt_acidified_milk_thousand_t": 96.18,
+      "butter_thousand_t": 24.19,
+      "cheese_total_thousand_t": 570.61,
+      "cheese_cow_milk_thousand_t": 488.05,
+      "cheese_ewe_milk_thousand_t": 6.59,
+      "cheese_goat_milk_thousand_t": 1.12
+    },
+    {
+      "year": 2020,
+      "raw_cow_milk_delivered_thousand_t": 680.54,
+      "drinking_milk_thousand_t": 42.83,
+      "yoghurt_acidified_milk_thousand_t": 99.22,
+      "butter_thousand_t": 22.72,
+      "cheese_total_thousand_t": 589.2,
+      "cheese_cow_milk_thousand_t": 493.28,
+      "cheese_ewe_milk_thousand_t": 7.21,
+      "cheese_goat_milk_thousand_t": 1.3
+    },
+    {
+      "year": 2021,
+      "raw_cow_milk_delivered_thousand_t": 664.87,
+      "drinking_milk_thousand_t": 49.02,
+      "yoghurt_acidified_milk_thousand_t": 88.54,
+      "butter_thousand_t": 28.39,
+      "cheese_total_thousand_t": 548.86,
+      "cheese_cow_milk_thousand_t": 456.59,
+      "cheese_ewe_milk_thousand_t": 7.27,
+      "cheese_goat_milk_thousand_t": 1.26
+    },
+    {
+      "year": 2022,
+      "raw_cow_milk_delivered_thousand_t": 647.93,
+      "drinking_milk_thousand_t": 43,
+      "yoghurt_acidified_milk_thousand_t": 84.42,
+      "butter_thousand_t": 29.85,
+      "cheese_total_thousand_t": 560.34,
+      "cheese_cow_milk_thousand_t": 470.43,
+      "cheese_ewe_milk_thousand_t": 7.25,
+      "cheese_goat_milk_thousand_t": 1.34
+    },
+    {
+      "year": 2023,
+      "raw_cow_milk_delivered_thousand_t": 652.47,
+      "drinking_milk_thousand_t": 42.88,
+      "yoghurt_acidified_milk_thousand_t": 95.57,
+      "butter_thousand_t": 20.97,
+      "cheese_total_thousand_t": 562.9,
+      "cheese_cow_milk_thousand_t": 499.42,
+      "cheese_ewe_milk_thousand_t": 6.3,
+      "cheese_goat_milk_thousand_t": 1.41
+    },
+    {
+      "year": 2024,
+      "raw_cow_milk_delivered_thousand_t": 634.13,
+      "drinking_milk_thousand_t": 48.98,
+      "yoghurt_acidified_milk_thousand_t": 85.37,
+      "butter_thousand_t": 20.58,
+      "cheese_total_thousand_t": 511.45,
+      "cheese_cow_milk_thousand_t": 463.64,
+      "cheese_ewe_milk_thousand_t": 4.97,
+      "cheese_goat_milk_thousand_t": 1.31
+    },
+    {
+      "year": 2025,
+      "raw_cow_milk_delivered_thousand_t": 640.94,
+      "drinking_milk_thousand_t": 62.48,
+      "yoghurt_acidified_milk_thousand_t": 100.44,
+      "butter_thousand_t": 21.09,
+      "cheese_total_thousand_t": 536.5,
+      "cheese_cow_milk_thousand_t": 504.53,
+      "cheese_ewe_milk_thousand_t": 4.48,
+      "cheese_goat_milk_thousand_t": 1.1
+    }
+  ],
+  "meta": {
+    "title": "Производство на мляко и млечни продукти в България по години - Free Download",
+    "description": "Изкупено краве мляко и производство на прясно мляко за пиене, кисело мляко, масло и сирене (общо, от краве, овче и козе мляко) в млекопреработвателните предприятия в България, хил. тона, 2007–2025 (Евростат). Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Производство на мляко и млечни продукти в България по години | ListBase",
+    "seo_description": "Download Производство на мляко и млечни продукти в България по години — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table"
+    ]
+  }
+}

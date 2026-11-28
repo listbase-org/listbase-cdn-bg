@@ -1,8 +1,8 @@
 {
   "lang": "bg",
-  "generated": "2026-11-28T02:16:39.311Z",
-  "total_datasets": 543,
-  "total_records": 199777,
+  "generated": "2026-11-28T02:16:52.300Z",
+  "total_datasets": 544,
+  "total_records": 199796,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -3087,6 +3087,36 @@
         "xlsx": {
           "name": "bg-potreblenie-hranitelni-produkti-na-litse_BG.xlsx",
           "size": 13754
+        }
+      }
+    },
+    {
+      "id": "bg-proizvodstvo-mlechni-produkti-po-godini",
+      "name": "Производство на мляко и млечни продукти в България по години",
+      "category": "food",
+      "record_count": 19,
+      "columns": [
+        "year",
+        "raw_cow_milk_delivered_thousand_t",
+        "drinking_milk_thousand_t",
+        "yoghurt_acidified_milk_thousand_t",
+        "butter_thousand_t",
+        "cheese_total_thousand_t",
+        "cheese_cow_milk_thousand_t",
+        "cheese_ewe_milk_thousand_t",
+        "cheese_goat_milk_thousand_t"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_mk_pobta/default/table",
+      "updated": "2026-11",
+      "size": 10415,
+      "files": {
+        "csv": {
+          "name": "bg-proizvodstvo-mlechni-produkti-po-godini_BG.csv",
+          "size": 1595
+        },
+        "xlsx": {
+          "name": "bg-proizvodstvo-mlechni-produkti-po-godini_BG.xlsx",
+          "size": 7988
         }
       }
     },
